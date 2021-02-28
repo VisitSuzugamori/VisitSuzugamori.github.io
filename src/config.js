@@ -8,7 +8,7 @@ const config = {
   title: 'VisitSuzugamori 第14旅 ほんとうに都内',
   subtitle: '【14】青梅 奥多摩 鳩の巣 白丸調整池ダム 奥多摩湖 小河内ダム もえぎの湯',
   byline: 'By isnot',
-  footer: 'ざつ旅-That's Journey- (c) 石坂 ケンタ, KADOKAWA, 電撃マオウ / Mapbox',
+  footer: 'ざつ旅-That&#39;s Journey- (c) 石坂 ケンタ, KADOKAWA, 電撃マオウ / Mapbox',
   chapters: [
     {
       id: 'tj14-tokyo-station-akarenga',
