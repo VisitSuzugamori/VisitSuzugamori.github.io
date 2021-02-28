@@ -1,0 +1,2476 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>コミック登場ポイント</name>
+    <Style id="icon-1899-880E4F-labelson">
+      <IconStyle>
+        <color>ff4f0e88</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+    </Style>
+    <Style id="icon-1899-9C27B0-labelson">
+      <IconStyle>
+        <color>ffb0279c</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+    </Style>
+    <Style id="icon-1899-A52714-labelson">
+      <IconStyle>
+        <color>ff1427a5</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+    </Style>
+    <Style id="icon-1899-E65100-labelson">
+      <IconStyle>
+        <color>ff0051e6</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+    </Style>
+    <Placemark>
+      <name>郡山駅</name>
+      <description>1巻P22 第1旅</description>
+      <styleUrl>#icon-1899-A52714-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          140.3884019,37.3985573,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>磐梯熱海駅</name>
+      <description>1巻P23 第1旅</description>
+      <styleUrl>#icon-1899-A52714-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          140.2708687,37.4808961,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>会津若松駅</name>
+      <description>1巻P24 第1旅</description>
+      <styleUrl>#icon-1899-A52714-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          139.9303261,37.5078657,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ラーメン二郎 会津若松駅前店</name>
+      <description>1巻P25 第1旅</description>
+      <styleUrl>#icon-1899-A52714-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          139.9314173,37.5066266,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>子安観音と古峯神社</name>
+      <description>1巻P25 第1旅</description>
+      <styleUrl>#icon-1899-A52714-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          139.9379115,37.5060192,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>小池菓子舗 飯盛山店</name>
+      <description>1巻P26 第1旅</description>
+      <styleUrl>#icon-1899-A52714-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          139.9528276,37.5044771,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>くつろぎ宿 千代滝</name>
+      <description>1巻P30 第1旅</description>
+      <styleUrl>#icon-1899-A52714-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          139.9623918,37.4793359,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>射的場</name>
+      <description>1巻P40 第1旅</description>
+      <styleUrl>#icon-1899-A52714-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          139.9632406,37.4781468,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>会津東山温泉 向瀧</name>
+      <description>1巻P40 第1旅</description>
+      <styleUrl>#icon-1899-A52714-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          139.9610889,37.478055,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>羽黒山神社 神門</name>
+      <description>1巻P41 第1旅</description>
+      <styleUrl>#icon-1899-A52714-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          139.9620807,37.4797004,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>羽黒山湯上神社本殿</name>
+      <description>1巻表紙＆1巻P45 第1旅</description>
+      <styleUrl>#icon-1899-A52714-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          139.9651712,37.4818757,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>会津さざえ堂 (円通寺三匝堂)</name>
+      <description>1巻P51 第1旅</description>
+      <styleUrl>#icon-1899-A52714-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          139.9539697,37.5045319,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>仙台駅</name>
+      <description>1巻P61 第2旅</description>
+      <styleUrl>#icon-1899-A52714-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          140.8824375,38.2601316,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>松島海岸駅</name>
+      <description>1巻P62 第2旅</description>
+      <styleUrl>#icon-1899-A52714-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          141.0588152,38.368053,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>かき松島 こうは「松島海岸駅前本店」１号店</name>
+      <description>1巻P63 第2旅</description>
+      <styleUrl>#icon-1899-A52714-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          141.0593616,38.3685502,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>松島公園</name>
+      <description>1巻P64 第2旅</description>
+      <styleUrl>#icon-1899-A52714-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          141.0611304,38.3661732,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>雄島</name>
+      <description>1巻P64 第2旅</description>
+      <styleUrl>#icon-1899-A52714-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          141.0625297,38.3653495,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>御嶋真珠稲荷大明神</name>
+      <description>1巻P65 第2旅</description>
+      <styleUrl>#icon-1899-A52714-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          141.0622564,38.3654838,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>三陸海鮮料理 たからや食堂</name>
+      <description>1巻P69 第2旅</description>
+      <styleUrl>#icon-1899-A52714-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          141.0595572,38.3685198,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>瑞巌寺</name>
+      <description>1巻P69 第2旅</description>
+      <styleUrl>#icon-1899-A52714-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          141.0603899,38.3718733,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>うな真石田家</name>
+      <description>1巻P76 第2旅</description>
+      <styleUrl>#icon-1899-A52714-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          141.065417,38.3707103,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>松島ホテル和楽</name>
+      <description>1巻P78 第2旅</description>
+      <styleUrl>#icon-1899-A52714-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          141.0685577,38.3768196,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>松島巡り観光船 乗り場(松島觀光遊艇搭船場)</name>
+      <description>1巻P79 第2旅</description>
+      <styleUrl>#icon-1899-A52714-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          141.0628948,38.3689558,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>松島さかな市場</name>
+      <description>1巻P81 第2旅</description>
+      <styleUrl>#icon-1899-A52714-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          141.0651719,38.3719519,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>笹かま販売所</name>
+      <description>1巻P85 第2旅</description>
+      <styleUrl>#icon-1899-A52714-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          141.0588914,38.3683903,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>東京駅</name>
+      <description><![CDATA[1巻P87 第3旅<br>1巻P126 第4旅<br>4巻P93 第14旅<br>4巻P119 第15旅<br>第16旅<br>第17旅]]></description>
+      <styleUrl>#icon-1899-A52714-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          139.7671248,35.6812362,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>黒部宇奈月温泉駅</name>
+      <description>1巻P92 第3旅</description>
+      <styleUrl>#icon-1899-A52714-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          137.4814155,36.8742374,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>吉祥寺</name>
+      <description>1巻P96 第3旅</description>
+      <styleUrl>#icon-1899-A52714-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          137.46587,36.873683,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>魚の駅生地 できたて館 航海灯</name>
+      <description>1巻P100 第3旅</description>
+      <styleUrl>#icon-1899-A52714-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          137.4188529,36.8911258,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>岩瀬家の清水</name>
+      <description>1巻P103 第3旅</description>
+      <styleUrl>#icon-1899-A52714-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          137.4170608,36.8906968,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>新黒部駅</name>
+      <description>1巻P108 第3旅</description>
+      <styleUrl>#icon-1899-A52714-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          137.4809156,36.8731542,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>宇奈月温泉駅</name>
+      <description>1巻P110 第3旅</description>
+      <styleUrl>#icon-1899-A52714-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          137.5836311,36.8157746,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>河鹿（かじか）</name>
+      <description>1巻P111 第3旅</description>
+      <styleUrl>#icon-1899-A52714-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          137.5826756,36.8157762,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ホテル黒部</name>
+      <description>1巻P112 第3旅</description>
+      <styleUrl>#icon-1899-A52714-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          137.5900726,36.8126191,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>宇奈月駅</name>
+      <description>1巻P116 第3旅</description>
+      <styleUrl>#icon-1899-A52714-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          137.5859364,36.8150247,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>やまびこ展望台</name>
+      <description>1巻P117 第3旅</description>
+      <styleUrl>#icon-1899-A52714-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          137.5881562,36.8142871,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>魚の駅生地 とれたて館</name>
+      <description>1巻P119 第3旅</description>
+      <styleUrl>#icon-1899-A52714-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          137.4184784,36.8913149,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>岡山駅</name>
+      <description>1巻P130 第4旅</description>
+      <styleUrl>#icon-1899-A52714-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          133.9177335,34.6661212,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>高松駅</name>
+      <description>1巻P131 第4旅</description>
+      <styleUrl>#icon-1899-A52714-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          134.047056,34.3504507,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>高松築港駅</name>
+      <description>1巻P132 第4旅</description>
+      <styleUrl>#icon-1899-A52714-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          134.049468,34.350757,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>八栗駅</name>
+      <description>1巻P134 第4旅</description>
+      <styleUrl>#icon-1899-A52714-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          134.122008,34.3446375,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>総門跡</name>
+      <description>1巻P134 第4旅</description>
+      <styleUrl>#icon-1899-A52714-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          134.1223194,34.345598,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>うどん本陣 山田家</name>
+      <description>1巻P134 第4旅</description>
+      <styleUrl>#icon-1899-A52714-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          134.1296254,34.3532536,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>八栗ケーブル</name>
+      <description>1巻P142 第4旅</description>
+      <styleUrl>#icon-1899-A52714-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          134.1336543,34.3551328,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>八栗寺</name>
+      <description>1巻P143 第4旅</description>
+      <styleUrl>#icon-1899-A52714-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          134.1398791,34.3599067,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ルピナス</name>
+      <description>1巻P148 第4旅</description>
+      <styleUrl>#icon-1899-A52714-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          134.0469322,34.3497929,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>玉藻公園</name>
+      <description>1巻P150 第4旅</description>
+      <styleUrl>#icon-1899-A52714-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          134.0516188,34.3503157,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>栗林公園</name>
+      <description>1巻P157 第4旅</description>
+      <styleUrl>#icon-1899-A52714-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          134.0445345,34.3293842,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>伏見稲荷大社</name>
+      <description>2巻P3 第5旅</description>
+      <styleUrl>#icon-1899-E65100-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          135.7726717,34.9671402,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>京都駅</name>
+      <description>2巻P6 第5旅</description>
+      <styleUrl>#icon-1899-E65100-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          135.7587667,34.985849,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>藤岡酒造</name>
+      <description>2巻P16 第5旅</description>
+      <styleUrl>#icon-1899-E65100-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          135.7624568,34.9351213,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>月桂冠大倉記念館</name>
+      <description>2巻P17 第5旅</description>
+      <styleUrl>#icon-1899-E65100-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          135.76161,34.929136,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ラー麺・陽はまた昇る 伏見稲荷駅前本店</name>
+      <description>2巻P17 第5旅</description>
+      <styleUrl>#icon-1899-E65100-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          135.768613,34.968596,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>伏見稲荷駅</name>
+      <description>2巻P18 第5旅</description>
+      <styleUrl>#icon-1899-E65100-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          135.7692088,34.9687541,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>宮津駅</name>
+      <description>2巻P21 第5旅</description>
+      <styleUrl>#icon-1899-E65100-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          135.1997513,35.5344188,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>富田屋</name>
+      <description>2巻P22 第5旅</description>
+      <styleUrl>#icon-1899-E65100-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          135.1992613,35.534848,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>茶六本館</name>
+      <description>2巻P22 第5旅</description>
+      <styleUrl>#icon-1899-E65100-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          135.1918306,35.5368405,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>天橋立ビューランド リフト・モノレールのりば</name>
+      <description>2巻P31 第5旅</description>
+      <styleUrl>#icon-1899-E65100-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          135.1839285,35.5557202,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>天橋立ビューランド</name>
+      <description>2巻P32 第5旅</description>
+      <styleUrl>#icon-1899-E65100-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          135.1821171,35.5527779,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>天橋立</name>
+      <description>2巻P35 第5旅</description>
+      <styleUrl>#icon-1899-E65100-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          135.1918204,35.5698022,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>岩見重太郎 仇討ちの場</name>
+      <description>2巻P36 第5旅</description>
+      <styleUrl>#icon-1899-E65100-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          135.1881478,35.5628724,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>丹後國一之宮 元伊勢 籠神社</name>
+      <description>2巻P37 第5旅</description>
+      <styleUrl>#icon-1899-E65100-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          135.1967015,35.5827837,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>天橋立神社</name>
+      <description>2巻P39 第5旅</description>
+      <styleUrl>#icon-1899-E65100-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          135.1879155,35.5634066,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>宇都宮駅</name>
+      <description>2巻P44 第6旅</description>
+      <styleUrl>#icon-1899-E65100-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          139.8984511,36.5590234,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>滝駅</name>
+      <description>2巻P47 第6旅</description>
+      <styleUrl>#icon-1899-E65100-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          140.1381941,36.6485846,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>龍門の滝</name>
+      <description>2巻P49 第6旅</description>
+      <styleUrl>#icon-1899-E65100-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          140.1398144,36.6455986,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>那須烏山市 龍門ふるさと民芸館</name>
+      <description>2巻P50 第6旅</description>
+      <styleUrl>#icon-1899-E65100-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          140.1389247,36.6455502,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>どうくつ酒造（島崎酒造）</name>
+      <description><![CDATA[2巻表紙<br>2巻P52 第6旅]]></description>
+      <styleUrl>#icon-1899-E65100-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          140.1381,36.65687,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>烏山城跡</name>
+      <description>2巻P57 第6旅</description>
+      <styleUrl>#icon-1899-E65100-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          140.1475926,36.6642582,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>(株)島崎酒造</name>
+      <description>2巻P58 第6旅</description>
+      <styleUrl>#icon-1899-E65100-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          140.1536827,36.6557618,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>烏山駅</name>
+      <description>2巻P58 第6旅</description>
+      <styleUrl>#icon-1899-E65100-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          140.1550537,36.650446,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>久穂田烏山駅前旅館</name>
+      <description>2巻P59 第6旅</description>
+      <styleUrl>#icon-1899-E65100-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          140.1539749,36.6509415,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>烏山大橋</name>
+      <description>2巻P60 第6旅</description>
+      <styleUrl>#icon-1899-E65100-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          140.1684645,36.6527173,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>もり食堂</name>
+      <description>2巻P62 第6旅</description>
+      <styleUrl>#icon-1899-E65100-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          140.1852927,36.649359,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>粟島観光案内所</name>
+      <description>2巻P73 第7旅</description>
+      <styleUrl>#icon-1899-E65100-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          139.2549057,38.4674427,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>源左エ門</name>
+      <description>2巻P75 第7旅</description>
+      <styleUrl>#icon-1899-E65100-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          139.2231251,38.4469905,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>矢ヶ鼻展望台</name>
+      <description>2巻P78 第7旅</description>
+      <styleUrl>#icon-1899-E65100-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          139.2239814,38.4374624,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>みやこや食堂</name>
+      <description>2巻P80 第7旅</description>
+      <styleUrl>#icon-1899-E65100-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          139.2530973,38.4650772,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>漁火温泉 おと姫の湯</name>
+      <description>2巻P82 第7旅</description>
+      <styleUrl>#icon-1899-E65100-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          139.2549858,38.4687521,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>白子漁港</name>
+      <description>2巻P96,97 第8旅</description>
+      <styleUrl>#icon-1899-E65100-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          136.592541,34.8308664,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>鈴鹿市漁業協同組合直販所 魚魚鈴(ととりん)</name>
+      <description>2巻P99 第8旅</description>
+      <styleUrl>#icon-1899-E65100-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          136.5919642,34.8277194,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>伊勢市駅</name>
+      <description>2巻P100 第8旅</description>
+      <styleUrl>#icon-1899-E65100-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          136.7097004,34.4910554,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>伊勢菊一</name>
+      <description>2巻P101 第8旅</description>
+      <styleUrl>#icon-1899-E65100-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          136.7079545,34.4892923,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>若松屋 外宮前店</name>
+      <description>2巻P102 第8旅</description>
+      <styleUrl>#icon-1899-E65100-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          136.7070889,34.4885003,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>伊勢神宮 外宮</name>
+      <description>2巻P106 第8旅</description>
+      <styleUrl>#icon-1899-E65100-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          136.7029233,34.4871537,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>伊勢神宮</name>
+      <description>2巻P108 第8旅</description>
+      <styleUrl>#icon-1899-E65100-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          136.725793,34.45501,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>赤福 内宮前支店</name>
+      <description>2巻P109 第8旅</description>
+      <styleUrl>#icon-1899-E65100-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          136.7230903,34.4595551,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>鳥羽駅</name>
+      <description>2巻P111 第8旅</description>
+      <styleUrl>#icon-1899-E65100-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          136.8431256,34.4867665,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>赤福 鳥羽支店</name>
+      <description>2巻P111 第8旅</description>
+      <styleUrl>#icon-1899-E65100-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          136.8444576,34.4853698,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>海月</name>
+      <description>2巻P111 第8旅</description>
+      <styleUrl>#icon-1899-E65100-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          136.8439619,34.4847431,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>二見浦駅</name>
+      <description>2巻P121 第8旅</description>
+      <styleUrl>#icon-1899-E65100-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          136.7770851,34.5039814,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>夫婦岩</name>
+      <description>2巻P121 第8旅</description>
+      <styleUrl>#icon-1899-E65100-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          136.7883283,34.5092993,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>（株）赤福 二見支店</name>
+      <description>2巻P124 第8旅</description>
+      <styleUrl>#icon-1899-E65100-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          136.7777824,34.5073078,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>豐川茜稻荷神社（茜社）</name>
+      <description>2巻P127 第8旅</description>
+      <styleUrl>#icon-1899-E65100-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          136.7073159,34.4862757,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>東京ドームホテル</name>
+      <description>2巻P132 第9旅（前編）</description>
+      <styleUrl>#icon-1899-E65100-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          139.7533928,35.7036666,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>海老名SA (下り)</name>
+      <description>2巻P141 第9旅（前編）</description>
+      <styleUrl>#icon-1899-E65100-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          139.4010198,35.4310702,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>広島テレビ放送</name>
+      <description>2巻P145 第9旅（前編）</description>
+      <styleUrl>#icon-1899-E65100-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          132.4758202,34.3999238,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>広島駅</name>
+      <description>2巻P146 第9旅（前編）</description>
+      <styleUrl>#icon-1899-E65100-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          132.4753786,34.397667,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>宮島口駅</name>
+      <description>2巻P147 第9旅（前編）</description>
+      <styleUrl>#icon-1899-E65100-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          132.3029311,34.3120172,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>あなごめし うえの 宮島口本店</name>
+      <description>2巻P148 第9旅（前編）</description>
+      <styleUrl>#icon-1899-E65100-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          132.3035106,34.311502,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>宮島桟橋</name>
+      <description>2巻P151 第9旅（前編）</description>
+      <styleUrl>#icon-1899-E65100-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          132.3222151,34.3020862,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>嚴島神社 大鳥居（布の中）</name>
+      <description>2巻P152,153 第9旅（前編）</description>
+      <styleUrl>#icon-1899-E65100-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          132.3181276,34.2973092,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>嚴島神社</name>
+      <description>3巻P5 第9旅（後編）</description>
+      <styleUrl>#icon-1899-880E4F-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          132.3198262,34.2959885,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>大聖院</name>
+      <description>3巻P8 第9旅（後編）</description>
+      <styleUrl>#icon-1899-880E4F-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          132.3184736,34.2920477,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>もみじ堂本店</name>
+      <description>3巻P10 第9旅（後編）</description>
+      <styleUrl>#icon-1899-880E4F-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          132.320873,34.2977872,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>呉駅</name>
+      <description>3巻P11 第9旅（後編）</description>
+      <styleUrl>#icon-1899-880E4F-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          132.5575846,34.2446471,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>コンフォートホテル呉</name>
+      <description>3巻P12 第9旅（後編）</description>
+      <styleUrl>#icon-1899-880E4F-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          132.5586395,34.2431335,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>呉湾艦船めぐり</name>
+      <description>3巻P14 第9旅（後編）</description>
+      <styleUrl>#icon-1899-880E4F-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          132.5564318,34.2405577,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>大和ミュージアム（呉市海事歴史科学館）</name>
+      <description>3巻P15 第9旅（後編）</description>
+      <styleUrl>#icon-1899-880E4F-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          132.5558555,34.2411391,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>日招きの里 呉ハイカラ食堂</name>
+      <description>3巻P15 第9旅（後編）</description>
+      <styleUrl>#icon-1899-880E4F-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          132.5574165,34.2415568,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>尾道駅</name>
+      <description>3巻P19 第9旅（後編）</description>
+      <styleUrl>#icon-1899-880E4F-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          133.193159,34.4048654,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>清浄山光明寺</name>
+      <description>3巻P19 第9旅（後編）</description>
+      <styleUrl>#icon-1899-880E4F-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          133.1978116,34.4081822,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>頂上展望台</name>
+      <description>3巻P21 第9旅（後編）</description>
+      <styleUrl>#icon-1899-880E4F-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          133.1969604,34.4106865,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>尾道ラーメン日乃出食堂</name>
+      <description>3巻P25 第9旅（後編）</description>
+      <styleUrl>#icon-1899-880E4F-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          133.1960287,34.4058259,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>鼓岩（付近）</name>
+      <description>3巻P29 第9旅（後編）</description>
+      <styleUrl>#icon-1899-880E4F-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          133.1976363,34.4097831,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>八甲田ロープウェイ 山頂公園駅</name>
+      <description>3巻P31 第10旅</description>
+      <styleUrl>#icon-1899-880E4F-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          140.8588135,40.6758222,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>萱野茶屋</name>
+      <description>3巻P32 第10旅</description>
+      <styleUrl>#icon-1899-880E4F-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          140.8223047,40.7057577,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>八甲田 山頂公園</name>
+      <description>3巻P34 第10旅</description>
+      <styleUrl>#icon-1899-880E4F-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          140.8592116,40.6757743,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>谷地温泉</name>
+      <description>3巻P38 第10旅</description>
+      <styleUrl>#icon-1899-880E4F-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          140.9245271,40.6330178,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>下北駅</name>
+      <description>3巻P47 第10旅</description>
+      <styleUrl>#icon-1899-880E4F-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          141.1899038,41.2827427,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>三途の川</name>
+      <description>3巻P49 第10旅</description>
+      <styleUrl>#icon-1899-880E4F-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          141.0962272,41.3260657,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>恐山菩提寺</name>
+      <description>3巻P49 第10旅</description>
+      <styleUrl>#icon-1899-880E4F-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          141.0907618,41.327247,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>宇曽利山湖 極楽浜</name>
+      <description>3巻P51 第10旅</description>
+      <styleUrl>#icon-1899-880E4F-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          141.086011,41.3264966,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>恐山 花染の湯</name>
+      <description>3巻P52 第10旅</description>
+      <styleUrl>#icon-1899-880E4F-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          141.0917047,41.3283697,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>恐山冷水</name>
+      <description>3巻P55 第10旅</description>
+      <styleUrl>#icon-1899-880E4F-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          141.1264919,41.3145659,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>串本駅</name>
+      <description>3巻P57 第11旅</description>
+      <styleUrl>#icon-1899-880E4F-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          135.7816031,33.4755266,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>この辺歩いてるよ</name>
+      <description>3巻P60 第11旅</description>
+      <styleUrl>#icon-1899-880E4F-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          135.7718515,33.4580493,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>この辺まで来たよ</name>
+      <description>3巻P61 第11旅</description>
+      <styleUrl>#icon-1899-880E4F-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          135.754685,33.4378491,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>潮岬灯台</name>
+      <description>3巻P62 第11旅</description>
+      <styleUrl>#icon-1899-880E4F-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          135.7544642,33.4375625,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>本州最南端の碑</name>
+      <description>3巻P64 第11旅</description>
+      <styleUrl>#icon-1899-880E4F-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          135.7621203,33.4362401,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ビジネスホテル串本 駅前店</name>
+      <description>3巻P67 第11旅</description>
+      <styleUrl>#icon-1899-880E4F-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          135.782048,33.474975,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ビーフショップまるみ支店</name>
+      <description>3巻P69 第11旅</description>
+      <styleUrl>#icon-1899-880E4F-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          135.7805652,33.4701756,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>潮岬観光タワー</name>
+      <description>3巻P71 第11旅</description>
+      <styleUrl>#icon-1899-880E4F-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          135.7613677,33.437806,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>新宮駅</name>
+      <description>3巻P80 第11旅</description>
+      <styleUrl>#icon-1899-880E4F-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          135.9941471,33.7251509,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>新宮市観光協会 shingu tourist information centre</name>
+      <description>3巻P81 第11旅</description>
+      <styleUrl>#icon-1899-880E4F-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          135.9946972,33.7254244,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>くまのこ食堂</name>
+      <description>3巻P81 第11旅</description>
+      <styleUrl>#icon-1899-880E4F-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          135.7723926,33.834421,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>熊野本宮大社</name>
+      <description>3巻P82 第11旅</description>
+      <styleUrl>#icon-1899-880E4F-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          135.7734753,33.8405706,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>料理 萬口</name>
+      <description>3巻P85 第11旅</description>
+      <styleUrl>#icon-1899-880E4F-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          135.7817317,33.4745935,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>新花巻駅</name>
+      <description>3巻P87 第12旅</description>
+      <styleUrl>#icon-1899-880E4F-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          141.173865,39.4064505,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>今この辺をぶらついているよ！</name>
+      <description>3巻P90 第12旅</description>
+      <styleUrl>#icon-1899-880E4F-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          141.1728086,39.4058926,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>宮沢賢治記念館</name>
+      <description>3巻P91 第12旅</description>
+      <styleUrl>#icon-1899-880E4F-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          141.1626699,39.3992073,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>山猫軒</name>
+      <description>3巻P92 第12旅</description>
+      <styleUrl>#icon-1899-880E4F-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          141.1645876,39.3994579,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>胡四王神社</name>
+      <description>3巻P93 第12旅</description>
+      <styleUrl>#icon-1899-880E4F-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          141.16102,39.401598,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>案山子</name>
+      <description>3巻P98 第12旅</description>
+      <styleUrl>#icon-1899-880E4F-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          141.1414058,39.4120457,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>マルカン百貨店</name>
+      <description>3巻P101 第12旅</description>
+      <styleUrl>#icon-1899-880E4F-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          141.1171042,39.3858944,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>マルカンビル大食堂</name>
+      <description>3巻P101 第12旅</description>
+      <styleUrl>#icon-1899-880E4F-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          141.11711,39.385832,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>大沢温泉 湯治屋</name>
+      <description>3巻P103 第12旅</description>
+      <styleUrl>#icon-1899-880E4F-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          141.0159616,39.4365493,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>渡り温泉 ホテルさつき・別邸楓</name>
+      <description>3巻P112 第12旅</description>
+      <styleUrl>#icon-1899-880E4F-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          141.0151992,39.4256925,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>鼬幣稲荷神社</name>
+      <description>3巻P113 第12旅</description>
+      <styleUrl>#icon-1899-880E4F-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          141.1039005,39.3830099,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>元祖満州にらラーメンさかえや 本店</name>
+      <description>3巻P113 第12旅</description>
+      <styleUrl>#icon-1899-880E4F-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          141.1091309,39.3567924,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>村崎野駅</name>
+      <description>3巻P117 第12旅</description>
+      <styleUrl>#icon-1899-880E4F-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          141.1204021,39.3226107,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>中尊寺</name>
+      <description>3巻P118 第12旅</description>
+      <styleUrl>#icon-1899-880E4F-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          141.102596,39.0017355,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>材木町公園</name>
+      <description>3巻P121 第12旅</description>
+      <styleUrl>#icon-1899-880E4F-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          141.1091143,39.3894289,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>出雲市駅</name>
+      <description>3巻P130 第13旅</description>
+      <styleUrl>#icon-1899-880E4F-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          132.7567006,35.3608386,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>大社線鉄橋跡</name>
+      <description>3巻P132 第13旅</description>
+      <styleUrl>#icon-1899-880E4F-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          132.7230856,35.3603649,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>JR大社線出雲高松駅跡</name>
+      <description>3巻P133 第13旅</description>
+      <styleUrl>#icon-1899-880E4F-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          132.7189482,35.3610785,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>旧大社駅舎</name>
+      <description><![CDATA[3巻表紙<br>3巻P134 第13旅]]></description>
+      <styleUrl>#icon-1899-880E4F-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          132.690256,35.3866419,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>出雲大社 大鳥居</name>
+      <description>3巻P137 第13旅</description>
+      <styleUrl>#icon-1899-880E4F-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          132.6872784,35.391579,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>俵屋菓舗 神門店</name>
+      <description>3巻P137 第13旅</description>
+      <styleUrl>#icon-1899-880E4F-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          132.6867573,35.3952169,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>出雲日本海 出雲大社正門前店</name>
+      <description>3巻P137 第13旅</description>
+      <styleUrl>#icon-1899-880E4F-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          132.6863131,35.3962535,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>出雲大社 勢溜の大鳥居</name>
+      <description>3巻P139 第13旅</description>
+      <styleUrl>#icon-1899-880E4F-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          132.6863743,35.3967051,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>うさぎ！</name>
+      <description>3巻P139 第13旅</description>
+      <styleUrl>#icon-1899-880E4F-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          132.6852047,35.3994106,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>出雲大社 拝殿</name>
+      <description>3巻P140 第13旅</description>
+      <styleUrl>#icon-1899-880E4F-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          132.6855211,35.4012055,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>出雲大社 西十九社</name>
+      <description>3巻P141 第13旅</description>
+      <styleUrl>#icon-1899-880E4F-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          132.6848802,35.4014929,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>出雲大社 神楽殿</name>
+      <description>3巻P142 第13旅</description>
+      <styleUrl>#icon-1899-880E4F-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          132.6844634,35.4015453,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>稲佐の浜(弁天島)</name>
+      <description>3巻P143 第13旅</description>
+      <styleUrl>#icon-1899-880E4F-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          132.6719106,35.4003035,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>出雲大社前駅</name>
+      <description>3巻P145 第13旅</description>
+      <styleUrl>#icon-1899-880E4F-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          132.6870732,35.3935224,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>松江しんじ湖温泉駅</name>
+      <description>3巻P146 第13旅</description>
+      <styleUrl>#icon-1899-880E4F-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          133.0460423,35.4673633,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ホテル一畑</name>
+      <description>3巻P146 第13旅</description>
+      <styleUrl>#icon-1899-880E4F-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          133.0453378,35.4661714,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>松江城</name>
+      <description>3巻P150 第13旅</description>
+      <styleUrl>#icon-1899-880E4F-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          133.0506783,35.4751335,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>北上駅</name>
+      <description>3巻番外編</description>
+      <styleUrl>#icon-1899-880E4F-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          141.1226122,39.2822007,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>青石畳通り</name>
+      <description>4巻P5,20 第13旅（後編）</description>
+      <styleUrl>#icon-1899-9C27B0-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          133.3076796,35.5625098,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>総合体育館前（バス）</name>
+      <description>4巻P9 第13旅（後編）</description>
+      <styleUrl>#icon-1899-9C27B0-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          133.0660854,35.4731536,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>美保関バスターミナル</name>
+      <description>4巻P11 第13旅（後編）</description>
+      <styleUrl>#icon-1899-9C27B0-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          133.164644,35.534707,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>美保関漁港</name>
+      <description>4巻P12,13 第13旅（後編）</description>
+      <styleUrl>#icon-1899-9C27B0-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          133.3109506,35.5603343,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>廻船御用水</name>
+      <description>4巻P13 第13旅（後編）</description>
+      <styleUrl>#icon-1899-9C27B0-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          133.3074953,35.5623016,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>美保神社</name>
+      <description>4巻P14 第13旅（後編）</description>
+      <styleUrl>#icon-1899-9C27B0-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          133.3062224,35.5623182,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>美保関灯台</name>
+      <description>4巻P28 第13旅（後編）</description>
+      <styleUrl>#icon-1899-9C27B0-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          133.3254458,35.5672984,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>沖之御前地之御前遥拝所</name>
+      <description>4巻P32 第13旅（後編）</description>
+      <styleUrl>#icon-1899-9C27B0-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          133.325638,35.567285,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>美保関灯台ビュッフェ</name>
+      <description>4巻P33 第13旅（後編）</description>
+      <styleUrl>#icon-1899-9C27B0-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          133.3250483,35.5672491,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>恵美須社</name>
+      <description>4巻P37 第13旅（後編）</description>
+      <styleUrl>#icon-1899-9C27B0-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          133.3198608,35.5642081,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>立川駅</name>
+      <description>4巻P96 第14旅</description>
+      <styleUrl>#icon-1899-9C27B0-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          139.4137408,35.6979144,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>青梅駅</name>
+      <description>4巻P97 第14旅</description>
+      <styleUrl>#icon-1899-9C27B0-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          139.2582996,35.7904967,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>鳩ノ巣駅</name>
+      <description>4巻P98 第14旅</description>
+      <styleUrl>#icon-1899-9C27B0-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          139.128745,35.8149406,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>白丸調整池ダム</name>
+      <description>4巻P100 第14旅</description>
+      <styleUrl>#icon-1899-9C27B0-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          139.1239406,35.8110763,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>数馬隧道</name>
+      <description>4巻P101 第14旅</description>
+      <styleUrl>#icon-1899-9C27B0-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          139.1138905,35.8085032,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>奥多摩温泉 もえぎの湯</name>
+      <description>4巻P102 第14旅</description>
+      <styleUrl>#icon-1899-9C27B0-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          139.102613,35.8046162,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>もえぎ橋</name>
+      <description>4巻P105 第14旅</description>
+      <styleUrl>#icon-1899-9C27B0-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          139.1011388,35.8057723,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>山城屋 奥多摩わさび本舗</name>
+      <description>4巻P105 第14旅</description>
+      <styleUrl>#icon-1899-9C27B0-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          139.099594,35.806077,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>愛宕神社階段</name>
+      <description>4巻P107 第14旅</description>
+      <styleUrl>#icon-1899-9C27B0-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          139.0974752,35.8048366,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>奥多摩駅</name>
+      <description>4巻P109 第14旅</description>
+      <styleUrl>#icon-1899-9C27B0-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          139.0969289,35.8093737,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>奥多摩湖</name>
+      <description><![CDATA[4巻P110 第14旅<br>電撃マオウ2020年11月号表紙]]></description>
+      <styleUrl>#icon-1899-9C27B0-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          139.0470929,35.7894856,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>小河内ダム</name>
+      <description>4巻P110 第14旅</description>
+      <styleUrl>#icon-1899-9C27B0-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          139.0520349,35.7894921,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>数馬の切通し</name>
+      <description>4巻P117 第14旅</description>
+      <styleUrl>#icon-1899-9C27B0-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          139.1135257,35.808468,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>アーバンゲートブリッジ</name>
+      <description>4巻P121 第15旅</description>
+      <styleUrl>#icon-1899-9C27B0-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          139.7911163,35.6548755,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>勝鬨橋</name>
+      <description><![CDATA[4巻表紙<br>4巻P121 第15旅]]></description>
+      <styleUrl>#icon-1899-9C27B0-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          139.7748531,35.6624034,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>京橋第一生命ビルディング</name>
+      <description>4巻P122 第15旅</description>
+      <styleUrl>#icon-1899-9C27B0-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          139.7696552,35.6767189,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>小原鐵五郎寿像</name>
+      <description>4巻P122 第15旅</description>
+      <styleUrl>#icon-1899-9C27B0-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          139.7711133,35.675434,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>築地本願寺</name>
+      <description>4巻P122 第15旅</description>
+      <styleUrl>#icon-1899-9C27B0-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          139.7722836,35.6664862,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>中央大橋</name>
+      <description>4巻P125 第15旅</description>
+      <styleUrl>#icon-1899-9C27B0-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          139.7843753,35.6717944,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>月島西仲通り商店街</name>
+      <description>4巻P126 第15旅</description>
+      <styleUrl>#icon-1899-9C27B0-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          139.7787896,35.6616846,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>月島もんじゃ振興会協同組合</name>
+      <description>4巻P126 第15旅</description>
+      <styleUrl>#icon-1899-9C27B0-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          139.7833646,35.6647554,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>月島警察署 西仲通地域安全センター</name>
+      <description>4巻P127 第15旅</description>
+      <styleUrl>#icon-1899-9C27B0-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          139.7813477,35.6635775,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>晴海橋梁</name>
+      <description>4巻P128 第15旅</description>
+      <styleUrl>#icon-1899-9C27B0-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          139.7893269,35.6584597,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>豊洲公園</name>
+      <description>4巻P129 第15旅</description>
+      <styleUrl>#icon-1899-9C27B0-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          139.793127,35.6533777,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>江戸前場下町</name>
+      <description>4巻P130 第15旅</description>
+      <styleUrl>#icon-1899-9C27B0-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          139.7862005,35.6454136,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>鈴富</name>
+      <description>4巻P130 第15旅</description>
+      <styleUrl>#icon-1899-9C27B0-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          139.7862508,35.6456235,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>福せん</name>
+      <description>4巻P132 第15旅</description>
+      <styleUrl>#icon-1899-9C27B0-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          139.7815894,35.6451738,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>東京都中央卸売市場 豊洲市場 水産卸売場棟</name>
+      <description>4巻P133 第15旅</description>
+      <styleUrl>#icon-1899-9C27B0-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          139.7818519,35.6419028,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>東京ビッグサイト</name>
+      <description>4巻P134 第15旅</description>
+      <styleUrl>#icon-1899-9C27B0-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          139.7942868,35.6298179,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>国際展示場駅</name>
+      <description>4巻P134 第15旅</description>
+      <styleUrl>#icon-1899-9C27B0-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          139.7916499,35.6344346,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>新木場駅</name>
+      <description>4巻P134 第15旅</description>
+      <styleUrl>#icon-1899-9C27B0-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          139.8266952,35.6459022,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>新木場緑道公園</name>
+      <description>4巻P135 第15旅</description>
+      <styleUrl>#icon-1899-9C27B0-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          139.8405881,35.6405733,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>南極観測船『宗谷』</name>
+      <description>4巻P136 第15旅</description>
+      <styleUrl>#icon-1899-9C27B0-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          139.7738425,35.6191097,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>レインボーブリッジ</name>
+      <description>4巻P138 第15旅</description>
+      <styleUrl>#icon-1899-9C27B0-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          139.7631443,35.6365639,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>青海南ふ頭公園</name>
+      <description>4巻P145 第15旅</description>
+      <styleUrl>#icon-1899-9C27B0-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          139.7756369,35.61607,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>偕楽園・常磐神社前</name>
+      <description>第16旅</description>
+      <styleUrl>#icon-1899-E65100-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          140.4569096,36.3746839,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>水戸駅</name>
+      <description>第16旅</description>
+      <styleUrl>#icon-1899-E65100-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          140.4762789,36.3707326,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>水戸の納豆記念碑</name>
+      <description>第16旅</description>
+      <styleUrl>#icon-1899-E65100-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          140.4758112,36.369809,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>偕楽園</name>
+      <description><![CDATA[第16旅<br>季節を狙って行ってみよう！]]></description>
+      <styleUrl>#icon-1899-E65100-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          140.4521765,36.3726263,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>常陸太田駅</name>
+      <description>第16旅</description>
+      <styleUrl>#icon-1899-E65100-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          140.5279062,36.5315277,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>常陸太田市観光案内センター</name>
+      <description>第16旅</description>
+      <styleUrl>#icon-1899-E65100-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          140.527941,36.5310286,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>木崎坂</name>
+      <description>第16旅</description>
+      <styleUrl>#icon-1899-E65100-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          140.5259073,36.5340318,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>常陸太田市郷土資料館</name>
+      <description>第16旅</description>
+      <styleUrl>#icon-1899-E65100-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          140.5224722,36.5402389,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>東通り商店街</name>
+      <description>第16旅</description>
+      <styleUrl>#icon-1899-E65100-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          140.5231782,36.5407325,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>黒澤輪業</name>
+      <description>第16旅</description>
+      <styleUrl>#icon-1899-E65100-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          140.523689,36.541721,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>若宮八幡宮</name>
+      <description>第16旅</description>
+      <styleUrl>#icon-1899-E65100-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          140.5207,36.542962,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>いづみや本店</name>
+      <description>第16旅</description>
+      <styleUrl>#icon-1899-E65100-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          140.5235532,36.5492822,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>いづみや東バイパス店</name>
+      <description>第16旅</description>
+      <styleUrl>#icon-1899-E65100-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          140.5301508,36.5444717,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>中野屋旅館</name>
+      <description>第16旅</description>
+      <styleUrl>#icon-1899-E65100-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          140.5090026,36.7244529,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>セブン-イレブン 日立下深荻町店</name>
+      <description>第16旅</description>
+      <styleUrl>#icon-1899-E65100-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          140.545687,36.6365535,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>薩都神社中宮</name>
+      <description>第16旅</description>
+      <styleUrl>#icon-1899-E65100-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          140.587316,36.6338743,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>御岩神社</name>
+      <description>第16旅</description>
+      <styleUrl>#icon-1899-E65100-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          140.5855581,36.6360807,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>賀毗禮神宮</name>
+      <description>第16旅</description>
+      <styleUrl>#icon-1899-E65100-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          140.5907626,36.6319654,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>御岩山</name>
+      <description>第16旅</description>
+      <styleUrl>#icon-1899-E65100-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          140.5934666,36.6325788,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>日立駅</name>
+      <description>第16旅</description>
+      <styleUrl>#icon-1899-E65100-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          140.6621017,36.5906849,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>山文魚</name>
+      <description>第16旅</description>
+      <styleUrl>#icon-1899-E65100-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          140.6616108,36.5873526,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>津神社</name>
+      <description>第16旅</description>
+      <styleUrl>#icon-1899-E65100-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          140.6617725,36.5809219,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>小倉駅</name>
+      <description>第17旅</description>
+      <styleUrl>#icon-1899-E65100-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          130.8825758,33.8869679,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>バジェット･レンタカー 小倉駅前店</name>
+      <description>第17旅</description>
+      <styleUrl>#icon-1899-E65100-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          130.884924,33.887012,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>耶馬溪</name>
+      <description>第17旅</description>
+      <styleUrl>#icon-1899-E65100-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          131.1779366,33.4947001,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>青の洞門</name>
+      <description>第17旅</description>
+      <styleUrl>#icon-1899-E65100-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          131.1717971,33.5001247,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>楓乃木</name>
+      <description>第17旅</description>
+      <styleUrl>#icon-1899-E65100-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          131.1647678,33.377945,0
+        </coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>
