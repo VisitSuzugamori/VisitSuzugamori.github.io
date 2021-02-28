@@ -15,13 +15,14 @@ const config = {
       alignment: 'left',
       hidden: false,
       title: '東京駅 丸の内中央改札口 赤煉瓦ドーム',
-      image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Tokyo_Station_2012_09.jpg/640px-Tokyo_Station_2012_09.jpg',
+      image:
+        'https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Tokyo_Station_2012_09.jpg/640px-Tokyo_Station_2012_09.jpg',
       description: '4巻P93 ん〜 久々の 旅だ〜っ！ http://www.tokyostationcity.com/learning/station_building/',
       location: {
         center: [139.76733857670646, 35.68242691678407],
         zoom: 8.5,
         pitch: 60,
-        bearing: 0
+        bearing: 0,
       },
       mapAnimation: 'flyTo',
       rotateAnimation: false,
@@ -38,64 +39,68 @@ const config = {
         //     layer: 'layer-name',
         //     opacity: 0
         // }
-      ]
+      ],
     },
     {
       id: 'tj14-tachikawa-station',
       alignment: 'right',
       hidden: false,
       title: '立川駅 5番線ホーム？',
-      image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/JR_Tachikawa_Station_Platform_7%E3%83%BB8.jpg/640px-JR_Tachikawa_Station_Platform_7%E3%83%BB8.jpg',
+      image:
+        'https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/JR_Tachikawa_Station_Platform_7%E3%83%BB8.jpg/640px-JR_Tachikawa_Station_Platform_7%E3%83%BB8.jpg',
       description: '4巻P96 思ったより遠いっ！ https://www.jreast.co.jp/estation/stations/958.html',
       location: {
         center: [139.41377258216218, 35.69919805437275],
         zoom: 8.5,
         pitch: 60,
-        bearing: -43.2
+        bearing: -43.2,
       },
       mapAnimation: 'flyTo',
       rotateAnimation: false,
       callback: '',
       onChapterEnter: [],
-      onChapterExit: []
+      onChapterExit: [],
     },
     {
       id: 'tj14-oume-station',
       alignment: 'right',
       hidden: false,
       title: '青梅駅 2番線ホーム',
-      image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/JREast-Ome-line-Ome-station-platform.jpg/640px-JREast-Ome-line-Ome-station-platform.jpg',
-      description: '4巻P97 山が見えてきた！ ここで乗り換え https://www.jreast.co.jp/estation/stations/303.html',
+      image:
+        'https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/JREast-Ome-line-Ome-station-platform.jpg/640px-JREast-Ome-line-Ome-station-platform.jpg',
+      description:
+        '4巻P97 山が見えてきた！ ここで乗り換え https://www.jreast.co.jp/estation/stations/303.html',
       location: {
         center: [139.2585289882575, 35.7924280100388],
         zoom: 8.5,
         pitch: 60,
-        bearing: -43.2
+        bearing: -43.2,
       },
       mapAnimation: 'flyTo',
       rotateAnimation: false,
       callback: '',
       onChapterEnter: [],
-      onChapterExit: []
+      onChapterExit: [],
     },
     {
       id: 'tj14-hatonosu-station',
       alignment: 'right',
       hidden: false,
       title: '鳩ノ巣駅',
-      image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Hatonosu_Station.jpg/640px-Hatonosu_Station.jpg',
+      image:
+        'https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Hatonosu_Station.jpg/640px-Hatonosu_Station.jpg',
       description: '4巻P98 ん〜 降りて正解っ https://www.jreast.co.jp/estation/stations/1237.html',
       location: {
         center: [139.12910364231746, 35.81635174381542],
         zoom: 8.5,
         pitch: 60,
-        bearing: -43.2
+        bearing: -43.2,
       },
       mapAnimation: 'flyTo',
       rotateAnimation: false,
       callback: '',
       onChapterEnter: [],
-      onChapterExit: []
+      onChapterExit: [],
     },
     {
       id: 'tj14-hatonosu-tunnel',
@@ -108,32 +113,33 @@ const config = {
         center: [139.127918, 35.814444],
         zoom: 8.5,
         pitch: 60,
-        bearing: -43.2
+        bearing: -43.2,
       },
       mapAnimation: 'flyTo',
       rotateAnimation: false,
       callback: '',
       onChapterEnter: [],
-      onChapterExit: []
+      onChapterExit: [],
     },
     {
       id: 'tj14-shiromaru-dam',
       alignment: 'right',
       hidden: false,
       title: '白丸調整池ダム',
-      image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Shiromaru_Dam_and_lake.jpg/640px-Shiromaru_Dam_and_lake.jpg',
+      image:
+        'https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Shiromaru_Dam_and_lake.jpg/640px-Shiromaru_Dam_and_lake.jpg',
       description: '4巻P100 ',
       location: {
         center: [139.12404160800034, 35.811274917674254],
         zoom: 8.5,
         pitch: 60,
-        bearing: -43.2
+        bearing: -43.2,
       },
       mapAnimation: 'flyTo',
       rotateAnimation: false,
       callback: '',
       onChapterEnter: [],
-      onChapterExit: []
+      onChapterExit: [],
     },
     {
       id: 'tj14-kazuma-tunnel',
@@ -146,13 +152,13 @@ const config = {
         center: [139.1138905, 35.8085032],
         zoom: 8.5,
         pitch: 60,
-        bearing: -43.2
+        bearing: -43.2,
       },
       mapAnimation: 'flyTo',
       rotateAnimation: false,
       callback: '',
       onChapterEnter: [],
-      onChapterExit: []
+      onChapterExit: [],
     },
     {
       id: 'tj14-umisawa-oohashi',
@@ -165,13 +171,13 @@ const config = {
         center: [139.10847303445985, 35.803369410282215],
         zoom: 8.5,
         pitch: 60,
-        bearing: -43.2
+        bearing: -43.2,
       },
       mapAnimation: 'flyTo',
       rotateAnimation: false,
       callback: '',
       onChapterEnter: [],
-      onChapterExit: []
+      onChapterExit: [],
     },
     {
       id: 'tj14-moegi-no-yu',
@@ -184,13 +190,13 @@ const config = {
         center: [139.102613, 35.8046162],
         zoom: 8.5,
         pitch: 60,
-        bearing: -43.2
+        bearing: -43.2,
       },
       mapAnimation: 'flyTo',
       rotateAnimation: false,
       callback: '',
       onChapterEnter: [],
-      onChapterExit: []
+      onChapterExit: [],
     },
     {
       id: 'tj14-moegi-bashi',
@@ -203,13 +209,13 @@ const config = {
         center: [139.1011388, 35.8057723],
         zoom: 8.5,
         pitch: 60,
-        bearing: -43.2
+        bearing: -43.2,
       },
       mapAnimation: 'flyTo',
       rotateAnimation: false,
       callback: '',
       onChapterEnter: [],
-      onChapterExit: []
+      onChapterExit: [],
     },
     {
       id: 'tj14-yamashiroya',
@@ -222,13 +228,13 @@ const config = {
         center: [139.099594, 35.806077],
         zoom: 8.5,
         pitch: 60,
-        bearing: -43.2
+        bearing: -43.2,
       },
       mapAnimation: 'flyTo',
       rotateAnimation: false,
       callback: '',
       onChapterEnter: [],
-      onChapterExit: []
+      onChapterExit: [],
     },
     {
       id: 'tj14-atago-shrine',
@@ -241,13 +247,13 @@ const config = {
         center: [139.0974752, 35.8048366],
         zoom: 8.5,
         pitch: 60,
-        bearing: -43.2
+        bearing: -43.2,
       },
       mapAnimation: 'flyTo',
       rotateAnimation: false,
       callback: '',
       onChapterEnter: [],
-      onChapterExit: []
+      onChapterExit: [],
     },
     {
       id: 'tj14-okutama-station',
@@ -260,13 +266,13 @@ const config = {
         center: [139.0969289, 35.8093737],
         zoom: 8.5,
         pitch: 60,
-        bearing: -43.2
+        bearing: -43.2,
       },
       mapAnimation: 'flyTo',
       rotateAnimation: false,
       callback: '',
       onChapterEnter: [],
-      onChapterExit: []
+      onChapterExit: [],
     },
     {
       id: 'tj14-lake-okutama',
@@ -279,13 +285,13 @@ const config = {
         center: [139.0470929, 35.7894856],
         zoom: 8.5,
         pitch: 60,
-        bearing: -43.2
+        bearing: -43.2,
       },
       mapAnimation: 'flyTo',
       rotateAnimation: false,
       callback: '',
       onChapterEnter: [],
-      onChapterExit: []
+      onChapterExit: [],
     },
     {
       id: 'tj14-ogouchi-dam',
@@ -298,13 +304,13 @@ const config = {
         center: [139.0520349, 35.7894921],
         zoom: 8.5,
         pitch: 60,
-        bearing: -43.2
+        bearing: -43.2,
       },
       mapAnimation: 'flyTo',
       rotateAnimation: false,
       callback: '',
       onChapterEnter: [],
-      onChapterExit: []
+      onChapterExit: [],
     },
     {
       id: 'tj14-kazuma-path',
@@ -317,13 +323,13 @@ const config = {
         center: [139.1135257, 35.808468],
         zoom: 8.5,
         pitch: 60,
-        bearing: -43.2
+        bearing: -43.2,
       },
       mapAnimation: 'flyTo',
       rotateAnimation: false,
       callback: '',
       onChapterEnter: [],
-      onChapterExit: []
-    }
-  ]
+      onChapterExit: [],
+    },
+  ],
 };
