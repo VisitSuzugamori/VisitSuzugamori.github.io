@@ -255,7 +255,7 @@ const config = {
       hidden: false,
       title: '奥多摩駅',
       // image: './path/to/image/source.png',
-      description: '4巻P109 ',
+      description: '4巻P109 https://www.jreast.co.jp/estation/stations/368.html',
       location: {
         center: [139.0969289, 35.8093737],
         zoom: 8.5,
