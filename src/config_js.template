@@ -10,7 +10,7 @@ const config = {
   byline: '地図作成 isnot',
   footer: 'ざつ旅-That&#39;s Journey- (c) 石坂 ケンタ, KADOKAWA, 電撃マオウ / Mapbox',
   chapters: [
-    {
+###chapter-start###    {
       id: '###book###-###page###-###name###',
       alignment: 'left',
       hidden: false,
@@ -39,6 +39,6 @@ const config = {
         //     opacity: 0
         // }
       ],
-    },
+    },###chapter-end###
   ],
 };
