@@ -1,10 +1,10 @@
 {
   "private": true,
-  "name": "visitsuzugamori",
+  "name": "VisitSuzugamori",
   "version": "1.0.1",
   "description": "ざつ旅-That's Journey- Copyright (c) 石坂 ケンタ, KADOKAWA, 電撃マオウ / ざつ旅マップ ホ​ーリー提督 @Holly_carp_10 / Mapbox",
   "author": "isnot (https://github.com/isnot)",
-  "license": "CC0 1.0 Universal",
+  "license": "CC-BY-4.0",
   "main": "index.js",
   "type": "commonjs",
   "directories": {
@@ -22,18 +22,18 @@
   "bugs": {
     "url": "https://github.com/VisitSuzugamori/VisitSuzugamori/issues"
   },
-  "homepage": "https://github.com/VisitSuzugamori/VisitSuzugamori#readme",
+  "homepage": "https://visitsuzugamori.github.io/VisitSuzugamori/",
   "jest": {
     "verbose": true
   },
   "devDependencies": {
-    "eslint": "^7.20.0",
+    "eslint": "^7.21.0",
     "eslint-config-airbnb-base": "^14.2.1",
     "eslint-config-prettier": "^8.1.0",
     "eslint-plugin-import": "^2.22.1",
-    "eslint-plugin-jest": "^24.1.5",
+    "eslint-plugin-jest": "^24.1.7",
     "eslint-plugin-json": "^2.1.2",
-    "eslint-plugin-no-secrets": "^0.7.9",
+    "eslint-plugin-no-secrets": "^0.8.9",
     "eslint-plugin-node": "^11.1.0",
     "eslint-plugin-prettier": "^3.3.1",
     "jest": "^26.6.3",
