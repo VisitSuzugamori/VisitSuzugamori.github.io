@@ -16,7 +16,7 @@
 <style>
   .hidden { display: none; }
   .fa-question-circle { font-size: 24px; padding-left: 3px; color: #111;}
-  #map { height: 600px; }
+  #map { height: 600px; width: 100vw; }
 </style>
 </head>
 <body>
@@ -53,8 +53,8 @@
     <script src="https://api.mapbox.com/mapbox-gl-js/v2.1.1/mapbox-gl.js"></script>
     <script>
       const home_loc = {
-        center: [139.7454511, 35.6585648],
-        zoom: 8,
+        center: [137.17, 36.05],
+        zoom: 5,
         pitch: 45,
         bearing: 0
       };
@@ -76,14 +76,15 @@
         //   console.log(e);
         // });
         // map.getSource('zatsumap').setData(geojson);
-
-        map.addSource('zatsumap', { type: 'geojson', data: './zatsumap.geojson' });
-        map.addLayer({
+        const image = await map.loadImage('https://docs.mapbox.com/mapbox-gl-js/assets/custom_marker.png');
+        await map.addImage('custom-marker', image);
+        await map.addSource('zatsumap', { type: 'geojson', data: './zatsumap.geojson' });
+        await map.addLayer({
           'id': 'points',
           'type': 'symbol',
           'source': 'zatsumap',
           'layout': {
-            'icon-image': 'marker-15',
+            'icon-image': 'custom-marker',
             'text-field': ['get', 'name'],
             'text-font': [
               'Noto Sans CJK JP',
