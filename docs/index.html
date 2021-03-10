@@ -71,21 +71,29 @@
         localIdeographFontFamily: "'Noto Sans CJK JP', 'Noto Sans', sans-serif"
       });
 
-      // map.on('load', async () => {
-      //   const geojson = await postData('./zatsumap.geojson').catch((e) => {
-      //     console.log(e);
-      //   });
-      //   map.getSource('zatsumap').setData(geojson);
-      // });
+      map.on('load', async () => {
+        // const geojson = await postData('./zatsumap.geojson').catch((e) => {
+        //   console.log(e);
+        // });
+        // map.getSource('zatsumap').setData(geojson);
 
-      map.addSource('zatsumap', { type: 'geojson', data: './zatsumap.geojson' });
-      map.addLayer({
-        'id': 'zatsumap-points',
-        'type': 'symbol',
-        'source': 'zatsumap',
-        'layout': {
-          'icon-image': 'marker-15'
-        }
+        map.addSource('zatsumap', { type: 'geojson', data: './zatsumap.geojson' });
+        map.addLayer({
+          'id': 'points',
+          'type': 'symbol',
+          'source': 'zatsumap',
+          'layout': {
+            'icon-image': 'marker-15',
+            'text-field': ['get', 'name'],
+            'text-font': [
+              'Noto Sans CJK JP',
+              'Noto Sans',
+              'sans-serif'
+            ],
+            'text-offset': [0, 1.25],
+            'text-anchor': 'top'
+          }
+        });
       });
 
       // async function postData(url = '') {
