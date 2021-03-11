@@ -263,8 +263,8 @@ const directions = new MapboxDirections({
   profile: 'mapbox/walking',
   interactive: false,
   controls: {
-    inputs: true,
-    instructions: true,
+    inputs: false,
+    instructions: false,
   },
   language: 'ja',
   flyTo: false,
@@ -273,7 +273,6 @@ const directions = new MapboxDirections({
 map.on('load', () => {
   const chapters_length = config.chapters.length;
   config.chapters.forEach((record, idx) => {
-    console.log(idx, record.location.center);
     if (idx === 0) {
       directions.setOrigin(record.location.center);
     } else if (idx === chapters_length -1) {
