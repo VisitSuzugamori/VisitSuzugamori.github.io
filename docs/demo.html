@@ -274,9 +274,9 @@ map.on('load', () => {
   const chapters_length = config.chapters.length;
   config.chapters.forEach((record, idx) => {
     if (idx === 0) {
-      directions.setOriginFromCoordinates(record.location.center);
+      directions.setOrigin(record.location.center);
     } else if (idx === chapters_length) {
-      directions.setDestinationFromCoordinates(record.location.center);
+      directions.setDestination(record.location.center);
     } else {
       directions.addWaypoint(idx, record.location.center);
     }
