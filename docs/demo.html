@@ -274,11 +274,11 @@ map.on('load', () => {
   const chapters_length = config.chapters.length;
   config.chapters.forEach((record, idx) => {
     if (idx === 0) {
-      directions.setOrigin(record.location.center);
+      directions.setOriginFromCoordinates(record.location.center);
     } else if (idx === chapters_length) {
-      directions.setDestination(record.location.center);
+      directions.setDestinationFromCoordinates(record.location.center);
     } else {
-      directions.setWaypoint(idx, record.location.center);
+      directions.addWaypoint(idx, record.location.center);
     }
   });
 });
