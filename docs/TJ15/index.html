@@ -1,13 +1,16 @@
 <!DOCTYPE html>
 <html>
-<head>
+  <head>
     <meta charset='utf-8' />
     <title>VisitSuzugamori Storytelling</title>
     <meta name='viewport' content='initial-scale=1,maximum-scale=1,user-scalable=no' />
-    <script src='https://api.tiles.mapbox.com/mapbox-gl-js/v2.1.0/mapbox-gl.js'></script>
-    <link href='https://api.tiles.mapbox.com/mapbox-gl-js/v2.1.0/mapbox-gl.css' rel='stylesheet' />
+    <script src='https://api.tiles.mapbox.com/mapbox-gl-js/v2.1.1/mapbox-gl.js'></script>
+    <link href='https://api.tiles.mapbox.com/mapbox-gl-js/v2.1.1/mapbox-gl.css' rel='stylesheet' />
     <script src="https://unpkg.com/intersection-observer@0.5.1/intersection-observer.js"></script>
     <script src="https://unpkg.com/scrollama"></script>
+    <script src="https://api.mapbox.com/mapbox-gl-js/plugins/mapbox-gl-directions/v4.1.0/mapbox-gl-directions.js"></script>
+    <link rel="stylesheet" href="https://api.mapbox.com/mapbox-gl-js/plugins/mapbox-gl-directions/v4.1.0/mapbox-gl-directions.css" type="text/css"  />
+    <script src="https://unpkg.com/@mapbox/mapbox-sdk/umd/mapbox-sdk.min.js"></script>
     <style>
         body {
             margin:0;
@@ -244,20 +247,103 @@ const transformRequest = (url) => {
     }
 }
 
+const flickrImageUrl = async (latlon) => {
+  const flickr_key = 'f8c30ae7ac87e73ad0f516e314b5cfef';
+  const url = `https://www.flickr.com/services/rest/?method=flickr.photos.search&api_key=${flickr_key}&privacy_filter=1&content_type=1&media=photos&lat=${latlon[1]}&lon=${latlon[0]}&radius=0.1&format=json&nojsoncallback=1`;
+  try {
+    const res = await fetch(url).catch((e) => {
+      console.log(e);
+      throw e;
+    });
+    const data = await res.json();
+    console.log(data);
+    if (data.photos.total > 0) {
+      const { server, id, secret } = data.photos.photo[0];
+      return `https://live.staticflickr.com/${server}/${id}_${secret}_c.jpg`;
+    }
+    return '';
+  } catch (e) {
+    console.log(e);
+    throw e;
+  }
+};
+
+const reverseGeocodeContent = async (latlon) => {
+  mapboxClient
+    .geocoding
+    .reverseGeocode({
+      query: latlon,
+      countries: ['JP'],
+    })
+    .send()
+    .then((response) => {
+      if (
+        response &&
+          response.body &&
+          response.body.features &&
+          response.body.features.length
+      ) {
+        return response.body.features[0].place_name;
+      }
+    });
+};
+
 var map = new mapboxgl.Map({
-    container: 'map',
-    style: config.style,
-    center: config.chapters[0].location.center,
-    zoom: config.chapters[0].location.zoom,
-    bearing: config.chapters[0].location.bearing,
-    pitch: config.chapters[0].location.pitch,
-    interactive: false,
-    transformRequest: transformRequest
+  container: 'map',
+  style: config.style,
+  center: config.chapters[0].location.center,
+  zoom: config.chapters[0].location.zoom,
+  bearing: config.chapters[0].location.bearing,
+  pitch: config.chapters[0].location.pitch,
+  interactive: false,
+  transformRequest: transformRequest
+});
+const mapboxClient = mapboxSdk({ accessToken: config.accessToken });
+const directions = new MapboxDirections({
+  accessToken: config.accessToken,
+  unit: 'metric',
+  profile: 'mapbox/walking',
+  interactive: false,
+  controls: {
+    inputs: false,
+    instructions: false,
+  },
+  language: 'ja',
+  flyTo: false,
 });
 
+map.on('load', () => {
+  const chapters_length = config.chapters.length;
+  config.chapters.forEach((record, idx) => {
+    if (idx === 0) {
+      directions.setOrigin(record.location.center);
+    } else if (idx === chapters_length -1) {
+      directions.setDestination(record.location.center);
+    } else {
+      directions.setWaypoint(idx, record.location.center);
+    }
+
+    (async () => {
+      const parent = document.getElementById(record.id);
+      const content = document.createElement('div');
+      const place = await reverseGeocodeContent(record.location.center);
+      content.innerText = place;
+      parent.firstChild.appendChild(content);
+
+      const imageUrl = await flickrImageUrl(record.location.center);
+      if (imageUrl) {
+        const img = document.createElement('img');
+        img.src = imageUrl;
+        parent.firstChild.appendChild(img);
+      }
+    })();
+  });
+});
+map.addControl(directions);
+
 if (config.showMarkers) {
-    var marker = new mapboxgl.Marker({ color: config.markerColor });
-    marker.setLngLat(config.chapters[0].location.center).addTo(map);
+  var marker = new mapboxgl.Marker({ color: config.markerColor });
+  marker.setLngLat(config.chapters[0].location.center).addTo(map);
 }
 
 // instantiate the scrollama
@@ -304,7 +390,7 @@ map.on("load", function() {
             chapter.onChapterEnter.forEach(setLayerOpacity);
         }
         if (chapter.callback) {
-            window[chapter.callback]();
+          window[chapter.callback].call(null, chapter);
         }
         if (chapter.rotateAnimation) {
             map.once('moveend', function() {
