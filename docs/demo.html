@@ -256,7 +256,7 @@ const flickrImageUrl = async (latlon) => {
       throw e;
     });
     const data = await res.json();
-    console.log(data);
+    // console.log(data);
     if (data.photos.total > 0) {
       const { server, id, secret } = data.photos.photo[0];
       return `https://live.staticflickr.com/${server}/${id}_${secret}_c.jpg`;
@@ -269,23 +269,25 @@ const flickrImageUrl = async (latlon) => {
 };
 
 const reverseGeocodeContent = async (latlon) => {
-  mapboxClient
-    .geocoding
-    .reverseGeocode({
-      query: latlon,
-      countries: ['JP'],
-    })
-    .send()
-    .then((response) => {
-      if (
-        response &&
-          response.body &&
-          response.body.features &&
-          response.body.features.length
-      ) {
-        return response.body.features[0].place_name;
-      }
-    });
+  try {
+    const geocorder = mapboxClient.geocoding;
+    const response = await geocorder.reverseGeocode({
+        query: latlon,
+        countries: ['JP'],
+      }).send();
+    if (
+      response &&
+        response.body &&
+        response.body.features &&
+        response.body.features.length
+    ) {
+      return response.body.features[0].place_name;
+    }
+    return '';
+  } catch (e) {
+    console.log(e);
+    throw e;
+  }
 };
 
 var map = new mapboxgl.Map({
@@ -325,12 +327,14 @@ map.on('load', () => {
 
     (async () => {
       const parent = document.getElementById(record.id);
-      const content = document.createElement('div');
       const place = await reverseGeocodeContent(record.location.center);
-      content.innerText = place;
-      parent.firstChild.appendChild(content);
+      if (place) {
+        const content = document.createElement('p');
+        content.innerText = place;
+        parent.firstChild.appendChild(content);
+      }
 
-      const imageUrl = await flickrImageUrl(record.location.center);
+      const imageUrl = await flickrImageUrl(record.location.center).catch(console.log);
       if (imageUrl) {
         const img = document.createElement('img');
         img.src = imageUrl;
