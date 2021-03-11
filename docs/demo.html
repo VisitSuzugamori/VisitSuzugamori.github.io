@@ -276,7 +276,7 @@ map.on('load', () => {
     console.log(idx, record.location.center);
     if (idx === 0) {
       directions.setOrigin(record.location.center);
-    } else if (idx === chapters_length) {
+    } else if (idx === chapters_length -1) {
       directions.setDestination(record.location.center);
     } else {
       directions.setWaypoint(idx, record.location.center);
