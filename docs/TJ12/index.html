@@ -259,9 +259,9 @@ const flickrImageUrl = async (record) => {
     const data = await res.json();
     console.log(data);
     if (data.photos.total > 0) {
-      const { server, id, secret, owner_name, description, title, license } = data.photos.photo[0];
+      const { server, id, secret, ownername, description, title, license } = data.photos.photo[0];
       const url = `https://live.staticflickr.com/${server}/${id}_${secret}_z.jpg`;
-      return { url, owner_name, description, title, license };
+      return { url, ownername, description, title, license };
     }
     return '';
   } catch (e) {
@@ -338,11 +338,12 @@ map.on('load', () => {
 
       const image = await flickrImageUrl(record).catch(console.log);
       if (image) {
+        const searchUrl = `https://www.flickr.com/search/?lat=${record.location.center[1]}&lon=${record.location.center[0]}&radius=0.25&has_geo=1&view_all=1`;
         const img = document.createElement('img');
         img.src = image.url;
         parent.firstChild.appendChild(img);
         const caption = document.createElement('p');
-        caption.innerText = `photo by ${image.owner_name}, from Flickr. ${image.title} ${image.description}`;
+        caption.innerHTML = `photo from <a rel="noopener" href="${searchUrl}">Flickr</a>【${image.title}】 by ${image.ownername}`;
         parent.firstChild.appendChild(caption);
       }
     })();
