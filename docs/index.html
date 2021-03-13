@@ -15,84 +15,86 @@
 <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.1/css/solid.min.css">
 <style>
   .hidden { display: none; }
-  .fa-question-circle { font-size: 24px; padding-left: 3px; color: #111;}
-  #map { height: 600px; width: 100%; }
+  .fa-question-circle { font-size: 24px; padding-left: 3px; color: #111; }
+  #map { height: 100%; width: 100%; position: absolute; left: 0; top: 0; }
+  #container { opacity: 0.85; }
+  .article ul { opacity: 0.7; background-color: white; }
+  .article ul li { height: 28px; overflow: hidden; }
 </style>
 </head>
 <body>
+  <div id="map">
+  </div>
   <div id="container">
     <header class="article-header">
       <h1>VisitSuzugamori</h1>
     </header>
     <div class="article">
       <ul>
-        <li><a rel="noopener" href="https://visitsuzugamori.github.io/VisitSuzugamori/TJ01/">TJ01</a></li>
-        <li><a rel="noopener" href="https://visitsuzugamori.github.io/VisitSuzugamori/TJ02/">TJ02</a></li>
-        <li><a rel="noopener" href="https://visitsuzugamori.github.io/VisitSuzugamori/TJ03/">TJ03</a></li>
-        <li><a rel="noopener" href="https://visitsuzugamori.github.io/VisitSuzugamori/TJ04/">TJ04</a></li>
-        <li><a rel="noopener" href="https://visitsuzugamori.github.io/VisitSuzugamori/TJ05/">TJ05</a></li>
-        <li><a rel="noopener" href="https://visitsuzugamori.github.io/VisitSuzugamori/TJ06/">TJ06</a></li>
-        <li><a rel="noopener" href="https://visitsuzugamori.github.io/VisitSuzugamori/TJ07/">TJ07</a></li>
-        <li><a rel="noopener" href="https://visitsuzugamori.github.io/VisitSuzugamori/TJ08/">TJ08</a></li>
-        <li><a rel="noopener" href="https://visitsuzugamori.github.io/VisitSuzugamori/TJ09-1/">TJ09-1</a></li>
-        <li><a rel="noopener" href="https://visitsuzugamori.github.io/VisitSuzugamori/TJ09-2/">TJ09-2</a></li>
-        <li><a rel="noopener" href="https://visitsuzugamori.github.io/VisitSuzugamori/TJ10/">TJ10</a></li>
-        <li><a rel="noopener" href="https://visitsuzugamori.github.io/VisitSuzugamori/TJ11/">TJ11</a></li>
-        <li><a rel="noopener" href="https://visitsuzugamori.github.io/VisitSuzugamori/TJ12/">TJ12</a></li>
-        <li><a rel="noopener" href="https://visitsuzugamori.github.io/VisitSuzugamori/TJ13-1/">TJ13-1</a></li>
-        <li><a rel="noopener" href="https://visitsuzugamori.github.io/VisitSuzugamori/TJ13-2/">TJ13-2</a></li>
-        <li><a rel="noopener" href="https://visitsuzugamori.github.io/VisitSuzugamori/TJ14/">TJ14</a></li>
-        <li><a rel="noopener" href="https://visitsuzugamori.github.io/VisitSuzugamori/TJ15/">TJ15</a></li>
-        <li><a rel="noopener" href="https://visitsuzugamori.github.io/VisitSuzugamori/TJ16/">TJ16</a></li>
-        <li><a rel="noopener" href="https://visitsuzugamori.github.io/VisitSuzugamori/TJ17/">TJ17</a></li>
+        <li><a rel="noopener" href="/TJ01/">第1旅</a></li>
+        <li><a rel="noopener" href="/TJ02/">第2旅</a></li>
+        <li><a rel="noopener" href="/TJ03/">第3旅</a></li>
+        <li><a rel="noopener" href="/TJ04/">第4旅</a></li>
+        <li><a rel="noopener" href="/TJ05/">第5旅</a></li>
+        <li><a rel="noopener" href="/TJ06/">第6旅</a></li>
+        <li><a rel="noopener" href="/TJ07/">第7旅</a></li>
+        <li><a rel="noopener" href="/TJ08/">第8旅</a></li>
+        <li><a rel="noopener" href="/TJ09-1/">第9旅（前編）</a></li>
+        <li><a rel="noopener" href="/TJ09-2/">第9旅（後編）</a></li>
+        <li><a rel="noopener" href="/TJ10/">第10旅</a></li>
+        <li><a rel="noopener" href="/TJ11/">第11旅</a></li>
+        <li><a rel="noopener" href="/TJ12/">第12旅</a></li>
+        <li><a rel="noopener" href="/TJ13-1/">第13旅（前編）</a></li>
+        <li><a rel="noopener" href="/TJ13-2/">第13旅（後編）</a></li>
+        <li><a rel="noopener" href="/TJ14/">第14旅</a></li>
+        <li><a rel="noopener" href="/TJ15/">第15旅</a></li>
+        <li><a rel="noopener" href="/TJ16/">第16旅</a></li>
+        <li><a rel="noopener" href="/TJ17/">第17旅</a></li>
       </ul>
-      <p class="repository">see also <a href="https://github.com/VisitSuzugamori/VisitSuzugamori/">VisitSuzugamori (GitHub)</a></p>
+      <p class="repository">see also <a href="https://github.com/VisitSuzugamori/VisitSuzugamori.github.io/">VisitSuzugamori (GitHub)</a></p>
     </div>
-    <div id="map">
-    </div>
-    <script src="https://api.mapbox.com/mapbox-gl-js/v2.1.1/mapbox-gl.js"></script>
-    <script>
-      const home_loc = {
-        center: [137.17, 36.05],
-        zoom: 5,
-        pitch: 45,
-        bearing: 0
-      };
-
-      mapboxgl.accessToken = 'pk.eyJ1IjoiaXNub3QiLCJhIjoiY2tscDdpeGExMHp5cTJwcXI0YWlzZHdyeCJ9._NooEseBc8wEwa3z_plcAg';
-      const map = new mapboxgl.Map({
-        container: 'map',
-        style: 'mapbox://styles/isnot/ckdzfj1n70ee219lhgygiamwc',
-        center: home_loc.center,
-        zoom: home_loc.zoom,
-        pitch: home_loc.pitch,
-        minZoom: 4,
-        hash: true,
-        localIdeographFontFamily: "'Noto Sans CJK JP', 'Noto Sans', sans-serif"
-      });
-
-      map.on('load', () => {
-        map.loadImage(
-          'https://docs.mapbox.com/mapbox-gl-js/assets/custom_marker.png',
-          (error, image) => {
-            if (error) throw error;
-            map.addImage('custom-marker', image);
-            map.addSource('zatsumap', { type: 'geojson', data: './zatsumap.geojson' });
-            map.addLayer({
-              'id': 'points',
-              'type': 'symbol',
-              'source': 'zatsumap',
-              'layout': {
-                'icon-image': 'custom-marker',
-                'text-field': ['get', 'name'],
-                'text-offset': [0, 1.25],
-                'text-anchor': 'top'
-              }
-            });
-          }
-        );
-      });
-    </script>
   </div>
+  <script src="https://api.mapbox.com/mapbox-gl-js/v2.1.1/mapbox-gl.js"></script>
+  <script>
+    const home_loc = {
+      center: [137.17, 36.05],
+      zoom: 4,
+      pitch: 25,
+      bearing: 0
+    };
+
+    mapboxgl.accessToken = 'pk.eyJ1IjoiaXNub3QiLCJhIjoiY2tscDdpeGExMHp5cTJwcXI0YWlzZHdyeCJ9._NooEseBc8wEwa3z_plcAg';
+    const map = new mapboxgl.Map({
+      container: 'map',
+      style: 'mapbox://styles/isnot/ckdzfj1n70ee219lhgygiamwc',
+      center: home_loc.center,
+      zoom: home_loc.zoom,
+      pitch: home_loc.pitch,
+      minZoom: 4,
+      hash: false,
+      localIdeographFontFamily: "'Noto Sans CJK JP', 'Noto Sans', sans-serif"
+    });
+
+    map.on('load', () => {
+      const marker = new Image();
+      marker.src = './marker.png';
+      marker.alt = '👣';
+      marker.width = 16;
+      marker.height = 16;
+      map.addImage('custom-marker', marker);
+      map.addSource('zatsumap', { type: 'geojson', data: './zatsumap.geojson' });
+      map.addLayer({
+        'id': 'points',
+        'type': 'symbol',
+        'source': 'zatsumap',
+        'layout': {
+          'icon-image': 'custom-marker',
+          'text-field': ['get', 'name'],
+          'text-offset': [0, 1.25],
+          'text-anchor': 'top'
+        }
+      });
+    });
+  </script>
 </body>
 </html>
