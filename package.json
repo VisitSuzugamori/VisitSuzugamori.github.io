@@ -16,7 +16,8 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "jest": "jest",
-    "eslint": "eslint scripts/*.js"
+    "eslint": "eslint scripts/*.js",
+    "build": "node scripts/index.js"
   },
   "repository": {
     "type": "git",
