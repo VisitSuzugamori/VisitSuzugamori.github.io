@@ -19,26 +19,15 @@ const config = {
       description: '2巻 P3 ',
       location: {
         center: [135.7726717, 34.9671402],
-        zoom: 13,
+        zoom: 14,
         pitch: 60,
         bearing: 0,
       },
       mapAnimation: 'flyTo',
       rotateAnimation: false,
       callback: '',
-      onChapterEnter: [
-        // {
-        //     layer: 'layer-name',
-        //     opacity: 1,
-        //     duration: 5000
-        // }
-      ],
-      onChapterExit: [
-        // {
-        //     layer: 'layer-name',
-        //     opacity: 0
-        // }
-      ],
+      onChapterEnter: [],
+      onChapterExit: [],
     },
     {
       id: '2巻-P6-京都駅',
@@ -49,26 +38,15 @@ const config = {
       description: '2巻 P6 ',
       location: {
         center: [135.7587667, 34.985849],
-        zoom: 13,
+        zoom: 14,
         pitch: 60,
         bearing: 0,
       },
       mapAnimation: 'flyTo',
       rotateAnimation: false,
       callback: '',
-      onChapterEnter: [
-        // {
-        //     layer: 'layer-name',
-        //     opacity: 1,
-        //     duration: 5000
-        // }
-      ],
-      onChapterExit: [
-        // {
-        //     layer: 'layer-name',
-        //     opacity: 0
-        // }
-      ],
+      onChapterEnter: [],
+      onChapterExit: [],
     },
     {
       id: '2巻-P16-藤岡酒造',
@@ -79,26 +57,15 @@ const config = {
       description: '2巻 P16 ',
       location: {
         center: [135.7624568, 34.9351213],
-        zoom: 13,
+        zoom: 14,
         pitch: 60,
         bearing: 0,
       },
       mapAnimation: 'flyTo',
       rotateAnimation: false,
       callback: '',
-      onChapterEnter: [
-        // {
-        //     layer: 'layer-name',
-        //     opacity: 1,
-        //     duration: 5000
-        // }
-      ],
-      onChapterExit: [
-        // {
-        //     layer: 'layer-name',
-        //     opacity: 0
-        // }
-      ],
+      onChapterEnter: [],
+      onChapterExit: [],
     },
     {
       id: '2巻-P17-月桂冠大倉記念館',
@@ -109,26 +76,15 @@ const config = {
       description: '2巻 P17 ',
       location: {
         center: [135.76161, 34.929136],
-        zoom: 13,
+        zoom: 14,
         pitch: 60,
         bearing: 0,
       },
       mapAnimation: 'flyTo',
       rotateAnimation: false,
       callback: '',
-      onChapterEnter: [
-        // {
-        //     layer: 'layer-name',
-        //     opacity: 1,
-        //     duration: 5000
-        // }
-      ],
-      onChapterExit: [
-        // {
-        //     layer: 'layer-name',
-        //     opacity: 0
-        // }
-      ],
+      onChapterEnter: [],
+      onChapterExit: [],
     },
     {
       id: '2巻-P17-ラー麺・陽はまた昇る 伏見稲荷駅前本店',
@@ -139,26 +95,15 @@ const config = {
       description: '2巻 P17 ',
       location: {
         center: [135.768613, 34.968596],
-        zoom: 13,
+        zoom: 14,
         pitch: 60,
         bearing: 0,
       },
       mapAnimation: 'flyTo',
       rotateAnimation: false,
       callback: '',
-      onChapterEnter: [
-        // {
-        //     layer: 'layer-name',
-        //     opacity: 1,
-        //     duration: 5000
-        // }
-      ],
-      onChapterExit: [
-        // {
-        //     layer: 'layer-name',
-        //     opacity: 0
-        // }
-      ],
+      onChapterEnter: [],
+      onChapterExit: [],
     },
     {
       id: '2巻-P18-伏見稲荷駅',
@@ -169,26 +114,15 @@ const config = {
       description: '2巻 P18 ',
       location: {
         center: [135.7692088, 34.9687541],
-        zoom: 13,
+        zoom: 14,
         pitch: 60,
         bearing: 0,
       },
       mapAnimation: 'flyTo',
       rotateAnimation: false,
       callback: '',
-      onChapterEnter: [
-        // {
-        //     layer: 'layer-name',
-        //     opacity: 1,
-        //     duration: 5000
-        // }
-      ],
-      onChapterExit: [
-        // {
-        //     layer: 'layer-name',
-        //     opacity: 0
-        // }
-      ],
+      onChapterEnter: [],
+      onChapterExit: [],
     },
     {
       id: '2巻-P21-宮津駅',
@@ -199,26 +133,15 @@ const config = {
       description: '2巻 P21 ',
       location: {
         center: [135.1997513, 35.5344188],
-        zoom: 13,
+        zoom: 14,
         pitch: 60,
         bearing: 0,
       },
       mapAnimation: 'flyTo',
       rotateAnimation: false,
       callback: '',
-      onChapterEnter: [
-        // {
-        //     layer: 'layer-name',
-        //     opacity: 1,
-        //     duration: 5000
-        // }
-      ],
-      onChapterExit: [
-        // {
-        //     layer: 'layer-name',
-        //     opacity: 0
-        // }
-      ],
+      onChapterEnter: [],
+      onChapterExit: [],
     },
     {
       id: '2巻-P22-富田屋',
@@ -229,26 +152,15 @@ const config = {
       description: '2巻 P22 ',
       location: {
         center: [135.1992613, 35.534848],
-        zoom: 13,
+        zoom: 14,
         pitch: 60,
         bearing: 0,
       },
       mapAnimation: 'flyTo',
       rotateAnimation: false,
       callback: '',
-      onChapterEnter: [
-        // {
-        //     layer: 'layer-name',
-        //     opacity: 1,
-        //     duration: 5000
-        // }
-      ],
-      onChapterExit: [
-        // {
-        //     layer: 'layer-name',
-        //     opacity: 0
-        // }
-      ],
+      onChapterEnter: [],
+      onChapterExit: [],
     },
     {
       id: '2巻-P22-茶六本館',
@@ -259,26 +171,15 @@ const config = {
       description: '2巻 P22 ',
       location: {
         center: [135.1918306, 35.5368405],
-        zoom: 13,
+        zoom: 14,
         pitch: 60,
         bearing: 0,
       },
       mapAnimation: 'flyTo',
       rotateAnimation: false,
       callback: '',
-      onChapterEnter: [
-        // {
-        //     layer: 'layer-name',
-        //     opacity: 1,
-        //     duration: 5000
-        // }
-      ],
-      onChapterExit: [
-        // {
-        //     layer: 'layer-name',
-        //     opacity: 0
-        // }
-      ],
+      onChapterEnter: [],
+      onChapterExit: [],
     },
     {
       id: '2巻-P31-天橋立ビューランド リフト・モノレールのりば',
@@ -289,26 +190,15 @@ const config = {
       description: '2巻 P31 ',
       location: {
         center: [135.1839285, 35.5557202],
-        zoom: 13,
+        zoom: 14,
         pitch: 60,
         bearing: 0,
       },
       mapAnimation: 'flyTo',
       rotateAnimation: false,
       callback: '',
-      onChapterEnter: [
-        // {
-        //     layer: 'layer-name',
-        //     opacity: 1,
-        //     duration: 5000
-        // }
-      ],
-      onChapterExit: [
-        // {
-        //     layer: 'layer-name',
-        //     opacity: 0
-        // }
-      ],
+      onChapterEnter: [],
+      onChapterExit: [],
     },
     {
       id: '2巻-P32-天橋立ビューランド',
@@ -319,26 +209,15 @@ const config = {
       description: '2巻 P32 ',
       location: {
         center: [135.1821171, 35.5527779],
-        zoom: 13,
+        zoom: 14,
         pitch: 60,
         bearing: 0,
       },
       mapAnimation: 'flyTo',
       rotateAnimation: false,
       callback: '',
-      onChapterEnter: [
-        // {
-        //     layer: 'layer-name',
-        //     opacity: 1,
-        //     duration: 5000
-        // }
-      ],
-      onChapterExit: [
-        // {
-        //     layer: 'layer-name',
-        //     opacity: 0
-        // }
-      ],
+      onChapterEnter: [],
+      onChapterExit: [],
     },
     {
       id: '2巻-P35-天橋立',
@@ -349,26 +228,15 @@ const config = {
       description: '2巻 P35 ',
       location: {
         center: [135.1918204, 35.5698022],
-        zoom: 13,
+        zoom: 14,
         pitch: 60,
         bearing: 0,
       },
       mapAnimation: 'flyTo',
       rotateAnimation: false,
       callback: '',
-      onChapterEnter: [
-        // {
-        //     layer: 'layer-name',
-        //     opacity: 1,
-        //     duration: 5000
-        // }
-      ],
-      onChapterExit: [
-        // {
-        //     layer: 'layer-name',
-        //     opacity: 0
-        // }
-      ],
+      onChapterEnter: [],
+      onChapterExit: [],
     },
     {
       id: '2巻-P36-岩見重太郎 仇討ちの場',
@@ -379,26 +247,15 @@ const config = {
       description: '2巻 P36 ',
       location: {
         center: [135.1881478, 35.5628724],
-        zoom: 13,
+        zoom: 14,
         pitch: 60,
         bearing: 0,
       },
       mapAnimation: 'flyTo',
       rotateAnimation: false,
       callback: '',
-      onChapterEnter: [
-        // {
-        //     layer: 'layer-name',
-        //     opacity: 1,
-        //     duration: 5000
-        // }
-      ],
-      onChapterExit: [
-        // {
-        //     layer: 'layer-name',
-        //     opacity: 0
-        // }
-      ],
+      onChapterEnter: [],
+      onChapterExit: [],
     },
     {
       id: '2巻-P37-丹後國一之宮 元伊勢 籠神社',
@@ -409,26 +266,15 @@ const config = {
       description: '2巻 P37 ',
       location: {
         center: [135.1967015, 35.5827837],
-        zoom: 13,
+        zoom: 14,
         pitch: 60,
         bearing: 0,
       },
       mapAnimation: 'flyTo',
       rotateAnimation: false,
       callback: '',
-      onChapterEnter: [
-        // {
-        //     layer: 'layer-name',
-        //     opacity: 1,
-        //     duration: 5000
-        // }
-      ],
-      onChapterExit: [
-        // {
-        //     layer: 'layer-name',
-        //     opacity: 0
-        // }
-      ],
+      onChapterEnter: [],
+      onChapterExit: [],
     },
     {
       id: '2巻-P39-天橋立神社',
@@ -439,26 +285,15 @@ const config = {
       description: '2巻 P39 ',
       location: {
         center: [135.1879155, 35.5634066],
-        zoom: 13,
+        zoom: 14,
         pitch: 60,
         bearing: 0,
       },
       mapAnimation: 'flyTo',
       rotateAnimation: false,
       callback: '',
-      onChapterEnter: [
-        // {
-        //     layer: 'layer-name',
-        //     opacity: 1,
-        //     duration: 5000
-        // }
-      ],
-      onChapterExit: [
-        // {
-        //     layer: 'layer-name',
-        //     opacity: 0
-        // }
-      ],
+      onChapterEnter: [],
+      onChapterExit: [],
     },
 
   ],

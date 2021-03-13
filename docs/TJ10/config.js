@@ -19,26 +19,15 @@ const config = {
       description: '3巻 P31 ',
       location: {
         center: [140.8588135, 40.6758222],
-        zoom: 13,
+        zoom: 14,
         pitch: 60,
         bearing: 0,
       },
       mapAnimation: 'flyTo',
       rotateAnimation: false,
       callback: '',
-      onChapterEnter: [
-        // {
-        //     layer: 'layer-name',
-        //     opacity: 1,
-        //     duration: 5000
-        // }
-      ],
-      onChapterExit: [
-        // {
-        //     layer: 'layer-name',
-        //     opacity: 0
-        // }
-      ],
+      onChapterEnter: [],
+      onChapterExit: [],
     },
     {
       id: '3巻-P32-萱野茶屋',
@@ -49,26 +38,15 @@ const config = {
       description: '3巻 P32 ',
       location: {
         center: [140.8223047, 40.7057577],
-        zoom: 13,
+        zoom: 14,
         pitch: 60,
         bearing: 0,
       },
       mapAnimation: 'flyTo',
       rotateAnimation: false,
       callback: '',
-      onChapterEnter: [
-        // {
-        //     layer: 'layer-name',
-        //     opacity: 1,
-        //     duration: 5000
-        // }
-      ],
-      onChapterExit: [
-        // {
-        //     layer: 'layer-name',
-        //     opacity: 0
-        // }
-      ],
+      onChapterEnter: [],
+      onChapterExit: [],
     },
     {
       id: '3巻-P34-八甲田 山頂公園',
@@ -79,26 +57,15 @@ const config = {
       description: '3巻 P34 ',
       location: {
         center: [140.8592116, 40.6757743],
-        zoom: 13,
+        zoom: 14,
         pitch: 60,
         bearing: 0,
       },
       mapAnimation: 'flyTo',
       rotateAnimation: false,
       callback: '',
-      onChapterEnter: [
-        // {
-        //     layer: 'layer-name',
-        //     opacity: 1,
-        //     duration: 5000
-        // }
-      ],
-      onChapterExit: [
-        // {
-        //     layer: 'layer-name',
-        //     opacity: 0
-        // }
-      ],
+      onChapterEnter: [],
+      onChapterExit: [],
     },
     {
       id: '3巻-P38-谷地温泉',
@@ -109,26 +76,15 @@ const config = {
       description: '3巻 P38 ',
       location: {
         center: [140.9245271, 40.6330178],
-        zoom: 13,
+        zoom: 14,
         pitch: 60,
         bearing: 0,
       },
       mapAnimation: 'flyTo',
       rotateAnimation: false,
       callback: '',
-      onChapterEnter: [
-        // {
-        //     layer: 'layer-name',
-        //     opacity: 1,
-        //     duration: 5000
-        // }
-      ],
-      onChapterExit: [
-        // {
-        //     layer: 'layer-name',
-        //     opacity: 0
-        // }
-      ],
+      onChapterEnter: [],
+      onChapterExit: [],
     },
     {
       id: '3巻-P47-下北駅',
@@ -139,26 +95,15 @@ const config = {
       description: '3巻 P47 ',
       location: {
         center: [141.1899038, 41.2827427],
-        zoom: 13,
+        zoom: 14,
         pitch: 60,
         bearing: 0,
       },
       mapAnimation: 'flyTo',
       rotateAnimation: false,
       callback: '',
-      onChapterEnter: [
-        // {
-        //     layer: 'layer-name',
-        //     opacity: 1,
-        //     duration: 5000
-        // }
-      ],
-      onChapterExit: [
-        // {
-        //     layer: 'layer-name',
-        //     opacity: 0
-        // }
-      ],
+      onChapterEnter: [],
+      onChapterExit: [],
     },
     {
       id: '3巻-P49-三途の川',
@@ -169,26 +114,15 @@ const config = {
       description: '3巻 P49 ',
       location: {
         center: [141.0962272, 41.3260657],
-        zoom: 13,
+        zoom: 14,
         pitch: 60,
         bearing: 0,
       },
       mapAnimation: 'flyTo',
       rotateAnimation: false,
       callback: '',
-      onChapterEnter: [
-        // {
-        //     layer: 'layer-name',
-        //     opacity: 1,
-        //     duration: 5000
-        // }
-      ],
-      onChapterExit: [
-        // {
-        //     layer: 'layer-name',
-        //     opacity: 0
-        // }
-      ],
+      onChapterEnter: [],
+      onChapterExit: [],
     },
     {
       id: '3巻-P49-恐山菩提寺',
@@ -199,26 +133,15 @@ const config = {
       description: '3巻 P49 ',
       location: {
         center: [141.0907618, 41.327247],
-        zoom: 13,
+        zoom: 14,
         pitch: 60,
         bearing: 0,
       },
       mapAnimation: 'flyTo',
       rotateAnimation: false,
       callback: '',
-      onChapterEnter: [
-        // {
-        //     layer: 'layer-name',
-        //     opacity: 1,
-        //     duration: 5000
-        // }
-      ],
-      onChapterExit: [
-        // {
-        //     layer: 'layer-name',
-        //     opacity: 0
-        // }
-      ],
+      onChapterEnter: [],
+      onChapterExit: [],
     },
     {
       id: '3巻-P51-宇曽利山湖 極楽浜',
@@ -229,26 +152,15 @@ const config = {
       description: '3巻 P51 ',
       location: {
         center: [141.086011, 41.3264966],
-        zoom: 13,
+        zoom: 14,
         pitch: 60,
         bearing: 0,
       },
       mapAnimation: 'flyTo',
       rotateAnimation: false,
       callback: '',
-      onChapterEnter: [
-        // {
-        //     layer: 'layer-name',
-        //     opacity: 1,
-        //     duration: 5000
-        // }
-      ],
-      onChapterExit: [
-        // {
-        //     layer: 'layer-name',
-        //     opacity: 0
-        // }
-      ],
+      onChapterEnter: [],
+      onChapterExit: [],
     },
     {
       id: '3巻-P52-恐山 花染の湯',
@@ -259,26 +171,15 @@ const config = {
       description: '3巻 P52 ',
       location: {
         center: [141.0917047, 41.3283697],
-        zoom: 13,
+        zoom: 14,
         pitch: 60,
         bearing: 0,
       },
       mapAnimation: 'flyTo',
       rotateAnimation: false,
       callback: '',
-      onChapterEnter: [
-        // {
-        //     layer: 'layer-name',
-        //     opacity: 1,
-        //     duration: 5000
-        // }
-      ],
-      onChapterExit: [
-        // {
-        //     layer: 'layer-name',
-        //     opacity: 0
-        // }
-      ],
+      onChapterEnter: [],
+      onChapterExit: [],
     },
     {
       id: '3巻-P55-恐山冷水',
@@ -289,26 +190,15 @@ const config = {
       description: '3巻 P55 ',
       location: {
         center: [141.1264919, 41.3145659],
-        zoom: 13,
+        zoom: 14,
         pitch: 60,
         bearing: 0,
       },
       mapAnimation: 'flyTo',
       rotateAnimation: false,
       callback: '',
-      onChapterEnter: [
-        // {
-        //     layer: 'layer-name',
-        //     opacity: 1,
-        //     duration: 5000
-        // }
-      ],
-      onChapterExit: [
-        // {
-        //     layer: 'layer-name',
-        //     opacity: 0
-        // }
-      ],
+      onChapterEnter: [],
+      onChapterExit: [],
     },
 
   ],

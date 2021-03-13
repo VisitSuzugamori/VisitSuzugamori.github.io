@@ -19,26 +19,15 @@ const config = {
       description: '3巻 P57 ',
       location: {
         center: [135.7816031, 33.4755266],
-        zoom: 13,
+        zoom: 14,
         pitch: 60,
         bearing: 0,
       },
       mapAnimation: 'flyTo',
       rotateAnimation: false,
       callback: '',
-      onChapterEnter: [
-        // {
-        //     layer: 'layer-name',
-        //     opacity: 1,
-        //     duration: 5000
-        // }
-      ],
-      onChapterExit: [
-        // {
-        //     layer: 'layer-name',
-        //     opacity: 0
-        // }
-      ],
+      onChapterEnter: [],
+      onChapterExit: [],
     },
     {
       id: '3巻-P60-この辺歩いてるよ',
@@ -49,26 +38,15 @@ const config = {
       description: '3巻 P60 ',
       location: {
         center: [135.7718515, 33.4580493],
-        zoom: 13,
+        zoom: 14,
         pitch: 60,
         bearing: 0,
       },
       mapAnimation: 'flyTo',
       rotateAnimation: false,
       callback: '',
-      onChapterEnter: [
-        // {
-        //     layer: 'layer-name',
-        //     opacity: 1,
-        //     duration: 5000
-        // }
-      ],
-      onChapterExit: [
-        // {
-        //     layer: 'layer-name',
-        //     opacity: 0
-        // }
-      ],
+      onChapterEnter: [],
+      onChapterExit: [],
     },
     {
       id: '3巻-P61-この辺まで来たよ',
@@ -79,26 +57,15 @@ const config = {
       description: '3巻 P61 ',
       location: {
         center: [135.754685, 33.4378491],
-        zoom: 13,
+        zoom: 14,
         pitch: 60,
         bearing: 0,
       },
       mapAnimation: 'flyTo',
       rotateAnimation: false,
       callback: '',
-      onChapterEnter: [
-        // {
-        //     layer: 'layer-name',
-        //     opacity: 1,
-        //     duration: 5000
-        // }
-      ],
-      onChapterExit: [
-        // {
-        //     layer: 'layer-name',
-        //     opacity: 0
-        // }
-      ],
+      onChapterEnter: [],
+      onChapterExit: [],
     },
     {
       id: '3巻-P62-潮岬灯台',
@@ -109,26 +76,15 @@ const config = {
       description: '3巻 P62 ',
       location: {
         center: [135.7544642, 33.4375625],
-        zoom: 13,
+        zoom: 14,
         pitch: 60,
         bearing: 0,
       },
       mapAnimation: 'flyTo',
       rotateAnimation: false,
       callback: '',
-      onChapterEnter: [
-        // {
-        //     layer: 'layer-name',
-        //     opacity: 1,
-        //     duration: 5000
-        // }
-      ],
-      onChapterExit: [
-        // {
-        //     layer: 'layer-name',
-        //     opacity: 0
-        // }
-      ],
+      onChapterEnter: [],
+      onChapterExit: [],
     },
     {
       id: '3巻-P64-本州最南端の碑',
@@ -139,26 +95,15 @@ const config = {
       description: '3巻 P64 ',
       location: {
         center: [135.7621203, 33.4362401],
-        zoom: 13,
+        zoom: 14,
         pitch: 60,
         bearing: 0,
       },
       mapAnimation: 'flyTo',
       rotateAnimation: false,
       callback: '',
-      onChapterEnter: [
-        // {
-        //     layer: 'layer-name',
-        //     opacity: 1,
-        //     duration: 5000
-        // }
-      ],
-      onChapterExit: [
-        // {
-        //     layer: 'layer-name',
-        //     opacity: 0
-        // }
-      ],
+      onChapterEnter: [],
+      onChapterExit: [],
     },
     {
       id: '3巻-P67-ビジネスホテル串本 駅前店',
@@ -169,26 +114,15 @@ const config = {
       description: '3巻 P67 ',
       location: {
         center: [135.782048, 33.474975],
-        zoom: 13,
+        zoom: 14,
         pitch: 60,
         bearing: 0,
       },
       mapAnimation: 'flyTo',
       rotateAnimation: false,
       callback: '',
-      onChapterEnter: [
-        // {
-        //     layer: 'layer-name',
-        //     opacity: 1,
-        //     duration: 5000
-        // }
-      ],
-      onChapterExit: [
-        // {
-        //     layer: 'layer-name',
-        //     opacity: 0
-        // }
-      ],
+      onChapterEnter: [],
+      onChapterExit: [],
     },
     {
       id: '3巻-P69-ビーフショップまるみ支店',
@@ -199,26 +133,15 @@ const config = {
       description: '3巻 P69 ',
       location: {
         center: [135.7805652, 33.4701756],
-        zoom: 13,
+        zoom: 14,
         pitch: 60,
         bearing: 0,
       },
       mapAnimation: 'flyTo',
       rotateAnimation: false,
       callback: '',
-      onChapterEnter: [
-        // {
-        //     layer: 'layer-name',
-        //     opacity: 1,
-        //     duration: 5000
-        // }
-      ],
-      onChapterExit: [
-        // {
-        //     layer: 'layer-name',
-        //     opacity: 0
-        // }
-      ],
+      onChapterEnter: [],
+      onChapterExit: [],
     },
     {
       id: '3巻-P71-潮岬観光タワー',
@@ -229,26 +152,15 @@ const config = {
       description: '3巻 P71 ',
       location: {
         center: [135.7613677, 33.437806],
-        zoom: 13,
+        zoom: 14,
         pitch: 60,
         bearing: 0,
       },
       mapAnimation: 'flyTo',
       rotateAnimation: false,
       callback: '',
-      onChapterEnter: [
-        // {
-        //     layer: 'layer-name',
-        //     opacity: 1,
-        //     duration: 5000
-        // }
-      ],
-      onChapterExit: [
-        // {
-        //     layer: 'layer-name',
-        //     opacity: 0
-        // }
-      ],
+      onChapterEnter: [],
+      onChapterExit: [],
     },
     {
       id: '3巻-P80-新宮駅',
@@ -259,26 +171,15 @@ const config = {
       description: '3巻 P80 ',
       location: {
         center: [135.9941471, 33.7251509],
-        zoom: 13,
+        zoom: 14,
         pitch: 60,
         bearing: 0,
       },
       mapAnimation: 'flyTo',
       rotateAnimation: false,
       callback: '',
-      onChapterEnter: [
-        // {
-        //     layer: 'layer-name',
-        //     opacity: 1,
-        //     duration: 5000
-        // }
-      ],
-      onChapterExit: [
-        // {
-        //     layer: 'layer-name',
-        //     opacity: 0
-        // }
-      ],
+      onChapterEnter: [],
+      onChapterExit: [],
     },
     {
       id: '3巻-P81-新宮市観光協会 shingu tourist information centre',
@@ -289,26 +190,15 @@ const config = {
       description: '3巻 P81 ',
       location: {
         center: [135.9946972, 33.7254244],
-        zoom: 13,
+        zoom: 14,
         pitch: 60,
         bearing: 0,
       },
       mapAnimation: 'flyTo',
       rotateAnimation: false,
       callback: '',
-      onChapterEnter: [
-        // {
-        //     layer: 'layer-name',
-        //     opacity: 1,
-        //     duration: 5000
-        // }
-      ],
-      onChapterExit: [
-        // {
-        //     layer: 'layer-name',
-        //     opacity: 0
-        // }
-      ],
+      onChapterEnter: [],
+      onChapterExit: [],
     },
     {
       id: '3巻-P81-くまのこ食堂',
@@ -319,26 +209,15 @@ const config = {
       description: '3巻 P81 ',
       location: {
         center: [135.7723926, 33.834421],
-        zoom: 13,
+        zoom: 14,
         pitch: 60,
         bearing: 0,
       },
       mapAnimation: 'flyTo',
       rotateAnimation: false,
       callback: '',
-      onChapterEnter: [
-        // {
-        //     layer: 'layer-name',
-        //     opacity: 1,
-        //     duration: 5000
-        // }
-      ],
-      onChapterExit: [
-        // {
-        //     layer: 'layer-name',
-        //     opacity: 0
-        // }
-      ],
+      onChapterEnter: [],
+      onChapterExit: [],
     },
     {
       id: '3巻-P82-熊野本宮大社',
@@ -349,26 +228,15 @@ const config = {
       description: '3巻 P82 ',
       location: {
         center: [135.7734753, 33.8405706],
-        zoom: 13,
+        zoom: 14,
         pitch: 60,
         bearing: 0,
       },
       mapAnimation: 'flyTo',
       rotateAnimation: false,
       callback: '',
-      onChapterEnter: [
-        // {
-        //     layer: 'layer-name',
-        //     opacity: 1,
-        //     duration: 5000
-        // }
-      ],
-      onChapterExit: [
-        // {
-        //     layer: 'layer-name',
-        //     opacity: 0
-        // }
-      ],
+      onChapterEnter: [],
+      onChapterExit: [],
     },
     {
       id: '3巻-P85-料理 萬口',
@@ -379,26 +247,15 @@ const config = {
       description: '3巻 P85 ',
       location: {
         center: [135.7817317, 33.4745935],
-        zoom: 13,
+        zoom: 14,
         pitch: 60,
         bearing: 0,
       },
       mapAnimation: 'flyTo',
       rotateAnimation: false,
       callback: '',
-      onChapterEnter: [
-        // {
-        //     layer: 'layer-name',
-        //     opacity: 1,
-        //     duration: 5000
-        // }
-      ],
-      onChapterExit: [
-        // {
-        //     layer: 'layer-name',
-        //     opacity: 0
-        // }
-      ],
+      onChapterEnter: [],
+      onChapterExit: [],
     },
 
   ],

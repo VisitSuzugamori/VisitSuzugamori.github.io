@@ -19,26 +19,15 @@ const config = {
       description: '0巻 P ',
       location: {
         center: [139.7671248, 35.6812362],
-        zoom: 13,
+        zoom: 14,
         pitch: 60,
         bearing: 0,
       },
       mapAnimation: 'flyTo',
       rotateAnimation: false,
       callback: '',
-      onChapterEnter: [
-        // {
-        //     layer: 'layer-name',
-        //     opacity: 1,
-        //     duration: 5000
-        // }
-      ],
-      onChapterExit: [
-        // {
-        //     layer: 'layer-name',
-        //     opacity: 0
-        // }
-      ],
+      onChapterEnter: [],
+      onChapterExit: [],
     },
     {
       id: '0巻-P-小倉駅',
@@ -49,26 +38,15 @@ const config = {
       description: '0巻 P ',
       location: {
         center: [130.8825758, 33.8869679],
-        zoom: 13,
+        zoom: 14,
         pitch: 60,
         bearing: 0,
       },
       mapAnimation: 'flyTo',
       rotateAnimation: false,
       callback: '',
-      onChapterEnter: [
-        // {
-        //     layer: 'layer-name',
-        //     opacity: 1,
-        //     duration: 5000
-        // }
-      ],
-      onChapterExit: [
-        // {
-        //     layer: 'layer-name',
-        //     opacity: 0
-        // }
-      ],
+      onChapterEnter: [],
+      onChapterExit: [],
     },
     {
       id: '0巻-P-バジェット･レンタカー 小倉駅前店',
@@ -79,26 +57,15 @@ const config = {
       description: '0巻 P ',
       location: {
         center: [130.884924, 33.887012],
-        zoom: 13,
+        zoom: 14,
         pitch: 60,
         bearing: 0,
       },
       mapAnimation: 'flyTo',
       rotateAnimation: false,
       callback: '',
-      onChapterEnter: [
-        // {
-        //     layer: 'layer-name',
-        //     opacity: 1,
-        //     duration: 5000
-        // }
-      ],
-      onChapterExit: [
-        // {
-        //     layer: 'layer-name',
-        //     opacity: 0
-        // }
-      ],
+      onChapterEnter: [],
+      onChapterExit: [],
     },
     {
       id: '0巻-P-耶馬溪',
@@ -109,26 +76,15 @@ const config = {
       description: '0巻 P ',
       location: {
         center: [131.1779366, 33.4947001],
-        zoom: 13,
+        zoom: 14,
         pitch: 60,
         bearing: 0,
       },
       mapAnimation: 'flyTo',
       rotateAnimation: false,
       callback: '',
-      onChapterEnter: [
-        // {
-        //     layer: 'layer-name',
-        //     opacity: 1,
-        //     duration: 5000
-        // }
-      ],
-      onChapterExit: [
-        // {
-        //     layer: 'layer-name',
-        //     opacity: 0
-        // }
-      ],
+      onChapterEnter: [],
+      onChapterExit: [],
     },
     {
       id: '0巻-P-青の洞門',
@@ -139,26 +95,15 @@ const config = {
       description: '0巻 P ',
       location: {
         center: [131.1717971, 33.5001247],
-        zoom: 13,
+        zoom: 14,
         pitch: 60,
         bearing: 0,
       },
       mapAnimation: 'flyTo',
       rotateAnimation: false,
       callback: '',
-      onChapterEnter: [
-        // {
-        //     layer: 'layer-name',
-        //     opacity: 1,
-        //     duration: 5000
-        // }
-      ],
-      onChapterExit: [
-        // {
-        //     layer: 'layer-name',
-        //     opacity: 0
-        // }
-      ],
+      onChapterEnter: [],
+      onChapterExit: [],
     },
     {
       id: '0巻-P-楓乃木',
@@ -169,26 +114,15 @@ const config = {
       description: '0巻 P ',
       location: {
         center: [131.1647678, 33.377945],
-        zoom: 13,
+        zoom: 14,
         pitch: 60,
         bearing: 0,
       },
       mapAnimation: 'flyTo',
       rotateAnimation: false,
       callback: '',
-      onChapterEnter: [
-        // {
-        //     layer: 'layer-name',
-        //     opacity: 1,
-        //     duration: 5000
-        // }
-      ],
-      onChapterExit: [
-        // {
-        //     layer: 'layer-name',
-        //     opacity: 0
-        // }
-      ],
+      onChapterEnter: [],
+      onChapterExit: [],
     },
 
   ],
