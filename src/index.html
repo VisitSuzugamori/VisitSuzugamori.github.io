@@ -250,7 +250,7 @@ const transformRequest = (url) => {
 const flickrImageUrl = async (record) => {
   const latlon = record.location.center;
   const flickr_key = 'f8c30ae7ac87e73ad0f516e314b5cfef';
-  const url = `https://www.flickr.com/services/rest/?method=flickr.photos.search&api_key=${flickr_key}&privacy_filter=1&content_type=1&media=photos&lat=${latlon[1]}&lon=${latlon[0]}&radius=0.1&format=json&nojsoncallback=1&sort=relevance&per_page=5&extras=description,license,owner_name&text=${record.name}`;
+  const url = `https://www.flickr.com/services/rest/?method=flickr.photos.search&api_key=${flickr_key}&privacy_filter=1&content_type=1&media=photos&lat=${latlon[1]}&lon=${latlon[0]}&radius=0.1&format=json&nojsoncallback=1&sort=relevance&per_page=5&extras=description,license,owner_name`; // &text=${record.name}
   try {
     const res = await fetch(url).catch((e) => {
       console.log(e);
@@ -336,13 +336,13 @@ map.on('load', () => {
         parent.firstChild.appendChild(content);
       }
 
-      const imageUrl = await flickrImageUrl(record).catch(console.log);
-      if (imageUrl) {
+      const image = await flickrImageUrl(record).catch(console.log);
+      if (image) {
         const img = document.createElement('img');
-        img.src = imageUrl.url;
+        img.src = image.url;
         parent.firstChild.appendChild(img);
-        const caption = document.createElement('caption');
-        caption.innerText = `photo by ${owner_name}, from frickr. ${title} ${description}`;
+        const caption = document.createElement('p');
+        caption.innerText = `photo by ${image.owner_name}, from Flickr. ${image.title} ${image.description}`;
         parent.firstChild.appendChild(caption);
       }
     })();
