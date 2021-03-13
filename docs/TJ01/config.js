@@ -341,36 +341,6 @@ const config = {
       ],
     },
     {
-      id: '1巻-P45-羽黒山湯上神社本殿',
-      alignment: 'left',
-      hidden: false,
-      title: '羽黒山湯上神社本殿',
-      image: '',
-      description: '1巻 P45 ',
-      location: {
-        center: [139.9651712, 37.4818757],
-        zoom: 13,
-        pitch: 60,
-        bearing: 0,
-      },
-      mapAnimation: 'flyTo',
-      rotateAnimation: false,
-      callback: '',
-      onChapterEnter: [
-        // {
-        //     layer: 'layer-name',
-        //     opacity: 1,
-        //     duration: 5000
-        // }
-      ],
-      onChapterExit: [
-        // {
-        //     layer: 'layer-name',
-        //     opacity: 0
-        // }
-      ],
-    },
-    {
       id: '1巻-P51-会津さざえ堂 (円通寺三匝堂)',
       alignment: 'left',
       hidden: false,

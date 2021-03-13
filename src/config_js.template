@@ -19,26 +19,15 @@ const config = {
       description: '###book### ###page### ###special###',
       location: {
         center: [###coordinates###],
-        zoom: 13,
+        zoom: 14,
         pitch: 60,
         bearing: 0,
       },
       mapAnimation: 'flyTo',
       rotateAnimation: false,
       callback: '',
-      onChapterEnter: [
-        // {
-        //     layer: 'layer-name',
-        //     opacity: 1,
-        //     duration: 5000
-        // }
-      ],
-      onChapterExit: [
-        // {
-        //     layer: 'layer-name',
-        //     opacity: 0
-        // }
-      ],
+      onChapterEnter: [],
+      onChapterExit: [],
     },###chapter-end###
   ],
 };

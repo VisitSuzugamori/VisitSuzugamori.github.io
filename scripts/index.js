@@ -21,6 +21,7 @@ const replacements = { '': '', '（前編）': '-1', '（後編）': '-2' };
       await writeConfig(sIndex, sData);
       await writeCsv(sIndex, sData);
     }
+    await writeCsv('others', byStory.get('special'));
   } catch (e) {
     console.log('DEBUG toplevel', e);
   }
@@ -51,9 +52,10 @@ function indexByStory(data) {
     const description = poi.get('description');
     const chunks1 = description.split('<br>');
     if (description.indexOf('＆') > -1) {
-      const x = description.split('＆', 2);
-      chunks1.push(x[0]);
-      chunks1.push(x[1]);
+      chunks1.pop(); // dedup item
+      description.split('＆').forEach((chunks2) => {
+        chunks1.push(chunks2);
+      });
     }
     for (const chunk of chunks1) {
       const point = new Map(poi);
@@ -79,7 +81,7 @@ function indexByStory(data) {
         book = parseInt(match_b[1], 10);
       }
 
-      const match_p = chunk.match(/(?:\d{1,2})巻P(\d{1,3},?\d{0,3})(?:\s|$)/);
+      const match_p = chunk.match(/(?:\d{1,3})巻P(\d{1,3},?\d{0,3})(?:\s|$)/);
       if (Array.isArray(match_p)) {
         page = match_p[1];
       }
@@ -97,6 +99,16 @@ function indexByStory(data) {
   return index;
 }
 
+async function makeDir(dirname) {
+  try {
+    await fs.stat(dirname);
+    await fs.access(dirname);
+  } catch (e) {
+    await fs.mkdir(dirname, { mode: 0o755 });
+    console.log(`mkdir: ${dirname}`);
+  }
+}
+
 async function writeCsv(journey, s) {
   let content = '';
   for (const item of s) {
@@ -110,20 +122,16 @@ async function writeCsv(journey, s) {
         item.get('description'),
       ].join('\t') + '\n';
   }
-  await fs.writeFile(path.normalize(`dist/${journey}.tsv`), content);
+  const dirname = 'dist/csv';
+  await makeDir(dirname);
+  await fs.writeFile(path.normalize(`${dirname}/${journey}.tsv`), content);
 }
 
 async function writeHtml(journey) {
   const dirname = `docs/TJ${journey}`;
-  try {
-    await fs.stat(dirname);
-    await fs.access(dirname);
-  } catch (e) {
-    await fs.mkdir(dirname, { mode: 0o755 });
-    console.error(e);
-  }
+  await makeDir(dirname);
   const html_source = await fs.readFile('src/index.html', { encoding: 'utf-8', flag: 'r' });
-  await fs.writeFile(path.normalize(`docs/TJ${journey}/index.html`), html_source);
+  await fs.writeFile(path.normalize(`${dirname}/index.html`), html_source);
 }
 
 async function writeConfig(journey, s) {
@@ -147,5 +155,7 @@ async function writeConfig(journey, s) {
       .replace(/###coordinates###/g, point.get('coordinates').replace(/,0$/, '').replace(',', ', '));
   }
   const content = part1 + part2 + cft[3];
-  await fs.writeFile(path.normalize(`docs/TJ${journey}/config.js`), content);
+  const dirname = `docs/TJ${journey}`;
+  await makeDir(dirname);
+  await fs.writeFile(path.normalize(`${dirname}/config.js`), content);
 }
