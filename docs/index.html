@@ -19,7 +19,7 @@
   #map { height: 100%; width: 100%; position: absolute; left: 0; top: 0; }
   #container { opacity: 0.85; }
   .article ul { opacity: 0.7; background-color: white; }
-  .article ul li { height: 28px; overflow: hidden; }
+  .article ul li { height: 30px; overflow: hidden; }
 </style>
 </head>
 <body>
@@ -76,24 +76,25 @@
     });
 
     map.on('load', () => {
-      const marker = new Image();
-      marker.src = './marker.png';
-      marker.alt = '👣';
-      marker.width = 16;
-      marker.height = 16;
-      map.addImage('custom-marker', marker);
-      map.addSource('zatsumap', { type: 'geojson', data: './zatsumap.geojson' });
-      map.addLayer({
-        'id': 'points',
-        'type': 'symbol',
-        'source': 'zatsumap',
-        'layout': {
-          'icon-image': 'custom-marker',
-          'text-field': ['get', 'name'],
-          'text-offset': [0, 1.25],
-          'text-anchor': 'top'
+      map.loadImage(
+        './marker.png',
+        (error, image) => {
+          if (error) throw error;
+          map.addImage('custom-marker', image);
+          map.addSource('zatsumap', { type: 'geojson', data: './zatsumap.geojson' });
+          map.addLayer({
+            'id': 'points',
+            'type': 'symbol',
+            'source': 'zatsumap',
+            'layout': {
+              'icon-image': 'custom-marker',
+              'text-field': ['get', 'name'],
+              'text-offset': [0, 1.25],
+              'text-anchor': 'top'
+            }
+          });
         }
-      });
+      );
     });
   </script>
 </body>
