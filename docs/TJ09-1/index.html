@@ -117,6 +117,9 @@
             padding: 0.6em;
             margin-bottom: 1.8em;
         }
+        #footer .navi a {
+            padding: 20px 3px;
+        }
         </style>
 </head>
 <body>
@@ -349,7 +352,7 @@ map.on('load', () => {
         img.src = image.url;
         parent.firstChild.appendChild(img);
         const caption = document.createElement('p');
-        caption.innerHTML = `photo from <a rel="noopener" href="${searchUrl}">Flickr</a>【${encodeURIComponent(image.title)}】 by ${encodeURIComponent(image.ownername)}`;
+        caption.innerHTML = `photo from <a rel="noopener" href="${searchUrl}">Flickr</a>【${image.title}】 by ${image.ownername}`;
         parent.firstChild.appendChild(caption);
       }
     })();
