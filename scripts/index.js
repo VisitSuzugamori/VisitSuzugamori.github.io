@@ -169,7 +169,7 @@ async function writeConfig(journey, s, j) {
   let part2 = '';
   for (const point of s) {
     const coordinates = point.get('coordinates').split(',', 2);
-    let description = point.get('description');
+    let description = '';
     const twitter_id = await getTwitterId({
       latlon: coordinates,
       additional_keyword: point.get('name'),
