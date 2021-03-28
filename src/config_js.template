@@ -1,12 +1,12 @@
 const config = {
   style: 'mapbox://styles/isnot/ckdzfj1n70ee219lhgygiamwc',
-  accessToken: 'pk.eyJ1IjoiaXNub3QiLCJhIjoiY2tscDdpeGExMHp5cTJwcXI0YWlzZHdyeCJ9._NooEseBc8wEwa3z_plcAg',
+  accessToken: '###mapbox_access_token###',
   showMarkers: true,
   markerColor: '#3FB1CE',
   theme: 'light',
   use3dTerrain: true,
-  title: 'VisitSuzugamori ###journey###',
-  subtitle: '【###journey###】',
+  title: 'VisitSuzugamori ###title###',
+  subtitle: '【###place###】###subtitle###',
   byline: '地図作成 isnot',
   footer: '<p class="navi"><a href="/">🔝各話一覧へ</a> <a href="https://github.com/VisitSuzugamori/VisitSuzugamori.github.io">💬contact</a></p><p>原作：<a href="https://store.kadokawa.co.jp/shop/b/bM1394_dD/">ざつ旅-That&#39;s Journey-</a> (c) 石坂 ケンタ, KADOKAWA, 電撃マオウ / 地図・テンプレート：<a href="https://github.com/mapbox/storytelling">Mapbox</a>',
   chapters: [
@@ -16,7 +16,7 @@ const config = {
       hidden: false,
       title: '###name###',
       image: '',
-      description: '###book### ###page### ###special###',
+      description: '###book### ###page### ###special### ###description###',
       location: {
         center: [###coordinates###],
         zoom: 14,
