@@ -3,10 +3,24 @@
 const fs = require('fs').promises;
 const path = require('path');
 const { DOMParser } = require('xmldom');
+const VistSuzugamori = require('../docs/VisitSuzugamori.json');
+const { TwitterApi } = require('./twitter.js');
+const secret = require('../my_secret.json');
 
 const kmlPath = path.normalize('zatsumap.kml');
 const configPath = path.normalize('src/config_js.template');
 const replacements = { '': '', '（前編）': '-1', '（後編）': '-2' };
+
+const tw = new TwitterApi({
+  bearer_token: secret.twitter_dev.bearer_token,
+  keyword: VistSuzugamori.series.short_title,
+  query_param: 'has:images lang:ja', // -is:retweet
+  radius: '1km',
+  api_version: 1.1,
+  product_track: 'Premium_Sandbox',
+  search_type: 'search_full_dev',
+  dry_run: false,
+});
 
 (async () => {
   try {
@@ -15,10 +29,15 @@ const replacements = { '': '', '（前編）': '-1', '（後編）': '-2' };
     const kml = parser.parseFromString(rawContent, 'application/xml');
     const placemarks = parseKml(kml);
     const byStory = indexByStory(placemarks);
+
     for (const sIndex of Array.from(byStory.keys()).filter((x) => x !== 'special')) {
+      let jData = {};
+      if (Object.prototype.hasOwnProperty.call(VistSuzugamori.stories, `TJ${sIndex}`)) {
+        jData = VistSuzugamori.stories[`TJ${sIndex}`];
+      }
       const sData = byStory.get(sIndex);
       await writeHtml(sIndex);
-      await writeConfig(sIndex, sData);
+      await writeConfig(sIndex, sData, jData);
       await writeCsv(sIndex, sData);
     }
     await writeCsv('others', byStory.get('special'));
@@ -134,16 +153,32 @@ async function writeHtml(journey) {
   await fs.writeFile(path.normalize(`${dirname}/index.html`), html_source);
 }
 
-async function writeConfig(journey, s) {
+async function writeConfig(journey, s, j) {
   const template_source = await fs.readFile(configPath, { encoding: 'utf-8', flag: 'r' });
   const cft = template_source.match(/(.+)###chapter-start###(.+)###chapter-end###(.+)/ms);
   if (!Array.isArray(cft)) {
     return;
   }
-  const part1 = cft[1].replace(/###journey###/gm, journey);
+  const part1 = cft[1]
+    .replace(/###mapbox_access_token###/m, secret.mapbox.access_token)
+    .replace(/###journey###/gm, journey)
+    .replace(/###title###/gm, j.title)
+    .replace(/###place###/gm, j.place)
+    .replace(/###subtitle###/gm, j.subtitle);
   const part2_source = cft[2];
   let part2 = '';
   for (const point of s) {
+    const coordinates = point.get('coordinates').split(',', 2);
+    let description = point.get('description');
+    const twitter_id = await getTwitterId({
+      latlon: coordinates,
+      additional_keyword: point.get('name'),
+      search_type: 'search_recent',
+    });
+    console.log('wC tw:', coordinates, twitter_id, description);
+    if (twitter_id) {
+      description += `<div class="tweetContainer" id="tweet${twitter_id}"></div>`;
+    }
     let part2_item = `${part2_source}\n`;
     part2 += part2_item
       .replace(/###journey###/g, journey)
@@ -151,11 +186,31 @@ async function writeConfig(journey, s) {
       .replace(/###page###/g, `P${point.get('page')}`)
       .replace(/###name###/g, point.get('name'))
       .replace(/###special###/g, point.get('special'))
-      .replace(/###description###/g, point.get('description'))
-      .replace(/###coordinates###/g, point.get('coordinates').replace(/,0$/, '').replace(',', ', '));
+      .replace(/###description###/g, description)
+      .replace(/###coordinates###/g, coordinates.join(', '));
   }
   const content = part1 + part2 + cft[3];
   const dirname = `docs/TJ${journey}`;
   await makeDir(dirname);
   await fs.writeFile(path.normalize(`${dirname}/config.js`), content);
+}
+
+async function getTwitterId({ latlon, additional_keyword, search_type }) {
+  try {
+    const res = await tw.searchRecentGeo({
+      latlon,
+      additional_keyword,
+      search_type,
+    });
+    console.log('OK', typeof res, res);
+    const data = search_type === 'search_full_dev' ? res.results : res.statuses;
+    const tweet = data.filter((x) => !x.possibly_sensitive).shift();
+    if (typeof tweet === 'object') {
+      return tweet.id;
+    }
+    return undefined;
+  } catch (e) {
+    console.log('exception', e);
+    return undefined;
+  }
 }

@@ -2,7 +2,7 @@ const got = require('got');
 
 class TwitterApi {
   constructor(config) {
-    this.token = config.BEARER_TOKEN;
+    this.token = config.bearer_token;
     const { keyword, query_param, radius, api_version, product_track, search_type, dry_run } = config;
     this.keyword = keyword;
     this.query_param = query_param;
@@ -64,10 +64,12 @@ class TwitterApi {
     });
   }
 
-  async searchRecentGeo(latlon = [137, 39]) {
+  async searchRecentGeo(options = {}) {
+    // latlon: [137, 39], <place>, 'search_full_dev'
+    const { latlon, additional_keyword, search_type } = options;
     const api = this.getClient();
-    const endpoint = this.getEndpoint(this.api_version, this.product_track, this.search_type);
-    const params = this.setupParams(latlon);
+    const endpoint = this.getEndpoint(this.api_version, this.product_track, search_type);
+    const params = this.setupParams(latlon, additional_keyword, search_type);
     if (this.dry_run) {
       return {
         is_dry_run: this.dry_run,
@@ -85,32 +87,34 @@ class TwitterApi {
     return this.endpoint.get(version).get(product_track).get(search_type);
   }
 
-  setupParams(latlon) {
+  setupParams(latlon, additional_keyword, search_type) {
+    // console.debug('setupParams', latlon, additional_keyword, search_type);
     const V2 = {
-      query: `${this.keyword} ${this.query_param} point_radius:[${latlon[0]} ${latlon[1]} ${this.radius}]`,
+      query: `${this.keyword} OR ${additional_keyword} ${this.query_param} point_radius:[${latlon[0]} ${latlon[1]} ${this.radius}]`,
       'place.fields': 'contained_within,full_name,geo,id,name,place_type',
       'media.fields': 'height,media_key,preview_image_url,type,url,width',
       'user.fields': 'created_at,id,name,profile_image_url,protected,username,verified',
       'tweet.fields': 'attachments,author_id,created_at,geo,id,lang,possibly_sensitive,text',
     };
     const V1_Premium = {
-      query: `${this.keyword} ${this.query_param} point_radius:[${latlon[0]} ${latlon[1]} ${this.radius}]`,
-      maxResults: 100,
+      query: `${this.keyword} OR ${additional_keyword} ${this.query_param} point_radius:[${latlon[0]} ${latlon[1]} ${this.radius}]`,
+      maxResults: 3,
       fromDate: '201502170000',
     };
     const V1_Standard = {
-      q: `${this.keyword} filter:media`,
+      q: `${this.keyword} OR ${additional_keyword} filter:media`,
       geocode: `${latlon[1]},${latlon[0]},${this.radius}`,
       lang: 'ja',
       include_entities: 'false',
-      count: 100,
+      count: 3,
     };
     return new Map([
-      ['1.1_Standard', V1_Standard],
-      ['1.1_Premium_Sandbox', V1_Premium],
-      ['2_Standard', V2],
-      ['2_Premium_Sandbox', V2],
-    ]).get(`${this.api_version}_${this.product_track}`);
+      ['1.1_search_recent', V1_Standard],
+      ['1.1_search_full_dev', V1_Premium],
+      ['2_search_recent', V2],
+      ['2_search_full', V2],
+      ['2_search_full_dev', V2],
+    ]).get(`${this.api_version}_${search_type}`);
   }
 }
 
