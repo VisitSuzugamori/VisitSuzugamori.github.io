@@ -144,6 +144,14 @@
       "place": "東京",
       "subtitle": "それでも繋がってる"
     },
+    "TJ16": {
+      "index": 16,
+      "id": "TJ16",
+      "key": "第16旅",
+      "title": "第16旅 茨城",
+      "place": "茨城",
+      "subtitle": null
+    },
     "TJ16-1": {
       "index": 16,
       "id": "TJ16-1",
@@ -158,6 +166,14 @@
       "key": "第16旅",
       "title": "第16旅 茨城後編",
       "place": "茨城",
+      "subtitle": null
+    },
+    "TJ17": {
+      "index": 17,
+      "id": "TJ17",
+      "key": "第17旅",
+      "title": "第17旅 九州",
+      "place": "九州",
       "subtitle": null
     },
     "TJ17-1": {
