@@ -2472,5 +2472,76 @@
         </coordinates>
       </Point>
     </Placemark>
+    <Placemark>
+      <name>川底第一トンネル</name>
+      <description>第17旅</description>
+      <styleUrl>#icon-1899-E65100-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          131.2424172,33.347179,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>宇佐のマチュピチュ展望所</name>
+      <description>第17旅</description>
+      <styleUrl>#icon-1899-E65100-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          131.2675881,33.3744345,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>田舎食堂いいとこ焙（ばい）</name>
+      <description>第17旅</description>
+      <styleUrl>#icon-1899-E65100-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          131.2020271,33.332064,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>国道500号線
+</name>
+      <description>第17旅</description>
+      <styleUrl>#icon-1899-E65100-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          131.2458929,33.4187204,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>両子寺 仁王</name>
+      <description>第17旅</description>
+      <styleUrl>#icon-1899-E65100-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          131.6046218,33.5728799,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>両子寺</name>
+      <description>第17旅</description>
+      <styleUrl>#icon-1899-E65100-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          131.603241,33.5740013,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>USA（宇佐）神宮</name>
+      <description>第17旅</description>
+      <styleUrl>#icon-1899-E65100-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          131.3746381,33.5260019,0
+        </coordinates>
+      </Point>
+    </Placemark>
   </Document>
 </kml>

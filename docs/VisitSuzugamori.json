@@ -1,0 +1,212 @@
+{
+  "series": {
+    "short_title": "ざつ旅",
+    "title": "ざつ旅-That's Journey-",
+    "auther": "石坂 ケンタ",
+    "publish": "KADOKAWA",
+    "label": "電撃コミックスNEXT",
+    "magazine": "電撃マオウ"
+  },
+  "stories": {
+    "TJ01": {
+      "index": 1,
+      "id": "TJ01",
+      "key": "第1旅",
+      "title": "第1旅 会津若松",
+      "place": "会津若松",
+      "subtitle": "はじめの1225段"
+    },
+    "TJ02": {
+      "index": 2,
+      "id": "TJ02",
+      "key": "第2旅",
+      "title": "第2旅 松島",
+      "place": "松島",
+      "subtitle": "伊達じゃない伊達"
+    },
+    "TJ03": {
+      "index": 3,
+      "id": "TJ03",
+      "key": "第3旅",
+      "title": "第3旅 黒部",
+      "place": "黒部",
+      "subtitle": "きときとふたり旅"
+    },
+    "TJ04": {
+      "index": 4,
+      "id": "TJ04",
+      "key": "第4旅",
+      "title": "第4旅 高松",
+      "place": "高松",
+      "subtitle": "そのままのコシで"
+    },
+    "TJ05": {
+      "index": 5,
+      "id": "TJ05",
+      "key": "第5旅",
+      "title": "第5旅 京都",
+      "place": "京都",
+      "subtitle": "ふ、ばいざしー"
+    },
+    "TJ06": {
+      "index": 6,
+      "id": "TJ06",
+      "key": "第6旅",
+      "title": "第6旅 栃木",
+      "place": "栃木",
+      "subtitle": "カラスと龍と蕎麦の先"
+    },
+    "TJ07": {
+      "index": 7,
+      "id": "TJ07",
+      "key": "第7旅",
+      "title": "第7旅 粟島",
+      "place": "粟島",
+      "subtitle": "初めての離島"
+    },
+    "TJ08": {
+      "index": 8,
+      "id": "TJ08",
+      "key": "第8旅",
+      "title": "第8旅 伊勢",
+      "place": "伊勢",
+      "subtitle": "神様と出会える街？"
+    },
+    "TJ09-1": {
+      "index": 9,
+      "id": "TJ09-1",
+      "key": "第9旅",
+      "title": "第9旅 広島前編",
+      "place": "広島",
+      "subtitle": "三人よれば…バス？"
+    },
+    "TJ09-2": {
+      "index": 9,
+      "id": "TJ09-2",
+      "key": "第9旅",
+      "title": "第9旅 広島後編",
+      "place": "広島",
+      "subtitle": "女子三人寄って睦まじい"
+    },
+    "TJ10": {
+      "index": 10,
+      "id": "TJ10",
+      "key": "第10旅",
+      "title": "第10旅 青森",
+      "place": "青森",
+      "subtitle": "温泉で完成"
+    },
+    "TJ11": {
+      "index": 11,
+      "id": "TJ11",
+      "key": "第11旅",
+      "title": "第11旅 和歌山",
+      "place": "和歌山",
+      "subtitle": "一年のおわりとはじまり"
+    },
+    "TJ12": {
+      "index": 12,
+      "id": "TJ12",
+      "key": "第12旅",
+      "title": "第12旅 花巻",
+      "place": "花巻",
+      "subtitle": "ココロのふるさと"
+    },
+    "TJ13-1": {
+      "index": 13,
+      "id": "TJ13-1",
+      "key": "第13旅",
+      "title": "第13旅 島根前編",
+      "place": "島根",
+      "subtitle": "師匠と片参り"
+    },
+    "TJ13-2": {
+      "index": 13,
+      "id": "TJ13-2",
+      "key": "第13旅",
+      "title": "第13旅 島根後編",
+      "place": "島根",
+      "subtitle": "師匠と片参り"
+    },
+    "TJ14": {
+      "index": 14,
+      "id": "TJ14",
+      "key": "第14旅",
+      "title": "第14旅 奥多摩",
+      "place": "奥多摩",
+      "subtitle": "ほんとうに都内"
+    },
+    "TJ15": {
+      "index": 15,
+      "id": "TJ15",
+      "key": "第15旅",
+      "title": "第15旅 都内",
+      "place": "東京",
+      "subtitle": "それでも繋がってる"
+    },
+    "TJ16-1": {
+      "index": 16,
+      "id": "TJ16-1",
+      "key": "第16旅",
+      "title": "第16旅 茨城前編",
+      "place": "茨城",
+      "subtitle": null
+    },
+    "TJ16-2": {
+      "index": 16,
+      "id": "TJ16-2",
+      "key": "第16旅",
+      "title": "第16旅 茨城後編",
+      "place": "茨城",
+      "subtitle": null
+    },
+    "TJ17-1": {
+      "index": 17,
+      "id": "TJ17-1",
+      "key": "第17旅",
+      "title": "第17旅 九州前編",
+      "place": "九州",
+      "subtitle": null
+    },
+    "TJ17-2": {
+      "index": 17,
+      "id": "TJ17-2",
+      "key": "第17旅",
+      "title": "第17旅 九州後編",
+      "place": "九州",
+      "subtitle": null
+    }
+  },
+  "books": {
+    "1": {
+      "cover_image_url": "https://www.hanmoto.com/bd/img/9784049128253.jpg",
+      "published": "2019-09-27T00:00:00.000Z",
+      "isbn": "978-4-04-912825-3"
+    },
+    "2": {
+      "cover_image_url": "https://www.hanmoto.com/bd/img/9784049130454.jpg",
+      "published": "2020-02-10T00:00:00.000Z",
+      "isbn": "978-4-04-913045-4"
+    },
+    "3": {
+      "cover_image_url": "https://www.hanmoto.com/bd/img/9784049132991.jpg",
+      "published": "2020-07-27T00:00:00.000Z",
+      "isbn": "978-4-04-913299-1"
+    },
+    "4": {
+      "cover_image_url": "https://www.hanmoto.com/bd/img/9784049135916.jpg",
+      "published": "2020-12-26T00:00:00.000Z",
+      "isbn": "978-4-04-913591-6"
+    }
+  },
+  "site": {
+    "title": "VisitSuzugamori",
+    "organization": "VisitSuzugamori",
+    "auther": [
+      "isnot (https://github.com/isnot)"
+    ],
+    "url": "https://visitsuzugamori.github.io/",
+    "repository": "https://github.com/VisitSuzugamori/VisitSuzugamori",
+    "license": "CC-BY-4.0"
+  }
+}
