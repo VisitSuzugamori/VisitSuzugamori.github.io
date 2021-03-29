@@ -12,6 +12,7 @@ class TwitterApi {
     this.search_type = search_type;
     this.dry_run = dry_run;
     this.deduped_tweets = new Set();
+    this.api_cache = new Map();
     this.endpoint = new Map([
       [
         1.1,
@@ -119,9 +120,15 @@ class TwitterApi {
         ...params,
       };
     }
+
+    const cache_key = `${additional_keyword}_${latlon.join('_')}`;
+    if (this.api_cache.has(cache_key)) {
+      return this.api_cache.get(cache_key);
+    }
     const res = await api(endpoint, { searchParams: params }).catch((e) => {
       throw e;
     });
+    this.api_cache.set(cache_key, res.body);
     return res.body;
   }
 
@@ -136,7 +143,7 @@ class TwitterApi {
     };
     const V1_Premium = {
       query: `${this.keyword} OR ${additional_keyword} ${this.query_param} point_radius:[${latlon[0]} ${latlon[1]} ${this.radius}]`,
-      maxResults: 3,
+      maxResults: 5,
       fromDate: '201502170000',
     };
     const V1_Standard = {
@@ -144,7 +151,7 @@ class TwitterApi {
       geocode: `${latlon[1]},${latlon[0]},${this.radius}`,
       lang: 'ja',
       include_entities: 'false',
-      count: 3,
+      count: 5,
     };
     return new Map([
       ['1.1_search_recent', V1_Standard],
