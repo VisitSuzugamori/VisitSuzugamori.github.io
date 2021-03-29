@@ -80,7 +80,7 @@ config.chapters.forEach((record, idx) => {
   }
 
   if (record.description) {
-    var story = document.createElement('p');
+    var story = document.createElement('div');
     story.innerHTML = record.description;
     chapter.appendChild(story);
   }
@@ -136,7 +136,7 @@ const flickrImageUrl = async (record) => {
       throw e;
     });
     const data = await res.json();
-    console.log(data);
+    // console.log(data);
     if (data.photos.total > 0) {
       const { server, id, secret, ownername, description, title, license } = data.photos.photo[0];
       const url = `https://live.staticflickr.com/${server}/${id}_${secret}_z.jpg`;
