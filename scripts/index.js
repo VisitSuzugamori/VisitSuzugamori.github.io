@@ -169,13 +169,13 @@ async function writeConfig(journey, s, j) {
   let part2 = '';
   for (const point of s) {
     const coordinates = point.get('coordinates').split(',', 2);
-    const twitter_id = await getTwitterId({
+    const tweet_id = await getTwitterId({
       latlon: coordinates,
       additional_keyword: point.get('name'),
       search_type: 'search_recent',
     });
-    console.log('wC tw:', coordinates, twitter_id);
-    const tweetContainer = twitter_id ? `<div class="tweetContainer" id="tweet${twitter_id}"></div>` : '';
+    console.log('wC tw:', coordinates, tweet_id);
+    const tweetContainer = tweet_id ? `<div class="tweetContainer" id="tweet${tweet_id}"></div>` : '';
     let part2_item = `${part2_source}\n`;
     part2 += part2_item
       .replace(/###journey###/g, journey)
@@ -183,7 +183,7 @@ async function writeConfig(journey, s, j) {
       .replace(/###page###/g, `P${point.get('page')}`)
       .replace(/###name###/g, point.get('name'))
       .replace(/###special###/g, point.get('special'))
-      .replace(/###twitter_id###/g, twitter_id)
+      .replace(/###tweet_id###/g, tweet_id ? tweet_id : '')
       .replace(/###twitter###/g, tweetContainer)
       .replace(/###coordinates###/g, coordinates.join(', '));
   }
@@ -200,11 +200,11 @@ async function getTwitterId({ latlon, additional_keyword, search_type }) {
       additional_keyword,
       search_type,
     });
-    // console.log('OK', typeof res, res);
     const data = search_type === 'search_full_dev' ? res.results : res.statuses;
     const tweet = data.filter((x) => !x.possibly_sensitive).shift();
+    console.log('OK', tweet);
     if (typeof tweet === 'object') {
-      return tweet.id;
+      return tweet.id_str;
     }
     return undefined;
   } catch (e) {

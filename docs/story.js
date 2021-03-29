@@ -81,6 +81,7 @@ config.chapters.forEach((record, idx) => {
 
   if (record.description) {
     var story = document.createElement('div');
+    story.classList.add('placeDescription');
     story.innerHTML = record.description;
     chapter.appendChild(story);
   }

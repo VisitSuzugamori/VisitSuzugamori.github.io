@@ -16,7 +16,8 @@ const config = {
       hidden: false,
       title: '伏見稲荷大社',
       image: '',
-      description: '2巻 P3  <div class="tweetContainer" id="tweet1375776113440424000"></div>',
+      tweet_id: '1376383443429285893',
+      description: '<p>2巻 P3 </p><div class="tweetContainer" id="tweet1376383443429285893"></div>',
       location: {
         center: [135.7726717, 34.9671402],
         zoom: 14,
@@ -35,7 +36,8 @@ const config = {
       hidden: false,
       title: '京都駅',
       image: '',
-      description: '2巻 P6  <div class="tweetContainer" id="tweet1376149371515850800"></div>',
+      tweet_id: '1376512400808009729',
+      description: '<p>2巻 P6 </p><div class="tweetContainer" id="tweet1376512400808009729"></div>',
       location: {
         center: [135.7587667, 34.985849],
         zoom: 14,
@@ -54,7 +56,8 @@ const config = {
       hidden: false,
       title: '藤岡酒造',
       image: '',
-      description: '2巻 P16  ',
+      tweet_id: '',
+      description: '<p>2巻 P16 </p>',
       location: {
         center: [135.7624568, 34.9351213],
         zoom: 14,
@@ -73,7 +76,8 @@ const config = {
       hidden: false,
       title: '月桂冠大倉記念館',
       image: '',
-      description: '2巻 P17  <div class="tweetContainer" id="tweet1375635163728711700"></div>',
+      tweet_id: '',
+      description: '<p>2巻 P17 </p>',
       location: {
         center: [135.76161, 34.929136],
         zoom: 14,
@@ -92,7 +96,8 @@ const config = {
       hidden: false,
       title: 'ラー麺・陽はまた昇る 伏見稲荷駅前本店',
       image: '',
-      description: '2巻 P17  ',
+      tweet_id: '',
+      description: '<p>2巻 P17 </p>',
       location: {
         center: [135.768613, 34.968596],
         zoom: 14,
@@ -111,7 +116,8 @@ const config = {
       hidden: false,
       title: '伏見稲荷駅',
       image: '',
-      description: '2巻 P18  <div class="tweetContainer" id="tweet1374176410214994000"></div>',
+      tweet_id: '1374176410214993921',
+      description: '<p>2巻 P18 </p><div class="tweetContainer" id="tweet1374176410214993921"></div>',
       location: {
         center: [135.7692088, 34.9687541],
         zoom: 14,
@@ -130,7 +136,8 @@ const config = {
       hidden: false,
       title: '宮津駅',
       image: '',
-      description: '2巻 P21  <div class="tweetContainer" id="tweet1375376627694141400"></div>',
+      tweet_id: '1375376627694141440',
+      description: '<p>2巻 P21 </p><div class="tweetContainer" id="tweet1375376627694141440"></div>',
       location: {
         center: [135.1997513, 35.5344188],
         zoom: 14,
@@ -149,7 +156,8 @@ const config = {
       hidden: false,
       title: '富田屋',
       image: '',
-      description: '2巻 P22  ',
+      tweet_id: '',
+      description: '<p>2巻 P22 </p>',
       location: {
         center: [135.1992613, 35.534848],
         zoom: 14,
@@ -168,7 +176,8 @@ const config = {
       hidden: false,
       title: '茶六本館',
       image: '',
-      description: '2巻 P22  ',
+      tweet_id: '',
+      description: '<p>2巻 P22 </p>',
       location: {
         center: [135.1918306, 35.5368405],
         zoom: 14,
@@ -187,7 +196,8 @@ const config = {
       hidden: false,
       title: '天橋立ビューランド リフト・モノレールのりば',
       image: '',
-      description: '2巻 P31  ',
+      tweet_id: '',
+      description: '<p>2巻 P31 </p>',
       location: {
         center: [135.1839285, 35.5557202],
         zoom: 14,
@@ -206,7 +216,8 @@ const config = {
       hidden: false,
       title: '天橋立ビューランド',
       image: '',
-      description: '2巻 P32  ',
+      tweet_id: '',
+      description: '<p>2巻 P32 </p>',
       location: {
         center: [135.1821171, 35.5527779],
         zoom: 14,
@@ -225,7 +236,8 @@ const config = {
       hidden: false,
       title: '天橋立',
       image: '',
-      description: '2巻 P35  <div class="tweetContainer" id="tweet1375673420625576000"></div>',
+      tweet_id: '1375673420625575938',
+      description: '<p>2巻 P35 </p><div class="tweetContainer" id="tweet1375673420625575938"></div>',
       location: {
         center: [135.1918204, 35.5698022],
         zoom: 14,
@@ -244,7 +256,8 @@ const config = {
       hidden: false,
       title: '岩見重太郎 仇討ちの場',
       image: '',
-      description: '2巻 P36  ',
+      tweet_id: '',
+      description: '<p>2巻 P36 </p>',
       location: {
         center: [135.1881478, 35.5628724],
         zoom: 14,
@@ -263,7 +276,8 @@ const config = {
       hidden: false,
       title: '丹後國一之宮 元伊勢 籠神社',
       image: '',
-      description: '2巻 P37  ',
+      tweet_id: '',
+      description: '<p>2巻 P37 </p>',
       location: {
         center: [135.1967015, 35.5827837],
         zoom: 14,
@@ -282,7 +296,8 @@ const config = {
       hidden: false,
       title: '天橋立神社',
       image: '',
-      description: '2巻 P39  ',
+      tweet_id: '',
+      description: '<p>2巻 P39 </p>',
       location: {
         center: [135.1879155, 35.5634066],
         zoom: 14,

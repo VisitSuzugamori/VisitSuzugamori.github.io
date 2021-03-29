@@ -5,8 +5,8 @@ const config = {
   markerColor: '#3FB1CE',
   theme: 'light',
   use3dTerrain: true,
-  title: 'VisitSuzugamori 08',
-  subtitle: '【08】',
+  title: 'VisitSuzugamori 第8旅 伊勢',
+  subtitle: '【伊勢】神様と出会える街？',
   byline: '地図作成 isnot',
   footer: '<p class="navi"><a href="/">🔝各話一覧へ</a> <a href="https://github.com/VisitSuzugamori/VisitSuzugamori.github.io">💬contact</a></p><p>原作：<a href="https://store.kadokawa.co.jp/shop/b/bM1394_dD/">ざつ旅-That&#39;s Journey-</a> (c) 石坂 ケンタ, KADOKAWA, 電撃マオウ / 地図・テンプレート：<a href="https://github.com/mapbox/storytelling">Mapbox</a>',
   chapters: [
@@ -16,7 +16,8 @@ const config = {
       hidden: false,
       title: '白子漁港',
       image: '',
-      description: '2巻 P96,97 ',
+      tweet_id: '',
+      description: '<p>2巻 P96,97 </p>',
       location: {
         center: [136.592541, 34.8308664],
         zoom: 14,
@@ -35,7 +36,8 @@ const config = {
       hidden: false,
       title: '鈴鹿市漁業協同組合直販所 魚魚鈴(ととりん)',
       image: '',
-      description: '2巻 P99 ',
+      tweet_id: '',
+      description: '<p>2巻 P99 </p>',
       location: {
         center: [136.5919642, 34.8277194],
         zoom: 14,
@@ -54,7 +56,8 @@ const config = {
       hidden: false,
       title: '伊勢市駅',
       image: '',
-      description: '2巻 P100 ',
+      tweet_id: '1376006260798021634',
+      description: '<p>2巻 P100 </p><div class="tweetContainer" id="tweet1376006260798021634"></div>',
       location: {
         center: [136.7097004, 34.4910554],
         zoom: 14,
@@ -73,7 +76,8 @@ const config = {
       hidden: false,
       title: '伊勢菊一',
       image: '',
-      description: '2巻 P101 ',
+      tweet_id: '',
+      description: '<p>2巻 P101 </p>',
       location: {
         center: [136.7079545, 34.4892923],
         zoom: 14,
@@ -92,7 +96,8 @@ const config = {
       hidden: false,
       title: '若松屋 外宮前店',
       image: '',
-      description: '2巻 P102 ',
+      tweet_id: '',
+      description: '<p>2巻 P102 </p>',
       location: {
         center: [136.7070889, 34.4885003],
         zoom: 14,
@@ -111,7 +116,8 @@ const config = {
       hidden: false,
       title: '伊勢神宮 外宮',
       image: '',
-      description: '2巻 P106 ',
+      tweet_id: '1374576686092722176',
+      description: '<p>2巻 P106 </p><div class="tweetContainer" id="tweet1374576686092722176"></div>',
       location: {
         center: [136.7029233, 34.4871537],
         zoom: 14,
@@ -130,7 +136,8 @@ const config = {
       hidden: false,
       title: '伊勢神宮',
       image: '',
-      description: '2巻 P108 ',
+      tweet_id: '1375696706218516483',
+      description: '<p>2巻 P108 </p><div class="tweetContainer" id="tweet1375696706218516483"></div>',
       location: {
         center: [136.725793, 34.45501],
         zoom: 14,
@@ -149,7 +156,8 @@ const config = {
       hidden: false,
       title: '赤福 内宮前支店',
       image: '',
-      description: '2巻 P109 ',
+      tweet_id: '',
+      description: '<p>2巻 P109 </p>',
       location: {
         center: [136.7230903, 34.4595551],
         zoom: 14,
@@ -168,7 +176,8 @@ const config = {
       hidden: false,
       title: '鳥羽駅',
       image: '',
-      description: '2巻 P111 ',
+      tweet_id: '1375742853565976577',
+      description: '<p>2巻 P111 </p><div class="tweetContainer" id="tweet1375742853565976577"></div>',
       location: {
         center: [136.8431256, 34.4867665],
         zoom: 14,
@@ -187,7 +196,8 @@ const config = {
       hidden: false,
       title: '赤福 鳥羽支店',
       image: '',
-      description: '2巻 P111 ',
+      tweet_id: '',
+      description: '<p>2巻 P111 </p>',
       location: {
         center: [136.8444576, 34.4853698],
         zoom: 14,
@@ -206,7 +216,8 @@ const config = {
       hidden: false,
       title: '海月',
       image: '',
-      description: '2巻 P111 ',
+      tweet_id: '',
+      description: '<p>2巻 P111 </p>',
       location: {
         center: [136.8439619, 34.4847431],
         zoom: 14,
@@ -225,7 +236,8 @@ const config = {
       hidden: false,
       title: '二見浦駅',
       image: '',
-      description: '2巻 P121 ',
+      tweet_id: '',
+      description: '<p>2巻 P121 </p>',
       location: {
         center: [136.7770851, 34.5039814],
         zoom: 14,
@@ -244,7 +256,8 @@ const config = {
       hidden: false,
       title: '夫婦岩',
       image: '',
-      description: '2巻 P121 ',
+      tweet_id: '1376466620277694464',
+      description: '<p>2巻 P121 </p><div class="tweetContainer" id="tweet1376466620277694464"></div>',
       location: {
         center: [136.7883283, 34.5092993],
         zoom: 14,
@@ -263,7 +276,8 @@ const config = {
       hidden: false,
       title: '（株）赤福 二見支店',
       image: '',
-      description: '2巻 P124 ',
+      tweet_id: '',
+      description: '<p>2巻 P124 </p>',
       location: {
         center: [136.7777824, 34.5073078],
         zoom: 14,
@@ -282,7 +296,8 @@ const config = {
       hidden: false,
       title: '豐川茜稻荷神社（茜社）',
       image: '',
-      description: '2巻 P127 ',
+      tweet_id: '',
+      description: '<p>2巻 P127 </p>',
       location: {
         center: [136.7073159, 34.4862757],
         zoom: 14,

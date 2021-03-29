@@ -5,8 +5,8 @@ const config = {
   markerColor: '#3FB1CE',
   theme: 'light',
   use3dTerrain: true,
-  title: 'VisitSuzugamori 11',
-  subtitle: '【11】',
+  title: 'VisitSuzugamori 第11旅 和歌山',
+  subtitle: '【和歌山】一年のおわりとはじまり',
   byline: '地図作成 isnot',
   footer: '<p class="navi"><a href="/">🔝各話一覧へ</a> <a href="https://github.com/VisitSuzugamori/VisitSuzugamori.github.io">💬contact</a></p><p>原作：<a href="https://store.kadokawa.co.jp/shop/b/bM1394_dD/">ざつ旅-That&#39;s Journey-</a> (c) 石坂 ケンタ, KADOKAWA, 電撃マオウ / 地図・テンプレート：<a href="https://github.com/mapbox/storytelling">Mapbox</a>',
   chapters: [
@@ -16,7 +16,8 @@ const config = {
       hidden: false,
       title: '串本駅',
       image: '',
-      description: '3巻 P57 ',
+      tweet_id: '1374911639502286849',
+      description: '<p>3巻 P57 </p><div class="tweetContainer" id="tweet1374911639502286849"></div>',
       location: {
         center: [135.7816031, 33.4755266],
         zoom: 14,
@@ -35,7 +36,8 @@ const config = {
       hidden: false,
       title: 'この辺歩いてるよ',
       image: '',
-      description: '3巻 P60 ',
+      tweet_id: '',
+      description: '<p>3巻 P60 </p>',
       location: {
         center: [135.7718515, 33.4580493],
         zoom: 14,
@@ -54,7 +56,8 @@ const config = {
       hidden: false,
       title: 'この辺まで来たよ',
       image: '',
-      description: '3巻 P61 ',
+      tweet_id: '',
+      description: '<p>3巻 P61 </p>',
       location: {
         center: [135.754685, 33.4378491],
         zoom: 14,
@@ -73,7 +76,8 @@ const config = {
       hidden: false,
       title: '潮岬灯台',
       image: '',
-      description: '3巻 P62 ',
+      tweet_id: '',
+      description: '<p>3巻 P62 </p>',
       location: {
         center: [135.7544642, 33.4375625],
         zoom: 14,
@@ -92,7 +96,8 @@ const config = {
       hidden: false,
       title: '本州最南端の碑',
       image: '',
-      description: '3巻 P64 ',
+      tweet_id: '',
+      description: '<p>3巻 P64 </p>',
       location: {
         center: [135.7621203, 33.4362401],
         zoom: 14,
@@ -111,7 +116,8 @@ const config = {
       hidden: false,
       title: 'ビジネスホテル串本 駅前店',
       image: '',
-      description: '3巻 P67 ',
+      tweet_id: '',
+      description: '<p>3巻 P67 </p>',
       location: {
         center: [135.782048, 33.474975],
         zoom: 14,
@@ -130,7 +136,8 @@ const config = {
       hidden: false,
       title: 'ビーフショップまるみ支店',
       image: '',
-      description: '3巻 P69 ',
+      tweet_id: '',
+      description: '<p>3巻 P69 </p>',
       location: {
         center: [135.7805652, 33.4701756],
         zoom: 14,
@@ -149,7 +156,8 @@ const config = {
       hidden: false,
       title: '潮岬観光タワー',
       image: '',
-      description: '3巻 P71 ',
+      tweet_id: '',
+      description: '<p>3巻 P71 </p>',
       location: {
         center: [135.7613677, 33.437806],
         zoom: 14,
@@ -168,7 +176,8 @@ const config = {
       hidden: false,
       title: '新宮駅',
       image: '',
-      description: '3巻 P80 ',
+      tweet_id: '1375712929291534348',
+      description: '<p>3巻 P80 </p><div class="tweetContainer" id="tweet1375712929291534348"></div>',
       location: {
         center: [135.9941471, 33.7251509],
         zoom: 14,
@@ -187,7 +196,8 @@ const config = {
       hidden: false,
       title: '新宮市観光協会 shingu tourist information centre',
       image: '',
-      description: '3巻 P81 ',
+      tweet_id: '',
+      description: '<p>3巻 P81 </p>',
       location: {
         center: [135.9946972, 33.7254244],
         zoom: 14,
@@ -206,7 +216,8 @@ const config = {
       hidden: false,
       title: 'くまのこ食堂',
       image: '',
-      description: '3巻 P81 ',
+      tweet_id: '1376118585987227648',
+      description: '<p>3巻 P81 </p><div class="tweetContainer" id="tweet1376118585987227648"></div>',
       location: {
         center: [135.7723926, 33.834421],
         zoom: 14,
@@ -225,7 +236,8 @@ const config = {
       hidden: false,
       title: '熊野本宮大社',
       image: '',
-      description: '3巻 P82 ',
+      tweet_id: '1373845666942844928',
+      description: '<p>3巻 P82 </p><div class="tweetContainer" id="tweet1373845666942844928"></div>',
       location: {
         center: [135.7734753, 33.8405706],
         zoom: 14,
@@ -244,7 +256,8 @@ const config = {
       hidden: false,
       title: '料理 萬口',
       image: '',
-      description: '3巻 P85 ',
+      tweet_id: '',
+      description: '<p>3巻 P85 </p>',
       location: {
         center: [135.7817317, 33.4745935],
         zoom: 14,

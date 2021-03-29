@@ -5,8 +5,8 @@ const config = {
   markerColor: '#3FB1CE',
   theme: 'light',
   use3dTerrain: true,
-  title: 'VisitSuzugamori 13-1',
-  subtitle: '【13-1】',
+  title: 'VisitSuzugamori 第13旅 島根前編',
+  subtitle: '【島根】師匠と片参り',
   byline: '地図作成 isnot',
   footer: '<p class="navi"><a href="/">🔝各話一覧へ</a> <a href="https://github.com/VisitSuzugamori/VisitSuzugamori.github.io">💬contact</a></p><p>原作：<a href="https://store.kadokawa.co.jp/shop/b/bM1394_dD/">ざつ旅-That&#39;s Journey-</a> (c) 石坂 ケンタ, KADOKAWA, 電撃マオウ / 地図・テンプレート：<a href="https://github.com/mapbox/storytelling">Mapbox</a>',
   chapters: [
@@ -16,7 +16,8 @@ const config = {
       hidden: false,
       title: '出雲市駅',
       image: '',
-      description: '3巻 P130 ',
+      tweet_id: '1376418355549208576',
+      description: '<p>3巻 P130 </p><div class="tweetContainer" id="tweet1376418355549208576"></div>',
       location: {
         center: [132.7567006, 35.3608386],
         zoom: 14,
@@ -35,7 +36,8 @@ const config = {
       hidden: false,
       title: '大社線鉄橋跡',
       image: '',
-      description: '3巻 P132 ',
+      tweet_id: '',
+      description: '<p>3巻 P132 </p>',
       location: {
         center: [132.7230856, 35.3603649],
         zoom: 14,
@@ -54,7 +56,8 @@ const config = {
       hidden: false,
       title: 'JR大社線出雲高松駅跡',
       image: '',
-      description: '3巻 P133 ',
+      tweet_id: '',
+      description: '<p>3巻 P133 </p>',
       location: {
         center: [132.7189482, 35.3610785],
         zoom: 14,
@@ -73,7 +76,8 @@ const config = {
       hidden: false,
       title: '旧大社駅舎',
       image: '',
-      description: '3巻 P134 ',
+      tweet_id: '',
+      description: '<p>3巻 P134 </p>',
       location: {
         center: [132.690256, 35.3866419],
         zoom: 14,
@@ -92,7 +96,8 @@ const config = {
       hidden: false,
       title: '出雲大社 大鳥居',
       image: '',
-      description: '3巻 P137 ',
+      tweet_id: '',
+      description: '<p>3巻 P137 </p>',
       location: {
         center: [132.6872784, 35.391579],
         zoom: 14,
@@ -111,7 +116,8 @@ const config = {
       hidden: false,
       title: '俵屋菓舗 神門店',
       image: '',
-      description: '3巻 P137 ',
+      tweet_id: '',
+      description: '<p>3巻 P137 </p>',
       location: {
         center: [132.6867573, 35.3952169],
         zoom: 14,
@@ -130,7 +136,8 @@ const config = {
       hidden: false,
       title: '出雲日本海 出雲大社正門前店',
       image: '',
-      description: '3巻 P137 ',
+      tweet_id: '',
+      description: '<p>3巻 P137 </p>',
       location: {
         center: [132.6863131, 35.3962535],
         zoom: 14,
@@ -149,7 +156,8 @@ const config = {
       hidden: false,
       title: '出雲大社 勢溜の大鳥居',
       image: '',
-      description: '3巻 P139 ',
+      tweet_id: '',
+      description: '<p>3巻 P139 </p>',
       location: {
         center: [132.6863743, 35.3967051],
         zoom: 14,
@@ -168,7 +176,8 @@ const config = {
       hidden: false,
       title: 'うさぎ！',
       image: '',
-      description: '3巻 P139 ',
+      tweet_id: '1376377667650416642',
+      description: '<p>3巻 P139 </p><div class="tweetContainer" id="tweet1376377667650416642"></div>',
       location: {
         center: [132.6852047, 35.3994106],
         zoom: 14,
@@ -187,7 +196,8 @@ const config = {
       hidden: false,
       title: '出雲大社 拝殿',
       image: '',
-      description: '3巻 P140 ',
+      tweet_id: '',
+      description: '<p>3巻 P140 </p>',
       location: {
         center: [132.6855211, 35.4012055],
         zoom: 14,
@@ -206,7 +216,8 @@ const config = {
       hidden: false,
       title: '出雲大社 西十九社',
       image: '',
-      description: '3巻 P141 ',
+      tweet_id: '',
+      description: '<p>3巻 P141 </p>',
       location: {
         center: [132.6848802, 35.4014929],
         zoom: 14,
@@ -225,7 +236,8 @@ const config = {
       hidden: false,
       title: '出雲大社 神楽殿',
       image: '',
-      description: '3巻 P142 ',
+      tweet_id: '',
+      description: '<p>3巻 P142 </p>',
       location: {
         center: [132.6844634, 35.4015453],
         zoom: 14,
@@ -244,7 +256,8 @@ const config = {
       hidden: false,
       title: '稲佐の浜(弁天島)',
       image: '',
-      description: '3巻 P143 ',
+      tweet_id: '',
+      description: '<p>3巻 P143 </p>',
       location: {
         center: [132.6719106, 35.4003035],
         zoom: 14,
@@ -263,7 +276,8 @@ const config = {
       hidden: false,
       title: '出雲大社前駅',
       image: '',
-      description: '3巻 P145 ',
+      tweet_id: '1375974939304452096',
+      description: '<p>3巻 P145 </p><div class="tweetContainer" id="tweet1375974939304452096"></div>',
       location: {
         center: [132.6870732, 35.3935224],
         zoom: 14,
@@ -282,7 +296,8 @@ const config = {
       hidden: false,
       title: '松江しんじ湖温泉駅',
       image: '',
-      description: '3巻 P146 ',
+      tweet_id: '',
+      description: '<p>3巻 P146 </p>',
       location: {
         center: [133.0460423, 35.4673633],
         zoom: 14,
@@ -301,7 +316,8 @@ const config = {
       hidden: false,
       title: 'ホテル一畑',
       image: '',
-      description: '3巻 P146 ',
+      tweet_id: '',
+      description: '<p>3巻 P146 </p>',
       location: {
         center: [133.0453378, 35.4661714],
         zoom: 14,
@@ -320,7 +336,8 @@ const config = {
       hidden: false,
       title: '松江城',
       image: '',
-      description: '3巻 P150 ',
+      tweet_id: '1376159054888804357',
+      description: '<p>3巻 P150 </p><div class="tweetContainer" id="tweet1376159054888804357"></div>',
       location: {
         center: [133.0506783, 35.4751335],
         zoom: 14,

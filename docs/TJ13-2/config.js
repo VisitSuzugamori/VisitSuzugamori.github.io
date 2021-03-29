@@ -5,8 +5,8 @@ const config = {
   markerColor: '#3FB1CE',
   theme: 'light',
   use3dTerrain: true,
-  title: 'VisitSuzugamori 13-2',
-  subtitle: '【13-2】',
+  title: 'VisitSuzugamori 第13旅 島根後編',
+  subtitle: '【島根】師匠と片参り',
   byline: '地図作成 isnot',
   footer: '<p class="navi"><a href="/">🔝各話一覧へ</a> <a href="https://github.com/VisitSuzugamori/VisitSuzugamori.github.io">💬contact</a></p><p>原作：<a href="https://store.kadokawa.co.jp/shop/b/bM1394_dD/">ざつ旅-That&#39;s Journey-</a> (c) 石坂 ケンタ, KADOKAWA, 電撃マオウ / 地図・テンプレート：<a href="https://github.com/mapbox/storytelling">Mapbox</a>',
   chapters: [
@@ -16,7 +16,8 @@ const config = {
       hidden: false,
       title: '青石畳通り',
       image: '',
-      description: '4巻 P5,20 ',
+      tweet_id: '',
+      description: '<p>4巻 P5,20 </p>',
       location: {
         center: [133.3076796, 35.5625098],
         zoom: 14,
@@ -35,7 +36,8 @@ const config = {
       hidden: false,
       title: '総合体育館前（バス）',
       image: '',
-      description: '4巻 P9 ',
+      tweet_id: '',
+      description: '<p>4巻 P9 </p>',
       location: {
         center: [133.0660854, 35.4731536],
         zoom: 14,
@@ -54,7 +56,8 @@ const config = {
       hidden: false,
       title: '美保関バスターミナル',
       image: '',
-      description: '4巻 P11 ',
+      tweet_id: '',
+      description: '<p>4巻 P11 </p>',
       location: {
         center: [133.164644, 35.534707],
         zoom: 14,
@@ -73,7 +76,8 @@ const config = {
       hidden: false,
       title: '美保関漁港',
       image: '',
-      description: '4巻 P12,13 ',
+      tweet_id: '',
+      description: '<p>4巻 P12,13 </p>',
       location: {
         center: [133.3109506, 35.5603343],
         zoom: 14,
@@ -92,7 +96,8 @@ const config = {
       hidden: false,
       title: '廻船御用水',
       image: '',
-      description: '4巻 P13 ',
+      tweet_id: '',
+      description: '<p>4巻 P13 </p>',
       location: {
         center: [133.3074953, 35.5623016],
         zoom: 14,
@@ -111,7 +116,8 @@ const config = {
       hidden: false,
       title: '美保神社',
       image: '',
-      description: '4巻 P14 ',
+      tweet_id: '',
+      description: '<p>4巻 P14 </p>',
       location: {
         center: [133.3062224, 35.5623182],
         zoom: 14,
@@ -130,7 +136,8 @@ const config = {
       hidden: false,
       title: '美保関灯台',
       image: '',
-      description: '4巻 P28 ',
+      tweet_id: '1375523385925627904',
+      description: '<p>4巻 P28 </p><div class="tweetContainer" id="tweet1375523385925627904"></div>',
       location: {
         center: [133.3254458, 35.5672984],
         zoom: 14,
@@ -149,7 +156,8 @@ const config = {
       hidden: false,
       title: '沖之御前地之御前遥拝所',
       image: '',
-      description: '4巻 P32 ',
+      tweet_id: '',
+      description: '<p>4巻 P32 </p>',
       location: {
         center: [133.325638, 35.567285],
         zoom: 14,
@@ -168,7 +176,8 @@ const config = {
       hidden: false,
       title: '美保関灯台ビュッフェ',
       image: '',
-      description: '4巻 P33 ',
+      tweet_id: '',
+      description: '<p>4巻 P33 </p>',
       location: {
         center: [133.3250483, 35.5672491],
         zoom: 14,
@@ -187,7 +196,8 @@ const config = {
       hidden: false,
       title: '恵美須社',
       image: '',
-      description: '4巻 P37 ',
+      tweet_id: '',
+      description: '<p>4巻 P37 </p>',
       location: {
         center: [133.3198608, 35.5642081],
         zoom: 14,

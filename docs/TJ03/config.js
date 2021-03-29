@@ -5,8 +5,8 @@ const config = {
   markerColor: '#3FB1CE',
   theme: 'light',
   use3dTerrain: true,
-  title: 'VisitSuzugamori 03',
-  subtitle: '【03】',
+  title: 'VisitSuzugamori 第3旅 黒部',
+  subtitle: '【黒部】きときとふたり旅',
   byline: '地図作成 isnot',
   footer: '<p class="navi"><a href="/">🔝各話一覧へ</a> <a href="https://github.com/VisitSuzugamori/VisitSuzugamori.github.io">💬contact</a></p><p>原作：<a href="https://store.kadokawa.co.jp/shop/b/bM1394_dD/">ざつ旅-That&#39;s Journey-</a> (c) 石坂 ケンタ, KADOKAWA, 電撃マオウ / 地図・テンプレート：<a href="https://github.com/mapbox/storytelling">Mapbox</a>',
   chapters: [
@@ -16,7 +16,8 @@ const config = {
       hidden: false,
       title: '東京駅',
       image: '',
-      description: '1巻 P87 ',
+      tweet_id: '1376502834993201152',
+      description: '<p>1巻 P87 </p><div class="tweetContainer" id="tweet1376502834993201152"></div>',
       location: {
         center: [139.7671248, 35.6812362],
         zoom: 14,
@@ -35,7 +36,8 @@ const config = {
       hidden: false,
       title: '黒部宇奈月温泉駅',
       image: '',
-      description: '1巻 P92 ',
+      tweet_id: '1375960502086602754',
+      description: '<p>1巻 P92 </p><div class="tweetContainer" id="tweet1375960502086602754"></div>',
       location: {
         center: [137.4814155, 36.8742374],
         zoom: 14,
@@ -54,7 +56,8 @@ const config = {
       hidden: false,
       title: '吉祥寺',
       image: '',
-      description: '1巻 P96 ',
+      tweet_id: '',
+      description: '<p>1巻 P96 </p>',
       location: {
         center: [137.46587, 36.873683],
         zoom: 14,
@@ -73,7 +76,8 @@ const config = {
       hidden: false,
       title: '魚の駅生地 できたて館 航海灯',
       image: '',
-      description: '1巻 P100 ',
+      tweet_id: '',
+      description: '<p>1巻 P100 </p>',
       location: {
         center: [137.4188529, 36.8911258],
         zoom: 14,
@@ -92,7 +96,8 @@ const config = {
       hidden: false,
       title: '岩瀬家の清水',
       image: '',
-      description: '1巻 P103 ',
+      tweet_id: '',
+      description: '<p>1巻 P103 </p>',
       location: {
         center: [137.4170608, 36.8906968],
         zoom: 14,
@@ -111,7 +116,8 @@ const config = {
       hidden: false,
       title: '新黒部駅',
       image: '',
-      description: '1巻 P108 ',
+      tweet_id: '1375755355276251139',
+      description: '<p>1巻 P108 </p><div class="tweetContainer" id="tweet1375755355276251139"></div>',
       location: {
         center: [137.4809156, 36.8731542],
         zoom: 14,
@@ -130,7 +136,8 @@ const config = {
       hidden: false,
       title: '宇奈月温泉駅',
       image: '',
-      description: '1巻 P110 ',
+      tweet_id: '1375999132179984389',
+      description: '<p>1巻 P110 </p><div class="tweetContainer" id="tweet1375999132179984389"></div>',
       location: {
         center: [137.5836311, 36.8157746],
         zoom: 14,
@@ -149,7 +156,8 @@ const config = {
       hidden: false,
       title: '河鹿（かじか）',
       image: '',
-      description: '1巻 P111 ',
+      tweet_id: '',
+      description: '<p>1巻 P111 </p>',
       location: {
         center: [137.5826756, 36.8157762],
         zoom: 14,
@@ -168,7 +176,8 @@ const config = {
       hidden: false,
       title: 'ホテル黒部',
       image: '',
-      description: '1巻 P112 ',
+      tweet_id: '1375999132179984389',
+      description: '<p>1巻 P112 </p><div class="tweetContainer" id="tweet1375999132179984389"></div>',
       location: {
         center: [137.5900726, 36.8126191],
         zoom: 14,
@@ -187,7 +196,8 @@ const config = {
       hidden: false,
       title: '宇奈月駅',
       image: '',
-      description: '1巻 P116 ',
+      tweet_id: '1375999132179984389',
+      description: '<p>1巻 P116 </p><div class="tweetContainer" id="tweet1375999132179984389"></div>',
       location: {
         center: [137.5859364, 36.8150247],
         zoom: 14,
@@ -206,7 +216,8 @@ const config = {
       hidden: false,
       title: 'やまびこ展望台',
       image: '',
-      description: '1巻 P117 ',
+      tweet_id: '1375999132179984389',
+      description: '<p>1巻 P117 </p><div class="tweetContainer" id="tweet1375999132179984389"></div>',
       location: {
         center: [137.5881562, 36.8142871],
         zoom: 14,
@@ -225,7 +236,8 @@ const config = {
       hidden: false,
       title: '魚の駅生地 とれたて館',
       image: '',
-      description: '1巻 P119 ',
+      tweet_id: '',
+      description: '<p>1巻 P119 </p>',
       location: {
         center: [137.4184784, 36.8913149],
         zoom: 14,

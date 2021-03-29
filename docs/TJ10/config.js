@@ -5,8 +5,8 @@ const config = {
   markerColor: '#3FB1CE',
   theme: 'light',
   use3dTerrain: true,
-  title: 'VisitSuzugamori 10',
-  subtitle: '【10】',
+  title: 'VisitSuzugamori 第10旅 青森',
+  subtitle: '【青森】温泉で完成',
   byline: '地図作成 isnot',
   footer: '<p class="navi"><a href="/">🔝各話一覧へ</a> <a href="https://github.com/VisitSuzugamori/VisitSuzugamori.github.io">💬contact</a></p><p>原作：<a href="https://store.kadokawa.co.jp/shop/b/bM1394_dD/">ざつ旅-That&#39;s Journey-</a> (c) 石坂 ケンタ, KADOKAWA, 電撃マオウ / 地図・テンプレート：<a href="https://github.com/mapbox/storytelling">Mapbox</a>',
   chapters: [
@@ -16,7 +16,8 @@ const config = {
       hidden: false,
       title: '八甲田ロープウェイ 山頂公園駅',
       image: '',
-      description: '3巻 P31 ',
+      tweet_id: '',
+      description: '<p>3巻 P31 </p>',
       location: {
         center: [140.8588135, 40.6758222],
         zoom: 14,
@@ -35,7 +36,8 @@ const config = {
       hidden: false,
       title: '萱野茶屋',
       image: '',
-      description: '3巻 P32 ',
+      tweet_id: '',
+      description: '<p>3巻 P32 </p>',
       location: {
         center: [140.8223047, 40.7057577],
         zoom: 14,
@@ -54,7 +56,8 @@ const config = {
       hidden: false,
       title: '八甲田 山頂公園',
       image: '',
-      description: '3巻 P34 ',
+      tweet_id: '',
+      description: '<p>3巻 P34 </p>',
       location: {
         center: [140.8592116, 40.6757743],
         zoom: 14,
@@ -73,7 +76,8 @@ const config = {
       hidden: false,
       title: '谷地温泉',
       image: '',
-      description: '3巻 P38 ',
+      tweet_id: '',
+      description: '<p>3巻 P38 </p>',
       location: {
         center: [140.9245271, 40.6330178],
         zoom: 14,
@@ -92,7 +96,8 @@ const config = {
       hidden: false,
       title: '下北駅',
       image: '',
-      description: '3巻 P47 ',
+      tweet_id: '',
+      description: '<p>3巻 P47 </p>',
       location: {
         center: [141.1899038, 41.2827427],
         zoom: 14,
@@ -111,7 +116,8 @@ const config = {
       hidden: false,
       title: '三途の川',
       image: '',
-      description: '3巻 P49 ',
+      tweet_id: '',
+      description: '<p>3巻 P49 </p>',
       location: {
         center: [141.0962272, 41.3260657],
         zoom: 14,
@@ -130,7 +136,8 @@ const config = {
       hidden: false,
       title: '恐山菩提寺',
       image: '',
-      description: '3巻 P49 ',
+      tweet_id: '',
+      description: '<p>3巻 P49 </p>',
       location: {
         center: [141.0907618, 41.327247],
         zoom: 14,
@@ -149,7 +156,8 @@ const config = {
       hidden: false,
       title: '宇曽利山湖 極楽浜',
       image: '',
-      description: '3巻 P51 ',
+      tweet_id: '',
+      description: '<p>3巻 P51 </p>',
       location: {
         center: [141.086011, 41.3264966],
         zoom: 14,
@@ -168,7 +176,8 @@ const config = {
       hidden: false,
       title: '恐山 花染の湯',
       image: '',
-      description: '3巻 P52 ',
+      tweet_id: '',
+      description: '<p>3巻 P52 </p>',
       location: {
         center: [141.0917047, 41.3283697],
         zoom: 14,
@@ -187,7 +196,8 @@ const config = {
       hidden: false,
       title: '恐山冷水',
       image: '',
-      description: '3巻 P55 ',
+      tweet_id: '',
+      description: '<p>3巻 P55 </p>',
       location: {
         center: [141.1264919, 41.3145659],
         zoom: 14,

@@ -5,8 +5,8 @@ const config = {
   markerColor: '#3FB1CE',
   theme: 'light',
   use3dTerrain: true,
-  title: 'VisitSuzugamori 15',
-  subtitle: '【15】',
+  title: 'VisitSuzugamori 第15旅 都内',
+  subtitle: '【東京】それでも繋がってる',
   byline: '地図作成 isnot',
   footer: '<p class="navi"><a href="/">🔝各話一覧へ</a> <a href="https://github.com/VisitSuzugamori/VisitSuzugamori.github.io">💬contact</a></p><p>原作：<a href="https://store.kadokawa.co.jp/shop/b/bM1394_dD/">ざつ旅-That&#39;s Journey-</a> (c) 石坂 ケンタ, KADOKAWA, 電撃マオウ / 地図・テンプレート：<a href="https://github.com/mapbox/storytelling">Mapbox</a>',
   chapters: [
@@ -16,7 +16,8 @@ const config = {
       hidden: false,
       title: '東京駅',
       image: '',
-      description: '4巻 P119 ',
+      tweet_id: '1376502834993201152',
+      description: '<p>4巻 P119 </p><div class="tweetContainer" id="tweet1376502834993201152"></div>',
       location: {
         center: [139.7671248, 35.6812362],
         zoom: 14,
@@ -35,7 +36,8 @@ const config = {
       hidden: false,
       title: 'アーバンゲートブリッジ',
       image: '',
-      description: '4巻 P121 ',
+      tweet_id: '',
+      description: '<p>4巻 P121 </p>',
       location: {
         center: [139.7911163, 35.6548755],
         zoom: 14,
@@ -54,7 +56,8 @@ const config = {
       hidden: false,
       title: '勝鬨橋',
       image: '',
-      description: '4巻 P121 ',
+      tweet_id: '1376472285259952128',
+      description: '<p>4巻 P121 </p><div class="tweetContainer" id="tweet1376472285259952128"></div>',
       location: {
         center: [139.7748531, 35.6624034],
         zoom: 14,
@@ -73,7 +76,8 @@ const config = {
       hidden: false,
       title: '京橋第一生命ビルディング',
       image: '',
-      description: '4巻 P122 ',
+      tweet_id: '',
+      description: '<p>4巻 P122 </p>',
       location: {
         center: [139.7696552, 35.6767189],
         zoom: 14,
@@ -92,7 +96,8 @@ const config = {
       hidden: false,
       title: '小原鐵五郎寿像',
       image: '',
-      description: '4巻 P122 ',
+      tweet_id: '',
+      description: '<p>4巻 P122 </p>',
       location: {
         center: [139.7711133, 35.675434],
         zoom: 14,
@@ -111,7 +116,8 @@ const config = {
       hidden: false,
       title: '築地本願寺',
       image: '',
-      description: '4巻 P122 ',
+      tweet_id: '1376288109365616642',
+      description: '<p>4巻 P122 </p><div class="tweetContainer" id="tweet1376288109365616642"></div>',
       location: {
         center: [139.7722836, 35.6664862],
         zoom: 14,
@@ -130,7 +136,8 @@ const config = {
       hidden: false,
       title: '中央大橋',
       image: '',
-      description: '4巻 P125 ',
+      tweet_id: '1376285026363523074',
+      description: '<p>4巻 P125 </p><div class="tweetContainer" id="tweet1376285026363523074"></div>',
       location: {
         center: [139.7843753, 35.6717944],
         zoom: 14,
@@ -149,7 +156,8 @@ const config = {
       hidden: false,
       title: '月島西仲通り商店街',
       image: '',
-      description: '4巻 P126 ',
+      tweet_id: '',
+      description: '<p>4巻 P126 </p>',
       location: {
         center: [139.7787896, 35.6616846],
         zoom: 14,
@@ -168,7 +176,8 @@ const config = {
       hidden: false,
       title: '月島もんじゃ振興会協同組合',
       image: '',
-      description: '4巻 P126 ',
+      tweet_id: '',
+      description: '<p>4巻 P126 </p>',
       location: {
         center: [139.7833646, 35.6647554],
         zoom: 14,
@@ -187,7 +196,8 @@ const config = {
       hidden: false,
       title: '月島警察署 西仲通地域安全センター',
       image: '',
-      description: '4巻 P127 ',
+      tweet_id: '',
+      description: '<p>4巻 P127 </p>',
       location: {
         center: [139.7813477, 35.6635775],
         zoom: 14,
@@ -206,7 +216,8 @@ const config = {
       hidden: false,
       title: '晴海橋梁',
       image: '',
-      description: '4巻 P128 ',
+      tweet_id: '',
+      description: '<p>4巻 P128 </p>',
       location: {
         center: [139.7893269, 35.6584597],
         zoom: 14,
@@ -225,7 +236,8 @@ const config = {
       hidden: false,
       title: '豊洲公園',
       image: '',
-      description: '4巻 P129 ',
+      tweet_id: '',
+      description: '<p>4巻 P129 </p>',
       location: {
         center: [139.793127, 35.6533777],
         zoom: 14,
@@ -244,7 +256,8 @@ const config = {
       hidden: false,
       title: '江戸前場下町',
       image: '',
-      description: '4巻 P130 ',
+      tweet_id: '1376051459603771393',
+      description: '<p>4巻 P130 </p><div class="tweetContainer" id="tweet1376051459603771393"></div>',
       location: {
         center: [139.7862005, 35.6454136],
         zoom: 14,
@@ -263,7 +276,8 @@ const config = {
       hidden: false,
       title: '鈴富',
       image: '',
-      description: '4巻 P130 ',
+      tweet_id: '',
+      description: '<p>4巻 P130 </p>',
       location: {
         center: [139.7862508, 35.6456235],
         zoom: 14,
@@ -282,7 +296,8 @@ const config = {
       hidden: false,
       title: '福せん',
       image: '',
-      description: '4巻 P132 ',
+      tweet_id: '',
+      description: '<p>4巻 P132 </p>',
       location: {
         center: [139.7815894, 35.6451738],
         zoom: 14,
@@ -301,7 +316,8 @@ const config = {
       hidden: false,
       title: '東京都中央卸売市場 豊洲市場 水産卸売場棟',
       image: '',
-      description: '4巻 P133 ',
+      tweet_id: '',
+      description: '<p>4巻 P133 </p>',
       location: {
         center: [139.7818519, 35.6419028],
         zoom: 14,
@@ -320,7 +336,8 @@ const config = {
       hidden: false,
       title: '東京ビッグサイト',
       image: '',
-      description: '4巻 P134 ',
+      tweet_id: '1376315429531045888',
+      description: '<p>4巻 P134 </p><div class="tweetContainer" id="tweet1376315429531045888"></div>',
       location: {
         center: [139.7942868, 35.6298179],
         zoom: 14,
@@ -339,7 +356,8 @@ const config = {
       hidden: false,
       title: '国際展示場駅',
       image: '',
-      description: '4巻 P134 ',
+      tweet_id: '1376392887928229890',
+      description: '<p>4巻 P134 </p><div class="tweetContainer" id="tweet1376392887928229890"></div>',
       location: {
         center: [139.7916499, 35.6344346],
         zoom: 14,
@@ -358,7 +376,8 @@ const config = {
       hidden: false,
       title: '新木場駅',
       image: '',
-      description: '4巻 P134 ',
+      tweet_id: '1376360896176472068',
+      description: '<p>4巻 P134 </p><div class="tweetContainer" id="tweet1376360896176472068"></div>',
       location: {
         center: [139.8266952, 35.6459022],
         zoom: 14,
@@ -377,7 +396,8 @@ const config = {
       hidden: false,
       title: '新木場緑道公園',
       image: '',
-      description: '4巻 P135 ',
+      tweet_id: '',
+      description: '<p>4巻 P135 </p>',
       location: {
         center: [139.8405881, 35.6405733],
         zoom: 14,
@@ -396,7 +416,8 @@ const config = {
       hidden: false,
       title: '南極観測船『宗谷』',
       image: '',
-      description: '4巻 P136 ',
+      tweet_id: '',
+      description: '<p>4巻 P136 </p>',
       location: {
         center: [139.7738425, 35.6191097],
         zoom: 14,
@@ -415,7 +436,8 @@ const config = {
       hidden: false,
       title: 'レインボーブリッジ',
       image: '',
-      description: '4巻 P138 ',
+      tweet_id: '1375986101593075712',
+      description: '<p>4巻 P138 </p><div class="tweetContainer" id="tweet1375986101593075712"></div>',
       location: {
         center: [139.7631443, 35.6365639],
         zoom: 14,
@@ -434,7 +456,8 @@ const config = {
       hidden: false,
       title: '青海南ふ頭公園',
       image: '',
-      description: '4巻 P145 ',
+      tweet_id: '1375632805804318723',
+      description: '<p>4巻 P145 </p><div class="tweetContainer" id="tweet1375632805804318723"></div>',
       location: {
         center: [139.7756369, 35.61607],
         zoom: 14,

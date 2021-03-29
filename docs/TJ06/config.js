@@ -5,8 +5,8 @@ const config = {
   markerColor: '#3FB1CE',
   theme: 'light',
   use3dTerrain: true,
-  title: 'VisitSuzugamori 06',
-  subtitle: '【06】',
+  title: 'VisitSuzugamori 第6旅 栃木',
+  subtitle: '【栃木】カラスと龍と蕎麦の先',
   byline: '地図作成 isnot',
   footer: '<p class="navi"><a href="/">🔝各話一覧へ</a> <a href="https://github.com/VisitSuzugamori/VisitSuzugamori.github.io">💬contact</a></p><p>原作：<a href="https://store.kadokawa.co.jp/shop/b/bM1394_dD/">ざつ旅-That&#39;s Journey-</a> (c) 石坂 ケンタ, KADOKAWA, 電撃マオウ / 地図・テンプレート：<a href="https://github.com/mapbox/storytelling">Mapbox</a>',
   chapters: [
@@ -16,7 +16,8 @@ const config = {
       hidden: false,
       title: '宇都宮駅',
       image: '',
-      description: '2巻 P44 ',
+      tweet_id: '1376150698862256128',
+      description: '<p>2巻 P44 </p><div class="tweetContainer" id="tweet1376150698862256128"></div>',
       location: {
         center: [139.8984511, 36.5590234],
         zoom: 14,
@@ -35,7 +36,8 @@ const config = {
       hidden: false,
       title: '滝駅',
       image: '',
-      description: '2巻 P47 ',
+      tweet_id: '',
+      description: '<p>2巻 P47 </p>',
       location: {
         center: [140.1381941, 36.6485846],
         zoom: 14,
@@ -54,7 +56,8 @@ const config = {
       hidden: false,
       title: '龍門の滝',
       image: '',
-      description: '2巻 P49 ',
+      tweet_id: '',
+      description: '<p>2巻 P49 </p>',
       location: {
         center: [140.1398144, 36.6455986],
         zoom: 14,
@@ -73,7 +76,8 @@ const config = {
       hidden: false,
       title: '那須烏山市 龍門ふるさと民芸館',
       image: '',
-      description: '2巻 P50 ',
+      tweet_id: '',
+      description: '<p>2巻 P50 </p>',
       location: {
         center: [140.1389247, 36.6455502],
         zoom: 14,
@@ -92,7 +96,8 @@ const config = {
       hidden: false,
       title: 'どうくつ酒造（島崎酒造）',
       image: '',
-      description: '2巻 P52 ',
+      tweet_id: '',
+      description: '<p>2巻 P52 </p>',
       location: {
         center: [140.1381, 36.65687],
         zoom: 14,
@@ -111,7 +116,8 @@ const config = {
       hidden: false,
       title: '烏山城跡',
       image: '',
-      description: '2巻 P57 ',
+      tweet_id: '',
+      description: '<p>2巻 P57 </p>',
       location: {
         center: [140.1475926, 36.6642582],
         zoom: 14,
@@ -130,7 +136,8 @@ const config = {
       hidden: false,
       title: '(株)島崎酒造',
       image: '',
-      description: '2巻 P58 ',
+      tweet_id: '',
+      description: '<p>2巻 P58 </p>',
       location: {
         center: [140.1536827, 36.6557618],
         zoom: 14,
@@ -149,7 +156,8 @@ const config = {
       hidden: false,
       title: '烏山駅',
       image: '',
-      description: '2巻 P58 ',
+      tweet_id: '1376509578762936323',
+      description: '<p>2巻 P58 </p><div class="tweetContainer" id="tweet1376509578762936323"></div>',
       location: {
         center: [140.1550537, 36.650446],
         zoom: 14,
@@ -168,7 +176,8 @@ const config = {
       hidden: false,
       title: '久穂田烏山駅前旅館',
       image: '',
-      description: '2巻 P59 ',
+      tweet_id: '',
+      description: '<p>2巻 P59 </p>',
       location: {
         center: [140.1539749, 36.6509415],
         zoom: 14,
@@ -187,7 +196,8 @@ const config = {
       hidden: false,
       title: '烏山大橋',
       image: '',
-      description: '2巻 P60 ',
+      tweet_id: '',
+      description: '<p>2巻 P60 </p>',
       location: {
         center: [140.1684645, 36.6527173],
         zoom: 14,
@@ -206,7 +216,8 @@ const config = {
       hidden: false,
       title: 'もり食堂',
       image: '',
-      description: '2巻 P62 ',
+      tweet_id: '',
+      description: '<p>2巻 P62 </p>',
       location: {
         center: [140.1852927, 36.649359],
         zoom: 14,
