@@ -11,6 +11,7 @@ class TwitterApi {
     this.product_track = product_track;
     this.search_type = search_type;
     this.dry_run = dry_run;
+    this.deduped_tweets = new Set();
     this.endpoint = new Map([
       [
         1.1,
@@ -66,6 +67,10 @@ class TwitterApi {
     });
   }
 
+  getEndpoint(version, product_track, search_type) {
+    return this.endpoint.get(version).get(product_track).get(search_type);
+  }
+
   async getSearchRateLimitStatus() {
     const api = this.getClient();
     const endpoint = this.getEndpoint(this.api_version, this.product_track, 'rate_limit_status');
@@ -81,6 +86,24 @@ class TwitterApi {
       return undefined;
     }
     return undefined;
+  }
+
+  async getTweetIdByGeo(options = {}) {
+    try {
+      const res = await this.searchGeo(options);
+      const data = options.search_type === 'search_full_dev' ? res.results : res.statuses;
+      while (data.length > 0) {
+        const tweet = data.shift();
+        if (!this.deduped_tweets.has(tweet.id_str)) {
+          this.deduped_tweets.add(tweet.id_str);
+          return tweet.id_str;
+        }
+      }
+      return undefined;
+    } catch (e) {
+      console.log('exception', e);
+      return undefined;
+    }
   }
 
   async searchGeo(options = {}) {
@@ -100,10 +123,6 @@ class TwitterApi {
       throw e;
     });
     return res.body;
-  }
-
-  getEndpoint(version, product_track, search_type) {
-    return this.endpoint.get(version).get(product_track).get(search_type);
   }
 
   setupParams(latlon, additional_keyword, search_type) {

@@ -169,7 +169,7 @@ async function writeConfig(journey, s, j) {
   let part2 = '';
   for (const point of s) {
     const coordinates = point.get('coordinates').split(',', 2);
-    const tweet_id = await getTwitterId({
+    const tweet_id = await tw.getTweetIdByGeo({
       latlon: coordinates,
       additional_keyword: point.get('name'),
       search_type: 'search_recent',
@@ -191,24 +191,4 @@ async function writeConfig(journey, s, j) {
   const dirname = `docs/TJ${journey}`;
   await makeDir(dirname);
   await fs.writeFile(path.normalize(`${dirname}/config.js`), content);
-}
-
-async function getTwitterId({ latlon, additional_keyword, search_type }) {
-  try {
-    const res = await tw.searchGeo({
-      latlon,
-      additional_keyword,
-      search_type,
-    });
-    const data = search_type === 'search_full_dev' ? res.results : res.statuses;
-    const tweet = data.filter((x) => !x.possibly_sensitive).shift();
-    console.log('OK', tweet);
-    if (typeof tweet === 'object') {
-      return tweet.id_str;
-    }
-    return undefined;
-  } catch (e) {
-    console.log('exception', e);
-    return undefined;
-  }
 }
