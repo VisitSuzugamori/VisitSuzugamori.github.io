@@ -16,8 +16,8 @@ const config = {
       hidden: false,
       title: '東京駅',
       image: '',
-      tweet_id: '1376502834993201152',
-      description: '<p>1巻 P126 </p><div class="tweetContainer" id="tweet1376502834993201152"></div>',
+      tweet_id: '1376493859874693120',
+      description: '<p>1巻 P126 </p><div class="tweetContainer" id="tweet1376493859874693120"></div>',
       location: {
         center: [139.7671248, 35.6812362],
         zoom: 14,

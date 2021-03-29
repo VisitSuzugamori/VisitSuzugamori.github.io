@@ -76,8 +76,8 @@ const config = {
       hidden: false,
       title: '月桂冠大倉記念館',
       image: '',
-      tweet_id: '',
-      description: '<p>2巻 P17 </p>',
+      tweet_id: '1375635163728711682',
+      description: '<p>2巻 P17 </p><div class="tweetContainer" id="tweet1375635163728711682"></div>',
       location: {
         center: [135.76161, 34.929136],
         zoom: 14,
@@ -136,8 +136,8 @@ const config = {
       hidden: false,
       title: '宮津駅',
       image: '',
-      tweet_id: '1375376627694141440',
-      description: '<p>2巻 P21 </p><div class="tweetContainer" id="tweet1375376627694141440"></div>',
+      tweet_id: '1376102890951958533',
+      description: '<p>2巻 P21 </p><div class="tweetContainer" id="tweet1376102890951958533"></div>',
       location: {
         center: [135.1997513, 35.5344188],
         zoom: 14,
@@ -236,8 +236,8 @@ const config = {
       hidden: false,
       title: '天橋立',
       image: '',
-      tweet_id: '1375673420625575938',
-      description: '<p>2巻 P35 </p><div class="tweetContainer" id="tweet1375673420625575938"></div>',
+      tweet_id: '1376057749579067396',
+      description: '<p>2巻 P35 </p><div class="tweetContainer" id="tweet1376057749579067396"></div>',
       location: {
         center: [135.1918204, 35.5698022],
         zoom: 14,

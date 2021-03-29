@@ -176,8 +176,8 @@ const config = {
       hidden: false,
       title: 'ホテル黒部',
       image: '',
-      tweet_id: '1375999132179984389',
-      description: '<p>1巻 P112 </p><div class="tweetContainer" id="tweet1375999132179984389"></div>',
+      tweet_id: '1375780859752579084',
+      description: '<p>1巻 P112 </p><div class="tweetContainer" id="tweet1375780859752579084"></div>',
       location: {
         center: [137.5900726, 36.8126191],
         zoom: 14,
@@ -196,8 +196,8 @@ const config = {
       hidden: false,
       title: '宇奈月駅',
       image: '',
-      tweet_id: '1375999132179984389',
-      description: '<p>1巻 P116 </p><div class="tweetContainer" id="tweet1375999132179984389"></div>',
+      tweet_id: '',
+      description: '<p>1巻 P116 </p>',
       location: {
         center: [137.5859364, 36.8150247],
         zoom: 14,
@@ -216,8 +216,8 @@ const config = {
       hidden: false,
       title: 'やまびこ展望台',
       image: '',
-      tweet_id: '1375999132179984389',
-      description: '<p>1巻 P117 </p><div class="tweetContainer" id="tweet1375999132179984389"></div>',
+      tweet_id: '',
+      description: '<p>1巻 P117 </p>',
       location: {
         center: [137.5881562, 36.8142871],
         zoom: 14,
