@@ -22,6 +22,9 @@ console.log(secret);
       search_type: 'search_recent',
     });
     console.log('OK', typeof res, res);
+
+    const status = await tw.getSearchRateLimitStatus();
+    console.log('status', status);
   } catch (e) {
     console.log('exception', e);
   }

@@ -20,6 +20,7 @@ class TwitterApi {
             new Map([
               ['search_recent', '1.1/search/tweets.json'],
               ['search_full', ''],
+              ['rate_limit_status', '1.1/application/rate_limit_status.json'],
             ]),
           ],
           [
@@ -27,6 +28,7 @@ class TwitterApi {
             new Map([
               ['search_recent', '1.1/search/tweets.json'],
               ['search_full_dev', '1.1/tweets/search/fullarchive/dev.json'], // development_environment: dev
+              ['rate_limit_status', '1.1/application/rate_limit_status.json'],
             ]),
           ],
         ]),
@@ -62,6 +64,23 @@ class TwitterApi {
         Authorization: `Bearer ${this.token}`,
       },
     });
+  }
+
+  async getSearchRateLimitStatus() {
+    const api = this.getClient();
+    const endpoint = this.getEndpoint(this.api_version, this.product_track, 'rate_limit_status');
+    console.log('getSearchRateLimitStatus', endpoint);
+    try {
+      const res = await api(endpoint, { searchParams: { resources: 'search' } }).catch((e) => {
+        throw e;
+      });
+      const st = res.body.resources.search['/search/tweets'];
+      st.reset_until = st.reset - parseInt(Date.now() / 1000, 10);
+      return st;
+    } catch (e) {
+      return undefined;
+    }
+    return undefined;
   }
 
   async searchGeo(options = {}) {
