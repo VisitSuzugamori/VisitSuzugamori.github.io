@@ -64,7 +64,7 @@ class TwitterApi {
     });
   }
 
-  async searchRecentGeo(options = {}) {
+  async searchGeo(options = {}) {
     // latlon: [137, 39], <place>, 'search_full_dev'
     const { latlon, additional_keyword, search_type } = options;
     const api = this.getClient();

@@ -42,7 +42,7 @@ const tw = new TwitterApi({
     }
     await writeCsv('others', byStory.get('special'));
   } catch (e) {
-    console.log('DEBUG toplevel', e);
+    console.log('VisitSuzugamori', e);
   }
 })();
 
@@ -169,16 +169,13 @@ async function writeConfig(journey, s, j) {
   let part2 = '';
   for (const point of s) {
     const coordinates = point.get('coordinates').split(',', 2);
-    let description = '';
     const twitter_id = await getTwitterId({
       latlon: coordinates,
       additional_keyword: point.get('name'),
       search_type: 'search_recent',
     });
-    console.log('wC tw:', coordinates, twitter_id, description);
-    if (twitter_id) {
-      description += `<div class="tweetContainer" id="tweet${twitter_id}"></div>`;
-    }
+    console.log('wC tw:', coordinates, twitter_id);
+    const tweetContainer = twitter_id ? `<div class="tweetContainer" id="tweet${twitter_id}"></div>` : '';
     let part2_item = `${part2_source}\n`;
     part2 += part2_item
       .replace(/###journey###/g, journey)
@@ -186,7 +183,8 @@ async function writeConfig(journey, s, j) {
       .replace(/###page###/g, `P${point.get('page')}`)
       .replace(/###name###/g, point.get('name'))
       .replace(/###special###/g, point.get('special'))
-      .replace(/###description###/g, description)
+      .replace(/###twitter_id###/g, twitter_id)
+      .replace(/###twitter###/g, tweetContainer)
       .replace(/###coordinates###/g, coordinates.join(', '));
   }
   const content = part1 + part2 + cft[3];
@@ -197,12 +195,12 @@ async function writeConfig(journey, s, j) {
 
 async function getTwitterId({ latlon, additional_keyword, search_type }) {
   try {
-    const res = await tw.searchRecentGeo({
+    const res = await tw.searchGeo({
       latlon,
       additional_keyword,
       search_type,
     });
-    console.log('OK', typeof res, res);
+    // console.log('OK', typeof res, res);
     const data = search_type === 'search_full_dev' ? res.results : res.statuses;
     const tweet = data.filter((x) => !x.possibly_sensitive).shift();
     if (typeof tweet === 'object') {

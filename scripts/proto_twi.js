@@ -16,7 +16,7 @@ console.log(secret);
       search_type: 'search_full_dev',
       dry_run: false,
     });
-    const res = await tw.searchRecentGeo({
+    const res = await tw.searchGeo({
       latlon: [141.06267088910175, 38.36961351956921],
       additional_keyword: '船',
       search_type: 'search_recent',
