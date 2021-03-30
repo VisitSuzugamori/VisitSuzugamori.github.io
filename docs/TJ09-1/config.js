@@ -17,7 +17,7 @@ const config = {
       title: '東京ドームホテル',
       image: '',
       tweet_id: '1375718097160597504',
-      description: '<p>2巻 P132 </p><div class="tweetContainer" id="tweet1375718097160597504"></div>',
+      description: '<p>2巻 P132 </p><div class="tweetContainer" id="tweet1375718097160597504"></div> ',
       location: {
         center: [139.7533928, 35.7036666],
         zoom: 14,
@@ -37,7 +37,7 @@ const config = {
       title: '海老名SA (下り)',
       image: '',
       tweet_id: '1374208711095283713',
-      description: '<p>2巻 P141 </p><div class="tweetContainer" id="tweet1374208711095283713"></div>',
+      description: '<p>2巻 P141 </p><div class="tweetContainer" id="tweet1374208711095283713"></div> ',
       location: {
         center: [139.4010198, 35.4310702],
         zoom: 14,
@@ -57,7 +57,7 @@ const config = {
       title: '広島テレビ放送',
       image: '',
       tweet_id: '',
-      description: '<p>2巻 P145 </p>',
+      description: '<p>2巻 P145 </p> <p><img src="https://live.staticflickr.com/65535/49840112437_e242194757_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.3999238&lon=132.4758202&radius=0.25&has_geo=1&view_all=1">Flickr</a>【Japan_Roll-14_07】 by derekcarter2</p>',
       location: {
         center: [132.4758202, 34.3999238],
         zoom: 14,
@@ -76,8 +76,8 @@ const config = {
       hidden: false,
       title: '広島駅',
       image: '',
-      tweet_id: '1376490829762723845',
-      description: '<p>2巻 P146 </p><div class="tweetContainer" id="tweet1376490829762723845"></div>',
+      tweet_id: '1376670738976014340',
+      description: '<p>2巻 P146 </p><div class="tweetContainer" id="tweet1376670738976014340"></div> ',
       location: {
         center: [132.4753786, 34.397667],
         zoom: 14,
@@ -97,7 +97,7 @@ const config = {
       title: '宮島口駅',
       image: '',
       tweet_id: '1376334360501161989',
-      description: '<p>2巻 P147 </p><div class="tweetContainer" id="tweet1376334360501161989"></div>',
+      description: '<p>2巻 P147 </p><div class="tweetContainer" id="tweet1376334360501161989"></div> ',
       location: {
         center: [132.3029311, 34.3120172],
         zoom: 14,
@@ -117,7 +117,7 @@ const config = {
       title: 'あなごめし うえの 宮島口本店',
       image: '',
       tweet_id: '',
-      description: '<p>2巻 P148 </p>',
+      description: '<p>2巻 P148 </p> <p><img src="https://live.staticflickr.com/65535/49706167578_ef62079037_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.311502&lon=132.3035106&radius=0.25&has_geo=1&view_all=1">Flickr</a>【kHia 40 transfer】 by vicrailways</p>',
       location: {
         center: [132.3035106, 34.311502],
         zoom: 14,
@@ -137,7 +137,7 @@ const config = {
       title: '宮島桟橋',
       image: '',
       tweet_id: '',
-      description: '<p>2巻 P151 </p>',
+      description: '<p>2巻 P151 </p> <p><img src="https://live.staticflickr.com/65535/51023810683_55c4524a93_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.3020862&lon=132.3222151&radius=0.25&has_geo=1&view_all=1">Flickr</a>【IMG_4682】 by nonbinaryanalog</p>',
       location: {
         center: [132.3222151, 34.3020862],
         zoom: 14,
@@ -157,7 +157,7 @@ const config = {
       title: '嚴島神社 大鳥居（布の中）',
       image: '',
       tweet_id: '',
-      description: '<p>2巻 P152,153 </p>',
+      description: '<p>2巻 P152,153 </p> <p><img src="https://live.staticflickr.com/65535/51044782367_86b88db1a5_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.2973092&lon=132.3181276&radius=0.25&has_geo=1&view_all=1">Flickr</a>【IMG_4541】 by Autumn Sweater</p>',
       location: {
         center: [132.3181276, 34.2973092],
         zoom: 14,

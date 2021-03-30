@@ -17,7 +17,7 @@ const config = {
       title: '粟島観光案内所',
       image: '',
       tweet_id: '',
-      description: '<p>2巻 P73 </p>',
+      description: '<p>2巻 P73 </p> <p><img src="https://live.staticflickr.com/1481/23651334020_3cc9312bbf_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=38.4674427&lon=139.2549057&radius=0.25&has_geo=1&view_all=1">Flickr</a>【粟島】 by GenJapan1986</p>',
       location: {
         center: [139.2549057, 38.4674427],
         zoom: 14,
@@ -37,7 +37,7 @@ const config = {
       title: '源左エ門',
       image: '',
       tweet_id: '',
-      description: '<p>2巻 P75 </p>',
+      description: '<p>2巻 P75 </p> ',
       location: {
         center: [139.2231251, 38.4469905],
         zoom: 14,
@@ -57,7 +57,7 @@ const config = {
       title: '矢ヶ鼻展望台',
       image: '',
       tweet_id: '',
-      description: '<p>2巻 P78 </p>',
+      description: '<p>2巻 P78 </p> ',
       location: {
         center: [139.2239814, 38.4374624],
         zoom: 14,
@@ -77,7 +77,7 @@ const config = {
       title: 'みやこや食堂',
       image: '',
       tweet_id: '',
-      description: '<p>2巻 P80 </p>',
+      description: '<p>2巻 P80 </p> <p><img src="https://live.staticflickr.com/1523/23318769184_5524d4c000_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=38.4650772&lon=139.2530973&radius=0.25&has_geo=1&view_all=1">Flickr</a>【粟島】 by GenJapan1986</p>',
       location: {
         center: [139.2530973, 38.4650772],
         zoom: 14,
@@ -97,7 +97,7 @@ const config = {
       title: '漁火温泉 おと姫の湯',
       image: '',
       tweet_id: '',
-      description: '<p>2巻 P82 </p>',
+      description: '<p>2巻 P82 </p> <p><img src="https://live.staticflickr.com/1481/23651334020_3cc9312bbf_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=38.4687521&lon=139.2549858&radius=0.25&has_geo=1&view_all=1">Flickr</a>【粟島】 by GenJapan1986</p>',
       location: {
         center: [139.2549858, 38.4687521],
         zoom: 14,

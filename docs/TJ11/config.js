@@ -17,7 +17,7 @@ const config = {
       title: '串本駅',
       image: '',
       tweet_id: '1374911639502286849',
-      description: '<p>3巻 P57 </p><div class="tweetContainer" id="tweet1374911639502286849"></div>',
+      description: '<p>3巻 P57 </p><div class="tweetContainer" id="tweet1374911639502286849"></div> ',
       location: {
         center: [135.7816031, 33.4755266],
         zoom: 14,
@@ -37,7 +37,7 @@ const config = {
       title: 'この辺歩いてるよ',
       image: '',
       tweet_id: '',
-      description: '<p>3巻 P60 </p>',
+      description: '<p>3巻 P60 </p> <p><img src="https://live.staticflickr.com/65535/50085149401_a59c3fd84f_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=33.4580493&lon=135.7718515&radius=0.25&has_geo=1&view_all=1">Flickr</a>【潮岬 本州最南端 (1)】 by OOMYV</p>',
       location: {
         center: [135.7718515, 33.4580493],
         zoom: 14,
@@ -57,7 +57,7 @@ const config = {
       title: 'この辺まで来たよ',
       image: '',
       tweet_id: '',
-      description: '<p>3巻 P61 </p>',
+      description: '<p>3巻 P61 </p> <p><img src="https://live.staticflickr.com/1870/42761121100_46abec0541_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=33.4378491&lon=135.754685&radius=0.25&has_geo=1&view_all=1">Flickr</a>【it was a good day】 by k n u l p</p>',
       location: {
         center: [135.754685, 33.4378491],
         zoom: 14,
@@ -77,7 +77,7 @@ const config = {
       title: '潮岬灯台',
       image: '',
       tweet_id: '',
-      description: '<p>3巻 P62 </p>',
+      description: '<p>3巻 P62 </p> <p><img src="https://live.staticflickr.com/1870/42761121100_46abec0541_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=33.4375625&lon=135.7544642&radius=0.25&has_geo=1&view_all=1">Flickr</a>【it was a good day】 by k n u l p</p>',
       location: {
         center: [135.7544642, 33.4375625],
         zoom: 14,
@@ -97,7 +97,7 @@ const config = {
       title: '本州最南端の碑',
       image: '',
       tweet_id: '',
-      description: '<p>3巻 P64 </p>',
+      description: '<p>3巻 P64 </p> <p><img src="https://live.staticflickr.com/65535/50343782877_c69482ce8d_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=33.4362401&lon=135.7621203&radius=0.25&has_geo=1&view_all=1">Flickr</a>【Milky way and Jupiter (3)】 by kuni4400</p>',
       location: {
         center: [135.7621203, 33.4362401],
         zoom: 14,
@@ -117,7 +117,7 @@ const config = {
       title: 'ビジネスホテル串本 駅前店',
       image: '',
       tweet_id: '',
-      description: '<p>3巻 P67 </p>',
+      description: '<p>3巻 P67 </p> <p><img src="https://live.staticflickr.com/4852/44065931920_23a842dcbb_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=33.474975&lon=135.782048&radius=0.25&has_geo=1&view_all=1">Flickr</a>【whaling story for the south end of the Kii Peninsula】 by anthroview</p>',
       location: {
         center: [135.782048, 33.474975],
         zoom: 14,
@@ -137,7 +137,7 @@ const config = {
       title: 'ビーフショップまるみ支店',
       image: '',
       tweet_id: '',
-      description: '<p>3巻 P69 </p>',
+      description: '<p>3巻 P69 </p> ',
       location: {
         center: [135.7805652, 33.4701756],
         zoom: 14,
@@ -157,7 +157,7 @@ const config = {
       title: '潮岬観光タワー',
       image: '',
       tweet_id: '',
-      description: '<p>3巻 P71 </p>',
+      description: '<p>3巻 P71 </p> <p><img src="https://live.staticflickr.com/65535/50343782877_c69482ce8d_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=33.437806&lon=135.7613677&radius=0.25&has_geo=1&view_all=1">Flickr</a>【Milky way and Jupiter (3)】 by kuni4400</p>',
       location: {
         center: [135.7613677, 33.437806],
         zoom: 14,
@@ -177,7 +177,7 @@ const config = {
       title: '新宮駅',
       image: '',
       tweet_id: '1375712929291534348',
-      description: '<p>3巻 P80 </p><div class="tweetContainer" id="tweet1375712929291534348"></div>',
+      description: '<p>3巻 P80 </p><div class="tweetContainer" id="tweet1375712929291534348"></div> ',
       location: {
         center: [135.9941471, 33.7251509],
         zoom: 14,
@@ -197,7 +197,7 @@ const config = {
       title: '新宮市観光協会 shingu tourist information centre',
       image: '',
       tweet_id: '',
-      description: '<p>3巻 P81 </p>',
+      description: '<p>3巻 P81 </p> <p><img src="https://live.staticflickr.com/65535/50084565328_90a5daae47_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=33.7254244&lon=135.9946972&radius=0.25&has_geo=1&view_all=1">Flickr</a>【新宮駅】 by OOMYV</p>',
       location: {
         center: [135.9946972, 33.7254244],
         zoom: 14,
@@ -217,7 +217,7 @@ const config = {
       title: 'くまのこ食堂',
       image: '',
       tweet_id: '1376118585987227648',
-      description: '<p>3巻 P81 </p><div class="tweetContainer" id="tweet1376118585987227648"></div>',
+      description: '<p>3巻 P81 </p><div class="tweetContainer" id="tweet1376118585987227648"></div> ',
       location: {
         center: [135.7723926, 33.834421],
         zoom: 14,
@@ -236,8 +236,8 @@ const config = {
       hidden: false,
       title: '熊野本宮大社',
       image: '',
-      tweet_id: '1373845666942844928',
-      description: '<p>3巻 P82 </p><div class="tweetContainer" id="tweet1373845666942844928"></div>',
+      tweet_id: '',
+      description: '<p>3巻 P82 </p> <p><img src="https://live.staticflickr.com/65535/50725431197_a1a5118936_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=33.8405706&lon=135.7734753&radius=0.25&has_geo=1&view_all=1">Flickr</a>【20201105-1106 Mie+Wakayama 21】 by BONGURI</p>',
       location: {
         center: [135.7734753, 33.8405706],
         zoom: 14,
@@ -257,7 +257,7 @@ const config = {
       title: '料理 萬口',
       image: '',
       tweet_id: '',
-      description: '<p>3巻 P85 </p>',
+      description: '<p>3巻 P85 </p> <p><img src="https://live.staticflickr.com/4852/44065931920_23a842dcbb_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=33.4745935&lon=135.7817317&radius=0.25&has_geo=1&view_all=1">Flickr</a>【whaling story for the south end of the Kii Peninsula】 by anthroview</p>',
       location: {
         center: [135.7817317, 33.4745935],
         zoom: 14,
