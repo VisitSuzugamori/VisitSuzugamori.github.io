@@ -5,6 +5,7 @@ const path = require('path');
 const { DOMParser } = require('xmldom');
 const VistSuzugamori = require('../docs/VisitSuzugamori.json');
 const { TwitterApi } = require('./twitter.js');
+const { FlickrApi } = require('./flickr.js');
 const secret = require('../my_secret.json');
 
 const kmlPath = path.normalize('zatsumap.kml');
@@ -20,6 +21,10 @@ const tw = new TwitterApi({
   product_track: 'Premium_Sandbox',
   search_type: 'search_full_dev',
   dry_run: false,
+});
+
+const flickr = new FlickrApi({
+  flickr_key: secret.flickr.flickr_key,
 });
 
 (async () => {
@@ -174,8 +179,9 @@ async function writeConfig(journey, s, j) {
       additional_keyword: point.get('name'),
       search_type: 'search_recent',
     });
-    console.log('wC tw:', coordinates, tweet_id);
     const tweetContainer = tweet_id ? `<div class="tweetContainer" id="tweet${tweet_id}"></div>` : '';
+    const flickrContent = tweet_id ? '' : await flickr.getContentHtml(coordinates);
+    console.debug('create config:', coordinates, tweet_id, flickrContent);
     let part2_item = `${part2_source}\n`;
     part2 += part2_item
       .replace(/###journey###/g, journey)
@@ -185,6 +191,7 @@ async function writeConfig(journey, s, j) {
       .replace(/###special###/g, point.get('special'))
       .replace(/###tweet_id###/g, tweet_id ? tweet_id : '')
       .replace(/###twitter###/g, tweetContainer)
+      .replace(/###flickr###/g, flickrContent)
       .replace(/###coordinates###/g, coordinates.join(', '));
   }
   const content = part1 + part2 + cft[3];

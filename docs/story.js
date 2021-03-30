@@ -127,29 +127,6 @@ const transformRequest = (url) => {
   };
 };
 
-const flickrImageUrl = async (record) => {
-  const latlon = record.location.center;
-  const flickr_key = 'f8c30ae7ac87e73ad0f516e314b5cfef';
-  const url = `https://www.flickr.com/services/rest/?method=flickr.photos.search&api_key=${flickr_key}&privacy_filter=1&content_type=1&media=photos&lat=${latlon[1]}&lon=${latlon[0]}&radius=0.1&format=json&nojsoncallback=1&per_page=5&extras=license,owner_name`; // &text=${encodeURIComponent(record.name)}
-  try {
-    const res = await fetch(url).catch((e) => {
-      console.log(e);
-      throw e;
-    });
-    const data = await res.json();
-    // console.log(data);
-    if (data.photos.total > 0) {
-      const { server, id, secret, ownername, description, title, license } = data.photos.photo[0];
-      const url = `https://live.staticflickr.com/${server}/${id}_${secret}_z.jpg`;
-      return { url, ownername, title, license };
-    }
-    return '';
-  } catch (e) {
-    console.log(e);
-    throw e;
-  }
-};
-
 const reverseGeocodeContent = async (latlon) => {
   try {
     const geocorder = mapboxClient.geocoding;
@@ -219,17 +196,6 @@ map.on('load', () => {
           conversation: 'none',
           lang: 'ja',
         });
-      } else {
-        const image = await flickrImageUrl(record).catch(console.log);
-        if (image) {
-          const searchUrl = `https://www.flickr.com/search/?lat=${record.location.center[1]}&lon=${record.location.center[0]}&radius=0.25&has_geo=1&view_all=1`;
-          const img = document.createElement('img');
-          img.src = image.url;
-          parent.firstChild.appendChild(img);
-          const caption = document.createElement('p');
-          caption.innerHTML = `photo from <a rel="noopener" href="${searchUrl}">Flickr</a>【${image.title}】 by ${image.ownername}`;
-          parent.firstChild.appendChild(caption);
-        }
       }
     })();
   });

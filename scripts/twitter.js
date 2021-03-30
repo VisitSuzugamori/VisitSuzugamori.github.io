@@ -86,7 +86,6 @@ class TwitterApi {
     } catch (e) {
       return undefined;
     }
-    return undefined;
   }
 
   async getTweetIdByGeo(options = {}) {

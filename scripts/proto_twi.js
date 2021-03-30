@@ -1,6 +1,7 @@
 'use strict';
 
 const { TwitterApi } = require('./twitter.js');
+const { FlickrApi } = require('./flickr.js');
 const secret = require('../my_secret.json');
 
 console.log(secret);
@@ -25,6 +26,13 @@ console.log(secret);
 
     const status = await tw.getSearchRateLimitStatus();
     console.log('status', status);
+
+    const flickr = new FlickrApi({
+      flickr_key: secret.flickr.flickr_key,
+    });
+    const fi = await flickr.getContentHtml([141.06267088910175, 38.36961351956921]);
+    console.log('FlickrApi', fi);
+
   } catch (e) {
     console.log('exception', e);
   }
