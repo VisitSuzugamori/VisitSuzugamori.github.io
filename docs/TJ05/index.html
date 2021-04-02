@@ -122,13 +122,16 @@
             padding: 3px 20px;
         }
 
+        .step h3 { font-size: 2.5em; }
         div.placeDescription, div.tweetContainer, div.twitter-tweet {
             padding: 0px;
             font-size: 12px;
         }
 
-        div.tweetContainer {
-            margin: 0 calc(50% - 50vw);
+        @media (max-width: 750px) {
+            .step div { padding:  10px 0px; }
+            .step h3 { padding: 10px 30px; font-size: 16px; }
+            .step p { padding: 10px 30px; }
         }
         </style>
 </head>
