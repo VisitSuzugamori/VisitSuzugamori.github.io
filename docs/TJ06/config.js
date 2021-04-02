@@ -5,10 +5,10 @@ const config = {
   markerColor: '#3FB1CE',
   theme: 'light',
   use3dTerrain: true,
-  title: 'VisitSuzugamori 第6旅 栃木',
+  title: '第6旅 栃木',
   subtitle: '【栃木】カラスと龍と蕎麦の先',
-  byline: '地図作成 isnot',
-  footer: '<p class="navi"><a href="/">🔝各話一覧へ</a> <a href="https://github.com/VisitSuzugamori/VisitSuzugamori.github.io">💬contact</a></p><p>原作：<a href="https://store.kadokawa.co.jp/shop/b/bM1394_dD/">ざつ旅-That&#39;s Journey-</a> (c) 石坂 ケンタ, KADOKAWA, 電撃マオウ / 地図・テンプレート：<a href="https://github.com/mapbox/storytelling">Mapbox</a>',
+  byline: 'VisitSuzugamori 〜ざつ旅を辿る〜',
+  footer: '<p class="navi"><a href="/">🔝各話一覧へ</a> <a href="https://github.com/VisitSuzugamori/VisitSuzugamori.github.io">💬contact</a></p><p>原作：<a href="https://store.kadokawa.co.jp/shop/b/bM1394_dD/">ざつ旅-That&#39;s Journey-</a> (c) 石坂 ケンタ, KADOKAWA, 電撃マオウ / 地図・テンプレート：<a href="https://github.com/mapbox/storytelling">Mapbox</a> / 地図作成 VisitSuzugamori, <a href="https://twitter.com/isnot49662340">isnot</a>',
   chapters: [
     {
       id: '2巻-P44-宇都宮駅',
@@ -16,8 +16,8 @@ const config = {
       hidden: false,
       title: '宇都宮駅',
       image: '',
-      tweet_id: '1376150698862256128',
-      description: '<p>2巻 P44 </p><div class="tweetContainer" id="tweet1376150698862256128"></div> ',
+      tweet_id: '1377843522921852929',
+      description: '<p>2巻 P44 </p><div class="tweetContainer" id="tweet1377843522921852929"></div> ',
       location: {
         center: [139.8984511, 36.5590234],
         zoom: 14,

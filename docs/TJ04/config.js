@@ -5,10 +5,10 @@ const config = {
   markerColor: '#3FB1CE',
   theme: 'light',
   use3dTerrain: true,
-  title: 'VisitSuzugamori 第4旅 高松',
+  title: '第4旅 高松',
   subtitle: '【高松】そのままのコシで',
-  byline: '地図作成 isnot',
-  footer: '<p class="navi"><a href="/">🔝各話一覧へ</a> <a href="https://github.com/VisitSuzugamori/VisitSuzugamori.github.io">💬contact</a></p><p>原作：<a href="https://store.kadokawa.co.jp/shop/b/bM1394_dD/">ざつ旅-That&#39;s Journey-</a> (c) 石坂 ケンタ, KADOKAWA, 電撃マオウ / 地図・テンプレート：<a href="https://github.com/mapbox/storytelling">Mapbox</a>',
+  byline: 'VisitSuzugamori 〜ざつ旅を辿る〜',
+  footer: '<p class="navi"><a href="/">🔝各話一覧へ</a> <a href="https://github.com/VisitSuzugamori/VisitSuzugamori.github.io">💬contact</a></p><p>原作：<a href="https://store.kadokawa.co.jp/shop/b/bM1394_dD/">ざつ旅-That&#39;s Journey-</a> (c) 石坂 ケンタ, KADOKAWA, 電撃マオウ / 地図・テンプレート：<a href="https://github.com/mapbox/storytelling">Mapbox</a> / 地図作成 VisitSuzugamori, <a href="https://twitter.com/isnot49662340">isnot</a>',
   chapters: [
     {
       id: '1巻-P126-東京駅',
@@ -16,8 +16,8 @@ const config = {
       hidden: false,
       title: '東京駅',
       image: '',
-      tweet_id: '',
-      description: '<p>1巻 P126 </p> <p><img src="https://live.staticflickr.com/65535/51080556518_1e34665a5a_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.6812362&lon=139.7671248&radius=0.25&has_geo=1&view_all=1">Flickr</a>【DSC09304】 by Yasuko_</p>',
+      tweet_id: '1377890488129183746',
+      description: '<p>1巻 P126 </p><div class="tweetContainer" id="tweet1377890488129183746"></div> ',
       location: {
         center: [139.7671248, 35.6812362],
         zoom: 14,
@@ -36,8 +36,8 @@ const config = {
       hidden: false,
       title: '岡山駅',
       image: '',
-      tweet_id: '',
-      description: '<p>1巻 P130 </p> <p><img src="https://live.staticflickr.com/65535/51004160796_91e423b6c1_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.6661212&lon=133.9177335&radius=0.25&has_geo=1&view_all=1">Flickr</a>【HelloKittyShinkansen】 by zoso8203</p>',
+      tweet_id: '1377892894045057024',
+      description: '<p>1巻 P130 </p><div class="tweetContainer" id="tweet1377892894045057024"></div> ',
       location: {
         center: [133.9177335, 34.6661212],
         zoom: 14,
@@ -56,8 +56,8 @@ const config = {
       hidden: false,
       title: '高松駅',
       image: '',
-      tweet_id: '',
-      description: '<p>1巻 P131 </p> <p><img src="https://live.staticflickr.com/65535/51070633261_4902c0fd3e_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.3504507&lon=134.047056&radius=0.25&has_geo=1&view_all=1">Flickr</a>【610_8902 (2)】 by Lox Pix</p>',
+      tweet_id: '1377825160741314564',
+      description: '<p>1巻 P131 </p><div class="tweetContainer" id="tweet1377825160741314564"></div> ',
       location: {
         center: [134.047056, 34.3504507],
         zoom: 14,
@@ -236,8 +236,8 @@ const config = {
       hidden: false,
       title: '栗林公園',
       image: '',
-      tweet_id: '1376847003892727811',
-      description: '<p>1巻 P157 </p><div class="tweetContainer" id="tweet1376847003892727811"></div> ',
+      tweet_id: '1377200960129277952',
+      description: '<p>1巻 P157 </p><div class="tweetContainer" id="tweet1377200960129277952"></div> ',
       location: {
         center: [134.0445345, 34.3293842],
         zoom: 14,

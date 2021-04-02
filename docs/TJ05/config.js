@@ -5,10 +5,10 @@ const config = {
   markerColor: '#3FB1CE',
   theme: 'light',
   use3dTerrain: true,
-  title: 'VisitSuzugamori 第5旅 京都',
+  title: '第5旅 京都',
   subtitle: '【京都】ふ、ばいざしー',
-  byline: '地図作成 isnot',
-  footer: '<p class="navi"><a href="/">🔝各話一覧へ</a> <a href="https://github.com/VisitSuzugamori/VisitSuzugamori.github.io">💬contact</a></p><p>原作：<a href="https://store.kadokawa.co.jp/shop/b/bM1394_dD/">ざつ旅-That&#39;s Journey-</a> (c) 石坂 ケンタ, KADOKAWA, 電撃マオウ / 地図・テンプレート：<a href="https://github.com/mapbox/storytelling">Mapbox</a>',
+  byline: 'VisitSuzugamori 〜ざつ旅を辿る〜',
+  footer: '<p class="navi"><a href="/">🔝各話一覧へ</a> <a href="https://github.com/VisitSuzugamori/VisitSuzugamori.github.io">💬contact</a></p><p>原作：<a href="https://store.kadokawa.co.jp/shop/b/bM1394_dD/">ざつ旅-That&#39;s Journey-</a> (c) 石坂 ケンタ, KADOKAWA, 電撃マオウ / 地図・テンプレート：<a href="https://github.com/mapbox/storytelling">Mapbox</a> / 地図作成 VisitSuzugamori, <a href="https://twitter.com/isnot49662340">isnot</a>',
   chapters: [
     {
       id: '2巻-P3-伏見稲荷大社',
@@ -16,8 +16,8 @@ const config = {
       hidden: false,
       title: '伏見稲荷大社',
       image: '',
-      tweet_id: '1376383443429285893',
-      description: '<p>2巻 P3 </p><div class="tweetContainer" id="tweet1376383443429285893"></div> ',
+      tweet_id: '1377841657391968256',
+      description: '<p>2巻 P3 </p><div class="tweetContainer" id="tweet1377841657391968256"></div> ',
       location: {
         center: [135.7726717, 34.9671402],
         zoom: 14,
@@ -36,8 +36,8 @@ const config = {
       hidden: false,
       title: '京都駅',
       image: '',
-      tweet_id: '1376838367996956674',
-      description: '<p>2巻 P6 </p><div class="tweetContainer" id="tweet1376838367996956674"></div> ',
+      tweet_id: '1377898297382211591',
+      description: '<p>2巻 P6 </p><div class="tweetContainer" id="tweet1377898297382211591"></div> ',
       location: {
         center: [135.7587667, 34.985849],
         zoom: 14,
@@ -57,7 +57,7 @@ const config = {
       title: '藤岡酒造',
       image: '',
       tweet_id: '',
-      description: '<p>2巻 P16 </p> <p><img src="https://live.staticflickr.com/65535/50011517023_820f1aa7c5_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.9351213&lon=135.7624568&radius=0.25&has_geo=1&view_all=1">Flickr</a>【ラーメン・明太子定食】 by albertus</p>',
+      description: '<p>2巻 P16 </p> <p><img src="https://live.staticflickr.com/65535/49166042607_a0d41435ae_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.9351213&lon=135.7624568&radius=0.25&has_geo=1&view_all=1">Flickr</a>【呉竹湯】 by albertus</p>',
       location: {
         center: [135.7624568, 34.9351213],
         zoom: 14,
@@ -76,8 +76,8 @@ const config = {
       hidden: false,
       title: '月桂冠大倉記念館',
       image: '',
-      tweet_id: '1375635163728711682',
-      description: '<p>2巻 P17 </p><div class="tweetContainer" id="tweet1375635163728711682"></div> ',
+      tweet_id: '1377493981613805570',
+      description: '<p>2巻 P17 </p><div class="tweetContainer" id="tweet1377493981613805570"></div> ',
       location: {
         center: [135.76161, 34.929136],
         zoom: 14,
@@ -97,7 +97,7 @@ const config = {
       title: 'ラー麺・陽はまた昇る 伏見稲荷駅前本店',
       image: '',
       tweet_id: '',
-      description: '<p>2巻 P17 </p> <p><img src="https://live.staticflickr.com/65535/50900434912_3d01754f76_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.968596&lon=135.768613&radius=0.25&has_geo=1&view_all=1">Flickr</a>【Japan】 by Lamtom</p>',
+      description: '<p>2巻 P17 </p> <p><img src="https://live.staticflickr.com/65535/49870623641_4a00806f24_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.968596&lon=135.768613&radius=0.25&has_geo=1&view_all=1">Flickr</a>【20191230-DSC07350-SEL35F18】 by Noelas</p>',
       location: {
         center: [135.768613, 34.968596],
         zoom: 14,
@@ -116,8 +116,8 @@ const config = {
       hidden: false,
       title: '伏見稲荷駅',
       image: '',
-      tweet_id: '1376856210205339651',
-      description: '<p>2巻 P18 </p><div class="tweetContainer" id="tweet1376856210205339651"></div> ',
+      tweet_id: '1377793668921315328',
+      description: '<p>2巻 P18 </p><div class="tweetContainer" id="tweet1377793668921315328"></div> ',
       location: {
         center: [135.7692088, 34.9687541],
         zoom: 14,
@@ -216,8 +216,8 @@ const config = {
       hidden: false,
       title: '天橋立ビューランド',
       image: '',
-      tweet_id: '',
-      description: '<p>2巻 P32 </p> <p><img src="https://live.staticflickr.com/65535/49990422697_67ecab2351_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.5527779&lon=135.1821171&radius=0.25&has_geo=1&view_all=1">Flickr</a>【Amanohashidate】 by DrunkenAngel48</p>',
+      tweet_id: '1377838624365027328',
+      description: '<p>2巻 P32 </p><div class="tweetContainer" id="tweet1377838624365027328"></div> ',
       location: {
         center: [135.1821171, 35.5527779],
         zoom: 14,

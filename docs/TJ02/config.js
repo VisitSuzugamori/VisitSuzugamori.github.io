@@ -5,10 +5,10 @@ const config = {
   markerColor: '#3FB1CE',
   theme: 'light',
   use3dTerrain: true,
-  title: 'VisitSuzugamori 第2旅 松島',
+  title: '第2旅 松島',
   subtitle: '【松島】伊達じゃない伊達',
-  byline: '地図作成 isnot',
-  footer: '<p class="navi"><a href="/">🔝各話一覧へ</a> <a href="https://github.com/VisitSuzugamori/VisitSuzugamori.github.io">💬contact</a></p><p>原作：<a href="https://store.kadokawa.co.jp/shop/b/bM1394_dD/">ざつ旅-That&#39;s Journey-</a> (c) 石坂 ケンタ, KADOKAWA, 電撃マオウ / 地図・テンプレート：<a href="https://github.com/mapbox/storytelling">Mapbox</a>',
+  byline: 'VisitSuzugamori 〜ざつ旅を辿る〜',
+  footer: '<p class="navi"><a href="/">🔝各話一覧へ</a> <a href="https://github.com/VisitSuzugamori/VisitSuzugamori.github.io">💬contact</a></p><p>原作：<a href="https://store.kadokawa.co.jp/shop/b/bM1394_dD/">ざつ旅-That&#39;s Journey-</a> (c) 石坂 ケンタ, KADOKAWA, 電撃マオウ / 地図・テンプレート：<a href="https://github.com/mapbox/storytelling">Mapbox</a> / 地図作成 VisitSuzugamori, <a href="https://twitter.com/isnot49662340">isnot</a>',
   chapters: [
     {
       id: '1巻-P61-仙台駅',
@@ -16,8 +16,8 @@ const config = {
       hidden: false,
       title: '仙台駅',
       image: '',
-      tweet_id: '1376868553429815296',
-      description: '<p>1巻 P61 </p><div class="tweetContainer" id="tweet1376868553429815296"></div> ',
+      tweet_id: '1377843993828974592',
+      description: '<p>1巻 P61 </p><div class="tweetContainer" id="tweet1377843993828974592"></div> ',
       location: {
         center: [140.8824375, 38.2601316],
         zoom: 14,
@@ -36,8 +36,8 @@ const config = {
       hidden: false,
       title: '松島海岸駅',
       image: '',
-      tweet_id: '1376064198522863616',
-      description: '<p>1巻 P62 </p><div class="tweetContainer" id="tweet1376064198522863616"></div> ',
+      tweet_id: '1377107618628431887',
+      description: '<p>1巻 P62 </p><div class="tweetContainer" id="tweet1377107618628431887"></div> ',
       location: {
         center: [141.0588152, 38.368053],
         zoom: 14,
@@ -76,8 +76,8 @@ const config = {
       hidden: false,
       title: '松島公園',
       image: '',
-      tweet_id: '',
-      description: '<p>1巻 P64 </p> <p><img src="https://live.staticflickr.com/65535/50829564487_793e5c2e1c_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=38.3661732&lon=141.0611304&radius=0.25&has_geo=1&view_all=1">Flickr</a>【Oshima Island】 by victor*f</p>',
+      tweet_id: '1377455339143061506',
+      description: '<p>1巻 P64 </p><div class="tweetContainer" id="tweet1377455339143061506"></div> ',
       location: {
         center: [141.0611304, 38.3661732],
         zoom: 14,
@@ -156,8 +156,8 @@ const config = {
       hidden: false,
       title: '瑞巌寺',
       image: '',
-      tweet_id: '1376855409110048777',
-      description: '<p>1巻 P69 </p><div class="tweetContainer" id="tweet1376855409110048777"></div> ',
+      tweet_id: '1377414536181899268',
+      description: '<p>1巻 P69 </p><div class="tweetContainer" id="tweet1377414536181899268"></div> ',
       location: {
         center: [141.0603899, 38.3718733],
         zoom: 14,

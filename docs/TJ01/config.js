@@ -5,10 +5,10 @@ const config = {
   markerColor: '#3FB1CE',
   theme: 'light',
   use3dTerrain: true,
-  title: 'VisitSuzugamori 第1旅 会津若松',
+  title: '第1旅 会津若松',
   subtitle: '【会津若松】はじめの1225段',
-  byline: '地図作成 isnot',
-  footer: '<p class="navi"><a href="/">🔝各話一覧へ</a> <a href="https://github.com/VisitSuzugamori/VisitSuzugamori.github.io">💬contact</a></p><p>原作：<a href="https://store.kadokawa.co.jp/shop/b/bM1394_dD/">ざつ旅-That&#39;s Journey-</a> (c) 石坂 ケンタ, KADOKAWA, 電撃マオウ / 地図・テンプレート：<a href="https://github.com/mapbox/storytelling">Mapbox</a>',
+  byline: 'VisitSuzugamori 〜ざつ旅を辿る〜',
+  footer: '<p class="navi"><a href="/">🔝各話一覧へ</a> <a href="https://github.com/VisitSuzugamori/VisitSuzugamori.github.io">💬contact</a></p><p>原作：<a href="https://store.kadokawa.co.jp/shop/b/bM1394_dD/">ざつ旅-That&#39;s Journey-</a> (c) 石坂 ケンタ, KADOKAWA, 電撃マオウ / 地図・テンプレート：<a href="https://github.com/mapbox/storytelling">Mapbox</a> / 地図作成 VisitSuzugamori, <a href="https://twitter.com/isnot49662340">isnot</a>',
   chapters: [
     {
       id: '1巻-P22-郡山駅',
@@ -16,8 +16,8 @@ const config = {
       hidden: false,
       title: '郡山駅',
       image: '',
-      tweet_id: '1376857787830046720',
-      description: '<p>1巻 P22 </p><div class="tweetContainer" id="tweet1376857787830046720"></div> ',
+      tweet_id: '1377917499291836417',
+      description: '<p>1巻 P22 </p><div class="tweetContainer" id="tweet1377917499291836417"></div> ',
       location: {
         center: [140.3884019, 37.3985573],
         zoom: 14,
@@ -56,8 +56,8 @@ const config = {
       hidden: false,
       title: '会津若松駅',
       image: '',
-      tweet_id: '1375750200623529985',
-      description: '<p>1巻 P24 </p><div class="tweetContainer" id="tweet1375750200623529985"></div> ',
+      tweet_id: '1377265557435641863',
+      description: '<p>1巻 P24 </p><div class="tweetContainer" id="tweet1377265557435641863"></div> ',
       location: {
         center: [139.9303261, 37.5078657],
         zoom: 14,
@@ -157,7 +157,7 @@ const config = {
       title: '射的場',
       image: '',
       tweet_id: '',
-      description: '<p>1巻 P40 </p> <p><img src="https://live.staticflickr.com/4818/46109236232_24119b28d9_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=37.4781468&lon=139.9632406&radius=0.25&has_geo=1&view_all=1">Flickr</a>【】 by Straylight66</p>',
+      description: '<p>1巻 P40 </p> <p><img src="https://live.staticflickr.com/4851/45397217974_9eb4147f24_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=37.4781468&lon=139.9632406&radius=0.25&has_geo=1&view_all=1">Flickr</a>【IMG_3816】 by k_natsumoto</p>',
       location: {
         center: [139.9632406, 37.4781468],
         zoom: 14,

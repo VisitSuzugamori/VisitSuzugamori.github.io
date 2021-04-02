@@ -5,10 +5,10 @@ const config = {
   markerColor: '#3FB1CE',
   theme: 'light',
   use3dTerrain: true,
-  title: 'VisitSuzugamori 第9旅 広島前編',
+  title: '第9旅 広島前編',
   subtitle: '【広島】三人よれば…バス？',
-  byline: '地図作成 isnot',
-  footer: '<p class="navi"><a href="/">🔝各話一覧へ</a> <a href="https://github.com/VisitSuzugamori/VisitSuzugamori.github.io">💬contact</a></p><p>原作：<a href="https://store.kadokawa.co.jp/shop/b/bM1394_dD/">ざつ旅-That&#39;s Journey-</a> (c) 石坂 ケンタ, KADOKAWA, 電撃マオウ / 地図・テンプレート：<a href="https://github.com/mapbox/storytelling">Mapbox</a>',
+  byline: 'VisitSuzugamori 〜ざつ旅を辿る〜',
+  footer: '<p class="navi"><a href="/">🔝各話一覧へ</a> <a href="https://github.com/VisitSuzugamori/VisitSuzugamori.github.io">💬contact</a></p><p>原作：<a href="https://store.kadokawa.co.jp/shop/b/bM1394_dD/">ざつ旅-That&#39;s Journey-</a> (c) 石坂 ケンタ, KADOKAWA, 電撃マオウ / 地図・テンプレート：<a href="https://github.com/mapbox/storytelling">Mapbox</a> / 地図作成 VisitSuzugamori, <a href="https://twitter.com/isnot49662340">isnot</a>',
   chapters: [
     {
       id: '2巻-P132-東京ドームホテル',
@@ -36,8 +36,8 @@ const config = {
       hidden: false,
       title: '海老名SA (下り)',
       image: '',
-      tweet_id: '1374208711095283713',
-      description: '<p>2巻 P141 </p><div class="tweetContainer" id="tweet1374208711095283713"></div> ',
+      tweet_id: '',
+      description: '<p>2巻 P141 </p> <p><img src="https://live.staticflickr.com/65535/50597455831_e792480b64_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.4310702&lon=139.4010198&radius=0.25&has_geo=1&view_all=1">Flickr</a>【IMG_0261】 by tnoma</p>',
       location: {
         center: [139.4010198, 35.4310702],
         zoom: 14,
@@ -76,8 +76,8 @@ const config = {
       hidden: false,
       title: '広島駅',
       image: '',
-      tweet_id: '1376670738976014340',
-      description: '<p>2巻 P146 </p><div class="tweetContainer" id="tweet1376670738976014340"></div> ',
+      tweet_id: '1377402078302138370',
+      description: '<p>2巻 P146 </p><div class="tweetContainer" id="tweet1377402078302138370"></div> ',
       location: {
         center: [132.4753786, 34.397667],
         zoom: 14,
@@ -157,7 +157,7 @@ const config = {
       title: '嚴島神社 大鳥居（布の中）',
       image: '',
       tweet_id: '',
-      description: '<p>2巻 P152,153 </p> <p><img src="https://live.staticflickr.com/65535/51044782367_86b88db1a5_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.2973092&lon=132.3181276&radius=0.25&has_geo=1&view_all=1">Flickr</a>【IMG_4541】 by Autumn Sweater</p>',
+      description: '<p>2巻 P152,153 </p> <p><img src="https://live.staticflickr.com/65535/51089324234_5587811c92_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.2973092&lon=132.3181276&radius=0.25&has_geo=1&view_all=1">Flickr</a>【Itsukushima-Schrein】 by Joerg1975</p>',
       location: {
         center: [132.3181276, 34.2973092],
         zoom: 14,

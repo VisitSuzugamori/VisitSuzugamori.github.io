@@ -5,10 +5,10 @@ const config = {
   markerColor: '#3FB1CE',
   theme: 'light',
   use3dTerrain: true,
-  title: 'VisitSuzugamori 第11旅 和歌山',
+  title: '第11旅 和歌山',
   subtitle: '【和歌山】一年のおわりとはじまり',
-  byline: '地図作成 isnot',
-  footer: '<p class="navi"><a href="/">🔝各話一覧へ</a> <a href="https://github.com/VisitSuzugamori/VisitSuzugamori.github.io">💬contact</a></p><p>原作：<a href="https://store.kadokawa.co.jp/shop/b/bM1394_dD/">ざつ旅-That&#39;s Journey-</a> (c) 石坂 ケンタ, KADOKAWA, 電撃マオウ / 地図・テンプレート：<a href="https://github.com/mapbox/storytelling">Mapbox</a>',
+  byline: 'VisitSuzugamori 〜ざつ旅を辿る〜',
+  footer: '<p class="navi"><a href="/">🔝各話一覧へ</a> <a href="https://github.com/VisitSuzugamori/VisitSuzugamori.github.io">💬contact</a></p><p>原作：<a href="https://store.kadokawa.co.jp/shop/b/bM1394_dD/">ざつ旅-That&#39;s Journey-</a> (c) 石坂 ケンタ, KADOKAWA, 電撃マオウ / 地図・テンプレート：<a href="https://github.com/mapbox/storytelling">Mapbox</a> / 地図作成 VisitSuzugamori, <a href="https://twitter.com/isnot49662340">isnot</a>',
   chapters: [
     {
       id: '3巻-P57-串本駅',
@@ -16,8 +16,8 @@ const config = {
       hidden: false,
       title: '串本駅',
       image: '',
-      tweet_id: '1374911639502286849',
-      description: '<p>3巻 P57 </p><div class="tweetContainer" id="tweet1374911639502286849"></div> ',
+      tweet_id: '1377871740169187334',
+      description: '<p>3巻 P57 </p><div class="tweetContainer" id="tweet1377871740169187334"></div> ',
       location: {
         center: [135.7816031, 33.4755266],
         zoom: 14,
@@ -176,8 +176,8 @@ const config = {
       hidden: false,
       title: '新宮駅',
       image: '',
-      tweet_id: '1375712929291534348',
-      description: '<p>3巻 P80 </p><div class="tweetContainer" id="tweet1375712929291534348"></div> ',
+      tweet_id: '1377898718863691776',
+      description: '<p>3巻 P80 </p><div class="tweetContainer" id="tweet1377898718863691776"></div> ',
       location: {
         center: [135.9941471, 33.7251509],
         zoom: 14,
@@ -197,7 +197,7 @@ const config = {
       title: '新宮市観光協会 shingu tourist information centre',
       image: '',
       tweet_id: '',
-      description: '<p>3巻 P81 </p> <p><img src="https://live.staticflickr.com/65535/50084565328_90a5daae47_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=33.7254244&lon=135.9946972&radius=0.25&has_geo=1&view_all=1">Flickr</a>【新宮駅】 by OOMYV</p>',
+      description: '<p>3巻 P81 </p> <p><img src="https://live.staticflickr.com/65535/49355311872_c249392c99_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=33.7254244&lon=135.9946972&radius=0.25&has_geo=1&view_all=1">Flickr</a>【新宮站, 和歌山, 日本, 新宮駅, しんぐうえき, わかやまけん, にっぽん, にほん, Shingu Station, Wakayama, Japan, Nippon, Nihon】 by bryan...</p>',
       location: {
         center: [135.9946972, 33.7254244],
         zoom: 14,

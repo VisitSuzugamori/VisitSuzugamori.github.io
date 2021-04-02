@@ -5,10 +5,10 @@ const config = {
   markerColor: '#3FB1CE',
   theme: 'light',
   use3dTerrain: true,
-  title: 'VisitSuzugamori 第10旅 青森',
+  title: '第10旅 青森',
   subtitle: '【青森】温泉で完成',
-  byline: '地図作成 isnot',
-  footer: '<p class="navi"><a href="/">🔝各話一覧へ</a> <a href="https://github.com/VisitSuzugamori/VisitSuzugamori.github.io">💬contact</a></p><p>原作：<a href="https://store.kadokawa.co.jp/shop/b/bM1394_dD/">ざつ旅-That&#39;s Journey-</a> (c) 石坂 ケンタ, KADOKAWA, 電撃マオウ / 地図・テンプレート：<a href="https://github.com/mapbox/storytelling">Mapbox</a>',
+  byline: 'VisitSuzugamori 〜ざつ旅を辿る〜',
+  footer: '<p class="navi"><a href="/">🔝各話一覧へ</a> <a href="https://github.com/VisitSuzugamori/VisitSuzugamori.github.io">💬contact</a></p><p>原作：<a href="https://store.kadokawa.co.jp/shop/b/bM1394_dD/">ざつ旅-That&#39;s Journey-</a> (c) 石坂 ケンタ, KADOKAWA, 電撃マオウ / 地図・テンプレート：<a href="https://github.com/mapbox/storytelling">Mapbox</a> / 地図作成 VisitSuzugamori, <a href="https://twitter.com/isnot49662340">isnot</a>',
   chapters: [
     {
       id: '3巻-P31-八甲田ロープウェイ 山頂公園駅',
@@ -77,7 +77,7 @@ const config = {
       title: '谷地温泉',
       image: '',
       tweet_id: '',
-      description: '<p>3巻 P38 </p> <p><img src="https://live.staticflickr.com/65535/50036012223_af7d118d43_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=40.6330178&lon=140.9245271&radius=0.25&has_geo=1&view_all=1">Flickr</a>【Yachi onsen, one of the secret onsen of Aomori】 by Hans ter Horst Photography</p>',
+      description: '<p>3巻 P38 </p> <p><img src="https://live.staticflickr.com/65535/48712696351_5bda163c9e_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=40.6330178&lon=140.9245271&radius=0.25&has_geo=1&view_all=1">Flickr</a>【Yachi onsen, one of the secret onsen of Aomori】 by Hans ter Horst Photography</p>',
       location: {
         center: [140.9245271, 40.6330178],
         zoom: 14,
@@ -177,7 +177,7 @@ const config = {
       title: '恐山 花染の湯',
       image: '',
       tweet_id: '',
-      description: '<p>3巻 P52 </p> <p><img src="https://live.staticflickr.com/4641/25389932708_4ccc932212_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=41.3283697&lon=141.0917047&radius=0.25&has_geo=1&view_all=1">Flickr</a>【DSC_0387】 by taewoongkwon</p>',
+      description: '<p>3巻 P52 </p> <p><img src="https://live.staticflickr.com/7779/30227491562_f1a0316774_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=41.3283697&lon=141.0917047&radius=0.25&has_geo=1&view_all=1">Flickr</a>【Gable Gate】 by campra</p>',
       location: {
         center: [141.0917047, 41.3283697],
         zoom: 14,
@@ -197,7 +197,7 @@ const config = {
       title: '恐山冷水',
       image: '',
       tweet_id: '',
-      description: '<p>3巻 P55 </p> <p><img src="https://live.staticflickr.com/7756/18265270976_87be1e78a7_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=41.3145659&lon=141.1264919&radius=0.25&has_geo=1&view_all=1">Flickr</a>【Osorezan Hiyamizu springs】 by mega_midget_racer</p>',
+      description: '<p>3巻 P55 </p> <p><img src="https://live.staticflickr.com/3650/3506049220_e0c97a378c_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=41.3145659&lon=141.1264919&radius=0.25&has_geo=1&view_all=1">Flickr</a>【Hiyamizu】 by tsuda</p>',
       location: {
         center: [141.1264919, 41.3145659],
         zoom: 14,

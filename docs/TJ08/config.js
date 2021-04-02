@@ -5,10 +5,10 @@ const config = {
   markerColor: '#3FB1CE',
   theme: 'light',
   use3dTerrain: true,
-  title: 'VisitSuzugamori 第8旅 伊勢',
+  title: '第8旅 伊勢',
   subtitle: '【伊勢】神様と出会える街？',
-  byline: '地図作成 isnot',
-  footer: '<p class="navi"><a href="/">🔝各話一覧へ</a> <a href="https://github.com/VisitSuzugamori/VisitSuzugamori.github.io">💬contact</a></p><p>原作：<a href="https://store.kadokawa.co.jp/shop/b/bM1394_dD/">ざつ旅-That&#39;s Journey-</a> (c) 石坂 ケンタ, KADOKAWA, 電撃マオウ / 地図・テンプレート：<a href="https://github.com/mapbox/storytelling">Mapbox</a>',
+  byline: 'VisitSuzugamori 〜ざつ旅を辿る〜',
+  footer: '<p class="navi"><a href="/">🔝各話一覧へ</a> <a href="https://github.com/VisitSuzugamori/VisitSuzugamori.github.io">💬contact</a></p><p>原作：<a href="https://store.kadokawa.co.jp/shop/b/bM1394_dD/">ざつ旅-That&#39;s Journey-</a> (c) 石坂 ケンタ, KADOKAWA, 電撃マオウ / 地図・テンプレート：<a href="https://github.com/mapbox/storytelling">Mapbox</a> / 地図作成 VisitSuzugamori, <a href="https://twitter.com/isnot49662340">isnot</a>',
   chapters: [
     {
       id: '2巻-P96,97-白子漁港',
@@ -56,8 +56,8 @@ const config = {
       hidden: false,
       title: '伊勢市駅',
       image: '',
-      tweet_id: '1376006260798021634',
-      description: '<p>2巻 P100 </p><div class="tweetContainer" id="tweet1376006260798021634"></div> ',
+      tweet_id: '1377088583937499136',
+      description: '<p>2巻 P100 </p><div class="tweetContainer" id="tweet1377088583937499136"></div> ',
       location: {
         center: [136.7097004, 34.4910554],
         zoom: 14,
@@ -116,8 +116,8 @@ const config = {
       hidden: false,
       title: '伊勢神宮 外宮',
       image: '',
-      tweet_id: '1376721383229562883',
-      description: '<p>2巻 P106 </p><div class="tweetContainer" id="tweet1376721383229562883"></div> ',
+      tweet_id: '1377079981248020480',
+      description: '<p>2巻 P106 </p><div class="tweetContainer" id="tweet1377079981248020480"></div> ',
       location: {
         center: [136.7029233, 34.4871537],
         zoom: 14,
@@ -136,8 +136,8 @@ const config = {
       hidden: false,
       title: '伊勢神宮',
       image: '',
-      tweet_id: '1376904537106128899',
-      description: '<p>2巻 P108 </p><div class="tweetContainer" id="tweet1376904537106128899"></div> ',
+      tweet_id: '1377858340701675520',
+      description: '<p>2巻 P108 </p><div class="tweetContainer" id="tweet1377858340701675520"></div> ',
       location: {
         center: [136.725793, 34.45501],
         zoom: 14,
@@ -217,7 +217,7 @@ const config = {
       title: '海月',
       image: '',
       tweet_id: '',
-      description: '<p>2巻 P111 </p> <p><img src="https://live.staticflickr.com/4813/47025883411_c9260089dc_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.4847431&lon=136.8439619&radius=0.25&has_geo=1&view_all=1">Flickr</a>【IMG_0153】 by masa.nagano</p>',
+      description: '<p>2巻 P111 </p> <p><img src="https://live.staticflickr.com/4650/39799401652_310d5dc803_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.4847431&lon=136.8439619&radius=0.25&has_geo=1&view_all=1">Flickr</a>【20180120-DSCF7699.jpg】 by kato_masashi</p>',
       location: {
         center: [136.8439619, 34.4847431],
         zoom: 14,

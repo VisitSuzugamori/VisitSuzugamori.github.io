@@ -5,10 +5,10 @@ const config = {
   markerColor: '#3FB1CE',
   theme: 'light',
   use3dTerrain: true,
-  title: 'VisitSuzugamori 第9旅 広島後編',
+  title: '第9旅 広島後編',
   subtitle: '【広島】女子三人寄って睦まじい',
-  byline: '地図作成 isnot',
-  footer: '<p class="navi"><a href="/">🔝各話一覧へ</a> <a href="https://github.com/VisitSuzugamori/VisitSuzugamori.github.io">💬contact</a></p><p>原作：<a href="https://store.kadokawa.co.jp/shop/b/bM1394_dD/">ざつ旅-That&#39;s Journey-</a> (c) 石坂 ケンタ, KADOKAWA, 電撃マオウ / 地図・テンプレート：<a href="https://github.com/mapbox/storytelling">Mapbox</a>',
+  byline: 'VisitSuzugamori 〜ざつ旅を辿る〜',
+  footer: '<p class="navi"><a href="/">🔝各話一覧へ</a> <a href="https://github.com/VisitSuzugamori/VisitSuzugamori.github.io">💬contact</a></p><p>原作：<a href="https://store.kadokawa.co.jp/shop/b/bM1394_dD/">ざつ旅-That&#39;s Journey-</a> (c) 石坂 ケンタ, KADOKAWA, 電撃マオウ / 地図・テンプレート：<a href="https://github.com/mapbox/storytelling">Mapbox</a> / 地図作成 VisitSuzugamori, <a href="https://twitter.com/isnot49662340">isnot</a>',
   chapters: [
     {
       id: '3巻-P5-嚴島神社',
@@ -17,7 +17,7 @@ const config = {
       title: '嚴島神社',
       image: '',
       tweet_id: '',
-      description: '<p>3巻 P5 </p> <p><img src="https://live.staticflickr.com/65535/51044690601_c01aa088b9_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.2959885&lon=132.3198262&radius=0.25&has_geo=1&view_all=1">Flickr</a>【IMG_4526】 by Autumn Sweater</p>',
+      description: '<p>3巻 P5 </p> <p><img src="https://live.staticflickr.com/65535/51089324234_5587811c92_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.2959885&lon=132.3198262&radius=0.25&has_geo=1&view_all=1">Flickr</a>【Itsukushima-Schrein】 by Joerg1975</p>',
       location: {
         center: [132.3198262, 34.2959885],
         zoom: 14,
@@ -37,7 +37,7 @@ const config = {
       title: '大聖院',
       image: '',
       tweet_id: '',
-      description: '<p>3巻 P8 </p> <p><img src="https://live.staticflickr.com/65535/51043958293_64ff56c8b4_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.2920477&lon=132.3184736&radius=0.25&has_geo=1&view_all=1">Flickr</a>【IMG_4560】 by Autumn Sweater</p>',
+      description: '<p>3巻 P8 </p> <p><img src="https://live.staticflickr.com/65535/51089252156_2d919ce88d_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.2920477&lon=132.3184736&radius=0.25&has_geo=1&view_all=1">Flickr</a>【Daisho-in】 by Joerg1975</p>',
       location: {
         center: [132.3184736, 34.2920477],
         zoom: 14,
@@ -57,7 +57,7 @@ const config = {
       title: 'もみじ堂本店',
       image: '',
       tweet_id: '',
-      description: '<p>3巻 P10 </p> <p><img src="https://live.staticflickr.com/65535/51041098606_c66320b2a3_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.2977872&lon=132.320873&radius=0.25&has_geo=1&view_all=1">Flickr</a>【Miyajima】 by taigrafia</p>',
+      description: '<p>3巻 P10 </p> <p><img src="https://live.staticflickr.com/65535/51084963052_364d3a18d6_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.2977872&lon=132.320873&radius=0.25&has_geo=1&view_all=1">Flickr</a>【Sunset in Miyajima】 by ravalli1</p>',
       location: {
         center: [132.320873, 34.2977872],
         zoom: 14,
@@ -97,7 +97,7 @@ const config = {
       title: 'コンフォートホテル呉',
       image: '',
       tweet_id: '',
-      description: '<p>3巻 P12 </p> <p><img src="https://live.staticflickr.com/65535/50722338491_9a2e88ec94_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.2431335&lon=132.5586395&radius=0.25&has_geo=1&view_all=1">Flickr</a>【D71_2673】 by Lox Pix</p>',
+      description: '<p>3巻 P12 </p> <p><img src="https://live.staticflickr.com/65535/50721600568_6f3fbd3396_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.2431335&lon=132.5586395&radius=0.25&has_geo=1&view_all=1">Flickr</a>【D71_2674】 by Lox Pix</p>',
       location: {
         center: [132.5586395, 34.2431335],
         zoom: 14,

@@ -5,10 +5,10 @@ const config = {
   markerColor: '#3FB1CE',
   theme: 'light',
   use3dTerrain: true,
-  title: 'VisitSuzugamori 第17旅 九州',
+  title: '第17旅 九州',
   subtitle: '【九州】null',
-  byline: '地図作成 isnot',
-  footer: '<p class="navi"><a href="/">🔝各話一覧へ</a> <a href="https://github.com/VisitSuzugamori/VisitSuzugamori.github.io">💬contact</a></p><p>原作：<a href="https://store.kadokawa.co.jp/shop/b/bM1394_dD/">ざつ旅-That&#39;s Journey-</a> (c) 石坂 ケンタ, KADOKAWA, 電撃マオウ / 地図・テンプレート：<a href="https://github.com/mapbox/storytelling">Mapbox</a>',
+  byline: 'VisitSuzugamori 〜ざつ旅を辿る〜',
+  footer: '<p class="navi"><a href="/">🔝各話一覧へ</a> <a href="https://github.com/VisitSuzugamori/VisitSuzugamori.github.io">💬contact</a></p><p>原作：<a href="https://store.kadokawa.co.jp/shop/b/bM1394_dD/">ざつ旅-That&#39;s Journey-</a> (c) 石坂 ケンタ, KADOKAWA, 電撃マオウ / 地図・テンプレート：<a href="https://github.com/mapbox/storytelling">Mapbox</a> / 地図作成 VisitSuzugamori, <a href="https://twitter.com/isnot49662340">isnot</a>',
   chapters: [
     {
       id: '0巻-P-東京駅',
@@ -36,8 +36,8 @@ const config = {
       hidden: false,
       title: '小倉駅',
       image: '',
-      tweet_id: '1376737077191053321',
-      description: '<p>0巻 P </p><div class="tweetContainer" id="tweet1376737077191053321"></div> ',
+      tweet_id: '1377857649161744384',
+      description: '<p>0巻 P </p><div class="tweetContainer" id="tweet1377857649161744384"></div> ',
       location: {
         center: [130.8825758, 33.8869679],
         zoom: 14,
@@ -237,7 +237,7 @@ const config = {
       title: '両子寺',
       image: '',
       tweet_id: '',
-      description: '<p>0巻 P </p> <p><img src="https://live.staticflickr.com/4533/38279324851_01819ca4e0_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=33.5740013&lon=131.603241&radius=0.25&has_geo=1&view_all=1">Flickr</a>【Futago-ji Temple】 by K.G.23</p>',
+      description: '<p>0巻 P </p> <p><img src="https://live.staticflickr.com/4245/34806229896_68b7848b87_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=33.5740013&lon=131.603241&radius=0.25&has_geo=1&view_all=1">Flickr</a>【Futago-ji】 by seghal1</p>',
       location: {
         center: [131.603241, 33.5740013],
         zoom: 14,

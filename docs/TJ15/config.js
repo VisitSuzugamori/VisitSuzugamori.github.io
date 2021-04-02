@@ -5,10 +5,10 @@ const config = {
   markerColor: '#3FB1CE',
   theme: 'light',
   use3dTerrain: true,
-  title: 'VisitSuzugamori 第15旅 都内',
+  title: '第15旅 都内',
   subtitle: '【東京】それでも繋がってる',
-  byline: '地図作成 isnot',
-  footer: '<p class="navi"><a href="/">🔝各話一覧へ</a> <a href="https://github.com/VisitSuzugamori/VisitSuzugamori.github.io">💬contact</a></p><p>原作：<a href="https://store.kadokawa.co.jp/shop/b/bM1394_dD/">ざつ旅-That&#39;s Journey-</a> (c) 石坂 ケンタ, KADOKAWA, 電撃マオウ / 地図・テンプレート：<a href="https://github.com/mapbox/storytelling">Mapbox</a>',
+  byline: 'VisitSuzugamori 〜ざつ旅を辿る〜',
+  footer: '<p class="navi"><a href="/">🔝各話一覧へ</a> <a href="https://github.com/VisitSuzugamori/VisitSuzugamori.github.io">💬contact</a></p><p>原作：<a href="https://store.kadokawa.co.jp/shop/b/bM1394_dD/">ざつ旅-That&#39;s Journey-</a> (c) 石坂 ケンタ, KADOKAWA, 電撃マオウ / 地図・テンプレート：<a href="https://github.com/mapbox/storytelling">Mapbox</a> / 地図作成 VisitSuzugamori, <a href="https://twitter.com/isnot49662340">isnot</a>',
   chapters: [
     {
       id: '4巻-P119-東京駅',
@@ -16,8 +16,8 @@ const config = {
       hidden: false,
       title: '東京駅',
       image: '',
-      tweet_id: '',
-      description: '<p>4巻 P119 </p> <p><img src="https://live.staticflickr.com/65535/51080556518_1e34665a5a_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.6812362&lon=139.7671248&radius=0.25&has_geo=1&view_all=1">Flickr</a>【DSC09304】 by Yasuko_</p>',
+      tweet_id: '1377886915618201600',
+      description: '<p>4巻 P119 </p><div class="tweetContainer" id="tweet1377886915618201600"></div> ',
       location: {
         center: [139.7671248, 35.6812362],
         zoom: 14,
@@ -56,8 +56,8 @@ const config = {
       hidden: false,
       title: '勝鬨橋',
       image: '',
-      tweet_id: '1376472285259952128',
-      description: '<p>4巻 P121 </p><div class="tweetContainer" id="tweet1376472285259952128"></div> ',
+      tweet_id: '1377124814855409666',
+      description: '<p>4巻 P121 </p><div class="tweetContainer" id="tweet1377124814855409666"></div> ',
       location: {
         center: [139.7748531, 35.6624034],
         zoom: 14,
@@ -116,8 +116,8 @@ const config = {
       hidden: false,
       title: '築地本願寺',
       image: '',
-      tweet_id: '1376288109365616642',
-      description: '<p>4巻 P122 </p><div class="tweetContainer" id="tweet1376288109365616642"></div> ',
+      tweet_id: '',
+      description: '<p>4巻 P122 </p> <p><img src="https://live.staticflickr.com/65535/51067866318_2765b2efb0_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.6664862&lon=139.7722836&radius=0.25&has_geo=1&view_all=1">Flickr</a>【Tokyo tram 2019-04】 by trolleway</p>',
       location: {
         center: [139.7722836, 35.6664862],
         zoom: 14,
@@ -136,8 +136,8 @@ const config = {
       hidden: false,
       title: '中央大橋',
       image: '',
-      tweet_id: '1376642334872457222',
-      description: '<p>4巻 P125 </p><div class="tweetContainer" id="tweet1376642334872457222"></div> ',
+      tweet_id: '1377736748671848453',
+      description: '<p>4巻 P125 </p><div class="tweetContainer" id="tweet1377736748671848453"></div> ',
       location: {
         center: [139.7843753, 35.6717944],
         zoom: 14,
@@ -236,8 +236,8 @@ const config = {
       hidden: false,
       title: '豊洲公園',
       image: '',
-      tweet_id: '',
-      description: '<p>4巻 P129 </p> <p><img src="https://live.staticflickr.com/65535/50582877848_16af4e5054_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.6533777&lon=139.793127&radius=0.25&has_geo=1&view_all=1">Flickr</a>【31 Builedge 豊洲ベイサイドクロス 貸し会議室】 by Norisa1</p>',
+      tweet_id: '1377828833097736195',
+      description: '<p>4巻 P129 </p><div class="tweetContainer" id="tweet1377828833097736195"></div> ',
       location: {
         center: [139.793127, 35.6533777],
         zoom: 14,
@@ -376,8 +376,8 @@ const config = {
       hidden: false,
       title: '新木場駅',
       image: '',
-      tweet_id: '1376649344158363648',
-      description: '<p>4巻 P134 </p><div class="tweetContainer" id="tweet1376649344158363648"></div> ',
+      tweet_id: '1377550892501757954',
+      description: '<p>4巻 P134 </p><div class="tweetContainer" id="tweet1377550892501757954"></div> ',
       location: {
         center: [139.8266952, 35.6459022],
         zoom: 14,
@@ -417,7 +417,7 @@ const config = {
       title: '南極観測船『宗谷』',
       image: '',
       tweet_id: '',
-      description: '<p>4巻 P136 </p> <p><img src="https://live.staticflickr.com/65535/50561024326_f83d27fdb1_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.6191097&lon=139.7738425&radius=0.25&has_geo=1&view_all=1">Flickr</a>【051029 Odaiba-02.jpg】 by Bruce Batten</p>',
+      description: '<p>4巻 P136 </p> <p><img src="https://live.staticflickr.com/65535/50151416761_11d375accb_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.6191097&lon=139.7738425&radius=0.25&has_geo=1&view_all=1">Flickr</a>【Tokyo - Odaiba - The Soho】 by CATDvd</p>',
       location: {
         center: [139.7738425, 35.6191097],
         zoom: 14,
