@@ -21,10 +21,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/VisitSuzugamori/VisitSuzugamori.git"
+    "url": "git+https://github.com/VisitSuzugamori/VisitSuzugamori.github.io.git"
   },
   "bugs": {
-    "url": "https://github.com/VisitSuzugamori/VisitSuzugamori/issues"
+    "url": "https://github.com/VisitSuzugamori/VisitSuzugamori.github.io/issues"
   },
   "homepage": "https://visitsuzugamori.github.io/",
   "jest": {
