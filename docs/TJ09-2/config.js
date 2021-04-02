@@ -8,7 +8,7 @@ const config = {
   title: '第9旅 広島後編',
   subtitle: '【広島】女子三人寄って睦まじい',
   byline: 'VisitSuzugamori 〜ざつ旅を辿る〜',
-  footer: '<p class="navi"><a href="/">🔝各話一覧へ</a> <a href="https://github.com/VisitSuzugamori/VisitSuzugamori.github.io">💬contact</a></p><p>原作：<a href="https://store.kadokawa.co.jp/shop/b/bM1394_dD/">ざつ旅-That&#39;s Journey-</a> (c) 石坂 ケンタ, KADOKAWA, 電撃マオウ / 地図・テンプレート：<a href="https://github.com/mapbox/storytelling">Mapbox</a> / 地図作成 VisitSuzugamori, <a href="https://twitter.com/isnot49662340">isnot</a>',
+  footer: '<p class="navi"><a href="/">🔝各話一覧へ</a> <a href="https://github.com/VisitSuzugamori/VisitSuzugamori.github.io">💬contact</a></p><p>原作：<a href="https://store.kadokawa.co.jp/shop/b/bM1394_dD/">ざつ旅-That&#39;s Journey-</a> (c) 石坂 ケンタ, KADOKAWA, 電撃マオウ / 地図・テンプレート：<a href="https://github.com/mapbox/storytelling">Mapbox</a> / 地図作成：VisitSuzugamori, <a href="https://twitter.com/isnot49662340">isnot</a>',
   chapters: [
     {
       id: '3巻-P5-嚴島神社',
@@ -97,7 +97,7 @@ const config = {
       title: 'コンフォートホテル呉',
       image: '',
       tweet_id: '',
-      description: '<p>3巻 P12 </p> <p><img src="https://live.staticflickr.com/65535/50721600568_6f3fbd3396_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.2431335&lon=132.5586395&radius=0.25&has_geo=1&view_all=1">Flickr</a>【D71_2674】 by Lox Pix</p>',
+      description: '<p>3巻 P12 </p> <p><img src="https://live.staticflickr.com/65535/50722338491_9a2e88ec94_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.2431335&lon=132.5586395&radius=0.25&has_geo=1&view_all=1">Flickr</a>【D71_2673】 by Lox Pix</p>',
       location: {
         center: [132.5586395, 34.2431335],
         zoom: 14,

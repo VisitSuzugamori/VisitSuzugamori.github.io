@@ -8,7 +8,7 @@ const config = {
   title: '第12旅 花巻',
   subtitle: '【花巻】ココロのふるさと',
   byline: 'VisitSuzugamori 〜ざつ旅を辿る〜',
-  footer: '<p class="navi"><a href="/">🔝各話一覧へ</a> <a href="https://github.com/VisitSuzugamori/VisitSuzugamori.github.io">💬contact</a></p><p>原作：<a href="https://store.kadokawa.co.jp/shop/b/bM1394_dD/">ざつ旅-That&#39;s Journey-</a> (c) 石坂 ケンタ, KADOKAWA, 電撃マオウ / 地図・テンプレート：<a href="https://github.com/mapbox/storytelling">Mapbox</a> / 地図作成 VisitSuzugamori, <a href="https://twitter.com/isnot49662340">isnot</a>',
+  footer: '<p class="navi"><a href="/">🔝各話一覧へ</a> <a href="https://github.com/VisitSuzugamori/VisitSuzugamori.github.io">💬contact</a></p><p>原作：<a href="https://store.kadokawa.co.jp/shop/b/bM1394_dD/">ざつ旅-That&#39;s Journey-</a> (c) 石坂 ケンタ, KADOKAWA, 電撃マオウ / 地図・テンプレート：<a href="https://github.com/mapbox/storytelling">Mapbox</a> / 地図作成：VisitSuzugamori, <a href="https://twitter.com/isnot49662340">isnot</a>',
   chapters: [
     {
       id: '3巻-P87-新花巻駅',
@@ -77,7 +77,7 @@ const config = {
       title: '山猫軒',
       image: '',
       tweet_id: '',
-      description: '<p>3巻 P92 </p> <p><img src="https://live.staticflickr.com/65535/49525100391_19659df9aa_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=39.3994579&lon=141.1645876&radius=0.25&has_geo=1&view_all=1">Flickr</a>【20200201_111209】 by honhong1598</p>',
+      description: '<p>3巻 P92 </p> <p><img src="https://live.staticflickr.com/65535/49525100341_f78ece8444_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=39.3994579&lon=141.1645876&radius=0.25&has_geo=1&view_all=1">Flickr</a>【20200201_111234】 by honhong1598</p>',
       location: {
         center: [141.1645876, 39.3994579],
         zoom: 14,
@@ -137,7 +137,7 @@ const config = {
       title: 'マルカン百貨店',
       image: '',
       tweet_id: '',
-      description: '<p>3巻 P101 </p> <p><img src="https://live.staticflickr.com/4695/28322992389_4e2e6c4388_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=39.3858944&lon=141.1171042&radius=0.25&has_geo=1&view_all=1">Flickr</a>【DSC00975.jpg】 by randy@katzenpost.de</p>',
+      description: '<p>3巻 P101 </p> <p><img src="https://live.staticflickr.com/941/43657100852_6b19ac31f3_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=39.3858944&lon=141.1171042&radius=0.25&has_geo=1&view_all=1">Flickr</a>【iwate_20180308104442】 by inunami</p>',
       location: {
         center: [141.1171042, 39.3858944],
         zoom: 14,
@@ -177,7 +177,7 @@ const config = {
       title: '大沢温泉 湯治屋',
       image: '',
       tweet_id: '',
-      description: '<p>3巻 P103 </p> <p><img src="https://live.staticflickr.com/65535/49728118741_97faca3438_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=39.4365493&lon=141.0159616&radius=0.25&has_geo=1&view_all=1">Flickr</a>【Park near Osawa Onsen (大沢温泉), Hanamaki, Iwate】 by Hans ter Horst Photography</p>',
+      description: '<p>3巻 P103 </p> <p><img src="https://live.staticflickr.com/65535/49727572498_6ae09c3ef5_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=39.4365493&lon=141.0159616&radius=0.25&has_geo=1&view_all=1">Flickr</a>【Park near Osawa Onsen (大沢温泉), Hanamaki, Iwate】 by Hans ter Horst Photography</p>',
       location: {
         center: [141.0159616, 39.4365493],
         zoom: 14,

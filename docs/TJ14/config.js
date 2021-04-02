@@ -8,7 +8,7 @@ const config = {
   title: '第14旅 奥多摩',
   subtitle: '【奥多摩】ほんとうに都内',
   byline: 'VisitSuzugamori 〜ざつ旅を辿る〜',
-  footer: '<p class="navi"><a href="/">🔝各話一覧へ</a> <a href="https://github.com/VisitSuzugamori/VisitSuzugamori.github.io">💬contact</a></p><p>原作：<a href="https://store.kadokawa.co.jp/shop/b/bM1394_dD/">ざつ旅-That&#39;s Journey-</a> (c) 石坂 ケンタ, KADOKAWA, 電撃マオウ / 地図・テンプレート：<a href="https://github.com/mapbox/storytelling">Mapbox</a> / 地図作成 VisitSuzugamori, <a href="https://twitter.com/isnot49662340">isnot</a>',
+  footer: '<p class="navi"><a href="/">🔝各話一覧へ</a> <a href="https://github.com/VisitSuzugamori/VisitSuzugamori.github.io">💬contact</a></p><p>原作：<a href="https://store.kadokawa.co.jp/shop/b/bM1394_dD/">ざつ旅-That&#39;s Journey-</a> (c) 石坂 ケンタ, KADOKAWA, 電撃マオウ / 地図・テンプレート：<a href="https://github.com/mapbox/storytelling">Mapbox</a> / 地図作成：VisitSuzugamori, <a href="https://twitter.com/isnot49662340">isnot</a>',
   chapters: [
     {
       id: '4巻-P93-東京駅',
@@ -16,8 +16,8 @@ const config = {
       hidden: false,
       title: '東京駅',
       image: '',
-      tweet_id: '1377890314296336387',
-      description: '<p>4巻 P93 </p><div class="tweetContainer" id="tweet1377890314296336387"></div> ',
+      tweet_id: '1377960804922716164',
+      description: '<p>4巻 P93 </p><div class="tweetContainer" id="tweet1377960804922716164"></div> ',
       location: {
         center: [139.7671248, 35.6812362],
         zoom: 14,
@@ -36,8 +36,8 @@ const config = {
       hidden: false,
       title: '立川駅',
       image: '',
-      tweet_id: '1377856526908461059',
-      description: '<p>4巻 P96 </p><div class="tweetContainer" id="tweet1377856526908461059"></div> ',
+      tweet_id: '',
+      description: '<p>4巻 P96 </p> <p><img src="https://live.staticflickr.com/65535/50147046928_b4e395d7d0_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.6979144&lon=139.4137408&radius=0.25&has_geo=1&view_all=1">Flickr</a>【IMG_20200724_180027】 by Masosan</p>',
       location: {
         center: [139.4137408, 35.6979144],
         zoom: 14,

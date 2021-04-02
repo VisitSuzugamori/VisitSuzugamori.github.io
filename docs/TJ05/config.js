@@ -8,7 +8,7 @@ const config = {
   title: '第5旅 京都',
   subtitle: '【京都】ふ、ばいざしー',
   byline: 'VisitSuzugamori 〜ざつ旅を辿る〜',
-  footer: '<p class="navi"><a href="/">🔝各話一覧へ</a> <a href="https://github.com/VisitSuzugamori/VisitSuzugamori.github.io">💬contact</a></p><p>原作：<a href="https://store.kadokawa.co.jp/shop/b/bM1394_dD/">ざつ旅-That&#39;s Journey-</a> (c) 石坂 ケンタ, KADOKAWA, 電撃マオウ / 地図・テンプレート：<a href="https://github.com/mapbox/storytelling">Mapbox</a> / 地図作成 VisitSuzugamori, <a href="https://twitter.com/isnot49662340">isnot</a>',
+  footer: '<p class="navi"><a href="/">🔝各話一覧へ</a> <a href="https://github.com/VisitSuzugamori/VisitSuzugamori.github.io">💬contact</a></p><p>原作：<a href="https://store.kadokawa.co.jp/shop/b/bM1394_dD/">ざつ旅-That&#39;s Journey-</a> (c) 石坂 ケンタ, KADOKAWA, 電撃マオウ / 地図・テンプレート：<a href="https://github.com/mapbox/storytelling">Mapbox</a> / 地図作成：VisitSuzugamori, <a href="https://twitter.com/isnot49662340">isnot</a>',
   chapters: [
     {
       id: '2巻-P3-伏見稲荷大社',
@@ -36,8 +36,8 @@ const config = {
       hidden: false,
       title: '京都駅',
       image: '',
-      tweet_id: '1377898297382211591',
-      description: '<p>2巻 P6 </p><div class="tweetContainer" id="tweet1377898297382211591"></div> ',
+      tweet_id: '1377973819953020930',
+      description: '<p>2巻 P6 </p><div class="tweetContainer" id="tweet1377973819953020930"></div> ',
       location: {
         center: [135.7587667, 34.985849],
         zoom: 14,
@@ -57,7 +57,7 @@ const config = {
       title: '藤岡酒造',
       image: '',
       tweet_id: '',
-      description: '<p>2巻 P16 </p> <p><img src="https://live.staticflickr.com/65535/49166042607_a0d41435ae_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.9351213&lon=135.7624568&radius=0.25&has_geo=1&view_all=1">Flickr</a>【呉竹湯】 by albertus</p>',
+      description: '<p>2巻 P16 </p> <p><img src="https://live.staticflickr.com/65535/50115002776_30c119f009_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.9351213&lon=135.7624568&radius=0.25&has_geo=1&view_all=1">Flickr</a>【珍遊のラーメン】 by albertus</p>',
       location: {
         center: [135.7624568, 34.9351213],
         zoom: 14,
@@ -97,7 +97,7 @@ const config = {
       title: 'ラー麺・陽はまた昇る 伏見稲荷駅前本店',
       image: '',
       tweet_id: '',
-      description: '<p>2巻 P17 </p> <p><img src="https://live.staticflickr.com/65535/49870623641_4a00806f24_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.968596&lon=135.768613&radius=0.25&has_geo=1&view_all=1">Flickr</a>【20191230-DSC07350-SEL35F18】 by Noelas</p>',
+      description: '<p>2巻 P17 </p> <p><img src="https://live.staticflickr.com/65535/50900434912_3d01754f76_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.968596&lon=135.768613&radius=0.25&has_geo=1&view_all=1">Flickr</a>【Japan】 by Lamtom</p>',
       location: {
         center: [135.768613, 34.968596],
         zoom: 14,
@@ -157,7 +157,7 @@ const config = {
       title: '富田屋',
       image: '',
       tweet_id: '',
-      description: '<p>2巻 P22 </p> <p><img src="https://live.staticflickr.com/65535/50596054398_dbc410df09_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.534848&lon=135.1992613&radius=0.25&has_geo=1&view_all=1">Flickr</a>【IMG_0081】 by bluegreen405</p>',
+      description: '<p>2巻 P22 </p> <p><img src="https://live.staticflickr.com/65535/49136451437_e0800f574b_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.534848&lon=135.1992613&radius=0.25&has_geo=1&view_all=1">Flickr</a>【IMG_20191022_112259】 by balduran98</p>',
       location: {
         center: [135.1992613, 35.534848],
         zoom: 14,
@@ -177,7 +177,7 @@ const config = {
       title: '茶六本館',
       image: '',
       tweet_id: '',
-      description: '<p>2巻 P22 </p> <p><img src="https://live.staticflickr.com/4441/36267565394_6d632f3211_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.5368405&lon=135.1918306&radius=0.25&has_geo=1&view_all=1">Flickr</a>【Miyazu#35】 by tetsuo5</p>',
+      description: '<p>2巻 P22 </p> <p><img src="https://live.staticflickr.com/4349/36902539891_f23797e559_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.5368405&lon=135.1918306&radius=0.25&has_geo=1&view_all=1">Flickr</a>【Miyazu#30】 by tetsuo5</p>',
       location: {
         center: [135.1918306, 35.5368405],
         zoom: 14,

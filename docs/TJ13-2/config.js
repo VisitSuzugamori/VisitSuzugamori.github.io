@@ -8,7 +8,7 @@ const config = {
   title: '第13旅 島根後編',
   subtitle: '【島根】師匠と片参り',
   byline: 'VisitSuzugamori 〜ざつ旅を辿る〜',
-  footer: '<p class="navi"><a href="/">🔝各話一覧へ</a> <a href="https://github.com/VisitSuzugamori/VisitSuzugamori.github.io">💬contact</a></p><p>原作：<a href="https://store.kadokawa.co.jp/shop/b/bM1394_dD/">ざつ旅-That&#39;s Journey-</a> (c) 石坂 ケンタ, KADOKAWA, 電撃マオウ / 地図・テンプレート：<a href="https://github.com/mapbox/storytelling">Mapbox</a> / 地図作成 VisitSuzugamori, <a href="https://twitter.com/isnot49662340">isnot</a>',
+  footer: '<p class="navi"><a href="/">🔝各話一覧へ</a> <a href="https://github.com/VisitSuzugamori/VisitSuzugamori.github.io">💬contact</a></p><p>原作：<a href="https://store.kadokawa.co.jp/shop/b/bM1394_dD/">ざつ旅-That&#39;s Journey-</a> (c) 石坂 ケンタ, KADOKAWA, 電撃マオウ / 地図・テンプレート：<a href="https://github.com/mapbox/storytelling">Mapbox</a> / 地図作成：VisitSuzugamori, <a href="https://twitter.com/isnot49662340">isnot</a>',
   chapters: [
     {
       id: '4巻-P5,20-青石畳通り',
@@ -17,7 +17,7 @@ const config = {
       title: '青石畳通り',
       image: '',
       tweet_id: '',
-      description: '<p>4巻 P5,20 </p> <p><img src="https://live.staticflickr.com/7821/46200567295_95f6e81851_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.5625098&lon=133.3076796&radius=0.25&has_geo=1&view_all=1">Flickr</a>【Miho Jinja Shrine】 by hapePHOTOGRAPHIX</p>',
+      description: '<p>4巻 P5,20 </p> <p><img src="https://live.staticflickr.com/65535/48111991997_a5260003ae_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.5625098&lon=133.3076796&radius=0.25&has_geo=1&view_all=1">Flickr</a>【Anchor】 by Teruhide Tomori</p>',
       location: {
         center: [133.3076796, 35.5625098],
         zoom: 14,
@@ -157,7 +157,7 @@ const config = {
       title: '沖之御前地之御前遥拝所',
       image: '',
       tweet_id: '',
-      description: '<p>4巻 P32 </p> <p><img src="https://live.staticflickr.com/7923/46434627155_6e046782fd_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.567285&lon=133.325638&radius=0.25&has_geo=1&view_all=1">Flickr</a>【Mihonoseki Lighthouse - 美保関灯台】 by cHoIminG</p>',
+      description: '<p>4巻 P32 </p> <p><img src="https://live.staticflickr.com/65535/48106762653_5fb1fa5f3b_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.567285&lon=133.325638&radius=0.25&has_geo=1&view_all=1">Flickr</a>【Lighthouse at noon】 by Teruhide Tomori</p>',
       location: {
         center: [133.325638, 35.567285],
         zoom: 14,
@@ -197,7 +197,7 @@ const config = {
       title: '恵美須社',
       image: '',
       tweet_id: '',
-      description: '<p>4巻 P37 </p> <p><img src="https://live.staticflickr.com/1977/44783390065_422f02b3c7_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.5642081&lon=133.3198608&radius=0.25&has_geo=1&view_all=1">Flickr</a>【前往美保關的路上, Study 1】 by Zale Yu</p>',
+      description: '<p>4巻 P37 </p> <p><img src="https://live.staticflickr.com/4915/45647025832_485320f344_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.5642081&lon=133.3198608&radius=0.25&has_geo=1&view_all=1">Flickr</a>【前往美保關的路上, Study 2】 by Zale Yu</p>',
       location: {
         center: [133.3198608, 35.5642081],
         zoom: 14,

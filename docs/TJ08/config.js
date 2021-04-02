@@ -8,7 +8,7 @@ const config = {
   title: '第8旅 伊勢',
   subtitle: '【伊勢】神様と出会える街？',
   byline: 'VisitSuzugamori 〜ざつ旅を辿る〜',
-  footer: '<p class="navi"><a href="/">🔝各話一覧へ</a> <a href="https://github.com/VisitSuzugamori/VisitSuzugamori.github.io">💬contact</a></p><p>原作：<a href="https://store.kadokawa.co.jp/shop/b/bM1394_dD/">ざつ旅-That&#39;s Journey-</a> (c) 石坂 ケンタ, KADOKAWA, 電撃マオウ / 地図・テンプレート：<a href="https://github.com/mapbox/storytelling">Mapbox</a> / 地図作成 VisitSuzugamori, <a href="https://twitter.com/isnot49662340">isnot</a>',
+  footer: '<p class="navi"><a href="/">🔝各話一覧へ</a> <a href="https://github.com/VisitSuzugamori/VisitSuzugamori.github.io">💬contact</a></p><p>原作：<a href="https://store.kadokawa.co.jp/shop/b/bM1394_dD/">ざつ旅-That&#39;s Journey-</a> (c) 石坂 ケンタ, KADOKAWA, 電撃マオウ / 地図・テンプレート：<a href="https://github.com/mapbox/storytelling">Mapbox</a> / 地図作成：VisitSuzugamori, <a href="https://twitter.com/isnot49662340">isnot</a>',
   chapters: [
     {
       id: '2巻-P96,97-白子漁港',
@@ -217,7 +217,7 @@ const config = {
       title: '海月',
       image: '',
       tweet_id: '',
-      description: '<p>2巻 P111 </p> <p><img src="https://live.staticflickr.com/4650/39799401652_310d5dc803_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.4847431&lon=136.8439619&radius=0.25&has_geo=1&view_all=1">Flickr</a>【20180120-DSCF7699.jpg】 by kato_masashi</p>',
+      description: '<p>2巻 P111 </p> <p><img src="https://live.staticflickr.com/4813/47025883411_c9260089dc_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.4847431&lon=136.8439619&radius=0.25&has_geo=1&view_all=1">Flickr</a>【IMG_0153】 by masa.nagano</p>',
       location: {
         center: [136.8439619, 34.4847431],
         zoom: 14,

@@ -8,7 +8,7 @@ const config = {
   title: '第16旅 茨城',
   subtitle: '【茨城】null',
   byline: 'VisitSuzugamori 〜ざつ旅を辿る〜',
-  footer: '<p class="navi"><a href="/">🔝各話一覧へ</a> <a href="https://github.com/VisitSuzugamori/VisitSuzugamori.github.io">💬contact</a></p><p>原作：<a href="https://store.kadokawa.co.jp/shop/b/bM1394_dD/">ざつ旅-That&#39;s Journey-</a> (c) 石坂 ケンタ, KADOKAWA, 電撃マオウ / 地図・テンプレート：<a href="https://github.com/mapbox/storytelling">Mapbox</a> / 地図作成 VisitSuzugamori, <a href="https://twitter.com/isnot49662340">isnot</a>',
+  footer: '<p class="navi"><a href="/">🔝各話一覧へ</a> <a href="https://github.com/VisitSuzugamori/VisitSuzugamori.github.io">💬contact</a></p><p>原作：<a href="https://store.kadokawa.co.jp/shop/b/bM1394_dD/">ざつ旅-That&#39;s Journey-</a> (c) 石坂 ケンタ, KADOKAWA, 電撃マオウ / 地図・テンプレート：<a href="https://github.com/mapbox/storytelling">Mapbox</a> / 地図作成：VisitSuzugamori, <a href="https://twitter.com/isnot49662340">isnot</a>',
   chapters: [
     {
       id: '0巻-P-東京駅',
@@ -16,8 +16,8 @@ const config = {
       hidden: false,
       title: '東京駅',
       image: '',
-      tweet_id: '1377877734899113991',
-      description: '<p>0巻 P </p><div class="tweetContainer" id="tweet1377877734899113991"></div> ',
+      tweet_id: '1377938770511597568',
+      description: '<p>0巻 P </p><div class="tweetContainer" id="tweet1377938770511597568"></div> ',
       location: {
         center: [139.7671248, 35.6812362],
         zoom: 14,
@@ -37,7 +37,7 @@ const config = {
       title: '偕楽園・常磐神社前',
       image: '',
       tweet_id: '',
-      description: '<p>0巻 P </p> <p><img src="https://live.staticflickr.com/7871/46147455724_2993f8b2b1_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=36.3746839&lon=140.4569096&radius=0.25&has_geo=1&view_all=1">Flickr</a>【kairakuen】 by lazy fri13th</p>',
+      description: '<p>0巻 P </p> <p><img src="https://live.staticflickr.com/65535/47985089662_e8078cee37_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=36.3746839&lon=140.4569096&radius=0.25&has_geo=1&view_all=1">Flickr</a>【DSC00551】 by shyueyi</p>',
       location: {
         center: [140.4569096, 36.3746839],
         zoom: 14,
@@ -56,8 +56,8 @@ const config = {
       hidden: false,
       title: '水戸駅',
       image: '',
-      tweet_id: '1377895171606650882',
-      description: '<p>0巻 P </p><div class="tweetContainer" id="tweet1377895171606650882"></div> ',
+      tweet_id: '1377922619434016770',
+      description: '<p>0巻 P </p><div class="tweetContainer" id="tweet1377922619434016770"></div> ',
       location: {
         center: [140.4762789, 36.3707326],
         zoom: 14,
@@ -437,7 +437,7 @@ const config = {
       title: '山文魚',
       image: '',
       tweet_id: '',
-      description: '<p>0巻 P </p> <p><img src="https://live.staticflickr.com/6235/6337611834_86a4ec53dd_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=36.5873526&lon=140.6616108&radius=0.25&has_geo=1&view_all=1">Flickr</a>【カメラロール-741】 by tetulog</p>',
+      description: '<p>0巻 P </p> <p><img src="https://live.staticflickr.com/3852/14446705419_b0bf49e519_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=36.5873526&lon=140.6616108&radius=0.25&has_geo=1&view_all=1">Flickr</a>【】 by hottn</p>',
       location: {
         center: [140.6616108, 36.5873526],
         zoom: 14,

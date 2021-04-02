@@ -8,7 +8,7 @@ const config = {
   title: '第6旅 栃木',
   subtitle: '【栃木】カラスと龍と蕎麦の先',
   byline: 'VisitSuzugamori 〜ざつ旅を辿る〜',
-  footer: '<p class="navi"><a href="/">🔝各話一覧へ</a> <a href="https://github.com/VisitSuzugamori/VisitSuzugamori.github.io">💬contact</a></p><p>原作：<a href="https://store.kadokawa.co.jp/shop/b/bM1394_dD/">ざつ旅-That&#39;s Journey-</a> (c) 石坂 ケンタ, KADOKAWA, 電撃マオウ / 地図・テンプレート：<a href="https://github.com/mapbox/storytelling">Mapbox</a> / 地図作成 VisitSuzugamori, <a href="https://twitter.com/isnot49662340">isnot</a>',
+  footer: '<p class="navi"><a href="/">🔝各話一覧へ</a> <a href="https://github.com/VisitSuzugamori/VisitSuzugamori.github.io">💬contact</a></p><p>原作：<a href="https://store.kadokawa.co.jp/shop/b/bM1394_dD/">ざつ旅-That&#39;s Journey-</a> (c) 石坂 ケンタ, KADOKAWA, 電撃マオウ / 地図・テンプレート：<a href="https://github.com/mapbox/storytelling">Mapbox</a> / 地図作成：VisitSuzugamori, <a href="https://twitter.com/isnot49662340">isnot</a>',
   chapters: [
     {
       id: '2巻-P44-宇都宮駅',
@@ -137,7 +137,7 @@ const config = {
       title: '(株)島崎酒造',
       image: '',
       tweet_id: '',
-      description: '<p>2巻 P58 </p> <p><img src="https://live.staticflickr.com/4814/44985821574_86d5da260f_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=36.6557618&lon=140.1536827&radius=0.25&has_geo=1&view_all=1">Flickr</a>【栃木県那須烏山市（旧烏山町）】 by hiro.dir</p>',
+      description: '<p>2巻 P58 </p> <p><img src="https://live.staticflickr.com/3955/15570283960_e737e924d2_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=36.6557618&lon=140.1536827&radius=0.25&has_geo=1&view_all=1">Flickr</a>【IMG_0530】 by ducksfrogs</p>',
       location: {
         center: [140.1536827, 36.6557618],
         zoom: 14,

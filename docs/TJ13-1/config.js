@@ -8,7 +8,7 @@ const config = {
   title: '第13旅 島根前編',
   subtitle: '【島根】師匠と片参り',
   byline: 'VisitSuzugamori 〜ざつ旅を辿る〜',
-  footer: '<p class="navi"><a href="/">🔝各話一覧へ</a> <a href="https://github.com/VisitSuzugamori/VisitSuzugamori.github.io">💬contact</a></p><p>原作：<a href="https://store.kadokawa.co.jp/shop/b/bM1394_dD/">ざつ旅-That&#39;s Journey-</a> (c) 石坂 ケンタ, KADOKAWA, 電撃マオウ / 地図・テンプレート：<a href="https://github.com/mapbox/storytelling">Mapbox</a> / 地図作成 VisitSuzugamori, <a href="https://twitter.com/isnot49662340">isnot</a>',
+  footer: '<p class="navi"><a href="/">🔝各話一覧へ</a> <a href="https://github.com/VisitSuzugamori/VisitSuzugamori.github.io">💬contact</a></p><p>原作：<a href="https://store.kadokawa.co.jp/shop/b/bM1394_dD/">ざつ旅-That&#39;s Journey-</a> (c) 石坂 ケンタ, KADOKAWA, 電撃マオウ / 地図・テンプレート：<a href="https://github.com/mapbox/storytelling">Mapbox</a> / 地図作成：VisitSuzugamori, <a href="https://twitter.com/isnot49662340">isnot</a>',
   chapters: [
     {
       id: '3巻-P130-出雲市駅',
@@ -77,7 +77,7 @@ const config = {
       title: '旧大社駅舎',
       image: '',
       tweet_id: '',
-      description: '<p>3巻 P134 </p> <p><img src="https://live.staticflickr.com/4712/38768558725_8ce4edc18d_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.3866419&lon=132.690256&radius=0.25&has_geo=1&view_all=1">Flickr</a>【OLD Taisha Station (Izumo, Shimane, Japan)】 by t-mizo</p>',
+      description: '<p>3巻 P134 </p> <p><img src="https://live.staticflickr.com/65535/50192567213_b75a7e68bd_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.3866419&lon=132.690256&radius=0.25&has_geo=1&view_all=1">Flickr</a>【Former Taisha Station, Shimane  出雲大社　旧大社駅　島根】 by Anaguma</p>',
       location: {
         center: [132.690256, 35.3866419],
         zoom: 14,
@@ -97,7 +97,7 @@ const config = {
       title: '出雲大社 大鳥居',
       image: '',
       tweet_id: '',
-      description: '<p>3巻 P137 </p> <p><img src="https://live.staticflickr.com/4607/24796741837_a778883d0d_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.391579&lon=132.6872784&radius=0.25&has_geo=1&view_all=1">Flickr</a>【Izumo Taisha (Izumo, Shimane, Japan)】 by t-mizo</p>',
+      description: '<p>3巻 P137 </p> <p><img src="https://live.staticflickr.com/1950/44167435245_d0405283e0_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.391579&lon=132.6872784&radius=0.25&has_geo=1&view_all=1">Flickr</a>【IMG_5777】 by cmc700123</p>',
       location: {
         center: [132.6872784, 35.391579],
         zoom: 14,
@@ -137,7 +137,7 @@ const config = {
       title: '出雲日本海 出雲大社正門前店',
       image: '',
       tweet_id: '',
-      description: '<p>3巻 P137 </p> <p><img src="https://live.staticflickr.com/65535/49836247112_7538df6de0_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.3962535&lon=132.6863131&radius=0.25&has_geo=1&view_all=1">Flickr</a>【20181016-DSCF5529-C1】 by Larry Moberly</p>',
+      description: '<p>3巻 P137 </p> <p><img src="https://live.staticflickr.com/65535/50627419503_03a6eba81c_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.3962535&lon=132.6863131&radius=0.25&has_geo=1&view_all=1">Flickr</a>【Musubi, praying】 by SocialHermit</p>',
       location: {
         center: [132.6863131, 35.3962535],
         zoom: 14,
@@ -197,7 +197,7 @@ const config = {
       title: '出雲大社 拝殿',
       image: '',
       tweet_id: '',
-      description: '<p>3巻 P140 </p> <p><img src="https://live.staticflickr.com/65535/50121645656_a505c3c065_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.4012055&lon=132.6855211&radius=0.25&has_geo=1&view_all=1">Flickr</a>【Daimon of Kitajima Kokusokan Hall, Izumo, Shimane 大門 出雲教 北島国造館 出雲　島根】 by Anaguma</p>',
+      description: '<p>3巻 P140 </p> <p><img src="https://live.staticflickr.com/65535/50628265512_06899697dc_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.4012055&lon=132.6855211&radius=0.25&has_geo=1&view_all=1">Flickr</a>【The hidden-in-the-back temple】 by SocialHermit</p>',
       location: {
         center: [132.6855211, 35.4012055],
         zoom: 14,
@@ -336,8 +336,8 @@ const config = {
       hidden: false,
       title: '松江城',
       image: '',
-      tweet_id: '1377807204200288259',
-      description: '<p>3巻 P150 </p><div class="tweetContainer" id="tweet1377807204200288259"></div> ',
+      tweet_id: '1377928026357309440',
+      description: '<p>3巻 P150 </p><div class="tweetContainer" id="tweet1377928026357309440"></div> ',
       location: {
         center: [133.0506783, 35.4751335],
         zoom: 14,
