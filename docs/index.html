@@ -18,9 +18,21 @@
   .fa-question-circle { font-size: 24px; padding-left: 3px; color: #111; }
   #map { left: 0; top: 0; height: 100vh; width:100vw; position: fixed; }
   #container { opacity: 0.85; height: 900px; }
+  header h1 {
+      background-image: url("./visits.png");
+      background-repeat: no-repeat;
+      background-position: right top;
+      min-height: 96px;
+  }
+  header h1 .lead { font-size: 60%; }
   .article ul { opacity: 0.7; background-color: white; }
   .article ul li { overflow: hidden; }
   .article a { font-size: 90%; }
+  .books { width: 100%; display: flex; flex-wrap: wrap; }
+  .books p { margin:0; padding: 0; width: 220px; }
+  .books p a:hover { text-decoration: none; }
+  .books img { border: solid 1px black; }
+  .ref p { margin:0; padding: 0; }
 </style>
 </head>
 <body>
@@ -28,31 +40,52 @@
   </div>
   <div id="container">
     <header class="article-header">
-      <h1>VisitSuzugamori</h1>
+      <h1>VisitSuzugamori
+        <p class="lead">〜ざつ旅を辿る〜</p>
+      </h1>
     </header>
     <div class="article">
       <ul>
-        <li><a rel="noopener" href="/TJ01/">第1旅</a></li>
-        <li><a rel="noopener" href="/TJ02/">第2旅</a></li>
-        <li><a rel="noopener" href="/TJ03/">第3旅</a></li>
-        <li><a rel="noopener" href="/TJ04/">第4旅</a></li>
-        <li><a rel="noopener" href="/TJ05/">第5旅</a></li>
-        <li><a rel="noopener" href="/TJ06/">第6旅</a></li>
-        <li><a rel="noopener" href="/TJ07/">第7旅</a></li>
-        <li><a rel="noopener" href="/TJ08/">第8旅</a></li>
-        <li><a rel="noopener" href="/TJ09-1/">第9旅（前編）</a></li>
-        <li><a rel="noopener" href="/TJ09-2/">第9旅（後編）</a></li>
-        <li><a rel="noopener" href="/TJ10/">第10旅</a></li>
-        <li><a rel="noopener" href="/TJ11/">第11旅</a></li>
-        <li><a rel="noopener" href="/TJ12/">第12旅</a></li>
-        <li><a rel="noopener" href="/TJ13-1/">第13旅（前編）</a></li>
-        <li><a rel="noopener" href="/TJ13-2/">第13旅（後編）</a></li>
-        <li><a rel="noopener" href="/TJ14/">第14旅</a></li>
-        <li><a rel="noopener" href="/TJ15/">第15旅</a></li>
-        <li><a rel="noopener" href="/TJ16/">第16旅</a></li>
-        <li><a rel="noopener" href="/TJ17/">第17旅</a></li>
+        <li><a rel="noopener" href="/TJ01/">第1旅 会津若松 はじめの1225段</a></li>
+        <li><a rel="noopener" href="/TJ02/">第2旅 松島 伊達じゃない伊達</a></li>
+        <li><a rel="noopener" href="/TJ03/">第3旅 黒部 きときとふたり旅</a></li>
+        <li><a rel="noopener" href="/TJ04/">第4旅 高松 そのままのコシで</a></li>
+        <li><a rel="noopener" href="/TJ05/">第5旅 京都 ふ、ばいざしー</a></li>
+        <li><a rel="noopener" href="/TJ06/">第6旅 栃木 カラスと龍と蕎麦の先</a></li>
+        <li><a rel="noopener" href="/TJ07/">第7旅 粟島 初めての離島</a></li>
+        <li><a rel="noopener" href="/TJ08/">第8旅 伊勢 神様と出会える街？</a></li>
+        <li><a rel="noopener" href="/TJ09-1/">第9旅 広島前編 三人よれば…バス？</a></li>
+        <li><a rel="noopener" href="/TJ09-2/">第9旅 広島後編 女子三人寄って睦まじい</a></li>
+        <li><a rel="noopener" href="/TJ10/">第10旅 青森 温泉で完成</a></li>
+        <li><a rel="noopener" href="/TJ11/">第11旅 和歌山 一年のおわりとはじまり</a></li>
+        <li><a rel="noopener" href="/TJ12/">第12旅 花巻 ココロのふるさと</a></li>
+        <li><a rel="noopener" href="/TJ13-1/">第13旅 島根前編 師匠と片参り</a></li>
+        <li><a rel="noopener" href="/TJ13-2/">第13旅 島根後編 師匠と片参り</a></li>
+        <li><a rel="noopener" href="/TJ14/">第14旅 奥多摩 ほんとうに都内</a></li>
+        <li><a rel="noopener" href="/TJ15/">第15旅 都内 それでも繋がってる</a></li>
+        <li><a rel="noopener" href="/TJ16/">第16旅 茨城</a></li>
+        <li><a rel="noopener" href="/TJ17/">第17旅 九州</a></li>
       </ul>
-      <p class="repository">see also <a href="https://github.com/VisitSuzugamori/VisitSuzugamori.github.io/">VisitSuzugamori (GitHub)</a></p>
+      <h2>ざつ旅-That's Journey-</h2>
+      <div class="books">
+        <p><a href="https://store.kadokawa.co.jp/shop/g/g321906000495/"><img src="https://www.hanmoto.com/bd/img/9784049128253.jpg"></a></p>
+        <p><a href="https://store.kadokawa.co.jp/shop/g/g321910000454/"><img src="https://www.hanmoto.com/bd/img/9784049130454.jpg"></a></p>
+        <p><a href="https://store.kadokawa.co.jp/shop/g/g322003000692/"><img src="https://www.hanmoto.com/bd/img/9784049132991.jpg"></a></p>
+        <p><a href="https://store.kadokawa.co.jp/shop/g/g322009000044/"><img src="https://www.hanmoto.com/bd/img/9784049135916.jpg"></a></p>
+      </div>
+      <div class="ref">
+        <p>原作コミックス：<a href="https://store.kadokawa.co.jp/shop/b/bM1394_dD/">ざつ旅 -That's Journey-</a></p>
+        <p>著者：<a href="https://twitter.com/ishiken02">石坂 ケンタ</a></p>
+        <p>発行：KADOKAWA 電撃コミックスNEXT</p>
+        <p>雑誌連載：<a href="http://maoh.dengeki.com/">電撃マオウ</a></p>
+        <p>Web連載：<a href="https://seiga.nicovideo.jp/comic/40360">ニコニコ漫画</a>, <a href="https://comic-walker.com/contents/detail/KDCW_AM01200853010000_68/">ComicWalker</a></p>
+      </div>
+      <h2>VisitSuzugamori</h2>
+      <div class="about">
+        <p>ざつ旅の登場人物である、鈴ヶ森さん。地図の上で、その足跡を辿ります。</p>
+        <p>※当サイトのコンテンツ内に表示している画像やツイートは、検索によって機械的に選択したものです。場合によっては、コンテンツの意図や文脈とは異なる内容が表示されることがあります。</p>
+        <p class="repository">💻<a href="https://github.com/VisitSuzugamori/VisitSuzugamori.github.io/">VisitSuzugamori (GitHub)</a></p>
+      </div>
     </div>
   </div>
   <script src="https://api.mapbox.com/mapbox-gl-js/v2.1.1/mapbox-gl.js"></script>
