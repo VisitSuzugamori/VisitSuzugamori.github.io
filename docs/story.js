@@ -146,6 +146,7 @@ const reverseGeocodeContent = async (latlon) => {
   }
 };
 
+getElementsByTagName('title')[0].innerText = `${config.title} | ${config.byline}`;
 var map = new mapboxgl.Map({
   container: 'map',
   style: config.style,
