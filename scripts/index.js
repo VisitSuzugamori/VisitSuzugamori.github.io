@@ -182,11 +182,13 @@ async function writeConfig(journey, s, j) {
     const tweetContainer = tweet_id ? `<div class="tweetContainer" id="tweet${tweet_id}"></div>` : '';
     const flickrContent = tweet_id ? '' : await flickr.getContentHtml(coordinates);
     console.debug('create config:', coordinates, tweet_id, flickrContent);
+    const xbook = point.get('book') ? `${point.get('book')}巻` : '';
+    const xpage = point.get('page') ? `P${point.get('page')}` : '';
     let part2_item = `${part2_source}\n`;
     part2 += part2_item
       .replace(/###journey###/g, journey)
-      .replace(/###book###/g, `${point.get('book')}巻`)
-      .replace(/###page###/g, `P${point.get('page')}`)
+      .replace(/###book###/g, xbook)
+      .replace(/###page###/g, xpage)
       .replace(/###name###/g, point.get('name'))
       .replace(/###special###/g, point.get('special'))
       .replace(/###tweet_id###/g, tweet_id ? tweet_id : '')
