@@ -169,7 +169,7 @@ async function writeConfig(journey, s, j) {
     .replace(/###journey###/gm, journey)
     .replace(/###title###/gm, j.title)
     .replace(/###place###/gm, j.place)
-    .replace(/###subtitle###/gm, j.subtitle);
+    .replace(/###subtitle###/gm, j.subtitle ? j.subtitle : '(単行本未収録)');
   const part2_source = cft[2];
   let part2 = '';
   for (const point of s) {
