@@ -15,24 +15,42 @@
 <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.1/css/solid.min.css">
 <style>
   .hidden { display: none; }
-  .fa-question-circle { font-size: 24px; padding-left: 3px; color: #111; }
   #map { left: 0; top: 0; height: 100vh; width:100vw; position: fixed; }
   #container { opacity: 0.85; height: 900px; }
   header h1 {
       background-image: url("./visits.png");
       background-repeat: no-repeat;
       background-position: right top;
-      min-height: 96px;
+      min-height: 64px;
+      font-family: "Consolas","Courier New",monospace;
+      text-shadow: 2px 2px 0 #eeeeee, 2px -2px 0 #eeeeee, -2px 2px 0 #eeeeee, -2px -2px 0 #eeeeee;
   }
   header h1 .lead { font-size: 60%; }
-  .article ul { opacity: 0.7; background-color: white; }
-  .article ul li { overflow: hidden; }
+  .article ul, .ref, .about {
+      opacity: 0.7;
+      background-color: white;
+      text-shadow: 1px 1px 0 #eeeeee, 1px -1px 0 #eeeeee, -1px 1px 0 #eeeeee, -1px -1px 0 #eeeeee;
+      padding: 10px;
+  }
+  .article ul li {
+      overflow: hidden;
+      text-shadow: 1px 1px 0 #eeeeee, 1px -1px 0 #eeeeee, -1px 1px 0 #eeeeee, -1px -1px 0 #eeeeee;
+  }
+  .article h2 {
+      text-shadow: 2px 2px 0 #eeeeee, 2px -2px 0 #eeeeee, -2px 2px 0 #eeeeee, -2px -2px 0 #eeeeee;
+  }
   .article a { font-size: 90%; }
   .books { width: 100%; display: flex; flex-wrap: wrap; }
-  .books p { margin:0; padding: 0; width: 220px; }
-  .books p a:hover { text-decoration: none; }
-  .books img { border: solid 1px black; }
+  .books p { margin: 0 10px 10px 0; padding: 0; width: 204px; }
+  .books a:hover { text-decoration: none; }
+  .books img { margin: 0; padding: 0; border: solid 1px black; }
   .ref p { margin:0; padding: 0; }
+  #footer {
+      background-color: white;
+      margin-top: 30px;
+      padding: 10px;
+      font-size: 80%;
+  }
 </style>
 </head>
 <body>
@@ -86,6 +104,9 @@
         <p>※当サイトのコンテンツ内に表示している画像やツイートは、検索によって機械的に選択したものです。場合によっては、コンテンツの意図や文脈とは異なる内容が表示されることがあります。</p>
         <p class="repository">💻<a href="https://github.com/VisitSuzugamori/VisitSuzugamori.github.io/">VisitSuzugamori (GitHub)</a></p>
       </div>
+    </div>
+    <div id="footer">
+      <p>原作：<a href="https://store.kadokawa.co.jp/shop/b/bM1394_dD/">ざつ旅-That's Journey-</a> (c) 石坂 ケンタ, KADOKAWA, 電撃マオウ / 地図・テンプレート：<a href="https://github.com/mapbox/storytelling">Mapbox</a> / 地図作成：VisitSuzugamori(<a href="https://github.com/VisitSuzugamori/VisitSuzugamori.github.io">💬contact</a>), <a href="https://twitter.com/isnot49662340">isnot</a></p>
     </div>
   </div>
   <script src="https://api.mapbox.com/mapbox-gl-js/v2.1.1/mapbox-gl.js"></script>
