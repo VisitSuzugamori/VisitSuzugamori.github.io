@@ -6,6 +6,14 @@
 
 ## Note
 
+このリポジトリにあるスクリプトを利用して、[当サイト](https://VisitSuzugamori.github.io/)のコンテンツを生成するための手順などを、ごく簡単に記します。
+
+### 事前の準備
+
+Node.js（バージョン12以降推奨）が必要です。
+
+また、依存するライブラリを導入するには、次のようにします。`$ npm install`
+
 `my_secret.json` に、各APIを利用するうえでのシークレット（`access_token`等）を保存します。
 雛形（一例）を下記に示します。
 
@@ -27,14 +35,16 @@
 }
 ```
 
-zatsumap.kml は、「ざつ旅マップ」からエクスポートしたものです。
+### コンテンツの生成
 
-scriptsフォルダ内に、コンテンツ生成用のスクリプトがあります。
+`zatsumap.kml` は、「ざつ旅マップ」からエクスポートしたものです。
+
+`scripts`フォルダ内に、コンテンツ生成用のスクリプトがあります。
 `$ npm run build` でコンテンツ生成します。
 
 ## Author
 
-- @isnot
+- [@isnot](https://github.com/isnot)
 
 ## Copyright and License 免責
 
