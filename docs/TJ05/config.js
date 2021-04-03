@@ -16,8 +16,8 @@ const config = {
       hidden: false,
       title: '伏見稲荷大社',
       image: '',
-      tweet_id: '1377841657391968256',
-      description: '<p>2巻 P3 </p><div class="tweetContainer" id="tweet1377841657391968256"></div> ',
+      tweet_id: '1378190243535405056',
+      description: '<p>2巻 P3 </p><div class="tweetContainer" id="tweet1378190243535405056"></div> ',
       location: {
         center: [135.7726717, 34.9671402],
         zoom: 14,
@@ -36,8 +36,8 @@ const config = {
       hidden: false,
       title: '京都駅',
       image: '',
-      tweet_id: '1377973819953020930',
-      description: '<p>2巻 P6 </p><div class="tweetContainer" id="tweet1377973819953020930"></div> ',
+      tweet_id: '1378290369423609860',
+      description: '<p>2巻 P6 </p><div class="tweetContainer" id="tweet1378290369423609860"></div> ',
       location: {
         center: [135.7587667, 34.985849],
         zoom: 14,
@@ -157,7 +157,7 @@ const config = {
       title: '富田屋',
       image: '',
       tweet_id: '',
-      description: '<p>2巻 P22 </p> <p><img src="https://live.staticflickr.com/65535/49136451437_e0800f574b_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.534848&lon=135.1992613&radius=0.25&has_geo=1&view_all=1">Flickr</a>【IMG_20191022_112259】 by balduran98</p>',
+      description: '<p>2巻 P22 </p> <p><img src="https://live.staticflickr.com/65535/50596054398_dbc410df09_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.534848&lon=135.1992613&radius=0.25&has_geo=1&view_all=1">Flickr</a>【IMG_0081】 by bluegreen405</p>',
       location: {
         center: [135.1992613, 35.534848],
         zoom: 14,
@@ -177,7 +177,7 @@ const config = {
       title: '茶六本館',
       image: '',
       tweet_id: '',
-      description: '<p>2巻 P22 </p> <p><img src="https://live.staticflickr.com/4349/36902539891_f23797e559_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.5368405&lon=135.1918306&radius=0.25&has_geo=1&view_all=1">Flickr</a>【Miyazu#30】 by tetsuo5</p>',
+      description: '<p>2巻 P22 </p> <p><img src="https://live.staticflickr.com/4441/36267565394_6d632f3211_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.5368405&lon=135.1918306&radius=0.25&has_geo=1&view_all=1">Flickr</a>【Miyazu#35】 by tetsuo5</p>',
       location: {
         center: [135.1918306, 35.5368405],
         zoom: 14,
@@ -236,8 +236,8 @@ const config = {
       hidden: false,
       title: '天橋立',
       image: '',
-      tweet_id: '1376057749579067396',
-      description: '<p>2巻 P35 </p><div class="tweetContainer" id="tweet1376057749579067396"></div> ',
+      tweet_id: '1378197835846463491',
+      description: '<p>2巻 P35 </p><div class="tweetContainer" id="tweet1378197835846463491"></div> ',
       location: {
         center: [135.1918204, 35.5698022],
         zoom: 14,

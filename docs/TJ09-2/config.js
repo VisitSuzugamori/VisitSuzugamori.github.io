@@ -76,8 +76,8 @@ const config = {
       hidden: false,
       title: '呉駅',
       image: '',
-      tweet_id: '',
-      description: '<p>3巻 P11 </p> <p><img src="https://live.staticflickr.com/65535/50278725777_dddb02867b_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.2446471&lon=132.5575846&radius=0.25&has_geo=1&view_all=1">Flickr</a>【kure_20200101180133】 by inunami</p>',
+      tweet_id: '1378240355951243264',
+      description: '<p>3巻 P11 </p><div class="tweetContainer" id="tweet1378240355951243264"></div> ',
       location: {
         center: [132.5575846, 34.2446471],
         zoom: 14,
@@ -136,8 +136,8 @@ const config = {
       hidden: false,
       title: '大和ミュージアム（呉市海事歴史科学館）',
       image: '',
-      tweet_id: '1375281317361938432',
-      description: '<p>3巻 P15 </p><div class="tweetContainer" id="tweet1375281317361938432"></div> ',
+      tweet_id: '1378212623997669377',
+      description: '<p>3巻 P15 </p><div class="tweetContainer" id="tweet1378212623997669377"></div> ',
       location: {
         center: [132.5558555, 34.2411391],
         zoom: 14,

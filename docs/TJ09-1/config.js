@@ -76,8 +76,8 @@ const config = {
       hidden: false,
       title: '広島駅',
       image: '',
-      tweet_id: '1377402078302138370',
-      description: '<p>2巻 P146 </p><div class="tweetContainer" id="tweet1377402078302138370"></div> ',
+      tweet_id: '1378121798286516224',
+      description: '<p>2巻 P146 </p><div class="tweetContainer" id="tweet1378121798286516224"></div> ',
       location: {
         center: [132.4753786, 34.397667],
         zoom: 14,

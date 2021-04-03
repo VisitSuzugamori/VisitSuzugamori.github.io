@@ -116,8 +116,8 @@ const config = {
       hidden: false,
       title: '伊勢神宮 外宮',
       image: '',
-      tweet_id: '1377079981248020480',
-      description: '<p>2巻 P106 </p><div class="tweetContainer" id="tweet1377079981248020480"></div> ',
+      tweet_id: '1378163393971040256',
+      description: '<p>2巻 P106 </p><div class="tweetContainer" id="tweet1378163393971040256"></div> ',
       location: {
         center: [136.7029233, 34.4871537],
         zoom: 14,
@@ -136,8 +136,8 @@ const config = {
       hidden: false,
       title: '伊勢神宮',
       image: '',
-      tweet_id: '1377858340701675520',
-      description: '<p>2巻 P108 </p><div class="tweetContainer" id="tweet1377858340701675520"></div> ',
+      tweet_id: '1378190409130774531',
+      description: '<p>2巻 P108 </p><div class="tweetContainer" id="tweet1378190409130774531"></div> ',
       location: {
         center: [136.725793, 34.45501],
         zoom: 14,
@@ -256,8 +256,8 @@ const config = {
       hidden: false,
       title: '夫婦岩',
       image: '',
-      tweet_id: '1376659153473576964',
-      description: '<p>2巻 P121 </p><div class="tweetContainer" id="tweet1376659153473576964"></div> ',
+      tweet_id: '1378206009492074496',
+      description: '<p>2巻 P121 </p><div class="tweetContainer" id="tweet1378206009492074496"></div> ',
       location: {
         center: [136.7883283, 34.5092993],
         zoom: 14,

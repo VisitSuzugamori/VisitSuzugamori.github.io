@@ -16,8 +16,8 @@ const config = {
       hidden: false,
       title: '宇都宮駅',
       image: '',
-      tweet_id: '1377843522921852929',
-      description: '<p>2巻 P44 </p><div class="tweetContainer" id="tweet1377843522921852929"></div> ',
+      tweet_id: '1378217606101020677',
+      description: '<p>2巻 P44 </p><div class="tweetContainer" id="tweet1378217606101020677"></div> ',
       location: {
         center: [139.8984511, 36.5590234],
         zoom: 14,
@@ -56,8 +56,8 @@ const config = {
       hidden: false,
       title: '龍門の滝',
       image: '',
-      tweet_id: '',
-      description: '<p>2巻 P49 </p> <p><img src="https://live.staticflickr.com/1787/42202655254_803d0b147f_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=36.6455986&lon=140.1398144&radius=0.25&has_geo=1&view_all=1">Flickr</a>【龍門の滝】 by cyberwonk</p>',
+      tweet_id: '1378263508572196864',
+      description: '<p>2巻 P49 </p><div class="tweetContainer" id="tweet1378263508572196864"></div> ',
       location: {
         center: [140.1398144, 36.6455986],
         zoom: 14,
@@ -156,8 +156,8 @@ const config = {
       hidden: false,
       title: '烏山駅',
       image: '',
-      tweet_id: '1376509578762936323',
-      description: '<p>2巻 P58 </p><div class="tweetContainer" id="tweet1376509578762936323"></div> ',
+      tweet_id: '1378232844619759616',
+      description: '<p>2巻 P58 </p><div class="tweetContainer" id="tweet1378232844619759616"></div> ',
       location: {
         center: [140.1550537, 36.650446],
         zoom: 14,
@@ -177,7 +177,7 @@ const config = {
       title: '久穂田烏山駅前旅館',
       image: '',
       tweet_id: '',
-      description: '<p>2巻 P59 </p> <p><img src="https://live.staticflickr.com/3798/32769801943_d6fcc95e44_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=36.6509415&lon=140.1539749&radius=0.25&has_geo=1&view_all=1">Flickr</a>【いぃぶいいぃ～( ´∀｀)】 by fox_kawai</p>',
+      description: '<p>2巻 P59 </p> <p><img src="https://live.staticflickr.com/748/32059834856_2bcd2aea3b_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=36.6509415&lon=140.1539749&radius=0.25&has_geo=1&view_all=1">Flickr</a>【00003232_参議院議員選挙 栃木県選挙区 谷ひろゆき（民主党）】 by rukaruru</p>',
       location: {
         center: [140.1539749, 36.6509415],
         zoom: 14,

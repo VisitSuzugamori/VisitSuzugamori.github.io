@@ -16,8 +16,8 @@ const config = {
       hidden: false,
       title: '郡山駅',
       image: '',
-      tweet_id: '1377917499291836417',
-      description: '<p>1巻 P22 </p><div class="tweetContainer" id="tweet1377917499291836417"></div> ',
+      tweet_id: '1378284269215363078',
+      description: '<p>1巻 P22 </p><div class="tweetContainer" id="tweet1378284269215363078"></div> ',
       location: {
         center: [140.3884019, 37.3985573],
         zoom: 14,
@@ -56,8 +56,8 @@ const config = {
       hidden: false,
       title: '会津若松駅',
       image: '',
-      tweet_id: '1377265557435641863',
-      description: '<p>1巻 P24 </p><div class="tweetContainer" id="tweet1377265557435641863"></div> ',
+      tweet_id: '1378208379227807744',
+      description: '<p>1巻 P24 </p><div class="tweetContainer" id="tweet1378208379227807744"></div> ',
       location: {
         center: [139.9303261, 37.5078657],
         zoom: 14,
@@ -157,7 +157,7 @@ const config = {
       title: '射的場',
       image: '',
       tweet_id: '',
-      description: '<p>1巻 P40 </p> <p><img src="https://live.staticflickr.com/4818/46109236232_24119b28d9_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=37.4781468&lon=139.9632406&radius=0.25&has_geo=1&view_all=1">Flickr</a>【】 by Straylight66</p>',
+      description: '<p>1巻 P40 </p> <p><img src="https://live.staticflickr.com/4851/45397217974_9eb4147f24_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=37.4781468&lon=139.9632406&radius=0.25&has_geo=1&view_all=1">Flickr</a>【IMG_3816】 by k_natsumoto</p>',
       location: {
         center: [139.9632406, 37.4781468],
         zoom: 14,

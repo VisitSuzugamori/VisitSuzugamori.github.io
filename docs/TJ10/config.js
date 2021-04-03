@@ -77,7 +77,7 @@ const config = {
       title: '谷地温泉',
       image: '',
       tweet_id: '',
-      description: '<p>3巻 P38 </p> <p><img src="https://live.staticflickr.com/65535/50036012223_af7d118d43_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=40.6330178&lon=140.9245271&radius=0.25&has_geo=1&view_all=1">Flickr</a>【Yachi onsen, one of the secret onsen of Aomori】 by Hans ter Horst Photography</p>',
+      description: '<p>3巻 P38 </p> <p><img src="https://live.staticflickr.com/65535/48712696351_5bda163c9e_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=40.6330178&lon=140.9245271&radius=0.25&has_geo=1&view_all=1">Flickr</a>【Yachi onsen, one of the secret onsen of Aomori】 by Hans ter Horst Photography</p>',
       location: {
         center: [140.9245271, 40.6330178],
         zoom: 14,
@@ -177,7 +177,7 @@ const config = {
       title: '恐山 花染の湯',
       image: '',
       tweet_id: '',
-      description: '<p>3巻 P52 </p> <p><img src="https://live.staticflickr.com/4641/25389932708_4ccc932212_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=41.3283697&lon=141.0917047&radius=0.25&has_geo=1&view_all=1">Flickr</a>【DSC_0387】 by taewoongkwon</p>',
+      description: '<p>3巻 P52 </p> <p><img src="https://live.staticflickr.com/7779/30227491562_f1a0316774_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=41.3283697&lon=141.0917047&radius=0.25&has_geo=1&view_all=1">Flickr</a>【Gable Gate】 by campra</p>',
       location: {
         center: [141.0917047, 41.3283697],
         zoom: 14,

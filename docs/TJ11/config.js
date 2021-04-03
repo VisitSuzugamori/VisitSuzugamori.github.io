@@ -236,8 +236,8 @@ const config = {
       hidden: false,
       title: '熊野本宮大社',
       image: '',
-      tweet_id: '',
-      description: '<p>3巻 P82 </p> <p><img src="https://live.staticflickr.com/65535/50725431197_a1a5118936_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=33.8405706&lon=135.7734753&radius=0.25&has_geo=1&view_all=1">Flickr</a>【20201105-1106 Mie+Wakayama 21】 by BONGURI</p>',
+      tweet_id: '1378233506359349252',
+      description: '<p>3巻 P82 </p><div class="tweetContainer" id="tweet1378233506359349252"></div> ',
       location: {
         center: [135.7734753, 33.8405706],
         zoom: 14,

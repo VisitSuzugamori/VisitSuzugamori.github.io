@@ -16,8 +16,8 @@ const config = {
       hidden: false,
       title: '東京駅',
       image: '',
-      tweet_id: '1377960804922716164',
-      description: '<p>4巻 P93 </p><div class="tweetContainer" id="tweet1377960804922716164"></div> ',
+      tweet_id: '1378251778983100416',
+      description: '<p>4巻 P93 </p><div class="tweetContainer" id="tweet1378251778983100416"></div> ',
       location: {
         center: [139.7671248, 35.6812362],
         zoom: 14,
@@ -36,8 +36,8 @@ const config = {
       hidden: false,
       title: '立川駅',
       image: '',
-      tweet_id: '',
-      description: '<p>4巻 P96 </p> <p><img src="https://live.staticflickr.com/65535/50147046928_b4e395d7d0_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.6979144&lon=139.4137408&radius=0.25&has_geo=1&view_all=1">Flickr</a>【IMG_20200724_180027】 by Masosan</p>',
+      tweet_id: '1378213385511309313',
+      description: '<p>4巻 P96 </p><div class="tweetContainer" id="tweet1378213385511309313"></div> ',
       location: {
         center: [139.4137408, 35.6979144],
         zoom: 14,
@@ -216,8 +216,8 @@ const config = {
       hidden: false,
       title: '奥多摩駅',
       image: '',
-      tweet_id: '1377147087599497225',
-      description: '<p>4巻 P109 </p><div class="tweetContainer" id="tweet1377147087599497225"></div> ',
+      tweet_id: '1378214993825513473',
+      description: '<p>4巻 P109 </p><div class="tweetContainer" id="tweet1378214993825513473"></div> ',
       location: {
         center: [139.0969289, 35.8093737],
         zoom: 14,
@@ -236,8 +236,8 @@ const config = {
       hidden: false,
       title: '奥多摩湖',
       image: '',
-      tweet_id: '1375644135940521989',
-      description: '<p>4巻 P110 </p><div class="tweetContainer" id="tweet1375644135940521989"></div> ',
+      tweet_id: '1378208312412504064',
+      description: '<p>4巻 P110 </p><div class="tweetContainer" id="tweet1378208312412504064"></div> ',
       location: {
         center: [139.0470929, 35.7894856],
         zoom: 14,

@@ -16,8 +16,8 @@ const config = {
       hidden: false,
       title: '東京駅',
       image: '',
-      tweet_id: '1377966378578288644',
-      description: '<p>1巻 P126 </p><div class="tweetContainer" id="tweet1377966378578288644"></div> ',
+      tweet_id: '1378260617073594370',
+      description: '<p>1巻 P126 </p><div class="tweetContainer" id="tweet1378260617073594370"></div> ',
       location: {
         center: [139.7671248, 35.6812362],
         zoom: 14,
@@ -36,8 +36,8 @@ const config = {
       hidden: false,
       title: '岡山駅',
       image: '',
-      tweet_id: '1377892894045057024',
-      description: '<p>1巻 P130 </p><div class="tweetContainer" id="tweet1377892894045057024"></div> ',
+      tweet_id: '1378235054518755330',
+      description: '<p>1巻 P130 </p><div class="tweetContainer" id="tweet1378235054518755330"></div> ',
       location: {
         center: [133.9177335, 34.6661212],
         zoom: 14,
@@ -56,8 +56,8 @@ const config = {
       hidden: false,
       title: '高松駅',
       image: '',
-      tweet_id: '1377825160741314564',
-      description: '<p>1巻 P131 </p><div class="tweetContainer" id="tweet1377825160741314564"></div> ',
+      tweet_id: '1378236131339304961',
+      description: '<p>1巻 P131 </p><div class="tweetContainer" id="tweet1378236131339304961"></div> ',
       location: {
         center: [134.047056, 34.3504507],
         zoom: 14,
@@ -76,8 +76,8 @@ const config = {
       hidden: false,
       title: '高松築港駅',
       image: '',
-      tweet_id: '',
-      description: '<p>1巻 P132 </p> <p><img src="https://live.staticflickr.com/65535/50143430292_1e79d86a2a_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.350757&lon=134.049468&radius=0.25&has_geo=1&view_all=1">Flickr</a>【IMG_1475】 by 1711812301s</p>',
+      tweet_id: '1378225114651631618',
+      description: '<p>1巻 P132 </p><div class="tweetContainer" id="tweet1378225114651631618"></div> ',
       location: {
         center: [134.049468, 34.350757],
         zoom: 14,
