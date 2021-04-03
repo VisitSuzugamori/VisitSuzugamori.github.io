@@ -6,7 +6,7 @@ const config = {
   theme: 'light',
   use3dTerrain: true,
   title: '第16旅 茨城',
-  subtitle: '【茨城】null',
+  subtitle: '【茨城】(単行本未収録)',
   byline: 'VisitSuzugamori 〜ざつ旅を辿る〜',
   footer: '<p class="navi"><a href="/">🔝各話一覧へ</a> <a href="https://github.com/VisitSuzugamori/VisitSuzugamori.github.io">💬contact</a></p><p>原作：<a href="https://store.kadokawa.co.jp/shop/b/bM1394_dD/">ざつ旅-That&#39;s Journey-</a> (c) 石坂 ケンタ, KADOKAWA, 電撃マオウ / 地図・テンプレート：<a href="https://github.com/mapbox/storytelling">Mapbox</a> / 地図作成：VisitSuzugamori, <a href="https://twitter.com/isnot49662340">isnot</a>',
   chapters: [
@@ -16,8 +16,8 @@ const config = {
       hidden: false,
       title: '東京駅',
       image: '',
-      tweet_id: '1378242583923593226',
-      description: '<p>  </p><div class="tweetContainer" id="tweet1378242583923593226"></div> ',
+      tweet_id: '1378251748775579651',
+      description: '<p>  </p><div class="tweetContainer" id="tweet1378251748775579651"></div> ',
       location: {
         center: [139.7671248, 35.6812362],
         zoom: 14,
@@ -37,7 +37,7 @@ const config = {
       title: '偕楽園・常磐神社前',
       image: '',
       tweet_id: '',
-      description: '<p>  </p> <p><img src="https://live.staticflickr.com/7813/46667905334_1d4ef7145d_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=36.3746839&lon=140.4569096&radius=0.25&has_geo=1&view_all=1">Flickr</a>【Visiting Mito, Ibaraki, Japan】 by Matthias Harbers</p>',
+      description: '<p>  </p> <p><img src="https://live.staticflickr.com/65535/47985089662_e8078cee37_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=36.3746839&lon=140.4569096&radius=0.25&has_geo=1&view_all=1">Flickr</a>【DSC00551】 by shyueyi</p>',
       location: {
         center: [140.4569096, 36.3746839],
         zoom: 14,
@@ -56,8 +56,8 @@ const config = {
       hidden: false,
       title: '水戸駅',
       image: '',
-      tweet_id: '1378197473638813701',
-      description: '<p>  </p><div class="tweetContainer" id="tweet1378197473638813701"></div> ',
+      tweet_id: '1378297178821550082',
+      description: '<p>  </p><div class="tweetContainer" id="tweet1378297178821550082"></div> ',
       location: {
         center: [140.4762789, 36.3707326],
         zoom: 14,

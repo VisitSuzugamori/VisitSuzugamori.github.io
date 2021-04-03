@@ -297,7 +297,7 @@ const config = {
       title: '松江しんじ湖温泉駅',
       image: '',
       tweet_id: '',
-      description: '<p>3巻 P146 </p> <p><img src="https://live.staticflickr.com/1768/41301658890_e941d59c20_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.4673633&lon=133.0460423&radius=0.25&has_geo=1&view_all=1">Flickr</a>【DSCF2096】 by Stephen Hu</p>',
+      description: '<p>3巻 P146 </p> <p><img src="https://live.staticflickr.com/4819/44119671310_0bd45fc133_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.4673633&lon=133.0460423&radius=0.25&has_geo=1&view_all=1">Flickr</a>【前往鰐淵寺的路上, Study 1】 by Zale Yu</p>',
       location: {
         center: [133.0460423, 35.4673633],
         zoom: 14,
@@ -317,7 +317,7 @@ const config = {
       title: 'ホテル一畑',
       image: '',
       tweet_id: '',
-      description: '<p>3巻 P146 </p> <p><img src="https://live.staticflickr.com/4819/44119671310_0bd45fc133_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.4661714&lon=133.0453378&radius=0.25&has_geo=1&view_all=1">Flickr</a>【前往鰐淵寺的路上, Study 1】 by Zale Yu</p>',
+      description: '<p>3巻 P146 </p> <p><img src="https://live.staticflickr.com/65535/49175638567_02d53479e1_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.4661714&lon=133.0453378&radius=0.25&has_geo=1&view_all=1">Flickr</a>【2017-03-31 Shimanekko】 by Maarten Ruijters</p>',
       location: {
         center: [133.0453378, 35.4661714],
         zoom: 14,

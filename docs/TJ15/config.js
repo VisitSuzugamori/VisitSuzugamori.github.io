@@ -16,8 +16,8 @@ const config = {
       hidden: false,
       title: '東京駅',
       image: '',
-      tweet_id: '1378251748775579651',
-      description: '<p>4巻 P119 </p><div class="tweetContainer" id="tweet1378251748775579651"></div> ',
+      tweet_id: '1378251778983100416',
+      description: '<p>4巻 P119 </p><div class="tweetContainer" id="tweet1378251778983100416"></div> ',
       location: {
         center: [139.7671248, 35.6812362],
         zoom: 14,
@@ -417,7 +417,7 @@ const config = {
       title: '南極観測船『宗谷』',
       image: '',
       tweet_id: '',
-      description: '<p>4巻 P136 </p> <p><img src="https://live.staticflickr.com/65535/50151416761_11d375accb_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.6191097&lon=139.7738425&radius=0.25&has_geo=1&view_all=1">Flickr</a>【Tokyo - Odaiba - The Soho】 by CATDvd</p>',
+      description: '<p>4巻 P136 </p> <p><img src="https://live.staticflickr.com/65535/50561024326_f83d27fdb1_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.6191097&lon=139.7738425&radius=0.25&has_geo=1&view_all=1">Flickr</a>【051029 Odaiba-02.jpg】 by Bruce Batten</p>',
       location: {
         center: [139.7738425, 35.6191097],
         zoom: 14,

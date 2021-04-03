@@ -137,7 +137,7 @@ const config = {
       title: '(株)島崎酒造',
       image: '',
       tweet_id: '',
-      description: '<p>2巻 P58 </p> <p><img src="https://live.staticflickr.com/3955/15570283960_e737e924d2_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=36.6557618&lon=140.1536827&radius=0.25&has_geo=1&view_all=1">Flickr</a>【IMG_0530】 by ducksfrogs</p>',
+      description: '<p>2巻 P58 </p> <p><img src="https://live.staticflickr.com/4814/44985821574_86d5da260f_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=36.6557618&lon=140.1536827&radius=0.25&has_geo=1&view_all=1">Flickr</a>【栃木県那須烏山市（旧烏山町）】 by hiro.dir</p>',
       location: {
         center: [140.1536827, 36.6557618],
         zoom: 14,
@@ -177,7 +177,7 @@ const config = {
       title: '久穂田烏山駅前旅館',
       image: '',
       tweet_id: '',
-      description: '<p>2巻 P59 </p> <p><img src="https://live.staticflickr.com/748/32059834856_2bcd2aea3b_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=36.6509415&lon=140.1539749&radius=0.25&has_geo=1&view_all=1">Flickr</a>【00003232_参議院議員選挙 栃木県選挙区 谷ひろゆき（民主党）】 by rukaruru</p>',
+      description: '<p>2巻 P59 </p> <p><img src="https://live.staticflickr.com/3798/32769801943_d6fcc95e44_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=36.6509415&lon=140.1539749&radius=0.25&has_geo=1&view_all=1">Flickr</a>【いぃぶいいぃ～( ´∀｀)】 by fox_kawai</p>',
       location: {
         center: [140.1539749, 36.6509415],
         zoom: 14,

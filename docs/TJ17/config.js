@@ -6,7 +6,7 @@ const config = {
   theme: 'light',
   use3dTerrain: true,
   title: '第17旅 九州',
-  subtitle: '【九州】null',
+  subtitle: '【九州】(単行本未収録)',
   byline: 'VisitSuzugamori 〜ざつ旅を辿る〜',
   footer: '<p class="navi"><a href="/">🔝各話一覧へ</a> <a href="https://github.com/VisitSuzugamori/VisitSuzugamori.github.io">💬contact</a></p><p>原作：<a href="https://store.kadokawa.co.jp/shop/b/bM1394_dD/">ざつ旅-That&#39;s Journey-</a> (c) 石坂 ケンタ, KADOKAWA, 電撃マオウ / 地図・テンプレート：<a href="https://github.com/mapbox/storytelling">Mapbox</a> / 地図作成：VisitSuzugamori, <a href="https://twitter.com/isnot49662340">isnot</a>',
   chapters: [

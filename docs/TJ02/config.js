@@ -117,7 +117,7 @@ const config = {
       title: '御嶋真珠稲荷大明神',
       image: '',
       tweet_id: '',
-      description: '<p>1巻 P65 </p> <p><img src="https://live.staticflickr.com/65535/50829564487_793e5c2e1c_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=38.3654838&lon=141.0622564&radius=0.25&has_geo=1&view_all=1">Flickr</a>【Oshima Island】 by victor*f</p>',
+      description: '<p>1巻 P65 </p> <p><img src="https://live.staticflickr.com/65535/49377984683_3193b5a9e2_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=38.3654838&lon=141.0622564&radius=0.25&has_geo=1&view_all=1">Flickr</a>【雄島】 by ＧＫ</p>',
       location: {
         center: [141.0622564, 38.3654838],
         zoom: 14,

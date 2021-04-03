@@ -16,8 +16,8 @@ const config = {
       hidden: false,
       title: '東京駅',
       image: '',
-      tweet_id: '1378264703307149317',
-      description: '<p>1巻 P87 </p><div class="tweetContainer" id="tweet1378264703307149317"></div> ',
+      tweet_id: '1378294623056011267',
+      description: '<p>1巻 P87 </p><div class="tweetContainer" id="tweet1378294623056011267"></div> ',
       location: {
         center: [139.7671248, 35.6812362],
         zoom: 14,
@@ -217,7 +217,7 @@ const config = {
       title: 'やまびこ展望台',
       image: '',
       tweet_id: '',
-      description: '<p>1巻 P117 </p> <p><img src="https://live.staticflickr.com/65535/50951286278_a7a64b5d2f_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=36.8142871&lon=137.5881562&radius=0.25&has_geo=1&view_all=1">Flickr</a>【610_7144】 by Lox Pix</p>',
+      description: '<p>1巻 P117 </p> <p><img src="https://live.staticflickr.com/65535/50951287223_bbe270992c_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=36.8142871&lon=137.5881562&radius=0.25&has_geo=1&view_all=1">Flickr</a>【610_7136】 by Lox Pix</p>',
       location: {
         center: [137.5881562, 36.8142871],
         zoom: 14,
