@@ -1,4 +1,16 @@
+const fs = require('fs').promises;
+
 class Common {
+  async makeDir(dirname) {
+    try {
+      await fs.stat(dirname);
+      await fs.access(dirname);
+    } catch (e) {
+      await fs.mkdir(dirname, { mode: 0o755 });
+      console.log(`mkdir: ${dirname}`);
+    }
+  }
+
   simple_wait_sec(sec = 1) {
     return new Promise((resolve) => setTimeout(resolve, sec * 1000));
   }

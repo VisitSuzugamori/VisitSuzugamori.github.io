@@ -3,14 +3,15 @@
 const fs = require('fs').promises;
 const path = require('path');
 const { DOMParser } = require('xmldom');
-const VistSuzugamori = require('../docs/VisitSuzugamori.json');
 const { TwitterApi } = require('./twitter.js');
 const { FlickrApi } = require('./flickr.js');
 const { AginfoApi } = require('./aginfo.js');
 const u = require('./common.js');
+
 // eslint-disable-next-line node/no-unpublished-require
 const secret = require('../my_secret.json');
 
+const VistSuzugamori = require('../docs/VisitSuzugamori.json');
 const kmlPath = path.normalize('zatsumap.kml');
 const configPath = path.normalize('src/config_js.template');
 const replacements = { '': '', '（前編）': '-1', '（後編）': '-2' };
@@ -129,16 +130,6 @@ function indexByStory(data) {
   return index;
 }
 
-async function makeDir(dirname) {
-  try {
-    await fs.stat(dirname);
-    await fs.access(dirname);
-  } catch (e) {
-    await fs.mkdir(dirname, { mode: 0o755 });
-    console.log(`mkdir: ${dirname}`);
-  }
-}
-
 async function writeCsv(journey, s) {
   let content = '';
   for (const item of s) {
@@ -153,13 +144,13 @@ async function writeCsv(journey, s) {
       ].join('\t') + '\n';
   }
   const dirname = 'dist/csv';
-  await makeDir(dirname);
+  await u.makeDir(dirname);
   await fs.writeFile(path.normalize(`${dirname}/${journey}.tsv`), content);
 }
 
 async function writeHtml(journey) {
   const dirname = `docs/TJ${journey}`;
-  await makeDir(dirname);
+  await u.makeDir(dirname);
   const html_source = await fs.readFile('src/index.html', { encoding: 'utf-8', flag: 'r' });
   await fs.writeFile(path.normalize(`${dirname}/index.html`), html_source);
 }
@@ -212,7 +203,7 @@ async function writeConfig(journey, s, j) {
   }
   const content = part1 + part2 + cft[3];
   const dirname = `docs/TJ${journey}`;
-  await makeDir(dirname);
+  await u.makeDir(dirname);
   await fs.writeFile(path.normalize(`${dirname}/config.js`), content);
 }
 
