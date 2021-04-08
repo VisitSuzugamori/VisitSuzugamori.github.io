@@ -187,12 +187,13 @@ async function writeConfig(journey, s, j) {
     });
     const tweetContainer = getTweetContainerHtml(tweet_id);
     const flickrContent = tweet_id ? '' : await getFlickrContentHtml(coordinates);
-    console.debug('create config:', coordinates, tweet_id, flickrContent);
+    console.debug('building...', coordinates, tweet_id, flickrContent);
     const xbook = point.get('book') ? `${point.get('book')}巻` : '';
     const xpage = point.get('page') ? `P${point.get('page')}` : '';
     let address = '';
     try {
       address = await revGeoCoder.getAdress(coordinates);
+      console.log(`AginfoApi: #GET ${address}`);
     } catch (e) {
       console.debug(e);
     }

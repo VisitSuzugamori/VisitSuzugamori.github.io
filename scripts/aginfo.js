@@ -7,7 +7,7 @@ class AginfoApi {
     this.endpoint = 'https://aginfo.cgk.affrc.go.jp/ws/rgeocode.php';
     this.default_params = {
       json: 1,
-      ar: 100,
+      ar: 500,
       ax: 1,
     };
   }
@@ -38,11 +38,9 @@ class AginfoApi {
       throw e;
     });
     const data = await res.body;
-    console.log(data.result.aza);
 
     if (this.isOK(data.status)) {
       const address = this.formatAdress(data.result);
-      console.log(`###GET ${address}`);
       return address;
     }
     return undefined;
@@ -51,9 +49,11 @@ class AginfoApi {
   formatAdress(x) {
     const pref_name = u.deepRetrieve(x, 'prefecture.pname', '');
     const muni_name = u.deepRetrieve(x, 'municipality.mname', '');
-    const aza_name = u.deepRetrieve(x, 'aza.0.name', '');
-    const local_sec = u.deepRetrieve(x, 'local.section', '');
-    const local_num = u.deepRetrieve(x, 'local.homenumber', '');
+    const local = u.deepRetrieve(x, 'local', []);
+    const local_sec = u.deepRetrieve(local[0], 'section', '');
+    const local_num = u.deepRetrieve(local[0], 'homenumber', '');
+    const aza = u.deepRetrieve(x, 'aza', []);
+    const aza_name = u.deepRetrieve(aza[0], 'name', '');
     return `${pref_name}${muni_name} ${aza_name}${local_sec}${local_num}`;
   }
 }

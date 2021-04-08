@@ -27,8 +27,8 @@ console.log(secret);
     // });
     // console.log('OK', typeof res, res);
 
-    // const status = await tw.getSearchRateLimitStatus();
-    // console.log('status', status);
+    const status = await tw.getSearchRateLimitStatus();
+    console.log('status', status);
 
     const flickr = new FlickrApi({
       flickr_key: secret.flickr.flickr_key,
@@ -37,8 +37,11 @@ console.log(secret);
     // console.log('FlickrApi', fi);
 
     const revGeoCoder = new AginfoApi();
-    const address = await revGeoCoder.getAdress([141.06267088910175, 38.36961351956921]);
-    console.log('AginfoApi', address);
+    // const address = ;
+    console.log('AginfoApi', await revGeoCoder.getAdress([139.7533928,35.7036666]));
+    console.log('AginfoApi', await revGeoCoder.getAdress([132.3035106,34.311502]));
+    console.log('AginfoApi', await revGeoCoder.getAdress([134.1296254,34.3532536]));
+    console.log('AginfoApi', await revGeoCoder.getAdress([137.4170608,36.8906968]));
   } catch (e) {
     console.log('exception', e);
   }
