@@ -229,7 +229,7 @@ async function getFlickrContentHtml(latlon) {
     const searchUrl = u.replaceCharactorEntity4Html(flickr.getSearchUrl(latlon));
     return `<p><img src="${u.replaceCharactorEntity4Html(image.url)}"></p>
 <p>photo from <a rel="noopener" href="${searchUrl}">Flickr</a>
-  【${u.replaceCharactorEntity4Html(image.title)}】 by ${u.replaceCharactorEntity4Html(image.ownername)}</p>`;
+  【${u.replaceCharactorEntity4Html(image.title)}】 by ${u.replaceCharactorEntity4Html(image.ownername)}</p>`.replace(/\n/g, '');
   }
   return '';
 }
