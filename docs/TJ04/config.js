@@ -16,8 +16,8 @@ const config = {
       hidden: false,
       title: '東京駅',
       image: '',
-      tweet_id: '1378264703307149317',
-      description: '<p>1巻 P126 </p><div class="tweetContainer" id="tweet1378264703307149317"></div> ',
+      tweet_id: '1380069906381606912',
+      description: '<p>1巻 P126  東京都千代田区 丸の内一丁目9</p><div class="tweetContainer" id="tweet1380069906381606912"></div> ',
       location: {
         center: [139.7671248, 35.6812362],
         zoom: 14,
@@ -36,8 +36,8 @@ const config = {
       hidden: false,
       title: '岡山駅',
       image: '',
-      tweet_id: '1378235054518755330',
-      description: '<p>1巻 P130 </p><div class="tweetContainer" id="tweet1378235054518755330"></div> ',
+      tweet_id: '1380083447595638784',
+      description: '<p>1巻 P130  岡山県岡山市 北区 駅元町11</p><div class="tweetContainer" id="tweet1380083447595638784"></div> ',
       location: {
         center: [133.9177335, 34.6661212],
         zoom: 14,
@@ -56,8 +56,8 @@ const config = {
       hidden: false,
       title: '高松駅',
       image: '',
-      tweet_id: '1378236131339304961',
-      description: '<p>1巻 P131 </p><div class="tweetContainer" id="tweet1378236131339304961"></div> ',
+      tweet_id: '1379736532714614784',
+      description: '<p>1巻 P131  香川県高松市 西の丸町2</p><div class="tweetContainer" id="tweet1379736532714614784"></div> ',
       location: {
         center: [134.047056, 34.3504507],
         zoom: 14,
@@ -76,8 +76,8 @@ const config = {
       hidden: false,
       title: '高松築港駅',
       image: '',
-      tweet_id: '1378225114651631618',
-      description: '<p>1巻 P132 </p><div class="tweetContainer" id="tweet1378225114651631618"></div> ',
+      tweet_id: '1378554793774305284',
+      description: '<p>1巻 P132  香川県高松市 寿町一丁目5</p><div class="tweetContainer" id="tweet1378554793774305284"></div> ',
       location: {
         center: [134.049468, 34.350757],
         zoom: 14,
@@ -97,7 +97,9 @@ const config = {
       title: '八栗駅',
       image: '',
       tweet_id: '',
-      description: '<p>1巻 P134 </p> <p><img src="https://live.staticflickr.com/715/21694861128_40dc0f9dc7_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.3446375&lon=134.122008&radius=0.25&has_geo=1&view_all=1">Flickr</a>【帰り道の電車】 by 風の色写真館（讃岐東部の写真集）</p>',
+      description: '<p>1巻 P134  香川県高松市 牟礼町牟礼2210</p> <p><img src="https://live.staticflickr.com/715/21694861128_40dc0f9dc7_z.jpg"></p>
+<p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.3446375&amp;lon=134.122008&amp;radius=0.25&amp;has_geo=1&amp;view_all=1">Flickr</a>
+  【帰り道の電車】 by 風の色写真館（讃岐東部の写真集）</p>',
       location: {
         center: [134.122008, 34.3446375],
         zoom: 14,
@@ -117,7 +119,9 @@ const config = {
       title: '総門跡',
       image: '',
       tweet_id: '',
-      description: '<p>1巻 P134 </p> <p><img src="https://live.staticflickr.com/715/21694861128_40dc0f9dc7_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.345598&lon=134.1223194&radius=0.25&has_geo=1&view_all=1">Flickr</a>【帰り道の電車】 by 風の色写真館（讃岐東部の写真集）</p>',
+      description: '<p>1巻 P134  香川県高松市 牟礼町牟礼2418</p> <p><img src="https://live.staticflickr.com/715/21694861128_40dc0f9dc7_z.jpg"></p>
+<p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.345598&amp;lon=134.1223194&amp;radius=0.25&amp;has_geo=1&amp;view_all=1">Flickr</a>
+  【帰り道の電車】 by 風の色写真館（讃岐東部の写真集）</p>',
       location: {
         center: [134.1223194, 34.345598],
         zoom: 14,
@@ -136,8 +140,10 @@ const config = {
       hidden: false,
       title: 'うどん本陣 山田家',
       image: '',
-      tweet_id: '1376734025348440065',
-      description: '<p>1巻 P134 </p><div class="tweetContainer" id="tweet1376734025348440065"></div> ',
+      tweet_id: '',
+      description: '<p>1巻 P134  香川県高松市 牟礼町牟礼3128</p> <p><img src="https://live.staticflickr.com/4255/34955050654_c2890fa7b5_z.jpg"></p>
+<p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.3532536&amp;lon=134.1296254&amp;radius=0.25&amp;has_geo=1&amp;view_all=1">Flickr</a>
+  【IMG_2385】 by ponareon</p>',
       location: {
         center: [134.1296254, 34.3532536],
         zoom: 14,
@@ -157,7 +163,9 @@ const config = {
       title: '八栗ケーブル',
       image: '',
       tweet_id: '',
-      description: '<p>1巻 P142 </p> <p><img src="https://live.staticflickr.com/7487/15959108478_eb246c9b6e_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.3551328&lon=134.1336543&radius=0.25&has_geo=1&view_all=1">Flickr</a>【Yakuri Temple, Takamatsu 2014】 by shinji_w</p>',
+      description: '<p>1巻 P142  香川県高松市 牟礼町牟礼3369</p> <p><img src="https://live.staticflickr.com/7487/15959108478_eb246c9b6e_z.jpg"></p>
+<p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.3551328&amp;lon=134.1336543&amp;radius=0.25&amp;has_geo=1&amp;view_all=1">Flickr</a>
+  【Yakuri Temple, Takamatsu 2014】 by shinji_w</p>',
       location: {
         center: [134.1336543, 34.3551328],
         zoom: 14,
@@ -177,7 +185,7 @@ const config = {
       title: '八栗寺',
       image: '',
       tweet_id: '1377921302858637318',
-      description: '<p>1巻 P143 </p><div class="tweetContainer" id="tweet1377921302858637318"></div> ',
+      description: '<p>1巻 P143  香川県高松市 牟礼町牟礼3416</p><div class="tweetContainer" id="tweet1377921302858637318"></div> ',
       location: {
         center: [134.1398791, 34.3599067],
         zoom: 14,
@@ -197,7 +205,9 @@ const config = {
       title: 'ルピナス',
       image: '',
       tweet_id: '',
-      description: '<p>1巻 P148 </p> <p><img src="https://live.staticflickr.com/65535/51070633261_4902c0fd3e_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.3497929&lon=134.0469322&radius=0.25&has_geo=1&view_all=1">Flickr</a>【610_8902 (2)】 by Lox Pix</p>',
+      description: '<p>1巻 P148  香川県高松市 西の丸町6</p> <p><img src="https://live.staticflickr.com/65535/51070633261_4902c0fd3e_z.jpg"></p>
+<p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.3497929&amp;lon=134.0469322&amp;radius=0.25&amp;has_geo=1&amp;view_all=1">Flickr</a>
+  【610_8902 (2)】 by Lox Pix</p>',
       location: {
         center: [134.0469322, 34.3497929],
         zoom: 14,
@@ -216,8 +226,8 @@ const config = {
       hidden: false,
       title: '玉藻公園',
       image: '',
-      tweet_id: '1377945749720244225',
-      description: '<p>1巻 P150 </p><div class="tweetContainer" id="tweet1377945749720244225"></div> ',
+      tweet_id: '1378524107877216256',
+      description: '<p>1巻 P150  香川県高松市 玉藻町2</p><div class="tweetContainer" id="tweet1378524107877216256"></div> ',
       location: {
         center: [134.0516188, 34.3503157],
         zoom: 14,
@@ -236,8 +246,8 @@ const config = {
       hidden: false,
       title: '栗林公園',
       image: '',
-      tweet_id: '1377200960129277952',
-      description: '<p>1巻 P157 </p><div class="tweetContainer" id="tweet1377200960129277952"></div> ',
+      tweet_id: '1378701350695886850',
+      description: '<p>1巻 P157  香川県高松市 栗林町一丁目20</p><div class="tweetContainer" id="tweet1378701350695886850"></div> ',
       location: {
         center: [134.0445345, 34.3293842],
         zoom: 14,

@@ -16,8 +16,8 @@ const config = {
       hidden: false,
       title: '串本駅',
       image: '',
-      tweet_id: '1377871740169187334',
-      description: '<p>3巻 P57 </p><div class="tweetContainer" id="tweet1377871740169187334"></div> ',
+      tweet_id: '1378523492522545155',
+      description: '<p>3巻 P57  和歌山県東牟婁郡 串本町 串本40</p><div class="tweetContainer" id="tweet1378523492522545155"></div> ',
       location: {
         center: [135.7816031, 33.4755266],
         zoom: 14,
@@ -37,7 +37,9 @@ const config = {
       title: 'この辺歩いてるよ',
       image: '',
       tweet_id: '',
-      description: '<p>3巻 P60 </p> <p><img src="https://live.staticflickr.com/65535/50085149401_a59c3fd84f_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=33.4580493&lon=135.7718515&radius=0.25&has_geo=1&view_all=1">Flickr</a>【潮岬 本州最南端 (1)】 by OOMYV</p>',
+      description: '<p>3巻 P60  和歌山県東牟婁郡 串本町 串本1403</p> <p><img src="https://live.staticflickr.com/65535/50085149401_a59c3fd84f_z.jpg"></p>
+<p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=33.4580493&amp;lon=135.7718515&amp;radius=0.25&amp;has_geo=1&amp;view_all=1">Flickr</a>
+  【潮岬 本州最南端 (1)】 by OOMYV</p>',
       location: {
         center: [135.7718515, 33.4580493],
         zoom: 14,
@@ -57,7 +59,9 @@ const config = {
       title: 'この辺まで来たよ',
       image: '',
       tweet_id: '',
-      description: '<p>3巻 P61 </p> <p><img src="https://live.staticflickr.com/1870/42761121100_46abec0541_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=33.4378491&lon=135.754685&radius=0.25&has_geo=1&view_all=1">Flickr</a>【it was a good day】 by k n u l p</p>',
+      description: '<p>3巻 P61  和歌山県東牟婁郡 串本町 </p> <p><img src="https://live.staticflickr.com/1870/42761121100_46abec0541_z.jpg"></p>
+<p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=33.4378491&amp;lon=135.754685&amp;radius=0.25&amp;has_geo=1&amp;view_all=1">Flickr</a>
+  【it was a good day】 by k n u l p</p>',
       location: {
         center: [135.754685, 33.4378491],
         zoom: 14,
@@ -76,8 +80,8 @@ const config = {
       hidden: false,
       title: '潮岬灯台',
       image: '',
-      tweet_id: '',
-      description: '<p>3巻 P62 </p> <p><img src="https://live.staticflickr.com/1870/42761121100_46abec0541_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=33.4375625&lon=135.7544642&radius=0.25&has_geo=1&view_all=1">Flickr</a>【it was a good day】 by k n u l p</p>',
+      tweet_id: '1379314609694248962',
+      description: '<p>3巻 P62  和歌山県東牟婁郡 串本町 </p><div class="tweetContainer" id="tweet1379314609694248962"></div> ',
       location: {
         center: [135.7544642, 33.4375625],
         zoom: 14,
@@ -97,7 +101,9 @@ const config = {
       title: '本州最南端の碑',
       image: '',
       tweet_id: '',
-      description: '<p>3巻 P64 </p> <p><img src="https://live.staticflickr.com/65535/50343782877_c69482ce8d_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=33.4362401&lon=135.7621203&radius=0.25&has_geo=1&view_all=1">Flickr</a>【Milky way and Jupiter (3)】 by kuni4400</p>',
+      description: '<p>3巻 P64  和歌山県東牟婁郡 串本町 </p> <p><img src="https://live.staticflickr.com/65535/50343782877_c69482ce8d_z.jpg"></p>
+<p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=33.4362401&amp;lon=135.7621203&amp;radius=0.25&amp;has_geo=1&amp;view_all=1">Flickr</a>
+  【Milky way and Jupiter (3)】 by kuni4400</p>',
       location: {
         center: [135.7621203, 33.4362401],
         zoom: 14,
@@ -117,7 +123,9 @@ const config = {
       title: 'ビジネスホテル串本 駅前店',
       image: '',
       tweet_id: '',
-      description: '<p>3巻 P67 </p> <p><img src="https://live.staticflickr.com/4852/44065931920_23a842dcbb_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=33.474975&lon=135.782048&radius=0.25&has_geo=1&view_all=1">Flickr</a>【whaling story for the south end of the Kii Peninsula】 by anthroview</p>',
+      description: '<p>3巻 P67  和歌山県東牟婁郡 串本町 串本40</p> <p><img src="https://live.staticflickr.com/4852/44065931920_23a842dcbb_z.jpg"></p>
+<p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=33.474975&amp;lon=135.782048&amp;radius=0.25&amp;has_geo=1&amp;view_all=1">Flickr</a>
+  【whaling story for the south end of the Kii Peninsula】 by anthroview</p>',
       location: {
         center: [135.782048, 33.474975],
         zoom: 14,
@@ -137,7 +145,7 @@ const config = {
       title: 'ビーフショップまるみ支店',
       image: '',
       tweet_id: '',
-      description: '<p>3巻 P69 </p> ',
+      description: '<p>3巻 P69  和歌山県東牟婁郡 串本町 串本913</p> ',
       location: {
         center: [135.7805652, 33.4701756],
         zoom: 14,
@@ -157,7 +165,9 @@ const config = {
       title: '潮岬観光タワー',
       image: '',
       tweet_id: '',
-      description: '<p>3巻 P71 </p> <p><img src="https://live.staticflickr.com/65535/50343782877_c69482ce8d_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=33.437806&lon=135.7613677&radius=0.25&has_geo=1&view_all=1">Flickr</a>【Milky way and Jupiter (3)】 by kuni4400</p>',
+      description: '<p>3巻 P71  和歌山県東牟婁郡 串本町 </p> <p><img src="https://live.staticflickr.com/65535/50343782877_c69482ce8d_z.jpg"></p>
+<p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=33.437806&amp;lon=135.7613677&amp;radius=0.25&amp;has_geo=1&amp;view_all=1">Flickr</a>
+  【Milky way and Jupiter (3)】 by kuni4400</p>',
       location: {
         center: [135.7613677, 33.437806],
         zoom: 14,
@@ -177,7 +187,7 @@ const config = {
       title: '新宮駅',
       image: '',
       tweet_id: '1377898718863691776',
-      description: '<p>3巻 P80 </p><div class="tweetContainer" id="tweet1377898718863691776"></div> ',
+      description: '<p>3巻 P80  和歌山県新宮市 徐福一丁目3</p><div class="tweetContainer" id="tweet1377898718863691776"></div> ',
       location: {
         center: [135.9941471, 33.7251509],
         zoom: 14,
@@ -197,7 +207,9 @@ const config = {
       title: '新宮市観光協会 shingu tourist information centre',
       image: '',
       tweet_id: '',
-      description: '<p>3巻 P81 </p> <p><img src="https://live.staticflickr.com/65535/50084565328_90a5daae47_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=33.7254244&lon=135.9946972&radius=0.25&has_geo=1&view_all=1">Flickr</a>【新宮駅】 by OOMYV</p>',
+      description: '<p>3巻 P81  和歌山県新宮市 徐福一丁目3</p> <p><img src="https://live.staticflickr.com/65535/50084565328_90a5daae47_z.jpg"></p>
+<p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=33.7254244&amp;lon=135.9946972&amp;radius=0.25&amp;has_geo=1&amp;view_all=1">Flickr</a>
+  【新宮駅】 by OOMYV</p>',
       location: {
         center: [135.9946972, 33.7254244],
         zoom: 14,
@@ -216,8 +228,10 @@ const config = {
       hidden: false,
       title: 'くまのこ食堂',
       image: '',
-      tweet_id: '1376118585987227648',
-      description: '<p>3巻 P81 </p><div class="tweetContainer" id="tweet1376118585987227648"></div> ',
+      tweet_id: '',
+      description: '<p>3巻 P81  和歌山県田辺市 本宮町本宮</p> <p><img src="https://live.staticflickr.com/65535/49393882143_a5f992baaa_z.jpg"></p>
+<p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=33.834421&amp;lon=135.7723926&amp;radius=0.25&amp;has_geo=1&amp;view_all=1">Flickr</a>
+  【IMG_3544】 by aneel</p>',
       location: {
         center: [135.7723926, 33.834421],
         zoom: 14,
@@ -237,7 +251,7 @@ const config = {
       title: '熊野本宮大社',
       image: '',
       tweet_id: '1378233506359349252',
-      description: '<p>3巻 P82 </p><div class="tweetContainer" id="tweet1378233506359349252"></div> ',
+      description: '<p>3巻 P82  和歌山県田辺市 本宮町本宮</p><div class="tweetContainer" id="tweet1378233506359349252"></div> ',
       location: {
         center: [135.7734753, 33.8405706],
         zoom: 14,
@@ -257,7 +271,9 @@ const config = {
       title: '料理 萬口',
       image: '',
       tweet_id: '',
-      description: '<p>3巻 P85 </p> <p><img src="https://live.staticflickr.com/4852/44065931920_23a842dcbb_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=33.4745935&lon=135.7817317&radius=0.25&has_geo=1&view_all=1">Flickr</a>【whaling story for the south end of the Kii Peninsula】 by anthroview</p>',
+      description: '<p>3巻 P85  和歌山県東牟婁郡 串本町 串本43</p> <p><img src="https://live.staticflickr.com/4852/44065931920_23a842dcbb_z.jpg"></p>
+<p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=33.4745935&amp;lon=135.7817317&amp;radius=0.25&amp;has_geo=1&amp;view_all=1">Flickr</a>
+  【whaling story for the south end of the Kii Peninsula】 by anthroview</p>',
       location: {
         center: [135.7817317, 33.4745935],
         zoom: 14,
