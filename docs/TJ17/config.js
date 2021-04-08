@@ -36,8 +36,8 @@ const config = {
       hidden: false,
       title: '小倉駅',
       image: '',
-      tweet_id: '1380125081955753984',
-      description: '<p>   福岡県北九州市 小倉北区 京町三丁目8</p><div class="tweetContainer" id="tweet1380125081955753984"></div> ',
+      tweet_id: '1380176530869981185',
+      description: '<p>   福岡県北九州市 小倉北区 京町三丁目8</p><div class="tweetContainer" id="tweet1380176530869981185"></div> ',
       location: {
         center: [130.8825758, 33.8869679],
         zoom: 14,
@@ -237,7 +237,7 @@ const config = {
       title: '両子寺',
       image: '',
       tweet_id: '',
-      description: '<p>   大分県国東市 </p> <p><img alt="Futago-ji" src="https://live.staticflickr.com/4245/34806229896_68b7848b87_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=33.5740013&amp;lon=131.603241&amp;radius=0.25&amp;has_geo=1&amp;view_all=1">Flickr</a>【Futago-ji】 by seghal1</p>',
+      description: '<p>   大分県国東市 </p> <p><img alt="Futago-ji Temple" src="https://live.staticflickr.com/4533/38279324851_01819ca4e0_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=33.5740013&amp;lon=131.603241&amp;radius=0.25&amp;has_geo=1&amp;view_all=1">Flickr</a>【Futago-ji Temple】 by K.G.23</p>',
       location: {
         center: [131.603241, 33.5740013],
         zoom: 14,

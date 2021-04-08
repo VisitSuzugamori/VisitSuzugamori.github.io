@@ -97,7 +97,7 @@ const config = {
       title: '小原鐵五郎寿像',
       image: '',
       tweet_id: '',
-      description: '<p>4巻 P122  東京都中央区 京橋三丁目8</p> <p><img alt="Cruzando la calle" src="https://live.staticflickr.com/65535/50437780056_9bf3b3ec2f_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.675434&amp;lon=139.7711133&amp;radius=0.25&amp;has_geo=1&amp;view_all=1">Flickr</a>【Cruzando la calle】 by Montse Estaca</p>',
+      description: '<p>4巻 P122  東京都中央区 京橋三丁目8</p> <p><img alt="" src="https://live.staticflickr.com/65535/50441599632_81d1af9700_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.675434&amp;lon=139.7711133&amp;radius=0.25&amp;has_geo=1&amp;view_all=1">Flickr</a>【】 by JaggyBoss</p>',
       location: {
         center: [139.7711133, 35.675434],
         zoom: 14,
@@ -417,7 +417,7 @@ const config = {
       title: '南極観測船『宗谷』',
       image: '',
       tweet_id: '',
-      description: '<p>4巻 P136  </p> <p><img alt="Tokyo - Odaiba - The Soho" src="https://live.staticflickr.com/65535/50103602662_0638df59e2_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.6191097&amp;lon=139.7738425&amp;radius=0.25&amp;has_geo=1&amp;view_all=1">Flickr</a>【Tokyo - Odaiba - The Soho】 by CATDvd</p>',
+      description: '<p>4巻 P136  </p> <p><img alt="051029 Odaiba-02.jpg" src="https://live.staticflickr.com/65535/50561024326_f83d27fdb1_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.6191097&amp;lon=139.7738425&amp;radius=0.25&amp;has_geo=1&amp;view_all=1">Flickr</a>【051029 Odaiba-02.jpg】 by Bruce Batten</p>',
       location: {
         center: [139.7738425, 35.6191097],
         zoom: 14,

@@ -197,7 +197,7 @@ const config = {
       title: 'ルピナス',
       image: '',
       tweet_id: '',
-      description: '<p>1巻 P148  香川県高松市 西の丸町6</p> <p><img alt="610_8904 (2)" src="https://live.staticflickr.com/65535/51001450135_c82e72e62c_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.3497929&amp;lon=134.0469322&amp;radius=0.25&amp;has_geo=1&amp;view_all=1">Flickr</a>【610_8904 (2)】 by Lox Pix</p>',
+      description: '<p>1巻 P148  香川県高松市 西の丸町6</p> <p><img alt="610_8902 (2)" src="https://live.staticflickr.com/65535/51070633261_4902c0fd3e_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.3497929&amp;lon=134.0469322&amp;radius=0.25&amp;has_geo=1&amp;view_all=1">Flickr</a>【610_8902 (2)】 by Lox Pix</p>',
       location: {
         center: [134.0469322, 34.3497929],
         zoom: 14,

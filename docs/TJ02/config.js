@@ -217,7 +217,7 @@ const config = {
       title: '松島巡り観光船 乗り場(松島觀光遊艇搭船場)',
       image: '',
       tweet_id: '',
-      description: '<p>1巻 P79  </p> <p><img alt="" src="https://live.staticflickr.com/65535/49611803226_77de82b7c7_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=38.3689558&amp;lon=141.0628948&amp;radius=0.25&amp;has_geo=1&amp;view_all=1">Flickr</a>【】 by 快樂雲</p>',
+      description: '<p>1巻 P79  </p> <p><img alt="Kanrantei Teahouse, Matsushima Bay" src="https://live.staticflickr.com/65535/50829490277_f07503e14f_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=38.3689558&amp;lon=141.0628948&amp;radius=0.25&amp;has_geo=1&amp;view_all=1">Flickr</a>【Kanrantei Teahouse, Matsushima Bay】 by victor*f</p>',
       location: {
         center: [141.0628948, 38.3689558],
         zoom: 14,

@@ -137,7 +137,7 @@ const config = {
       title: '出雲日本海 出雲大社正門前店',
       image: '',
       tweet_id: '',
-      description: '<p>3巻 P137  島根県出雲市 大社町杵築南839</p> <p><img alt="20181016-DSCF5529-C1" src="https://live.staticflickr.com/65535/49836247112_7538df6de0_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.3962535&amp;lon=132.6863131&amp;radius=0.25&amp;has_geo=1&amp;view_all=1">Flickr</a>【20181016-DSCF5529-C1】 by Larry Moberly</p>',
+      description: '<p>3巻 P137  島根県出雲市 大社町杵築南839</p> <p><img alt="Musubi, praying" src="https://live.staticflickr.com/65535/50627419503_03a6eba81c_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.3962535&amp;lon=132.6863131&amp;radius=0.25&amp;has_geo=1&amp;view_all=1">Flickr</a>【Musubi, praying】 by SocialHermit</p>',
       location: {
         center: [132.6863131, 35.3962535],
         zoom: 14,
@@ -197,7 +197,7 @@ const config = {
       title: '出雲大社 拝殿',
       image: '',
       tweet_id: '',
-      description: '<p>3巻 P140  島根県出雲市 大社町杵築東257</p> <p><img alt="Daimon of Kitajima Kokusokan Hall, Izumo, Shimane 大門 出雲教 北島国造館 出雲　島根" src="https://live.staticflickr.com/65535/50121645656_a505c3c065_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.4012055&amp;lon=132.6855211&amp;radius=0.25&amp;has_geo=1&amp;view_all=1">Flickr</a>【Daimon of Kitajima Kokusokan Hall, Izumo, Shimane 大門 出雲教 北島国造館 出雲　島根】 by Anaguma</p>',
+      description: '<p>3巻 P140  島根県出雲市 大社町杵築東257</p> <p><img alt="The hidden-in-the-back temple" src="https://live.staticflickr.com/65535/50628265512_06899697dc_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.4012055&amp;lon=132.6855211&amp;radius=0.25&amp;has_geo=1&amp;view_all=1">Flickr</a>【The hidden-in-the-back temple】 by SocialHermit</p>',
       location: {
         center: [132.6855211, 35.4012055],
         zoom: 14,
