@@ -214,7 +214,10 @@ function getAlignments(num) {
   if (num === 0) {
     return 'center';
   }
-  return new Map([[0, 'left'], [1, 'right']]).get(num % 2);
+  return new Map([
+    [0, 'left'],
+    [1, 'right'],
+  ]).get(num % 2);
 }
 
 function getTweetContainerHtml(tweet_id) {
@@ -228,9 +231,11 @@ async function getFlickrContentHtml(latlon) {
   const image = await flickr.flickrImage(latlon).catch(console.log);
   if (image) {
     const searchUrl = u.replaceCharactorEntity4Html(flickr.getSearchUrl(latlon));
-    return `<p><img alt="${u.replaceCharactorEntity4Html(image.title)}" src="${u.replaceCharactorEntity4Html(image.url)}"></p>
-<p>photo from <a rel="noopener" href="${searchUrl}">Flickr</a>
-【${u.replaceCharactorEntity4Html(image.title)}】 by ${u.replaceCharactorEntity4Html(image.ownername)}</p>`.replace(/\n/g, '');
+    return `<p>
+<img alt="${u.replaceCharactorEntity4Html(image.title)}" src="${u.replaceCharactorEntity4Html(image.url)}">
+</p><p>photo from <a rel="noopener" href="${searchUrl}">Flickr</a>
+【${u.replaceCharactorEntity4Html(image.title)}】
+ by ${u.replaceCharactorEntity4Html(image.ownername)}</p>`.replace(/\n/g, '');
   }
   return '';
 }
