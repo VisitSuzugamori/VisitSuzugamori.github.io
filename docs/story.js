@@ -138,7 +138,6 @@ var map = new mapboxgl.Map({
   interactive: false,
   transformRequest: transformRequest,
 });
-const mapboxClient = mapboxSdk({ accessToken: config.accessToken });
 const directions = new MapboxDirections({
   accessToken: config.accessToken,
   unit: 'metric',
