@@ -38,10 +38,10 @@ console.log(secret);
 
     const revGeoCoder = new AginfoApi();
     // const address = ;
-    console.log('AginfoApi', await revGeoCoder.getAdress([139.7533928,35.7036666]));
-    console.log('AginfoApi', await revGeoCoder.getAdress([132.3035106,34.311502]));
-    console.log('AginfoApi', await revGeoCoder.getAdress([134.1296254,34.3532536]));
-    console.log('AginfoApi', await revGeoCoder.getAdress([137.4170608,36.8906968]));
+    console.log('AginfoApi', await revGeoCoder.getAdress([141.0628948, 38.3689558]));
+    console.log('AginfoApi', await revGeoCoder.getAdress([139.7631443, 35.6365639]));
+    console.log('AginfoApi', await revGeoCoder.getAdress([132.3181276, 34.2973092]));
+    console.log('AginfoApi', await revGeoCoder.getAdress([132.3198262, 34.2959885]));
   } catch (e) {
     console.log('exception', e);
   }

@@ -7,6 +7,8 @@ class AginfoApi {
     this.endpoint = 'https://aginfo.cgk.affrc.go.jp/ws/rgeocode.php';
     this.default_params = {
       json: 1,
+      lr: 500,
+      lx: 1,
       ar: 500,
       ax: 1,
     };
@@ -38,12 +40,12 @@ class AginfoApi {
       throw e;
     });
     const data = await res.body;
+    // console.debug(data);
 
     if (this.isOK(data.status)) {
-      const address = this.formatAdress(data.result);
-      return address;
+      return this.formatAdress(data.result);
     }
-    return undefined;
+    return '';
   }
 
   formatAdress(x) {
