@@ -12,7 +12,7 @@ const config = {
   chapters: [
     {
       id: '4巻-P93-東京駅',
-      alignment: 'left',
+      alignment: 'center',
       hidden: false,
       title: '東京駅',
       image: '',
@@ -32,7 +32,7 @@ const config = {
     },
     {
       id: '4巻-P96-立川駅',
-      alignment: 'left',
+      alignment: 'right',
       hidden: false,
       title: '立川駅',
       image: '',
@@ -72,12 +72,12 @@ const config = {
     },
     {
       id: '4巻-P98-鳩ノ巣駅',
-      alignment: 'left',
+      alignment: 'right',
       hidden: false,
       title: '鳩ノ巣駅',
       image: '',
       tweet_id: '',
-      description: '<p>4巻 P98  東京都西多摩郡 奥多摩町 </p> <p><img src="https://live.staticflickr.com/65535/50586693307_4833de2e12_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.8149406&amp;lon=139.128745&amp;radius=0.25&amp;has_geo=1&amp;view_all=1">Flickr</a>  【Photo Opportunity, Okutama, Japan】 by runslikethewind83</p>',
+      description: '<p>4巻 P98  東京都西多摩郡 奥多摩町 </p> <p><img alt="Photo Opportunity, Okutama, Japan" src="https://live.staticflickr.com/65535/50586693307_4833de2e12_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.8149406&amp;lon=139.128745&amp;radius=0.25&amp;has_geo=1&amp;view_all=1">Flickr</a>【Photo Opportunity, Okutama, Japan】 by runslikethewind83</p>',
       location: {
         center: [139.128745, 35.8149406],
         zoom: 14,
@@ -97,7 +97,7 @@ const config = {
       title: '白丸調整池ダム',
       image: '',
       tweet_id: '',
-      description: '<p>4巻 P100  東京都西多摩郡 奥多摩町 白丸</p> <p><img src="https://live.staticflickr.com/65535/50825155226_f1294b5c4b_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.8110763&amp;lon=139.1239406&amp;radius=0.25&amp;has_geo=1&amp;view_all=1">Flickr</a>  【201128_043】 by Matsui Hiroyuki</p>',
+      description: '<p>4巻 P100  東京都西多摩郡 奥多摩町 白丸</p> <p><img alt="201128_043" src="https://live.staticflickr.com/65535/50825155226_f1294b5c4b_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.8110763&amp;lon=139.1239406&amp;radius=0.25&amp;has_geo=1&amp;view_all=1">Flickr</a>【201128_043】 by Matsui Hiroyuki</p>',
       location: {
         center: [139.1239406, 35.8110763],
         zoom: 14,
@@ -112,12 +112,12 @@ const config = {
     },
     {
       id: '4巻-P101-数馬隧道',
-      alignment: 'left',
+      alignment: 'right',
       hidden: false,
       title: '数馬隧道',
       image: '',
       tweet_id: '',
-      description: '<p>4巻 P101  東京都西多摩郡 奥多摩町 白丸</p> <p><img src="https://live.staticflickr.com/3718/10379393606_6b2f0d524e_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.8085032&amp;lon=139.1138905&amp;radius=0.25&amp;has_geo=1&amp;view_all=1">Flickr</a>  【October 20, 2013 at 12:17PM】 by Kimilee0317</p>',
+      description: '<p>4巻 P101  東京都西多摩郡 奥多摩町 白丸</p> <p><img alt="October 20, 2013 at 12:17PM" src="https://live.staticflickr.com/3718/10379393606_6b2f0d524e_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.8085032&amp;lon=139.1138905&amp;radius=0.25&amp;has_geo=1&amp;view_all=1">Flickr</a>【October 20, 2013 at 12:17PM】 by Kimilee0317</p>',
       location: {
         center: [139.1138905, 35.8085032],
         zoom: 14,
@@ -137,7 +137,7 @@ const config = {
       title: '奥多摩温泉 もえぎの湯',
       image: '',
       tweet_id: '',
-      description: '<p>4巻 P102  東京都西多摩郡 奥多摩町 </p> <p><img src="https://live.staticflickr.com/5523/11047102706_798b05e687_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.8046162&amp;lon=139.102613&amp;radius=0.25&amp;has_geo=1&amp;view_all=1">Flickr</a>  【PB170227】 by overleo</p>',
+      description: '<p>4巻 P102  東京都西多摩郡 奥多摩町 </p> <p><img alt="メロンソーダフロート" src="https://live.staticflickr.com/7180/6783970306_fbe128beb2_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.8046162&amp;lon=139.102613&amp;radius=0.25&amp;has_geo=1&amp;view_all=1">Flickr</a>【メロンソーダフロート】 by shckor</p>',
       location: {
         center: [139.102613, 35.8046162],
         zoom: 14,
@@ -152,12 +152,12 @@ const config = {
     },
     {
       id: '4巻-P105-もえぎ橋',
-      alignment: 'left',
+      alignment: 'right',
       hidden: false,
       title: 'もえぎ橋',
       image: '',
       tweet_id: '',
-      description: '<p>4巻 P105  東京都西多摩郡 奥多摩町 </p> <p><img src="https://live.staticflickr.com/2860/33382482493_f0905f830d_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.8057723&amp;lon=139.1011388&amp;radius=0.25&amp;has_geo=1&amp;view_all=1">Flickr</a>  【20170422-090218-exploring-oume-pt2】 by halffastcycling</p>',
+      description: '<p>4巻 P105  東京都西多摩郡 奥多摩町 </p> <p><img alt="20170422-090218-exploring-oume-pt2" src="https://live.staticflickr.com/2860/33382482493_f0905f830d_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.8057723&amp;lon=139.1011388&amp;radius=0.25&amp;has_geo=1&amp;view_all=1">Flickr</a>【20170422-090218-exploring-oume-pt2】 by halffastcycling</p>',
       location: {
         center: [139.1011388, 35.8057723],
         zoom: 14,
@@ -177,7 +177,7 @@ const config = {
       title: '山城屋 奥多摩わさび本舗',
       image: '',
       tweet_id: '',
-      description: '<p>4巻 P105  東京都西多摩郡 奥多摩町 </p> <p><img src="https://live.staticflickr.com/65535/49573310227_c37ee4d508_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.806077&amp;lon=139.099594&amp;radius=0.25&amp;has_geo=1&amp;view_all=1">Flickr</a>  【IMG_20200223_093544.jpg】 by tokotaha</p>',
+      description: '<p>4巻 P105  東京都西多摩郡 奥多摩町 </p> <p><img alt="IMG_20201108_150634" src="https://live.staticflickr.com/65535/50578261153_5ec022a5a2_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.806077&amp;lon=139.099594&amp;radius=0.25&amp;has_geo=1&amp;view_all=1">Flickr</a>【IMG_20201108_150634】 by tokotaha</p>',
       location: {
         center: [139.099594, 35.806077],
         zoom: 14,
@@ -192,12 +192,12 @@ const config = {
     },
     {
       id: '4巻-P107-愛宕神社階段',
-      alignment: 'left',
+      alignment: 'right',
       hidden: false,
       title: '愛宕神社階段',
       image: '',
       tweet_id: '',
-      description: '<p>4巻 P107  東京都西多摩郡 奥多摩町 </p> <p><img src="https://live.staticflickr.com/65535/49727175146_dcc056dc8e_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.8048366&amp;lon=139.0974752&amp;radius=0.25&amp;has_geo=1&amp;view_all=1">Flickr</a>  【K-1 20191123-0055】 by Rakurai70</p>',
+      description: '<p>4巻 P107  東京都西多摩郡 奥多摩町 </p> <p><img alt="IMG_20201108_145530" src="https://live.staticflickr.com/65535/50579126647_616d09be0a_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.8048366&amp;lon=139.0974752&amp;radius=0.25&amp;has_geo=1&amp;view_all=1">Flickr</a>【IMG_20201108_145530】 by tokotaha</p>',
       location: {
         center: [139.0974752, 35.8048366],
         zoom: 14,
@@ -232,7 +232,7 @@ const config = {
     },
     {
       id: '4巻-P110-奥多摩湖',
-      alignment: 'left',
+      alignment: 'right',
       hidden: false,
       title: '奥多摩湖',
       image: '',
@@ -257,7 +257,7 @@ const config = {
       title: '小河内ダム',
       image: '',
       tweet_id: '',
-      description: '<p>4巻 P110  東京都西多摩郡 奥多摩町 境</p> <p><img src="https://live.staticflickr.com/65535/49006254151_c010b58f16_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.7894921&amp;lon=139.0520349&amp;radius=0.25&amp;has_geo=1&amp;view_all=1">Flickr</a>  【IMG_4721】 by tnoma</p>',
+      description: '<p>4巻 P110  東京都西多摩郡 奥多摩町 境</p> <p><img alt="IMG_4721" src="https://live.staticflickr.com/65535/49006254151_c010b58f16_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.7894921&amp;lon=139.0520349&amp;radius=0.25&amp;has_geo=1&amp;view_all=1">Flickr</a>【IMG_4721】 by tnoma</p>',
       location: {
         center: [139.0520349, 35.7894921],
         zoom: 14,
@@ -272,12 +272,12 @@ const config = {
     },
     {
       id: '4巻-P117-数馬の切通し',
-      alignment: 'left',
+      alignment: 'right',
       hidden: false,
       title: '数馬の切通し',
       image: '',
       tweet_id: '',
-      description: '<p>4巻 P117  東京都西多摩郡 奥多摩町 白丸</p> <p><img src="https://live.staticflickr.com/3718/10379393606_6b2f0d524e_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.808468&amp;lon=139.1135257&amp;radius=0.25&amp;has_geo=1&amp;view_all=1">Flickr</a>  【October 20, 2013 at 12:17PM】 by Kimilee0317</p>',
+      description: '<p>4巻 P117  東京都西多摩郡 奥多摩町 白丸</p> <p><img alt="October 20, 2013 at 12:17PM" src="https://live.staticflickr.com/3718/10379393606_6b2f0d524e_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.808468&amp;lon=139.1135257&amp;radius=0.25&amp;has_geo=1&amp;view_all=1">Flickr</a>【October 20, 2013 at 12:17PM】 by Kimilee0317</p>',
       location: {
         center: [139.1135257, 35.808468],
         zoom: 14,

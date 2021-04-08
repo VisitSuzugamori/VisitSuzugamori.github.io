@@ -12,12 +12,12 @@ const config = {
   chapters: [
     {
       id: '2巻-P132-東京ドームホテル',
-      alignment: 'left',
+      alignment: 'center',
       hidden: false,
       title: '東京ドームホテル',
       image: '',
       tweet_id: '',
-      description: '<p>2巻 P132  東京都文京区 後楽一丁目3</p> <p><img src="https://live.staticflickr.com/65535/51003025803_f22571f9bf_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.7036666&amp;lon=139.7533928&amp;radius=0.25&amp;has_geo=1&amp;view_all=1">Flickr</a>  【Tokyo Dome city】 by 4ELEVEN Images</p>',
+      description: '<p>2巻 P132  東京都文京区 後楽一丁目3</p> <p><img alt="Tokyo Dome city" src="https://live.staticflickr.com/65535/51003025803_f22571f9bf_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.7036666&amp;lon=139.7533928&amp;radius=0.25&amp;has_geo=1&amp;view_all=1">Flickr</a>【Tokyo Dome city】 by 4ELEVEN Images</p>',
       location: {
         center: [139.7533928, 35.7036666],
         zoom: 14,
@@ -32,12 +32,12 @@ const config = {
     },
     {
       id: '2巻-P141-海老名SA (下り)',
-      alignment: 'left',
+      alignment: 'right',
       hidden: false,
       title: '海老名SA (下り)',
       image: '',
       tweet_id: '',
-      description: '<p>2巻 P141  神奈川県海老名市 大谷南五丁目2</p> <p><img src="https://live.staticflickr.com/65535/50597455831_e792480b64_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.4310702&amp;lon=139.4010198&amp;radius=0.25&amp;has_geo=1&amp;view_all=1">Flickr</a>  【IMG_0261】 by tnoma</p>',
+      description: '<p>2巻 P141  神奈川県海老名市 大谷南五丁目2</p> <p><img alt="IMG_0261" src="https://live.staticflickr.com/65535/50597455831_e792480b64_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.4310702&amp;lon=139.4010198&amp;radius=0.25&amp;has_geo=1&amp;view_all=1">Flickr</a>【IMG_0261】 by tnoma</p>',
       location: {
         center: [139.4010198, 35.4310702],
         zoom: 14,
@@ -57,7 +57,7 @@ const config = {
       title: '広島テレビ放送',
       image: '',
       tweet_id: '',
-      description: '<p>2巻 P145  広島県広島市 東区 二葉の里三丁目5</p> <p><img src="https://live.staticflickr.com/65535/49840112437_e242194757_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.3999238&amp;lon=132.4758202&amp;radius=0.25&amp;has_geo=1&amp;view_all=1">Flickr</a>  【Japan_Roll-14_07】 by derekcarter2</p>',
+      description: '<p>2巻 P145  広島県広島市 東区 二葉の里三丁目5</p> <p><img alt="Japan_Roll-14_07" src="https://live.staticflickr.com/65535/49840112437_e242194757_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.3999238&amp;lon=132.4758202&amp;radius=0.25&amp;has_geo=1&amp;view_all=1">Flickr</a>【Japan_Roll-14_07】 by derekcarter2</p>',
       location: {
         center: [132.4758202, 34.3999238],
         zoom: 14,
@@ -72,12 +72,12 @@ const config = {
     },
     {
       id: '2巻-P146-広島駅',
-      alignment: 'left',
+      alignment: 'right',
       hidden: false,
       title: '広島駅',
       image: '',
-      tweet_id: '1380117112715288577',
-      description: '<p>2巻 P146  広島県広島市 南区 松原町1</p><div class="tweetContainer" id="tweet1380117112715288577"></div> ',
+      tweet_id: '1380133587182219269',
+      description: '<p>2巻 P146  広島県広島市 南区 松原町1</p><div class="tweetContainer" id="tweet1380133587182219269"></div> ',
       location: {
         center: [132.4753786, 34.397667],
         zoom: 14,
@@ -97,7 +97,7 @@ const config = {
       title: '宮島口駅',
       image: '',
       tweet_id: '',
-      description: '<p>2巻 P147  広島県廿日市市 宮島口一丁目3</p> <p><img src="https://live.staticflickr.com/65535/49706167578_ef62079037_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.3120172&amp;lon=132.3029311&amp;radius=0.25&amp;has_geo=1&amp;view_all=1">Flickr</a>  【kHia 40 transfer】 by vicrailways</p>',
+      description: '<p>2巻 P147  広島県廿日市市 宮島口一丁目3</p> <p><img alt="kHia 40 transfer" src="https://live.staticflickr.com/65535/49706167578_ef62079037_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.3120172&amp;lon=132.3029311&amp;radius=0.25&amp;has_geo=1&amp;view_all=1">Flickr</a>【kHia 40 transfer】 by vicrailways</p>',
       location: {
         center: [132.3029311, 34.3120172],
         zoom: 14,
@@ -112,12 +112,12 @@ const config = {
     },
     {
       id: '2巻-P148-あなごめし うえの 宮島口本店',
-      alignment: 'left',
+      alignment: 'right',
       hidden: false,
       title: 'あなごめし うえの 宮島口本店',
       image: '',
       tweet_id: '',
-      description: '<p>2巻 P148  広島県廿日市市 宮島口一丁目5</p> <p><img src="https://live.staticflickr.com/65535/49706167578_ef62079037_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.311502&amp;lon=132.3035106&amp;radius=0.25&amp;has_geo=1&amp;view_all=1">Flickr</a>  【kHia 40 transfer】 by vicrailways</p>',
+      description: '<p>2巻 P148  広島県廿日市市 宮島口一丁目5</p> <p><img alt="kHia 40 transfer" src="https://live.staticflickr.com/65535/49706167578_ef62079037_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.311502&amp;lon=132.3035106&amp;radius=0.25&amp;has_geo=1&amp;view_all=1">Flickr</a>【kHia 40 transfer】 by vicrailways</p>',
       location: {
         center: [132.3035106, 34.311502],
         zoom: 14,
@@ -137,7 +137,7 @@ const config = {
       title: '宮島桟橋',
       image: '',
       tweet_id: '',
-      description: '<p>2巻 P151  広島県廿日市市 宮島町873</p> <p><img src="https://live.staticflickr.com/65535/51023810683_55c4524a93_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.3020862&amp;lon=132.3222151&amp;radius=0.25&amp;has_geo=1&amp;view_all=1">Flickr</a>  【IMG_4682】 by nonbinaryanalog</p>',
+      description: '<p>2巻 P151  広島県廿日市市 宮島町873</p> <p><img alt="IMG_4682" src="https://live.staticflickr.com/65535/51023810683_55c4524a93_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.3020862&amp;lon=132.3222151&amp;radius=0.25&amp;has_geo=1&amp;view_all=1">Flickr</a>【IMG_4682】 by nonbinaryanalog</p>',
       location: {
         center: [132.3222151, 34.3020862],
         zoom: 14,
@@ -152,12 +152,12 @@ const config = {
     },
     {
       id: '2巻-P152,153-嚴島神社 大鳥居（布の中）',
-      alignment: 'left',
+      alignment: 'right',
       hidden: false,
       title: '嚴島神社 大鳥居（布の中）',
       image: '',
       tweet_id: '',
-      description: '<p>2巻 P152,153  </p> <p><img src="https://live.staticflickr.com/65535/51089324234_5587811c92_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.2973092&amp;lon=132.3181276&amp;radius=0.25&amp;has_geo=1&amp;view_all=1">Flickr</a>  【Itsukushima-Schrein】 by Joerg1975</p>',
+      description: '<p>2巻 P152,153  </p> <p><img alt="Itsukushima-Schrein" src="https://live.staticflickr.com/65535/51089324234_5587811c92_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.2973092&amp;lon=132.3181276&amp;radius=0.25&amp;has_geo=1&amp;view_all=1">Flickr</a>【Itsukushima-Schrein】 by Joerg1975</p>',
       location: {
         center: [132.3181276, 34.2973092],
         zoom: 14,
