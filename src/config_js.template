@@ -12,7 +12,7 @@ const config = {
   chapters: [
 ###chapter-start###    {
       id: '###book###-###page###-###name###',
-      alignment: 'left',
+      alignment: '###align###',
       hidden: false,
       title: '###name###',
       image: '',

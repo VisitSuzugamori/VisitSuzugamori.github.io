@@ -169,6 +169,7 @@ async function writeConfig(journey, s, j) {
     .replace(/###subtitle###/gm, j.subtitle ? j.subtitle : '(単行本未収録)');
   const part2_source = cft[2];
   let part2 = '';
+  let idx = 0;
   for (const point of s) {
     const coordinates = point.get('coordinates').split(',', 2);
     const tweet_id = await tw.getTweetIdByGeo({
@@ -190,6 +191,7 @@ async function writeConfig(journey, s, j) {
     }
     let part2_item = `${part2_source}\n`;
     part2 += part2_item
+      .replace(/###align###/g, getAlignments(idx))
       .replace(/###journey###/g, u.replaceCharactorEntity4Html(journey))
       .replace(/###book###/g, u.replaceCharactorEntity4Html(xbook))
       .replace(/###page###/g, u.replaceCharactorEntity4Html(xpage))
@@ -200,11 +202,19 @@ async function writeConfig(journey, s, j) {
       .replace(/###flickr###/g, flickrContent)
       .replace(/###address###/g, u.replaceCharactorEntity4Html(address))
       .replace(/###coordinates###/g, coordinates.join(', '));
+    idx++;
   }
   const content = part1 + part2 + cft[3];
   const dirname = `docs/TJ${journey}`;
   await u.makeDir(dirname);
   await fs.writeFile(path.normalize(`${dirname}/config.js`), content);
+}
+
+function getAlignments(num) {
+  if (num === 0) {
+    return 'center';
+  }
+  return new Map([[0, 'left'], [1, 'right']]).get(num % 2);
 }
 
 function getTweetContainerHtml(tweet_id) {
@@ -218,9 +228,9 @@ async function getFlickrContentHtml(latlon) {
   const image = await flickr.flickrImage(latlon).catch(console.log);
   if (image) {
     const searchUrl = u.replaceCharactorEntity4Html(flickr.getSearchUrl(latlon));
-    return `<p><img src="${u.replaceCharactorEntity4Html(image.url)}"></p>
+    return `<p><img alt="${u.replaceCharactorEntity4Html(image.title)}" src="${u.replaceCharactorEntity4Html(image.url)}"></p>
 <p>photo from <a rel="noopener" href="${searchUrl}">Flickr</a>
-  【${u.replaceCharactorEntity4Html(image.title)}】 by ${u.replaceCharactorEntity4Html(image.ownername)}</p>`.replace(/\n/g, '');
+【${u.replaceCharactorEntity4Html(image.title)}】 by ${u.replaceCharactorEntity4Html(image.ownername)}</p>`.replace(/\n/g, '');
   }
   return '';
 }
