@@ -17,7 +17,7 @@ const config = {
       title: '###name###',
       image: '',
       tweet_id: '###tweet_id###',
-      description: '<p>###book### ###page### ###special###</p>###twitter### ###flickr###',
+      description: '<p>###book### ###page### ###special### ###address###</p>###twitter### ###flickr###',
       location: {
         center: [###coordinates###],
         zoom: 14,
