@@ -127,25 +127,6 @@ const transformRequest = (url) => {
   };
 };
 
-const reverseGeocodeContent = async (latlon) => {
-  try {
-    const geocorder = mapboxClient.geocoding;
-    const response = await geocorder
-      .reverseGeocode({
-        query: latlon,
-        countries: ['JP'],
-      })
-      .send();
-    if (response && response.body && response.body.features && response.body.features.length) {
-      return response.body.features[0].place_name;
-    }
-    return '';
-  } catch (e) {
-    console.log(e);
-    throw e;
-  }
-};
-
 document.getElementsByTagName('title')[0].innerText = `${config.title} | ${config.byline}`;
 var map = new mapboxgl.Map({
   container: 'map',
@@ -184,12 +165,6 @@ map.on('load', () => {
 
     (async () => {
       const parent = document.getElementById(record.id);
-      const place = await reverseGeocodeContent(record.location.center);
-      if (place) {
-        const content = document.createElement('p');
-        content.innerText = place;
-        parent.firstChild.appendChild(content);
-      }
 
       if (Object.prototype.hasOwnProperty.call(record, 'tweet_id') && record.tweet_id) {
         const tid = record.tweet_id;
