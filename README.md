@@ -51,9 +51,15 @@ Node.js（バージョン12以降推奨）が必要です。
 - [ざつ旅-That's Journey-](https://store.kadokawa.co.jp/shop/b/bM1394_dD/) Copyright (c) 石坂 ケンタ, KADOKAWA, 電撃マオウ
 - [ざつ旅マップ](https://t.co/Y8vwKzd1xD) by [ホ​ーリー提督 @Holly_carp_10](https://twitter.com/Holly_carp_10/status/1315987383695728642)
 - [mapbox/storytelling](https://github.com/mapbox/storytelling) Copyright (c) 2019, Mapbox All rights reserved.
+- [農研機構](https://aginfo.cgk.affrc.go.jp/) ※[簡易逆ジオコーディングサービス](https://aginfo.cgk.affrc.go.jp/rgeocode/index.html.ja) の出力結果を加工して利用しています
+
 
 当サイトで掲載しているコンテンツ（画像やツイート、等）には、他者が所有しているものが含まれます。それらは、それぞれの権利保有者のものです。
 当サイトでは、「引用」の範囲内であることを意図して、利用しております。
 
 著作権や肖像権の侵害を目的としたものではありません。著作権や肖像権に関して問題がございましたら、ご連絡ください。迅速に対応いたします。
-ご連絡には、当GitHubリポジトリーの「Issues」、「Discussions」、または私（isnot）個人宛（TwitterのDM等）をご利用ください。
+ご連絡には、当GitHubリポジトリの「Issues」、「Discussions」、または私（isnot）個人宛（TwitterのDM等）をご利用ください。
+
+当サイトは、当該サービスを無保証で提供しており、当該サービスが原因で発生した損害等について、補償等は一切おこないません。
+当サイトは、当該サービスを原因とする不具合があった場合でも、成果物に関する直接的なサポートを行いません。
+当サイトのコンテンツは、予告なく変更、移転、削除等が行われることがあります。
