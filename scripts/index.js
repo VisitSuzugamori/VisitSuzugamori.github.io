@@ -6,6 +6,9 @@ const { DOMParser } = require('xmldom');
 const VistSuzugamori = require('../docs/VisitSuzugamori.json');
 const { TwitterApi } = require('./twitter.js');
 const { FlickrApi } = require('./flickr.js');
+const { AginfoApi } = require('./aginfo.js');
+const u = require('./common.js');
+// eslint-disable-next-line node/no-unpublished-require
 const secret = require('../my_secret.json');
 
 const kmlPath = path.normalize('zatsumap.kml');
@@ -27,6 +30,8 @@ const flickr = new FlickrApi({
   flickr_key: secret.flickr.flickr_key,
 });
 
+const revGeoCoder = new AginfoApi();
+
 (async () => {
   try {
     const rawContent = await read_kml_file(kmlPath);
@@ -37,13 +42,14 @@ const flickr = new FlickrApi({
 
     for (const sIndex of Array.from(byStory.keys()).filter((x) => x !== 'special')) {
       let jData = {};
-      if (Object.prototype.hasOwnProperty.call(VistSuzugamori.stories, `TJ${sIndex}`)) {
+      if (u.hasProperty(VistSuzugamori.stories, `TJ${sIndex}`)) {
         jData = VistSuzugamori.stories[`TJ${sIndex}`];
       }
       const sData = byStory.get(sIndex);
       await writeHtml(sIndex);
       await writeConfig(sIndex, sData, jData);
       await writeCsv(sIndex, sData);
+      await u.simple_wait_sec(1);
     }
     await writeCsv('others', byStory.get('special'));
   } catch (e) {
@@ -179,25 +185,50 @@ async function writeConfig(journey, s, j) {
       additional_keyword: point.get('name'),
       search_type: 'search_recent',
     });
-    const tweetContainer = tweet_id ? `<div class="tweetContainer" id="tweet${tweet_id}"></div>` : '';
-    const flickrContent = tweet_id ? '' : await flickr.getContentHtml(coordinates);
+    const tweetContainer = getTweetContainerHtml(tweet_id);
+    const flickrContent = tweet_id ? '' : await getFlickrContentHtml(coordinates);
     console.debug('create config:', coordinates, tweet_id, flickrContent);
     const xbook = point.get('book') ? `${point.get('book')}巻` : '';
     const xpage = point.get('page') ? `P${point.get('page')}` : '';
+    let address = '';
+    try {
+      address = await revGeoCoder.getAdress(coordinates);
+    } catch (e) {
+      console.debug(e);
+    }
     let part2_item = `${part2_source}\n`;
     part2 += part2_item
-      .replace(/###journey###/g, journey)
-      .replace(/###book###/g, xbook)
-      .replace(/###page###/g, xpage)
-      .replace(/###name###/g, point.get('name'))
-      .replace(/###special###/g, point.get('special'))
-      .replace(/###tweet_id###/g, tweet_id ? tweet_id : '')
+      .replace(/###journey###/g, u.replaceCharactorEntity4Html(journey))
+      .replace(/###book###/g, u.replaceCharactorEntity4Html(xbook))
+      .replace(/###page###/g, u.replaceCharactorEntity4Html(xpage))
+      .replace(/###name###/g, u.replaceCharactorEntity4Html(point.get('name')))
+      .replace(/###special###/g, u.replaceCharactorEntity4Html(point.get('special')))
+      .replace(/###tweet_id###/g, tweet_id ? u.replaceCharactorEntity4Html(tweet_id) : '')
       .replace(/###twitter###/g, tweetContainer)
       .replace(/###flickr###/g, flickrContent)
+      .replace(/###address###/g, u.replaceCharactorEntity4Html(address))
       .replace(/###coordinates###/g, coordinates.join(', '));
   }
   const content = part1 + part2 + cft[3];
   const dirname = `docs/TJ${journey}`;
   await makeDir(dirname);
   await fs.writeFile(path.normalize(`${dirname}/config.js`), content);
+}
+
+function getTweetContainerHtml(tweet_id) {
+  if (typeof tweet_id === 'string') {
+    return `<div class="tweetContainer" id="tweet${u.replaceCharactorEntity4Html(tweet_id)}"></div>`;
+  }
+  return '';
+}
+
+async function getFlickrContentHtml(latlon) {
+  const image = await flickr.flickrImage(latlon).catch(console.log);
+  if (image) {
+    const searchUrl = u.replaceCharactorEntity4Html(flickr.getSearchUrl(latlon));
+    return `<p><img src="${u.replaceCharactorEntity4Html(image.url)}"></p>
+<p>photo from <a rel="noopener" href="${searchUrl}">Flickr</a>
+  【${u.replaceCharactorEntity4Html(image.title)}】 by ${u.replaceCharactorEntity4Html(image.ownername)}</p>`;
+  }
+  return '';
 }
