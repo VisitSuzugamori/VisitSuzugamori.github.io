@@ -65,6 +65,8 @@ class Common {
       '<': '&lt;',
       '>': '&gt;',
       '&': '&amp;',
+      '"': '&quot;',
+      '\'': '&#39;', // eslint-disable-line prettier/prettier
       // '*' : '&#42;',
       // '_' : '&#95;',
     };
