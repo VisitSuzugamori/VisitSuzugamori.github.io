@@ -37,9 +37,7 @@ const config = {
       title: '滝駅',
       image: '',
       tweet_id: '',
-      description: '<p>2巻 P47  栃木県那須烏山市 滝233</p> <p><img src="https://live.staticflickr.com/7535/15160898733_06a3b2cacb_z.jpg"></p>
-<p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=36.6485846&amp;lon=140.1381941&amp;radius=0.25&amp;has_geo=1&amp;view_all=1">Flickr</a>
-  【アキュムに遭遇♪　烏山線】 by rie3phs</p>',
+      description: '<p>2巻 P47  栃木県那須烏山市 滝233</p> <p><img src="https://live.staticflickr.com/7535/15160898733_06a3b2cacb_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=36.6485846&amp;lon=140.1381941&amp;radius=0.25&amp;has_geo=1&amp;view_all=1">Flickr</a>  【アキュムに遭遇♪　烏山線】 by rie3phs</p>',
       location: {
         center: [140.1381941, 36.6485846],
         zoom: 14,
@@ -59,9 +57,7 @@ const config = {
       title: '龍門の滝',
       image: '',
       tweet_id: '',
-      description: '<p>2巻 P49  栃木県那須烏山市 滝20</p> <p><img src="https://live.staticflickr.com/1787/42202655254_803d0b147f_z.jpg"></p>
-<p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=36.6455986&amp;lon=140.1398144&amp;radius=0.25&amp;has_geo=1&amp;view_all=1">Flickr</a>
-  【龍門の滝】 by cyberwonk</p>',
+      description: '<p>2巻 P49  栃木県那須烏山市 滝20</p> <p><img src="https://live.staticflickr.com/1787/42202655254_803d0b147f_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=36.6455986&amp;lon=140.1398144&amp;radius=0.25&amp;has_geo=1&amp;view_all=1">Flickr</a>  【龍門の滝】 by cyberwonk</p>',
       location: {
         center: [140.1398144, 36.6455986],
         zoom: 14,
@@ -81,9 +77,7 @@ const config = {
       title: '那須烏山市 龍門ふるさと民芸館',
       image: '',
       tweet_id: '',
-      description: '<p>2巻 P50  栃木県那須烏山市 滝20</p> <p><img src="https://live.staticflickr.com/1787/42202655254_803d0b147f_z.jpg"></p>
-<p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=36.6455502&amp;lon=140.1389247&amp;radius=0.25&amp;has_geo=1&amp;view_all=1">Flickr</a>
-  【龍門の滝】 by cyberwonk</p>',
+      description: '<p>2巻 P50  栃木県那須烏山市 滝20</p> <p><img src="https://live.staticflickr.com/1787/42202655254_803d0b147f_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=36.6455502&amp;lon=140.1389247&amp;radius=0.25&amp;has_geo=1&amp;view_all=1">Flickr</a>  【龍門の滝】 by cyberwonk</p>',
       location: {
         center: [140.1389247, 36.6455502],
         zoom: 14,
@@ -103,9 +97,7 @@ const config = {
       title: 'どうくつ酒造（島崎酒造）',
       image: '',
       tweet_id: '',
-      description: '<p>2巻 P52  栃木県那須烏山市 神長140</p> <p><img src="https://live.staticflickr.com/1804/28052450337_c891472214_z.jpg"></p>
-<p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=36.65687&amp;lon=140.1381&amp;radius=0.25&amp;has_geo=1&amp;view_all=1">Flickr</a>
-  【The 県境・鷲子山上神社】 by cyberwonk</p>',
+      description: '<p>2巻 P52  栃木県那須烏山市 神長140</p> <p><img src="https://live.staticflickr.com/1804/28052450337_c891472214_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=36.65687&amp;lon=140.1381&amp;radius=0.25&amp;has_geo=1&amp;view_all=1">Flickr</a>  【The 県境・鷲子山上神社】 by cyberwonk</p>',
       location: {
         center: [140.1381, 36.65687],
         zoom: 14,
@@ -145,9 +137,7 @@ const config = {
       title: '(株)島崎酒造',
       image: '',
       tweet_id: '',
-      description: '<p>2巻 P58  栃木県那須烏山市 中央二丁目1</p> <p><img src="https://live.staticflickr.com/4814/44985821574_86d5da260f_z.jpg"></p>
-<p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=36.6557618&amp;lon=140.1536827&amp;radius=0.25&amp;has_geo=1&amp;view_all=1">Flickr</a>
-  【栃木県那須烏山市（旧烏山町）】 by hiro.dir</p>',
+      description: '<p>2巻 P58  栃木県那須烏山市 中央二丁目1</p> <p><img src="https://live.staticflickr.com/4814/44985821574_86d5da260f_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=36.6557618&amp;lon=140.1536827&amp;radius=0.25&amp;has_geo=1&amp;view_all=1">Flickr</a>  【栃木県那須烏山市（旧烏山町）】 by hiro.dir</p>',
       location: {
         center: [140.1536827, 36.6557618],
         zoom: 14,
@@ -187,9 +177,7 @@ const config = {
       title: '久穂田烏山駅前旅館',
       image: '',
       tweet_id: '',
-      description: '<p>2巻 P59  栃木県那須烏山市 金井二丁目21</p> <p><img src="https://live.staticflickr.com/3798/32769801943_d6fcc95e44_z.jpg"></p>
-<p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=36.6509415&amp;lon=140.1539749&amp;radius=0.25&amp;has_geo=1&amp;view_all=1">Flickr</a>
-  【いぃぶいいぃ～( ´∀｀)】 by fox_kawai</p>',
+      description: '<p>2巻 P59  栃木県那須烏山市 金井二丁目21</p> <p><img src="https://live.staticflickr.com/3798/32769801943_d6fcc95e44_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=36.6509415&amp;lon=140.1539749&amp;radius=0.25&amp;has_geo=1&amp;view_all=1">Flickr</a>  【いぃぶいいぃ～( ´∀｀)】 by fox_kawai</p>',
       location: {
         center: [140.1539749, 36.6509415],
         zoom: 14,

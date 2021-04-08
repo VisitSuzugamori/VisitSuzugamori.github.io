@@ -16,8 +16,8 @@ const config = {
       hidden: false,
       title: '東京駅',
       image: '',
-      tweet_id: '1380069906381606912',
-      description: '<p>1巻 P126  東京都千代田区 丸の内一丁目9</p><div class="tweetContainer" id="tweet1380069906381606912"></div> ',
+      tweet_id: '1380095369305071618',
+      description: '<p>1巻 P126  東京都千代田区 丸の内一丁目9</p><div class="tweetContainer" id="tweet1380095369305071618"></div> ',
       location: {
         center: [139.7671248, 35.6812362],
         zoom: 14,
@@ -97,9 +97,7 @@ const config = {
       title: '八栗駅',
       image: '',
       tweet_id: '',
-      description: '<p>1巻 P134  香川県高松市 牟礼町牟礼2210</p> <p><img src="https://live.staticflickr.com/715/21694861128_40dc0f9dc7_z.jpg"></p>
-<p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.3446375&amp;lon=134.122008&amp;radius=0.25&amp;has_geo=1&amp;view_all=1">Flickr</a>
-  【帰り道の電車】 by 風の色写真館（讃岐東部の写真集）</p>',
+      description: '<p>1巻 P134  香川県高松市 牟礼町牟礼2210</p> <p><img src="https://live.staticflickr.com/715/21694861128_40dc0f9dc7_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.3446375&amp;lon=134.122008&amp;radius=0.25&amp;has_geo=1&amp;view_all=1">Flickr</a>  【帰り道の電車】 by 風の色写真館（讃岐東部の写真集）</p>',
       location: {
         center: [134.122008, 34.3446375],
         zoom: 14,
@@ -119,9 +117,7 @@ const config = {
       title: '総門跡',
       image: '',
       tweet_id: '',
-      description: '<p>1巻 P134  香川県高松市 牟礼町牟礼2418</p> <p><img src="https://live.staticflickr.com/715/21694861128_40dc0f9dc7_z.jpg"></p>
-<p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.345598&amp;lon=134.1223194&amp;radius=0.25&amp;has_geo=1&amp;view_all=1">Flickr</a>
-  【帰り道の電車】 by 風の色写真館（讃岐東部の写真集）</p>',
+      description: '<p>1巻 P134  香川県高松市 牟礼町牟礼2418</p> <p><img src="https://live.staticflickr.com/715/21694861128_40dc0f9dc7_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.345598&amp;lon=134.1223194&amp;radius=0.25&amp;has_geo=1&amp;view_all=1">Flickr</a>  【帰り道の電車】 by 風の色写真館（讃岐東部の写真集）</p>',
       location: {
         center: [134.1223194, 34.345598],
         zoom: 14,
@@ -141,9 +137,7 @@ const config = {
       title: 'うどん本陣 山田家',
       image: '',
       tweet_id: '',
-      description: '<p>1巻 P134  香川県高松市 牟礼町牟礼3128</p> <p><img src="https://live.staticflickr.com/4255/34955050654_c2890fa7b5_z.jpg"></p>
-<p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.3532536&amp;lon=134.1296254&amp;radius=0.25&amp;has_geo=1&amp;view_all=1">Flickr</a>
-  【IMG_2385】 by ponareon</p>',
+      description: '<p>1巻 P134  香川県高松市 牟礼町牟礼3128</p> <p><img src="https://live.staticflickr.com/4255/34955050654_c2890fa7b5_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.3532536&amp;lon=134.1296254&amp;radius=0.25&amp;has_geo=1&amp;view_all=1">Flickr</a>  【IMG_2385】 by ponareon</p>',
       location: {
         center: [134.1296254, 34.3532536],
         zoom: 14,
@@ -163,9 +157,7 @@ const config = {
       title: '八栗ケーブル',
       image: '',
       tweet_id: '',
-      description: '<p>1巻 P142  香川県高松市 牟礼町牟礼3369</p> <p><img src="https://live.staticflickr.com/7487/15959108478_eb246c9b6e_z.jpg"></p>
-<p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.3551328&amp;lon=134.1336543&amp;radius=0.25&amp;has_geo=1&amp;view_all=1">Flickr</a>
-  【Yakuri Temple, Takamatsu 2014】 by shinji_w</p>',
+      description: '<p>1巻 P142  香川県高松市 牟礼町牟礼3369</p> <p><img src="https://live.staticflickr.com/7487/15959108478_eb246c9b6e_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.3551328&amp;lon=134.1336543&amp;radius=0.25&amp;has_geo=1&amp;view_all=1">Flickr</a>  【Yakuri Temple, Takamatsu 2014】 by shinji_w</p>',
       location: {
         center: [134.1336543, 34.3551328],
         zoom: 14,
@@ -205,9 +197,7 @@ const config = {
       title: 'ルピナス',
       image: '',
       tweet_id: '',
-      description: '<p>1巻 P148  香川県高松市 西の丸町6</p> <p><img src="https://live.staticflickr.com/65535/51070633261_4902c0fd3e_z.jpg"></p>
-<p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.3497929&amp;lon=134.0469322&amp;radius=0.25&amp;has_geo=1&amp;view_all=1">Flickr</a>
-  【610_8902 (2)】 by Lox Pix</p>',
+      description: '<p>1巻 P148  香川県高松市 西の丸町6</p> <p><img src="https://live.staticflickr.com/65535/51070633261_4902c0fd3e_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.3497929&amp;lon=134.0469322&amp;radius=0.25&amp;has_geo=1&amp;view_all=1">Flickr</a>  【610_8902 (2)】 by Lox Pix</p>',
       location: {
         center: [134.0469322, 34.3497929],
         zoom: 14,

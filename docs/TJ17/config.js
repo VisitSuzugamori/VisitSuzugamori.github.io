@@ -17,9 +17,7 @@ const config = {
       title: '東京駅',
       image: '',
       tweet_id: '',
-      description: '<p>   東京都千代田区 丸の内一丁目9</p> <p><img src="https://live.staticflickr.com/65535/51100623254_fb1c446249_z.jpg"></p>
-<p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.6812362&amp;lon=139.7671248&amp;radius=0.25&amp;has_geo=1&amp;view_all=1">Flickr</a>
-  【DSC09447】 by Yasuko_</p>',
+      description: '<p>   東京都千代田区 丸の内一丁目9</p> <p><img src="https://live.staticflickr.com/65535/51100623254_fb1c446249_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.6812362&amp;lon=139.7671248&amp;radius=0.25&amp;has_geo=1&amp;view_all=1">Flickr</a>  【DSC09447】 by Yasuko_</p>',
       location: {
         center: [139.7671248, 35.6812362],
         zoom: 14,
@@ -59,9 +57,7 @@ const config = {
       title: 'バジェット･レンタカー 小倉駅前店',
       image: '',
       tweet_id: '',
-      description: '<p>   福岡県北九州市 小倉北区 浅野二丁目14</p> <p><img src="https://live.staticflickr.com/65535/49929555212_ffa5fc2ede_z.jpg"></p>
-<p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=33.887012&amp;lon=130.884924&amp;radius=0.25&amp;has_geo=1&amp;view_all=1">Flickr</a>
-  【Fukuoka 2017】 by Propangas</p>',
+      description: '<p>   福岡県北九州市 小倉北区 浅野二丁目14</p> <p><img src="https://live.staticflickr.com/65535/49929555212_ffa5fc2ede_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=33.887012&amp;lon=130.884924&amp;radius=0.25&amp;has_geo=1&amp;view_all=1">Flickr</a>  【Fukuoka 2017】 by Propangas</p>',
       location: {
         center: [130.884924, 33.887012],
         zoom: 14,
@@ -101,9 +97,7 @@ const config = {
       title: '青の洞門',
       image: '',
       tweet_id: '',
-      description: '<p>   大分県中津市 本耶馬渓町樋田</p> <p><img src="https://live.staticflickr.com/65535/49256380933_28a3515052_z.jpg"></p>
-<p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=33.5001247&amp;lon=131.1717971&amp;radius=0.25&amp;has_geo=1&amp;view_all=1">Flickr</a>
-  【20191121_Kyushu_220】 by jinmsk</p>',
+      description: '<p>   大分県中津市 本耶馬渓町樋田</p> <p><img src="https://live.staticflickr.com/65535/49256380933_28a3515052_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=33.5001247&amp;lon=131.1717971&amp;radius=0.25&amp;has_geo=1&amp;view_all=1">Flickr</a>  【20191121_Kyushu_220】 by jinmsk</p>',
       location: {
         center: [131.1717971, 33.5001247],
         zoom: 14,
@@ -223,9 +217,7 @@ const config = {
       title: '両子寺 仁王',
       image: '',
       tweet_id: '',
-      description: '<p>   大分県国東市 </p> <p><img src="https://live.staticflickr.com/65535/48987862457_2e0f076ab0_z.jpg"></p>
-<p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=33.5728799&amp;lon=131.6046218&amp;radius=0.25&amp;has_geo=1&amp;view_all=1">Flickr</a>
-  【8008 Kunisaki-04.jpg】 by Bruce Batten</p>',
+      description: '<p>   大分県国東市 </p> <p><img src="https://live.staticflickr.com/65535/48987862457_2e0f076ab0_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=33.5728799&amp;lon=131.6046218&amp;radius=0.25&amp;has_geo=1&amp;view_all=1">Flickr</a>  【8008 Kunisaki-04.jpg】 by Bruce Batten</p>',
       location: {
         center: [131.6046218, 33.5728799],
         zoom: 14,
@@ -245,9 +237,7 @@ const config = {
       title: '両子寺',
       image: '',
       tweet_id: '',
-      description: '<p>   大分県国東市 </p> <p><img src="https://live.staticflickr.com/4533/38279324851_01819ca4e0_z.jpg"></p>
-<p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=33.5740013&amp;lon=131.603241&amp;radius=0.25&amp;has_geo=1&amp;view_all=1">Flickr</a>
-  【Futago-ji Temple】 by K.G.23</p>',
+      description: '<p>   大分県国東市 </p> <p><img src="https://live.staticflickr.com/4533/38279324851_01819ca4e0_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=33.5740013&amp;lon=131.603241&amp;radius=0.25&amp;has_geo=1&amp;view_all=1">Flickr</a>  【Futago-ji Temple】 by K.G.23</p>',
       location: {
         center: [131.603241, 33.5740013],
         zoom: 14,
@@ -267,9 +257,7 @@ const config = {
       title: 'USA（宇佐）神宮',
       image: '',
       tweet_id: '',
-      description: '<p>   大分県宇佐市 南宇佐2859</p> <p><img src="https://live.staticflickr.com/4813/45988001031_1ba6262ca1_z.jpg"></p>
-<p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=33.5260019&amp;lon=131.3746381&amp;radius=0.25&amp;has_geo=1&amp;view_all=1">Flickr</a>
-  【Usa Jingū Torii】 by Martin Smith - Having the Time of my Life</p>',
+      description: '<p>   大分県宇佐市 南宇佐2859</p> <p><img src="https://live.staticflickr.com/4813/45988001031_1ba6262ca1_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=33.5260019&amp;lon=131.3746381&amp;radius=0.25&amp;has_geo=1&amp;view_all=1">Flickr</a>  【Usa Jingū Torii】 by Martin Smith - Having the Time of my Life</p>',
       location: {
         center: [131.3746381, 33.5260019],
         zoom: 14,
