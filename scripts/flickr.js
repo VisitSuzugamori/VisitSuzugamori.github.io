@@ -27,13 +27,8 @@ class FlickrApi {
     return undefined;
   }
 
-  async getContentHtml(latlon) {
-    const image = await this.flickrImage(latlon).catch(console.log);
-    if (image) {
-      const searchUrl = `https://www.flickr.com/search/?lat=${latlon[1]}&lon=${latlon[0]}&radius=${this.radius}&has_geo=1&view_all=1`;
-      return `<p><img src="${image.url}"></p><p>photo from <a rel="noopener" href="${searchUrl}">Flickr</a>【${image.title}】 by ${image.ownername}</p>`;
-    }
-    return '';
+  getSearchUrl(latlon) {
+    return `https://www.flickr.com/search/?lat=${latlon[1]}&lon=${latlon[0]}&radius=${this.radius}&has_geo=1&view_all=1`;
   }
 }
 
