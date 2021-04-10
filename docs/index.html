@@ -29,6 +29,10 @@
       text-shadow: 2px 2px 0 #eeeeee, 2px -2px 0 #eeeeee, -2px 2px 0 #eeeeee, -2px -2px 0 #eeeeee;
   }
   header h1 .lead { font-size: 60%; }
+  header h1 .lead::before {
+	content: "\A";
+	white-space: pre;
+  }
   .article ul, .ref, .about {
       opacity: 0.7;
       background-color: white;
@@ -71,7 +75,7 @@
   <div id="container">
     <header class="article-header">
       <h1>VisitSuzugamori
-        <p class="lead">〜ざつ旅を辿る〜</p>
+        <span class="lead">〜ざつ旅を辿る〜</span>
       </h1>
     </header>
     <div class="article">
