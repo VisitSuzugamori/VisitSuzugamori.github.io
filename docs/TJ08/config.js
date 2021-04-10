@@ -8,7 +8,7 @@ const config = {
   title: '第8旅 伊勢',
   subtitle: '【伊勢】神様と出会える街？',
   byline: 'VisitSuzugamori 〜ざつ旅を辿る〜',
-  footer: '<p class="navi"><a href="/">🔝各話一覧へ</a> <a href="https://github.com/VisitSuzugamori/VisitSuzugamori.github.io">💬contact</a></p><p>原作：<a href="https://store.kadokawa.co.jp/shop/b/bM1394_dD/">ざつ旅-That&#39;s Journey-</a> (c) 石坂 ケンタ, KADOKAWA, 電撃マオウ / 地図・テンプレート：<a href="https://github.com/mapbox/storytelling">Mapbox</a> / 地図作成：VisitSuzugamori, <a href="https://twitter.com/isnot49662340">isnot</a>',
+  footer: '<p class="navi"><a href="/">🔝各話一覧へ</a> <a href="https://github.com/VisitSuzugamori/VisitSuzugamori.github.io">💬contact</a></p><p>原作：<a href="https://store.kadokawa.co.jp/shop/b/bM1394_dD/">ざつ旅-That&#39;s Journey-</a> &copy; 石坂 ケンタ, KADOKAWA, 電撃マオウ / 地図・テンプレート：<a href="https://github.com/mapbox/storytelling">Mapbox</a> / 地図作成：VisitSuzugamori, <a href="https://twitter.com/isnot49662340">isnot</a>',
   chapters: [
     {
       id: '2巻-P96,97-白子漁港',
@@ -56,8 +56,8 @@ const config = {
       hidden: false,
       title: '伊勢市駅',
       image: '',
-      tweet_id: '',
-      description: '<p>2巻 P100  三重県伊勢市 吹上一丁目1</p> <p><img alt="ise221" src="https://live.staticflickr.com/65535/50833835048_d180420235_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.4910554&amp;lon=136.7097004&amp;radius=0.25&amp;has_geo=1&amp;view_all=1">Flickr</a>【ise221】 by tanayan</p>',
+      tweet_id: '1380331165291274240',
+      description: '<p>2巻 P100  三重県伊勢市 吹上一丁目1</p><div class="tweetContainer" id="tweet1380331165291274240"></div> ',
       location: {
         center: [136.7097004, 34.4910554],
         zoom: 14,
@@ -136,8 +136,8 @@ const config = {
       hidden: false,
       title: '伊勢神宮',
       image: '',
-      tweet_id: '1380078208993816578',
-      description: '<p>2巻 P108  三重県伊勢市 宇治館町98</p><div class="tweetContainer" id="tweet1380078208993816578"></div> ',
+      tweet_id: '1380867860604485635',
+      description: '<p>2巻 P108  三重県伊勢市 宇治館町98</p><div class="tweetContainer" id="tweet1380867860604485635"></div> ',
       location: {
         center: [136.725793, 34.45501],
         zoom: 14,
@@ -157,7 +157,7 @@ const config = {
       title: '赤福 内宮前支店',
       image: '',
       tweet_id: '',
-      description: '<p>2巻 P109  三重県伊勢市 宇治今在家町64</p> <p><img alt="ise_20200926135427" src="https://live.staticflickr.com/65535/50843293533_c93a0afa9f_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.4595551&amp;lon=136.7230903&amp;radius=0.25&amp;has_geo=1&amp;view_all=1">Flickr</a>【ise_20200926135427】 by inunami</p>',
+      description: '<p>2巻 P109  三重県伊勢市 宇治今在家町64</p> <p><img alt="20201105 Mie 1" src="https://live.staticflickr.com/65535/50644589941_db6e00d746_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.4595551&amp;lon=136.7230903&amp;radius=0.25&amp;has_geo=1&amp;view_all=1">Flickr</a>【20201105 Mie 1】 by BONGURI</p>',
       location: {
         center: [136.7230903, 34.4595551],
         zoom: 14,
@@ -217,7 +217,7 @@ const config = {
       title: '海月',
       image: '',
       tweet_id: '',
-      description: '<p>2巻 P111  三重県鳥羽市 鳥羽一丁目6</p> <p><img alt="IMG_0153" src="https://live.staticflickr.com/4813/47025883411_c9260089dc_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.4847431&amp;lon=136.8439619&amp;radius=0.25&amp;has_geo=1&amp;view_all=1">Flickr</a>【IMG_0153】 by masa.nagano</p>',
+      description: '<p>2巻 P111  三重県鳥羽市 鳥羽一丁目6</p> <p><img alt="20180120-DSCF7699.jpg" src="https://live.staticflickr.com/4650/39799401652_310d5dc803_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.4847431&amp;lon=136.8439619&amp;radius=0.25&amp;has_geo=1&amp;view_all=1">Flickr</a>【20180120-DSCF7699.jpg】 by kato_masashi</p>',
       location: {
         center: [136.8439619, 34.4847431],
         zoom: 14,
@@ -256,8 +256,8 @@ const config = {
       hidden: false,
       title: '夫婦岩',
       image: '',
-      tweet_id: '1379678170194923522',
-      description: '<p>2巻 P121  三重県伊勢市 二見町茶屋562</p><div class="tweetContainer" id="tweet1379678170194923522"></div> ',
+      tweet_id: '1380738095876730881',
+      description: '<p>2巻 P121  三重県伊勢市 二見町茶屋562</p><div class="tweetContainer" id="tweet1380738095876730881"></div> ',
       location: {
         center: [136.7883283, 34.5092993],
         zoom: 14,

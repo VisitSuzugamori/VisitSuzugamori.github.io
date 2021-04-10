@@ -8,7 +8,7 @@ const config = {
   title: '第5旅 京都',
   subtitle: '【京都】ふ、ばいざしー',
   byline: 'VisitSuzugamori 〜ざつ旅を辿る〜',
-  footer: '<p class="navi"><a href="/">🔝各話一覧へ</a> <a href="https://github.com/VisitSuzugamori/VisitSuzugamori.github.io">💬contact</a></p><p>原作：<a href="https://store.kadokawa.co.jp/shop/b/bM1394_dD/">ざつ旅-That&#39;s Journey-</a> (c) 石坂 ケンタ, KADOKAWA, 電撃マオウ / 地図・テンプレート：<a href="https://github.com/mapbox/storytelling">Mapbox</a> / 地図作成：VisitSuzugamori, <a href="https://twitter.com/isnot49662340">isnot</a>',
+  footer: '<p class="navi"><a href="/">🔝各話一覧へ</a> <a href="https://github.com/VisitSuzugamori/VisitSuzugamori.github.io">💬contact</a></p><p>原作：<a href="https://store.kadokawa.co.jp/shop/b/bM1394_dD/">ざつ旅-That&#39;s Journey-</a> &copy; 石坂 ケンタ, KADOKAWA, 電撃マオウ / 地図・テンプレート：<a href="https://github.com/mapbox/storytelling">Mapbox</a> / 地図作成：VisitSuzugamori, <a href="https://twitter.com/isnot49662340">isnot</a>',
   chapters: [
     {
       id: '2巻-P3-伏見稲荷大社',
@@ -36,8 +36,8 @@ const config = {
       hidden: false,
       title: '京都駅',
       image: '',
-      tweet_id: '1379997498064871425',
-      description: '<p>2巻 P6  京都府京都市 下京区 東塩小路町676</p><div class="tweetContainer" id="tweet1379997498064871425"></div> ',
+      tweet_id: '1380871814910410762',
+      description: '<p>2巻 P6  京都府京都市 下京区 東塩小路町676</p><div class="tweetContainer" id="tweet1380871814910410762"></div> ',
       location: {
         center: [135.7587667, 34.985849],
         zoom: 14,
@@ -116,8 +116,8 @@ const config = {
       hidden: false,
       title: '伏見稲荷駅',
       image: '',
-      tweet_id: '1377793668921315328',
-      description: '<p>2巻 P18  京都府京都市 伏見区 深草一ノ坪町20</p><div class="tweetContainer" id="tweet1377793668921315328"></div> ',
+      tweet_id: '',
+      description: '<p>2巻 P18  京都府京都市 伏見区 深草一ノ坪町20</p> <p><img alt="Japan" src="https://live.staticflickr.com/65535/50900434912_3d01754f76_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.9687541&amp;lon=135.7692088&amp;radius=0.25&amp;has_geo=1&amp;view_all=1">Flickr</a>【Japan】 by Lamtom</p>',
       location: {
         center: [135.7692088, 34.9687541],
         zoom: 14,
@@ -136,8 +136,8 @@ const config = {
       hidden: false,
       title: '宮津駅',
       image: '',
-      tweet_id: '',
-      description: '<p>2巻 P21  京都府宮津市 字鶴賀2099</p> <p><img alt="IMG_0081" src="https://live.staticflickr.com/65535/50596054398_dbc410df09_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.5344188&amp;lon=135.1997513&amp;radius=0.25&amp;has_geo=1&amp;view_all=1">Flickr</a>【IMG_0081】 by bluegreen405</p>',
+      tweet_id: '1380648673516867594',
+      description: '<p>2巻 P21  京都府宮津市 字鶴賀2099</p><div class="tweetContainer" id="tweet1380648673516867594"></div> ',
       location: {
         center: [135.1997513, 35.5344188],
         zoom: 14,
@@ -157,7 +157,7 @@ const config = {
       title: '富田屋',
       image: '',
       tweet_id: '',
-      description: '<p>2巻 P22  京都府宮津市 字鶴賀2066</p> <p><img alt="IMG_0081" src="https://live.staticflickr.com/65535/50596054398_dbc410df09_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.534848&amp;lon=135.1992613&amp;radius=0.25&amp;has_geo=1&amp;view_all=1">Flickr</a>【IMG_0081】 by bluegreen405</p>',
+      description: '<p>2巻 P22  京都府宮津市 字鶴賀2066</p> <p><img alt="IMG_20191022_112259" src="https://live.staticflickr.com/65535/49136451437_e0800f574b_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.534848&amp;lon=135.1992613&amp;radius=0.25&amp;has_geo=1&amp;view_all=1">Flickr</a>【IMG_20191022_112259】 by balduran98</p>',
       location: {
         center: [135.1992613, 35.534848],
         zoom: 14,
@@ -216,8 +216,8 @@ const config = {
       hidden: false,
       title: '天橋立ビューランド',
       image: '',
-      tweet_id: '1379988814681153536',
-      description: '<p>2巻 P32  京都府宮津市 文珠1</p><div class="tweetContainer" id="tweet1379988814681153536"></div> ',
+      tweet_id: '1380760060247355392',
+      description: '<p>2巻 P32  京都府宮津市 文珠1</p><div class="tweetContainer" id="tweet1380760060247355392"></div> ',
       location: {
         center: [135.1821171, 35.5527779],
         zoom: 14,
@@ -236,8 +236,8 @@ const config = {
       hidden: false,
       title: '天橋立',
       image: '',
-      tweet_id: '1378596651795836929',
-      description: '<p>2巻 P35  京都府宮津市 字江尻927</p><div class="tweetContainer" id="tweet1378596651795836929"></div> ',
+      tweet_id: '1380765727611887619',
+      description: '<p>2巻 P35  京都府宮津市 字江尻927</p><div class="tweetContainer" id="tweet1380765727611887619"></div> ',
       location: {
         center: [135.1918204, 35.5698022],
         zoom: 14,

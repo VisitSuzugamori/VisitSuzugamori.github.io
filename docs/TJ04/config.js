@@ -8,7 +8,7 @@ const config = {
   title: '第4旅 高松',
   subtitle: '【高松】そのままのコシで',
   byline: 'VisitSuzugamori 〜ざつ旅を辿る〜',
-  footer: '<p class="navi"><a href="/">🔝各話一覧へ</a> <a href="https://github.com/VisitSuzugamori/VisitSuzugamori.github.io">💬contact</a></p><p>原作：<a href="https://store.kadokawa.co.jp/shop/b/bM1394_dD/">ざつ旅-That&#39;s Journey-</a> (c) 石坂 ケンタ, KADOKAWA, 電撃マオウ / 地図・テンプレート：<a href="https://github.com/mapbox/storytelling">Mapbox</a> / 地図作成：VisitSuzugamori, <a href="https://twitter.com/isnot49662340">isnot</a>',
+  footer: '<p class="navi"><a href="/">🔝各話一覧へ</a> <a href="https://github.com/VisitSuzugamori/VisitSuzugamori.github.io">💬contact</a></p><p>原作：<a href="https://store.kadokawa.co.jp/shop/b/bM1394_dD/">ざつ旅-That&#39;s Journey-</a> &copy; 石坂 ケンタ, KADOKAWA, 電撃マオウ / 地図・テンプレート：<a href="https://github.com/mapbox/storytelling">Mapbox</a> / 地図作成：VisitSuzugamori, <a href="https://twitter.com/isnot49662340">isnot</a>',
   chapters: [
     {
       id: '1巻-P126-東京駅',
@@ -16,8 +16,8 @@ const config = {
       hidden: false,
       title: '東京駅',
       image: '',
-      tweet_id: '1380095369305071618',
-      description: '<p>1巻 P126  東京都千代田区 丸の内一丁目9</p><div class="tweetContainer" id="tweet1380095369305071618"></div> ',
+      tweet_id: '1380866175530323971',
+      description: '<p>1巻 P126  東京都千代田区 丸の内一丁目9</p><div class="tweetContainer" id="tweet1380866175530323971"></div> ',
       location: {
         center: [139.7671248, 35.6812362],
         zoom: 14,
@@ -36,8 +36,8 @@ const config = {
       hidden: false,
       title: '岡山駅',
       image: '',
-      tweet_id: '1380083447595638784',
-      description: '<p>1巻 P130  岡山県岡山市 北区 駅元町11</p><div class="tweetContainer" id="tweet1380083447595638784"></div> ',
+      tweet_id: '1380893117071564807',
+      description: '<p>1巻 P130  岡山県岡山市 北区 駅元町11</p><div class="tweetContainer" id="tweet1380893117071564807"></div> ',
       location: {
         center: [133.9177335, 34.6661212],
         zoom: 14,
@@ -56,8 +56,8 @@ const config = {
       hidden: false,
       title: '高松駅',
       image: '',
-      tweet_id: '1379736532714614784',
-      description: '<p>1巻 P131  香川県高松市 西の丸町2</p><div class="tweetContainer" id="tweet1379736532714614784"></div> ',
+      tweet_id: '1380718948379807744',
+      description: '<p>1巻 P131  香川県高松市 西の丸町2</p><div class="tweetContainer" id="tweet1380718948379807744"></div> ',
       location: {
         center: [134.047056, 34.3504507],
         zoom: 14,
@@ -176,8 +176,8 @@ const config = {
       hidden: false,
       title: '八栗寺',
       image: '',
-      tweet_id: '1377921302858637318',
-      description: '<p>1巻 P143  香川県高松市 牟礼町牟礼3416</p><div class="tweetContainer" id="tweet1377921302858637318"></div> ',
+      tweet_id: '',
+      description: '<p>1巻 P143  香川県高松市 牟礼町牟礼3416</p> <p><img alt="八十五番札所 八栗寺" src="https://live.staticflickr.com/65535/50384303247_eb791b7d3d_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.3599067&amp;lon=134.1398791&amp;radius=0.25&amp;has_geo=1&amp;view_all=1">Flickr</a>【八十五番札所 八栗寺】 by JH1FJP</p>',
       location: {
         center: [134.1398791, 34.3599067],
         zoom: 14,
@@ -236,8 +236,8 @@ const config = {
       hidden: false,
       title: '栗林公園',
       image: '',
-      tweet_id: '1378701350695886850',
-      description: '<p>1巻 P157  香川県高松市 栗林町一丁目20</p><div class="tweetContainer" id="tweet1378701350695886850"></div> ',
+      tweet_id: '1380723729198555145',
+      description: '<p>1巻 P157  香川県高松市 栗林町一丁目20</p><div class="tweetContainer" id="tweet1380723729198555145"></div> ',
       location: {
         center: [134.0445345, 34.3293842],
         zoom: 14,

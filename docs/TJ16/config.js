@@ -8,7 +8,7 @@ const config = {
   title: '第16旅 茨城',
   subtitle: '【茨城】(単行本未収録)',
   byline: 'VisitSuzugamori 〜ざつ旅を辿る〜',
-  footer: '<p class="navi"><a href="/">🔝各話一覧へ</a> <a href="https://github.com/VisitSuzugamori/VisitSuzugamori.github.io">💬contact</a></p><p>原作：<a href="https://store.kadokawa.co.jp/shop/b/bM1394_dD/">ざつ旅-That&#39;s Journey-</a> (c) 石坂 ケンタ, KADOKAWA, 電撃マオウ / 地図・テンプレート：<a href="https://github.com/mapbox/storytelling">Mapbox</a> / 地図作成：VisitSuzugamori, <a href="https://twitter.com/isnot49662340">isnot</a>',
+  footer: '<p class="navi"><a href="/">🔝各話一覧へ</a> <a href="https://github.com/VisitSuzugamori/VisitSuzugamori.github.io">💬contact</a></p><p>原作：<a href="https://store.kadokawa.co.jp/shop/b/bM1394_dD/">ざつ旅-That&#39;s Journey-</a> &copy; 石坂 ケンタ, KADOKAWA, 電撃マオウ / 地図・テンプレート：<a href="https://github.com/mapbox/storytelling">Mapbox</a> / 地図作成：VisitSuzugamori, <a href="https://twitter.com/isnot49662340">isnot</a>',
   chapters: [
     {
       id: '--東京駅',
@@ -16,8 +16,8 @@ const config = {
       hidden: false,
       title: '東京駅',
       image: '',
-      tweet_id: '1379992443915890691',
-      description: '<p>   東京都千代田区 丸の内一丁目9</p><div class="tweetContainer" id="tweet1379992443915890691"></div> ',
+      tweet_id: '',
+      description: '<p>   東京都千代田区 丸の内一丁目9</p> <p><img alt="DSC09447" src="https://live.staticflickr.com/65535/51100623254_fb1c446249_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.6812362&amp;lon=139.7671248&amp;radius=0.25&amp;has_geo=1&amp;view_all=1">Flickr</a>【DSC09447】 by Yasuko_</p>',
       location: {
         center: [139.7671248, 35.6812362],
         zoom: 14,
@@ -37,7 +37,7 @@ const config = {
       title: '偕楽園・常磐神社前',
       image: '',
       tweet_id: '',
-      description: '<p>   茨城県水戸市 常磐町二丁目8</p> <p><img alt="DSC00551" src="https://live.staticflickr.com/65535/47985089662_e8078cee37_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=36.3746839&amp;lon=140.4569096&amp;radius=0.25&amp;has_geo=1&amp;view_all=1">Flickr</a>【DSC00551】 by shyueyi</p>',
+      description: '<p>   茨城県水戸市 常磐町二丁目8</p> <p><img alt="kairakuen" src="https://live.staticflickr.com/7871/46147455724_2993f8b2b1_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=36.3746839&amp;lon=140.4569096&amp;radius=0.25&amp;has_geo=1&amp;view_all=1">Flickr</a>【kairakuen】 by lazy fri13th</p>',
       location: {
         center: [140.4569096, 36.3746839],
         zoom: 14,
@@ -56,8 +56,8 @@ const config = {
       hidden: false,
       title: '水戸駅',
       image: '',
-      tweet_id: '1379415516394090501',
-      description: '<p>   茨城県水戸市 宮町一丁目7</p><div class="tweetContainer" id="tweet1379415516394090501"></div> ',
+      tweet_id: '1380797374692483072',
+      description: '<p>   茨城県水戸市 宮町一丁目7</p><div class="tweetContainer" id="tweet1380797374692483072"></div> ',
       location: {
         center: [140.4762789, 36.3707326],
         zoom: 14,
@@ -337,7 +337,7 @@ const config = {
       title: '薩都神社中宮',
       image: '',
       tweet_id: '',
-      description: '<p>   茨城県日立市 </p> <p><img alt="20181008-105017-51" src="https://live.staticflickr.com/1977/45200850641_eeb121a874_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=36.6338743&amp;lon=140.587316&amp;radius=0.25&amp;has_geo=1&amp;view_all=1">Flickr</a>【20181008-105017-51】 by giu205</p>',
+      description: '<p>   茨城県日立市 </p> <p><img alt="Niigata/Ibaraki '16 #23" src="https://live.staticflickr.com/8307/29404605806_2af3875b34_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=36.6338743&amp;lon=140.587316&amp;radius=0.25&amp;has_geo=1&amp;view_all=1">Flickr</a>【Niigata/Ibaraki '16 #23】 by tt64jp</p>',
       location: {
         center: [140.587316, 36.6338743],
         zoom: 14,
@@ -357,7 +357,7 @@ const config = {
       title: '御岩神社',
       image: '',
       tweet_id: '',
-      description: '<p>   茨城県日立市 </p> <p><img alt="20181008-084906-40" src="https://live.staticflickr.com/1903/31326270958_ccb17041be_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=36.6360807&amp;lon=140.5855581&amp;radius=0.25&amp;has_geo=1&amp;view_all=1">Flickr</a>【20181008-084906-40】 by giu205</p>',
+      description: '<p>   茨城県日立市 </p> <p><img alt="Niigata/Ibaraki '16 #19" src="https://live.staticflickr.com/8200/28815102074_b6a5c91bb1_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=36.6360807&amp;lon=140.5855581&amp;radius=0.25&amp;has_geo=1&amp;view_all=1">Flickr</a>【Niigata/Ibaraki '16 #19】 by tt64jp</p>',
       location: {
         center: [140.5855581, 36.6360807],
         zoom: 14,

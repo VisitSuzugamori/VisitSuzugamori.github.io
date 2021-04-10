@@ -8,7 +8,7 @@ const config = {
   title: '第17旅 九州',
   subtitle: '【九州】(単行本未収録)',
   byline: 'VisitSuzugamori 〜ざつ旅を辿る〜',
-  footer: '<p class="navi"><a href="/">🔝各話一覧へ</a> <a href="https://github.com/VisitSuzugamori/VisitSuzugamori.github.io">💬contact</a></p><p>原作：<a href="https://store.kadokawa.co.jp/shop/b/bM1394_dD/">ざつ旅-That&#39;s Journey-</a> (c) 石坂 ケンタ, KADOKAWA, 電撃マオウ / 地図・テンプレート：<a href="https://github.com/mapbox/storytelling">Mapbox</a> / 地図作成：VisitSuzugamori, <a href="https://twitter.com/isnot49662340">isnot</a>',
+  footer: '<p class="navi"><a href="/">🔝各話一覧へ</a> <a href="https://github.com/VisitSuzugamori/VisitSuzugamori.github.io">💬contact</a></p><p>原作：<a href="https://store.kadokawa.co.jp/shop/b/bM1394_dD/">ざつ旅-That&#39;s Journey-</a> &copy; 石坂 ケンタ, KADOKAWA, 電撃マオウ / 地図・テンプレート：<a href="https://github.com/mapbox/storytelling">Mapbox</a> / 地図作成：VisitSuzugamori, <a href="https://twitter.com/isnot49662340">isnot</a>',
   chapters: [
     {
       id: '--東京駅',
@@ -36,8 +36,8 @@ const config = {
       hidden: false,
       title: '小倉駅',
       image: '',
-      tweet_id: '1380176530869981185',
-      description: '<p>   福岡県北九州市 小倉北区 京町三丁目8</p><div class="tweetContainer" id="tweet1380176530869981185"></div> ',
+      tweet_id: '1380841869026848771',
+      description: '<p>   福岡県北九州市 小倉北区 京町三丁目8</p><div class="tweetContainer" id="tweet1380841869026848771"></div> ',
       location: {
         center: [130.8825758, 33.8869679],
         zoom: 14,
@@ -96,8 +96,8 @@ const config = {
       hidden: false,
       title: '青の洞門',
       image: '',
-      tweet_id: '',
-      description: '<p>   大分県中津市 本耶馬渓町樋田</p> <p><img alt="20191121_Kyushu_220" src="https://live.staticflickr.com/65535/49256380933_28a3515052_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=33.5001247&amp;lon=131.1717971&amp;radius=0.25&amp;has_geo=1&amp;view_all=1">Flickr</a>【20191121_Kyushu_220】 by jinmsk</p>',
+      tweet_id: '1380819724502671361',
+      description: '<p>   大分県中津市 本耶馬渓町樋田</p><div class="tweetContainer" id="tweet1380819724502671361"></div> ',
       location: {
         center: [131.1717971, 33.5001247],
         zoom: 14,
@@ -257,7 +257,7 @@ const config = {
       title: 'USA（宇佐）神宮',
       image: '',
       tweet_id: '',
-      description: '<p>   大分県宇佐市 南宇佐2859</p> <p><img alt="Usa Jingū Torii" src="https://live.staticflickr.com/4813/45988001031_1ba6262ca1_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=33.5260019&amp;lon=131.3746381&amp;radius=0.25&amp;has_geo=1&amp;view_all=1">Flickr</a>【Usa Jingū Torii】 by Martin Smith - Having the Time of my Life</p>',
+      description: '<p>   大分県宇佐市 南宇佐2859</p> <p><img alt="IMG_8573" src="https://live.staticflickr.com/845/43423475851_240a14850e_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=33.5260019&amp;lon=131.3746381&amp;radius=0.25&amp;has_geo=1&amp;view_all=1">Flickr</a>【IMG_8573】 by npso0211</p>',
       location: {
         center: [131.3746381, 33.5260019],
         zoom: 14,
