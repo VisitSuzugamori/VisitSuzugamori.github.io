@@ -61,6 +61,12 @@
   .books a:hover { text-decoration: none; }
   .books img { margin: 0; padding: 0; border: solid 1px black; }
   .ref p { margin:0; padding: 0; }
+  .ref dt { width: 30%; float: left; clear: left; }
+  .ref dd { width: 70%; }
+  .note { font-size: 80%; }
+  .note::before {
+	content: "⚠";
+  }
   #footer {
       background-color: white;
       margin-top: 30px;
@@ -108,17 +114,19 @@
         <p class="book4"><a rel="noopener" href="https://store.kadokawa.co.jp/shop/g/g322009000044/"><img alt="4巻 表紙" src="https://www.hanmoto.com/bd/img/9784049135916.jpg"></a></p>
       </div>
       <div class="ref">
-        <p>原作コミックス：<a rel="noopener" href="https://store.kadokawa.co.jp/shop/b/bM1394_dD/">ざつ旅 -That's Journey-</a></p>
-        <p>著者：<a rel="noopener" href="https://twitter.com/ishiken02">石坂 ケンタ</a></p>
-        <p>発行：KADOKAWA 電撃コミックスNEXT</p>
-        <p>雑誌連載：<a rel="noopener" href="http://maoh.dengeki.com/">電撃マオウ</a></p>
-        <p>Web連載：<a rel="noopener" href="https://seiga.nicovideo.jp/comic/40360">ニコニコ漫画</a>, <a rel="noopener" href="https://comic-walker.com/contents/detail/KDCW_AM01200853010000_68/">ComicWalker</a></p>
+        <dl>
+        <dt class="origin">原作コミックス</dt><dd><a rel="noopener" href="https://store.kadokawa.co.jp/shop/b/bM1394_dD/">ざつ旅 -That's Journey-</a></dd>
+        <dt class="auther">著者</dt><dd><a rel="noopener" href="https://twitter.com/ishiken02">石坂 ケンタ</a></dd>
+        <dt class="published">発行</dt><dd>KADOKAWA 電撃コミックスNEXT</dd>
+        <dt class="magazine">雑誌連載</dt><dd><a rel="noopener" href="http://maoh.dengeki.com/">電撃マオウ</a></dd>
+        <dt class="web">Web連載</dt><dd><a rel="noopener" href="https://seiga.nicovideo.jp/comic/40360">ニコニコ漫画</a>, <a rel="noopener" href="https://comic-walker.com/contents/detail/KDCW_AM01200853010000_68/">ComicWalker</a></dd>
+        </dl>
       </div>
       <h2>VisitSuzugamori</h2>
       <div class="about">
         <p>ざつ旅の登場人物である、鈴ヶ森さん。地図の上で、その足跡を辿ります。</p>
-        <p>※当サイトのコンテンツ内に表示している画像やツイートは、検索によって機械的に選択したものです。場合によっては、コンテンツの意図や文脈とは異なる内容が表示されることがあります。</p>
-        <p>各地点における「番地情報（※住所表記の末尾にある数字部分）」は、実態と異なる場合があり、またプライバシーにも関わることがありますので、特に慎重に扱って下さい。</p>
+        <p class="note">当サイトのコンテンツ内に表示している画像やツイートは、検索によって機械的に選択したものです。場合によっては、コンテンツの意図や文脈とは異なる内容が表示されることがあります。</p>
+        <p class="note">各地点における「番地情報（※住所表記の末尾にある数字部分）」は、実態と異なる場合があり、またプライバシーにも関わることがありますので、特に慎重に扱って下さい。</p>
         <p class="repository">💻<a rel="noopener" href="https://github.com/VisitSuzugamori/VisitSuzugamori.github.io/">VisitSuzugamori (GitHub)</a></p>
       </div>
     </div>
