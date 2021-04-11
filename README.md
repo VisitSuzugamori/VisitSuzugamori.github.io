@@ -48,7 +48,7 @@ Node.js（バージョン12以降推奨）が必要です。
 
 ## Copyright and License 免責
 
-- [ざつ旅-That's Journey-](https://store.kadokawa.co.jp/shop/b/bM1394_dD/) Copyright (c) 石坂 ケンタ, KADOKAWA, 電撃マオウ
+- [ざつ旅-That's Journey-](https://www.kadokawa.co.jp/product/search/?sort=0&kw=%E3%81%96%E3%81%A4%E6%97%85) Copyright (c) 石坂 ケンタ, KADOKAWA, 電撃マオウ
 - [ざつ旅マップ](https://t.co/Y8vwKzd1xD) by [ホ​ーリー提督 @Holly_carp_10](https://twitter.com/Holly_carp_10/status/1315987383695728642)
 - [mapbox/storytelling](https://github.com/mapbox/storytelling) Copyright (c) 2019, Mapbox All rights reserved.
 - [農研機構](https://aginfo.cgk.affrc.go.jp/) ※[簡易逆ジオコーディングサービス](https://aginfo.cgk.affrc.go.jp/rgeocode/index.html.ja) の出力結果を加工して利用しています
