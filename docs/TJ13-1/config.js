@@ -6,9 +6,9 @@ const config = {
   theme: 'light',
   use3dTerrain: true,
   title: '第13旅 島根前編',
-  subtitle: '【島根】師匠と片参り',
+  subtitle: '【出雲市 松江市】師匠と片参り',
   byline: 'VisitSuzugamori 〜ざつ旅を辿る〜',
-  footer: '<p class="navi"><a href="/">🔝各話一覧へ</a> <a href="https://github.com/VisitSuzugamori/VisitSuzugamori.github.io">💬contact</a></p><p>原作：<a href="https://store.kadokawa.co.jp/shop/b/bM1394_dD/">ざつ旅-That&#39;s Journey-</a> &copy; 石坂 ケンタ, KADOKAWA, 電撃マオウ / 地図・テンプレート：<a href="https://github.com/mapbox/storytelling">Mapbox</a> / 地図作成：VisitSuzugamori, <a href="https://twitter.com/isnot49662340">isnot</a>',
+  footer: '<p class="navi"><a href="/">🔝各話一覧へ</a> <a href="https://github.com/VisitSuzugamori/VisitSuzugamori.github.io">💬contact</a></p><p>原作：<a href="https://www.kadokawa.co.jp/product/search/?sort=0&kw=%E3%81%96%E3%81%A4%E6%97%85">ざつ旅-That&#39;s Journey-</a> &copy; 石坂 ケンタ, KADOKAWA, 電撃マオウ / 地図・テンプレート：<a href="https://github.com/mapbox/storytelling">Mapbox</a> / 地図作成：VisitSuzugamori, <a href="https://twitter.com/isnot49662340">isnot</a>',
   chapters: [
     {
       id: '3巻-P130-出雲市駅',
@@ -16,8 +16,8 @@ const config = {
       hidden: false,
       title: '出雲市駅',
       image: '',
-      tweet_id: '',
-      description: '<p>3巻 P130  島根県出雲市 駅北町25</p> <p><img alt="電鉄出雲市駅" src="https://live.staticflickr.com/65535/49472457926_92c1a2567d_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.3608386&amp;lon=132.7567006&amp;radius=0.25&amp;has_geo=1&amp;view_all=1">Flickr</a>【電鉄出雲市駅】 by alberth2</p>',
+      tweet_id: '1381062349637910528',
+      description: '<p>3巻 P130  島根県出雲市 駅北町25</p><div class="tweetContainer" id="tweet1381062349637910528"></div> ',
       location: {
         center: [132.7567006, 35.3608386],
         zoom: 14,
@@ -117,7 +117,7 @@ const config = {
       title: '俵屋菓舗 神門店',
       image: '',
       tweet_id: '',
-      description: '<p>3巻 P137  島根県出雲市 大社町杵築南775</p> <p><img alt="稲羽の素兎" src="https://live.staticflickr.com/65535/49472680187_fe6658fc0a_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.3952169&amp;lon=132.6867573&amp;radius=0.25&amp;has_geo=1&amp;view_all=1">Flickr</a>【稲羽の素兎】 by alberth2</p>',
+      description: '<p>3巻 P137  島根県出雲市 大社町杵築南775</p> <p><img alt="20181016-DSCF5529-C1" src="https://live.staticflickr.com/65535/49836247112_7538df6de0_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.3952169&amp;lon=132.6867573&amp;radius=0.25&amp;has_geo=1&amp;view_all=1">Flickr</a>【20181016-DSCF5529-C1】 by Larry Moberly</p>',
       location: {
         center: [132.6867573, 35.3952169],
         zoom: 14,
@@ -177,7 +177,7 @@ const config = {
       title: 'うさぎ！',
       image: '',
       tweet_id: '',
-      description: '<p>3巻 P139  島根県出雲市 大社町杵築東266</p> <p><img alt="出雲大社 松の参道" src="https://live.staticflickr.com/65535/49472455211_dbc2e1a873_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.3994106&amp;lon=132.6852047&amp;radius=0.25&amp;has_geo=1&amp;view_all=1">Flickr</a>【出雲大社 松の参道】 by alberth2</p>',
+      description: '<p>3巻 P139  島根県出雲市 大社町杵築東266</p> <p><img alt="Bunnies" src="https://live.staticflickr.com/65535/49882396266_666c2606b4_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.3994106&amp;lon=132.6852047&amp;radius=0.25&amp;has_geo=1&amp;view_all=1">Flickr</a>【Bunnies】 by hanstrappfr</p>',
       location: {
         center: [132.6852047, 35.3994106],
         zoom: 14,
@@ -236,8 +236,8 @@ const config = {
       hidden: false,
       title: '出雲大社 神楽殿',
       image: '',
-      tweet_id: '',
-      description: '<p>3巻 P142  島根県出雲市 大社町杵築東257</p> <p><img alt="The hidden-in-the-back temple" src="https://live.staticflickr.com/65535/50628265512_06899697dc_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.4015453&amp;lon=132.6844634&amp;radius=0.25&amp;has_geo=1&amp;view_all=1">Flickr</a>【The hidden-in-the-back temple】 by SocialHermit</p>',
+      tweet_id: '1381247938127482888',
+      description: '<p>3巻 P142  島根県出雲市 大社町杵築東257</p><div class="tweetContainer" id="tweet1381247938127482888"></div> ',
       location: {
         center: [132.6844634, 35.4015453],
         zoom: 14,

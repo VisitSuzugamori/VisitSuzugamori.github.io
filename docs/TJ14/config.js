@@ -6,9 +6,9 @@ const config = {
   theme: 'light',
   use3dTerrain: true,
   title: '第14旅 奥多摩',
-  subtitle: '【奥多摩】ほんとうに都内',
+  subtitle: '【千代田区 立川市 青梅市 西多摩郡奥多摩町】ほんとうに都内',
   byline: 'VisitSuzugamori 〜ざつ旅を辿る〜',
-  footer: '<p class="navi"><a href="/">🔝各話一覧へ</a> <a href="https://github.com/VisitSuzugamori/VisitSuzugamori.github.io">💬contact</a></p><p>原作：<a href="https://store.kadokawa.co.jp/shop/b/bM1394_dD/">ざつ旅-That&#39;s Journey-</a> &copy; 石坂 ケンタ, KADOKAWA, 電撃マオウ / 地図・テンプレート：<a href="https://github.com/mapbox/storytelling">Mapbox</a> / 地図作成：VisitSuzugamori, <a href="https://twitter.com/isnot49662340">isnot</a>',
+  footer: '<p class="navi"><a href="/">🔝各話一覧へ</a> <a href="https://github.com/VisitSuzugamori/VisitSuzugamori.github.io">💬contact</a></p><p>原作：<a href="https://www.kadokawa.co.jp/product/search/?sort=0&kw=%E3%81%96%E3%81%A4%E6%97%85">ざつ旅-That&#39;s Journey-</a> &copy; 石坂 ケンタ, KADOKAWA, 電撃マオウ / 地図・テンプレート：<a href="https://github.com/mapbox/storytelling">Mapbox</a> / 地図作成：VisitSuzugamori, <a href="https://twitter.com/isnot49662340">isnot</a>',
   chapters: [
     {
       id: '4巻-P93-東京駅',
@@ -16,8 +16,8 @@ const config = {
       hidden: false,
       title: '東京駅',
       image: '',
-      tweet_id: '1380828858832797701',
-      description: '<p>4巻 P93  東京都千代田区 丸の内一丁目9</p><div class="tweetContainer" id="tweet1380828858832797701"></div> ',
+      tweet_id: '1381242059814735878',
+      description: '<p>4巻 P93  東京都千代田区 丸の内一丁目9</p><div class="tweetContainer" id="tweet1381242059814735878"></div> ',
       location: {
         center: [139.7671248, 35.6812362],
         zoom: 14,
@@ -36,8 +36,8 @@ const config = {
       hidden: false,
       title: '立川駅',
       image: '',
-      tweet_id: '1380782864611086338',
-      description: '<p>4巻 P96  東京都立川市 柴崎町三丁目1</p><div class="tweetContainer" id="tweet1380782864611086338"></div> ',
+      tweet_id: '1381125631166009348',
+      description: '<p>4巻 P96  東京都立川市 柴崎町三丁目1</p><div class="tweetContainer" id="tweet1381125631166009348"></div> ',
       location: {
         center: [139.4137408, 35.6979144],
         zoom: 14,
@@ -56,8 +56,8 @@ const config = {
       hidden: false,
       title: '青梅駅',
       image: '',
-      tweet_id: '1379674881399386114',
-      description: '<p>4巻 P97  東京都青梅市 本町131</p><div class="tweetContainer" id="tweet1379674881399386114"></div> ',
+      tweet_id: '1381117673048657921',
+      description: '<p>4巻 P97  東京都青梅市 本町131</p><div class="tweetContainer" id="tweet1381117673048657921"></div> ',
       location: {
         center: [139.2582996, 35.7904967],
         zoom: 14,
@@ -216,8 +216,8 @@ const config = {
       hidden: false,
       title: '奥多摩駅',
       image: '',
-      tweet_id: '1378904254962880519',
-      description: '<p>4巻 P109  東京都西多摩郡 奥多摩町 </p><div class="tweetContainer" id="tweet1378904254962880519"></div> ',
+      tweet_id: '1381092944124383232',
+      description: '<p>4巻 P109  東京都西多摩郡 奥多摩町 </p><div class="tweetContainer" id="tweet1381092944124383232"></div> ',
       location: {
         center: [139.0969289, 35.8093737],
         zoom: 14,
@@ -236,8 +236,8 @@ const config = {
       hidden: false,
       title: '奥多摩湖',
       image: '',
-      tweet_id: '1380731778009272325',
-      description: '<p>4巻 P110  東京都西多摩郡 奥多摩町 </p><div class="tweetContainer" id="tweet1380731778009272325"></div> ',
+      tweet_id: '1381091133808250880',
+      description: '<p>4巻 P110  東京都西多摩郡 奥多摩町 </p><div class="tweetContainer" id="tweet1381091133808250880"></div> ',
       location: {
         center: [139.0470929, 35.7894856],
         zoom: 14,

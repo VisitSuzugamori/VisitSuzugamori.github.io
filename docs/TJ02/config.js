@@ -6,9 +6,9 @@ const config = {
   theme: 'light',
   use3dTerrain: true,
   title: '第2旅 松島',
-  subtitle: '【松島】伊達じゃない伊達',
+  subtitle: '【仙台市青葉区 宮城郡松島町】伊達じゃない伊達',
   byline: 'VisitSuzugamori 〜ざつ旅を辿る〜',
-  footer: '<p class="navi"><a href="/">🔝各話一覧へ</a> <a href="https://github.com/VisitSuzugamori/VisitSuzugamori.github.io">💬contact</a></p><p>原作：<a href="https://store.kadokawa.co.jp/shop/b/bM1394_dD/">ざつ旅-That&#39;s Journey-</a> &copy; 石坂 ケンタ, KADOKAWA, 電撃マオウ / 地図・テンプレート：<a href="https://github.com/mapbox/storytelling">Mapbox</a> / 地図作成：VisitSuzugamori, <a href="https://twitter.com/isnot49662340">isnot</a>',
+  footer: '<p class="navi"><a href="/">🔝各話一覧へ</a> <a href="https://github.com/VisitSuzugamori/VisitSuzugamori.github.io">💬contact</a></p><p>原作：<a href="https://www.kadokawa.co.jp/product/search/?sort=0&kw=%E3%81%96%E3%81%A4%E6%97%85">ざつ旅-That&#39;s Journey-</a> &copy; 石坂 ケンタ, KADOKAWA, 電撃マオウ / 地図・テンプレート：<a href="https://github.com/mapbox/storytelling">Mapbox</a> / 地図作成：VisitSuzugamori, <a href="https://twitter.com/isnot49662340">isnot</a>',
   chapters: [
     {
       id: '1巻-P61-仙台駅',
@@ -16,8 +16,8 @@ const config = {
       hidden: false,
       title: '仙台駅',
       image: '',
-      tweet_id: '1380829954255032326',
-      description: '<p>1巻 P61  宮城県仙台市 青葉区 中央一丁目</p><div class="tweetContainer" id="tweet1380829954255032326"></div> ',
+      tweet_id: '1381206217507237889',
+      description: '<p>1巻 P61  宮城県仙台市 青葉区 中央一丁目</p><div class="tweetContainer" id="tweet1381206217507237889"></div> ',
       location: {
         center: [140.8824375, 38.2601316],
         zoom: 14,
@@ -77,7 +77,7 @@ const config = {
       title: '松島公園',
       image: '',
       tweet_id: '',
-      description: '<p>1巻 P64  宮城県宮城郡 松島町 松島字霞ケ浦</p> <p><img alt="Matsushima / Saigyoumodoshi no Matsu Park 04" src="https://live.staticflickr.com/65535/47594221672_6057ff5428_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=38.3661732&amp;lon=141.0611304&amp;radius=0.25&amp;has_geo=1&amp;view_all=1">Flickr</a>【Matsushima / Saigyoumodoshi no Matsu Park 04】 by hatake_s</p>',
+      description: '<p>1巻 P64  宮城県宮城郡 松島町 松島字霞ケ浦</p> <p><img alt="Oshima Island" src="https://live.staticflickr.com/65535/50829564487_793e5c2e1c_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=38.3661732&amp;lon=141.0611304&amp;radius=0.25&amp;has_geo=1&amp;view_all=1">Flickr</a>【Oshima Island】 by victor*f</p>',
       location: {
         center: [141.0611304, 38.3661732],
         zoom: 14,
@@ -217,7 +217,7 @@ const config = {
       title: '松島巡り観光船 乗り場(松島觀光遊艇搭船場)',
       image: '',
       tweet_id: '',
-      description: '<p>1巻 P79  </p> <p><img alt="" src="https://live.staticflickr.com/65535/49611285738_354c9c5533_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=38.3689558&amp;lon=141.0628948&amp;radius=0.25&amp;has_geo=1&amp;view_all=1">Flickr</a>【】 by 快樂雲</p>',
+      description: '<p>1巻 P79  </p> <p><img alt="Kanrantei Teahouse, Matsushima Bay" src="https://live.staticflickr.com/65535/50829490277_f07503e14f_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=38.3689558&amp;lon=141.0628948&amp;radius=0.25&amp;has_geo=1&amp;view_all=1">Flickr</a>【Kanrantei Teahouse, Matsushima Bay】 by victor*f</p>',
       location: {
         center: [141.0628948, 38.3689558],
         zoom: 14,

@@ -6,9 +6,9 @@ const config = {
   theme: 'light',
   use3dTerrain: true,
   title: '第4旅 高松',
-  subtitle: '【高松】そのままのコシで',
+  subtitle: '【千代田区 岡山市北区 高松市】そのままのコシで',
   byline: 'VisitSuzugamori 〜ざつ旅を辿る〜',
-  footer: '<p class="navi"><a href="/">🔝各話一覧へ</a> <a href="https://github.com/VisitSuzugamori/VisitSuzugamori.github.io">💬contact</a></p><p>原作：<a href="https://store.kadokawa.co.jp/shop/b/bM1394_dD/">ざつ旅-That&#39;s Journey-</a> &copy; 石坂 ケンタ, KADOKAWA, 電撃マオウ / 地図・テンプレート：<a href="https://github.com/mapbox/storytelling">Mapbox</a> / 地図作成：VisitSuzugamori, <a href="https://twitter.com/isnot49662340">isnot</a>',
+  footer: '<p class="navi"><a href="/">🔝各話一覧へ</a> <a href="https://github.com/VisitSuzugamori/VisitSuzugamori.github.io">💬contact</a></p><p>原作：<a href="https://www.kadokawa.co.jp/product/search/?sort=0&kw=%E3%81%96%E3%81%A4%E6%97%85">ざつ旅-That&#39;s Journey-</a> &copy; 石坂 ケンタ, KADOKAWA, 電撃マオウ / 地図・テンプレート：<a href="https://github.com/mapbox/storytelling">Mapbox</a> / 地図作成：VisitSuzugamori, <a href="https://twitter.com/isnot49662340">isnot</a>',
   chapters: [
     {
       id: '1巻-P126-東京駅',
@@ -16,8 +16,8 @@ const config = {
       hidden: false,
       title: '東京駅',
       image: '',
-      tweet_id: '1380866175530323971',
-      description: '<p>1巻 P126  東京都千代田区 丸の内一丁目9</p><div class="tweetContainer" id="tweet1380866175530323971"></div> ',
+      tweet_id: '1381252383515144193',
+      description: '<p>1巻 P126  東京都千代田区 丸の内一丁目9</p><div class="tweetContainer" id="tweet1381252383515144193"></div> ',
       location: {
         center: [139.7671248, 35.6812362],
         zoom: 14,
@@ -36,8 +36,8 @@ const config = {
       hidden: false,
       title: '岡山駅',
       image: '',
-      tweet_id: '1380893117071564807',
-      description: '<p>1巻 P130  岡山県岡山市 北区 駅元町11</p><div class="tweetContainer" id="tweet1380893117071564807"></div> ',
+      tweet_id: '1381196565478436867',
+      description: '<p>1巻 P130  岡山県岡山市 北区 駅元町11</p><div class="tweetContainer" id="tweet1381196565478436867"></div> ',
       location: {
         center: [133.9177335, 34.6661212],
         zoom: 14,
@@ -236,8 +236,8 @@ const config = {
       hidden: false,
       title: '栗林公園',
       image: '',
-      tweet_id: '1380723729198555145',
-      description: '<p>1巻 P157  香川県高松市 栗林町一丁目20</p><div class="tweetContainer" id="tweet1380723729198555145"></div> ',
+      tweet_id: '1381177476349526021',
+      description: '<p>1巻 P157  香川県高松市 栗林町一丁目20</p><div class="tweetContainer" id="tweet1381177476349526021"></div> ',
       location: {
         center: [134.0445345, 34.3293842],
         zoom: 14,

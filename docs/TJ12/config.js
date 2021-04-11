@@ -6,9 +6,9 @@ const config = {
   theme: 'light',
   use3dTerrain: true,
   title: '第12旅 花巻',
-  subtitle: '【花巻】ココロのふるさと',
+  subtitle: '【花巻市 北上市 西磐井郡平泉町】ココロのふるさと',
   byline: 'VisitSuzugamori 〜ざつ旅を辿る〜',
-  footer: '<p class="navi"><a href="/">🔝各話一覧へ</a> <a href="https://github.com/VisitSuzugamori/VisitSuzugamori.github.io">💬contact</a></p><p>原作：<a href="https://store.kadokawa.co.jp/shop/b/bM1394_dD/">ざつ旅-That&#39;s Journey-</a> &copy; 石坂 ケンタ, KADOKAWA, 電撃マオウ / 地図・テンプレート：<a href="https://github.com/mapbox/storytelling">Mapbox</a> / 地図作成：VisitSuzugamori, <a href="https://twitter.com/isnot49662340">isnot</a>',
+  footer: '<p class="navi"><a href="/">🔝各話一覧へ</a> <a href="https://github.com/VisitSuzugamori/VisitSuzugamori.github.io">💬contact</a></p><p>原作：<a href="https://www.kadokawa.co.jp/product/search/?sort=0&kw=%E3%81%96%E3%81%A4%E6%97%85">ざつ旅-That&#39;s Journey-</a> &copy; 石坂 ケンタ, KADOKAWA, 電撃マオウ / 地図・テンプレート：<a href="https://github.com/mapbox/storytelling">Mapbox</a> / 地図作成：VisitSuzugamori, <a href="https://twitter.com/isnot49662340">isnot</a>',
   chapters: [
     {
       id: '3巻-P87-新花巻駅',
@@ -177,7 +177,7 @@ const config = {
       title: '大沢温泉 湯治屋',
       image: '',
       tweet_id: '',
-      description: '<p>3巻 P103  岩手県花巻市 湯口字大沢171</p> <p><img alt="Park near Osawa Onsen (大沢温泉), Hanamaki, Iwate" src="https://live.staticflickr.com/65535/49727572498_6ae09c3ef5_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=39.4365493&amp;lon=141.0159616&amp;radius=0.25&amp;has_geo=1&amp;view_all=1">Flickr</a>【Park near Osawa Onsen (大沢温泉), Hanamaki, Iwate】 by Hans ter Horst Photography</p>',
+      description: '<p>3巻 P103  岩手県花巻市 湯口字大沢171</p> <p><img alt="Park near Osawa Onsen (大沢温泉), Hanamaki, Iwate" src="https://live.staticflickr.com/65535/49728118741_97faca3438_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=39.4365493&amp;lon=141.0159616&amp;radius=0.25&amp;has_geo=1&amp;view_all=1">Flickr</a>【Park near Osawa Onsen (大沢温泉), Hanamaki, Iwate】 by Hans ter Horst Photography</p>',
       location: {
         center: [141.0159616, 39.4365493],
         zoom: 14,
@@ -276,8 +276,8 @@ const config = {
       hidden: false,
       title: '中尊寺',
       image: '',
-      tweet_id: '1378588774230188041',
-      description: '<p>3巻 P118  岩手県西磐井郡 平泉町 平泉43</p><div class="tweetContainer" id="tweet1378588774230188041"></div> ',
+      tweet_id: '1381104713408651264',
+      description: '<p>3巻 P118  岩手県西磐井郡 平泉町 平泉43</p><div class="tweetContainer" id="tweet1381104713408651264"></div> ',
       location: {
         center: [141.102596, 39.0017355],
         zoom: 14,

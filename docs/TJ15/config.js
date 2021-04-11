@@ -6,9 +6,9 @@ const config = {
   theme: 'light',
   use3dTerrain: true,
   title: '第15旅 都内',
-  subtitle: '【東京】それでも繋がってる',
+  subtitle: '【千代田区 中央区 江東区】それでも繋がってる',
   byline: 'VisitSuzugamori 〜ざつ旅を辿る〜',
-  footer: '<p class="navi"><a href="/">🔝各話一覧へ</a> <a href="https://github.com/VisitSuzugamori/VisitSuzugamori.github.io">💬contact</a></p><p>原作：<a href="https://store.kadokawa.co.jp/shop/b/bM1394_dD/">ざつ旅-That&#39;s Journey-</a> &copy; 石坂 ケンタ, KADOKAWA, 電撃マオウ / 地図・テンプレート：<a href="https://github.com/mapbox/storytelling">Mapbox</a> / 地図作成：VisitSuzugamori, <a href="https://twitter.com/isnot49662340">isnot</a>',
+  footer: '<p class="navi"><a href="/">🔝各話一覧へ</a> <a href="https://github.com/VisitSuzugamori/VisitSuzugamori.github.io">💬contact</a></p><p>原作：<a href="https://www.kadokawa.co.jp/product/search/?sort=0&kw=%E3%81%96%E3%81%A4%E6%97%85">ざつ旅-That&#39;s Journey-</a> &copy; 石坂 ケンタ, KADOKAWA, 電撃マオウ / 地図・テンプレート：<a href="https://github.com/mapbox/storytelling">Mapbox</a> / 地図作成：VisitSuzugamori, <a href="https://twitter.com/isnot49662340">isnot</a>',
   chapters: [
     {
       id: '4巻-P119-東京駅',
@@ -16,8 +16,8 @@ const config = {
       hidden: false,
       title: '東京駅',
       image: '',
-      tweet_id: '',
-      description: '<p>4巻 P119  東京都千代田区 丸の内一丁目9</p> <p><img alt="DSC09447" src="https://live.staticflickr.com/65535/51100623254_fb1c446249_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.6812362&amp;lon=139.7671248&amp;radius=0.25&amp;has_geo=1&amp;view_all=1">Flickr</a>【DSC09447】 by Yasuko_</p>',
+      tweet_id: '1381224005600829443',
+      description: '<p>4巻 P119  東京都千代田区 丸の内一丁目9</p><div class="tweetContainer" id="tweet1381224005600829443"></div> ',
       location: {
         center: [139.7671248, 35.6812362],
         zoom: 14,
@@ -97,7 +97,7 @@ const config = {
       title: '小原鐵五郎寿像',
       image: '',
       tweet_id: '',
-      description: '<p>4巻 P122  東京都中央区 京橋三丁目8</p> <p><img alt="Cruzando la calle" src="https://live.staticflickr.com/65535/50437780056_9bf3b3ec2f_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.675434&amp;lon=139.7711133&amp;radius=0.25&amp;has_geo=1&amp;view_all=1">Flickr</a>【Cruzando la calle】 by Montse Estaca</p>',
+      description: '<p>4巻 P122  東京都中央区 京橋三丁目8</p> <p><img alt="" src="https://live.staticflickr.com/65535/50441599632_81d1af9700_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.675434&amp;lon=139.7711133&amp;radius=0.25&amp;has_geo=1&amp;view_all=1">Flickr</a>【】 by JaggyBoss</p>',
       location: {
         center: [139.7711133, 35.675434],
         zoom: 14,
@@ -116,8 +116,8 @@ const config = {
       hidden: false,
       title: '築地本願寺',
       image: '',
-      tweet_id: '1380631552644673536',
-      description: '<p>4巻 P122  東京都中央区 築地三丁目15</p><div class="tweetContainer" id="tweet1380631552644673536"></div> ',
+      tweet_id: '1381057530185588745',
+      description: '<p>4巻 P122  東京都中央区 築地三丁目15</p><div class="tweetContainer" id="tweet1381057530185588745"></div> ',
       location: {
         center: [139.7722836, 35.6664862],
         zoom: 14,
@@ -236,8 +236,8 @@ const config = {
       hidden: false,
       title: '豊洲公園',
       image: '',
-      tweet_id: '1378633666734272514',
-      description: '<p>4巻 P129  東京都江東区 豊洲二丁目3</p><div class="tweetContainer" id="tweet1378633666734272514"></div> ',
+      tweet_id: '1381155153265356802',
+      description: '<p>4巻 P129  東京都江東区 豊洲二丁目3</p><div class="tweetContainer" id="tweet1381155153265356802"></div> ',
       location: {
         center: [139.793127, 35.6533777],
         zoom: 14,
@@ -277,7 +277,7 @@ const config = {
       title: '鈴富',
       image: '',
       tweet_id: '',
-      description: '<p>4巻 P130  東京都江東区 豊洲六丁目4</p> <p><img alt="Bicycling" src="https://live.staticflickr.com/65535/49102707311_30d94a229b_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.6456235&amp;lon=139.7862508&amp;radius=0.25&amp;has_geo=1&amp;view_all=1">Flickr</a>【Bicycling】 by wka</p>',
+      description: '<p>4巻 P130  東京都江東区 豊洲六丁目4</p> <p><img alt="Tuna Sashimi" src="https://live.staticflickr.com/65535/51107673138_30e18db424_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.6456235&amp;lon=139.7862508&amp;radius=0.25&amp;has_geo=1&amp;view_all=1">Flickr</a>【Tuna Sashimi】 by YUICHI38</p>',
       location: {
         center: [139.7862508, 35.6456235],
         zoom: 14,
@@ -336,8 +336,8 @@ const config = {
       hidden: false,
       title: '東京ビッグサイト',
       image: '',
-      tweet_id: '',
-      description: '<p>4巻 P134  東京都江東区 有明三丁目11</p> <p><img alt="back view" src="https://live.staticflickr.com/65535/50688105133_62e841a53a_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.6298179&amp;lon=139.7942868&amp;radius=0.25&amp;has_geo=1&amp;view_all=1">Flickr</a>【back view】 by hanenashi2968</p>',
+      tweet_id: '1381119567989248000',
+      description: '<p>4巻 P134  東京都江東区 有明三丁目11</p><div class="tweetContainer" id="tweet1381119567989248000"></div> ',
       location: {
         center: [139.7942868, 35.6298179],
         zoom: 14,
@@ -356,8 +356,8 @@ const config = {
       hidden: false,
       title: '国際展示場駅',
       image: '',
-      tweet_id: '1378148284406071296',
-      description: '<p>4巻 P134  東京都江東区 有明三丁目7</p><div class="tweetContainer" id="tweet1378148284406071296"></div> ',
+      tweet_id: '',
+      description: '<p>4巻 P134  東京都江東区 有明三丁目7</p> <p><img alt="" src="https://live.staticflickr.com/65535/51008207047_feb5af4ab6_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.6344346&amp;lon=139.7916499&amp;radius=0.25&amp;has_geo=1&amp;view_all=1">Flickr</a>【】 by Masato K.</p>',
       location: {
         center: [139.7916499, 35.6344346],
         zoom: 14,
@@ -376,8 +376,8 @@ const config = {
       hidden: false,
       title: '新木場駅',
       image: '',
-      tweet_id: '1378326445093756930',
-      description: '<p>4巻 P134  東京都江東区 新木場一丁目2</p><div class="tweetContainer" id="tweet1378326445093756930"></div> ',
+      tweet_id: '',
+      description: '<p>4巻 P134  東京都江東区 新木場一丁目2</p> <p><img alt="200701_041_EOSR9436" src="https://live.staticflickr.com/65535/50064687603_ac3d425545_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.6459022&amp;lon=139.8266952&amp;radius=0.25&amp;has_geo=1&amp;view_all=1">Flickr</a>【200701_041_EOSR9436】 by oda.shinsuke</p>',
       location: {
         center: [139.8266952, 35.6459022],
         zoom: 14,
@@ -417,7 +417,7 @@ const config = {
       title: '南極観測船『宗谷』',
       image: '',
       tweet_id: '',
-      description: '<p>4巻 P136  </p> <p><img alt="Tokyo - Odaiba - The Soho" src="https://live.staticflickr.com/65535/50103602662_0638df59e2_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.6191097&amp;lon=139.7738425&amp;radius=0.25&amp;has_geo=1&amp;view_all=1">Flickr</a>【Tokyo - Odaiba - The Soho】 by CATDvd</p>',
+      description: '<p>4巻 P136  </p> <p><img alt="051029 Odaiba-02.jpg" src="https://live.staticflickr.com/65535/50561024326_f83d27fdb1_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.6191097&amp;lon=139.7738425&amp;radius=0.25&amp;has_geo=1&amp;view_all=1">Flickr</a>【051029 Odaiba-02.jpg】 by Bruce Batten</p>',
       location: {
         center: [139.7738425, 35.6191097],
         zoom: 14,
@@ -436,8 +436,8 @@ const config = {
       hidden: false,
       title: 'レインボーブリッジ',
       image: '',
-      tweet_id: '1379992982158520322',
-      description: '<p>4巻 P138  </p><div class="tweetContainer" id="tweet1379992982158520322"></div> ',
+      tweet_id: '1381173319165214720',
+      description: '<p>4巻 P138  </p><div class="tweetContainer" id="tweet1381173319165214720"></div> ',
       location: {
         center: [139.7631443, 35.6365639],
         zoom: 14,
@@ -457,7 +457,7 @@ const config = {
       title: '青海南ふ頭公園',
       image: '',
       tweet_id: '',
-      description: '<p>4巻 P145  東京都江東区 青海二丁目8</p> <p><img alt="The Soho, Tokyo" src="https://live.staticflickr.com/7841/40616023653_44183940c7_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.61607&amp;lon=139.7756369&amp;radius=0.25&amp;has_geo=1&amp;view_all=1">Flickr</a>【The Soho, Tokyo】 by Pierre Blaché</p>',
+      description: '<p>4巻 P145  東京都江東区 青海二丁目8</p> <p><img alt="2019-11-09-20h39m09" src="https://live.staticflickr.com/65535/49845932461_768ebc86cb_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.61607&amp;lon=139.7756369&amp;radius=0.25&amp;has_geo=1&amp;view_all=1">Flickr</a>【2019-11-09-20h39m09】 by shrjou</p>',
       location: {
         center: [139.7756369, 35.61607],
         zoom: 14,

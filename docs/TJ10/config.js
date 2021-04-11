@@ -6,9 +6,9 @@ const config = {
   theme: 'light',
   use3dTerrain: true,
   title: '第10旅 青森',
-  subtitle: '【青森】温泉で完成',
+  subtitle: '【青森市 十和田市 むつ市】温泉で完成',
   byline: 'VisitSuzugamori 〜ざつ旅を辿る〜',
-  footer: '<p class="navi"><a href="/">🔝各話一覧へ</a> <a href="https://github.com/VisitSuzugamori/VisitSuzugamori.github.io">💬contact</a></p><p>原作：<a href="https://store.kadokawa.co.jp/shop/b/bM1394_dD/">ざつ旅-That&#39;s Journey-</a> &copy; 石坂 ケンタ, KADOKAWA, 電撃マオウ / 地図・テンプレート：<a href="https://github.com/mapbox/storytelling">Mapbox</a> / 地図作成：VisitSuzugamori, <a href="https://twitter.com/isnot49662340">isnot</a>',
+  footer: '<p class="navi"><a href="/">🔝各話一覧へ</a> <a href="https://github.com/VisitSuzugamori/VisitSuzugamori.github.io">💬contact</a></p><p>原作：<a href="https://www.kadokawa.co.jp/product/search/?sort=0&kw=%E3%81%96%E3%81%A4%E6%97%85">ざつ旅-That&#39;s Journey-</a> &copy; 石坂 ケンタ, KADOKAWA, 電撃マオウ / 地図・テンプレート：<a href="https://github.com/mapbox/storytelling">Mapbox</a> / 地図作成：VisitSuzugamori, <a href="https://twitter.com/isnot49662340">isnot</a>',
   chapters: [
     {
       id: '3巻-P31-八甲田ロープウェイ 山頂公園駅',
@@ -77,7 +77,7 @@ const config = {
       title: '谷地温泉',
       image: '',
       tweet_id: '',
-      description: '<p>3巻 P38  青森県十和田市 </p> <p><img alt="DJI_0120" src="https://live.staticflickr.com/1960/31388231308_c969ab7ff4_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=40.6330178&amp;lon=140.9245271&amp;radius=0.25&amp;has_geo=1&amp;view_all=1">Flickr</a>【DJI_0120】 by GeorgeC_tw</p>',
+      description: '<p>3巻 P38  青森県十和田市 </p> <p><img alt="Yachi onsen, one of the secret onsen of Aomori" src="https://live.staticflickr.com/65535/50036012223_af7d118d43_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=40.6330178&amp;lon=140.9245271&amp;radius=0.25&amp;has_geo=1&amp;view_all=1">Flickr</a>【Yachi onsen, one of the secret onsen of Aomori】 by Hans ter Horst Photography</p>',
       location: {
         center: [140.9245271, 40.6330178],
         zoom: 14,
@@ -96,8 +96,8 @@ const config = {
       hidden: false,
       title: '下北駅',
       image: '',
-      tweet_id: '',
-      description: '<p>3巻 P47  青森県むつ市 下北町4</p> <p><img alt="707" src="https://live.staticflickr.com/7149/26832857492_273c8ef072_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=41.2827427&amp;lon=141.1899038&amp;radius=0.25&amp;has_geo=1&amp;view_all=1">Flickr</a>【707】 by hyuhyu6748usver</p>',
+      tweet_id: '1381173517702426630',
+      description: '<p>3巻 P47  青森県むつ市 下北町4</p><div class="tweetContainer" id="tweet1381173517702426630"></div> ',
       location: {
         center: [141.1899038, 41.2827427],
         zoom: 14,

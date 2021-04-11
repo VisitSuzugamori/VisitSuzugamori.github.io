@@ -6,9 +6,9 @@ const config = {
   theme: 'light',
   use3dTerrain: true,
   title: '第9旅 広島前編',
-  subtitle: '【広島】三人よれば…バス？',
+  subtitle: '【文京区 海老名市 広島市東区 広島市南区 廿日市市】三人よれば…バス？',
   byline: 'VisitSuzugamori 〜ざつ旅を辿る〜',
-  footer: '<p class="navi"><a href="/">🔝各話一覧へ</a> <a href="https://github.com/VisitSuzugamori/VisitSuzugamori.github.io">💬contact</a></p><p>原作：<a href="https://store.kadokawa.co.jp/shop/b/bM1394_dD/">ざつ旅-That&#39;s Journey-</a> &copy; 石坂 ケンタ, KADOKAWA, 電撃マオウ / 地図・テンプレート：<a href="https://github.com/mapbox/storytelling">Mapbox</a> / 地図作成：VisitSuzugamori, <a href="https://twitter.com/isnot49662340">isnot</a>',
+  footer: '<p class="navi"><a href="/">🔝各話一覧へ</a> <a href="https://github.com/VisitSuzugamori/VisitSuzugamori.github.io">💬contact</a></p><p>原作：<a href="https://www.kadokawa.co.jp/product/search/?sort=0&kw=%E3%81%96%E3%81%A4%E6%97%85">ざつ旅-That&#39;s Journey-</a> &copy; 石坂 ケンタ, KADOKAWA, 電撃マオウ / 地図・テンプレート：<a href="https://github.com/mapbox/storytelling">Mapbox</a> / 地図作成：VisitSuzugamori, <a href="https://twitter.com/isnot49662340">isnot</a>',
   chapters: [
     {
       id: '2巻-P132-東京ドームホテル',
@@ -16,8 +16,8 @@ const config = {
       hidden: false,
       title: '東京ドームホテル',
       image: '',
-      tweet_id: '',
-      description: '<p>2巻 P132  東京都文京区 後楽一丁目3</p> <p><img alt="Tokyo Dome city" src="https://live.staticflickr.com/65535/51003025803_f22571f9bf_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.7036666&amp;lon=139.7533928&amp;radius=0.25&amp;has_geo=1&amp;view_all=1">Flickr</a>【Tokyo Dome city】 by 4ELEVEN Images</p>',
+      tweet_id: '1381030430808375296',
+      description: '<p>2巻 P132  東京都文京区 後楽一丁目3</p><div class="tweetContainer" id="tweet1381030430808375296"></div> ',
       location: {
         center: [139.7533928, 35.7036666],
         zoom: 14,
@@ -76,8 +76,8 @@ const config = {
       hidden: false,
       title: '広島駅',
       image: '',
-      tweet_id: '1380851039310471169',
-      description: '<p>2巻 P146  広島県広島市 南区 松原町1</p><div class="tweetContainer" id="tweet1380851039310471169"></div> ',
+      tweet_id: '1381189327582068739',
+      description: '<p>2巻 P146  広島県広島市 南区 松原町1</p><div class="tweetContainer" id="tweet1381189327582068739"></div> ',
       location: {
         center: [132.4753786, 34.397667],
         zoom: 14,

@@ -6,9 +6,9 @@ const config = {
   theme: 'light',
   use3dTerrain: true,
   title: '第9旅 広島後編',
-  subtitle: '【広島】女子三人寄って睦まじい',
+  subtitle: '【廿日市市 呉市 尾道市】女子三人寄って睦まじい',
   byline: 'VisitSuzugamori 〜ざつ旅を辿る〜',
-  footer: '<p class="navi"><a href="/">🔝各話一覧へ</a> <a href="https://github.com/VisitSuzugamori/VisitSuzugamori.github.io">💬contact</a></p><p>原作：<a href="https://store.kadokawa.co.jp/shop/b/bM1394_dD/">ざつ旅-That&#39;s Journey-</a> &copy; 石坂 ケンタ, KADOKAWA, 電撃マオウ / 地図・テンプレート：<a href="https://github.com/mapbox/storytelling">Mapbox</a> / 地図作成：VisitSuzugamori, <a href="https://twitter.com/isnot49662340">isnot</a>',
+  footer: '<p class="navi"><a href="/">🔝各話一覧へ</a> <a href="https://github.com/VisitSuzugamori/VisitSuzugamori.github.io">💬contact</a></p><p>原作：<a href="https://www.kadokawa.co.jp/product/search/?sort=0&kw=%E3%81%96%E3%81%A4%E6%97%85">ざつ旅-That&#39;s Journey-</a> &copy; 石坂 ケンタ, KADOKAWA, 電撃マオウ / 地図・テンプレート：<a href="https://github.com/mapbox/storytelling">Mapbox</a> / 地図作成：VisitSuzugamori, <a href="https://twitter.com/isnot49662340">isnot</a>',
   chapters: [
     {
       id: '3巻-P5-嚴島神社',
@@ -76,8 +76,8 @@ const config = {
       hidden: false,
       title: '呉駅',
       image: '',
-      tweet_id: '1378240355951243264',
-      description: '<p>3巻 P11  広島県呉市 宝町2</p><div class="tweetContainer" id="tweet1378240355951243264"></div> ',
+      tweet_id: '',
+      description: '<p>3巻 P11  広島県呉市 宝町2</p> <p><img alt="kure_20200101180133" src="https://live.staticflickr.com/65535/50278725777_dddb02867b_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.2446471&amp;lon=132.5575846&amp;radius=0.25&amp;has_geo=1&amp;view_all=1">Flickr</a>【kure_20200101180133】 by inunami</p>',
       location: {
         center: [132.5575846, 34.2446471],
         zoom: 14,
@@ -97,7 +97,7 @@ const config = {
       title: 'コンフォートホテル呉',
       image: '',
       tweet_id: '',
-      description: '<p>3巻 P12  広島県呉市 宝町2</p> <p><img alt="D71_2674" src="https://live.staticflickr.com/65535/50721600568_6f3fbd3396_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.2431335&amp;lon=132.5586395&amp;radius=0.25&amp;has_geo=1&amp;view_all=1">Flickr</a>【D71_2674】 by Lox Pix</p>',
+      description: '<p>3巻 P12  広島県呉市 宝町2</p> <p><img alt="D71_2673" src="https://live.staticflickr.com/65535/50722338491_9a2e88ec94_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.2431335&amp;lon=132.5586395&amp;radius=0.25&amp;has_geo=1&amp;view_all=1">Flickr</a>【D71_2673】 by Lox Pix</p>',
       location: {
         center: [132.5586395, 34.2431335],
         zoom: 14,
@@ -117,7 +117,7 @@ const config = {
       title: '呉湾艦船めぐり',
       image: '',
       tweet_id: '',
-      description: '<p>3巻 P14  広島県呉市 宝町4</p> <p><img alt="610_7070" src="https://live.staticflickr.com/65535/50883959392_be5dd8b805_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.2405577&amp;lon=132.5564318&amp;radius=0.25&amp;has_geo=1&amp;view_all=1">Flickr</a>【610_7070】 by Lox Pix</p>',
+      description: '<p>3巻 P14  広島県呉市 宝町4</p> <p><img alt="610_7069" src="https://live.staticflickr.com/65535/50883132783_8009a079ca_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.2405577&amp;lon=132.5564318&amp;radius=0.25&amp;has_geo=1&amp;view_all=1">Flickr</a>【610_7069】 by Lox Pix</p>',
       location: {
         center: [132.5564318, 34.2405577],
         zoom: 14,
@@ -177,7 +177,7 @@ const config = {
       title: '尾道駅',
       image: '',
       tweet_id: '',
-      description: '<p>3巻 P19  広島県尾道市 東御所町1</p> <p><img alt="DSC01288" src="https://live.staticflickr.com/65535/50744462141_cf1e4fbfb4_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.4048654&amp;lon=133.193159&amp;radius=0.25&amp;has_geo=1&amp;view_all=1">Flickr</a>【DSC01288】 by de98lip</p>',
+      description: '<p>3巻 P19  広島県尾道市 東御所町1</p> <p><img alt="IMG_0542" src="https://live.staticflickr.com/65535/51109393970_1030cbbdf7_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.4048654&amp;lon=133.193159&amp;radius=0.25&amp;has_geo=1&amp;view_all=1">Flickr</a>【IMG_0542】 by bluegreen405</p>',
       location: {
         center: [133.193159, 34.4048654],
         zoom: 14,
@@ -237,7 +237,7 @@ const config = {
       title: '尾道ラーメン日乃出食堂',
       image: '',
       tweet_id: '',
-      description: '<p>3巻 P25  広島県尾道市 土堂一丁目11</p> <p><img alt="DSC01285" src="https://live.staticflickr.com/65535/50744571237_5a5e36a2c8_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.4058259&amp;lon=133.1960287&amp;radius=0.25&amp;has_geo=1&amp;view_all=1">Flickr</a>【DSC01285】 by de98lip</p>',
+      description: '<p>3巻 P25  広島県尾道市 土堂一丁目11</p> <p><img alt="IMG_0547" src="https://live.staticflickr.com/65535/51108365554_584abec1b1_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.4058259&amp;lon=133.1960287&amp;radius=0.25&amp;has_geo=1&amp;view_all=1">Flickr</a>【IMG_0547】 by bluegreen405</p>',
       location: {
         center: [133.1960287, 34.4058259],
         zoom: 14,

@@ -6,9 +6,9 @@ const config = {
   theme: 'light',
   use3dTerrain: true,
   title: '第11旅 和歌山',
-  subtitle: '【和歌山】一年のおわりとはじまり',
+  subtitle: '【東牟婁郡串本町 新宮市 田辺市】一年のおわりとはじまり',
   byline: 'VisitSuzugamori 〜ざつ旅を辿る〜',
-  footer: '<p class="navi"><a href="/">🔝各話一覧へ</a> <a href="https://github.com/VisitSuzugamori/VisitSuzugamori.github.io">💬contact</a></p><p>原作：<a href="https://store.kadokawa.co.jp/shop/b/bM1394_dD/">ざつ旅-That&#39;s Journey-</a> &copy; 石坂 ケンタ, KADOKAWA, 電撃マオウ / 地図・テンプレート：<a href="https://github.com/mapbox/storytelling">Mapbox</a> / 地図作成：VisitSuzugamori, <a href="https://twitter.com/isnot49662340">isnot</a>',
+  footer: '<p class="navi"><a href="/">🔝各話一覧へ</a> <a href="https://github.com/VisitSuzugamori/VisitSuzugamori.github.io">💬contact</a></p><p>原作：<a href="https://www.kadokawa.co.jp/product/search/?sort=0&kw=%E3%81%96%E3%81%A4%E6%97%85">ざつ旅-That&#39;s Journey-</a> &copy; 石坂 ケンタ, KADOKAWA, 電撃マオウ / 地図・テンプレート：<a href="https://github.com/mapbox/storytelling">Mapbox</a> / 地図作成：VisitSuzugamori, <a href="https://twitter.com/isnot49662340">isnot</a>',
   chapters: [
     {
       id: '3巻-P57-串本駅',
@@ -217,7 +217,7 @@ const config = {
       title: 'くまのこ食堂',
       image: '',
       tweet_id: '',
-      description: '<p>3巻 P81  和歌山県田辺市 本宮町本宮</p> <p><img alt="hongu taisha, the original" src="https://live.staticflickr.com/4895/46354388122_8c6f6e384c_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=33.834421&amp;lon=135.7723926&amp;radius=0.25&amp;has_geo=1&amp;view_all=1">Flickr</a>【hongu taisha, the original】 by deziluzija</p>',
+      description: '<p>3巻 P81  和歌山県田辺市 本宮町本宮</p> <p><img alt="IMG_3544" src="https://live.staticflickr.com/65535/49393882143_a5f992baaa_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=33.834421&amp;lon=135.7723926&amp;radius=0.25&amp;has_geo=1&amp;view_all=1">Flickr</a>【IMG_3544】 by aneel</p>',
       location: {
         center: [135.7723926, 33.834421],
         zoom: 14,
@@ -236,8 +236,8 @@ const config = {
       hidden: false,
       title: '熊野本宮大社',
       image: '',
-      tweet_id: '1380142966174478339',
-      description: '<p>3巻 P82  和歌山県田辺市 本宮町本宮</p><div class="tweetContainer" id="tweet1380142966174478339"></div> ',
+      tweet_id: '1381162681286070272',
+      description: '<p>3巻 P82  和歌山県田辺市 本宮町本宮</p><div class="tweetContainer" id="tweet1381162681286070272"></div> ',
       location: {
         center: [135.7734753, 33.8405706],
         zoom: 14,

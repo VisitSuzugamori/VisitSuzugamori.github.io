@@ -6,9 +6,9 @@ const config = {
   theme: 'light',
   use3dTerrain: true,
   title: '第3旅 黒部',
-  subtitle: '【黒部】きときとふたり旅',
+  subtitle: '【千代田区 黒部市】きときとふたり旅',
   byline: 'VisitSuzugamori 〜ざつ旅を辿る〜',
-  footer: '<p class="navi"><a href="/">🔝各話一覧へ</a> <a href="https://github.com/VisitSuzugamori/VisitSuzugamori.github.io">💬contact</a></p><p>原作：<a href="https://store.kadokawa.co.jp/shop/b/bM1394_dD/">ざつ旅-That&#39;s Journey-</a> &copy; 石坂 ケンタ, KADOKAWA, 電撃マオウ / 地図・テンプレート：<a href="https://github.com/mapbox/storytelling">Mapbox</a> / 地図作成：VisitSuzugamori, <a href="https://twitter.com/isnot49662340">isnot</a>',
+  footer: '<p class="navi"><a href="/">🔝各話一覧へ</a> <a href="https://github.com/VisitSuzugamori/VisitSuzugamori.github.io">💬contact</a></p><p>原作：<a href="https://www.kadokawa.co.jp/product/search/?sort=0&kw=%E3%81%96%E3%81%A4%E6%97%85">ざつ旅-That&#39;s Journey-</a> &copy; 石坂 ケンタ, KADOKAWA, 電撃マオウ / 地図・テンプレート：<a href="https://github.com/mapbox/storytelling">Mapbox</a> / 地図作成：VisitSuzugamori, <a href="https://twitter.com/isnot49662340">isnot</a>',
   chapters: [
     {
       id: '1巻-P87-東京駅',
@@ -16,8 +16,8 @@ const config = {
       hidden: false,
       title: '東京駅',
       image: '',
-      tweet_id: '1380883216442159104',
-      description: '<p>1巻 P87  東京都千代田区 丸の内一丁目9</p><div class="tweetContainer" id="tweet1380883216442159104"></div> ',
+      tweet_id: '1381254811836952581',
+      description: '<p>1巻 P87  東京都千代田区 丸の内一丁目9</p><div class="tweetContainer" id="tweet1381254811836952581"></div> ',
       location: {
         center: [139.7671248, 35.6812362],
         zoom: 14,
@@ -197,7 +197,7 @@ const config = {
       title: '宇奈月駅',
       image: '',
       tweet_id: '',
-      description: '<p>1巻 P116  富山県黒部市 黒部峡谷口9</p> <p><img alt="610_7151" src="https://live.staticflickr.com/65535/50951989526_32aa01a53a_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=36.8150247&amp;lon=137.5859364&amp;radius=0.25&amp;has_geo=1&amp;view_all=1">Flickr</a>【610_7151】 by Lox Pix</p>',
+      description: '<p>1巻 P116  富山県黒部市 黒部峡谷口9</p> <p><img alt="610_7144" src="https://live.staticflickr.com/65535/50951286278_a7a64b5d2f_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=36.8150247&amp;lon=137.5859364&amp;radius=0.25&amp;has_geo=1&amp;view_all=1">Flickr</a>【610_7144】 by Lox Pix</p>',
       location: {
         center: [137.5859364, 36.8150247],
         zoom: 14,
@@ -217,7 +217,7 @@ const config = {
       title: 'やまびこ展望台',
       image: '',
       tweet_id: '',
-      description: '<p>1巻 P117  富山県黒部市 黒部峡谷口9</p> <p><img alt="610_7144" src="https://live.staticflickr.com/65535/50951286278_a7a64b5d2f_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=36.8142871&amp;lon=137.5881562&amp;radius=0.25&amp;has_geo=1&amp;view_all=1">Flickr</a>【610_7144】 by Lox Pix</p>',
+      description: '<p>1巻 P117  富山県黒部市 黒部峡谷口9</p> <p><img alt="610_7136" src="https://live.staticflickr.com/65535/50951287223_bbe270992c_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=36.8142871&amp;lon=137.5881562&amp;radius=0.25&amp;has_geo=1&amp;view_all=1">Flickr</a>【610_7136】 by Lox Pix</p>',
       location: {
         center: [137.5881562, 36.8142871],
         zoom: 14,
