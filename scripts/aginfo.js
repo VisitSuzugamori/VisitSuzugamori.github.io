@@ -12,6 +12,8 @@ class AginfoApi {
       ar: 500,
       ax: 1,
     };
+    this.place = new Set();
+    this.all_place = new Set();
   }
 
   getParams(lonlat) {
@@ -43,12 +45,14 @@ class AginfoApi {
     // console.debug(data);
 
     if (this.isOK(data.status)) {
-      return this.formatAdress(data.result);
+      const address = this.parseResult(data.result);
+      this.place.add(address.muni_name.replace(' ', ''));
+      return this.formatAdress(address);
     }
     return '';
   }
 
-  formatAdress(x) {
+  parseResult(x) {
     const pref_name = u.deepRetrieve(x, 'prefecture.pname', '');
     const muni_name = u.deepRetrieve(x, 'municipality.mname', '');
     const local = u.deepRetrieve(x, 'local', []);
@@ -56,7 +60,28 @@ class AginfoApi {
     const local_num = u.deepRetrieve(local[0], 'homenumber', '');
     const aza = u.deepRetrieve(x, 'aza', []);
     const aza_name = u.deepRetrieve(aza[0], 'name', '');
-    return `${pref_name}${muni_name} ${aza_name}${local_sec}${local_num}`;
+    return {
+      pref_name,
+      muni_name,
+      local_name: `${aza_name}${local_sec}${local_num}`,
+    };
+  }
+
+  formatAdress(address = {}) {
+    return `${address.pref_name}${address.muni_name} ${address.local_name}`;
+  }
+
+  summarizePlaces() {
+    for (const item of this.place) {
+      this.all_place.add(item);
+    }
+    const set = Array.from(this.place);
+    this.place.clear();
+    return set;
+  }
+
+  getAllPlaces() {
+    return Array.from(this.all_place);
   }
 }
 

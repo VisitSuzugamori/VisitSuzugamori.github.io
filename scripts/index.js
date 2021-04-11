@@ -53,6 +53,7 @@ const revGeoCoder = new AginfoApi();
       await u.simple_wait_sec(1);
     }
     await writeCsv('others', byStory.get('special'));
+    console.debug(revGeoCoder.getAllPlaces());
   } catch (e) {
     console.log('VisitSuzugamori', e);
   }
@@ -165,11 +166,10 @@ async function writeConfig(journey, s, j) {
     .replace(/###mapbox_access_token###/m, secret.mapbox.access_token)
     .replace(/###journey###/gm, journey)
     .replace(/###title###/gm, j.title)
-    .replace(/###place###/gm, j.place)
     .replace(/###subtitle###/gm, j.subtitle ? j.subtitle : '(単行本未収録)');
   const part2_source = cft[2];
   let part2 = '';
-  let idx = 0;
+  const getAlignments = getAlignmentsGenerator();
   for (const point of s) {
     const coordinates = point.get('coordinates').split(',', 2);
     const tweet_id = await tw.getTweetIdByGeo({
@@ -191,7 +191,7 @@ async function writeConfig(journey, s, j) {
     }
     let part2_item = `${part2_source}\n`;
     part2 += part2_item
-      .replace(/###align###/g, getAlignments(idx))
+      .replace(/###align###/g, getAlignments())
       .replace(/###journey###/g, u.replaceCharactorEntity4Html(journey))
       .replace(/###book###/g, u.replaceCharactorEntity4Html(xbook))
       .replace(/###page###/g, u.replaceCharactorEntity4Html(xpage))
@@ -202,22 +202,28 @@ async function writeConfig(journey, s, j) {
       .replace(/###flickr###/g, flickrContent)
       .replace(/###address###/g, u.replaceCharactorEntity4Html(address))
       .replace(/###coordinates###/g, coordinates.join(', '));
-    idx++;
   }
-  const content = part1 + part2 + cft[3];
+
+  const places = revGeoCoder.summarizePlaces();
+  console.debug(journey, places);
+  const content = part1.replace(/###place###/m, places.join(' ')) + part2 + cft[3];
   const dirname = `docs/TJ${journey}`;
   await u.makeDir(dirname);
   await fs.writeFile(path.normalize(`${dirname}/config.js`), content);
 }
 
-function getAlignments(num) {
-  if (num === 0) {
-    return 'center';
-  }
-  return new Map([
-    [0, 'left'],
-    [1, 'right'],
-  ]).get(num % 2);
+function getAlignmentsGenerator() {
+  let index = 0;
+  return () => {
+    index++;
+    if (index === 1) {
+      return 'center';
+    }
+    return new Map([
+      [0, 'right'],
+      [1, 'left'],
+    ]).get(index % 2);
+  };
 }
 
 function getTweetContainerHtml(tweet_id) {
