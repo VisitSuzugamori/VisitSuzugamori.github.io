@@ -7,7 +7,7 @@ class Common {
       await fs.access(dirname);
     } catch (e) {
       await fs.mkdir(dirname, { mode: 0o755 });
-      console.log(`mkdir: ${dirname}`);
+      // console.debug(`mkdir: ${dirname}`);
     }
   }
 

@@ -75,7 +75,7 @@ class TwitterApi {
   async getSearchRateLimitStatus() {
     const api = this.getClient();
     const endpoint = this.getEndpoint(this.api_version, this.product_track, 'rate_limit_status');
-    console.log('getSearchRateLimitStatus', endpoint);
+    // console.debug('getSearchRateLimitStatus', endpoint);
     try {
       const res = await api(endpoint, { searchParams: { resources: 'search' } }).catch((e) => {
         throw e;
