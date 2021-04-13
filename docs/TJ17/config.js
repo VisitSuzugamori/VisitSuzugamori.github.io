@@ -57,7 +57,7 @@ const config = {
       title: 'バジェット･レンタカー 小倉駅前店',
       image: '',
       tweet_id: '',
-      description: '<p>   福岡県北九州市 小倉北区 浅野二丁目14</p> <p><img alt="500 Series Shinkansen "Hello Kitty" livery" src="https://live.staticflickr.com/65535/50978378383_bb8703b193_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=33.887012&amp;lon=130.884924&amp;radius=0.25&amp;has_geo=1&amp;view_all=1">Flickr</a>【500 Series Shinkansen "Hello Kitty" livery】 by miyataka_jp</p>',
+      description: '<p>   福岡県北九州市 小倉北区 浅野二丁目14</p> <p><img alt="500 Series Shinkansen &quot;Hello Kitty&quot; livery" src="https://live.staticflickr.com/65535/50978378383_bb8703b193_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=33.887012&amp;lon=130.884924&amp;radius=0.25&amp;has_geo=1&amp;view_all=1">Flickr</a>【500 Series Shinkansen &quot;Hello Kitty&quot; livery】 by miyataka_jp</p>',
       location: {
         center: [130.884924, 33.887012],
         zoom: 14,

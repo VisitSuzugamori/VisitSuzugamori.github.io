@@ -417,7 +417,7 @@ const config = {
       title: '南極観測船『宗谷』',
       image: '',
       tweet_id: '',
-      description: '<p>4巻 P136  </p> <p><img alt="1958 Datsun 1000 Sedan "Fuji"" src="https://live.staticflickr.com/65535/50412480182_dca9ce910d_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.6191097&amp;lon=139.7738425&amp;radius=0.25&amp;has_geo=1&amp;view_all=1">Flickr</a>【1958 Datsun 1000 Sedan "Fuji"】 by inQue3</p>',
+      description: '<p>4巻 P136  </p> <p><img alt="1958 Datsun 1000 Sedan &quot;Fuji&quot;" src="https://live.staticflickr.com/65535/50412480182_dca9ce910d_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.6191097&amp;lon=139.7738425&amp;radius=0.25&amp;has_geo=1&amp;view_all=1">Flickr</a>【1958 Datsun 1000 Sedan &quot;Fuji&quot;】 by inQue3</p>',
       location: {
         center: [139.7738425, 35.6191097],
         zoom: 14,
