@@ -8,6 +8,16 @@ class FlickrApi {
     this.radius = config.radius || 0.25;
     this.image_url = config.image_url || 'url_z';
     this.deduped = new Set();
+    this.banned_flickr_id = new Set([
+      0,
+      49541153372,
+      50757332573,
+      45397217974,
+      31045012166,
+      50818863053,
+      50184359292,
+    ]);
+    this.banned_owner_name = new Set(['IamEvilSpamerBecauseReject']);
   }
 
   getUrl(latlon) {
@@ -79,14 +89,12 @@ class FlickrApi {
       const ownername = u.safeRetrieve(item, 'ownername', '');
       const title = u.safeRetrieve(item, 'title', '');
       const description = u.deepRetrieve(item, 'description._content)', '');
-      item.x_score = 0;
-      if (this.banViaId(fid) || this.banViaOwnerName(ownername) || this.isRedundancy(fid)) {
+      if (this.banned_flickr_id.has(fid) || this.banned_owner_name.has(ownername) || this.deduped.has(fid)) {
         item.x_score = -1;
-        return undefined;
+      } else {
+        item.x_score = this.scoreViaText(`${title}${description}`, 'ざつ旅', 1);
       }
-      item.x_score += this.scoreViaText(`${title}${description}`, 'ざつ旅', 10000);
-      // item.x_score += favorite_count;
-      return undefined;
+      this.deduped.add(fid);
     });
 
     data.sort((a, b) => {
@@ -101,30 +109,6 @@ class FlickrApi {
       return undefined;
     }
     return best;
-  }
-
-  banViaOwnerName(ownername) {
-    return new Set(['IamEvilSpamerBecauseReject']).has(ownername);
-  }
-
-  banViaId(fid) {
-    return new Set([
-      0,
-      49541153372,
-      50757332573,
-      45397217974,
-      31045012166,
-      50818863053,
-      50184359292,
-    ]).has(fid);
-  }
-
-  isRedundancy(fid) {
-    if (this.deduped.has(fid)) {
-      return true;
-    }
-    this.deduped.add(fid);
-    return false;
   }
 
   scoreViaText(text = '', keyword = '', point = 0) {
