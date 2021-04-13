@@ -70,7 +70,7 @@ class Common {
       // '*' : '&#42;',
       // '_' : '&#95;',
     };
-    return text.replace(/[<>&]/g, (match) => {
+    return text.replace(/[<>&"']/gm, (match) => {
       return ent[`${match}`];
     });
   }

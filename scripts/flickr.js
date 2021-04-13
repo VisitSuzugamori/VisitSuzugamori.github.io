@@ -27,7 +27,7 @@ class FlickrApi {
         radius: this.radius,
         format: 'json',
         nojsoncallback: 1,
-        per_page: 5,
+        per_page: 10,
         extras: `license,owner_name,description,date_taken,${this.image_url}`,
       })
     );
@@ -108,7 +108,15 @@ class FlickrApi {
   }
 
   banViaId(fid) {
-    return new Set([0]).has(fid);
+    return new Set([
+      0,
+      49541153372,
+      50757332573,
+      45397217974,
+      31045012166,
+      50818863053,
+      50184359292,
+    ]).has(fid);
   }
 
   isRedundancy(fid) {

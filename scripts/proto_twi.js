@@ -44,6 +44,8 @@ const secret = require('../my_secret.json');
     // console.log('AginfoApi', await revGeoCoder.getAdress([139.7631443, 35.6365639]));
     // console.log('AginfoApi', await revGeoCoder.getAdress([132.3181276, 34.2973092]));
     // console.log('AginfoApi', await revGeoCoder.getAdress([132.3198262, 34.2959885]));
+
+    console.log(u.replaceCharactorEntity4Html("h_nissy's Photography"));
   } catch (e) {
     console.log('exception', e);
   }
