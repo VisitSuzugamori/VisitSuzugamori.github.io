@@ -77,7 +77,7 @@ const config = {
       title: 'みやこや食堂',
       image: '',
       tweet_id: '',
-      description: '<p>2巻 P80  新潟県岩船郡 粟島浦村 </p> <p><img alt="粟島" src="https://live.staticflickr.com/1523/23318769184_5524d4c000_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=38.4650772&amp;lon=139.2530973&amp;radius=0.25&amp;has_geo=1&amp;view_all=1">Flickr</a>【粟島】 by GenJapan1986</p>',
+      description: '<p>2巻 P80  新潟県岩船郡 粟島浦村 </p> <p><img alt="粟島付近が黒雲に💦" src="https://live.staticflickr.com/4175/34265954030_6a56d6cffa_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=38.4650772&amp;lon=139.2530973&amp;radius=0.25&amp;has_geo=1&amp;view_all=1">Flickr</a>【粟島付近が黒雲に💦】 by mamezo1966</p>',
       location: {
         center: [139.2530973, 38.4650772],
         zoom: 14,
@@ -97,7 +97,7 @@ const config = {
       title: '漁火温泉 おと姫の湯',
       image: '',
       tweet_id: '',
-      description: '<p>2巻 P82  新潟県岩船郡 粟島浦村 </p> <p><img alt="粟島" src="https://live.staticflickr.com/1481/23651334020_3cc9312bbf_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=38.4687521&amp;lon=139.2549858&amp;radius=0.25&amp;has_geo=1&amp;view_all=1">Flickr</a>【粟島】 by GenJapan1986</p>',
+      description: '<p>2巻 P82  新潟県岩船郡 粟島浦村 </p> <p><img alt="粟島" src="https://live.staticflickr.com/5804/23920913106_db819f43a0_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=38.4687521&amp;lon=139.2549858&amp;radius=0.25&amp;has_geo=1&amp;view_all=1">Flickr</a>【粟島】 by GenJapan1986</p>',
       location: {
         center: [139.2549858, 38.4687521],
         zoom: 14,

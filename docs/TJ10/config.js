@@ -57,7 +57,7 @@ const config = {
       title: '八甲田 山頂公園',
       image: '',
       tweet_id: '',
-      description: '<p>3巻 P34  青森県青森市 </p> <p><img alt="" src="https://live.staticflickr.com/65535/50503418388_5bf50d6de3_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=40.6757743&amp;lon=140.8592116&amp;radius=0.25&amp;has_geo=1&amp;view_all=1">Flickr</a>【】 by Zweihänder</p>',
+      description: '<p>3巻 P34  青森県青森市 </p> ',
       location: {
         center: [140.8592116, 40.6757743],
         zoom: 14,
@@ -77,7 +77,7 @@ const config = {
       title: '谷地温泉',
       image: '',
       tweet_id: '',
-      description: '<p>3巻 P38  青森県十和田市 </p> <p><img alt="Yachi onsen, one of the secret onsen of Aomori" src="https://live.staticflickr.com/65535/50036012223_af7d118d43_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=40.6330178&amp;lon=140.9245271&amp;radius=0.25&amp;has_geo=1&amp;view_all=1">Flickr</a>【Yachi onsen, one of the secret onsen of Aomori】 by Hans ter Horst Photography</p>',
+      description: '<p>3巻 P38  青森県十和田市 </p> <p><img alt="IMG_6339" src="https://live.staticflickr.com/4836/46432352131_9c5c17f93f_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=40.6330178&amp;lon=140.9245271&amp;radius=0.25&amp;has_geo=1&amp;view_all=1">Flickr</a>【IMG_6339】 by Lewis Lai</p>',
       location: {
         center: [140.9245271, 40.6330178],
         zoom: 14,
@@ -117,7 +117,7 @@ const config = {
       title: '三途の川',
       image: '',
       tweet_id: '',
-      description: '<p>3巻 P49  青森県むつ市 </p> <p><img alt="Mutsu Oct 17 55" src="https://live.staticflickr.com/566/22580331092_51a11811f9_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=41.3260657&amp;lon=141.0962272&amp;radius=0.25&amp;has_geo=1&amp;view_all=1">Flickr</a>【Mutsu Oct 17 55】 by tculek</p>',
+      description: '<p>3巻 P49  青森県むつ市 </p> <p><img alt="DSC_0446" src="https://live.staticflickr.com/4739/39248648982_8a750ffff1_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=41.3260657&amp;lon=141.0962272&amp;radius=0.25&amp;has_geo=1&amp;view_all=1">Flickr</a>【DSC_0446】 by taewoongkwon</p>',
       location: {
         center: [141.0962272, 41.3260657],
         zoom: 14,
@@ -177,7 +177,7 @@ const config = {
       title: '恐山 花染の湯',
       image: '',
       tweet_id: '',
-      description: '<p>3巻 P52  青森県むつ市 </p> <p><img alt="DSC_0387" src="https://live.staticflickr.com/4641/25389932708_4ccc932212_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=41.3283697&amp;lon=141.0917047&amp;radius=0.25&amp;has_geo=1&amp;view_all=1">Flickr</a>【DSC_0387】 by taewoongkwon</p>',
+      description: '<p>3巻 P52  青森県むつ市 </p> ',
       location: {
         center: [141.0917047, 41.3283697],
         zoom: 14,

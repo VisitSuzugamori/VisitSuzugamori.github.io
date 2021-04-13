@@ -57,7 +57,7 @@ const config = {
       title: 'この辺まで来たよ',
       image: '',
       tweet_id: '',
-      description: '<p>3巻 P61  和歌山県東牟婁郡 串本町 </p> <p><img alt="1808 1059 7R303537" src="https://live.staticflickr.com/1842/30235383188_2f4038d554_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=33.4378491&amp;lon=135.754685&amp;radius=0.25&amp;has_geo=1&amp;view_all=1">Flickr</a>【1808 1059 7R303537】 by skycat1221</p>',
+      description: '<p>3巻 P61  和歌山県東牟婁郡 串本町 </p> <p><img alt="1808 1079 7R303555" src="https://live.staticflickr.com/1882/30235376518_6f1aa43d29_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=33.4378491&amp;lon=135.754685&amp;radius=0.25&amp;has_geo=1&amp;view_all=1">Flickr</a>【1808 1079 7R303555】 by skycat1221</p>',
       location: {
         center: [135.754685, 33.4378491],
         zoom: 14,
@@ -117,7 +117,7 @@ const config = {
       title: 'ビジネスホテル串本 駅前店',
       image: '',
       tweet_id: '',
-      description: '<p>3巻 P67  和歌山県東牟婁郡 串本町 串本40</p> <p><img alt="whaling story for the south end of the Kii Peninsula" src="https://live.staticflickr.com/4852/44065931920_23a842dcbb_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=33.474975&amp;lon=135.782048&amp;radius=0.25&amp;has_geo=1&amp;view_all=1">Flickr</a>【whaling story for the south end of the Kii Peninsula】 by anthroview</p>',
+      description: '<p>3巻 P67  和歌山県東牟婁郡 串本町 串本40</p> <p><img alt="sister city (Japan: Turkey) panorama 2018 Oct. 27 Kushimoto" src="https://live.staticflickr.com/4915/45089021854_ac4169c2b2_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=33.474975&amp;lon=135.782048&amp;radius=0.25&amp;has_geo=1&amp;view_all=1">Flickr</a>【sister city (Japan: Turkey) panorama 2018 Oct. 27 Kushimoto】 by anthroview</p>',
       location: {
         center: [135.782048, 33.474975],
         zoom: 14,
@@ -137,7 +137,7 @@ const config = {
       title: 'ビーフショップまるみ支店',
       image: '',
       tweet_id: '',
-      description: '<p>3巻 P69  和歌山県東牟婁郡 串本町 串本913</p> ',
+      description: '<p>3巻 P69  和歌山県東牟婁郡 串本町 串本913</p> <p><img alt="はしぐいいわ" src="https://live.staticflickr.com/65535/48994746457_bdd22704ff_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=33.4701756&amp;lon=135.7805652&amp;radius=0.25&amp;has_geo=1&amp;view_all=1">Flickr</a>【はしぐいいわ】 by 七福神</p>',
       location: {
         center: [135.7805652, 33.4701756],
         zoom: 14,
@@ -157,7 +157,7 @@ const config = {
       title: '潮岬観光タワー',
       image: '',
       tweet_id: '',
-      description: '<p>3巻 P71  和歌山県東牟婁郡 串本町 </p> <p><img alt="Milky way and Jupiter (3)" src="https://live.staticflickr.com/65535/50343782877_c69482ce8d_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=33.437806&amp;lon=135.7613677&amp;radius=0.25&amp;has_geo=1&amp;view_all=1">Flickr</a>【Milky way and Jupiter (3)】 by kuni4400</p>',
+      description: '<p>3巻 P71  和歌山県東牟婁郡 串本町 </p> ',
       location: {
         center: [135.7613677, 33.437806],
         zoom: 14,
@@ -177,7 +177,7 @@ const config = {
       title: '新宮駅',
       image: '',
       tweet_id: '',
-      description: '<p>3巻 P80  和歌山県新宮市 徐福一丁目3</p> <p><img alt="新宮駅" src="https://live.staticflickr.com/65535/50084565328_90a5daae47_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=33.7251509&amp;lon=135.9941471&amp;radius=0.25&amp;has_geo=1&amp;view_all=1">Flickr</a>【新宮駅】 by OOMYV</p>',
+      description: '<p>3巻 P80  和歌山県新宮市 徐福一丁目3</p> <p><img alt="新宮站, 和歌山, 日本, 新宮駅, しんぐうえき, わかやまけん, にっぽん, にほん, Shingu Station, Wakayama, Japan, Nippon, Nihon" src="https://live.staticflickr.com/65535/49355311872_c249392c99_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=33.7251509&amp;lon=135.9941471&amp;radius=0.25&amp;has_geo=1&amp;view_all=1">Flickr</a>【新宮站, 和歌山, 日本, 新宮駅, しんぐうえき, わかやまけん, にっぽん, にほん, Shingu Station, Wakayama, Japan, Nippon, Nihon】 by bryan...</p>',
       location: {
         center: [135.9941471, 33.7251509],
         zoom: 14,
@@ -197,7 +197,7 @@ const config = {
       title: '新宮市観光協会 shingu tourist information centre',
       image: '',
       tweet_id: '',
-      description: '<p>3巻 P81  和歌山県新宮市 徐福一丁目3</p> <p><img alt="新宮駅" src="https://live.staticflickr.com/65535/50084565328_90a5daae47_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=33.7254244&amp;lon=135.9946972&amp;radius=0.25&amp;has_geo=1&amp;view_all=1">Flickr</a>【新宮駅】 by OOMYV</p>',
+      description: '<p>3巻 P81  和歌山県新宮市 徐福一丁目3</p> ',
       location: {
         center: [135.9946972, 33.7254244],
         zoom: 14,
@@ -217,7 +217,7 @@ const config = {
       title: 'くまのこ食堂',
       image: '',
       tweet_id: '',
-      description: '<p>3巻 P81  和歌山県田辺市 本宮町本宮</p> <p><img alt="IMG_3544" src="https://live.staticflickr.com/65535/49393882143_a5f992baaa_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=33.834421&amp;lon=135.7723926&amp;radius=0.25&amp;has_geo=1&amp;view_all=1">Flickr</a>【IMG_3544】 by aneel</p>',
+      description: '<p>3巻 P81  和歌山県田辺市 本宮町本宮</p> <p><img alt="大齋原大鳥居, 熊野本宮大社, 八咫烏, 熊野三山, 紀伊山地的聖地及朝聖路, 世界遺產, 文化遺產, 和歌山, 日本, 大斎原大鳥居, くまのほんぐうたいしゃ, やたがらす, やたのからす, 熊野大権現, くまのさんざん, 紀伊山地の霊場と参詣道, きいさんちのれいじょうとさんけいみち, わかやまけん, にっぽん, にほん, Kumano Hongu Taisha, Yatagarasu, UNESCO World Heritage Site, Wakayama, Japan, Nippon" src="https://live.staticflickr.com/65535/50267588887_118dbac454_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=33.834421&amp;lon=135.7723926&amp;radius=0.25&amp;has_geo=1&amp;view_all=1">Flickr</a>【大齋原大鳥居, 熊野本宮大社, 八咫烏, 熊野三山, 紀伊山地的聖地及朝聖路, 世界遺產, 文化遺產, 和歌山, 日本, 大斎原大鳥居, くまのほんぐうたいしゃ, やたがらす, やたのからす, 熊野大権現, くまのさんざん, 紀伊山地の霊場と参詣道, きいさんちのれいじょうとさんけいみち, わかやまけん, にっぽん, にほん, Kumano Hongu Taisha, Yatagarasu, UNESCO World Heritage Site, Wakayama, Japan, Nippon】 by bryan...</p>',
       location: {
         center: [135.7723926, 33.834421],
         zoom: 14,
@@ -236,8 +236,8 @@ const config = {
       hidden: false,
       title: '熊野本宮大社',
       image: '',
-      tweet_id: '1381937426411646977',
-      description: '<p>3巻 P82  和歌山県田辺市 本宮町本宮</p><div class="tweetContainer" id="tweet1381937426411646977"></div> ',
+      tweet_id: '1381377938591862785',
+      description: '<p>3巻 P82  和歌山県田辺市 本宮町本宮</p><div class="tweetContainer" id="tweet1381377938591862785"></div> ',
       location: {
         center: [135.7734753, 33.8405706],
         zoom: 14,
@@ -257,7 +257,7 @@ const config = {
       title: '料理 萬口',
       image: '',
       tweet_id: '',
-      description: '<p>3巻 P85  和歌山県東牟婁郡 串本町 串本43</p> <p><img alt="whaling story for the south end of the Kii Peninsula" src="https://live.staticflickr.com/4852/44065931920_23a842dcbb_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=33.4745935&amp;lon=135.7817317&amp;radius=0.25&amp;has_geo=1&amp;view_all=1">Flickr</a>【whaling story for the south end of the Kii Peninsula】 by anthroview</p>',
+      description: '<p>3巻 P85  和歌山県東牟婁郡 串本町 串本43</p> ',
       location: {
         center: [135.7817317, 33.4745935],
         zoom: 14,
