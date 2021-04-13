@@ -77,7 +77,7 @@ const config = {
       title: '呉駅',
       image: '',
       tweet_id: '',
-      description: '<p>3巻 P11  広島県呉市 宝町2</p> <p><img alt="D71_2673" src="https://live.staticflickr.com/65535/50722338491_9a2e88ec94_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.2446471&amp;lon=132.5575846&amp;radius=0.25&amp;has_geo=1&amp;view_all=1">Flickr</a>【D71_2673】 by Lox Pix</p>',
+      description: '<p>3巻 P11  広島県呉市 宝町2</p> <p><img alt="D71_2674" src="https://live.staticflickr.com/65535/50721600568_6f3fbd3396_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.2446471&amp;lon=132.5575846&amp;radius=0.25&amp;has_geo=1&amp;view_all=1">Flickr</a>【D71_2674】 by Lox Pix</p>',
       location: {
         center: [132.5575846, 34.2446471],
         zoom: 14,
@@ -97,7 +97,7 @@ const config = {
       title: 'コンフォートホテル呉',
       image: '',
       tweet_id: '',
-      description: '<p>3巻 P12  広島県呉市 宝町2</p> <p><img alt="610_7077" src="https://live.staticflickr.com/65535/50883958847_967c4d8493_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.2431335&amp;lon=132.5586395&amp;radius=0.25&amp;has_geo=1&amp;view_all=1">Flickr</a>【610_7077】 by Lox Pix</p>',
+      description: '<p>3巻 P12  広島県呉市 宝町2</p> <p><img alt="610_7082" src="https://live.staticflickr.com/65535/50883852601_e578be2cef_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.2431335&amp;lon=132.5586395&amp;radius=0.25&amp;has_geo=1&amp;view_all=1">Flickr</a>【610_7082】 by Lox Pix</p>',
       location: {
         center: [132.5586395, 34.2431335],
         zoom: 14,
@@ -217,7 +217,7 @@ const config = {
       title: '頂上展望台',
       image: '',
       tweet_id: '',
-      description: '<p>3巻 P21  広島県尾道市 東土堂町20</p> <p><img alt="DSC01278" src="https://live.staticflickr.com/65535/50707158146_8164e03b5f_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.4106865&amp;lon=133.1969604&amp;radius=0.25&amp;has_geo=1&amp;view_all=1">Flickr</a>【DSC01278】 by de98lip</p>',
+      description: '<p>3巻 P21  広島県尾道市 東土堂町20</p> <p><img alt="尾道" src="https://live.staticflickr.com/65535/50129264636_4561532592_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.4106865&amp;lon=133.1969604&amp;radius=0.25&amp;has_geo=1&amp;view_all=1">Flickr</a>【尾道】 by Chitaka Chou</p>',
       location: {
         center: [133.1969604, 34.4106865],
         zoom: 14,

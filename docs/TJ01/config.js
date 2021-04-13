@@ -117,7 +117,7 @@ const config = {
       title: '小池菓子舗 飯盛山店',
       image: '',
       tweet_id: '',
-      description: '<p>1巻 P26  福島県会津若松市 一箕町八幡弁天下2</p> <p><img alt="イチョウ" src="https://live.staticflickr.com/65535/50757332573_7507ec536c_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=37.5044771&amp;lon=139.9528276&amp;radius=0.25&amp;has_geo=1&amp;view_all=1">Flickr</a>【イチョウ】 by Chitaka Chou</p>',
+      description: '<p>1巻 P26  福島県会津若松市 一箕町八幡弁天下2</p> <p><img alt="会津若松" src="https://live.staticflickr.com/65535/50757332358_af3638db53_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=37.5044771&amp;lon=139.9528276&amp;radius=0.25&amp;has_geo=1&amp;view_all=1">Flickr</a>【会津若松】 by Chitaka Chou</p>',
       location: {
         center: [139.9528276, 37.5044771],
         zoom: 14,

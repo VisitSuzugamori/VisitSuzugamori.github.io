@@ -57,7 +57,7 @@ const config = {
       title: '美保関バスターミナル',
       image: '',
       tweet_id: '',
-      description: '<p>4巻 P11  島根県松江市 </p> <p><img alt="When the problem becomes a new resource" src="https://live.staticflickr.com/4687/27243444929_5b91609333_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.534707&amp;lon=133.164644&amp;radius=0.25&amp;has_geo=1&amp;view_all=1">Flickr</a>【When the problem becomes a new resource】 by The Algonauts Project: sharing the power of algae!</p>',
+      description: '<p>4巻 P11  島根県松江市 </p> <p><img alt="七類-境港_まんばら" src="https://live.staticflickr.com/8553/8703296687_8ae7abd38a_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.534707&amp;lon=133.164644&amp;radius=0.25&amp;has_geo=1&amp;view_all=1">Flickr</a>【七類-境港_まんばら】 by zushonos</p>',
       location: {
         center: [133.164644, 35.534707],
         zoom: 14,
@@ -77,7 +77,7 @@ const config = {
       title: '美保関漁港',
       image: '',
       tweet_id: '',
-      description: '<p>4巻 P12,13  島根県松江市 美保関町美保関</p> <p><img alt="Algenblüte" src="https://live.staticflickr.com/7802/32132141527_757cb04645_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.5603343&amp;lon=133.3109506&amp;radius=0.25&amp;has_geo=1&amp;view_all=1">Flickr</a>【Algenblüte】 by hapePHOTOGRAPHIX</p>',
+      description: '<p>4巻 P12,13  島根県松江市 美保関町美保関</p> <p><img alt="美保神社, Study 5" src="https://live.staticflickr.com/4893/45647024552_ed44140553_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.5603343&amp;lon=133.3109506&amp;radius=0.25&amp;has_geo=1&amp;view_all=1">Flickr</a>【美保神社, Study 5】 by Zale Yu</p>',
       location: {
         center: [133.3109506, 35.5603343],
         zoom: 14,

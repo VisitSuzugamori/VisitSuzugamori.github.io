@@ -77,7 +77,7 @@ const config = {
       title: '高松築港駅',
       image: '',
       tweet_id: '',
-      description: '<p>1巻 P132  香川県高松市 寿町一丁目5</p> <p><img alt="610_8915 (2)" src="https://live.staticflickr.com/65535/51069935668_d66f4f72bb_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.350757&amp;lon=134.049468&amp;radius=0.25&amp;has_geo=1&amp;view_all=1">Flickr</a>【610_8915 (2)】 by Lox Pix</p>',
+      description: '<p>1巻 P132  香川県高松市 寿町一丁目5</p> <p><img alt="610_8927 (2)" src="https://live.staticflickr.com/65535/51070728837_1b9285c729_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.350757&amp;lon=134.049468&amp;radius=0.25&amp;has_geo=1&amp;view_all=1">Flickr</a>【610_8927 (2)】 by Lox Pix</p>',
       location: {
         center: [134.049468, 34.350757],
         zoom: 14,
@@ -157,7 +157,7 @@ const config = {
       title: '八栗ケーブル',
       image: '',
       tweet_id: '',
-      description: '<p>1巻 P142  香川県高松市 牟礼町牟礼3369</p> <p><img alt="Yakuri Temple, Takamatsu 2014" src="https://live.staticflickr.com/7533/16144643551_51f38a1952_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.3551328&amp;lon=134.1336543&amp;radius=0.25&amp;has_geo=1&amp;view_all=1">Flickr</a>【Yakuri Temple, Takamatsu 2014】 by shinji_w</p>',
+      description: '<p>1巻 P142  香川県高松市 牟礼町牟礼3369</p> <p><img alt="Yakuri Temple, Takamatsu, 2014" src="https://live.staticflickr.com/7495/16146515155_34cb5341ef_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.3551328&amp;lon=134.1336543&amp;radius=0.25&amp;has_geo=1&amp;view_all=1">Flickr</a>【Yakuri Temple, Takamatsu, 2014】 by shinji_w</p>',
       location: {
         center: [134.1336543, 34.3551328],
         zoom: 14,

@@ -217,7 +217,7 @@ const config = {
       title: '黒澤輪業',
       image: '',
       tweet_id: '',
-      description: '<p>   茨城県常陸太田市 東一町2283</p> <p><img alt="Kujiragaoka" src="https://live.staticflickr.com/65535/49278207067_93cd916408_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=36.541721&amp;lon=140.523689&amp;radius=0.25&amp;has_geo=1&amp;view_all=1">Flickr</a>【Kujiragaoka】 by ubic from tokyo</p>',
+      description: '<p>   茨城県常陸太田市 東一町2283</p> <p><img alt="Kujiragaoka" src="https://live.staticflickr.com/65535/49264007191_f670e42e4a_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=36.541721&amp;lon=140.523689&amp;radius=0.25&amp;has_geo=1&amp;view_all=1">Flickr</a>【Kujiragaoka】 by ubic from tokyo</p>',
       location: {
         center: [140.523689, 36.541721],
         zoom: 14,
@@ -237,7 +237,7 @@ const config = {
       title: '若宮八幡宮',
       image: '',
       tweet_id: '',
-      description: '<p>   茨城県常陸太田市 宮本町288</p> ',
+      description: '<p>   茨城県常陸太田市 宮本町288</p> <p><img alt="iPhone 6 Plusで撮影" src="https://live.staticflickr.com/8424/28145230624_85b356f717_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=36.542962&amp;lon=140.5207&amp;radius=0.25&amp;has_geo=1&amp;view_all=1">Flickr</a>【iPhone 6 Plusで撮影】 by Tokutomi Masaki</p>',
       location: {
         center: [140.5207, 36.542962],
         zoom: 14,
@@ -277,7 +277,7 @@ const config = {
       title: 'いづみや東バイパス店',
       image: '',
       tweet_id: '',
-      description: '<p>   茨城県常陸太田市 中城町西鯉沼2991</p> <p><img alt="image" src="https://live.staticflickr.com/8034/29127018593_52e7dfff70_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=36.5444717&amp;lon=140.5301508&amp;radius=0.25&amp;has_geo=1&amp;view_all=1">Flickr</a>【image】 by mhrs.jp</p>',
+      description: '<p>   茨城県常陸太田市 中城町西鯉沼2991</p> <p><img alt="Kujiragaoka" src="https://live.staticflickr.com/8233/8540807525_0e3d7435fe_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=36.5444717&amp;lon=140.5301508&amp;radius=0.25&amp;has_geo=1&amp;view_all=1">Flickr</a>【Kujiragaoka】 by Hitachinaka</p>',
       location: {
         center: [140.5301508, 36.5444717],
         zoom: 14,
