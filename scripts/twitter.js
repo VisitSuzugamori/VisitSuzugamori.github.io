@@ -1,4 +1,5 @@
 const got = require('got');
+const u = require('./common.js');
 
 class TwitterApi {
   constructor(config) {
@@ -92,12 +93,9 @@ class TwitterApi {
     try {
       const res = await this.searchGeo(options);
       const data = options.search_type === 'search_full_dev' ? res.results : res.statuses;
-      while (data.length > 0) {
-        const tweet = data.shift();
-        if (!this.deduped_tweets.has(tweet.id_str)) {
-          this.deduped_tweets.add(tweet.id_str);
-          return tweet.id_str;
-        }
+      if (data.length > 0) {
+        const tweet = this.findSpecificTweet(data, options);
+        return tweet ? tweet.id_str : undefined;
       }
       return undefined;
     } catch (e) {
@@ -122,12 +120,14 @@ class TwitterApi {
 
     const cache_key = `${additional_keyword}_${latlon.join('_')}`;
     if (this.api_cache.has(cache_key)) {
-      return this.api_cache.get(cache_key);
+      const cached = await this.api_cache.get(cache_key);
+      return cached.body;
     }
-    const res = await api(endpoint, { searchParams: params }).catch((e) => {
+    const res_promise = api(endpoint, { searchParams: params }).catch((e) => {
       throw e;
     });
-    this.api_cache.set(cache_key, res.body);
+    this.api_cache.set(cache_key, res_promise);
+    const res = await res_promise;
     return res.body;
   }
 
@@ -150,7 +150,8 @@ class TwitterApi {
       geocode: `${latlon[1]},${latlon[0]},${this.radius}`,
       lang: 'ja',
       include_entities: 'false',
-      count: 5,
+      count: 100,
+      result_type: 'recent',
     };
     return new Map([
       ['1.1_search_recent', V1_Standard],
@@ -159,6 +160,79 @@ class TwitterApi {
       ['2_search_full', V2],
       ['2_search_full_dev', V2],
     ]).get(`${this.api_version}_${search_type}`);
+  }
+
+  findSpecificTweet(data, options) {
+    // tweetを選抜する 評価の指標
+    // ☑id_str: 重複していないか？同じtweetを別の場所に掲載することは避けたい
+    // ☑id_str: BANリストと照合する
+    // ☑user.screen_name: BANリストと照合する
+    // ☑possibly_sensitive: false
+    // ☑filter_level: none,low,medium
+    // ☑extended_tweet.full_text: 「ざつ旅」あり→最優先
+    // ☑extended_tweet.full_text: 「場所名」あり→優先高
+    // ☑favorite_count: 7
+    // quote_count: 0
+    // reply_count: 0
+    // retweet_count: 0
+    // source: SWARM、Foursquareの評価は？
+    // retweetではない。オリジナルのtweetであること？
+
+    data.forEach((item) => {
+      const tid = u.safeRetrieve(item, 'id_str', '');
+      const text = u.safeRetrieve(item, 'text', '');
+      const possibly_sensitive = u.safeRetrieve(item, 'possibly_sensitive', false);
+      const filter_level = u.safeRetrieve(item, 'filter_level', '');
+      const favorite_count = u.safeRetrieve(item, 'favorite_count', 0);
+      const screen_name = u.deepRetrieve(item, 'user.screen_name', '');
+      const full_text = u.deepRetrieve(item, 'extended_tweet.full_text', '');
+      item.x_score = 0;
+      if (
+        this.banViaTweetId(tid) ||
+        this.banViaUserScreenName(screen_name) ||
+        this.isTweetRedundancy(tid) ||
+        possibly_sensitive
+      ) {
+        item.x_score = -1;
+        return undefined;
+      }
+      item.x_score += this.scoreViaText(`${text}${full_text}`, this.keyword, 10000);
+      item.x_score += this.scoreViaText(`${text}${full_text}`, options.additional_keyword, 1000);
+      item.x_score += this.scoreViaText(filter_level, 'medium', 100);
+      item.x_score += this.scoreViaText(filter_level, 'low', 10);
+      item.x_score += favorite_count;
+      return undefined;
+    });
+
+    data.sort((a, b) => {
+      return b.x_score - a.x_score;
+    });
+    const best_tweet = data.shift();
+    console.debug('...Tweet', options.additional_keyword, best_tweet.text);
+    if (best_tweet.x_score < 0) {
+      return undefined;
+    }
+    return best_tweet;
+  }
+
+  banViaUserScreenName(screen_name) {
+    return new Set(['IamEvilSpamerBecauseRejectTweets']).has(screen_name);
+  }
+
+  banViaTweetId(id_str) {
+    return new Set(['00000000000000000000']).has(id_str);
+  }
+
+  isTweetRedundancy(id_str) {
+    if (this.deduped_tweets.has(id_str)) {
+      return true;
+    }
+    this.deduped_tweets.add(id_str);
+    return false;
+  }
+
+  scoreViaText(text = '', keyword = '', point = 0) {
+    return text.indexOf(keyword) > -1 ? point : 0;
   }
 }
 

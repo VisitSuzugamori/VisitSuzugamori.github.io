@@ -7,7 +7,7 @@ const u = require('./common.js');
 // eslint-disable-next-line node/no-unpublished-require
 const secret = require('../my_secret.json');
 
-console.log(secret);
+// console.log(secret);
 (async () => {
   try {
     const tw = new TwitterApi({
@@ -20,12 +20,14 @@ console.log(secret);
       search_type: 'search_full_dev',
       dry_run: false,
     });
+
     // const res = await tw.searchGeo({
-    //   latlon: [141.06267088910175, 38.36961351956921],
-    //   additional_keyword: '船',
-    //   search_type: 'search_recent',
-    // });
-    // console.log('OK', typeof res, res);
+    const res = await tw.getTweetIdByGeo({
+      latlon: [141.06267088910175, 38.36961351956921],
+      additional_keyword: '松島',
+      search_type: 'search_recent',
+    });
+    console.log('OK', typeof res, res);
 
     const status = await tw.getSearchRateLimitStatus();
     console.log('status', status);
@@ -33,15 +35,15 @@ console.log(secret);
     const flickr = new FlickrApi({
       flickr_key: secret.flickr.flickr_key,
     });
-    // const fi = await flickr.getXXX([141.06267088910175, 38.36961351956921]);
-    // console.log('FlickrApi', fi);
+    const fi = await flickr.flickrImage([141.06267088910175, 38.36961351956921]);
+    console.log('FlickrApi', fi);
 
     const revGeoCoder = new AginfoApi();
     // const address = ;
-    console.log('AginfoApi', await revGeoCoder.getAdress([141.0628948, 38.3689558]));
-    console.log('AginfoApi', await revGeoCoder.getAdress([139.7631443, 35.6365639]));
-    console.log('AginfoApi', await revGeoCoder.getAdress([132.3181276, 34.2973092]));
-    console.log('AginfoApi', await revGeoCoder.getAdress([132.3198262, 34.2959885]));
+    // console.log('AginfoApi', await revGeoCoder.getAdress([141.0628948, 38.3689558]));
+    // console.log('AginfoApi', await revGeoCoder.getAdress([139.7631443, 35.6365639]));
+    // console.log('AginfoApi', await revGeoCoder.getAdress([132.3181276, 34.2973092]));
+    // console.log('AginfoApi', await revGeoCoder.getAdress([132.3198262, 34.2959885]));
   } catch (e) {
     console.log('exception', e);
   }

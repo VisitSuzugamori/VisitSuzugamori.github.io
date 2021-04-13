@@ -179,13 +179,13 @@ async function writeConfig(journey, s, j) {
     });
     const tweetContainer = getTweetContainerHtml(tweet_id);
     const flickrContent = tweet_id ? '' : await getFlickrContentHtml(coordinates);
-    console.debug('building...', coordinates, tweet_id, flickrContent);
+    console.debug('building...', coordinates, tweet_id);
     const xbook = point.get('book') ? `${point.get('book')}巻` : '';
     const xpage = point.get('page') ? `P${point.get('page')}` : '';
     let address = '';
     try {
       address = await revGeoCoder.getAdress(coordinates);
-      console.log(`AginfoApi: #GET ${address}`);
+      console.log(`...AginfoApi: ${address}`);
     } catch (e) {
       console.debug(e);
     }
@@ -236,6 +236,7 @@ function getTweetContainerHtml(tweet_id) {
 async function getFlickrContentHtml(latlon) {
   const image = await flickr.flickrImage(latlon).catch(console.log);
   if (image) {
+    console.debug(`...Flickr ${image.title}`);
     const searchUrl = u.replaceCharactorEntity4Html(flickr.getSearchUrl(latlon));
     return `<p>
 <img alt="${u.replaceCharactorEntity4Html(image.title)}" src="${u.replaceCharactorEntity4Html(image.url)}">
