@@ -16,8 +16,8 @@ const config = {
       hidden: false,
       title: '仙台駅',
       image: '',
-      tweet_id: '1381206217507237889',
-      description: '<p>1巻 P61  宮城県仙台市 青葉区 中央一丁目</p><div class="tweetContainer" id="tweet1381206217507237889"></div> ',
+      tweet_id: '1381885437719941123',
+      description: '<p>1巻 P61  宮城県仙台市 青葉区 中央一丁目</p><div class="tweetContainer" id="tweet1381885437719941123"></div> ',
       location: {
         center: [140.8824375, 38.2601316],
         zoom: 14,

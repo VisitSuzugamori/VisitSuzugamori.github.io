@@ -36,8 +36,8 @@ const config = {
       hidden: false,
       title: '京都駅',
       image: '',
-      tweet_id: '1381157617599320066',
-      description: '<p>2巻 P6  京都府京都市 下京区 東塩小路町676</p><div class="tweetContainer" id="tweet1381157617599320066"></div> ',
+      tweet_id: '1381964126008774656',
+      description: '<p>2巻 P6  京都府京都市 下京区 東塩小路町676</p><div class="tweetContainer" id="tweet1381964126008774656"></div> ',
       location: {
         center: [135.7587667, 34.985849],
         zoom: 14,

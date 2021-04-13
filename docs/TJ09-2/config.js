@@ -156,8 +156,8 @@ const config = {
       hidden: false,
       title: '日招きの里 呉ハイカラ食堂',
       image: '',
-      tweet_id: '1378906012502089732',
-      description: '<p>3巻 P15  広島県呉市 宝町4</p><div class="tweetContainer" id="tweet1378906012502089732"></div> ',
+      tweet_id: '',
+      description: '<p>3巻 P15  広島県呉市 宝町4</p> <p><img alt="610_7069" src="https://live.staticflickr.com/65535/50883132783_8009a079ca_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.2415568&amp;lon=132.5574165&amp;radius=0.25&amp;has_geo=1&amp;view_all=1">Flickr</a>【610_7069】 by Lox Pix</p>',
       location: {
         center: [132.5574165, 34.2415568],
         zoom: 14,

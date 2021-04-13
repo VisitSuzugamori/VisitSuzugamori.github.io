@@ -56,8 +56,8 @@ const config = {
       hidden: false,
       title: '会津若松駅',
       image: '',
-      tweet_id: '1381189650207887366',
-      description: '<p>1巻 P24  福島県会津若松市 駅前町1</p><div class="tweetContainer" id="tweet1381189650207887366"></div> ',
+      tweet_id: '1381435584950927363',
+      description: '<p>1巻 P24  福島県会津若松市 駅前町1</p><div class="tweetContainer" id="tweet1381435584950927363"></div> ',
       location: {
         center: [139.9303261, 37.5078657],
         zoom: 14,
@@ -136,8 +136,8 @@ const config = {
       hidden: false,
       title: 'くつろぎ宿 千代滝',
       image: '',
-      tweet_id: '1378625650177662976',
-      description: '<p>1巻 P30  福島県会津若松市 東山町湯本寺屋敷19</p><div class="tweetContainer" id="tweet1378625650177662976"></div> ',
+      tweet_id: '',
+      description: '<p>1巻 P30  福島県会津若松市 東山町湯本寺屋敷19</p> <p><img alt="IMG_3816" src="https://live.staticflickr.com/4851/45397217974_9eb4147f24_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=37.4793359&amp;lon=139.9623918&amp;radius=0.25&amp;has_geo=1&amp;view_all=1">Flickr</a>【IMG_3816】 by k_natsumoto</p>',
       location: {
         center: [139.9623918, 37.4793359],
         zoom: 14,

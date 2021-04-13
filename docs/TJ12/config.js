@@ -56,8 +56,8 @@ const config = {
       hidden: false,
       title: '宮沢賢治記念館',
       image: '',
-      tweet_id: '1379061809362075656',
-      description: '<p>3巻 P91  岩手県花巻市 矢沢第一地割15</p><div class="tweetContainer" id="tweet1379061809362075656"></div> ',
+      tweet_id: '',
+      description: '<p>3巻 P91  岩手県花巻市 矢沢第一地割15</p> <p><img alt="20200201_111209" src="https://live.staticflickr.com/65535/49525100391_19659df9aa_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=39.3992073&amp;lon=141.1626699&amp;radius=0.25&amp;has_geo=1&amp;view_all=1">Flickr</a>【20200201_111209】 by honhong1598</p>',
       location: {
         center: [141.1626699, 39.3992073],
         zoom: 14,
@@ -76,8 +76,8 @@ const config = {
       hidden: false,
       title: '山猫軒',
       image: '',
-      tweet_id: '1378925613566713856',
-      description: '<p>3巻 P92  岩手県花巻市 高松第二十六地割8</p><div class="tweetContainer" id="tweet1378925613566713856"></div> ',
+      tweet_id: '',
+      description: '<p>3巻 P92  岩手県花巻市 高松第二十六地割8</p> <p><img alt="20200201_111234" src="https://live.staticflickr.com/65535/49525100341_f78ece8444_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=39.3994579&amp;lon=141.1645876&amp;radius=0.25&amp;has_geo=1&amp;view_all=1">Flickr</a>【20200201_111234】 by honhong1598</p>',
       location: {
         center: [141.1645876, 39.3994579],
         zoom: 14,
