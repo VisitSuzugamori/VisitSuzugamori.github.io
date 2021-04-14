@@ -11,12 +11,39 @@ class Common {
     }
   }
 
-  simple_wait_sec(sec = 1) {
-    return new Promise((resolve) => setTimeout(resolve, sec * 1000));
+  async read_local_file(filepath) {
+    return fs.readFile(filepath, { encoding: 'utf-8', flag: 'r' });
+  }
+
+  async loadBlockList(filename = 'blocklist.txt') {
+    const raw = await this.read_local_file(filename).catch((e) => {
+      throw new Error(`cannot read blocklist. ${e}`);
+    });
+    const data = new Map();
+    let subject = '';
+    raw.split(/\n/).forEach((line) => {
+      const head = line.substring(0, 1);
+      if (head === '#' || line === '') {
+        return undefined;
+      }
+      if (head === '@') {
+        subject = line.substring(1);
+        return undefined;
+      }
+      if (!data.has(subject)) {
+        data.set(subject, new Set());
+      }
+      data.get(subject).add(line);
+    });
+    return data;
   }
 
   scoreViaText(text = '', keyword = '', point = 0) {
     return text.indexOf(keyword) > -1 ? point : 0;
+  }
+
+  simple_wait_sec(sec = 1) {
+    return new Promise((resolve) => setTimeout(resolve, sec * 1000));
   }
 
   safeRetrieve(target = {}, key = '', alternate = '') {

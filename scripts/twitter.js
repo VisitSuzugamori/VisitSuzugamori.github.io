@@ -12,8 +12,8 @@ class TwitterApi {
     this.product_track = product_track || 'Standard';
     this.search_type = search_type || '';
     this.dry_run = dry_run || false;
-    this.banned_user_screen_name = config.banned_user_screen_name || new Set(['max_utsunomiya']);
-    this.banned_tweet_id = config.banned_tweet_id || new Set(['00000000000000000000']);
+    this.banned_user_screen_name = new Set();
+    this.banned_tweet_id = new Set();
     this.endpoint = new Map([
       [
         1.1,
@@ -58,6 +58,11 @@ class TwitterApi {
     ]);
     this.deduped_tweets = new Set();
     this.api_cache = new Map();
+  }
+
+  setBlockList(blocklist) {
+    this.banned_tweet_id = blocklist.get('banned_tweet_id');
+    this.banned_user_screen_name = blocklist.get('banned_user_screen_name');
   }
 
   getClient() {

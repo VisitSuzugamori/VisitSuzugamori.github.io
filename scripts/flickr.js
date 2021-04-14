@@ -8,27 +8,14 @@ class FlickrApi {
     this.radius = config.radius || 0.25;
     this.image_url = config.image_url || 'url_z';
     this.keyword = config.keyword || 'ざつ旅';
-    this.banned_flickr_id =
-      config.banned_flickr_id ||
-      new Set([
-        '0',
-        '49541153372',
-        '50757332573',
-        '45397217974',
-        '31045012166',
-        '50818863053',
-        '50184359292',
-        '49525072966',
-        '49047436768',
-        '49611285738',
-        '49611285813',
-        '49355311872',
-        '49472253848',
-        '32167451254',
-        '49472254008',
-      ]);
-    this.banned_owner_name = config.banned_owner_name || new Set(['快樂雲', '小蜘蛛 幻想的世界']);
+    this.banned_flickr_id = new Set();
+    this.banned_owner_name = new Set();
     this.deduped = new Set();
+  }
+
+  setBlockList(blocklist) {
+    this.banned_owner_name = blocklist.get('banned_owner_name');
+    this.banned_flickr_id = blocklist.get('banned_flickr_id');
   }
 
   getUrl(latlon) {
