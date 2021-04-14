@@ -5,15 +5,15 @@ class TwitterApi {
   constructor(config) {
     this.token = config.bearer_token;
     const { keyword, query_param, radius, api_version, product_track, search_type, dry_run } = config;
-    this.keyword = keyword;
+    this.keyword = keyword || '';
     this.query_param = query_param;
-    this.radius = radius;
-    this.api_version = api_version;
-    this.product_track = product_track;
-    this.search_type = search_type;
-    this.dry_run = dry_run;
-    this.deduped_tweets = new Set();
-    this.api_cache = new Map();
+    this.radius = radius || '0.1km';
+    this.api_version = api_version || 1.1;
+    this.product_track = product_track || 'Standard';
+    this.search_type = search_type || '';
+    this.dry_run = dry_run || false;
+    this.banned_user_screen_name = config.banned_user_screen_name || new Set(['IamEvilToRejectTweets']);
+    this.banned_tweet_id = config.banned_tweet_id || new Set(['00000000000000000000']);
     this.endpoint = new Map([
       [
         1.1,
@@ -56,6 +56,8 @@ class TwitterApi {
         ]),
       ],
     ]);
+    this.deduped_tweets = new Set();
+    this.api_cache = new Map();
   }
 
   getClient() {
@@ -76,7 +78,6 @@ class TwitterApi {
   async getSearchRateLimitStatus() {
     const api = this.getClient();
     const endpoint = this.getEndpoint(this.api_version, this.product_track, 'rate_limit_status');
-    // console.debug('getSearchRateLimitStatus', endpoint);
     try {
       const res = await api(endpoint, { searchParams: { resources: 'search' } }).catch((e) => {
         throw e;
@@ -132,7 +133,6 @@ class TwitterApi {
   }
 
   setupParams(latlon, additional_keyword, search_type) {
-    // console.debug('setupParams', latlon, additional_keyword, search_type);
     const V2 = {
       query: `${this.keyword} OR ${additional_keyword} ${this.query_param} point_radius:[${latlon[0]} ${latlon[1]} ${this.radius}]`,
       'place.fields': 'contained_within,full_name,geo,id,name,place_type',
@@ -188,51 +188,40 @@ class TwitterApi {
       const full_text = u.deepRetrieve(item, 'extended_tweet.full_text', '');
       item.x_score = 0;
       if (
-        this.banViaTweetId(tid) ||
-        this.banViaUserScreenName(screen_name) ||
-        this.isTweetRedundancy(tid) ||
+        this.banned_tweet_id.has(tid) ||
+        this.banned_user_screen_name.has(screen_name) ||
+        this.deduped_tweets.has(tid) ||
         possibly_sensitive
       ) {
         item.x_score = -1;
         return undefined;
       }
-      item.x_score += this.scoreViaText(`${text}${full_text}`, this.keyword, 10000);
-      item.x_score += this.scoreViaText(`${text}${full_text}`, options.additional_keyword, 1000);
-      item.x_score += this.scoreViaText(filter_level, 'medium', 100);
-      item.x_score += this.scoreViaText(filter_level, 'low', 10);
+      item.x_score += u.scoreViaText(`${text}${full_text}`, this.keyword, 10000);
+      item.x_score += u.scoreViaText(`${text}${full_text}`, options.additional_keyword, 1000);
+      item.x_score += u.scoreViaText(filter_level, 'medium', 100);
+      item.x_score += u.scoreViaText(filter_level, 'low', 10);
       item.x_score += favorite_count;
       return undefined;
     });
 
     data.sort((a, b) => {
+      if (b.x_score === a.x_score) {
+        return new Date(b.created_at).valueOf() - new Date(a.created_at).valueOf();
+      }
       return b.x_score - a.x_score;
     });
-    const best_tweet = data.shift();
-    console.debug('...Tweet', options.additional_keyword, best_tweet.text);
-    if (best_tweet.x_score < 0) {
+    const best = data.shift();
+    this.deduped_tweets.add(best.id_str);
+    console.debug('...Tweet', options.additional_keyword, best.text);
+    if (best.x_score < 0) {
+      console.log(
+        '###BADSCORE###',
+        data.slice(0, 9).map((t) => `@${t.x_score}@${t.text}`),
+        best
+      );
       return undefined;
     }
-    return best_tweet;
-  }
-
-  banViaUserScreenName(screen_name) {
-    return new Set(['IamEvilSpamerBecauseRejectTweets']).has(screen_name);
-  }
-
-  banViaTweetId(id_str) {
-    return new Set(['00000000000000000000']).has(id_str);
-  }
-
-  isTweetRedundancy(id_str) {
-    if (this.deduped_tweets.has(id_str)) {
-      return true;
-    }
-    this.deduped_tweets.add(id_str);
-    return false;
-  }
-
-  scoreViaText(text = '', keyword = '', point = 0) {
-    return text.indexOf(keyword) > -1 ? point : 0;
+    return best;
   }
 }
 

@@ -7,17 +7,20 @@ class FlickrApi {
     this.flickr_key = config.flickr_key || '';
     this.radius = config.radius || 0.25;
     this.image_url = config.image_url || 'url_z';
+    this.keyword = config.keyword || 'ざつ旅';
+    this.banned_flickr_id =
+      config.banned_flickr_id ||
+      new Set([
+        '0',
+        '49541153372',
+        '50757332573',
+        '45397217974',
+        '31045012166',
+        '50818863053',
+        '50184359292',
+      ]);
+    this.banned_owner_name = config.banned_owner_name || new Set(['IamEvilSpamerBecauseReject']);
     this.deduped = new Set();
-    this.banned_flickr_id = new Set([
-      0,
-      49541153372,
-      50757332573,
-      45397217974,
-      31045012166,
-      50818863053,
-      50184359292,
-    ]);
-    this.banned_owner_name = new Set(['IamEvilSpamerBecauseReject']);
   }
 
   getUrl(latlon) {
@@ -64,7 +67,6 @@ class FlickrApi {
       throw e;
     });
     const data = await res.body;
-    // console.log(data);
     if (data.photos.total > 0) {
       const image = this.findSpecificImage(data.photos.photo);
       if (image) {
@@ -92,9 +94,8 @@ class FlickrApi {
       if (this.banned_flickr_id.has(fid) || this.banned_owner_name.has(ownername) || this.deduped.has(fid)) {
         item.x_score = -1;
       } else {
-        item.x_score = this.scoreViaText(`${title}${description}`, 'ざつ旅', 1);
+        item.x_score = u.scoreViaText(`${title}${description}`, this.keyword, 1);
       }
-      this.deduped.add(fid);
     });
 
     data.sort((a, b) => {
@@ -104,15 +105,11 @@ class FlickrApi {
       return b.x_score - a.x_score;
     });
     const best = data.shift();
-    // console.debug('...Flickr', best, data);
+    this.deduped.add(best.id);
     if (best.x_score < 0) {
       return undefined;
     }
     return best;
-  }
-
-  scoreViaText(text = '', keyword = '', point = 0) {
-    return text.indexOf(keyword) > -1 ? point : 0;
   }
 }
 

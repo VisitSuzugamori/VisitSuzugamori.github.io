@@ -15,6 +15,10 @@ class Common {
     return new Promise((resolve) => setTimeout(resolve, sec * 1000));
   }
 
+  scoreViaText(text = '', keyword = '', point = 0) {
+    return text.indexOf(keyword) > -1 ? point : 0;
+  }
+
   safeRetrieve(target = {}, key = '', alternate = '') {
     if (typeof target !== 'object' || target === null) {
       return alternate;
