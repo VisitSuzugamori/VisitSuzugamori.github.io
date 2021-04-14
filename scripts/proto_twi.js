@@ -45,11 +45,16 @@ const secret = require('../my_secret.json');
     // console.log('AginfoApi', await revGeoCoder.getAdress([132.3181276, 34.2973092]));
     // console.log('AginfoApi', await revGeoCoder.getAdress([132.3198262, 34.2959885]));
 
-    console.log(u.replaceCharactorEntity4Html("h_nissy's Photography"));
+    // console.log(u.replaceCharactorEntity4Html("h_nissy's Photography"));
   } catch (e) {
     console.log('exception', e);
   }
 })();
+
+u.loadBlockList('./src/blocklist.txt').then((blocklist) => {
+  console.log(typeof blocklist, blocklist);
+  console.log('banned_flickr_id', Array.from(blocklist.get('banned_flickr_id')));
+});
 
 // curl "https://api.twitter.com/1.1/search/tweets.json?q=filter:media+-filter:retweets&geocode=35.69919805437275,139.41377258216218,0.1km" -H "Authorization: Bearer "
 // curl "https://api.twitter.com/1.1/tweets/search/fullarchive/dev.json?query=has:images+lang:ja+point_radius:\[139.41377258216218+35.69919805437275+0.1km\]" -H "Authorization: Bearer "

@@ -33,36 +33,6 @@ const flickr = new FlickrApi({
 
 const revGeoCoder = new AginfoApi();
 
-(async () => {
-  try {
-    const rawContent = await read_kml_file(kmlPath);
-    const parser = new DOMParser();
-    const kml = parser.parseFromString(rawContent, 'application/xml');
-    const placemarks = parseKml(kml);
-    const byStory = indexByStory(placemarks);
-
-    for (const sIndex of Array.from(byStory.keys()).filter((x) => x !== 'special')) {
-      let jData = {};
-      if (u.hasProperty(VistSuzugamori.stories, `TJ${sIndex}`)) {
-        jData = VistSuzugamori.stories[`TJ${sIndex}`];
-      }
-      const sData = byStory.get(sIndex);
-      await writeHtml(sIndex);
-      await writeConfig(sIndex, sData, jData);
-      await writeCsv(sIndex, sData);
-      await u.simple_wait_sec(1);
-    }
-    await writeCsv('others', byStory.get('special'));
-    console.debug(revGeoCoder.getAllPlaces());
-  } catch (e) {
-    console.log('VisitSuzugamori', e);
-  }
-})();
-
-async function read_kml_file(filepath) {
-  return fs.readFile(filepath, { encoding: 'utf-8', flag: 'r' });
-}
-
 function parseKml(kml) {
   const data = new Set();
   const points = kml.documentElement.getElementsByTagName('Placemark');
@@ -246,3 +216,32 @@ async function getFlickrContentHtml(latlon) {
   }
   return '';
 }
+
+(async () => {
+  const blocklist = await u.loadBlockList('./src/blocklist.txt');
+  tw.setBlockList(blocklist);
+  flickr.setBlockList(blocklist);
+  try {
+    const rawContent = await u.read_local_file(kmlPath);
+    const parser = new DOMParser();
+    const kml = parser.parseFromString(rawContent, 'application/xml');
+    const placemarks = parseKml(kml);
+    const byStory = indexByStory(placemarks);
+
+    for (const sIndex of Array.from(byStory.keys()).filter((x) => x !== 'special')) {
+      let jData = {};
+      if (u.hasProperty(VistSuzugamori.stories, `TJ${sIndex}`)) {
+        jData = VistSuzugamori.stories[`TJ${sIndex}`];
+      }
+      const sData = byStory.get(sIndex);
+      await writeHtml(sIndex);
+      await writeConfig(sIndex, sData, jData);
+      await writeCsv(sIndex, sData);
+      await u.simple_wait_sec(1);
+    }
+    await writeCsv('others', byStory.get('special'));
+    console.debug(revGeoCoder.getAllPlaces());
+  } catch (e) {
+    console.log('VisitSuzugamori', e);
+  }
+})();
