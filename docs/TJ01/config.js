@@ -97,7 +97,7 @@ const config = {
       title: '子安観音と古峯神社',
       image: '',
       tweet_id: '',
-      description: '<p>1巻 P25  福島県会津若松市 蚕養町4</p> <p><img alt="20200206_232850" src="https://live.staticflickr.com/65535/49525072966_5da300e531_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=37.5060192&amp;lon=139.9379115&amp;radius=0.25&amp;has_geo=1&amp;view_all=1">Flickr</a>【20200206_232850】 by honhong1598</p>',
+      description: '<p>1巻 P25  福島県会津若松市 蚕養町4</p> <p><img alt="DSCF0810" src="https://live.staticflickr.com/7357/26797549713_5947d2259b_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=37.5060192&amp;lon=139.9379115&amp;radius=0.25&amp;has_geo=1&amp;view_all=1">Flickr</a>【DSCF0810】 by chenpingi</p>',
       location: {
         center: [139.9379115, 37.5060192],
         zoom: 14,
