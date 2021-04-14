@@ -18,8 +18,16 @@ class FlickrApi {
         '31045012166',
         '50818863053',
         '50184359292',
+        '49525072966',
+        '49047436768',
+        '49611285738',
+        '49611285813',
+        '49355311872',
+        '49472253848',
+        '32167451254',
+        '49472254008',
       ]);
-    this.banned_owner_name = config.banned_owner_name || new Set(['IamEvilSpamerBecauseReject']);
+    this.banned_owner_name = config.banned_owner_name || new Set(['快樂雲', '小蜘蛛 幻想的世界']);
     this.deduped = new Set();
   }
 

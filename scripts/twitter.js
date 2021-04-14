@@ -12,7 +12,7 @@ class TwitterApi {
     this.product_track = product_track || 'Standard';
     this.search_type = search_type || '';
     this.dry_run = dry_run || false;
-    this.banned_user_screen_name = config.banned_user_screen_name || new Set(['IamEvilToRejectTweets']);
+    this.banned_user_screen_name = config.banned_user_screen_name || new Set(['max_utsunomiya']);
     this.banned_tweet_id = config.banned_tweet_id || new Set(['00000000000000000000']);
     this.endpoint = new Map([
       [
