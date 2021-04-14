@@ -277,7 +277,7 @@ const config = {
       title: '（株）赤福 二見支店',
       image: '',
       tweet_id: '',
-      description: '<p>2巻 P124  三重県伊勢市 二見町茶屋203</p> <p><img alt="Ise Shima Japan 2018" src="https://live.staticflickr.com/7889/47567873781_02e4961b1b_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.5073078&amp;lon=136.7777824&amp;radius=0.25&amp;has_geo=1&amp;view_all=1">Flickr</a>【Ise Shima Japan 2018】 by Moto@Club4AG</p>',
+      description: '<p>2巻 P124  三重県伊勢市 二見町茶屋203</p> <p><img alt="20201122_いい夫婦旅_173" src="https://live.staticflickr.com/65535/50637083991_f483d3ff4a_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.5073078&amp;lon=136.7777824&amp;radius=0.25&amp;has_geo=1&amp;view_all=1">Flickr</a>【20201122_いい夫婦旅_173】 by jinmsk</p>',
       location: {
         center: [136.7777824, 34.5073078],
         zoom: 14,

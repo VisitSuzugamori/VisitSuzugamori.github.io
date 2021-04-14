@@ -37,7 +37,7 @@ const config = {
       title: '総合体育館前（バス）',
       image: '',
       tweet_id: '',
-      description: '<p>4巻 P9  島根県松江市 学園南二丁目5</p> <p><img alt="艦これのメンテ明けが遅いので例のアレ食べに来た。ついでにポテトマシマシつけてカロリーやばすぎセット" src="https://live.staticflickr.com/5538/31045012166_69065a4e46_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.4731536&amp;lon=133.0660854&amp;radius=0.25&amp;has_geo=1&amp;view_all=1">Flickr</a>【艦これのメンテ明けが遅いので例のアレ食べに来た。ついでにポテトマシマシつけてカロリーやばすぎセット】 by kenken610</p>',
+      description: '<p>4巻 P9  島根県松江市 学園南二丁目5</p> <p><img alt="Home Sweet Home live" src="https://live.staticflickr.com/5446/17082694163_10b0aa08b8_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.4731536&amp;lon=133.0660854&amp;radius=0.25&amp;has_geo=1&amp;view_all=1">Flickr</a>【Home Sweet Home live】 by hung-hive 2</p>',
       location: {
         center: [133.0660854, 35.4731536],
         zoom: 14,
@@ -77,7 +77,7 @@ const config = {
       title: '美保関漁港',
       image: '',
       tweet_id: '',
-      description: '<p>4巻 P12,13  島根県松江市 美保関町美保関</p> <p><img alt="美保神社, Study 5" src="https://live.staticflickr.com/4893/45647024552_ed44140553_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.5603343&amp;lon=133.3109506&amp;radius=0.25&amp;has_geo=1&amp;view_all=1">Flickr</a>【美保神社, Study 5】 by Zale Yu</p>',
+      description: '<p>4巻 P12,13  島根県松江市 美保関町美保関</p> <p><img alt="Anchor" src="https://live.staticflickr.com/65535/48111991997_a5260003ae_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.5603343&amp;lon=133.3109506&amp;radius=0.25&amp;has_geo=1&amp;view_all=1">Flickr</a>【Anchor】 by Teruhide Tomori</p>',
       location: {
         center: [133.3109506, 35.5603343],
         zoom: 14,
@@ -97,7 +97,7 @@ const config = {
       title: '廻船御用水',
       image: '',
       tweet_id: '',
-      description: '<p>4巻 P13  島根県松江市 美保関町美保関</p> ',
+      description: '<p>4巻 P13  島根県松江市 美保関町美保関</p> <p><img alt="Traditional style of shrine" src="https://live.staticflickr.com/65535/48149777937_02a4cd6aca_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.5623016&amp;lon=133.3074953&amp;radius=0.25&amp;has_geo=1&amp;view_all=1">Flickr</a>【Traditional style of shrine】 by Teruhide Tomori</p>',
       location: {
         center: [133.3074953, 35.5623016],
         zoom: 14,
@@ -177,7 +177,7 @@ const config = {
       title: '美保関灯台ビュッフェ',
       image: '',
       tweet_id: '',
-      description: '<p>4巻 P33  島根県松江市 </p> ',
+      description: '<p>4巻 P33  島根県松江市 </p> <p><img alt="Mihonoseki Lighthouse - 美保関灯台" src="https://live.staticflickr.com/7923/46434627155_6e046782fd_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.5672491&amp;lon=133.3250483&amp;radius=0.25&amp;has_geo=1&amp;view_all=1">Flickr</a>【Mihonoseki Lighthouse - 美保関灯台】 by cHoIminG</p>',
       location: {
         center: [133.3250483, 35.5672491],
         zoom: 14,

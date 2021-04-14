@@ -137,7 +137,7 @@ const config = {
       title: '出雲日本海 出雲大社正門前店',
       image: '',
       tweet_id: '',
-      description: '<p>3巻 P137  島根県出雲市 大社町杵築南839</p> <p><img alt="Bunnies" src="https://live.staticflickr.com/65535/49882396266_666c2606b4_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.3962535&amp;lon=132.6863131&amp;radius=0.25&amp;has_geo=1&amp;view_all=1">Flickr</a>【Bunnies】 by hanstrappfr</p>',
+      description: '<p>3巻 P137  島根県出雲市 大社町杵築南839</p> <p><img alt="出雲大社 勢溜の大鳥居" src="https://live.staticflickr.com/65535/49472457221_6ef158590e_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.3962535&amp;lon=132.6863131&amp;radius=0.25&amp;has_geo=1&amp;view_all=1">Flickr</a>【出雲大社 勢溜の大鳥居】 by alberth2</p>',
       location: {
         center: [132.6863131, 35.3962535],
         zoom: 14,
@@ -157,7 +157,7 @@ const config = {
       title: '出雲大社 勢溜の大鳥居',
       image: '',
       tweet_id: '',
-      description: '<p>3巻 P139  島根県出雲市 大社町杵築東3286</p> ',
+      description: '<p>3巻 P139  島根県出雲市 大社町杵築東3286</p> <p><img alt="出雲大社 神門前" src="https://live.staticflickr.com/65535/49472680037_c8e9856e13_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.3967051&amp;lon=132.6863743&amp;radius=0.25&amp;has_geo=1&amp;view_all=1">Flickr</a>【出雲大社 神門前】 by alberth2</p>',
       location: {
         center: [132.6863743, 35.3967051],
         zoom: 14,
@@ -197,7 +197,7 @@ const config = {
       title: '出雲大社 拝殿',
       image: '',
       tweet_id: '',
-      description: '<p>3巻 P140  島根県出雲市 大社町杵築東257</p> <p><img alt="出雲大社 松の参道" src="https://live.staticflickr.com/65535/49472455211_dbc2e1a873_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.4012055&amp;lon=132.6855211&amp;radius=0.25&amp;has_geo=1&amp;view_all=1">Flickr</a>【出雲大社 松の参道】 by alberth2</p>',
+      description: '<p>3巻 P140  島根県出雲市 大社町杵築東257</p> <p><img alt="Main temple" src="https://live.staticflickr.com/65535/50628265262_bcc503c4a2_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.4012055&amp;lon=132.6855211&amp;radius=0.25&amp;has_geo=1&amp;view_all=1">Flickr</a>【Main temple】 by SocialHermit</p>',
       location: {
         center: [132.6855211, 35.4012055],
         zoom: 14,

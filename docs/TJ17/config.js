@@ -16,8 +16,8 @@ const config = {
       hidden: false,
       title: '東京駅',
       image: '',
-      tweet_id: '',
-      description: '<p>   東京都千代田区 丸の内一丁目9</p> ',
+      tweet_id: '1381040089472507908',
+      description: '<p>   東京都千代田区 丸の内一丁目9</p><div class="tweetContainer" id="tweet1381040089472507908"></div> ',
       location: {
         center: [139.7671248, 35.6812362],
         zoom: 14,
@@ -237,7 +237,7 @@ const config = {
       title: '両子寺',
       image: '',
       tweet_id: '',
-      description: '<p>   大分県国東市 </p> ',
+      description: '<p>   大分県国東市 </p> <p><img alt="Obelisk" src="https://live.staticflickr.com/4528/38279315861_81435b2bb6_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=33.5740013&amp;lon=131.603241&amp;radius=0.25&amp;has_geo=1&amp;view_all=1">Flickr</a>【Obelisk】 by K.G.23</p>',
       location: {
         center: [131.603241, 33.5740013],
         zoom: 14,

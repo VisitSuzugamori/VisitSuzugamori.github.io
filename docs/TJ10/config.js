@@ -57,7 +57,7 @@ const config = {
       title: '八甲田 山頂公園',
       image: '',
       tweet_id: '',
-      description: '<p>3巻 P34  青森県青森市 </p> <p><img alt="20181005八甲田" src="https://live.staticflickr.com/7862/46524285561_eee8166721_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=40.6757743&amp;lon=140.8592116&amp;radius=0.25&amp;has_geo=1&amp;view_all=1">Flickr</a>【20181005八甲田】 by trlintw</p>',
+      description: '<p>3巻 P34  青森県青森市 </p> <p><img alt="八甲田山の樹氷" src="https://live.staticflickr.com/65535/49755229507_85805b2e7d_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=40.6757743&amp;lon=140.8592116&amp;radius=0.25&amp;has_geo=1&amp;view_all=1">Flickr</a>【八甲田山の樹氷】 by YUSHENG HSU</p>',
       location: {
         center: [140.8592116, 40.6757743],
         zoom: 14,
@@ -177,7 +177,7 @@ const config = {
       title: '恐山 花染の湯',
       image: '',
       tweet_id: '',
-      description: '<p>3巻 P52  青森県むつ市 </p> ',
+      description: '<p>3巻 P52  青森県むつ市 </p> <p><img alt="IMGP6523.jpg" src="https://live.staticflickr.com/65535/51061009337_429bea06e2_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=41.3283697&amp;lon=141.0917047&amp;radius=0.25&amp;has_geo=1&amp;view_all=1">Flickr</a>【IMGP6523.jpg】 by quecava</p>',
       location: {
         center: [141.0917047, 41.3283697],
         zoom: 14,
