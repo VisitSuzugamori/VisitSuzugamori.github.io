@@ -66,7 +66,7 @@ if (header.innerText.length > 0) {
 config.chapters.forEach((record, idx) => {
   var container = document.createElement('div');
   var chapter = document.createElement('div');
-  const ll = record.location.center.reverse().join(',');
+  const ll = `${record.location.center[1]},${record.location.center[0]}`;
 
   if (record.id !== '') {
     var anchor = document.createElement('div');
