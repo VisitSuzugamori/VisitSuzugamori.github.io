@@ -156,8 +156,8 @@ const config = {
       hidden: false,
       title: 'マルカンビル大食堂',
       image: '',
-      tweet_id: '',
-      description: '<p>3巻 P101  岩手県花巻市 上町6</p> <p><img alt="iwate_20180308110707" src="https://live.staticflickr.com/929/43704080111_71773fb920_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=39.385832&amp;lon=141.11711&amp;radius=0.25&amp;has_geo=1&amp;view_all=1">Flickr</a>【iwate_20180308110707】 by inunami</p>',
+      tweet_id: '1383294640049115138',
+      description: '<p>3巻 P101  岩手県花巻市 上町6</p><div class="tweetContainer" id="tweet1383294640049115138"></div> ',
       location: {
         center: [141.11711, 39.385832],
         zoom: 14,

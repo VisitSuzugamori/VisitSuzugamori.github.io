@@ -21,7 +21,7 @@
 <script src="https://unpkg.com/scrollama"></script>
 <script src="https://api.mapbox.com/mapbox-gl-js/plugins/mapbox-gl-directions/v4.1.0/mapbox-gl-directions.js"></script>
 <link rel="stylesheet" href="https://api.mapbox.com/mapbox-gl-js/plugins/mapbox-gl-directions/v4.1.0/mapbox-gl-directions.css" type="text/css"  />
-<script src="https://platform.twitter.com/widgets.js" id="twitter-wjs"></script>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8" id="twitter-wjs"></script>
 <style>
   body {
       margin: 0;
@@ -136,6 +136,24 @@
   #header h2 { padding: 0 2vw; }
   .step h3 { font-size: 2em; }
   .step p { font-size: 1.2em; }
+  .step .anchor {
+      margin: -0.8em -1.5em -1em 0;
+      padding: 0;
+      position: relative;
+      text-align: right;
+      line-height: 1em;
+      vertical-align: middle;
+  }
+  .step .LinkToHere, .step .LinkToGMap {
+      border-radius: 10px;
+      background-color: #eed;
+      padding: 5px;
+      width: 20px;
+      color: #0071bc;
+      font-size: 18px;
+      text-decoration: none;
+  }
+
   div.placeDescription, div.tweetContainer, div.twitter-tweet {
       margin: 0;
       padding: 0;

@@ -16,8 +16,8 @@ const config = {
       hidden: false,
       title: '郡山駅',
       image: '',
-      tweet_id: '1380110653269008384',
-      description: '<p>1巻 P22  福島県郡山市 駅前二丁目4</p><div class="tweetContainer" id="tweet1380110653269008384"></div> ',
+      tweet_id: '1380882868470120450',
+      description: '<p>1巻 P22  福島県郡山市 駅前二丁目4</p><div class="tweetContainer" id="tweet1380882868470120450"></div> ',
       location: {
         center: [140.3884019, 37.3985573],
         zoom: 14,

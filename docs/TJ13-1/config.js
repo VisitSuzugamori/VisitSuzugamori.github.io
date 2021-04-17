@@ -16,8 +16,8 @@ const config = {
       hidden: false,
       title: '出雲市駅',
       image: '',
-      tweet_id: '1381062349637910528',
-      description: '<p>3巻 P130  島根県出雲市 駅北町25</p><div class="tweetContainer" id="tweet1381062349637910528"></div> ',
+      tweet_id: '1382446678582566919',
+      description: '<p>3巻 P130  島根県出雲市 駅北町25</p><div class="tweetContainer" id="tweet1382446678582566919"></div> ',
       location: {
         center: [132.7567006, 35.3608386],
         zoom: 14,
@@ -296,8 +296,8 @@ const config = {
       hidden: false,
       title: '松江しんじ湖温泉駅',
       image: '',
-      tweet_id: '1380062132163776519',
-      description: '<p>3巻 P146  島根県松江市 中原町51</p><div class="tweetContainer" id="tweet1380062132163776519"></div> ',
+      tweet_id: '',
+      description: '<p>3巻 P146  島根県松江市 中原町51</p> <p><img alt="なにわ一水" src="https://live.staticflickr.com/65535/49472743191_18177f5f4c_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.4673633&amp;lon=133.0460423&amp;radius=0.25&amp;has_geo=1&amp;view_all=1">Flickr</a>【なにわ一水】 by alberth2</p>',
       location: {
         center: [133.0460423, 35.4673633],
         zoom: 14,

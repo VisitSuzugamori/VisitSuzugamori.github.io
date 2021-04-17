@@ -136,8 +136,8 @@ const config = {
       hidden: false,
       title: '大和ミュージアム（呉市海事歴史科学館）',
       image: '',
-      tweet_id: '1380396573507600384',
-      description: '<p>3巻 P15  広島県呉市 宝町4</p><div class="tweetContainer" id="tweet1380396573507600384"></div> ',
+      tweet_id: '',
+      description: '<p>3巻 P15  広島県呉市 宝町4</p> <p><img alt="610_7080" src="https://live.staticflickr.com/65535/50883852966_d50cb4f3c3_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.2411391&amp;lon=132.5558555&amp;radius=0.25&amp;has_geo=1&amp;view_all=1">Flickr</a>【610_7080】 by Lox Pix</p>',
       location: {
         center: [132.5558555, 34.2411391],
         zoom: 14,
@@ -157,7 +157,7 @@ const config = {
       title: '日招きの里 呉ハイカラ食堂',
       image: '',
       tweet_id: '',
-      description: '<p>3巻 P15  広島県呉市 宝町4</p> <p><img alt="610_7080" src="https://live.staticflickr.com/65535/50883852966_d50cb4f3c3_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.2415568&amp;lon=132.5574165&amp;radius=0.25&amp;has_geo=1&amp;view_all=1">Flickr</a>【610_7080】 by Lox Pix</p>',
+      description: '<p>3巻 P15  広島県呉市 宝町4</p> <p><img alt="610_7079" src="https://live.staticflickr.com/65535/50883958492_ef634c9160_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.2415568&amp;lon=132.5574165&amp;radius=0.25&amp;has_geo=1&amp;view_all=1">Flickr</a>【610_7079】 by Lox Pix</p>',
       location: {
         center: [132.5574165, 34.2415568],
         zoom: 14,
@@ -176,8 +176,8 @@ const config = {
       hidden: false,
       title: '尾道駅',
       image: '',
-      tweet_id: '1380371198995963908',
-      description: '<p>3巻 P19  広島県尾道市 東御所町1</p><div class="tweetContainer" id="tweet1380371198995963908"></div> ',
+      tweet_id: '',
+      description: '<p>3巻 P19  広島県尾道市 東御所町1</p> <p><img alt="IMG_0548" src="https://live.staticflickr.com/65535/51109393855_8717e94b5e_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.4048654&amp;lon=133.193159&amp;radius=0.25&amp;has_geo=1&amp;view_all=1">Flickr</a>【IMG_0548】 by bluegreen405</p>',
       location: {
         center: [133.193159, 34.4048654],
         zoom: 14,
@@ -197,7 +197,7 @@ const config = {
       title: '清浄山光明寺',
       image: '',
       tweet_id: '',
-      description: '<p>3巻 P19  広島県尾道市 東土堂町2</p> <p><img alt="IMG_0548" src="https://live.staticflickr.com/65535/51109393855_8717e94b5e_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.4081822&amp;lon=133.1978116&amp;radius=0.25&amp;has_geo=1&amp;view_all=1">Flickr</a>【IMG_0548】 by bluegreen405</p>',
+      description: '<p>3巻 P19  広島県尾道市 東土堂町2</p> <p><img alt="IMG_0550" src="https://live.staticflickr.com/65535/51119574347_c2b858132b_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.4081822&amp;lon=133.1978116&amp;radius=0.25&amp;has_geo=1&amp;view_all=1">Flickr</a>【IMG_0550】 by bluegreen405</p>',
       location: {
         center: [133.1978116, 34.4081822],
         zoom: 14,
@@ -217,7 +217,7 @@ const config = {
       title: '頂上展望台',
       image: '',
       tweet_id: '',
-      description: '<p>3巻 P21  広島県尾道市 東土堂町20</p> <p><img alt="尾道" src="https://live.staticflickr.com/65535/50129264636_4561532592_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.4106865&amp;lon=133.1969604&amp;radius=0.25&amp;has_geo=1&amp;view_all=1">Flickr</a>【尾道】 by Chitaka Chou</p>',
+      description: '<p>3巻 P21  広島県尾道市 東土堂町20</p> <p><img alt="尾道" src="https://live.staticflickr.com/65535/50128698313_7cdd017f85_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.4106865&amp;lon=133.1969604&amp;radius=0.25&amp;has_geo=1&amp;view_all=1">Flickr</a>【尾道】 by Chitaka Chou</p>',
       location: {
         center: [133.1969604, 34.4106865],
         zoom: 14,

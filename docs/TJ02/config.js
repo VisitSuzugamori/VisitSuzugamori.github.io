@@ -156,8 +156,8 @@ const config = {
       hidden: false,
       title: '瑞巌寺',
       image: '',
-      tweet_id: '1380024907862405121',
-      description: '<p>1巻 P69  宮城県宮城郡 松島町 松島字町内</p><div class="tweetContainer" id="tweet1380024907862405121"></div> ',
+      tweet_id: '1383267404352872453',
+      description: '<p>1巻 P69  宮城県宮城郡 松島町 松島字町内</p><div class="tweetContainer" id="tweet1383267404352872453"></div> ',
       location: {
         center: [141.0603899, 38.3718733],
         zoom: 14,
