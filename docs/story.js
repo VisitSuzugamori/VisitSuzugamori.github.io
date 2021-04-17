@@ -74,7 +74,7 @@ config.chapters.forEach((record, idx) => {
     anchor.innerHTML = `<a rel="noopener" href="#${encodeURIComponent(record.id)}" class="LinkToHere" title="この場所へのリンク">⚓</a>
 <a rel="noopener" href="https://www.google.com/maps/@?api=1&map_action=map&amp;center=${ll}" class="LinkToGMap" title="${ll}">🌏</a>
 <a rel="noopener" href="https://twitter.com/share?ref_src=twsrc%5Etfw" class="twitter-share-button"
- data-text="いまココ ${encodeURIComponent(record.title)}"
+ data-text="いまココ ${record.title.replace(/[<>"'&]/g, '')}"
  data-url="${document.location.href}#${encodeURIComponent(record.id)}"
  data-hashtags="ざつ旅,VistSuzugamori"
  data-lang="ja" data-show-count="false">Tweet</a>`;
