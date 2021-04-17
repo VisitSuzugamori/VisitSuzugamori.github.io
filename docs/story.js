@@ -151,6 +151,13 @@ const directions = new MapboxDirections({
   flyTo: false,
 });
 
+async function scrollToAndRedrow(el) {
+  el.scrollIntoView();
+  window.scrollByLines(2);
+  scroller.resize();
+  return undefined;
+}
+
 map.on('load', () => {
   const chapters_length = config.chapters.length;
   config.chapters.forEach((record, idx) => {
@@ -164,7 +171,9 @@ map.on('load', () => {
 
     (async () => {
       const parent = document.getElementById(record.id);
-
+      if (document.location.hash === record.id) {
+        scrollToAndRedrow(parent);
+      }
       if (Object.prototype.hasOwnProperty.call(record, 'tweet_id') && record.tweet_id) {
         const tid = record.tweet_id;
         await twttr.widgets.createTweet(tid, document.getElementById(`tweet${tid}`), {
