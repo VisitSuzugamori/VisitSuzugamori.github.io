@@ -76,7 +76,7 @@ config.chapters.forEach((record, idx) => {
 <a rel="noopener" href="https://twitter.com/share?ref_src=twsrc%5Etfw" class="twitter-share-button"
  data-text="いまココ ${record.title.replace(/[<>"'&]/g, '')}"
  data-url="${document.location.href}#${encodeURIComponent(record.id)}"
- data-hashtags="ざつ旅,VistSuzugamori"
+ data-hashtags="ざつ旅,VisitSuzugamori"
  data-lang="ja" data-show-count="false">Tweet</a>`;
     chapter.appendChild(anchor);
   }

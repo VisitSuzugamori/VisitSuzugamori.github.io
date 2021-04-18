@@ -70,7 +70,7 @@ class TwitterApi {
       responseType: 'json',
       prefixUrl: 'https://api.twitter.com/',
       headers: {
-        'User-Agent': 'isnot/VistSuzugamori/searchTweets',
+        'User-Agent': 'isnot/VisitSuzugamori/searchTweets',
         Authorization: `Bearer ${this.token}`,
       },
     });

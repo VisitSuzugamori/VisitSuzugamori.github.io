@@ -11,14 +11,14 @@ const u = require('./common.js');
 // eslint-disable-next-line node/no-unpublished-require
 const secret = require('../my_secret.json');
 
-const VistSuzugamori = require('../docs/VisitSuzugamori.json');
+const VisitSuzugamori = require('../docs/VisitSuzugamori.json');
 const kmlPath = path.normalize('zatsumap.kml');
 const configPath = path.normalize('src/config_js.template');
 const replacements = { '': '', '（前編）': '-1', '（後編）': '-2' };
 
 const tw = new TwitterApi({
   bearer_token: secret.twitter_dev.bearer_token,
-  keyword: VistSuzugamori.series.short_title,
+  keyword: VisitSuzugamori.series.short_title,
   query_param: 'has:images lang:ja', // -is:retweet
   radius: '1km',
   api_version: 1.1,
@@ -230,8 +230,8 @@ async function getFlickrContentHtml(latlon) {
 
     for (const sIndex of Array.from(byStory.keys()).filter((x) => x !== 'special')) {
       let jData = {};
-      if (u.hasProperty(VistSuzugamori.stories, `TJ${sIndex}`)) {
-        jData = VistSuzugamori.stories[`TJ${sIndex}`];
+      if (u.hasProperty(VisitSuzugamori.stories, `TJ${sIndex}`)) {
+        jData = VisitSuzugamori.stories[`TJ${sIndex}`];
       }
       const sData = byStory.get(sIndex);
       await writeHtml(sIndex);
