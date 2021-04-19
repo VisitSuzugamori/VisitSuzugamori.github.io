@@ -22,23 +22,33 @@ const secret = require('../my_secret.json');
     });
 
     // const res = await tw.searchGeo({
-    const res = await tw.getTweetIdByGeo({
-      latlon: [141.06267088910175, 38.36961351956921],
-      additional_keyword: '松島',
-      search_type: 'search_recent',
+    // const res = await tw.getTweetIdByGeo({
+    //   latlon: [141.06267088910175, 38.36961351956921],
+    //   additional_keyword: '松島',
+    //   search_type: 'search_recent',
+    // });
+    // console.log('OK', typeof res, res);
+
+    const res = await tw.getSearch({
+      params: {
+        query: 'from:ishiken02 電撃マオウ',
+        fromDate: '201301010000',
+        toDate: '201904010000',
+      },
+      search_type: 'search_full_dev',
     });
     console.log('OK', typeof res, res);
 
     const status = await tw.getSearchRateLimitStatus();
     console.log('status', status);
 
-    const flickr = new FlickrApi({
-      flickr_key: secret.flickr.flickr_key,
-    });
-    const fi = await flickr.flickrImage([141.06267088910175, 38.36961351956921]);
-    console.log('FlickrApi', fi);
+    // const flickr = new FlickrApi({
+    //   flickr_key: secret.flickr.flickr_key,
+    // });
+    // const fi = await flickr.flickrImage([141.06267088910175, 38.36961351956921]);
+    // console.log('FlickrApi', fi);
 
-    const revGeoCoder = new AginfoApi();
+    // const revGeoCoder = new AginfoApi();
     // const address = ;
     // console.log('AginfoApi', await revGeoCoder.getAdress([141.0628948, 38.3689558]));
     // console.log('AginfoApi', await revGeoCoder.getAdress([139.7631443, 35.6365639]));
@@ -51,10 +61,10 @@ const secret = require('../my_secret.json');
   }
 })();
 
-u.loadBlockList('./src/blocklist.txt').then((blocklist) => {
-  console.log(typeof blocklist, blocklist);
-  console.log('banned_flickr_id', Array.from(blocklist.get('banned_flickr_id')));
-});
+// u.loadBlockList('./src/blocklist.txt').then((blocklist) => {
+//   console.log(typeof blocklist, blocklist);
+//   console.log('banned_flickr_id', Array.from(blocklist.get('banned_flickr_id')));
+// });
 
 // curl "https://api.twitter.com/1.1/search/tweets.json?q=filter:media+-filter:retweets&geocode=35.69919805437275,139.41377258216218,0.1km" -H "Authorization: Bearer "
 // curl "https://api.twitter.com/1.1/tweets/search/fullarchive/dev.json?query=has:images+lang:ja+point_radius:\[139.41377258216218+35.69919805437275+0.1km\]" -H "Authorization: Bearer "

@@ -22,6 +22,7 @@ class TwitterApi {
             'Standard',
             new Map([
               ['search_recent', '1.1/search/tweets.json'],
+              ['search_30day', ''],
               ['search_full', ''],
               ['rate_limit_status', '1.1/application/rate_limit_status.json'],
             ]),
@@ -30,6 +31,7 @@ class TwitterApi {
             'Premium_Sandbox',
             new Map([
               ['search_recent', '1.1/search/tweets.json'],
+              ['search_30day_dev', '1.1/tweets/search/30day/dev.json'],
               ['search_full_dev', '1.1/tweets/search/fullarchive/dev.json'], // development_environment: dev
               ['rate_limit_status', '1.1/application/rate_limit_status.json'],
             ]),
@@ -92,6 +94,21 @@ class TwitterApi {
       return st;
     } catch (e) {
       return undefined;
+    }
+  }
+
+  async getSearch({ params, search_type = 'search_recent' }) {
+    const api = this.getClient();
+    const endpoint = this.getEndpoint(this.api_version, this.product_track, search_type);
+    console.log(params, endpoint);
+    try {
+      const res = await api(endpoint, { searchParams: params }).catch((e) => {
+        throw e;
+      });
+      return res.body;
+    } catch (e) {
+      throw e;
+      // return undefined;
     }
   }
 
