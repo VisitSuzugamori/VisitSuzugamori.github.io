@@ -16,8 +16,8 @@ const config = {
       hidden: false,
       title: '東京駅',
       image: '',
-      tweet_id: '1382594513495937026',
-      description: '<p>   東京都千代田区 丸の内一丁目9</p><div class="tweetContainer" id="tweet1382594513495937026"></div> ',
+      tweet_id: '1383711957946011652',
+      description: '<p>   東京都千代田区 丸の内一丁目9</p><div class="tweetContainer" id="tweet1383711957946011652"></div> ',
       location: {
         center: [139.7671248, 35.6812362],
         zoom: 14,
@@ -96,8 +96,8 @@ const config = {
       hidden: false,
       title: '青の洞門',
       image: '',
-      tweet_id: '1380760729540730888',
-      description: '<p>   大分県中津市 本耶馬渓町樋田</p><div class="tweetContainer" id="tweet1380760729540730888"></div> ',
+      tweet_id: '1383700338285322241',
+      description: '<p>   大分県中津市 本耶馬渓町樋田</p><div class="tweetContainer" id="tweet1383700338285322241"></div> ',
       location: {
         center: [131.1717971, 33.5001247],
         zoom: 14,

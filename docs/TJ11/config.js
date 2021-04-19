@@ -16,8 +16,8 @@ const config = {
       hidden: false,
       title: '串本駅',
       image: '',
-      tweet_id: '1380822070133592066',
-      description: '<p>3巻 P57  和歌山県東牟婁郡 串本町 串本40</p><div class="tweetContainer" id="tweet1380822070133592066"></div> ',
+      tweet_id: '1383622426643230730',
+      description: '<p>3巻 P57  和歌山県東牟婁郡 串本町 串本40</p><div class="tweetContainer" id="tweet1383622426643230730"></div> ',
       location: {
         center: [135.7816031, 33.4755266],
         zoom: 14,
@@ -76,8 +76,8 @@ const config = {
       hidden: false,
       title: '潮岬灯台',
       image: '',
-      tweet_id: '',
-      description: '<p>3巻 P62  和歌山県東牟婁郡 串本町 </p> <p><img alt="1808 1079 7R303555" src="https://live.staticflickr.com/1882/30235376518_6f1aa43d29_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=33.4375625&amp;lon=135.7544642&amp;radius=0.25&amp;has_geo=1&amp;view_all=1">Flickr</a>【1808 1079 7R303555】 by skycat1221</p>',
+      tweet_id: '1383636864880439296',
+      description: '<p>3巻 P62  和歌山県東牟婁郡 串本町 </p><div class="tweetContainer" id="tweet1383636864880439296"></div> ',
       location: {
         center: [135.7544642, 33.4375625],
         zoom: 14,

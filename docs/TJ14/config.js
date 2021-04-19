@@ -16,8 +16,8 @@ const config = {
       hidden: false,
       title: '東京駅',
       image: '',
-      tweet_id: '1382907874200801281',
-      description: '<p>4巻 P93  東京都千代田区 丸の内一丁目9</p><div class="tweetContainer" id="tweet1382907874200801281"></div> ',
+      tweet_id: '1383963733249064961',
+      description: '<p>4巻 P93  東京都千代田区 丸の内一丁目9</p><div class="tweetContainer" id="tweet1383963733249064961"></div> ',
       location: {
         center: [139.7671248, 35.6812362],
         zoom: 14,
@@ -236,8 +236,8 @@ const config = {
       hidden: false,
       title: '奥多摩湖',
       image: '',
-      tweet_id: '1381091133808250880',
-      description: '<p>4巻 P110  東京都西多摩郡 奥多摩町 </p><div class="tweetContainer" id="tweet1381091133808250880"></div> ',
+      tweet_id: '1383598747939053571',
+      description: '<p>4巻 P110  東京都西多摩郡 奥多摩町 </p><div class="tweetContainer" id="tweet1383598747939053571"></div> ',
       location: {
         center: [139.0470929, 35.7894856],
         zoom: 14,

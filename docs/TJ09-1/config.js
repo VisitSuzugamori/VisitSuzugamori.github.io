@@ -36,8 +36,8 @@ const config = {
       hidden: false,
       title: '海老名SA (下り)',
       image: '',
-      tweet_id: '1383002972263694337',
-      description: '<p>2巻 P141  神奈川県海老名市 大谷南五丁目2</p><div class="tweetContainer" id="tweet1383002972263694337"></div> ',
+      tweet_id: '1383488754887708676',
+      description: '<p>2巻 P141  神奈川県海老名市 大谷南五丁目2</p><div class="tweetContainer" id="tweet1383488754887708676"></div> ',
       location: {
         center: [139.4010198, 35.4310702],
         zoom: 14,
@@ -96,8 +96,8 @@ const config = {
       hidden: false,
       title: '宮島口駅',
       image: '',
-      tweet_id: '',
-      description: '<p>2巻 P147  広島県廿日市市 宮島口一丁目3</p> <p><img alt="IMG_20201116_162907" src="https://live.staticflickr.com/65535/50612550468_1ef8b69862_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.3120172&amp;lon=132.3029311&amp;radius=0.25&amp;has_geo=1&amp;view_all=1">Flickr</a>【IMG_20201116_162907】 by Sousaphone</p>',
+      tweet_id: '1383664490508554242',
+      description: '<p>2巻 P147  広島県廿日市市 宮島口一丁目3</p><div class="tweetContainer" id="tweet1383664490508554242"></div> ',
       location: {
         center: [132.3029311, 34.3120172],
         zoom: 14,
