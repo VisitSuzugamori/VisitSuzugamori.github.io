@@ -1,5 +1,5 @@
 const config = {
-  style: 'mapbox://styles/isnot/ckdzfj1n70ee219lhgygiamwc',
+  style: 'mapbox://styles/isnot/cknol1x9f59vg18l1r7zlhijc',
   accessToken: 'pk.eyJ1IjoiaXNub3QiLCJhIjoiY2tscDdpeGExMHp5cTJwcXI0YWlzZHdyeCJ9._NooEseBc8wEwa3z_plcAg',
   showMarkers: true,
   markerColor: '#3FB1CE',

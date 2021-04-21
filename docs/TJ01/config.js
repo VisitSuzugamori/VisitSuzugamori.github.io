@@ -1,5 +1,5 @@
 const config = {
-  style: 'mapbox://styles/isnot/ckdzfj1n70ee219lhgygiamwc',
+  style: 'mapbox://styles/isnot/cknol1x9f59vg18l1r7zlhijc',
   accessToken: 'pk.eyJ1IjoiaXNub3QiLCJhIjoiY2tscDdpeGExMHp5cTJwcXI0YWlzZHdyeCJ9._NooEseBc8wEwa3z_plcAg',
   showMarkers: true,
   markerColor: '#3FB1CE',
@@ -56,8 +56,8 @@ const config = {
       hidden: false,
       title: '会津若松駅',
       image: '',
-      tweet_id: '1381173848259788800',
-      description: '<p>1巻 P24  福島県会津若松市 駅前町1</p><div class="tweetContainer" id="tweet1381173848259788800"></div> ',
+      tweet_id: '1383242409409056770',
+      description: '<p>1巻 P24  福島県会津若松市 駅前町1</p><div class="tweetContainer" id="tweet1383242409409056770"></div> ',
       location: {
         center: [139.9303261, 37.5078657],
         zoom: 14,

@@ -1,5 +1,5 @@
 const config = {
-  style: 'mapbox://styles/isnot/ckdzfj1n70ee219lhgygiamwc',
+  style: 'mapbox://styles/isnot/cknol1x9f59vg18l1r7zlhijc',
   accessToken: 'pk.eyJ1IjoiaXNub3QiLCJhIjoiY2tscDdpeGExMHp5cTJwcXI0YWlzZHdyeCJ9._NooEseBc8wEwa3z_plcAg',
   showMarkers: true,
   markerColor: '#3FB1CE',
@@ -236,8 +236,8 @@ const config = {
       hidden: false,
       title: '出雲大社 神楽殿',
       image: '',
-      tweet_id: '1381247938127482888',
-      description: '<p>3巻 P142  島根県出雲市 大社町杵築東257</p><div class="tweetContainer" id="tweet1381247938127482888"></div> ',
+      tweet_id: '1384373296896954375',
+      description: '<p>3巻 P142  島根県出雲市 大社町杵築東257</p><div class="tweetContainer" id="tweet1384373296896954375"></div> ',
       location: {
         center: [132.6844634, 35.4015453],
         zoom: 14,
@@ -336,8 +336,8 @@ const config = {
       hidden: false,
       title: '松江城',
       image: '',
-      tweet_id: '1381619556548943885',
-      description: '<p>3巻 P150  島根県松江市 殿町1</p><div class="tweetContainer" id="tweet1381619556548943885"></div> ',
+      tweet_id: '1384446689851842568',
+      description: '<p>3巻 P150  島根県松江市 殿町1</p><div class="tweetContainer" id="tweet1384446689851842568"></div> ',
       location: {
         center: [133.0506783, 35.4751335],
         zoom: 14,

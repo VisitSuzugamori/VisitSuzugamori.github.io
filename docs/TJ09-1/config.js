@@ -1,5 +1,5 @@
 const config = {
-  style: 'mapbox://styles/isnot/ckdzfj1n70ee219lhgygiamwc',
+  style: 'mapbox://styles/isnot/cknol1x9f59vg18l1r7zlhijc',
   accessToken: 'pk.eyJ1IjoiaXNub3QiLCJhIjoiY2tscDdpeGExMHp5cTJwcXI0YWlzZHdyeCJ9._NooEseBc8wEwa3z_plcAg',
   showMarkers: true,
   markerColor: '#3FB1CE',
@@ -96,8 +96,8 @@ const config = {
       hidden: false,
       title: '宮島口駅',
       image: '',
-      tweet_id: '1383664490508554242',
-      description: '<p>2巻 P147  広島県廿日市市 宮島口一丁目3</p><div class="tweetContainer" id="tweet1383664490508554242"></div> ',
+      tweet_id: '1384309242031529987',
+      description: '<p>2巻 P147  広島県廿日市市 宮島口一丁目3</p><div class="tweetContainer" id="tweet1384309242031529987"></div> ',
       location: {
         center: [132.3029311, 34.3120172],
         zoom: 14,

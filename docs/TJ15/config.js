@@ -1,5 +1,5 @@
 const config = {
-  style: 'mapbox://styles/isnot/ckdzfj1n70ee219lhgygiamwc',
+  style: 'mapbox://styles/isnot/cknol1x9f59vg18l1r7zlhijc',
   accessToken: 'pk.eyJ1IjoiaXNub3QiLCJhIjoiY2tscDdpeGExMHp5cTJwcXI0YWlzZHdyeCJ9._NooEseBc8wEwa3z_plcAg',
   showMarkers: true,
   markerColor: '#3FB1CE',
@@ -16,8 +16,8 @@ const config = {
       hidden: false,
       title: '東京駅',
       image: '',
-      tweet_id: '1383796394943606787',
-      description: '<p>4巻 P119  東京都千代田区 丸の内一丁目9</p><div class="tweetContainer" id="tweet1383796394943606787"></div> ',
+      tweet_id: '1384313695178682369',
+      description: '<p>4巻 P119  東京都千代田区 丸の内一丁目9</p><div class="tweetContainer" id="tweet1384313695178682369"></div> ',
       location: {
         center: [139.7671248, 35.6812362],
         zoom: 14,
@@ -136,8 +136,8 @@ const config = {
       hidden: false,
       title: '中央大橋',
       image: '',
-      tweet_id: '1381355271734300681',
-      description: '<p>4巻 P125  東京都中央区 新川二丁目32</p><div class="tweetContainer" id="tweet1381355271734300681"></div> ',
+      tweet_id: '1384616331971112963',
+      description: '<p>4巻 P125  東京都中央区 新川二丁目32</p><div class="tweetContainer" id="tweet1384616331971112963"></div> ',
       location: {
         center: [139.7843753, 35.6717944],
         zoom: 14,
@@ -236,8 +236,8 @@ const config = {
       hidden: false,
       title: '豊洲公園',
       image: '',
-      tweet_id: '1381155153265356802',
-      description: '<p>4巻 P129  東京都江東区 豊洲二丁目3</p><div class="tweetContainer" id="tweet1381155153265356802"></div> ',
+      tweet_id: '1384066961093447685',
+      description: '<p>4巻 P129  東京都江東区 豊洲二丁目3</p><div class="tweetContainer" id="tweet1384066961093447685"></div> ',
       location: {
         center: [139.793127, 35.6533777],
         zoom: 14,
@@ -256,8 +256,8 @@ const config = {
       hidden: false,
       title: '江戸前場下町',
       image: '',
-      tweet_id: '1381872005868220417',
-      description: '<p>4巻 P130  東京都江東区 豊洲六丁目4</p><div class="tweetContainer" id="tweet1381872005868220417"></div> ',
+      tweet_id: '1384410278159257602',
+      description: '<p>4巻 P130  東京都江東区 豊洲六丁目4</p><div class="tweetContainer" id="tweet1384410278159257602"></div> ',
       location: {
         center: [139.7862005, 35.6454136],
         zoom: 14,
@@ -436,8 +436,8 @@ const config = {
       hidden: false,
       title: 'レインボーブリッジ',
       image: '',
-      tweet_id: '1381538255988924418',
-      description: '<p>4巻 P138  </p><div class="tweetContainer" id="tweet1381538255988924418"></div> ',
+      tweet_id: '1382965421641453571',
+      description: '<p>4巻 P138  </p><div class="tweetContainer" id="tweet1382965421641453571"></div> ',
       location: {
         center: [139.7631443, 35.6365639],
         zoom: 14,

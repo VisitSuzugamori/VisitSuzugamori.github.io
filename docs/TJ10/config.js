@@ -1,5 +1,5 @@
 const config = {
-  style: 'mapbox://styles/isnot/ckdzfj1n70ee219lhgygiamwc',
+  style: 'mapbox://styles/isnot/cknol1x9f59vg18l1r7zlhijc',
   accessToken: 'pk.eyJ1IjoiaXNub3QiLCJhIjoiY2tscDdpeGExMHp5cTJwcXI0YWlzZHdyeCJ9._NooEseBc8wEwa3z_plcAg',
   showMarkers: true,
   markerColor: '#3FB1CE',
@@ -96,8 +96,8 @@ const config = {
       hidden: false,
       title: '下北駅',
       image: '',
-      tweet_id: '1381173517702426630',
-      description: '<p>3巻 P47  青森県むつ市 下北町4</p><div class="tweetContainer" id="tweet1381173517702426630"></div> ',
+      tweet_id: '',
+      description: '<p>3巻 P47  青森県むつ市 下北町4</p> <p><img alt="upload" src="https://live.staticflickr.com/5766/29920981884_31f97c9f8b_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=41.2827427&amp;lon=141.1899038&amp;radius=0.25&amp;has_geo=1&amp;view_all=1">Flickr</a>【upload】 by 星空與月</p>',
       location: {
         center: [141.1899038, 41.2827427],
         zoom: 14,

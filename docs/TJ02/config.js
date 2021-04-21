@@ -1,5 +1,5 @@
 const config = {
-  style: 'mapbox://styles/isnot/ckdzfj1n70ee219lhgygiamwc',
+  style: 'mapbox://styles/isnot/cknol1x9f59vg18l1r7zlhijc',
   accessToken: 'pk.eyJ1IjoiaXNub3QiLCJhIjoiY2tscDdpeGExMHp5cTJwcXI0YWlzZHdyeCJ9._NooEseBc8wEwa3z_plcAg',
   showMarkers: true,
   markerColor: '#3FB1CE',
@@ -16,8 +16,8 @@ const config = {
       hidden: false,
       title: '仙台駅',
       image: '',
-      tweet_id: '1381172673644949506',
-      description: '<p>1巻 P61  宮城県仙台市 青葉区 中央一丁目</p><div class="tweetContainer" id="tweet1381172673644949506"></div> ',
+      tweet_id: '1383170644041375746',
+      description: '<p>1巻 P61  宮城県仙台市 青葉区 中央一丁目</p><div class="tweetContainer" id="tweet1383170644041375746"></div> ',
       location: {
         center: [140.8824375, 38.2601316],
         zoom: 14,

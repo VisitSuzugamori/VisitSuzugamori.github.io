@@ -1,5 +1,5 @@
 const config = {
-  style: 'mapbox://styles/isnot/ckdzfj1n70ee219lhgygiamwc',
+  style: 'mapbox://styles/isnot/cknol1x9f59vg18l1r7zlhijc',
   accessToken: 'pk.eyJ1IjoiaXNub3QiLCJhIjoiY2tscDdpeGExMHp5cTJwcXI0YWlzZHdyeCJ9._NooEseBc8wEwa3z_plcAg',
   showMarkers: true,
   markerColor: '#3FB1CE',
@@ -236,8 +236,8 @@ const config = {
       hidden: false,
       title: '栗林公園',
       image: '',
-      tweet_id: '1381177476349526021',
-      description: '<p>1巻 P157  香川県高松市 栗林町一丁目20</p><div class="tweetContainer" id="tweet1381177476349526021"></div> ',
+      tweet_id: '',
+      description: '<p>1巻 P157  香川県高松市 栗林町一丁目20</p> <p><img alt="上原屋本店" src="https://live.staticflickr.com/65535/50205694352_e62b276a9c_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.3293842&amp;lon=134.0445345&amp;radius=0.25&amp;has_geo=1&amp;view_all=1">Flickr</a>【上原屋本店】 by taqmatsu</p>',
       location: {
         center: [134.0445345, 34.3293842],
         zoom: 14,

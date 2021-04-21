@@ -1,5 +1,5 @@
 const config = {
-  style: 'mapbox://styles/isnot/ckdzfj1n70ee219lhgygiamwc',
+  style: 'mapbox://styles/isnot/cknol1x9f59vg18l1r7zlhijc',
   accessToken: 'pk.eyJ1IjoiaXNub3QiLCJhIjoiY2tscDdpeGExMHp5cTJwcXI0YWlzZHdyeCJ9._NooEseBc8wEwa3z_plcAg',
   showMarkers: true,
   markerColor: '#3FB1CE',
@@ -16,8 +16,8 @@ const config = {
       hidden: false,
       title: '東京駅',
       image: '',
-      tweet_id: '1384076614363848708',
-      description: '<p>   東京都千代田区 丸の内一丁目9</p><div class="tweetContainer" id="tweet1384076614363848708"></div> ',
+      tweet_id: '1384414613295353857',
+      description: '<p>   東京都千代田区 丸の内一丁目9</p><div class="tweetContainer" id="tweet1384414613295353857"></div> ',
       location: {
         center: [139.7671248, 35.6812362],
         zoom: 14,
@@ -56,8 +56,8 @@ const config = {
       hidden: false,
       title: '水戸駅',
       image: '',
-      tweet_id: '1383650223046623233',
-      description: '<p>   茨城県水戸市 宮町一丁目7</p><div class="tweetContainer" id="tweet1383650223046623233"></div> ',
+      tweet_id: '1384356189446627329',
+      description: '<p>   茨城県水戸市 宮町一丁目7</p><div class="tweetContainer" id="tweet1384356189446627329"></div> ',
       location: {
         center: [140.4762789, 36.3707326],
         zoom: 14,

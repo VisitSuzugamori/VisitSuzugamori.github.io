@@ -1,5 +1,5 @@
 const config = {
-  style: 'mapbox://styles/isnot/ckdzfj1n70ee219lhgygiamwc',
+  style: 'mapbox://styles/isnot/cknol1x9f59vg18l1r7zlhijc',
   accessToken: 'pk.eyJ1IjoiaXNub3QiLCJhIjoiY2tscDdpeGExMHp5cTJwcXI0YWlzZHdyeCJ9._NooEseBc8wEwa3z_plcAg',
   showMarkers: true,
   markerColor: '#3FB1CE',
@@ -56,8 +56,8 @@ const config = {
       hidden: false,
       title: '龍門の滝',
       image: '',
-      tweet_id: '1383994650977968131',
-      description: '<p>2巻 P49  栃木県那須烏山市 滝20</p><div class="tweetContainer" id="tweet1383994650977968131"></div> ',
+      tweet_id: '1384502327613132802',
+      description: '<p>2巻 P49  栃木県那須烏山市 滝20</p><div class="tweetContainer" id="tweet1384502327613132802"></div> ',
       location: {
         center: [140.1398144, 36.6455986],
         zoom: 14,

@@ -1,5 +1,5 @@
 const config = {
-  style: 'mapbox://styles/isnot/ckdzfj1n70ee219lhgygiamwc',
+  style: 'mapbox://styles/isnot/cknol1x9f59vg18l1r7zlhijc',
   accessToken: 'pk.eyJ1IjoiaXNub3QiLCJhIjoiY2tscDdpeGExMHp5cTJwcXI0YWlzZHdyeCJ9._NooEseBc8wEwa3z_plcAg',
   showMarkers: true,
   markerColor: '#3FB1CE',
@@ -117,7 +117,7 @@ const config = {
       title: '伊勢神宮 外宮',
       image: '',
       tweet_id: '',
-      description: '<p>2巻 P106  三重県伊勢市 本町16</p> <p><img alt="" src="https://live.staticflickr.com/65535/51115419061_db7d1f6684_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.4871537&amp;lon=136.7029233&amp;radius=0.25&amp;has_geo=1&amp;view_all=1">Flickr</a>【】 by mhrs.jp</p>',
+      description: '<p>2巻 P106  三重県伊勢市 本町16</p> <p><img alt="" src="https://live.staticflickr.com/65535/51128524924_c6f6088308_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.4871537&amp;lon=136.7029233&amp;radius=0.25&amp;has_geo=1&amp;view_all=1">Flickr</a>【】 by mhrs.jp</p>',
       location: {
         center: [136.7029233, 34.4871537],
         zoom: 14,
@@ -157,7 +157,7 @@ const config = {
       title: '赤福 内宮前支店',
       image: '',
       tweet_id: '',
-      description: '<p>2巻 P109  三重県伊勢市 宇治今在家町64</p> <p><img alt="" src="https://live.staticflickr.com/65535/51113075466_07ce8f7da2_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.4595551&amp;lon=136.7230903&amp;radius=0.25&amp;has_geo=1&amp;view_all=1">Flickr</a>【】 by mhrs.jp</p>',
+      description: '<p>2巻 P109  三重県伊勢市 宇治今在家町64</p> <p><img alt="" src="https://live.staticflickr.com/65535/51129584740_185c326a86_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.4595551&amp;lon=136.7230903&amp;radius=0.25&amp;has_geo=1&amp;view_all=1">Flickr</a>【】 by mhrs.jp</p>',
       location: {
         center: [136.7230903, 34.4595551],
         zoom: 14,
@@ -176,8 +176,8 @@ const config = {
       hidden: false,
       title: '鳥羽駅',
       image: '',
-      tweet_id: '1381139218190176257',
-      description: '<p>2巻 P111  三重県鳥羽市 鳥羽一丁目8</p><div class="tweetContainer" id="tweet1381139218190176257"></div> ',
+      tweet_id: '1381849027973537796',
+      description: '<p>2巻 P111  三重県鳥羽市 鳥羽一丁目8</p><div class="tweetContainer" id="tweet1381849027973537796"></div> ',
       location: {
         center: [136.8431256, 34.4867665],
         zoom: 14,
@@ -256,8 +256,8 @@ const config = {
       hidden: false,
       title: '夫婦岩',
       image: '',
-      tweet_id: '1381412622650634241',
-      description: '<p>2巻 P121  三重県伊勢市 二見町茶屋562</p><div class="tweetContainer" id="tweet1381412622650634241"></div> ',
+      tweet_id: '1383631448725364741',
+      description: '<p>2巻 P121  三重県伊勢市 二見町茶屋562</p><div class="tweetContainer" id="tweet1383631448725364741"></div> ',
       location: {
         center: [136.7883283, 34.5092993],
         zoom: 14,
@@ -297,7 +297,7 @@ const config = {
       title: '豐川茜稻荷神社（茜社）',
       image: '',
       tweet_id: '',
-      description: '<p>2巻 P127  三重県伊勢市 岡本一丁目2</p> <p><img alt="" src="https://live.staticflickr.com/65535/51119032531_ce5ddfa3ef_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.4862757&amp;lon=136.7073159&amp;radius=0.25&amp;has_geo=1&amp;view_all=1">Flickr</a>【】 by mhrs.jp</p>',
+      description: '<p>2巻 P127  三重県伊勢市 岡本一丁目2</p> <p><img alt="" src="https://live.staticflickr.com/65535/51128682143_5f2d346973_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.4862757&amp;lon=136.7073159&amp;radius=0.25&amp;has_geo=1&amp;view_all=1">Flickr</a>【】 by mhrs.jp</p>',
       location: {
         center: [136.7073159, 34.4862757],
         zoom: 14,
