@@ -12,7 +12,7 @@ const u = require('./common.js');
 const secret = require('../my_secret.json');
 
 const VisitSuzugamori = require('../docs/VisitSuzugamori.json');
-const kmlPath = path.normalize('zatsumap.kml');
+const kmlPath = path.normalize('../geodata/zatsumap.kml');
 const configPath = path.normalize('src/config_js.template');
 const replacements = { '': '', '（前編）': '-1', '（後編）': '-2' };
 
