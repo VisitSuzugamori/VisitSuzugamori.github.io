@@ -3,6 +3,7 @@
 const { TwitterApi } = require('./twitter.js');
 const { FlickrApi } = require('./flickr.js');
 const { AginfoApi } = require('./aginfo.js');
+const { MapboxMtsApi } = require('./mapbox_mts.js');
 const u = require('./common.js');
 // eslint-disable-next-line node/no-unpublished-require
 const secret = require('../my_secret.json');
@@ -31,11 +32,11 @@ const secret = require('../my_secret.json');
 
     const res = await tw.getSearch({
       params: {
-        query: 'from:ishiken02 電撃マオウ',
-        fromDate: '201301010000',
-        toDate: '201904010000',
+        q: 'from:isnotjp',
+        // fromDate: '201301010000',
+        // toDate: '201904010000',
       },
-      search_type: 'search_full_dev',
+      search_type: 'search_recent',
     });
     console.log('OK', typeof res, res);
 
@@ -56,6 +57,12 @@ const secret = require('../my_secret.json');
     // console.log('AginfoApi', await revGeoCoder.getAdress([132.3198262, 34.2959885]));
 
     // console.log(u.replaceCharactorEntity4Html("h_nissy's Photography"));
+
+    const mts = new MapboxMtsApi({
+      access_token: secret.mapbox.secret_token,
+    });
+    // const tid = 'isnot.5vtp91zq'; // isnot.bgelgck9 isnot.5vtp91zq
+    // console.log('tileJSONMetadata', await mts.tileJSONMetadata(tid));
   } catch (e) {
     console.log('exception', e);
   }
