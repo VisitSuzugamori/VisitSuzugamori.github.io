@@ -41,11 +41,11 @@ function makeGeojson(mJourney) {
       for (const raw_s of raw_a) {
         line.push(raw_s.split(',').map(Number));
       }
-      multi.push(line);
+      multi.push([line]);
     }
 
     // console.log(journey, multi);
-    multi_feature.push(featurePolygon([multi], journey));
+    multi_feature.push(featurePolygon(multi, journey));
   });
 
   return turf.featureCollection(multi_feature, {
@@ -64,6 +64,32 @@ function featurePolygon(multi_coordinates, journey) {
   return turf.multiPolygon(multi_coordinates, properties, { id: journey });
 }
 
+function dump_geojson_geometory(geojson) {
+  try {
+    const target = geojson.features[0].geometry.coordinates;
+    if (
+      !Array.isArray(target) ||
+      !Array.isArray(target[0]) ||
+      !Array.isArray(target[0][0]) ||
+      !Array.isArray(target[0][0][0]) ||
+      Array.isArray(target[0][0][0][0])
+    ) {
+      throw new Error('It is not geojson / Array.');
+    }
+    const dump_array_recursive = (a) => {
+      for (const d of a) {
+        if (!Array.isArray(d[0][0])) {
+          return `${d.length}-`;
+        }
+        return dump_array_recursive(d);
+      }
+    };
+    console.log(dump_array_recursive(geojson.features.map((x) => x.geometry.coordinates)));
+  } catch (e) {
+    console.warn('invalid input data.', e);
+  }
+}
+
 (async () => {
   try {
     const VS = await u.read_local_file('./docs/VisitSuzugamori.json');
@@ -80,6 +106,8 @@ function featurePolygon(multi_coordinates, journey) {
     ]);
     const byStory = indexByStory(placemarks, pdata);
     const geojson = makeGeojson(byStory);
+
+    dump_geojson_geometory(geojson);
 
     await fs.writeFile('./geodata/administrative_boundary.geojson', JSON.stringify(geojson, null, 1));
   } catch (e) {

@@ -101,15 +101,11 @@ class TwitterApi {
     const api = this.getClient();
     const endpoint = this.getEndpoint(this.api_version, this.product_track, search_type);
     console.log(params, endpoint);
-    try {
-      const res = await api(endpoint, { searchParams: params }).catch((e) => {
-        throw e;
-      });
-      return res.body;
-    } catch (e) {
+
+    const res = await api(endpoint, { searchParams: params }).catch((e) => {
       throw e;
-      // return undefined;
-    }
+    });
+    return res.body;
   }
 
   async getTweetIdByGeo(options = {}) {
