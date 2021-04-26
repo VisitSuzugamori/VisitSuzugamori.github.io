@@ -116,8 +116,8 @@ const config = {
       hidden: false,
       title: '美保神社',
       image: '',
-      tweet_id: '1381922695764303879',
-      description: '<p>4巻 P14  島根県松江市 美保関町美保関</p><div class="tweetContainer" id="tweet1381922695764303879"></div> ',
+      tweet_id: '',
+      description: '<p>4巻 P14  島根県松江市 美保関町美保関</p> <p><img alt="Shimenawa at the old shrine" src="https://live.staticflickr.com/65535/48142228277_878fb8ef1d_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.5623182&amp;lon=133.3062224&amp;radius=0.25&amp;has_geo=1&amp;view_all=1">Flickr</a>【Shimenawa at the old shrine】 by Teruhide Tomori</p>',
       location: {
         center: [133.3062224, 35.5623182],
         zoom: 14,
