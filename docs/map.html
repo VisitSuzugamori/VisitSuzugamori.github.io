@@ -23,7 +23,7 @@
 <style>
   .hidden { display: none; }
   #map { left: 0; top: 0; height: 100vh; width:100vw; position: fixed; }
-  #container { opacity: 0.85; height: 900px; }
+  #container { height: 900px; }
   header h1 {
       font-family: "Consolas","Courier New",monospace;
       text-shadow: 2px 2px 0 #eeeeee, 2px -2px 0 #eeeeee, -2px 2px 0 #eeeeee, -2px -2px 0 #eeeeee;
@@ -34,8 +34,6 @@
 	white-space: pre;
   }
   .article ul, .ref, .about {
-      opacity: 0.7;
-      background-color: white;
       text-shadow: 1px 1px 0 #eeeeee, 1px -1px 0 #eeeeee, -1px 1px 0 #eeeeee, -1px -1px 0 #eeeeee;
       padding: 10px;
   }
@@ -55,20 +53,13 @@
   .article h2 {
       text-shadow: 2px 2px 0 #eeeeee, 2px -2px 0 #eeeeee, -2px 2px 0 #eeeeee, -2px -2px 0 #eeeeee;
   }
-  .article a { font-size: 90%; }
-  .books { width: 100%; display: flex; flex-wrap: wrap; }
-  .books p { margin: 0 10px 10px 0; padding: 0; width: 204px; }
-  .books a:hover { text-decoration: none; }
-  .books img { margin: 0; padding: 0; border: solid 1px black; }
-  .ref p { margin:0; padding: 0; }
-  .ref dl { margin: 0; font-size: 90%; }
-  .ref dt { width: 30%; float: left; clear: left; }
-  .ref dd { width: 70%; margin-left: 30%; }
+  .article p { margin:0; padding: 0; }
   .note { font-size: 80%; }
   .note::before {
 	content: "⚠";
   }
   #footer {
+      opacity: 0.7;
       background-color: white;
       margin-top: 30px;
       padding: 10px;
