@@ -55,13 +55,7 @@ function makeGeojson(mJourney) {
 }
 
 function featurePolygon(multi_coordinates, journey) {
-  const properties = {
-    name: journey,
-    'fill-color': '#eebbbb',
-    'fill-outline-color': '#990000',
-    'fill-opacity': 0.5,
-  };
-  return turf.multiPolygon(multi_coordinates, properties, { id: journey });
+  return turf.multiPolygon(multi_coordinates, { name: journey }, { id: journey });
 }
 
 function dump_geojson_geometory(geojson) {

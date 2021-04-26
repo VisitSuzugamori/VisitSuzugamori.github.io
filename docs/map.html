@@ -1,0 +1,167 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8" />
+<title>VisitSuzugamori 〜ざつ旅を辿る〜 Index</title>
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, shrink-to-fit=no" />
+<meta name="description" content="VisitSuzugamori 〜ざつ旅を辿る〜 ざつ旅の登場人物である、鈴ヶ森さん。地図の上で、その足跡を辿ります。「ざつ旅」ファンサイト。" />
+<meta property="og:title" content="VisitSuzugamori 〜ざつ旅を辿る〜 Index" />
+<meta property="og:type" content="website" />
+<meta property="og:url" content="https://visitsuzugamori.github.io/index.html" />
+<meta property="og:site_name" content="VisitSuzugamori" />
+<meta property="og:description" content="VisitSuzugamori 〜ざつ旅を辿る〜 ざつ旅の登場人物である、鈴ヶ森さん。地図の上で、その足跡を辿ります。「ざつ旅」ファンサイト。" />
+<meta property="og:locale" content="ja_JP" />
+<meta property="og:image" content="https://visitsuzugamori.github.io/visitsuzugamori-360.png" />
+<meta property="article:published_time" content="2021-03-13T12:24:49.000Z" />
+<meta property="article:modified_time" content="2021-04-02T08:27:51.000Z" />
+<meta property="article:author" content="isnot" />
+<meta property="article:tag" content="map" />
+<meta property="article:tag" content="ざつ旅" />
+<meta name="twitter:card" content="summary" />
+<link rel="stylesheet" type="text/css" href="https://unpkg.com/sakura.css/css/sakura.css" />
+<link rel="stylesheet" type="text/css" href="https://api.mapbox.com/mapbox-gl-js/v2.2.0/mapbox-gl.css" />
+<style>
+  .hidden { display: none; }
+  #map { left: 0; top: 0; height: 100vh; width:100vw; position: fixed; }
+  #container { opacity: 0.85; height: 900px; }
+  header h1 {
+      font-family: "Consolas","Courier New",monospace;
+      text-shadow: 2px 2px 0 #eeeeee, 2px -2px 0 #eeeeee, -2px 2px 0 #eeeeee, -2px -2px 0 #eeeeee;
+  }
+  header h1 .lead { font-size: 60%; }
+  header h1 .lead::before {
+	content: "\A";
+	white-space: pre;
+  }
+  .article ul, .ref, .about {
+      opacity: 0.7;
+      background-color: white;
+      text-shadow: 1px 1px 0 #eeeeee, 1px -1px 0 #eeeeee, -1px 1px 0 #eeeeee, -1px -1px 0 #eeeeee;
+      padding: 10px;
+  }
+  .article ul li {
+      overflow: hidden;
+      padding-left: 5px;
+      text-shadow: 1px 1px 0 #eeeeee, 1px -1px 0 #eeeeee, -1px 1px 0 #eeeeee, -1px -1px 0 #eeeeee;
+  }
+  li.book0 { border-left: solid 5px #333; }
+  li.book1 { border-left: solid 5px #e45e60; }
+  li.book2 { border-left: solid 5px #f3af2f; }
+  li.book3 { border-left: solid 5px #d6258f; }
+  li.book4 { border-left: solid 5px #ab5fa3; }
+  li.book5 { border-left: solid 5px #00be74; }
+  li.book6 { border-left: solid 5px #333; }
+  li.book7 { border-left: solid 5px #333; }
+  .article h2 {
+      text-shadow: 2px 2px 0 #eeeeee, 2px -2px 0 #eeeeee, -2px 2px 0 #eeeeee, -2px -2px 0 #eeeeee;
+  }
+  .article a { font-size: 90%; }
+  .books { width: 100%; display: flex; flex-wrap: wrap; }
+  .books p { margin: 0 10px 10px 0; padding: 0; width: 204px; }
+  .books a:hover { text-decoration: none; }
+  .books img { margin: 0; padding: 0; border: solid 1px black; }
+  .ref p { margin:0; padding: 0; }
+  .ref dl { margin: 0; font-size: 90%; }
+  .ref dt { width: 30%; float: left; clear: left; }
+  .ref dd { width: 70%; margin-left: 30%; }
+  .note { font-size: 80%; }
+  .note::before {
+	content: "⚠";
+  }
+  #footer {
+      background-color: white;
+      margin-top: 30px;
+      padding: 10px;
+      font-size: 80%;
+  }
+</style>
+</head>
+<body>
+  <div id="map">
+  </div>
+  <div id="container">
+    <header class="article-header">
+      <h1>VisitSuzugamori
+        <span class="lead">〜ざつ旅を辿る〜</span>
+      </h1>
+    </header>
+    <div class="article">
+      <ul>
+        <li class="book1"><a rel="noopener" href="">1</a></li>
+        <li class="book1"><a rel="noopener" href="">2</a></li>
+        <li class="book1"><a rel="noopener" href="">3</a></li>
+        <li class="book1"><a rel="noopener" href="">4</a></li>
+        <li class="book2"><a rel="noopener" href="">5</a></li>
+        <li class="book2"><a rel="noopener" href="">6</a></li>
+        <li class="book2"><a rel="noopener" href="">7</a></li>
+        <li class="book2"><a rel="noopener" href="">8</a></li>
+        <li class="book2"><a rel="noopener" href="">9-1</a></li>
+        <li class="book3"><a rel="noopener" href="">9-2</a></li>
+        <li class="book3"><a rel="noopener" href="">10</a></li>
+        <li class="book3"><a rel="noopener" href="">11</a></li>
+        <li class="book3"><a rel="noopener" href="">12</a></li>
+        <li class="book3"><a rel="noopener" href="">13-1</a></li>
+        <li class="book4"><a rel="noopener" href="">13-2</a></li>
+        <li class="book4"><a rel="noopener" href="">14</a></li>
+        <li class="book4"><a rel="noopener" href="">15</a></li>
+        <li class="book5"><a rel="noopener" href="">16</a></li>
+        <li class="book5"><a rel="noopener" href="">17</a></li>
+      </ul>
+      <div class="about">
+        <p class="note">about</p>
+      </div>
+    </div>
+    <div id="footer">
+      <p>原作：<a rel="noopener" href="https://www.kadokawa.co.jp/product/search/?sort=0&kw=%E3%81%96%E3%81%A4%E6%97%85">ざつ旅-That's Journey-</a> &copy; 石坂 ケンタ, KADOKAWA, 電撃マオウ / 地図・テンプレート：<a rel="noopener" href="https://github.com/mapbox/storytelling">Mapbox</a> / 農研機構 <a rel="noopener" href="https://aginfo.cgk.affrc.go.jp/rgeocode/index.html.ja">簡易逆ジオコーディングサービス</a> / 地図作成：VisitSuzugamori(<a href="https://github.com/VisitSuzugamori/VisitSuzugamori.github.io">💬contact</a>), <a href="https://twitter.com/isnot49662340">isnot</a></p>
+    </div>
+  </div>
+  <script src="https://api.mapbox.com/mapbox-gl-js/v2.2.0/mapbox-gl.js"></script>
+  <script>
+    const home_loc = {
+      center: [137.17, 36.05],
+      zoom: 4,
+      pitch: 25,
+      bearing: 0
+    };
+
+    mapboxgl.accessToken = 'pk.eyJ1IjoiaXNub3QiLCJhIjoiY2tscDdpeGExMHp5cTJwcXI0YWlzZHdyeCJ9._NooEseBc8wEwa3z_plcAg';
+    const map = new mapboxgl.Map({
+      container: 'map',
+      style: 'mapbox://styles/isnot/cknol1x9f59vg18l1r7zlhijc',
+      center: home_loc.center,
+      zoom: home_loc.zoom,
+      pitch: home_loc.pitch,
+      minZoom: 4,
+      hash: false,
+      localIdeographFontFamily: "'Noto Sans CJK JP', 'Noto Sans', sans-serif"
+    });
+
+    map.on('load', () => {
+      map
+        .setPaintProperty('ThatsJourney_VisitSuzugamori', 'fill-opacity', '0.8')
+        .setPaintProperty('ThatsJourney_VisitSuzugamori', 'fill-color', 'rgba(216,0,0,0.5)')
+        .loadImage(
+          './visitsuzugamori-icon16.png',
+          (error, image) => {
+            if (error) throw error;
+            map.addImage('custom-marker', image);
+            map.addSource('zatsumap', { type: 'geojson', data: './zatsumap.geojson' });
+            map.addLayer({
+              'id': 'points',
+              'type': 'symbol',
+              'source': 'zatsumap',
+              'layout': {
+                'icon-image': 'custom-marker',
+                'text-field': ['get', 'name'],
+                'text-offset': [0, 0.5],
+                'text-anchor': 'top',
+                'text-size': 10,
+                'text-allow-overlap': true,
+              }
+            });
+          }
+        );
+    });
+  </script>
+</body>
+</html>
