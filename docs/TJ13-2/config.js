@@ -57,7 +57,7 @@ const config = {
       title: '美保関バスターミナル',
       image: '',
       tweet_id: '',
-      description: '<p>4巻 P11  島根県松江市 </p> <p><img alt="七類-境港_まんばら" src="https://live.staticflickr.com/8553/8703296687_8ae7abd38a_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.534707&amp;lon=133.164644&amp;radius=0.25&amp;has_geo=1&amp;view_all=1">Flickr</a>【七類-境港_まんばら】 by zushonos</p>',
+      description: '<p>4巻 P11  島根県松江市 </p> <p><img alt="When the problem becomes a new resource" src="https://live.staticflickr.com/4595/38984457412_2a24c3af6a_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.534707&amp;lon=133.164644&amp;radius=0.25&amp;has_geo=1&amp;view_all=1">Flickr</a>【When the problem becomes a new resource】 by The Algonauts Project: sharing the power of algae!</p>',
       location: {
         center: [133.164644, 35.534707],
         zoom: 14,

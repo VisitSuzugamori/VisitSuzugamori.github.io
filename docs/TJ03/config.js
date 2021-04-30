@@ -16,8 +16,8 @@ const config = {
       hidden: false,
       title: '東京駅',
       image: '',
-      tweet_id: '1385425607719145474',
-      description: '<p>1巻 P87  東京都千代田区 丸の内一丁目9</p><div class="tweetContainer" id="tweet1385425607719145474"></div> ',
+      tweet_id: '1386595527949656067',
+      description: '<p>1巻 P87  東京都千代田区 丸の内一丁目9</p><div class="tweetContainer" id="tweet1386595527949656067"></div> ',
       location: {
         center: [139.7671248, 35.6812362],
         zoom: 14,
@@ -196,8 +196,8 @@ const config = {
       hidden: false,
       title: '宇奈月駅',
       image: '',
-      tweet_id: '1384453616560263174',
-      description: '<p>1巻 P116  富山県黒部市 黒部峡谷口9</p><div class="tweetContainer" id="tweet1384453616560263174"></div> ',
+      tweet_id: '1386804693834223617',
+      description: '<p>1巻 P116  富山県黒部市 黒部峡谷口9</p><div class="tweetContainer" id="tweet1386804693834223617"></div> ',
       location: {
         center: [137.5859364, 36.8150247],
         zoom: 14,

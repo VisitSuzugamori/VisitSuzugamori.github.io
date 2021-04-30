@@ -16,8 +16,8 @@ const config = {
       hidden: false,
       title: '東京駅',
       image: '',
-      tweet_id: '1385554840961437706',
-      description: '<p>4巻 P93  東京都千代田区 丸の内一丁目9</p><div class="tweetContainer" id="tweet1385554840961437706"></div> ',
+      tweet_id: '1386442461749202951',
+      description: '<p>4巻 P93  東京都千代田区 丸の内一丁目9</p><div class="tweetContainer" id="tweet1386442461749202951"></div> ',
       location: {
         center: [139.7671248, 35.6812362],
         zoom: 14,
@@ -256,8 +256,8 @@ const config = {
       hidden: false,
       title: '小河内ダム',
       image: '',
-      tweet_id: '',
-      description: '<p>4巻 P110  東京都西多摩郡 奥多摩町 境</p> <p><img alt="Lake Oku-tama" src="https://live.staticflickr.com/65535/51108684092_b1f3f61523_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.7894921&amp;lon=139.0520349&amp;radius=0.25&amp;has_geo=1&amp;view_all=1">Flickr</a>【Lake Oku-tama】 by wa_me</p>',
+      tweet_id: '1386894750242983936',
+      description: '<p>4巻 P110  東京都西多摩郡 奥多摩町 境</p><div class="tweetContainer" id="tweet1386894750242983936"></div> ',
       location: {
         center: [139.0520349, 35.7894921],
         zoom: 14,

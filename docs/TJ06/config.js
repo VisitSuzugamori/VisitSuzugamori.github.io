@@ -156,8 +156,8 @@ const config = {
       hidden: false,
       title: '烏山駅',
       image: '',
-      tweet_id: '1385087617667145730',
-      description: '<p>2巻 P58  栃木県那須烏山市 南二丁目4</p><div class="tweetContainer" id="tweet1385087617667145730"></div> ',
+      tweet_id: '1387326383517585411',
+      description: '<p>2巻 P58  栃木県那須烏山市 南二丁目4</p><div class="tweetContainer" id="tweet1387326383517585411"></div> ',
       location: {
         center: [140.1550537, 36.650446],
         zoom: 14,
