@@ -96,8 +96,8 @@ const config = {
       hidden: false,
       title: '宮島口駅',
       image: '',
-      tweet_id: '1385392059075411970',
-      description: '<p>2巻 P147  広島県廿日市市 宮島口一丁目3</p><div class="tweetContainer" id="tweet1385392059075411970"></div> ',
+      tweet_id: '1386085096776740869',
+      description: '<p>2巻 P147  広島県廿日市市 宮島口一丁目3</p><div class="tweetContainer" id="tweet1386085096776740869"></div> ',
       location: {
         center: [132.3029311, 34.3120172],
         zoom: 14,

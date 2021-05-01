@@ -56,8 +56,8 @@ const config = {
       hidden: false,
       title: '伊勢市駅',
       image: '',
-      tweet_id: '1387639072278126592',
-      description: '<p>2巻 P100  三重県伊勢市 吹上一丁目1</p><div class="tweetContainer" id="tweet1387639072278126592"></div> ',
+      tweet_id: '1388356370240507904',
+      description: '<p>2巻 P100  三重県伊勢市 吹上一丁目1</p><div class="tweetContainer" id="tweet1388356370240507904"></div> ',
       location: {
         center: [136.7097004, 34.4910554],
         zoom: 14,
@@ -136,8 +136,8 @@ const config = {
       hidden: false,
       title: '伊勢神宮',
       image: '',
-      tweet_id: '1386967382657179648',
-      description: '<p>2巻 P108  三重県伊勢市 宇治館町98</p><div class="tweetContainer" id="tweet1386967382657179648"></div> ',
+      tweet_id: '1388030325624754178',
+      description: '<p>2巻 P108  三重県伊勢市 宇治館町98</p><div class="tweetContainer" id="tweet1388030325624754178"></div> ',
       location: {
         center: [136.725793, 34.45501],
         zoom: 14,
@@ -176,8 +176,8 @@ const config = {
       hidden: false,
       title: '鳥羽駅',
       image: '',
-      tweet_id: '1386168680208293891',
-      description: '<p>2巻 P111  三重県鳥羽市 鳥羽一丁目8</p><div class="tweetContainer" id="tweet1386168680208293891"></div> ',
+      tweet_id: '1388360195919728648',
+      description: '<p>2巻 P111  三重県鳥羽市 鳥羽一丁目8</p><div class="tweetContainer" id="tweet1388360195919728648"></div> ',
       location: {
         center: [136.8431256, 34.4867665],
         zoom: 14,

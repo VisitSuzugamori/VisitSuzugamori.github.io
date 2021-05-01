@@ -57,7 +57,7 @@ const config = {
       title: '美保関バスターミナル',
       image: '',
       tweet_id: '',
-      description: '<p>4巻 P11  島根県松江市 </p> <p><img alt="When the problem becomes a new resource" src="https://live.staticflickr.com/4595/38984457412_2a24c3af6a_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.534707&amp;lon=133.164644&amp;radius=0.25&amp;has_geo=1&amp;view_all=1">Flickr</a>【When the problem becomes a new resource】 by The Algonauts Project: sharing the power of algae!</p>',
+      description: '<p>4巻 P11  島根県松江市 </p> <p><img alt="七類-境港_まんばら" src="https://live.staticflickr.com/8553/8703296687_8ae7abd38a_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.534707&amp;lon=133.164644&amp;radius=0.25&amp;has_geo=1&amp;view_all=1">Flickr</a>【七類-境港_まんばら】 by zushonos</p>',
       location: {
         center: [133.164644, 35.534707],
         zoom: 14,
@@ -77,7 +77,7 @@ const config = {
       title: '美保関漁港',
       image: '',
       tweet_id: '',
-      description: '<p>4巻 P12,13  島根県松江市 美保関町美保関</p> <p><img alt="Anchor" src="https://live.staticflickr.com/65535/48111991997_a5260003ae_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.5603343&amp;lon=133.3109506&amp;radius=0.25&amp;has_geo=1&amp;view_all=1">Flickr</a>【Anchor】 by Teruhide Tomori</p>',
+      description: '<p>4巻 P12,13  島根県松江市 美保関町美保関</p> <p><img alt="美保神社, Study 7" src="https://live.staticflickr.com/4816/45647023982_b8990abe39_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.5603343&amp;lon=133.3109506&amp;radius=0.25&amp;has_geo=1&amp;view_all=1">Flickr</a>【美保神社, Study 7】 by Zale Yu</p>',
       location: {
         center: [133.3109506, 35.5603343],
         zoom: 14,
@@ -97,7 +97,7 @@ const config = {
       title: '廻船御用水',
       image: '',
       tweet_id: '',
-      description: '<p>4巻 P13  島根県松江市 美保関町美保関</p> <p><img alt="Traditional style of shrine" src="https://live.staticflickr.com/65535/48149777937_02a4cd6aca_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.5623016&amp;lon=133.3074953&amp;radius=0.25&amp;has_geo=1&amp;view_all=1">Flickr</a>【Traditional style of shrine】 by Teruhide Tomori</p>',
+      description: '<p>4巻 P13  島根県松江市 美保関町美保関</p> <p><img alt="Anchor" src="https://live.staticflickr.com/65535/48111991997_a5260003ae_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.5623016&amp;lon=133.3074953&amp;radius=0.25&amp;has_geo=1&amp;view_all=1">Flickr</a>【Anchor】 by Teruhide Tomori</p>',
       location: {
         center: [133.3074953, 35.5623016],
         zoom: 14,
@@ -116,8 +116,8 @@ const config = {
       hidden: false,
       title: '美保神社',
       image: '',
-      tweet_id: '',
-      description: '<p>4巻 P14  島根県松江市 美保関町美保関</p> <p><img alt="Shimenawa at the old shrine" src="https://live.staticflickr.com/65535/48142228277_878fb8ef1d_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.5623182&amp;lon=133.3062224&amp;radius=0.25&amp;has_geo=1&amp;view_all=1">Flickr</a>【Shimenawa at the old shrine】 by Teruhide Tomori</p>',
+      tweet_id: '1388310578003775491',
+      description: '<p>4巻 P14  島根県松江市 美保関町美保関</p><div class="tweetContainer" id="tweet1388310578003775491"></div> ',
       location: {
         center: [133.3062224, 35.5623182],
         zoom: 14,

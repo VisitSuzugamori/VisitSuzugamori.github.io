@@ -16,8 +16,8 @@ const config = {
       hidden: false,
       title: '郡山駅',
       image: '',
-      tweet_id: '1385087470979665927',
-      description: '<p>1巻 P22  福島県郡山市 駅前二丁目4</p><div class="tweetContainer" id="tweet1385087470979665927"></div> ',
+      tweet_id: '1387169829648470021',
+      description: '<p>1巻 P22  福島県郡山市 駅前二丁目4</p><div class="tweetContainer" id="tweet1387169829648470021"></div> ',
       location: {
         center: [140.3884019, 37.3985573],
         zoom: 14,
@@ -76,8 +76,8 @@ const config = {
       hidden: false,
       title: 'ラーメン二郎 会津若松駅前店',
       image: '',
-      tweet_id: '1385059786102738945',
-      description: '<p>1巻 P25  福島県会津若松市 駅前町6</p><div class="tweetContainer" id="tweet1385059786102738945"></div> ',
+      tweet_id: '1388054928485126146',
+      description: '<p>1巻 P25  福島県会津若松市 駅前町6</p><div class="tweetContainer" id="tweet1388054928485126146"></div> ',
       location: {
         center: [139.9314173, 37.5066266],
         zoom: 14,

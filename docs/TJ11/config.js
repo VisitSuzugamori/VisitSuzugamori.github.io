@@ -76,8 +76,8 @@ const config = {
       hidden: false,
       title: '潮岬灯台',
       image: '',
-      tweet_id: '',
-      description: '<p>3巻 P62  和歌山県東牟婁郡 串本町 </p> <p><img alt="1808 1079 7R303555" src="https://live.staticflickr.com/1882/30235376518_6f1aa43d29_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=33.4375625&amp;lon=135.7544642&amp;radius=0.25&amp;has_geo=1&amp;view_all=1">Flickr</a>【1808 1079 7R303555】 by skycat1221</p>',
+      tweet_id: '1388402516258287622',
+      description: '<p>3巻 P62  和歌山県東牟婁郡 串本町 </p><div class="tweetContainer" id="tweet1388402516258287622"></div> ',
       location: {
         center: [135.7544642, 33.4375625],
         zoom: 14,
@@ -96,8 +96,8 @@ const config = {
       hidden: false,
       title: '本州最南端の碑',
       image: '',
-      tweet_id: '',
-      description: '<p>3巻 P64  和歌山県東牟婁郡 串本町 </p> <p><img alt="Milky way and Jupiter (3)" src="https://live.staticflickr.com/65535/50343782877_c69482ce8d_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=33.4362401&amp;lon=135.7621203&amp;radius=0.25&amp;has_geo=1&amp;view_all=1">Flickr</a>【Milky way and Jupiter (3)】 by kuni4400</p>',
+      tweet_id: '1387976542819700738',
+      description: '<p>3巻 P64  和歌山県東牟婁郡 串本町 </p><div class="tweetContainer" id="tweet1387976542819700738"></div> ',
       location: {
         center: [135.7621203, 33.4362401],
         zoom: 14,
@@ -157,7 +157,7 @@ const config = {
       title: '潮岬観光タワー',
       image: '',
       tweet_id: '',
-      description: '<p>3巻 P71  和歌山県東牟婁郡 串本町 </p> <p><img alt="Milky way and Jupiter(2)" src="https://live.staticflickr.com/65535/50343761477_790bae3d78_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=33.437806&amp;lon=135.7613677&amp;radius=0.25&amp;has_geo=1&amp;view_all=1">Flickr</a>【Milky way and Jupiter(2)】 by kuni4400</p>',
+      description: '<p>3巻 P71  和歌山県東牟婁郡 串本町 </p> <p><img alt="Milky way and Jupiter (3)" src="https://live.staticflickr.com/65535/50343782877_c69482ce8d_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=33.437806&amp;lon=135.7613677&amp;radius=0.25&amp;has_geo=1&amp;view_all=1">Flickr</a>【Milky way and Jupiter (3)】 by kuni4400</p>',
       location: {
         center: [135.7613677, 33.437806],
         zoom: 14,

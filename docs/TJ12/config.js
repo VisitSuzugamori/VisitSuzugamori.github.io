@@ -137,7 +137,7 @@ const config = {
       title: 'マルカン百貨店',
       image: '',
       tweet_id: '',
-      description: '<p>3巻 P101  岩手県花巻市 上町6</p> <p><img alt="iwate_20180308110707" src="https://live.staticflickr.com/929/43704080111_71773fb920_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=39.3858944&amp;lon=141.1171042&amp;radius=0.25&amp;has_geo=1&amp;view_all=1">Flickr</a>【iwate_20180308110707】 by inunami</p>',
+      description: '<p>3巻 P101  岩手県花巻市 上町6</p> <p><img alt="iwate_20180308111756" src="https://live.staticflickr.com/934/42988032354_42960137b6_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=39.3858944&amp;lon=141.1171042&amp;radius=0.25&amp;has_geo=1&amp;view_all=1">Flickr</a>【iwate_20180308111756】 by inunami</p>',
       location: {
         center: [141.1171042, 39.3858944],
         zoom: 14,
@@ -156,8 +156,8 @@ const config = {
       hidden: false,
       title: 'マルカンビル大食堂',
       image: '',
-      tweet_id: '',
-      description: '<p>3巻 P101  岩手県花巻市 上町6</p> <p><img alt="iwate_20180308111756" src="https://live.staticflickr.com/934/42988032354_42960137b6_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=39.385832&amp;lon=141.11711&amp;radius=0.25&amp;has_geo=1&amp;view_all=1">Flickr</a>【iwate_20180308111756】 by inunami</p>',
+      tweet_id: '1387967489540165633',
+      description: '<p>3巻 P101  岩手県花巻市 上町6</p><div class="tweetContainer" id="tweet1387967489540165633"></div> ',
       location: {
         center: [141.11711, 39.385832],
         zoom: 14,
@@ -217,7 +217,7 @@ const config = {
       title: '鼬幣稲荷神社',
       image: '',
       tweet_id: '',
-      description: '<p>3巻 P113  岩手県花巻市 石神町201</p> <p><img alt="DSC00453.jpg" src="https://live.staticflickr.com/4639/25390881198_bc8d9cd729_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=39.3830099&amp;lon=141.1039005&amp;radius=0.25&amp;has_geo=1&amp;view_all=1">Flickr</a>【DSC00453.jpg】 by randy@katzenpost.de</p>',
+      description: '<p>3巻 P113  岩手県花巻市 石神町201</p> ',
       location: {
         center: [141.1039005, 39.3830099],
         zoom: 14,
