@@ -37,7 +37,7 @@ const config = {
       title: '総合体育館前（バス）',
       image: '',
       tweet_id: '',
-      description: '<p>4巻 P9  島根県松江市 学園南二丁目5</p> <p><img alt="HOME SWEET HOME" src="https://live.staticflickr.com/7666/17414874510_81d2c52fc0_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.4731536&amp;lon=133.0660854&amp;radius=0.25&amp;has_geo=1&amp;view_all=1">Flickr</a>【HOME SWEET HOME】 by hung-hive 2</p>',
+      description: '<p>4巻 P9  島根県松江市 学園南二丁目5</p> <p><img alt="C56131 松江市北公園" src="https://live.staticflickr.com/3837/15300628411_8f9bf7daf9_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.4731536&amp;lon=133.0660854&amp;radius=0.25&amp;has_geo=1&amp;view_all=1">Flickr</a>【C56131 松江市北公園】 by OOMYV</p>',
       location: {
         center: [133.0660854, 35.4731536],
         zoom: 14,
@@ -77,7 +77,7 @@ const config = {
       title: '美保関漁港',
       image: '',
       tweet_id: '',
-      description: '<p>4巻 P12,13  島根県松江市 美保関町美保関</p> <p><img alt="美保神社, Study 7" src="https://live.staticflickr.com/4816/45647023982_b8990abe39_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.5603343&amp;lon=133.3109506&amp;radius=0.25&amp;has_geo=1&amp;view_all=1">Flickr</a>【美保神社, Study 7】 by Zale Yu</p>',
+      description: '<p>4巻 P12,13  島根県松江市 美保関町美保関</p> <p><img alt="Anchor" src="https://live.staticflickr.com/65535/48111991997_a5260003ae_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.5603343&amp;lon=133.3109506&amp;radius=0.25&amp;has_geo=1&amp;view_all=1">Flickr</a>【Anchor】 by Teruhide Tomori</p>',
       location: {
         center: [133.3109506, 35.5603343],
         zoom: 14,
@@ -97,7 +97,7 @@ const config = {
       title: '廻船御用水',
       image: '',
       tweet_id: '',
-      description: '<p>4巻 P13  島根県松江市 美保関町美保関</p> <p><img alt="Anchor" src="https://live.staticflickr.com/65535/48111991997_a5260003ae_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.5623016&amp;lon=133.3074953&amp;radius=0.25&amp;has_geo=1&amp;view_all=1">Flickr</a>【Anchor】 by Teruhide Tomori</p>',
+      description: '<p>4巻 P13  島根県松江市 美保関町美保関</p> <p><img alt="Traditional style of shrine" src="https://live.staticflickr.com/65535/48149777937_02a4cd6aca_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.5623016&amp;lon=133.3074953&amp;radius=0.25&amp;has_geo=1&amp;view_all=1">Flickr</a>【Traditional style of shrine】 by Teruhide Tomori</p>',
       location: {
         center: [133.3074953, 35.5623016],
         zoom: 14,

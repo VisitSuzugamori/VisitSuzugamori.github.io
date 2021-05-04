@@ -16,8 +16,8 @@ const config = {
       hidden: false,
       title: '東京駅',
       image: '',
-      tweet_id: '1387360741599051780',
-      description: '<p>   東京都千代田区 丸の内一丁目9</p><div class="tweetContainer" id="tweet1387360741599051780"></div> ',
+      tweet_id: '1388088041999380489',
+      description: '<p>   東京都千代田区 丸の内一丁目9</p><div class="tweetContainer" id="tweet1388088041999380489"></div> ',
       location: {
         center: [139.7671248, 35.6812362],
         zoom: 14,
@@ -96,8 +96,8 @@ const config = {
       hidden: false,
       title: '偕楽園',
       image: '',
-      tweet_id: '1385731368118747137',
-      description: '<p>   茨城県水戸市 常磐町6031</p><div class="tweetContainer" id="tweet1385731368118747137"></div> ',
+      tweet_id: '1389042607758528512',
+      description: '<p>   茨城県水戸市 常磐町6031</p><div class="tweetContainer" id="tweet1389042607758528512"></div> ',
       location: {
         center: [140.4521765, 36.3726263],
         zoom: 14,
