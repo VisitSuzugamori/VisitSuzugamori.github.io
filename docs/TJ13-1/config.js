@@ -237,7 +237,7 @@ const config = {
       title: '出雲大社 神楽殿',
       image: '',
       tweet_id: '',
-      description: '<p>3巻 P142  島根県出雲市 大社町杵築東257</p> <p><img alt="出雲大社 八足門" src="https://live.staticflickr.com/65535/49472455016_2c44b15efb_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.4015453&amp;lon=132.6844634&amp;radius=0.25&amp;has_geo=1&amp;view_all=1">Flickr</a>【出雲大社 八足門】 by alberth2</p>',
+      description: '<p>3巻 P142  島根県出雲市 大社町杵築東257</p> <p><img alt="出雲大社 松の参道" src="https://live.staticflickr.com/65535/49472455211_dbc2e1a873_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.4015453&amp;lon=132.6844634&amp;radius=0.25&amp;has_geo=1&amp;view_all=1">Flickr</a>【出雲大社 松の参道】 by alberth2</p>',
       location: {
         center: [132.6844634, 35.4015453],
         zoom: 14,

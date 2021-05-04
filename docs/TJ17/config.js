@@ -257,7 +257,7 @@ const config = {
       title: 'USA（宇佐）神宮',
       image: '',
       tweet_id: '',
-      description: '<p>   大分県宇佐市 南宇佐2859</p> <p><img alt="Entrance to Usa Jingū Shrine" src="https://live.staticflickr.com/4858/31052628097_7f122a50bd_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=33.5260019&amp;lon=131.3746381&amp;radius=0.25&amp;has_geo=1&amp;view_all=1">Flickr</a>【Entrance to Usa Jingū Shrine】 by Martin Smith - Having the Time of my Life</p>',
+      description: '<p>   大分県宇佐市 南宇佐2859</p> <p><img alt="Usa Jingu Shinto Shrine" src="https://live.staticflickr.com/4823/45092544495_d4660380e3_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=33.5260019&amp;lon=131.3746381&amp;radius=0.25&amp;has_geo=1&amp;view_all=1">Flickr</a>【Usa Jingu Shinto Shrine】 by Martin Smith - Having the Time of my Life</p>',
       location: {
         center: [131.3746381, 33.5260019],
         zoom: 14,
