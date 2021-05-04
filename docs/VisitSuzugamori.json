@@ -233,6 +233,16 @@
       "published": "2021, 電撃マオウ 4月号",
       "books": "5巻",
       "subtitle": null
+    },
+    "TJ18": {
+      "index": 18,
+      "id": "TJ18",
+      "key": "第18旅",
+      "title": "第18旅 都内Ⅲ",
+      "place": "千代田区 港区 渋谷区 新宿区",
+      "published": "2021, 電撃マオウ 6月号",
+      "books": null,
+      "subtitle": null
     }
   },
   "books": {
