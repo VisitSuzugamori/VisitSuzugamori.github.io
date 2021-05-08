@@ -16,8 +16,8 @@ const config = {
       hidden: false,
       title: '東京駅',
       image: '',
-      tweet_id: '1388438681048944640',
-      description: '<p>   東京都千代田区 丸の内一丁目9</p><div class="tweetContainer" id="tweet1388438681048944640"></div> ',
+      tweet_id: '1389944984015499273',
+      description: '<p>   東京都千代田区 丸の内一丁目9</p><div class="tweetContainer" id="tweet1389944984015499273"></div> ',
       location: {
         center: [139.7671248, 35.6812362],
         zoom: 14,
@@ -76,8 +76,8 @@ const config = {
       hidden: false,
       title: '耶馬溪',
       image: '',
-      tweet_id: '1387972200070750217',
-      description: '<p>   大分県中津市 本耶馬渓町樋田</p><div class="tweetContainer" id="tweet1387972200070750217"></div> ',
+      tweet_id: '',
+      description: '<p>   大分県中津市 本耶馬渓町樋田</p> ',
       location: {
         center: [131.1779366, 33.4947001],
         zoom: 14,
@@ -96,8 +96,8 @@ const config = {
       hidden: false,
       title: '青の洞門',
       image: '',
-      tweet_id: '1389038353987768326',
-      description: '<p>   大分県中津市 本耶馬渓町樋田</p><div class="tweetContainer" id="tweet1389038353987768326"></div> ',
+      tweet_id: '1389853284739944448',
+      description: '<p>   大分県中津市 本耶馬渓町樋田</p><div class="tweetContainer" id="tweet1389853284739944448"></div> ',
       location: {
         center: [131.1717971, 33.5001247],
         zoom: 14,

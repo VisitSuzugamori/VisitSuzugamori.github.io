@@ -136,8 +136,8 @@ const config = {
       hidden: false,
       title: '伊勢神宮',
       image: '',
-      tweet_id: '1388030325624754178',
-      description: '<p>2巻 P108  三重県伊勢市 宇治館町98</p><div class="tweetContainer" id="tweet1388030325624754178"></div> ',
+      tweet_id: '1389539049359110153',
+      description: '<p>2巻 P108  三重県伊勢市 宇治館町98</p><div class="tweetContainer" id="tweet1389539049359110153"></div> ',
       location: {
         center: [136.725793, 34.45501],
         zoom: 14,
@@ -256,8 +256,8 @@ const config = {
       hidden: false,
       title: '夫婦岩',
       image: '',
-      tweet_id: '1388576272364699649',
-      description: '<p>2巻 P121  三重県伊勢市 二見町茶屋562</p><div class="tweetContainer" id="tweet1388576272364699649"></div> ',
+      tweet_id: '1389752112595181575',
+      description: '<p>2巻 P121  三重県伊勢市 二見町茶屋562</p><div class="tweetContainer" id="tweet1389752112595181575"></div> ',
       location: {
         center: [136.7883283, 34.5092993],
         zoom: 14,

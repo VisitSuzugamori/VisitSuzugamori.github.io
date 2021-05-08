@@ -216,8 +216,8 @@ const config = {
       hidden: false,
       title: 'くまのこ食堂',
       image: '',
-      tweet_id: '',
-      description: '<p>3巻 P81  和歌山県田辺市 本宮町本宮</p> <p><img alt="大齋原鳥居. 熊野古道" src="https://live.staticflickr.com/65535/49574224847_1395d7ec9b_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=33.834421&amp;lon=135.7723926&amp;radius=0.25&amp;has_geo=1&amp;view_all=1">Flickr</a>【大齋原鳥居. 熊野古道】 by hulagaga</p>',
+      tweet_id: '1389448229687865345',
+      description: '<p>3巻 P81  和歌山県田辺市 本宮町本宮</p><div class="tweetContainer" id="tweet1389448229687865345"></div> ',
       location: {
         center: [135.7723926, 33.834421],
         zoom: 14,
@@ -236,8 +236,8 @@ const config = {
       hidden: false,
       title: '熊野本宮大社',
       image: '',
-      tweet_id: '1386986766146555905',
-      description: '<p>3巻 P82  和歌山県田辺市 本宮町本宮</p><div class="tweetContainer" id="tweet1386986766146555905"></div> ',
+      tweet_id: '1388298606038249473',
+      description: '<p>3巻 P82  和歌山県田辺市 本宮町本宮</p><div class="tweetContainer" id="tweet1388298606038249473"></div> ',
       location: {
         center: [135.7734753, 33.8405706],
         zoom: 14,

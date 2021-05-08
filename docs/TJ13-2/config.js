@@ -37,7 +37,7 @@ const config = {
       title: '総合体育館前（バス）',
       image: '',
       tweet_id: '',
-      description: '<p>4巻 P9  島根県松江市 学園南二丁目5</p> <p><img alt="HOME SWEET HOME" src="https://live.staticflickr.com/7666/17414874510_81d2c52fc0_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.4731536&amp;lon=133.0660854&amp;radius=0.25&amp;has_geo=1&amp;view_all=1">Flickr</a>【HOME SWEET HOME】 by hung-hive 2</p>',
+      description: '<p>4巻 P9  島根県松江市 学園南二丁目5</p> <p><img alt="C56131 松江市北公園" src="https://live.staticflickr.com/5585/15117064830_54b2dcc3f0_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.4731536&amp;lon=133.0660854&amp;radius=0.25&amp;has_geo=1&amp;view_all=1">Flickr</a>【C56131 松江市北公園】 by OOMYV</p>',
       location: {
         center: [133.0660854, 35.4731536],
         zoom: 14,
@@ -197,7 +197,7 @@ const config = {
       title: '恵美須社',
       image: '',
       tweet_id: '',
-      description: '<p>4巻 P37  島根県松江市 </p> <p><img alt="前往美保關的路上, Study 2" src="https://live.staticflickr.com/4915/45647025832_485320f344_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.5642081&amp;lon=133.3198608&amp;radius=0.25&amp;has_geo=1&amp;view_all=1">Flickr</a>【前往美保關的路上, Study 2】 by Zale Yu</p>',
+      description: '<p>4巻 P37  島根県松江市 </p> <p><img alt="前往美保關的路上, Study 3" src="https://live.staticflickr.com/1950/45647025532_98631dc075_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.5642081&amp;lon=133.3198608&amp;radius=0.25&amp;has_geo=1&amp;view_all=1">Flickr</a>【前往美保關的路上, Study 3】 by Zale Yu</p>',
       location: {
         center: [133.3198608, 35.5642081],
         zoom: 14,

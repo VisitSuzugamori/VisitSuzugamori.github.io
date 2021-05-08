@@ -136,8 +136,8 @@ const config = {
       hidden: false,
       title: '宮島桟橋',
       image: '',
-      tweet_id: '1386846305247318016',
-      description: '<p>2巻 P151  広島県廿日市市 宮島町873</p><div class="tweetContainer" id="tweet1386846305247318016"></div> ',
+      tweet_id: '1389399528730546182',
+      description: '<p>2巻 P151  広島県廿日市市 宮島町873</p><div class="tweetContainer" id="tweet1389399528730546182"></div> ',
       location: {
         center: [132.3222151, 34.3020862],
         zoom: 14,
@@ -157,7 +157,7 @@ const config = {
       title: '嚴島神社 大鳥居（布の中）',
       image: '',
       tweet_id: '',
-      description: '<p>2巻 P152,153  </p> <p><img alt="Itsukushima-Schrein" src="https://live.staticflickr.com/65535/51089324234_5587811c92_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.2973092&amp;lon=132.3181276&amp;radius=0.25&amp;has_geo=1&amp;view_all=1">Flickr</a>【Itsukushima-Schrein】 by Joerg1975</p>',
+      description: '<p>2巻 P152,153  </p> <p><img alt="Miyajima Torii" src="https://live.staticflickr.com/65535/51041190017_bfc0c37633_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.2973092&amp;lon=132.3181276&amp;radius=0.25&amp;has_geo=1&amp;view_all=1">Flickr</a>【Miyajima Torii】 by taigrafia</p>',
       location: {
         center: [132.3181276, 34.2973092],
         zoom: 14,

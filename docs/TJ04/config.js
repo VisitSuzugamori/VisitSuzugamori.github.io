@@ -16,8 +16,8 @@ const config = {
       hidden: false,
       title: '東京駅',
       image: '',
-      tweet_id: '1388033683756515332',
-      description: '<p>1巻 P126  東京都千代田区 丸の内一丁目9</p><div class="tweetContainer" id="tweet1388033683756515332"></div> ',
+      tweet_id: '1390186493818195968',
+      description: '<p>1巻 P126  東京都千代田区 丸の内一丁目9</p><div class="tweetContainer" id="tweet1390186493818195968"></div> ',
       location: {
         center: [139.7671248, 35.6812362],
         zoom: 14,
@@ -36,8 +36,8 @@ const config = {
       hidden: false,
       title: '岡山駅',
       image: '',
-      tweet_id: '1387572463236571138',
-      description: '<p>1巻 P130  岡山県岡山市 北区 駅元町11</p><div class="tweetContainer" id="tweet1387572463236571138"></div> ',
+      tweet_id: '1390896497202405376',
+      description: '<p>1巻 P130  岡山県岡山市 北区 駅元町11</p><div class="tweetContainer" id="tweet1390896497202405376"></div> ',
       location: {
         center: [133.9177335, 34.6661212],
         zoom: 14,
@@ -56,8 +56,8 @@ const config = {
       hidden: false,
       title: '高松駅',
       image: '',
-      tweet_id: '1389036523400699905',
-      description: '<p>1巻 P131  香川県高松市 西の丸町2</p><div class="tweetContainer" id="tweet1389036523400699905"></div> ',
+      tweet_id: '1389565012222484480',
+      description: '<p>1巻 P131  香川県高松市 西の丸町2</p><div class="tweetContainer" id="tweet1389565012222484480"></div> ',
       location: {
         center: [134.047056, 34.3504507],
         zoom: 14,
@@ -136,8 +136,8 @@ const config = {
       hidden: false,
       title: 'うどん本陣 山田家',
       image: '',
-      tweet_id: '1389061190047907840',
-      description: '<p>1巻 P134  香川県高松市 牟礼町牟礼3128</p><div class="tweetContainer" id="tweet1389061190047907840"></div> ',
+      tweet_id: '1390112499945574403',
+      description: '<p>1巻 P134  香川県高松市 牟礼町牟礼3128</p><div class="tweetContainer" id="tweet1390112499945574403"></div> ',
       location: {
         center: [134.1296254, 34.3532536],
         zoom: 14,
