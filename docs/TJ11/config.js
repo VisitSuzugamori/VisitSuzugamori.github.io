@@ -16,8 +16,8 @@ const config = {
       hidden: false,
       title: '串本駅',
       image: '',
-      tweet_id: '1389008092470337550',
-      description: '<p>3巻 P57  和歌山県東牟婁郡 串本町 串本40</p><div class="tweetContainer" id="tweet1389008092470337550"></div> ',
+      tweet_id: '',
+      description: '<p>3巻 P57  和歌山県東牟婁郡 串本町 串本40</p> <p><img alt="sister city (Japan: Turkey) panorama 2018 Oct. 27 Kushimoto" src="https://live.staticflickr.com/4915/45089021854_ac4169c2b2_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=33.4755266&amp;lon=135.7816031&amp;radius=0.25&amp;has_geo=1&amp;view_all=1">Flickr</a>【sister city (Japan: Turkey) panorama 2018 Oct. 27 Kushimoto】 by anthroview</p>',
       location: {
         center: [135.7816031, 33.4755266],
         zoom: 14,
@@ -76,8 +76,8 @@ const config = {
       hidden: false,
       title: '潮岬灯台',
       image: '',
-      tweet_id: '1388402516258287622',
-      description: '<p>3巻 P62  和歌山県東牟婁郡 串本町 </p><div class="tweetContainer" id="tweet1388402516258287622"></div> ',
+      tweet_id: '1390192985367715840',
+      description: '<p>3巻 P62  和歌山県東牟婁郡 串本町 </p><div class="tweetContainer" id="tweet1390192985367715840"></div> ',
       location: {
         center: [135.7544642, 33.4375625],
         zoom: 14,
@@ -96,8 +96,8 @@ const config = {
       hidden: false,
       title: '本州最南端の碑',
       image: '',
-      tweet_id: '1389326679584149513',
-      description: '<p>3巻 P64  和歌山県東牟婁郡 串本町 </p><div class="tweetContainer" id="tweet1389326679584149513"></div> ',
+      tweet_id: '1391246801760669704',
+      description: '<p>3巻 P64  和歌山県東牟婁郡 串本町 </p><div class="tweetContainer" id="tweet1391246801760669704"></div> ',
       location: {
         center: [135.7621203, 33.4362401],
         zoom: 14,
@@ -117,7 +117,7 @@ const config = {
       title: 'ビジネスホテル串本 駅前店',
       image: '',
       tweet_id: '',
-      description: '<p>3巻 P67  和歌山県東牟婁郡 串本町 串本40</p> <p><img alt="sister city (Japan: Turkey) panorama 2018 Oct. 27 Kushimoto" src="https://live.staticflickr.com/4915/45089021854_ac4169c2b2_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=33.474975&amp;lon=135.782048&amp;radius=0.25&amp;has_geo=1&amp;view_all=1">Flickr</a>【sister city (Japan: Turkey) panorama 2018 Oct. 27 Kushimoto】 by anthroview</p>',
+      description: '<p>3巻 P67  和歌山県東牟婁郡 串本町 串本40</p> <p><img alt="train station at Kushimoto shows major attractions" src="https://live.staticflickr.com/4869/32011139438_67c5371bdb_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=33.474975&amp;lon=135.782048&amp;radius=0.25&amp;has_geo=1&amp;view_all=1">Flickr</a>【train station at Kushimoto shows major attractions】 by anthroview</p>',
       location: {
         center: [135.782048, 33.474975],
         zoom: 14,
@@ -176,8 +176,8 @@ const config = {
       hidden: false,
       title: '新宮駅',
       image: '',
-      tweet_id: '1389099733566717954',
-      description: '<p>3巻 P80  和歌山県新宮市 徐福一丁目3</p><div class="tweetContainer" id="tweet1389099733566717954"></div> ',
+      tweet_id: '1391659666472640513',
+      description: '<p>3巻 P80  和歌山県新宮市 徐福一丁目3</p><div class="tweetContainer" id="tweet1391659666472640513"></div> ',
       location: {
         center: [135.9941471, 33.7251509],
         zoom: 14,
@@ -216,8 +216,8 @@ const config = {
       hidden: false,
       title: 'くまのこ食堂',
       image: '',
-      tweet_id: '1389448229687865345',
-      description: '<p>3巻 P81  和歌山県田辺市 本宮町本宮</p><div class="tweetContainer" id="tweet1389448229687865345"></div> ',
+      tweet_id: '',
+      description: '<p>3巻 P81  和歌山県田辺市 本宮町本宮</p> <p><img alt="大齋原鳥居. 熊野古道" src="https://live.staticflickr.com/65535/49574224847_1395d7ec9b_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=33.834421&amp;lon=135.7723926&amp;radius=0.25&amp;has_geo=1&amp;view_all=1">Flickr</a>【大齋原鳥居. 熊野古道】 by hulagaga</p>',
       location: {
         center: [135.7723926, 33.834421],
         zoom: 14,
@@ -236,8 +236,8 @@ const config = {
       hidden: false,
       title: '熊野本宮大社',
       image: '',
-      tweet_id: '1388298606038249473',
-      description: '<p>3巻 P82  和歌山県田辺市 本宮町本宮</p><div class="tweetContainer" id="tweet1388298606038249473"></div> ',
+      tweet_id: '1390775984542994432',
+      description: '<p>3巻 P82  和歌山県田辺市 本宮町本宮</p><div class="tweetContainer" id="tweet1390775984542994432"></div> ',
       location: {
         center: [135.7734753, 33.8405706],
         zoom: 14,
@@ -257,7 +257,7 @@ const config = {
       title: '料理 萬口',
       image: '',
       tweet_id: '',
-      description: '<p>3巻 P85  和歌山県東牟婁郡 串本町 串本43</p> <p><img alt="train station at Kushimoto shows major attractions" src="https://live.staticflickr.com/4869/32011139438_67c5371bdb_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=33.4745935&amp;lon=135.7817317&amp;radius=0.25&amp;has_geo=1&amp;view_all=1">Flickr</a>【train station at Kushimoto shows major attractions】 by anthroview</p>',
+      description: '<p>3巻 P85  和歌山県東牟婁郡 串本町 串本43</p> <p><img alt="whaling story for the south end of the Kii Peninsula" src="https://live.staticflickr.com/4852/44065931920_23a842dcbb_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=33.4745935&amp;lon=135.7817317&amp;radius=0.25&amp;has_geo=1&amp;view_all=1">Flickr</a>【whaling story for the south end of the Kii Peninsula】 by anthroview</p>',
       location: {
         center: [135.7817317, 33.4745935],
         zoom: 14,
