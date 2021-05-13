@@ -6,6 +6,16 @@ const turf = require('@turf/turf');
 const u = require('./common.js');
 const kmlPath = './geodata/administrative_boundary.kml';
 
+function uniquePlacesSet(VisitSuzugamori) {
+  const area = new Set();
+  Object.values(VisitSuzugamori.stories).forEach((val) => {
+    val.place.split(' ').forEach((iplace) => {
+      area.add(iplace);
+    });
+  });
+  return area;
+}
+
 function parseKml(kml) {
   const poi = new Map();
   for (const item of Array.from(kml.documentElement.getElementsByTagName('Placemark'))) {
@@ -17,24 +27,19 @@ function parseKml(kml) {
   return poi;
 }
 
-function indexByStory(data, pdata) {
+function screaningByPlace(data, area) {
   const index = new Map();
-  for (const p of pdata) {
-    let area = [];
-    for (const place of p[1].split(' ')) {
-      const polygons = data.get(place);
-      if (Array.isArray(polygons)) {
-        area = area.concat(polygons);
-      }
+  for (const place of area) {
+    if (data.has(place)) {
+      index.set(place, data.get(place));
     }
-    index.set(p[0], area);
   }
   return index;
 }
 
-function makeGeojson(mJourney) {
+function makeGeojson(data) {
   const multi_feature = [];
-  mJourney.forEach((value, journey) => {
+  data.forEach((value, place) => {
     const multi = [];
     for (const raw_a of value) {
       const line = [];
@@ -44,8 +49,8 @@ function makeGeojson(mJourney) {
       multi.push([line]);
     }
 
-    // console.log(journey, multi);
-    multi_feature.push(featurePolygon(multi, journey));
+    // console.log(place, multi);
+    multi_feature.push(featurePolygon(multi, place));
   });
 
   return turf.featureCollection(multi_feature, {
@@ -54,8 +59,8 @@ function makeGeojson(mJourney) {
   });
 }
 
-function featurePolygon(multi_coordinates, journey) {
-  return turf.multiPolygon(multi_coordinates, { name: journey }, { id: journey });
+function featurePolygon(multi_coordinates, name) {
+  return turf.multiPolygon(multi_coordinates, { name: name }, { id: name });
 }
 
 function dump_geojson_geometory(geojson) {
@@ -88,18 +93,14 @@ function dump_geojson_geometory(geojson) {
   try {
     const VS = await u.read_local_file('./docs/VisitSuzugamori.json');
     const VisitSuzugamori = JSON.parse(VS);
+    const pdata = uniquePlacesSet(VisitSuzugamori);
 
     const rawContent = await u.read_local_file(kmlPath);
     const parser = new DOMParser();
     const kml = parser.parseFromString(rawContent, 'application/xml');
     const placemarks = parseKml(kml);
-
-    const pdata = Object.keys(VisitSuzugamori.stories).map((journey) => [
-      journey,
-      VisitSuzugamori.stories[journey].place,
-    ]);
-    const byStory = indexByStory(placemarks, pdata);
-    const geojson = makeGeojson(byStory);
+    const placeToPolygons = screaningByPlace(placemarks, pdata);
+    const geojson = makeGeojson(placeToPolygons);
 
     dump_geojson_geometory(geojson);
 
