@@ -78,7 +78,7 @@
     padding: 0;
     margin: 0;
   }
-  #placeDescription { opacity: 0.5; }
+  #placeDescription { opacity: 0.5; font-size: 80%; }
   #footer {
     opacity: 0.7;
     background-color: white;
@@ -140,6 +140,7 @@
       })
       .then((data) => {
         const ul = document.querySelector('.navi ul');
+        const description = document.querySelector('#placeDescription p');
         Object.values(data.stories).forEach((val) => {
           if (!Object.prototype.hasOwnProperty.call(val, 'books')) {
             return;
@@ -154,9 +155,8 @@
           link.textContent = name;
           link.addEventListener('click', (e) => {
             map.flyTo(val.camera);
+            description.innerHTML = `<a href="/TJ${name}/">${val.title}</a>`;
           });
-          const description = document.querySelector('#placeDescription p');
-          description.textContent = `${val.title} ${val.place}`;
           item.append(link);
           ul.appendChild(item);
         });
