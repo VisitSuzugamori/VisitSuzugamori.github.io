@@ -127,7 +127,7 @@
       "published": "2020, 電撃マオウ 3月号",
       "books": "3巻",
       "subtitle": "温泉で完成",
-      "camera": {"zoom": 8, "center": [140.846, 40.72]}
+      "camera": {"zoom": 8.5, "center": [140.846, 40.72]}
     },
     "TJ11": {
       "index": 11,
@@ -149,7 +149,7 @@
       "published": "2020, 電撃マオウ 5月号",
       "books": "3巻",
       "subtitle": "ココロのふるさと",
-      "camera": {"zoom": 9, "center": [141.2542, 39.1]}
+      "camera": {"zoom": 9, "center": [141.2542, 39.24]}
     },
     "TJ13-1": {
       "index": 13,
