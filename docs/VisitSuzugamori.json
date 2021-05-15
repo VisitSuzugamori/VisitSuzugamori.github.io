@@ -17,7 +17,7 @@
       "published": "2019, 電撃マオウ 5月号",
       "books": "1巻",
       "subtitle": "はじめの1225段",
-      "camera": {"zoom": 9, "center": [140.1598, 37.4934]}
+      "camera": {"zoom": 10, "center": [140.1598, 37.4934]}
     },
     "TJ02": {
       "index": 2,
@@ -28,7 +28,7 @@
       "published": "2019, 電撃マオウ 6月号",
       "books": "1巻",
       "subtitle": "伊達じゃない伊達",
-      "camera": {"zoom": 11, "center": [140.9954, 38.3141]}
+      "camera": {"zoom": 11, "center": [140.9747, 38.3321]}
     },
     "TJ03": {
       "index": 3,
@@ -39,7 +39,7 @@
       "published": "2019, 電撃マオウ 7月号",
       "books": "1巻",
       "subtitle": "きときとふたり旅",
-      "camera": {"zoom": 12, "center": [137.51272, 36.83409]}
+      "camera": {"zoom": 11.5, "center": [137.51272, 36.83409]}
     },
     "TJ04": {
       "index": 4,
@@ -83,7 +83,7 @@
       "published": "2019, 電撃マオウ 11月号",
       "books": "2巻",
       "subtitle": "初めての離島",
-      "camera": {"zoom": 10, "center": [139.3296, 38.3338]}
+      "camera": {"zoom": 10, "center": [139.3296, 38.4]}
     },
     "TJ08": {
       "index": 8,
@@ -94,7 +94,7 @@
       "published": "2019, 電撃マオウ 12月号",
       "books": "2巻",
       "subtitle": "神様と出会える街？",
-      "camera": {"zoom": 10, "center": [136.7168, 34.5146]}
+      "camera": {"zoom": 10, "center": [136.7168, 34.6]}
     },
     "TJ09-1": {
       "index": 9,
@@ -127,7 +127,7 @@
       "published": "2020, 電撃マオウ 3月号",
       "books": "3巻",
       "subtitle": "温泉で完成",
-      "camera": {"zoom": 8, "center": [140.846, 40.842]}
+      "camera": {"zoom": 8, "center": [140.846, 40.72]}
     },
     "TJ11": {
       "index": 11,
@@ -149,7 +149,7 @@
       "published": "2020, 電撃マオウ 5月号",
       "books": "3巻",
       "subtitle": "ココロのふるさと",
-      "camera": {"zoom": 9, "center": [141.2542, 39.1247]}
+      "camera": {"zoom": 9, "center": [141.2542, 39.1]}
     },
     "TJ13-1": {
       "index": 13,
