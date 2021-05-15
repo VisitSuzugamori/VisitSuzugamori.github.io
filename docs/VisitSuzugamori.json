@@ -16,7 +16,8 @@
       "place": "郡山市 会津若松市",
       "published": "2019, 電撃マオウ 5月号",
       "books": "1巻",
-      "subtitle": "はじめの1225段"
+      "subtitle": "はじめの1225段",
+      "camera": {"zoom": 9, "center": [140.1598, 37.4934]}
     },
     "TJ02": {
       "index": 2,
@@ -26,7 +27,8 @@
       "place": "仙台市青葉区 宮城郡松島町",
       "published": "2019, 電撃マオウ 6月号",
       "books": "1巻",
-      "subtitle": "伊達じゃない伊達"
+      "subtitle": "伊達じゃない伊達",
+      "camera": {"zoom": 11, "center": [140.9954, 38.3141]}
     },
     "TJ03": {
       "index": 3,
@@ -36,7 +38,8 @@
       "place": "千代田区 黒部市",
       "published": "2019, 電撃マオウ 7月号",
       "books": "1巻",
-      "subtitle": "きときとふたり旅"
+      "subtitle": "きときとふたり旅",
+      "camera": {"zoom": 12, "center": [137.51272, 36.83409]}
     },
     "TJ04": {
       "index": 4,
@@ -46,7 +49,8 @@
       "place": "千代田区 岡山市北区 高松市",
       "published": "2019, 電撃マオウ 8月号",
       "books": "1巻",
-      "subtitle": "そのままのコシで"
+      "subtitle": "そのままのコシで",
+      "camera": {"zoom": 10, "center": [134.0249, 34.4459]}
     },
     "TJ05": {
       "index": 5,
@@ -56,7 +60,8 @@
       "place": "京都市伏見区 京都市下京区 宮津市",
       "published": "2019, 電撃マオウ 9月号",
       "books": "2巻",
-      "subtitle": "ふ、ばいざしー"
+      "subtitle": "ふ、ばいざしー",
+      "camera": {"zoom": 9, "center": [135.6073, 35.182]}
     },
     "TJ06": {
       "index": 6,
@@ -66,7 +71,8 @@
       "place": "宇都宮市 那須烏山市",
       "published": "2019, 電撃マオウ 10月号",
       "books": "2巻",
-      "subtitle": "カラスと龍と蕎麦の先"
+      "subtitle": "カラスと龍と蕎麦の先",
+      "camera": {"zoom": 10, "center": [140.0259, 36.5849]}
     },
     "TJ07": {
       "index": 7,
@@ -76,7 +82,8 @@
       "place": "岩船郡粟島浦村",
       "published": "2019, 電撃マオウ 11月号",
       "books": "2巻",
-      "subtitle": "初めての離島"
+      "subtitle": "初めての離島",
+      "camera": {"zoom": 10, "center": [139.3296, 38.3338]}
     },
     "TJ08": {
       "index": 8,
@@ -86,7 +93,8 @@
       "place": "鈴鹿市 伊勢市 鳥羽市",
       "published": "2019, 電撃マオウ 12月号",
       "books": "2巻",
-      "subtitle": "神様と出会える街？"
+      "subtitle": "神様と出会える街？",
+      "camera": {"zoom": 10, "center": [136.7168, 34.5146]}
     },
     "TJ09-1": {
       "index": 9,
@@ -96,7 +104,8 @@
       "place": "文京区 海老名市 広島市東区 広島市南区 廿日市市",
       "published": "2020, 電撃マオウ 1月号",
       "books": "2巻",
-      "subtitle": "三人よれば…バス？"
+      "subtitle": "三人よれば…バス？",
+      "camera": {"zoom": 10, "center": [132.37, 34.3141]}
     },
     "TJ09-2": {
       "index": 9,
@@ -106,7 +115,8 @@
       "place": "廿日市市 呉市 尾道市",
       "published": "2020, 電撃マオウ 2月号",
       "books": "3巻",
-      "subtitle": "女子三人寄って睦まじい"
+      "subtitle": "女子三人寄って睦まじい",
+      "camera": {"zoom": 9, "center": [132.8114, 34.353]}
     },
     "TJ10": {
       "index": 10,
@@ -116,7 +126,8 @@
       "place": "青森市 十和田市 むつ市",
       "published": "2020, 電撃マオウ 3月号",
       "books": "3巻",
-      "subtitle": "温泉で完成"
+      "subtitle": "温泉で完成",
+      "camera": {"zoom": 8, "center": [140.846, 40.842]}
     },
     "TJ11": {
       "index": 11,
@@ -126,7 +137,8 @@
       "place": "東牟婁郡串本町 新宮市 田辺市",
       "published": "2020, 電撃マオウ 4月号",
       "books": "3巻",
-      "subtitle": "一年のおわりとはじまり"
+      "subtitle": "一年のおわりとはじまり",
+      "camera": {"zoom": 9, "center": [135.7977, 33.7483]}
     },
     "TJ12": {
       "index": 12,
@@ -136,7 +148,8 @@
       "place": "花巻市 北上市 西磐井郡平泉町",
       "published": "2020, 電撃マオウ 5月号",
       "books": "3巻",
-      "subtitle": "ココロのふるさと"
+      "subtitle": "ココロのふるさと",
+      "camera": {"zoom": 9, "center": [141.2542, 39.1247]}
     },
     "TJ13-1": {
       "index": 13,
@@ -146,7 +159,8 @@
       "place": "出雲市 松江市",
       "published": "2020, 電撃マオウ 6月号",
       "books": "3巻",
-      "subtitle": "師匠と片参り"
+      "subtitle": "師匠と片参り",
+      "camera": {"zoom": 9, "center": [133.0483, 35.4834]}
     },
     "TJ13-2": {
       "index": 13,
@@ -156,7 +170,8 @@
       "place": "松江市",
       "published": "2020, 電撃マオウ 7月号",
       "books": "4巻",
-      "subtitle": "師匠と片参り"
+      "subtitle": "師匠と片参り",
+      "camera": {"zoom": 9, "center": [133.0483, 35.4834]}
     },
     "TJ14": {
       "index": 14,
@@ -166,7 +181,8 @@
       "place": "千代田区 立川市 青梅市 西多摩郡奥多摩町",
       "published": "2020, 電撃マオウ 10月号",
       "books": "4巻",
-      "subtitle": "ほんとうに都内"
+      "subtitle": "ほんとうに都内",
+      "camera": {"zoom": 10, "center": [139.151, 35.7774]}
     },
     "TJ15": {
       "index": 15,
@@ -176,7 +192,8 @@
       "place": "千代田区 中央区 江東区",
       "published": "2020, 電撃マオウ 11月号",
       "books": "4巻",
-      "subtitle": "それでも繋がってる"
+      "subtitle": "それでも繋がってる",
+      "camera": {"zoom": 12, "center": [139.80064, 35.64317]}
     },
     "TJ16": {
       "index": 16,
@@ -184,7 +201,8 @@
       "key": "第16旅",
       "title": "第16旅 茨城",
       "place": "千代田区 水戸市 常陸太田市 日立市",
-      "subtitle": null
+      "subtitle": null,
+      "camera": {"zoom": 10, "center": [140.5454, 36.5133]}
     },
     "TJ16-1": {
       "index": 16,
@@ -194,7 +212,8 @@
       "place": "千代田区 水戸市 常陸太田市",
       "published": "2021, 電撃マオウ 1月号",
       "books": "5巻",
-      "subtitle": null
+      "subtitle": null,
+      "camera": {"zoom": 10, "center": [140.5454, 36.5133]}
     },
     "TJ16-2": {
       "index": 16,
@@ -204,7 +223,8 @@
       "place": "常陸太田市 日立市",
       "published": "2021, 電撃マオウ 2月号",
       "books": "5巻",
-      "subtitle": null
+      "subtitle": null,
+      "camera": {"zoom": 10, "center": [140.5454, 36.5133]}
     },
     "TJ17": {
       "index": 17,
@@ -212,7 +232,8 @@
       "key": "第17旅",
       "title": "第17旅 九州",
       "place": "千代田区 北九州市小倉北区 中津市 玖珠郡玖珠町 宇佐市 国東市",
-      "subtitle": null
+      "subtitle": null,
+      "camera": {"zoom": 9, "center": [131.2056, 33.6066]}
     },
     "TJ17-1": {
       "index": 17,
@@ -222,7 +243,8 @@
       "place": "千代田区 北九州市小倉北区 中津市 玖珠郡玖珠町 宇佐市",
       "published": "2021, 電撃マオウ 3月号",
       "books": "5巻",
-      "subtitle": null
+      "subtitle": null,
+      "camera": {"zoom": 9, "center": [131.2056, 33.6066]}
     },
     "TJ17-2": {
       "index": 17,
@@ -232,7 +254,8 @@
       "place": "宇佐市 玖珠郡玖珠町 中津市 国東市",
       "published": "2021, 電撃マオウ 4月号",
       "books": "5巻",
-      "subtitle": null
+      "subtitle": null,
+      "camera": {"zoom": 9, "center": [131.2056, 33.6066]}
     },
     "TJ18": {
       "index": 18,
@@ -242,34 +265,40 @@
       "place": "千代田区 港区 渋谷区 新宿区",
       "published": "2021, 電撃マオウ 6月号",
       "books": null,
-      "subtitle": null
+      "subtitle": null,
+      "camera": {"zoom": 11, "center": [139.6703, 35.6808]}
     }
   },
   "books": {
     "1": {
       "cover_image_url": "https://www.hanmoto.com/bd/img/9784049128253.jpg",
       "published": "2019-09-27T00:00:00.000Z",
-      "isbn": "978-4-04-912825-3"
+      "isbn": "978-4-04-912825-3",
+      "obi": "ここではない、どこか。そこに私が待っている――。"
     },
     "2": {
       "cover_image_url": "https://www.hanmoto.com/bd/img/9784049130454.jpg",
       "published": "2020-02-10T00:00:00.000Z",
-      "isbn": "978-4-04-913045-4"
+      "isbn": "978-4-04-913045-4",
+      "obi": "旅は、ざつでいい。ざつがいい。"
     },
     "3": {
       "cover_image_url": "https://www.hanmoto.com/bd/img/9784049132991.jpg",
       "published": "2020-07-27T00:00:00.000Z",
-      "isbn": "978-4-04-913299-1"
+      "isbn": "978-4-04-913299-1",
+      "obi": "――また、行きます。"
     },
     "4": {
       "cover_image_url": "https://www.hanmoto.com/bd/img/9784049135916.jpg",
       "published": "2020-12-26T00:00:00.000Z",
-      "isbn": "978-4-04-913591-6"
+      "isbn": "978-4-04-913591-6",
+      "obi": "「いままで」から「これから」へ――"
     },
     "5": {
       "cover_image_url": "https://www.hanmoto.com/bd/img/9784049138023.jpg",
       "published": "2021-05-27T00:00:00.000Z",
-      "isbn": "978-4-04-913802-3"
+      "isbn": "978-4-04-913802-3",
+      "obi": "明日もちょっといい日になる。"
     }
   },
   "site": {

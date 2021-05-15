@@ -97,26 +97,26 @@
     </header>
     <div class="navi">
       <ul>
-        <li class="book1"><a rel="noopener" href="">1</a></li>
-        <li class="book1"><a rel="noopener" href="">2</a></li>
-        <li class="book1"><a rel="noopener" href="">3</a></li>
-        <li class="book1"><a rel="noopener" href="">4</a></li>
-        <li class="book2"><a rel="noopener" href="">5</a></li>
-        <li class="book2"><a rel="noopener" href="">6</a></li>
-        <li class="book2"><a rel="noopener" href="">7</a></li>
-        <li class="book2"><a rel="noopener" href="">8</a></li>
-        <li class="book2"><a rel="noopener" href="">9-1</a></li>
-        <li class="book3"><a rel="noopener" href="">9-2</a></li>
-        <li class="book3"><a rel="noopener" href="">10</a></li>
-        <li class="book3"><a rel="noopener" href="">11</a></li>
-        <li class="book3"><a rel="noopener" href="">12</a></li>
-        <li class="book3"><a rel="noopener" href="">13-1</a></li>
-        <li class="book4"><a rel="noopener" href="">13-2</a></li>
-        <li class="book4"><a rel="noopener" href="">14</a></li>
-        <li class="book4"><a rel="noopener" href="">15</a></li>
-        <li class="book5"><a rel="noopener" href="">16</a></li>
-        <li class="book5"><a rel="noopener" href="">17</a></li>
-        <li class="book0"><a rel="noopener" href="">18</a></li>
+        <li class="book1"><a class="move" rel="noopener" href="#">1</a></li>
+        <li class="book1"><a class="move" rel="noopener" href="#">2</a></li>
+        <li class="book1"><a class="move" rel="noopener" href="#">3</a></li>
+        <li class="book1"><a class="move" rel="noopener" href="#">4</a></li>
+        <li class="book2"><a class="move" rel="noopener" href="#">5</a></li>
+        <li class="book2"><a class="move" rel="noopener" href="#">6</a></li>
+        <li class="book2"><a class="move" rel="noopener" href="#">7</a></li>
+        <li class="book2"><a class="move" rel="noopener" href="#">8</a></li>
+        <li class="book2"><a class="move" rel="noopener" href="#">9-1</a></li>
+        <li class="book3"><a class="move" rel="noopener" href="#">9-2</a></li>
+        <li class="book3"><a class="move" rel="noopener" href="#">10</a></li>
+        <li class="book3"><a class="move" rel="noopener" href="#">11</a></li>
+        <li class="book3"><a class="move" rel="noopener" href="#">12</a></li>
+        <li class="book3"><a class="move" rel="noopener" href="#">13-1</a></li>
+        <li class="book4"><a class="move" rel="noopener" href="#">13-2</a></li>
+        <li class="book4"><a class="move" rel="noopener" href="#">14</a></li>
+        <li class="book4"><a class="move" rel="noopener" href="#">15</a></li>
+        <li class="book5"><a class="move" rel="noopener" href="#">16</a></li>
+        <li class="book5"><a class="move" rel="noopener" href="#">17</a></li>
+        <li class="book0"><a class="move" rel="noopener" href="#">18</a></li>
       </ul>
     </div>
   </div>
@@ -125,7 +125,7 @@
         <p class="note">about</p>
     </div>
     <div id="footer">
-      <p>原作：<a rel="noopener" href="https://www.kadokawa.co.jp/product/search/?sort=0&kw=%E3%81%96%E3%81%A4%E6%97%85">ざつ旅-That's Journey-</a> &copy; 石坂 ケンタ, KADOKAWA, 電撃マオウ / 地図・テンプレート：<a rel="noopener" href="https://github.com/mapbox/storytelling">Mapbox</a> / 農研機構 <a rel="noopener" href="https://aginfo.cgk.affrc.go.jp/rgeocode/index.html.ja">簡易逆ジオコーディングサービス</a> / 地図作成：VisitSuzugamori(<a href="https://github.com/VisitSuzugamori/VisitSuzugamori.github.io">💬contact</a>), <a href="https://twitter.com/isnot49662340">isnot</a></p>
+      <p>原作：<a rel="noopener" href="https://www.kadokawa.co.jp/product/search/?sort=0&kw=%E3%81%96%E3%81%A4%E6%97%85">ざつ旅-That's Journey-</a> &copy; 石坂 ケンタ, KADOKAWA, 電撃マオウ / 地図：<a rel="noopener" href="https://mapbox.com">Mapbox</a> / 地図作成：VisitSuzugamori(<a href="https://github.com/VisitSuzugamori/VisitSuzugamori.github.io">💬contact</a>), <a href="https://twitter.com/isnot49662340">isnot</a></p>
     </div>
   </div>
   <script src="https://api.mapbox.com/mapbox-gl-js/v2.2.0/mapbox-gl.js"></script>
@@ -152,7 +152,8 @@
     map.on('load', () => {
       map
         .setPaintProperty('administrative-boundary', 'fill-opacity', 0.8)
-        .setPaintProperty('administrative-boundary', 'fill-color', 'rgba(216,0,0,0.5)')
+        .setPaintProperty('administrative-boundary', 'fill-color', 'rgba(216,0,0,0.5)');
+      map
         .loadImage(
           './visitsuzugamori-icon16.png',
           (error, image) => {
@@ -175,6 +176,32 @@
           }
         );
     });
+
+    fetch('/VisitSuzugamori.json')
+      .then((response) => {
+        if (!response.ok) {
+          throw new Error('Network response was not ok');
+        }
+        return response.json();
+      })
+      .then((data) => {
+        Object.values(data.stories).forEach((val) => {
+          const name = val.id.replace('TJ', '');
+          const className = val.books.replace(/\d+/, 'books$1');
+          const item = document.createElement('li');
+          item.classList.add(className);
+          const link = document.createElement('a');
+          link.classList.add('move');
+          link.textContent = name;
+          link.addEventListener('click', (e) => {
+            map.flyTo({center: [], zoom: 14});
+          });
+          item.append(link);
+          document.querySelector('.navi ul').appendChild(item);
+        });
+      })
+      .catch(console.warn);
   </script>
 </body>
 </html>
+<li class="book2"><a class="move" rel="noopener" href="#">9-1</a></li>
