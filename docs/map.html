@@ -23,25 +23,39 @@
 <style>
   .hidden { display: none; }
   #map { left: 0; top: 0; height: 100vh; width:100vw; position: fixed; }
-  #container { opacity: 0.9; height: 900px; }
+  #container { opacity: 0.9; }
   header h1 {
-      opacity: 0.7;
-      font-family: "Consolas","Courier New",monospace;
-      text-shadow: 2px 2px 0 #eeeeee, 2px -2px 0 #eeeeee, -2px 2px 0 #eeeeee, -2px -2px 0 #eeeeee;
+    opacity: 0.7;
+    font-family: "Consolas","Courier New",monospace;
+    text-shadow: 2px 2px 0 #eeeeee, 2px -2px 0 #eeeeee, -2px 2px 0 #eeeeee, -2px -2px 0 #eeeeee;
   }
   header h1 .lead { font-size: 60%; }
-  header h1 .lead::before {
-	content: "\A";
-	white-space: pre;
+    header h1 .lead::before {
+	  content: "\A";
+	  white-space: pre;
   }
-  .article ul, .ref, .about {
-      text-shadow: 1px 1px 0 #eeeeee, 1px -1px 0 #eeeeee, -1px 1px 0 #eeeeee, -1px -1px 0 #eeeeee;
-      padding: 10px;
+  .navi ul {
+    display: flex;
+    flex-wrap: wrap;
+    text-shadow: 1px 1px 0 #eeeeee, 1px -1px 0 #eeeeee, -1px 1px 0 #eeeeee, -1px -1px 0 #eeeeee;
+    padding: 10px;
   }
-  .article ul li {
-      overflow: hidden;
-      padding-left: 5px;
-      text-shadow: 1px 1px 0 #eeeeee, 1px -1px 0 #eeeeee, -1px 1px 0 #eeeeee, -1px -1px 0 #eeeeee;
+  .navi ul li {
+    display: flex;
+    overflow: hidden;
+    padding: 4px;
+    margin-right: 5px;
+    min-width: 1.6em;
+    text-align: center;
+    text-shadow: 1px 1px 0 #eeeeee, 1px -1px 0 #eeeeee, -1px 1px 0 #eeeeee, -1px -1px 0 #eeeeee;
+    border-radius: 10px;
+    background-color: #eed;
+    color: #0071bc;
+    font-size: 18px;
+    text-decoration: none;
+  }
+  .navi ul li a {
+    width: 100%;
   }
   li.book0 { border-left: solid 5px #333; }
   li.book1 { border-left: solid 5px #e45e60; }
@@ -51,20 +65,24 @@
   li.book5 { border-left: solid 5px #00be74; }
   li.book6 { border-left: solid 5px #333; }
   li.book7 { border-left: solid 5px #333; }
-  .article h2 {
-      text-shadow: 2px 2px 0 #eeeeee, 2px -2px 0 #eeeeee, -2px 2px 0 #eeeeee, -2px -2px 0 #eeeeee;
-  }
-  .article p { margin:0; padding: 0; }
   .note { font-size: 80%; }
   .note::before {
-	content: "⚠";
+	  content: "⚠";
+  }
+  #float {
+    position: fixed;
+    left: auto;
+    bottom: 0%;
+    max-width: 38em;
+    padding: 0;
+    margin: 0;
   }
   #footer {
-      opacity: 0.7;
-      background-color: white;
-      margin-top: 30px;
-      padding: 10px;
-      font-size: 80%;
+    opacity: 0.7;
+    background-color: white;
+    margin-top: 30px;
+    padding: 10px;
+    font-size: 80%;
   }
 </style>
 </head>
@@ -77,7 +95,7 @@
         <span class="lead">〜ざつ旅を辿る〜</span>
       </h1>
     </header>
-    <div class="article">
+    <div class="navi">
       <ul>
         <li class="book1"><a rel="noopener" href="">1</a></li>
         <li class="book1"><a rel="noopener" href="">2</a></li>
@@ -98,10 +116,13 @@
         <li class="book4"><a rel="noopener" href="">15</a></li>
         <li class="book5"><a rel="noopener" href="">16</a></li>
         <li class="book5"><a rel="noopener" href="">17</a></li>
+        <li class="book0"><a rel="noopener" href="">18</a></li>
       </ul>
+    </div>
+  </div>
+  <div id="float">
       <div class="about">
         <p class="note">about</p>
-      </div>
     </div>
     <div id="footer">
       <p>原作：<a rel="noopener" href="https://www.kadokawa.co.jp/product/search/?sort=0&kw=%E3%81%96%E3%81%A4%E6%97%85">ざつ旅-That's Journey-</a> &copy; 石坂 ケンタ, KADOKAWA, 電撃マオウ / 地図・テンプレート：<a rel="noopener" href="https://github.com/mapbox/storytelling">Mapbox</a> / 農研機構 <a rel="noopener" href="https://aginfo.cgk.affrc.go.jp/rgeocode/index.html.ja">簡易逆ジオコーディングサービス</a> / 地図作成：VisitSuzugamori(<a href="https://github.com/VisitSuzugamori/VisitSuzugamori.github.io">💬contact</a>), <a href="https://twitter.com/isnot49662340">isnot</a></p>
