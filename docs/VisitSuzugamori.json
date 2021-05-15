@@ -201,6 +201,7 @@
       "key": "第16旅",
       "title": "第16旅 茨城",
       "place": "千代田区 水戸市 常陸太田市 日立市",
+      "books": "5巻",
       "subtitle": null,
       "camera": {"zoom": 10, "center": [140.5454, 36.5133]}
     },
@@ -211,7 +212,6 @@
       "title": "第16旅 茨城前編",
       "place": "千代田区 水戸市 常陸太田市",
       "published": "2021, 電撃マオウ 1月号",
-      "books": "5巻",
       "subtitle": null,
       "camera": {"zoom": 10, "center": [140.5454, 36.5133]}
     },
@@ -222,7 +222,6 @@
       "title": "第16旅 茨城後編",
       "place": "常陸太田市 日立市",
       "published": "2021, 電撃マオウ 2月号",
-      "books": "5巻",
       "subtitle": null,
       "camera": {"zoom": 10, "center": [140.5454, 36.5133]}
     },
@@ -232,6 +231,7 @@
       "key": "第17旅",
       "title": "第17旅 九州",
       "place": "千代田区 北九州市小倉北区 中津市 玖珠郡玖珠町 宇佐市 国東市",
+      "books": "5巻",
       "subtitle": null,
       "camera": {"zoom": 9, "center": [131.2056, 33.6066]}
     },
@@ -242,7 +242,6 @@
       "title": "第17旅 九州前編",
       "place": "千代田区 北九州市小倉北区 中津市 玖珠郡玖珠町 宇佐市",
       "published": "2021, 電撃マオウ 3月号",
-      "books": "5巻",
       "subtitle": null,
       "camera": {"zoom": 9, "center": [131.2056, 33.6066]}
     },
@@ -253,7 +252,6 @@
       "title": "第17旅 九州後編",
       "place": "宇佐市 玖珠郡玖珠町 中津市 国東市",
       "published": "2021, 電撃マオウ 4月号",
-      "books": "5巻",
       "subtitle": null,
       "camera": {"zoom": 9, "center": [131.2056, 33.6066]}
     },
