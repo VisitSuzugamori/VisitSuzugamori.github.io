@@ -35,6 +35,7 @@
 	  white-space: pre;
   }
   .navi ul {
+    opacity: 0.9;
     display: flex;
     flex-wrap: wrap;
     text-shadow: 1px 1px 0 #eeeeee, 1px -1px 0 #eeeeee, -1px 1px 0 #eeeeee, -1px -1px 0 #eeeeee;
@@ -77,6 +78,7 @@
     padding: 0;
     margin: 0;
   }
+  #placeDescription { opacity: 0.5; }
   #footer {
     opacity: 0.7;
     background-color: white;
@@ -84,6 +86,7 @@
     padding: 10px;
     font-size: 80%;
   }
+  #footer p { margin: 0; }
 </style>
 </head>
 <body>
@@ -100,8 +103,8 @@
     </div>
   </div>
   <div id="float">
-      <div class="about">
-        <p class="note">about</p>
+      <div id="placeDescription">
+        <p></p>
     </div>
     <div id="footer">
       <p>原作：<a rel="noopener" href="https://www.kadokawa.co.jp/product/search/?sort=0&kw=%E3%81%96%E3%81%A4%E6%97%85">ざつ旅-That's Journey-</a> &copy; 石坂 ケンタ, KADOKAWA, 電撃マオウ / 地図：<a rel="noopener" href="https://mapbox.com">Mapbox</a> / 地図作成：VisitSuzugamori(<a href="https://github.com/VisitSuzugamori/VisitSuzugamori.github.io">💬contact</a>), <a href="https://twitter.com/isnot49662340">isnot</a></p>
@@ -152,6 +155,8 @@
           link.addEventListener('click', (e) => {
             map.flyTo(val.camera);
           });
+          const description = document.querySelector('#placeDescription p');
+          description.textContent = `${val.title} ${val.place}`;
           item.append(link);
           ul.appendChild(item);
         });
