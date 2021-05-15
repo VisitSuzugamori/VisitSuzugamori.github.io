@@ -139,12 +139,12 @@
       })
       .then((data) => {
         Object.values(data.stories).forEach((val) => {
-          if (!Object.prototype.hasOwnProperty(val, 'books')) {
+          if (!Object.prototype.hasOwnProperty.call(val, 'books')) {
             return;
           }
           const name = val.id.replace('TJ', '');
           const books = val.books || '0';
-          const className = books.replace(/(\d{0,2})\D*/, 'books$1');
+          const className = books.replace(/(\d{0,2})\D*/, 'book$1');
           console.log(name, books, className, val.camera);
           const item = document.createElement('li');
           item.classList.add(className);
