@@ -97,26 +97,7 @@
     </header>
     <div class="navi">
       <ul>
-        <li class="book1"><a class="move" rel="noopener" href="#">1</a></li>
-        <li class="book1"><a class="move" rel="noopener" href="#">2</a></li>
-        <li class="book1"><a class="move" rel="noopener" href="#">3</a></li>
-        <li class="book1"><a class="move" rel="noopener" href="#">4</a></li>
-        <li class="book2"><a class="move" rel="noopener" href="#">5</a></li>
-        <li class="book2"><a class="move" rel="noopener" href="#">6</a></li>
-        <li class="book2"><a class="move" rel="noopener" href="#">7</a></li>
-        <li class="book2"><a class="move" rel="noopener" href="#">8</a></li>
-        <li class="book2"><a class="move" rel="noopener" href="#">9-1</a></li>
-        <li class="book3"><a class="move" rel="noopener" href="#">9-2</a></li>
-        <li class="book3"><a class="move" rel="noopener" href="#">10</a></li>
-        <li class="book3"><a class="move" rel="noopener" href="#">11</a></li>
-        <li class="book3"><a class="move" rel="noopener" href="#">12</a></li>
-        <li class="book3"><a class="move" rel="noopener" href="#">13-1</a></li>
-        <li class="book4"><a class="move" rel="noopener" href="#">13-2</a></li>
-        <li class="book4"><a class="move" rel="noopener" href="#">14</a></li>
-        <li class="book4"><a class="move" rel="noopener" href="#">15</a></li>
-        <li class="book5"><a class="move" rel="noopener" href="#">16</a></li>
-        <li class="book5"><a class="move" rel="noopener" href="#">17</a></li>
-        <li class="book0"><a class="move" rel="noopener" href="#">18</a></li>
+        <li class="book1"><a class="move" rel="noopener" href="#">00</a></li>
       </ul>
     </div>
   </div>
@@ -149,6 +130,36 @@
       localIdeographFontFamily: "'Noto Sans CJK JP', 'Noto Sans', sans-serif"
     });
 
+    fetch('/VisitSuzugamori.json')
+      .then((response) => {
+        if (!response.ok) {
+          throw new Error('Network response was not ok');
+        }
+        return response.json();
+      })
+      .then((data) => {
+        Object.values(data.stories).forEach((val) => {
+          if (!Object.prototype.hasOwnProperty(val, 'books')) {
+            return;
+          }
+          const name = val.id.replace('TJ', '');
+          const books = val.books || '0';
+          const className = books.replace(/(\d{0,2})\D*/, 'books$1');
+          console.log(name, books, className, val.camera);
+          const item = document.createElement('li');
+          item.classList.add(className);
+          const link = document.createElement('a');
+          link.classList.add('move');
+          link.textContent = name;
+          link.addEventListener('click', (e) => {
+            map.flyTo(val.camera);
+          });
+          item.append(link);
+          document.querySelector('.navi ul').appendChild(item);
+        });
+      })
+      .catch(console.warn);
+
     map.on('load', () => {
       map
         .setPaintProperty('administrative-boundary', 'fill-opacity', 0.8)
@@ -176,35 +187,6 @@
           }
         );
     });
-
-    fetch('/VisitSuzugamori.json')
-      .then((response) => {
-        if (!response.ok) {
-          throw new Error('Network response was not ok');
-        }
-        return response.json();
-      })
-      .then((data) => {
-        Object.values(data.stories).forEach((val) => {
-          if (!Object.prototype.hasOwnProperty(val, 'books')) {
-            return;
-          }
-          const name = val.id.replace('TJ', '');
-          const books = val.books || '0';
-          const className = books.replace(/\d+/, 'books$1');
-          const item = document.createElement('li');
-          item.classList.add(className);
-          const link = document.createElement('a');
-          link.classList.add('move');
-          link.textContent = name;
-          link.addEventListener('click', (e) => {
-            map.flyTo(val.camera);
-          });
-          item.append(link);
-          document.querySelector('.navi ul').appendChild(item);
-        });
-      })
-      .catch(console.warn);
   </script>
 </body>
 </html>
