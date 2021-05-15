@@ -186,15 +186,19 @@
       })
       .then((data) => {
         Object.values(data.stories).forEach((val) => {
+          if (!Object.prototype.hasOwnProperty(val, 'books')) {
+            return;
+          }
           const name = val.id.replace('TJ', '');
-          const className = val.books.replace(/\d+/, 'books$1');
+          const books = val.books || '0';
+          const className = books.replace(/\d+/, 'books$1');
           const item = document.createElement('li');
           item.classList.add(className);
           const link = document.createElement('a');
           link.classList.add('move');
           link.textContent = name;
           link.addEventListener('click', (e) => {
-            map.flyTo({center: [], zoom: 14});
+            map.flyTo(val.camera);
           });
           item.append(link);
           document.querySelector('.navi ul').appendChild(item);
