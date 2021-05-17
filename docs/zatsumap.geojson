@@ -11,7 +11,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Name": "郡山駅",
+                "name": "郡山駅",
                 "description": "1巻P22 第1旅"
             },
             "geometry": {
@@ -25,7 +25,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Name": "磐梯熱海駅",
+                "name": "磐梯熱海駅",
                 "description": "1巻P23 第1旅"
             },
             "geometry": {
@@ -39,7 +39,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Name": "会津若松駅",
+                "name": "会津若松駅",
                 "description": "1巻P24 第1旅"
             },
             "geometry": {
@@ -53,7 +53,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Name": "ラーメン二郎 会津若松駅前店",
+                "name": "ラーメン二郎 会津若松駅前店",
                 "description": "1巻P25 第1旅"
             },
             "geometry": {
@@ -67,7 +67,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Name": "子安観音と古峯神社",
+                "name": "子安観音と古峯神社",
                 "description": "1巻P25 第1旅"
             },
             "geometry": {
@@ -81,7 +81,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Name": "小池菓子舗 飯盛山店",
+                "name": "小池菓子舗 飯盛山店",
                 "description": "1巻P26 第1旅"
             },
             "geometry": {
@@ -95,7 +95,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Name": "くつろぎ宿 千代滝",
+                "name": "くつろぎ宿 千代滝",
                 "description": "1巻P30 第1旅"
             },
             "geometry": {
@@ -109,7 +109,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Name": "射的場",
+                "name": "射的場",
                 "description": "1巻P40 第1旅"
             },
             "geometry": {
@@ -123,7 +123,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Name": "会津東山温泉 向瀧",
+                "name": "会津東山温泉 向瀧",
                 "description": "1巻P40 第1旅"
             },
             "geometry": {
@@ -137,7 +137,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Name": "羽黒山神社 神門",
+                "name": "羽黒山神社 神門",
                 "description": "1巻P41 第1旅"
             },
             "geometry": {
@@ -151,7 +151,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Name": "羽黒山湯上神社本殿",
+                "name": "羽黒山湯上神社本殿",
                 "description": "1巻表紙＆1巻P45 第1旅"
             },
             "geometry": {
@@ -165,7 +165,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Name": "会津さざえ堂 (円通寺三匝堂)",
+                "name": "会津さざえ堂 (円通寺三匝堂)",
                 "description": "1巻P51 第1旅"
             },
             "geometry": {
@@ -179,7 +179,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Name": "仙台駅",
+                "name": "仙台駅",
                 "description": "1巻P61 第2旅"
             },
             "geometry": {
@@ -193,7 +193,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Name": "松島海岸駅",
+                "name": "松島海岸駅",
                 "description": "1巻P62 第2旅"
             },
             "geometry": {
@@ -207,7 +207,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Name": "かき松島 こうは「松島海岸駅前本店」１号店",
+                "name": "かき松島 こうは「松島海岸駅前本店」１号店",
                 "description": "1巻P63 第2旅"
             },
             "geometry": {
@@ -221,7 +221,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Name": "松島公園",
+                "name": "松島公園",
                 "description": "1巻P64 第2旅"
             },
             "geometry": {
@@ -235,7 +235,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Name": "雄島",
+                "name": "雄島",
                 "description": "1巻P64 第2旅"
             },
             "geometry": {
@@ -249,7 +249,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Name": "御嶋真珠稲荷大明神",
+                "name": "御嶋真珠稲荷大明神",
                 "description": "1巻P65 第2旅"
             },
             "geometry": {
@@ -263,7 +263,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Name": "三陸海鮮料理 たからや食堂",
+                "name": "三陸海鮮料理 たからや食堂",
                 "description": "1巻P69 第2旅"
             },
             "geometry": {
@@ -277,7 +277,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Name": "瑞巌寺",
+                "name": "瑞巌寺",
                 "description": "1巻P69 第2旅"
             },
             "geometry": {
@@ -291,7 +291,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Name": "うな真石田家",
+                "name": "うな真石田家",
                 "description": "1巻P76 第2旅"
             },
             "geometry": {
@@ -305,7 +305,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Name": "松島ホテル和楽",
+                "name": "松島ホテル和楽",
                 "description": "1巻P78 第2旅"
             },
             "geometry": {
@@ -319,7 +319,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Name": "松島巡り観光船 乗り場(松島觀光遊艇搭船場)",
+                "name": "松島巡り観光船 乗り場(松島觀光遊艇搭船場)",
                 "description": "1巻P79 第2旅"
             },
             "geometry": {
@@ -333,7 +333,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Name": "松島さかな市場",
+                "name": "松島さかな市場",
                 "description": "1巻P81 第2旅"
             },
             "geometry": {
@@ -347,7 +347,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Name": "笹かま販売所",
+                "name": "笹かま販売所",
                 "description": "1巻P85 第2旅"
             },
             "geometry": {
@@ -361,7 +361,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Name": "東京駅",
+                "name": "東京駅",
                 "description": "1巻P87 第3旅<br>1巻P126 第4旅<br>4巻P93 第14旅<br>4巻P119 第15旅<br>第16旅<br>第17旅<br>第18旅"
             },
             "geometry": {
@@ -375,7 +375,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Name": "黒部宇奈月温泉駅",
+                "name": "黒部宇奈月温泉駅",
                 "description": "1巻P92 第3旅"
             },
             "geometry": {
@@ -389,7 +389,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Name": "吉祥寺",
+                "name": "吉祥寺",
                 "description": "1巻P96 第3旅"
             },
             "geometry": {
@@ -403,7 +403,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Name": "魚の駅生地 できたて館 航海灯",
+                "name": "魚の駅生地 できたて館 航海灯",
                 "description": "1巻P100 第3旅"
             },
             "geometry": {
@@ -417,7 +417,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Name": "岩瀬家の清水",
+                "name": "岩瀬家の清水",
                 "description": "1巻P103 第3旅"
             },
             "geometry": {
@@ -431,7 +431,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Name": "新黒部駅",
+                "name": "新黒部駅",
                 "description": "1巻P108 第3旅"
             },
             "geometry": {
@@ -445,7 +445,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Name": "宇奈月温泉駅",
+                "name": "宇奈月温泉駅",
                 "description": "1巻P110 第3旅"
             },
             "geometry": {
@@ -459,7 +459,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Name": "河鹿（かじか）",
+                "name": "河鹿（かじか）",
                 "description": "1巻P111 第3旅"
             },
             "geometry": {
@@ -473,7 +473,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Name": "ホテル黒部",
+                "name": "ホテル黒部",
                 "description": "1巻P112 第3旅"
             },
             "geometry": {
@@ -487,7 +487,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Name": "宇奈月駅",
+                "name": "宇奈月駅",
                 "description": "1巻P116 第3旅"
             },
             "geometry": {
@@ -501,7 +501,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Name": "やまびこ展望台",
+                "name": "やまびこ展望台",
                 "description": "1巻P117 第3旅"
             },
             "geometry": {
@@ -515,7 +515,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Name": "魚の駅生地 とれたて館",
+                "name": "魚の駅生地 とれたて館",
                 "description": "1巻P119 第3旅"
             },
             "geometry": {
@@ -529,7 +529,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Name": "岡山駅",
+                "name": "岡山駅",
                 "description": "1巻P130 第4旅"
             },
             "geometry": {
@@ -543,7 +543,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Name": "高松駅",
+                "name": "高松駅",
                 "description": "1巻P131 第4旅"
             },
             "geometry": {
@@ -557,7 +557,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Name": "高松築港駅",
+                "name": "高松築港駅",
                 "description": "1巻P132 第4旅"
             },
             "geometry": {
@@ -571,7 +571,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Name": "八栗駅",
+                "name": "八栗駅",
                 "description": "1巻P134 第4旅"
             },
             "geometry": {
@@ -585,7 +585,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Name": "総門跡",
+                "name": "総門跡",
                 "description": "1巻P134 第4旅"
             },
             "geometry": {
@@ -599,7 +599,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Name": "うどん本陣 山田家",
+                "name": "うどん本陣 山田家",
                 "description": "1巻P134 第4旅"
             },
             "geometry": {
@@ -613,7 +613,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Name": "八栗ケーブル",
+                "name": "八栗ケーブル",
                 "description": "1巻P142 第4旅"
             },
             "geometry": {
@@ -627,7 +627,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Name": "八栗寺",
+                "name": "八栗寺",
                 "description": "1巻P143 第4旅"
             },
             "geometry": {
@@ -641,7 +641,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Name": "ルピナス",
+                "name": "ルピナス",
                 "description": "1巻P148 第4旅"
             },
             "geometry": {
@@ -655,7 +655,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Name": "玉藻公園",
+                "name": "玉藻公園",
                 "description": "1巻P150 第4旅"
             },
             "geometry": {
@@ -669,7 +669,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Name": "栗林公園",
+                "name": "栗林公園",
                 "description": "1巻P157 第4旅"
             },
             "geometry": {
@@ -683,7 +683,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Name": "伏見稲荷大社",
+                "name": "伏見稲荷大社",
                 "description": "2巻P3 第5旅"
             },
             "geometry": {
@@ -697,7 +697,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Name": "京都駅",
+                "name": "京都駅",
                 "description": "2巻P6 第5旅"
             },
             "geometry": {
@@ -711,7 +711,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Name": "藤岡酒造",
+                "name": "藤岡酒造",
                 "description": "2巻P16 第5旅"
             },
             "geometry": {
@@ -725,7 +725,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Name": "月桂冠大倉記念館",
+                "name": "月桂冠大倉記念館",
                 "description": "2巻P17 第5旅"
             },
             "geometry": {
@@ -739,7 +739,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Name": "ラー麺・陽はまた昇る 伏見稲荷駅前本店",
+                "name": "ラー麺・陽はまた昇る 伏見稲荷駅前本店",
                 "description": "2巻P17 第5旅"
             },
             "geometry": {
@@ -753,7 +753,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Name": "伏見稲荷駅",
+                "name": "伏見稲荷駅",
                 "description": "2巻P18 第5旅"
             },
             "geometry": {
@@ -767,7 +767,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Name": "宮津駅",
+                "name": "宮津駅",
                 "description": "2巻P21 第5旅"
             },
             "geometry": {
@@ -781,7 +781,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Name": "富田屋",
+                "name": "富田屋",
                 "description": "2巻P22 第5旅"
             },
             "geometry": {
@@ -795,7 +795,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Name": "茶六本館",
+                "name": "茶六本館",
                 "description": "2巻P22 第5旅"
             },
             "geometry": {
@@ -809,7 +809,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Name": "天橋立ビューランド リフト・モノレールのりば",
+                "name": "天橋立ビューランド リフト・モノレールのりば",
                 "description": "2巻P31 第5旅"
             },
             "geometry": {
@@ -823,7 +823,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Name": "天橋立ビューランド",
+                "name": "天橋立ビューランド",
                 "description": "2巻P32 第5旅"
             },
             "geometry": {
@@ -837,7 +837,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Name": "天橋立",
+                "name": "天橋立",
                 "description": "2巻P35 第5旅"
             },
             "geometry": {
@@ -851,7 +851,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Name": "岩見重太郎 仇討ちの場",
+                "name": "岩見重太郎 仇討ちの場",
                 "description": "2巻P36 第5旅"
             },
             "geometry": {
@@ -865,7 +865,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Name": "丹後國一之宮 元伊勢 籠神社",
+                "name": "丹後國一之宮 元伊勢 籠神社",
                 "description": "2巻P37 第5旅"
             },
             "geometry": {
@@ -879,7 +879,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Name": "天橋立神社",
+                "name": "天橋立神社",
                 "description": "2巻P39 第5旅"
             },
             "geometry": {
@@ -893,7 +893,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Name": "宇都宮駅",
+                "name": "宇都宮駅",
                 "description": "2巻P44 第6旅"
             },
             "geometry": {
@@ -907,7 +907,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Name": "滝駅",
+                "name": "滝駅",
                 "description": "2巻P47 第6旅"
             },
             "geometry": {
@@ -921,7 +921,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Name": "龍門の滝",
+                "name": "龍門の滝",
                 "description": "2巻P49 第6旅"
             },
             "geometry": {
@@ -935,7 +935,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Name": "那須烏山市 龍門ふるさと民芸館",
+                "name": "那須烏山市 龍門ふるさと民芸館",
                 "description": "2巻P50 第6旅"
             },
             "geometry": {
@@ -949,7 +949,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Name": "どうくつ酒造（島崎酒造）",
+                "name": "どうくつ酒造（島崎酒造）",
                 "description": "2巻表紙<br>2巻P52 第6旅"
             },
             "geometry": {
@@ -963,7 +963,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Name": "烏山城跡",
+                "name": "烏山城跡",
                 "description": "2巻P57 第6旅"
             },
             "geometry": {
@@ -977,7 +977,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Name": "(株)島崎酒造",
+                "name": "(株)島崎酒造",
                 "description": "2巻P58 第6旅"
             },
             "geometry": {
@@ -991,7 +991,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Name": "烏山駅",
+                "name": "烏山駅",
                 "description": "2巻P58 第6旅"
             },
             "geometry": {
@@ -1005,7 +1005,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Name": "久穂田烏山駅前旅館",
+                "name": "久穂田烏山駅前旅館",
                 "description": "2巻P59 第6旅"
             },
             "geometry": {
@@ -1019,7 +1019,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Name": "烏山大橋",
+                "name": "烏山大橋",
                 "description": "2巻P60 第6旅"
             },
             "geometry": {
@@ -1033,7 +1033,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Name": "もり食堂",
+                "name": "もり食堂",
                 "description": "2巻P62 第6旅"
             },
             "geometry": {
@@ -1047,7 +1047,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Name": "粟島観光案内所",
+                "name": "粟島観光案内所",
                 "description": "2巻P73 第7旅"
             },
             "geometry": {
@@ -1061,7 +1061,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Name": "源左エ門",
+                "name": "源左エ門",
                 "description": "2巻P75 第7旅"
             },
             "geometry": {
@@ -1075,7 +1075,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Name": "矢ヶ鼻展望台",
+                "name": "矢ヶ鼻展望台",
                 "description": "2巻P78 第7旅"
             },
             "geometry": {
@@ -1089,7 +1089,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Name": "みやこや食堂",
+                "name": "みやこや食堂",
                 "description": "2巻P80 第7旅"
             },
             "geometry": {
@@ -1103,7 +1103,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Name": "漁火温泉 おと姫の湯",
+                "name": "漁火温泉 おと姫の湯",
                 "description": "2巻P82 第7旅"
             },
             "geometry": {
@@ -1117,7 +1117,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Name": "白子漁港",
+                "name": "白子漁港",
                 "description": "2巻P96,97 第8旅"
             },
             "geometry": {
@@ -1131,7 +1131,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Name": "鈴鹿市漁業協同組合直販所 魚魚鈴(ととりん)",
+                "name": "鈴鹿市漁業協同組合直販所 魚魚鈴(ととりん)",
                 "description": "2巻P99 第8旅"
             },
             "geometry": {
@@ -1145,7 +1145,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Name": "伊勢市駅",
+                "name": "伊勢市駅",
                 "description": "2巻P100 第8旅"
             },
             "geometry": {
@@ -1159,7 +1159,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Name": "伊勢菊一",
+                "name": "伊勢菊一",
                 "description": "2巻P101 第8旅"
             },
             "geometry": {
@@ -1173,7 +1173,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Name": "若松屋 外宮前店",
+                "name": "若松屋 外宮前店",
                 "description": "2巻P102 第8旅"
             },
             "geometry": {
@@ -1187,7 +1187,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Name": "伊勢神宮 外宮",
+                "name": "伊勢神宮 外宮",
                 "description": "2巻P106 第8旅"
             },
             "geometry": {
@@ -1201,7 +1201,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Name": "伊勢神宮",
+                "name": "伊勢神宮",
                 "description": "2巻P108 第8旅"
             },
             "geometry": {
@@ -1215,7 +1215,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Name": "赤福 内宮前支店",
+                "name": "赤福 内宮前支店",
                 "description": "2巻P109 第8旅"
             },
             "geometry": {
@@ -1229,7 +1229,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Name": "鳥羽駅",
+                "name": "鳥羽駅",
                 "description": "2巻P111 第8旅"
             },
             "geometry": {
@@ -1243,7 +1243,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Name": "赤福 鳥羽支店",
+                "name": "赤福 鳥羽支店",
                 "description": "2巻P111 第8旅"
             },
             "geometry": {
@@ -1257,7 +1257,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Name": "海月",
+                "name": "海月",
                 "description": "2巻P111 第8旅"
             },
             "geometry": {
@@ -1271,7 +1271,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Name": "二見浦駅",
+                "name": "二見浦駅",
                 "description": "2巻P121 第8旅"
             },
             "geometry": {
@@ -1285,7 +1285,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Name": "夫婦岩",
+                "name": "夫婦岩",
                 "description": "2巻P121 第8旅"
             },
             "geometry": {
@@ -1299,7 +1299,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Name": "（株）赤福 二見支店",
+                "name": "（株）赤福 二見支店",
                 "description": "2巻P124 第8旅"
             },
             "geometry": {
@@ -1313,7 +1313,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Name": "豐川茜稻荷神社（茜社）",
+                "name": "豐川茜稻荷神社（茜社）",
                 "description": "2巻P127 第8旅"
             },
             "geometry": {
@@ -1327,7 +1327,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Name": "東京ドームホテル",
+                "name": "東京ドームホテル",
                 "description": "2巻P132 第9旅（前編）"
             },
             "geometry": {
@@ -1341,7 +1341,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Name": "海老名SA (下り)",
+                "name": "海老名SA (下り)",
                 "description": "2巻P141 第9旅（前編）"
             },
             "geometry": {
@@ -1355,7 +1355,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Name": "広島テレビ放送",
+                "name": "広島テレビ放送",
                 "description": "2巻P145 第9旅（前編）"
             },
             "geometry": {
@@ -1369,7 +1369,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Name": "広島駅",
+                "name": "広島駅",
                 "description": "2巻P146 第9旅（前編）"
             },
             "geometry": {
@@ -1383,7 +1383,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Name": "宮島口駅",
+                "name": "宮島口駅",
                 "description": "2巻P147 第9旅（前編）"
             },
             "geometry": {
@@ -1397,7 +1397,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Name": "あなごめし うえの 宮島口本店",
+                "name": "あなごめし うえの 宮島口本店",
                 "description": "2巻P148 第9旅（前編）"
             },
             "geometry": {
@@ -1411,7 +1411,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Name": "宮島桟橋",
+                "name": "宮島桟橋",
                 "description": "2巻P151 第9旅（前編）"
             },
             "geometry": {
@@ -1425,7 +1425,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Name": "嚴島神社 大鳥居（布の中）",
+                "name": "嚴島神社 大鳥居（布の中）",
                 "description": "2巻P152,153 第9旅（前編）"
             },
             "geometry": {
@@ -1439,7 +1439,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Name": "嚴島神社",
+                "name": "嚴島神社",
                 "description": "3巻P5 第9旅（後編）"
             },
             "geometry": {
@@ -1453,7 +1453,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Name": "大聖院",
+                "name": "大聖院",
                 "description": "3巻P8 第9旅（後編）"
             },
             "geometry": {
@@ -1467,7 +1467,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Name": "もみじ堂本店",
+                "name": "もみじ堂本店",
                 "description": "3巻P10 第9旅（後編）"
             },
             "geometry": {
@@ -1481,7 +1481,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Name": "呉駅",
+                "name": "呉駅",
                 "description": "3巻P11 第9旅（後編）"
             },
             "geometry": {
@@ -1495,7 +1495,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Name": "コンフォートホテル呉",
+                "name": "コンフォートホテル呉",
                 "description": "3巻P12 第9旅（後編）"
             },
             "geometry": {
@@ -1509,7 +1509,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Name": "呉湾艦船めぐり",
+                "name": "呉湾艦船めぐり",
                 "description": "3巻P14 第9旅（後編）"
             },
             "geometry": {
@@ -1523,7 +1523,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Name": "大和ミュージアム（呉市海事歴史科学館）",
+                "name": "大和ミュージアム（呉市海事歴史科学館）",
                 "description": "3巻P15 第9旅（後編）"
             },
             "geometry": {
@@ -1537,7 +1537,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Name": "日招きの里 呉ハイカラ食堂",
+                "name": "日招きの里 呉ハイカラ食堂",
                 "description": "3巻P15 第9旅（後編）"
             },
             "geometry": {
@@ -1551,7 +1551,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Name": "尾道駅",
+                "name": "尾道駅",
                 "description": "3巻P19 第9旅（後編）"
             },
             "geometry": {
@@ -1565,7 +1565,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Name": "清浄山光明寺",
+                "name": "清浄山光明寺",
                 "description": "3巻P19 第9旅（後編）"
             },
             "geometry": {
@@ -1579,7 +1579,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Name": "頂上展望台",
+                "name": "頂上展望台",
                 "description": "3巻P21 第9旅（後編）"
             },
             "geometry": {
@@ -1593,7 +1593,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Name": "尾道ラーメン日乃出食堂",
+                "name": "尾道ラーメン日乃出食堂",
                 "description": "3巻P25 第9旅（後編）"
             },
             "geometry": {
@@ -1607,7 +1607,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Name": "鼓岩（付近）",
+                "name": "鼓岩（付近）",
                 "description": "3巻P29 第9旅（後編）"
             },
             "geometry": {
@@ -1621,7 +1621,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Name": "八甲田ロープウェイ 山頂公園駅",
+                "name": "八甲田ロープウェイ 山頂公園駅",
                 "description": "3巻P31 第10旅"
             },
             "geometry": {
@@ -1635,7 +1635,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Name": "萱野茶屋",
+                "name": "萱野茶屋",
                 "description": "3巻P32 第10旅"
             },
             "geometry": {
@@ -1649,7 +1649,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Name": "八甲田 山頂公園",
+                "name": "八甲田 山頂公園",
                 "description": "3巻P34 第10旅"
             },
             "geometry": {
@@ -1663,7 +1663,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Name": "谷地温泉",
+                "name": "谷地温泉",
                 "description": "3巻P38 第10旅"
             },
             "geometry": {
@@ -1677,7 +1677,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Name": "下北駅",
+                "name": "下北駅",
                 "description": "3巻P47 第10旅"
             },
             "geometry": {
@@ -1691,7 +1691,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Name": "三途の川",
+                "name": "三途の川",
                 "description": "3巻P49 第10旅"
             },
             "geometry": {
@@ -1705,7 +1705,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Name": "恐山菩提寺",
+                "name": "恐山菩提寺",
                 "description": "3巻P49 第10旅"
             },
             "geometry": {
@@ -1719,7 +1719,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Name": "宇曽利山湖 極楽浜",
+                "name": "宇曽利山湖 極楽浜",
                 "description": "3巻P51 第10旅"
             },
             "geometry": {
@@ -1733,7 +1733,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Name": "恐山 花染の湯",
+                "name": "恐山 花染の湯",
                 "description": "3巻P52 第10旅"
             },
             "geometry": {
@@ -1747,7 +1747,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Name": "恐山冷水",
+                "name": "恐山冷水",
                 "description": "3巻P55 第10旅"
             },
             "geometry": {
@@ -1761,7 +1761,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Name": "串本駅",
+                "name": "串本駅",
                 "description": "3巻P57 第11旅"
             },
             "geometry": {
@@ -1775,7 +1775,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Name": "この辺歩いてるよ",
+                "name": "この辺歩いてるよ",
                 "description": "3巻P60 第11旅"
             },
             "geometry": {
@@ -1789,7 +1789,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Name": "この辺まで来たよ",
+                "name": "この辺まで来たよ",
                 "description": "3巻P61 第11旅"
             },
             "geometry": {
@@ -1803,7 +1803,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Name": "潮岬灯台",
+                "name": "潮岬灯台",
                 "description": "3巻P62 第11旅"
             },
             "geometry": {
@@ -1817,7 +1817,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Name": "本州最南端の碑",
+                "name": "本州最南端の碑",
                 "description": "3巻P64 第11旅"
             },
             "geometry": {
@@ -1831,7 +1831,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Name": "ビジネスホテル串本 駅前店",
+                "name": "ビジネスホテル串本 駅前店",
                 "description": "3巻P67 第11旅"
             },
             "geometry": {
@@ -1845,7 +1845,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Name": "ビーフショップまるみ支店",
+                "name": "ビーフショップまるみ支店",
                 "description": "3巻P69 第11旅"
             },
             "geometry": {
@@ -1859,7 +1859,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Name": "潮岬観光タワー",
+                "name": "潮岬観光タワー",
                 "description": "3巻P71 第11旅"
             },
             "geometry": {
@@ -1873,7 +1873,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Name": "新宮駅",
+                "name": "新宮駅",
                 "description": "3巻P80 第11旅"
             },
             "geometry": {
@@ -1887,7 +1887,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Name": "新宮市観光協会 shingu tourist information centre",
+                "name": "新宮市観光協会 shingu tourist information centre",
                 "description": "3巻P81 第11旅"
             },
             "geometry": {
@@ -1901,7 +1901,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Name": "くまのこ食堂",
+                "name": "くまのこ食堂",
                 "description": "3巻P81 第11旅"
             },
             "geometry": {
@@ -1915,7 +1915,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Name": "熊野本宮大社",
+                "name": "熊野本宮大社",
                 "description": "3巻P82 第11旅"
             },
             "geometry": {
@@ -1929,7 +1929,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Name": "料理 萬口",
+                "name": "料理 萬口",
                 "description": "3巻P85 第11旅"
             },
             "geometry": {
@@ -1943,7 +1943,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Name": "新花巻駅",
+                "name": "新花巻駅",
                 "description": "3巻P87 第12旅"
             },
             "geometry": {
@@ -1957,7 +1957,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Name": "今この辺をぶらついているよ！",
+                "name": "今この辺をぶらついているよ！",
                 "description": "3巻P90 第12旅"
             },
             "geometry": {
@@ -1971,7 +1971,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Name": "宮沢賢治記念館",
+                "name": "宮沢賢治記念館",
                 "description": "3巻P91 第12旅"
             },
             "geometry": {
@@ -1985,7 +1985,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Name": "山猫軒",
+                "name": "山猫軒",
                 "description": "3巻P92 第12旅"
             },
             "geometry": {
@@ -1999,7 +1999,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Name": "胡四王神社",
+                "name": "胡四王神社",
                 "description": "3巻P93 第12旅"
             },
             "geometry": {
@@ -2013,7 +2013,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Name": "案山子",
+                "name": "案山子",
                 "description": "3巻P98 第12旅"
             },
             "geometry": {
@@ -2027,7 +2027,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Name": "マルカン百貨店",
+                "name": "マルカン百貨店",
                 "description": "3巻P101 第12旅"
             },
             "geometry": {
@@ -2041,7 +2041,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Name": "マルカンビル大食堂",
+                "name": "マルカンビル大食堂",
                 "description": "3巻P101 第12旅"
             },
             "geometry": {
@@ -2055,7 +2055,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Name": "大沢温泉 湯治屋",
+                "name": "大沢温泉 湯治屋",
                 "description": "3巻P103 第12旅"
             },
             "geometry": {
@@ -2069,7 +2069,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Name": "渡り温泉 ホテルさつき・別邸楓",
+                "name": "渡り温泉 ホテルさつき・別邸楓",
                 "description": "3巻P112 第12旅"
             },
             "geometry": {
@@ -2083,7 +2083,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Name": "鼬幣稲荷神社",
+                "name": "鼬幣稲荷神社",
                 "description": "3巻P113 第12旅"
             },
             "geometry": {
@@ -2097,7 +2097,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Name": "元祖満州にらラーメンさかえや 本店",
+                "name": "元祖満州にらラーメンさかえや 本店",
                 "description": "3巻P113 第12旅"
             },
             "geometry": {
@@ -2111,7 +2111,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Name": "村崎野駅",
+                "name": "村崎野駅",
                 "description": "3巻P117 第12旅"
             },
             "geometry": {
@@ -2125,7 +2125,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Name": "中尊寺",
+                "name": "中尊寺",
                 "description": "3巻P118 第12旅"
             },
             "geometry": {
@@ -2139,7 +2139,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Name": "材木町公園",
+                "name": "材木町公園",
                 "description": "3巻P121 第12旅"
             },
             "geometry": {
@@ -2153,7 +2153,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Name": "出雲市駅",
+                "name": "出雲市駅",
                 "description": "3巻P130 第13旅"
             },
             "geometry": {
@@ -2167,7 +2167,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Name": "大社線鉄橋跡",
+                "name": "大社線鉄橋跡",
                 "description": "3巻P132 第13旅"
             },
             "geometry": {
@@ -2181,7 +2181,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Name": "JR大社線出雲高松駅跡",
+                "name": "JR大社線出雲高松駅跡",
                 "description": "3巻P133 第13旅"
             },
             "geometry": {
@@ -2195,7 +2195,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Name": "旧大社駅舎",
+                "name": "旧大社駅舎",
                 "description": "3巻表紙<br>3巻P134 第13旅"
             },
             "geometry": {
@@ -2209,7 +2209,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Name": "出雲大社 大鳥居",
+                "name": "出雲大社 大鳥居",
                 "description": "3巻P137 第13旅"
             },
             "geometry": {
@@ -2223,7 +2223,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Name": "俵屋菓舗 神門店",
+                "name": "俵屋菓舗 神門店",
                 "description": "3巻P137 第13旅"
             },
             "geometry": {
@@ -2237,7 +2237,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Name": "出雲日本海 出雲大社正門前店",
+                "name": "出雲日本海 出雲大社正門前店",
                 "description": "3巻P137 第13旅"
             },
             "geometry": {
@@ -2251,7 +2251,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Name": "出雲大社 勢溜の大鳥居",
+                "name": "出雲大社 勢溜の大鳥居",
                 "description": "3巻P139 第13旅"
             },
             "geometry": {
@@ -2265,7 +2265,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Name": "うさぎ！",
+                "name": "うさぎ！",
                 "description": "3巻P139 第13旅"
             },
             "geometry": {
@@ -2279,7 +2279,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Name": "出雲大社 拝殿",
+                "name": "出雲大社 拝殿",
                 "description": "3巻P140 第13旅"
             },
             "geometry": {
@@ -2293,7 +2293,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Name": "出雲大社 西十九社",
+                "name": "出雲大社 西十九社",
                 "description": "3巻P141 第13旅"
             },
             "geometry": {
@@ -2307,7 +2307,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Name": "出雲大社 神楽殿",
+                "name": "出雲大社 神楽殿",
                 "description": "3巻P142 第13旅"
             },
             "geometry": {
@@ -2321,7 +2321,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Name": "稲佐の浜(弁天島)",
+                "name": "稲佐の浜(弁天島)",
                 "description": "3巻P143 第13旅"
             },
             "geometry": {
@@ -2335,7 +2335,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Name": "出雲大社前駅",
+                "name": "出雲大社前駅",
                 "description": "3巻P145 第13旅"
             },
             "geometry": {
@@ -2349,7 +2349,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Name": "松江しんじ湖温泉駅",
+                "name": "松江しんじ湖温泉駅",
                 "description": "3巻P146 第13旅"
             },
             "geometry": {
@@ -2363,7 +2363,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Name": "ホテル一畑",
+                "name": "ホテル一畑",
                 "description": "3巻P146 第13旅"
             },
             "geometry": {
@@ -2377,7 +2377,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Name": "松江城",
+                "name": "松江城",
                 "description": "3巻P150 第13旅"
             },
             "geometry": {
@@ -2391,7 +2391,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Name": "北上駅",
+                "name": "北上駅",
                 "description": "3巻番外編"
             },
             "geometry": {
@@ -2405,7 +2405,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Name": "青石畳通り",
+                "name": "青石畳通り",
                 "description": "4巻P5,20 第13旅（後編）"
             },
             "geometry": {
@@ -2419,7 +2419,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Name": "総合体育館前（バス）",
+                "name": "総合体育館前（バス）",
                 "description": "4巻P9 第13旅（後編）"
             },
             "geometry": {
@@ -2433,7 +2433,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Name": "美保関バスターミナル",
+                "name": "美保関バスターミナル",
                 "description": "4巻P11 第13旅（後編）"
             },
             "geometry": {
@@ -2447,7 +2447,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Name": "美保関漁港",
+                "name": "美保関漁港",
                 "description": "4巻P12,13 第13旅（後編）"
             },
             "geometry": {
@@ -2461,7 +2461,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Name": "廻船御用水",
+                "name": "廻船御用水",
                 "description": "4巻P13 第13旅（後編）"
             },
             "geometry": {
@@ -2475,7 +2475,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Name": "美保神社",
+                "name": "美保神社",
                 "description": "4巻P14 第13旅（後編）"
             },
             "geometry": {
@@ -2489,7 +2489,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Name": "美保関灯台",
+                "name": "美保関灯台",
                 "description": "4巻P28 第13旅（後編）"
             },
             "geometry": {
@@ -2503,7 +2503,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Name": "沖之御前地之御前遥拝所",
+                "name": "沖之御前地之御前遥拝所",
                 "description": "4巻P32 第13旅（後編）"
             },
             "geometry": {
@@ -2517,7 +2517,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Name": "美保関灯台ビュッフェ",
+                "name": "美保関灯台ビュッフェ",
                 "description": "4巻P33 第13旅（後編）"
             },
             "geometry": {
@@ -2531,7 +2531,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Name": "恵美須社",
+                "name": "恵美須社",
                 "description": "4巻P37 第13旅（後編）"
             },
             "geometry": {
@@ -2545,7 +2545,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Name": "立川駅",
+                "name": "立川駅",
                 "description": "4巻P96 第14旅"
             },
             "geometry": {
@@ -2559,7 +2559,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Name": "青梅駅",
+                "name": "青梅駅",
                 "description": "4巻P97 第14旅"
             },
             "geometry": {
@@ -2573,7 +2573,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Name": "鳩ノ巣駅",
+                "name": "鳩ノ巣駅",
                 "description": "4巻P98 第14旅"
             },
             "geometry": {
@@ -2587,7 +2587,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Name": "白丸調整池ダム",
+                "name": "白丸調整池ダム",
                 "description": "4巻P100 第14旅"
             },
             "geometry": {
@@ -2601,7 +2601,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Name": "数馬隧道",
+                "name": "数馬隧道",
                 "description": "4巻P101 第14旅"
             },
             "geometry": {
@@ -2615,7 +2615,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Name": "奥多摩温泉 もえぎの湯",
+                "name": "奥多摩温泉 もえぎの湯",
                 "description": "4巻P102 第14旅"
             },
             "geometry": {
@@ -2629,7 +2629,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Name": "もえぎ橋",
+                "name": "もえぎ橋",
                 "description": "4巻P105 第14旅"
             },
             "geometry": {
@@ -2643,7 +2643,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Name": "山城屋 奥多摩わさび本舗",
+                "name": "山城屋 奥多摩わさび本舗",
                 "description": "4巻P105 第14旅"
             },
             "geometry": {
@@ -2657,7 +2657,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Name": "愛宕神社階段",
+                "name": "愛宕神社階段",
                 "description": "4巻P107 第14旅"
             },
             "geometry": {
@@ -2671,7 +2671,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Name": "奥多摩駅",
+                "name": "奥多摩駅",
                 "description": "4巻P109 第14旅"
             },
             "geometry": {
@@ -2685,7 +2685,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Name": "奥多摩湖",
+                "name": "奥多摩湖",
                 "description": "4巻P110 第14旅<br>電撃マオウ2020年11月号表紙"
             },
             "geometry": {
@@ -2699,7 +2699,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Name": "小河内ダム",
+                "name": "小河内ダム",
                 "description": "4巻P110 第14旅"
             },
             "geometry": {
@@ -2713,7 +2713,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Name": "数馬の切通し",
+                "name": "数馬の切通し",
                 "description": "4巻P117 第14旅"
             },
             "geometry": {
@@ -2727,7 +2727,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Name": "アーバンゲートブリッジ",
+                "name": "アーバンゲートブリッジ",
                 "description": "4巻P121 第15旅"
             },
             "geometry": {
@@ -2741,7 +2741,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Name": "勝鬨橋",
+                "name": "勝鬨橋",
                 "description": "4巻表紙<br>4巻P121 第15旅"
             },
             "geometry": {
@@ -2755,7 +2755,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Name": "京橋第一生命ビルディング",
+                "name": "京橋第一生命ビルディング",
                 "description": "4巻P122 第15旅"
             },
             "geometry": {
@@ -2769,7 +2769,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Name": "小原鐵五郎寿像",
+                "name": "小原鐵五郎寿像",
                 "description": "4巻P122 第15旅"
             },
             "geometry": {
@@ -2783,7 +2783,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Name": "築地本願寺",
+                "name": "築地本願寺",
                 "description": "4巻P122 第15旅"
             },
             "geometry": {
@@ -2797,7 +2797,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Name": "中央大橋",
+                "name": "中央大橋",
                 "description": "4巻P125 第15旅"
             },
             "geometry": {
@@ -2811,7 +2811,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Name": "月島西仲通り商店街",
+                "name": "月島西仲通り商店街",
                 "description": "4巻P126 第15旅"
             },
             "geometry": {
@@ -2825,7 +2825,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Name": "月島もんじゃ振興会協同組合",
+                "name": "月島もんじゃ振興会協同組合",
                 "description": "4巻P126 第15旅"
             },
             "geometry": {
@@ -2839,7 +2839,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Name": "月島警察署 西仲通地域安全センター",
+                "name": "月島警察署 西仲通地域安全センター",
                 "description": "4巻P127 第15旅"
             },
             "geometry": {
@@ -2853,7 +2853,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Name": "晴海橋梁",
+                "name": "晴海橋梁",
                 "description": "4巻P128 第15旅"
             },
             "geometry": {
@@ -2867,7 +2867,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Name": "豊洲公園",
+                "name": "豊洲公園",
                 "description": "4巻P129 第15旅"
             },
             "geometry": {
@@ -2881,7 +2881,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Name": "江戸前場下町",
+                "name": "江戸前場下町",
                 "description": "4巻P130 第15旅"
             },
             "geometry": {
@@ -2895,7 +2895,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Name": "鈴富",
+                "name": "鈴富",
                 "description": "4巻P130 第15旅"
             },
             "geometry": {
@@ -2909,7 +2909,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Name": "福せん",
+                "name": "福せん",
                 "description": "4巻P132 第15旅"
             },
             "geometry": {
@@ -2923,7 +2923,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Name": "東京都中央卸売市場 豊洲市場 水産卸売場棟",
+                "name": "東京都中央卸売市場 豊洲市場 水産卸売場棟",
                 "description": "4巻P133 第15旅"
             },
             "geometry": {
@@ -2937,7 +2937,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Name": "東京ビッグサイト",
+                "name": "東京ビッグサイト",
                 "description": "4巻P134 第15旅"
             },
             "geometry": {
@@ -2951,7 +2951,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Name": "国際展示場駅",
+                "name": "国際展示場駅",
                 "description": "4巻P134 第15旅"
             },
             "geometry": {
@@ -2965,7 +2965,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Name": "新木場駅",
+                "name": "新木場駅",
                 "description": "4巻P134 第15旅"
             },
             "geometry": {
@@ -2979,7 +2979,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Name": "新木場緑道公園",
+                "name": "新木場緑道公園",
                 "description": "4巻P135 第15旅"
             },
             "geometry": {
@@ -2993,7 +2993,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Name": "南極観測船『宗谷』",
+                "name": "南極観測船『宗谷』",
                 "description": "4巻P136 第15旅"
             },
             "geometry": {
@@ -3007,7 +3007,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Name": "レインボーブリッジ",
+                "name": "レインボーブリッジ",
                 "description": "4巻P138 第15旅"
             },
             "geometry": {
@@ -3021,7 +3021,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Name": "青海南ふ頭公園",
+                "name": "青海南ふ頭公園",
                 "description": "4巻P145 第15旅"
             },
             "geometry": {
@@ -3035,7 +3035,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Name": "偕楽園・常磐神社前",
+                "name": "偕楽園・常磐神社前",
                 "description": "第16旅"
             },
             "geometry": {
@@ -3049,7 +3049,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Name": "水戸駅",
+                "name": "水戸駅",
                 "description": "第16旅"
             },
             "geometry": {
@@ -3063,7 +3063,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Name": "水戸の納豆記念碑",
+                "name": "水戸の納豆記念碑",
                 "description": "第16旅"
             },
             "geometry": {
@@ -3077,7 +3077,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Name": "偕楽園",
+                "name": "偕楽園",
                 "description": "第16旅<br>季節を狙って行ってみよう！"
             },
             "geometry": {
@@ -3091,7 +3091,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Name": "常陸太田駅",
+                "name": "常陸太田駅",
                 "description": "第16旅"
             },
             "geometry": {
@@ -3105,7 +3105,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Name": "常陸太田市観光案内センター",
+                "name": "常陸太田市観光案内センター",
                 "description": "第16旅"
             },
             "geometry": {
@@ -3119,7 +3119,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Name": "木崎坂",
+                "name": "木崎坂",
                 "description": "第16旅"
             },
             "geometry": {
@@ -3133,7 +3133,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Name": "常陸太田市郷土資料館",
+                "name": "常陸太田市郷土資料館",
                 "description": "第16旅"
             },
             "geometry": {
@@ -3147,7 +3147,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Name": "東通り商店街",
+                "name": "東通り商店街",
                 "description": "第16旅"
             },
             "geometry": {
@@ -3161,7 +3161,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Name": "黒澤輪業",
+                "name": "黒澤輪業",
                 "description": "第16旅"
             },
             "geometry": {
@@ -3175,7 +3175,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Name": "若宮八幡宮",
+                "name": "若宮八幡宮",
                 "description": "第16旅"
             },
             "geometry": {
@@ -3189,7 +3189,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Name": "いづみや本店",
+                "name": "いづみや本店",
                 "description": "第16旅"
             },
             "geometry": {
@@ -3203,7 +3203,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Name": "いづみや東バイパス店",
+                "name": "いづみや東バイパス店",
                 "description": "第16旅"
             },
             "geometry": {
@@ -3217,7 +3217,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Name": "中野屋旅館",
+                "name": "中野屋旅館",
                 "description": "第16旅"
             },
             "geometry": {
@@ -3231,7 +3231,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Name": "セブン-イレブン 日立下深荻町店",
+                "name": "セブン-イレブン 日立下深荻町店",
                 "description": "第16旅"
             },
             "geometry": {
@@ -3245,7 +3245,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Name": "薩都神社中宮",
+                "name": "薩都神社中宮",
                 "description": "第16旅"
             },
             "geometry": {
@@ -3259,7 +3259,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Name": "御岩神社",
+                "name": "御岩神社",
                 "description": "第16旅"
             },
             "geometry": {
@@ -3273,7 +3273,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Name": "賀毗禮神宮",
+                "name": "賀毗禮神宮",
                 "description": "第16旅"
             },
             "geometry": {
@@ -3287,7 +3287,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Name": "御岩山",
+                "name": "御岩山",
                 "description": "第16旅"
             },
             "geometry": {
@@ -3301,7 +3301,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Name": "日立駅",
+                "name": "日立駅",
                 "description": "第16旅"
             },
             "geometry": {
@@ -3315,7 +3315,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Name": "山文魚",
+                "name": "山文魚",
                 "description": "第16旅"
             },
             "geometry": {
@@ -3329,7 +3329,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Name": "津神社",
+                "name": "津神社",
                 "description": "第16旅"
             },
             "geometry": {
@@ -3343,7 +3343,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Name": "小倉駅",
+                "name": "小倉駅",
                 "description": "第17旅"
             },
             "geometry": {
@@ -3357,7 +3357,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Name": "バジェット･レンタカー 小倉駅前店",
+                "name": "バジェット･レンタカー 小倉駅前店",
                 "description": "第17旅"
             },
             "geometry": {
@@ -3371,7 +3371,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Name": "耶馬溪",
+                "name": "耶馬溪",
                 "description": "第17旅"
             },
             "geometry": {
@@ -3385,7 +3385,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Name": "青の洞門",
+                "name": "青の洞門",
                 "description": "第17旅"
             },
             "geometry": {
@@ -3399,7 +3399,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Name": "楓乃木",
+                "name": "楓乃木",
                 "description": "第17旅"
             },
             "geometry": {
@@ -3413,7 +3413,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Name": "川底第一トンネル",
+                "name": "川底第一トンネル",
                 "description": "第17旅"
             },
             "geometry": {
@@ -3427,7 +3427,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Name": "宇佐のマチュピチュ展望所",
+                "name": "宇佐のマチュピチュ展望所",
                 "description": "第17旅"
             },
             "geometry": {
@@ -3441,7 +3441,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Name": "田舎食堂いいとこ焙（ばい）",
+                "name": "田舎食堂いいとこ焙（ばい）",
                 "description": "第17旅"
             },
             "geometry": {
@@ -3455,7 +3455,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Name": "国道500号線\n",
+                "name": "国道500号線\n",
                 "description": "第17旅"
             },
             "geometry": {
@@ -3469,7 +3469,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Name": "両子寺 仁王",
+                "name": "両子寺 仁王",
                 "description": "第17旅"
             },
             "geometry": {
@@ -3483,7 +3483,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Name": "両子寺",
+                "name": "両子寺",
                 "description": "第17旅"
             },
             "geometry": {
@@ -3497,7 +3497,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Name": "USA（宇佐）神宮",
+                "name": "USA（宇佐）神宮",
                 "description": "第17旅<br>5巻表紙"
             },
             "geometry": {
@@ -3511,7 +3511,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Name": "新丸の内ビルディング",
+                "name": "新丸の内ビルディング",
                 "description": "第18旅"
             },
             "geometry": {
@@ -3525,7 +3525,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Name": "丸の内ビルディング",
+                "name": "丸の内ビルディング",
                 "description": "第18旅"
             },
             "geometry": {
@@ -3539,7 +3539,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Name": "皇居の石垣",
+                "name": "皇居の石垣",
                 "description": "第18旅"
             },
             "geometry": {
@@ -3553,7 +3553,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Name": "皇居の石垣 その2",
+                "name": "皇居の石垣 その2",
                 "description": "第18旅"
             },
             "geometry": {
@@ -3567,7 +3567,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Name": "二重橋",
+                "name": "二重橋",
                 "description": "第18旅"
             },
             "geometry": {
@@ -3581,7 +3581,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Name": "桜田門",
+                "name": "桜田門",
                 "description": "第18旅"
             },
             "geometry": {
@@ -3595,7 +3595,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Name": "警視庁本部",
+                "name": "警視庁本部",
                 "description": "第18旅"
             },
             "geometry": {
@@ -3609,7 +3609,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Name": "国会議事堂",
+                "name": "国会議事堂",
                 "description": "第18旅"
             },
             "geometry": {
@@ -3623,7 +3623,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Name": "国立国会図書館",
+                "name": "国立国会図書館",
                 "description": "第18旅"
             },
             "geometry": {
@@ -3637,7 +3637,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Name": "都道405号線（外堀通り）",
+                "name": "都道405号線（外堀通り）",
                 "description": "第18旅"
             },
             "geometry": {
@@ -3651,7 +3651,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Name": "弁慶橋",
+                "name": "弁慶橋",
                 "description": "第18旅"
             },
             "geometry": {
@@ -3665,7 +3665,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Name": "千駄ヶ谷駅",
+                "name": "千駄ヶ谷駅",
                 "description": "第18旅"
             },
             "geometry": {
@@ -3679,7 +3679,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Name": "北参道 鳥居",
+                "name": "北参道 鳥居",
                 "description": "第18旅"
             },
             "geometry": {
@@ -3693,7 +3693,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Name": "南神門",
+                "name": "南神門",
                 "description": "第18旅"
             },
             "geometry": {
@@ -3707,7 +3707,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Name": "東京乗馬倶楽部",
+                "name": "東京乗馬倶楽部",
                 "description": "第18旅"
             },
             "geometry": {
@@ -3721,7 +3721,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Name": "大都会味ある",
+                "name": "大都会味ある",
                 "description": "第18旅"
             },
             "geometry": {
@@ -3735,7 +3735,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Name": "東京都庁",
+                "name": "東京都庁",
                 "description": "第18旅"
             },
             "geometry": {
@@ -3749,7 +3749,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Name": "なんだこれ？\n",
+                "name": "なんだこれ？\n",
                 "description": "第18旅"
             },
             "geometry": {
@@ -3763,7 +3763,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Name": "都庁からさらに西へ・・・",
+                "name": "都庁からさらに西へ・・・",
                 "description": "第18旅"
             },
             "geometry": {
@@ -3777,7 +3777,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Name": "清水橋跡",
+                "name": "清水橋跡",
                 "description": "第18旅"
             },
             "geometry": {
@@ -3791,7 +3791,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Name": "二軒家橋跡",
+                "name": "二軒家橋跡",
                 "description": "第18旅"
             },
             "geometry": {
@@ -3805,7 +3805,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Name": "村木橋跡",
+                "name": "村木橋跡",
                 "description": "第18旅"
             },
             "geometry": {
@@ -3819,7 +3819,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Name": "杉並区立玉川上水公園",
+                "name": "杉並区立玉川上水公園",
                 "description": "第18旅"
             },
             "geometry": {
@@ -3833,7 +3833,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Name": "普通の街という感じ・・・",
+                "name": "普通の街という感じ・・・",
                 "description": "第18旅"
             },
             "geometry": {
@@ -3847,7 +3847,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Name": "井の頭恩賜公園",
+                "name": "井の頭恩賜公園",
                 "description": "第18旅"
             },
             "geometry": {
