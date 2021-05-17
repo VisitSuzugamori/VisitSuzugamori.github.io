@@ -16,8 +16,8 @@ const config = {
       hidden: false,
       title: '郡山駅',
       image: '',
-      tweet_id: '1391640933498765312',
-      description: '<p>1巻 P22  福島県郡山市 駅前二丁目4</p><div class="tweetContainer" id="tweet1391640933498765312"></div> ',
+      tweet_id: '1393825260579876870',
+      description: '<p>1巻 P22  福島県郡山市 駅前二丁目4</p><div class="tweetContainer" id="tweet1393825260579876870"></div> ',
       location: {
         center: [140.3884019, 37.3985573],
         zoom: 14,
@@ -56,8 +56,8 @@ const config = {
       hidden: false,
       title: '会津若松駅',
       image: '',
-      tweet_id: '1390528650483798016',
-      description: '<p>1巻 P24  福島県会津若松市 駅前町1</p><div class="tweetContainer" id="tweet1390528650483798016"></div> ',
+      tweet_id: '',
+      description: '<p>1巻 P24  福島県会津若松市 駅前町1</p> <p><img alt="DSC04000" src="https://live.staticflickr.com/65535/50008864261_187bbccc10_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=37.5078657&amp;lon=139.9303261&amp;radius=0.25&amp;has_geo=1&amp;view_all=1">Flickr</a>【DSC04000】 by yoshikazu nagai</p>',
       location: {
         center: [139.9303261, 37.5078657],
         zoom: 14,

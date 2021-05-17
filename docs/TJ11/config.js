@@ -57,7 +57,7 @@ const config = {
       title: 'この辺まで来たよ',
       image: '',
       tweet_id: '',
-      description: '<p>3巻 P61  和歌山県東牟婁郡 串本町 </p> <p><img alt="1808 1083 7R303559" src="https://live.staticflickr.com/1853/30235374888_a0f1fbcaa3_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=33.4378491&amp;lon=135.754685&amp;radius=0.25&amp;has_geo=1&amp;view_all=1">Flickr</a>【1808 1083 7R303559】 by skycat1221</p>',
+      description: '<p>3巻 P61  和歌山県東牟婁郡 串本町 </p> <p><img alt="V zajetí koníčku" src="https://live.staticflickr.com/65535/51180350109_7198a86e97_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=33.4378491&amp;lon=135.754685&amp;radius=0.25&amp;has_geo=1&amp;view_all=1">Flickr</a>【V zajetí koníčku】 by SocialHermit</p>',
       location: {
         center: [135.754685, 33.4378491],
         zoom: 14,
@@ -76,8 +76,8 @@ const config = {
       hidden: false,
       title: '潮岬灯台',
       image: '',
-      tweet_id: '1390192985367715840',
-      description: '<p>3巻 P62  和歌山県東牟婁郡 串本町 </p><div class="tweetContainer" id="tweet1390192985367715840"></div> ',
+      tweet_id: '',
+      description: '<p>3巻 P62  和歌山県東牟婁郡 串本町 </p> <p><img alt="Pohled zpátky na pevninu" src="https://live.staticflickr.com/65535/51178871612_be0a4772d2_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=33.4375625&amp;lon=135.7544642&amp;radius=0.25&amp;has_geo=1&amp;view_all=1">Flickr</a>【Pohled zpátky na pevninu】 by SocialHermit</p>',
       location: {
         center: [135.7544642, 33.4375625],
         zoom: 14,
@@ -96,8 +96,8 @@ const config = {
       hidden: false,
       title: '本州最南端の碑',
       image: '',
-      tweet_id: '1391246801760669704',
-      description: '<p>3巻 P64  和歌山県東牟婁郡 串本町 </p><div class="tweetContainer" id="tweet1391246801760669704"></div> ',
+      tweet_id: '',
+      description: '<p>3巻 P64  和歌山県東牟婁郡 串本町 </p> <p><img alt="Krabíci..." src="https://live.staticflickr.com/65535/51180652895_690f040e33_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=33.4362401&amp;lon=135.7621203&amp;radius=0.25&amp;has_geo=1&amp;view_all=1">Flickr</a>【Krabíci...】 by SocialHermit</p>',
       location: {
         center: [135.7621203, 33.4362401],
         zoom: 14,
@@ -157,7 +157,7 @@ const config = {
       title: '潮岬観光タワー',
       image: '',
       tweet_id: '',
-      description: '<p>3巻 P71  和歌山県東牟婁郡 串本町 </p> <p><img alt="Milky way and Jupiter (3)" src="https://live.staticflickr.com/65535/50343782877_c69482ce8d_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=33.437806&amp;lon=135.7613677&amp;radius=0.25&amp;has_geo=1&amp;view_all=1">Flickr</a>【Milky way and Jupiter (3)】 by kuni4400</p>',
+      description: '<p>3巻 P71  和歌山県東牟婁郡 串本町 </p> <p><img alt="Pilný den" src="https://live.staticflickr.com/65535/51179776748_cbefb5afd8_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=33.437806&amp;lon=135.7613677&amp;radius=0.25&amp;has_geo=1&amp;view_all=1">Flickr</a>【Pilný den】 by SocialHermit</p>',
       location: {
         center: [135.7613677, 33.437806],
         zoom: 14,
@@ -236,8 +236,8 @@ const config = {
       hidden: false,
       title: '熊野本宮大社',
       image: '',
-      tweet_id: '1390775984542994432',
-      description: '<p>3巻 P82  和歌山県田辺市 本宮町本宮</p><div class="tweetContainer" id="tweet1390775984542994432"></div> ',
+      tweet_id: '',
+      description: '<p>3巻 P82  和歌山県田辺市 本宮町本宮</p> <p><img alt="20201105-1106 Mie+Wakayama 21" src="https://live.staticflickr.com/65535/50725431197_a1a5118936_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=33.8405706&amp;lon=135.7734753&amp;radius=0.25&amp;has_geo=1&amp;view_all=1">Flickr</a>【20201105-1106 Mie+Wakayama 21】 by BONGURI</p>',
       location: {
         center: [135.7734753, 33.8405706],
         zoom: 14,
