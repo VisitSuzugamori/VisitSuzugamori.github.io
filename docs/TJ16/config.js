@@ -16,8 +16,8 @@ const config = {
       hidden: false,
       title: '東京駅',
       image: '',
-      tweet_id: '1391606050038685698',
-      description: '<p>   東京都千代田区 丸の内一丁目9</p><div class="tweetContainer" id="tweet1391606050038685698"></div> ',
+      tweet_id: '1394658856815382530',
+      description: '<p>   東京都千代田区 丸の内一丁目9</p><div class="tweetContainer" id="tweet1394658856815382530"></div> ',
       location: {
         center: [139.7671248, 35.6812362],
         zoom: 14,
@@ -356,8 +356,8 @@ const config = {
       hidden: false,
       title: '御岩神社',
       image: '',
-      tweet_id: '1392317749678862338',
-      description: '<p>   茨城県日立市 </p><div class="tweetContainer" id="tweet1392317749678862338"></div> ',
+      tweet_id: '1393838554703224834',
+      description: '<p>   茨城県日立市 </p><div class="tweetContainer" id="tweet1393838554703224834"></div> ',
       location: {
         center: [140.5855581, 36.6360807],
         zoom: 14,

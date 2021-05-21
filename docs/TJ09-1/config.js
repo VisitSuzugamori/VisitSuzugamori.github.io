@@ -56,8 +56,8 @@ const config = {
       hidden: false,
       title: '広島テレビ放送',
       image: '',
-      tweet_id: '1392261350156550144',
-      description: '<p>2巻 P145  広島県広島市 東区 二葉の里三丁目5</p><div class="tweetContainer" id="tweet1392261350156550144"></div> ',
+      tweet_id: '',
+      description: '<p>2巻 P145  広島県広島市 東区 二葉の里三丁目5</p> <p><img alt="IMG_20201117_182725" src="https://live.staticflickr.com/65535/50618419743_38cd321eff_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.3999238&amp;lon=132.4758202&amp;radius=0.25&amp;has_geo=1&amp;view_all=1">Flickr</a>【IMG_20201117_182725】 by Sousaphone</p>',
       location: {
         center: [132.4758202, 34.3999238],
         zoom: 14,
@@ -76,8 +76,8 @@ const config = {
       hidden: false,
       title: '広島駅',
       image: '',
-      tweet_id: '1393039911251501056',
-      description: '<p>2巻 P146  広島県広島市 南区 松原町1</p><div class="tweetContainer" id="tweet1393039911251501056"></div> ',
+      tweet_id: '1395237726975266820',
+      description: '<p>2巻 P146  広島県広島市 南区 松原町1</p><div class="tweetContainer" id="tweet1395237726975266820"></div> ',
       location: {
         center: [132.4753786, 34.397667],
         zoom: 14,
@@ -96,8 +96,8 @@ const config = {
       hidden: false,
       title: '宮島口駅',
       image: '',
-      tweet_id: '1392828304424677376',
-      description: '<p>2巻 P147  広島県廿日市市 宮島口一丁目3</p><div class="tweetContainer" id="tweet1392828304424677376"></div> ',
+      tweet_id: '',
+      description: '<p>2巻 P147  広島県廿日市市 宮島口一丁目3</p> <p><img alt="IMG_20201116_162907" src="https://live.staticflickr.com/65535/50612550468_1ef8b69862_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.3120172&amp;lon=132.3029311&amp;radius=0.25&amp;has_geo=1&amp;view_all=1">Flickr</a>【IMG_20201116_162907】 by Sousaphone</p>',
       location: {
         center: [132.3029311, 34.3120172],
         zoom: 14,
@@ -157,7 +157,7 @@ const config = {
       title: '嚴島神社 大鳥居（布の中）',
       image: '',
       tweet_id: '',
-      description: '<p>2巻 P152,153  </p> <p><img alt="Itsukushima-Schrein" src="https://live.staticflickr.com/65535/51089324234_5587811c92_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.2973092&amp;lon=132.3181276&amp;radius=0.25&amp;has_geo=1&amp;view_all=1">Flickr</a>【Itsukushima-Schrein】 by Joerg1975</p>',
+      description: '<p>2巻 P152,153  </p> <p><img alt="river side" src="https://live.staticflickr.com/65535/51189295619_db91dc9126_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.2973092&amp;lon=132.3181276&amp;radius=0.25&amp;has_geo=1&amp;view_all=1">Flickr</a>【river side】 by Sign-Z</p>',
       location: {
         center: [132.3181276, 34.2973092],
         zoom: 14,

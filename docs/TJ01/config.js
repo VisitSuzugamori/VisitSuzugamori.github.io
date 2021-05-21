@@ -36,8 +36,8 @@ const config = {
       hidden: false,
       title: '磐梯熱海駅',
       image: '',
-      tweet_id: '1392680806808645632',
-      description: '<p>1巻 P23  福島県郡山市 熱海町熱海一丁目109</p><div class="tweetContainer" id="tweet1392680806808645632"></div> ',
+      tweet_id: '1393863119449980930',
+      description: '<p>1巻 P23  福島県郡山市 熱海町熱海一丁目109</p><div class="tweetContainer" id="tweet1393863119449980930"></div> ',
       location: {
         center: [140.2708687, 37.4808961],
         zoom: 14,
@@ -76,8 +76,8 @@ const config = {
       hidden: false,
       title: 'ラーメン二郎 会津若松駅前店',
       image: '',
-      tweet_id: '1392057458881830914',
-      description: '<p>1巻 P25  福島県会津若松市 駅前町6</p><div class="tweetContainer" id="tweet1392057458881830914"></div> ',
+      tweet_id: '1394982541111791618',
+      description: '<p>1巻 P25  福島県会津若松市 駅前町6</p><div class="tweetContainer" id="tweet1394982541111791618"></div> ',
       location: {
         center: [139.9314173, 37.5066266],
         zoom: 14,
