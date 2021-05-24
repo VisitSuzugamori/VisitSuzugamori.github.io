@@ -177,7 +177,9 @@ map.on('load', () => {
   config.chapters.forEach((record, idx) => {
     if (idx === 0) {
       directions.setOrigin(record.location.center);
-    } else if (idx === chapters_length - 1) {
+    } else if (idx > 24) {
+      // ignore if over max waypoints.
+    } else if ((idx === chapters_length - 1) || (idx === 24)) {
       directions.setDestination(record.location.center);
     } else {
       directions.setWaypoint(idx, record.location.center);
