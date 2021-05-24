@@ -97,7 +97,7 @@ const config = {
       title: '宮島口駅',
       image: '',
       tweet_id: '',
-      description: '<p>2巻 P147  広島県廿日市市 宮島口一丁目3</p> <p><img alt="IMG_20201116_162907" src="https://live.staticflickr.com/65535/50612550468_1ef8b69862_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.3120172&amp;lon=132.3029311&amp;radius=0.25&amp;has_geo=1&amp;view_all=1">Flickr</a>【IMG_20201116_162907】 by Sousaphone</p>',
+      description: '<p>2巻 P147  広島県廿日市市 宮島口一丁目3</p> <p><img alt="宮島" src="https://live.staticflickr.com/65535/50138468188_0c8039aa57_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.3120172&amp;lon=132.3029311&amp;radius=0.25&amp;has_geo=1&amp;view_all=1">Flickr</a>【宮島】 by Chitaka Chou</p>',
       location: {
         center: [132.3029311, 34.3120172],
         zoom: 14,

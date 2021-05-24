@@ -177,7 +177,7 @@ const config = {
       title: '美保関灯台ビュッフェ',
       image: '',
       tweet_id: '',
-      description: '<p>4巻 P33  島根県松江市 </p> <p><img alt="Mihonoseki Lighthouse - 美保関灯台" src="https://live.staticflickr.com/4916/32083574438_4518acb727_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.5672491&amp;lon=133.3250483&amp;radius=0.25&amp;has_geo=1&amp;view_all=1">Flickr</a>【Mihonoseki Lighthouse - 美保関灯台】 by cHoIminG</p>',
+      description: '<p>4巻 P33  島根県松江市 </p> <p><img alt="美保關燈塔, Study 9" src="https://live.staticflickr.com/1978/31868663918_bec2a7973e_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.5672491&amp;lon=133.3250483&amp;radius=0.25&amp;has_geo=1&amp;view_all=1">Flickr</a>【美保關燈塔, Study 9】 by Zale Yu</p>',
       location: {
         center: [133.3250483, 35.5672491],
         zoom: 14,

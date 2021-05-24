@@ -17,7 +17,7 @@ const config = {
       title: '串本駅',
       image: '',
       tweet_id: '',
-      description: '<p>3巻 P57  和歌山県東牟婁郡 串本町 串本40</p> <p><img alt="train station at Kushimoto shows major attractions" src="https://live.staticflickr.com/4869/32011139438_67c5371bdb_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=33.4755266&amp;lon=135.7816031&amp;radius=0.25&amp;has_geo=1&amp;view_all=1">Flickr</a>【train station at Kushimoto shows major attractions】 by anthroview</p>',
+      description: '<p>3巻 P57  和歌山県東牟婁郡 串本町 串本40</p> <p><img alt="sister city (Japan: Turkey) panorama 2018 Oct. 27 Kushimoto" src="https://live.staticflickr.com/4915/45089021854_ac4169c2b2_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=33.4755266&amp;lon=135.7816031&amp;radius=0.25&amp;has_geo=1&amp;view_all=1">Flickr</a>【sister city (Japan: Turkey) panorama 2018 Oct. 27 Kushimoto】 by anthroview</p>',
       location: {
         center: [135.7816031, 33.4755266],
         zoom: 14,
@@ -96,8 +96,8 @@ const config = {
       hidden: false,
       title: '本州最南端の碑',
       image: '',
-      tweet_id: '',
-      description: '<p>3巻 P64  和歌山県東牟婁郡 串本町 </p> <p><img alt="Krabíci..." src="https://live.staticflickr.com/65535/51180652895_690f040e33_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=33.4362401&amp;lon=135.7621203&amp;radius=0.25&amp;has_geo=1&amp;view_all=1">Flickr</a>【Krabíci...】 by SocialHermit</p>',
+      tweet_id: '1396327131198668803',
+      description: '<p>3巻 P64  和歌山県東牟婁郡 串本町 </p><div class="tweetContainer" id="tweet1396327131198668803"></div> ',
       location: {
         center: [135.7621203, 33.4362401],
         zoom: 14,
@@ -117,7 +117,7 @@ const config = {
       title: 'ビジネスホテル串本 駅前店',
       image: '',
       tweet_id: '',
-      description: '<p>3巻 P67  和歌山県東牟婁郡 串本町 串本40</p> <p><img alt="sister city (Japan: Turkey) panorama 2018 Oct. 27 Kushimoto" src="https://live.staticflickr.com/4915/45089021854_ac4169c2b2_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=33.474975&amp;lon=135.782048&amp;radius=0.25&amp;has_geo=1&amp;view_all=1">Flickr</a>【sister city (Japan: Turkey) panorama 2018 Oct. 27 Kushimoto】 by anthroview</p>',
+      description: '<p>3巻 P67  和歌山県東牟婁郡 串本町 串本40</p> <p><img alt="train station at Kushimoto shows major attractions" src="https://live.staticflickr.com/4869/32011139438_67c5371bdb_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=33.474975&amp;lon=135.782048&amp;radius=0.25&amp;has_geo=1&amp;view_all=1">Flickr</a>【train station at Kushimoto shows major attractions】 by anthroview</p>',
       location: {
         center: [135.782048, 33.474975],
         zoom: 14,
@@ -157,7 +157,7 @@ const config = {
       title: '潮岬観光タワー',
       image: '',
       tweet_id: '',
-      description: '<p>3巻 P71  和歌山県東牟婁郡 串本町 </p> <p><img alt="Pilný den" src="https://live.staticflickr.com/65535/51179776748_cbefb5afd8_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=33.437806&amp;lon=135.7613677&amp;radius=0.25&amp;has_geo=1&amp;view_all=1">Flickr</a>【Pilný den】 by SocialHermit</p>',
+      description: '<p>3巻 P71  和歌山県東牟婁郡 串本町 </p> <p><img alt="Krabíci..." src="https://live.staticflickr.com/65535/51180652895_690f040e33_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=33.437806&amp;lon=135.7613677&amp;radius=0.25&amp;has_geo=1&amp;view_all=1">Flickr</a>【Krabíci...】 by SocialHermit</p>',
       location: {
         center: [135.7613677, 33.437806],
         zoom: 14,
@@ -216,8 +216,8 @@ const config = {
       hidden: false,
       title: 'くまのこ食堂',
       image: '',
-      tweet_id: '',
-      description: '<p>3巻 P81  和歌山県田辺市 本宮町本宮</p> <p><img alt="大齋原鳥居. 熊野古道" src="https://live.staticflickr.com/65535/49574224847_1395d7ec9b_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=33.834421&amp;lon=135.7723926&amp;radius=0.25&amp;has_geo=1&amp;view_all=1">Flickr</a>【大齋原鳥居. 熊野古道】 by hulagaga</p>',
+      tweet_id: '1396339680485023745',
+      description: '<p>3巻 P81  和歌山県田辺市 本宮町本宮</p><div class="tweetContainer" id="tweet1396339680485023745"></div> ',
       location: {
         center: [135.7723926, 33.834421],
         zoom: 14,
@@ -236,8 +236,8 @@ const config = {
       hidden: false,
       title: '熊野本宮大社',
       image: '',
-      tweet_id: '',
-      description: '<p>3巻 P82  和歌山県田辺市 本宮町本宮</p> <p><img alt="20201105-1106 Mie+Wakayama 21" src="https://live.staticflickr.com/65535/50725431197_a1a5118936_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=33.8405706&amp;lon=135.7734753&amp;radius=0.25&amp;has_geo=1&amp;view_all=1">Flickr</a>【20201105-1106 Mie+Wakayama 21】 by BONGURI</p>',
+      tweet_id: '1396316592816869376',
+      description: '<p>3巻 P82  和歌山県田辺市 本宮町本宮</p><div class="tweetContainer" id="tweet1396316592816869376"></div> ',
       location: {
         center: [135.7734753, 33.8405706],
         zoom: 14,

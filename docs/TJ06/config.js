@@ -16,8 +16,8 @@ const config = {
       hidden: false,
       title: '宇都宮駅',
       image: '',
-      tweet_id: '1393140784451440641',
-      description: '<p>2巻 P44  栃木県宇都宮市 駅前通り三丁目1</p><div class="tweetContainer" id="tweet1393140784451440641"></div> ',
+      tweet_id: '1396304931393392641',
+      description: '<p>2巻 P44  栃木県宇都宮市 駅前通り三丁目1</p><div class="tweetContainer" id="tweet1396304931393392641"></div> ',
       location: {
         center: [139.8984511, 36.5590234],
         zoom: 14,
@@ -56,8 +56,8 @@ const config = {
       hidden: false,
       title: '龍門の滝',
       image: '',
-      tweet_id: '1395601597724434435',
-      description: '<p>2巻 P49  栃木県那須烏山市 滝20</p><div class="tweetContainer" id="tweet1395601597724434435"></div> ',
+      tweet_id: '1396369446877335554',
+      description: '<p>2巻 P49  栃木県那須烏山市 滝20</p><div class="tweetContainer" id="tweet1396369446877335554"></div> ',
       location: {
         center: [140.1398144, 36.6455986],
         zoom: 14,
