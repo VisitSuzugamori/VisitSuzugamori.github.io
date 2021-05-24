@@ -237,7 +237,7 @@ const config = {
       title: '栗林公園',
       image: '',
       tweet_id: '',
-      description: '<p>1巻 P157  香川県高松市 栗林町一丁目20</p> <p><img alt="RitsurinGarden02" src="https://live.staticflickr.com/65535/50060792483_ebd0691359_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.3293842&amp;lon=134.0445345&amp;radius=0.25&amp;has_geo=1&amp;view_all=1">Flickr</a>【RitsurinGarden02】 by spacestoriesbygift2</p>',
+      description: '<p>1巻 P157  香川県高松市 栗林町一丁目20</p> <p><img alt="上原屋本店" src="https://live.staticflickr.com/65535/50205694352_e62b276a9c_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.3293842&amp;lon=134.0445345&amp;radius=0.25&amp;has_geo=1&amp;view_all=1">Flickr</a>【上原屋本店】 by taqmatsu</p>',
       location: {
         center: [134.0445345, 34.3293842],
         zoom: 14,

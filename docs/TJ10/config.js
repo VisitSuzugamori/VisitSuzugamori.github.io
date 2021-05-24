@@ -97,7 +97,7 @@ const config = {
       title: '下北駅',
       image: '',
       tweet_id: '',
-      description: '<p>3巻 P47  青森県むつ市 下北町4</p> <p><img alt="upload" src="https://live.staticflickr.com/5766/29920981884_31f97c9f8b_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=41.2827427&amp;lon=141.1899038&amp;radius=0.25&amp;has_geo=1&amp;view_all=1">Flickr</a>【upload】 by 星空與月</p>',
+      description: '<p>3巻 P47  青森県むつ市 下北町4</p> <p><img alt="765" src="https://live.staticflickr.com/7470/26892969016_4e2292e51a_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=41.2827427&amp;lon=141.1899038&amp;radius=0.25&amp;has_geo=1&amp;view_all=1">Flickr</a>【765】 by hyuhyu6748usver</p>',
       location: {
         center: [141.1899038, 41.2827427],
         zoom: 14,
@@ -116,8 +116,8 @@ const config = {
       hidden: false,
       title: '三途の川',
       image: '',
-      tweet_id: '',
-      description: '<p>3巻 P49  青森県むつ市 </p> <p><img alt="DSC_0446" src="https://live.staticflickr.com/4739/39248648982_8a750ffff1_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=41.3260657&amp;lon=141.0962272&amp;radius=0.25&amp;has_geo=1&amp;view_all=1">Flickr</a>【DSC_0446】 by taewoongkwon</p>',
+      tweet_id: '1396699510760370188',
+      description: '<p>3巻 P49  青森県むつ市 </p><div class="tweetContainer" id="tweet1396699510760370188"></div> ',
       location: {
         center: [141.0962272, 41.3260657],
         zoom: 14,

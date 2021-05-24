@@ -77,7 +77,7 @@ const config = {
       title: '京橋第一生命ビルディング',
       image: '',
       tweet_id: '',
-      description: '<p>4巻 P122  東京都中央区 京橋二丁目4</p> <p><img alt="IMG_20210424_174323" src="https://live.staticflickr.com/65535/51134398922_33be0a75f4_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.6767189&amp;lon=139.7696552&amp;radius=0.25&amp;has_geo=1&amp;view_all=1">Flickr</a>【IMG_20210424_174323】 by Digital Life Innovator</p>',
+      description: '<p>4巻 P122  東京都中央区 京橋二丁目4</p> <p><img alt="IMG_20210424_174328" src="https://live.staticflickr.com/65535/51135074386_70ced48f40_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.6767189&amp;lon=139.7696552&amp;radius=0.25&amp;has_geo=1&amp;view_all=1">Flickr</a>【IMG_20210424_174328】 by Digital Life Innovator</p>',
       location: {
         center: [139.7696552, 35.6767189],
         zoom: 14,
@@ -97,7 +97,7 @@ const config = {
       title: '小原鐵五郎寿像',
       image: '',
       tweet_id: '',
-      description: '<p>4巻 P122  東京都中央区 京橋三丁目8</p> <p><img alt="IMG_20210424_174347" src="https://live.staticflickr.com/65535/51134398672_0870122abb_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.675434&amp;lon=139.7711133&amp;radius=0.25&amp;has_geo=1&amp;view_all=1">Flickr</a>【IMG_20210424_174347】 by Digital Life Innovator</p>',
+      description: '<p>4巻 P122  東京都中央区 京橋三丁目8</p> <p><img alt="IMG_20210424_174352" src="https://live.staticflickr.com/65535/51134398582_a4e04a1fe5_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.675434&amp;lon=139.7711133&amp;radius=0.25&amp;has_geo=1&amp;view_all=1">Flickr</a>【IMG_20210424_174352】 by Digital Life Innovator</p>',
       location: {
         center: [139.7711133, 35.675434],
         zoom: 14,
@@ -436,8 +436,8 @@ const config = {
       hidden: false,
       title: 'レインボーブリッジ',
       image: '',
-      tweet_id: '1393935100799184901',
-      description: '<p>4巻 P138  </p><div class="tweetContainer" id="tweet1393935100799184901"></div> ',
+      tweet_id: '1396420264859082752',
+      description: '<p>4巻 P138  </p><div class="tweetContainer" id="tweet1396420264859082752"></div> ',
       location: {
         center: [139.7631443, 35.6365639],
         zoom: 14,
