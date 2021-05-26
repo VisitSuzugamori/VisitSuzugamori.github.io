@@ -6,7 +6,7 @@ const config = {
   theme: 'light',
   use3dTerrain: true,
   title: '第17旅 九州',
-  subtitle: '【千代田区 北九州市小倉北区 中津市 玖珠郡玖珠町 宇佐市 国東市】(単行本未収録)',
+  subtitle: '【千代田区 北九州市小倉北区 中津市 玖珠郡玖珠町 宇佐市 国東市】はじめての九州で／おうちに着くまで気ーをつけよう',
   byline: 'VisitSuzugamori 〜ざつ旅を辿る〜',
   footer: '<p class="navi"><a href="/">🔝各話一覧へ</a> <a href="https://github.com/VisitSuzugamori/VisitSuzugamori.github.io">💬contact</a></p><p>原作：<a href="https://www.kadokawa.co.jp/product/search/?sort=0&kw=%E3%81%96%E3%81%A4%E6%97%85">ざつ旅-That&#39;s Journey-</a> &copy; 石坂 ケンタ, KADOKAWA, 電撃マオウ / 地図・テンプレート：<a href="https://github.com/mapbox/storytelling">Mapbox</a> / 地図作成：VisitSuzugamori, <a href="https://twitter.com/isnot49662340">isnot</a>',
   chapters: [
@@ -96,8 +96,8 @@ const config = {
       hidden: false,
       title: '青の洞門',
       image: '',
-      tweet_id: '',
-      description: '<p>   大分県中津市 本耶馬渓町樋田</p> <p><img alt="20191121_Kyushu_227" src="https://live.staticflickr.com/65535/49257060897_dd01e32197_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=33.5001247&amp;lon=131.1717971&amp;radius=0.25&amp;has_geo=1&amp;view_all=1">Flickr</a>【20191121_Kyushu_227】 by jinmsk</p>',
+      tweet_id: '1397131086241538053',
+      description: '<p>   大分県中津市 本耶馬渓町樋田</p><div class="tweetContainer" id="tweet1397131086241538053"></div> ',
       location: {
         center: [131.1717971, 33.5001247],
         zoom: 14,
@@ -117,7 +117,7 @@ const config = {
       title: '楓乃木',
       image: '',
       tweet_id: '',
-      description: '<p>   大分県中津市 </p> <p><img alt="DSC00387" src="https://live.staticflickr.com/4211/35004311203_2b5c606342_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=33.377945&amp;lon=131.1647678&amp;radius=0.25&amp;has_geo=1&amp;view_all=1">Flickr</a>【DSC00387】 by sunwu1</p>',
+      description: '<p>   大分県中津市 </p> <p><img alt="耶馬溪賞楓" src="https://live.staticflickr.com/4584/37729823465_aa61025c89_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=33.377945&amp;lon=131.1647678&amp;radius=0.25&amp;has_geo=1&amp;view_all=1">Flickr</a>【耶馬溪賞楓】 by hairy63845</p>',
       location: {
         center: [131.1647678, 33.377945],
         zoom: 14,

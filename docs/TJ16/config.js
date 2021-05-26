@@ -6,7 +6,7 @@ const config = {
   theme: 'light',
   use3dTerrain: true,
   title: '第16旅 茨城',
-  subtitle: '【千代田区 水戸市 常陸太田市 日立市】(単行本未収録)',
+  subtitle: '【千代田区 水戸市 常陸太田市 日立市】あたらしい旅／今日出来ることは！',
   byline: 'VisitSuzugamori 〜ざつ旅を辿る〜',
   footer: '<p class="navi"><a href="/">🔝各話一覧へ</a> <a href="https://github.com/VisitSuzugamori/VisitSuzugamori.github.io">💬contact</a></p><p>原作：<a href="https://www.kadokawa.co.jp/product/search/?sort=0&kw=%E3%81%96%E3%81%A4%E6%97%85">ざつ旅-That&#39;s Journey-</a> &copy; 石坂 ケンタ, KADOKAWA, 電撃マオウ / 地図・テンプレート：<a href="https://github.com/mapbox/storytelling">Mapbox</a> / 地図作成：VisitSuzugamori, <a href="https://twitter.com/isnot49662340">isnot</a>',
   chapters: [
@@ -356,8 +356,8 @@ const config = {
       hidden: false,
       title: '御岩神社',
       image: '',
-      tweet_id: '',
-      description: '<p>   茨城県日立市 </p> <p><img alt="20181008-110739-55" src="https://live.staticflickr.com/1919/45151156522_55235a581c_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=36.6360807&amp;lon=140.5855581&amp;radius=0.25&amp;has_geo=1&amp;view_all=1">Flickr</a>【20181008-110739-55】 by giu205</p>',
+      tweet_id: '1397372791419064321',
+      description: '<p>   茨城県日立市 </p><div class="tweetContainer" id="tweet1397372791419064321"></div> ',
       location: {
         center: [140.5855581, 36.6360807],
         zoom: 14,

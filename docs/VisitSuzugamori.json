@@ -202,7 +202,7 @@
       "title": "第16旅 茨城",
       "place": "千代田区 水戸市 常陸太田市 日立市",
       "books": "5巻",
-      "subtitle": null,
+      "subtitle": "あたらしい旅／今日出来ることは！",
       "camera": {"zoom": 10, "center": [140.5454, 36.5133]}
     },
     "TJ16-1": {
@@ -212,7 +212,8 @@
       "title": "第16旅 茨城前編",
       "place": "千代田区 水戸市 常陸太田市",
       "published": "2021, 電撃マオウ 1月号",
-      "subtitle": null,
+      "books": "5巻",
+      "subtitle": "あたらしい旅",
       "camera": {"zoom": 10, "center": [140.5454, 36.5133]}
     },
     "TJ16-2": {
@@ -222,7 +223,8 @@
       "title": "第16旅 茨城後編",
       "place": "常陸太田市 日立市",
       "published": "2021, 電撃マオウ 2月号",
-      "subtitle": null,
+      "books": "5巻",
+      "subtitle": "今日出来ることは！",
       "camera": {"zoom": 10, "center": [140.5454, 36.5133]}
     },
     "TJ17": {
@@ -232,7 +234,7 @@
       "title": "第17旅 九州",
       "place": "千代田区 北九州市小倉北区 中津市 玖珠郡玖珠町 宇佐市 国東市",
       "books": "5巻",
-      "subtitle": null,
+      "subtitle": "はじめての九州で／おうちに着くまで気ーをつけよう",
       "camera": {"zoom": 9, "center": [131.2056, 33.6066]}
     },
     "TJ17-1": {
@@ -242,7 +244,8 @@
       "title": "第17旅 九州前編",
       "place": "千代田区 北九州市小倉北区 中津市 玖珠郡玖珠町 宇佐市",
       "published": "2021, 電撃マオウ 3月号",
-      "subtitle": null,
+      "books": "5巻",
+      "subtitle": "はじめての九州で",
       "camera": {"zoom": 9, "center": [131.2056, 33.6066]}
     },
     "TJ17-2": {
@@ -252,7 +255,8 @@
       "title": "第17旅 九州後編",
       "place": "宇佐市 玖珠郡玖珠町 中津市 国東市",
       "published": "2021, 電撃マオウ 4月号",
-      "subtitle": null,
+      "books": "5巻",
+      "subtitle": "おうちに着くまで気ーをつけよう",
       "camera": {"zoom": 9, "center": [131.2056, 33.6066]}
     },
     "TJ18": {
@@ -262,8 +266,8 @@
       "title": "第18旅 都内Ⅲ",
       "place": "千代田区 港区 渋谷区 新宿区 杉並区 三鷹市",
       "published": "2021, 電撃マオウ 6月号",
-      "books": null,
-      "subtitle": null,
+      "books": "5巻",
+      "subtitle": "時にはあの番組のように",
       "camera": {"zoom": 11, "center": [139.6703, 35.6808]}
     }
   },

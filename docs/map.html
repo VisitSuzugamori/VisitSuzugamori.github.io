@@ -147,8 +147,9 @@
       .then((data) => {
         const ul = document.querySelector('.navi ul');
         const description = document.querySelector('#placeDescription p');
+        const ignore = new Map([['TJ16-1', true], ['TJ16-2', true], ['TJ17-1', true], ['TJ17-2', true]]);
         Object.values(data.stories).forEach((val) => {
-          if (!Object.prototype.hasOwnProperty.call(val, 'books')) {
+          if (ignore.has(val.id)) {
             return;
           }
           const name = val.id.replace('TJ', '');
