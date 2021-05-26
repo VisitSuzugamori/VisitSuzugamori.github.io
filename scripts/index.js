@@ -29,6 +29,7 @@ const tw = new TwitterApi({
 
 const flickr = new FlickrApi({
   flickr_key: secret.flickr.flickr_key,
+  radius: 0.1,
 });
 
 const revGeoCoder = new AginfoApi();
