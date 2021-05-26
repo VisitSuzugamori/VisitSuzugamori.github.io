@@ -117,7 +117,7 @@ const config = {
       title: '常陸太田駅',
       image: '',
       tweet_id: '',
-      description: '<p>   茨城県常陸太田市 山下町954</p> <p><img alt="カメラロール-901" src="https://live.staticflickr.com/8508/8584640555_18aa3b6a21_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=36.5315277&amp;lon=140.5279062&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【カメラロール-901】 by tottoko_8686</p>',
+      description: '<p>   茨城県常陸太田市 山下町954</p> <p><img alt="カメラロール-899" src="https://live.staticflickr.com/8247/8584638155_f528418c5e_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=36.5315277&amp;lon=140.5279062&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【カメラロール-899】 by tottoko_8686</p>',
       location: {
         center: [140.5279062, 36.5315277],
         zoom: 14,
@@ -137,7 +137,7 @@ const config = {
       title: '常陸太田市観光案内センター',
       image: '',
       tweet_id: '',
-      description: '<p>   茨城県常陸太田市 山下町977</p> <p><img alt="カメラロール-900" src="https://live.staticflickr.com/8228/8585740764_9aa4a5a227_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=36.5310286&amp;lon=140.527941&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【カメラロール-900】 by tottoko_8686</p>',
+      description: '<p>   茨城県常陸太田市 山下町977</p> <p><img alt="カメラロール-898" src="https://live.staticflickr.com/8371/8584637147_cb89a94bc9_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=36.5310286&amp;lon=140.527941&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【カメラロール-898】 by tottoko_8686</p>',
       location: {
         center: [140.527941, 36.5310286],
         zoom: 14,
@@ -177,7 +177,7 @@ const config = {
       title: '常陸太田市郷土資料館',
       image: '',
       tweet_id: '',
-      description: '<p>   茨城県常陸太田市 西二町2170</p> <p><img alt="Kujiragaoka" src="https://live.staticflickr.com/65535/49264007191_f670e42e4a_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=36.5402389&amp;lon=140.5224722&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Kujiragaoka】 by ubic from tokyo</p>',
+      description: '<p>   茨城県常陸太田市 西二町2170</p> <p><img alt="Kujiragaoka" src="https://live.staticflickr.com/65535/49278005281_68d5375921_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=36.5402389&amp;lon=140.5224722&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Kujiragaoka】 by ubic from tokyo</p>',
       location: {
         center: [140.5224722, 36.5402389],
         zoom: 14,
@@ -197,7 +197,7 @@ const config = {
       title: '東通り商店街',
       image: '',
       tweet_id: '',
-      description: '<p>   茨城県常陸太田市 東一町2298</p> <p><img alt="Kujiragaoka" src="https://live.staticflickr.com/65535/49278005281_68d5375921_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=36.5407325&amp;lon=140.5231782&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Kujiragaoka】 by ubic from tokyo</p>',
+      description: '<p>   茨城県常陸太田市 東一町2298</p> <p><img alt="Kujiragaoka" src="https://live.staticflickr.com/65535/49264007191_f670e42e4a_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=36.5407325&amp;lon=140.5231782&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Kujiragaoka】 by ubic from tokyo</p>',
       location: {
         center: [140.5231782, 36.5407325],
         zoom: 14,
@@ -237,7 +237,7 @@ const config = {
       title: '若宮八幡宮',
       image: '',
       tweet_id: '',
-      description: '<p>   茨城県常陸太田市 宮本町288</p> <p><img alt="DSCF1948.JPG" src="https://live.staticflickr.com/3546/5722468408_602653df05_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=36.542962&amp;lon=140.5207&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【DSCF1948.JPG】 by rakuyen</p>',
+      description: '<p>   茨城県常陸太田市 宮本町288</p> <p><img alt="DSCF1947.JPG" src="https://live.staticflickr.com/2521/5722462166_aa849ec851_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=36.542962&amp;lon=140.5207&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【DSCF1947.JPG】 by rakuyen</p>',
       location: {
         center: [140.5207, 36.542962],
         zoom: 14,
