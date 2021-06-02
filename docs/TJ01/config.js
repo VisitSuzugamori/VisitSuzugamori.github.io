@@ -117,7 +117,7 @@ const config = {
       title: '小池菓子舗 飯盛山店',
       image: '',
       tweet_id: '',
-      description: '<p>1巻 P26  福島県会津若松市 一箕町八幡弁天下2</p> <p><img alt="会津若松" src="https://live.staticflickr.com/65535/50757332358_af3638db53_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=37.5044771&amp;lon=139.9528276&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【会津若松】 by Chitaka Chou</p>',
+      description: '<p>1巻 P26  福島県会津若松市 一箕町八幡弁天下2</p> <p><img alt="イチョウ" src="https://live.staticflickr.com/65535/50757333628_0caed3c01a_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=37.5044771&amp;lon=139.9528276&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【イチョウ】 by Chitaka Chou</p>',
       location: {
         center: [139.9528276, 37.5044771],
         zoom: 14,
@@ -157,7 +157,7 @@ const config = {
       title: '射的場',
       image: '',
       tweet_id: '',
-      description: '<p>1巻 P40  福島県会津若松市 東山町湯本居平122</p> <p><img alt="" src="https://live.staticflickr.com/4916/45191414395_f29a825038_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=37.4781468&amp;lon=139.9632406&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【】 by Straylight66</p>',
+      description: '<p>1巻 P40  福島県会津若松市 東山町湯本居平122</p> <p><img alt="" src="https://live.staticflickr.com/4818/46109236232_24119b28d9_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=37.4781468&amp;lon=139.9632406&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【】 by Straylight66</p>',
       location: {
         center: [139.9632406, 37.4781468],
         zoom: 14,
@@ -177,7 +177,7 @@ const config = {
       title: '会津東山温泉 向瀧',
       image: '',
       tweet_id: '',
-      description: '<p>1巻 P40  福島県会津若松市 東山町湯本居平41</p> <p><img alt="IMGP3721" src="https://live.staticflickr.com/4813/44274595140_b27bcd05d0_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=37.478055&amp;lon=139.9610889&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【IMGP3721】 by k_natsumoto</p>',
+      description: '<p>1巻 P40  福島県会津若松市 東山町湯本居平41</p> <p><img alt="IMGP3716" src="https://live.staticflickr.com/4803/31152003897_11abafdeff_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=37.478055&amp;lon=139.9610889&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【IMGP3716】 by k_natsumoto</p>',
       location: {
         center: [139.9610889, 37.478055],
         zoom: 14,
@@ -237,7 +237,7 @@ const config = {
       title: '会津さざえ堂 (円通寺三匝堂)',
       image: '',
       tweet_id: '',
-      description: '<p>1巻 P51  福島県会津若松市 一箕町八幡弁天下33</p> <p><img alt="会津さざえ堂" src="https://live.staticflickr.com/65535/50753897403_6072782403_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=37.5045319&amp;lon=139.9539697&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【会津さざえ堂】 by Chitaka Chou</p>',
+      description: '<p>1巻 P51  福島県会津若松市 一箕町八幡弁天下33</p> <p><img alt="イチョウ" src="https://live.staticflickr.com/65535/50758071426_221709fde9_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=37.5045319&amp;lon=139.9539697&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【イチョウ】 by Chitaka Chou</p>',
       location: {
         center: [139.9539697, 37.5045319],
         zoom: 14,

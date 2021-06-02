@@ -57,7 +57,7 @@ const config = {
       title: '広島テレビ放送',
       image: '',
       tweet_id: '',
-      description: '<p>2巻 P145  広島県広島市 東区 二葉の里三丁目5</p> <p><img alt="Cuisine japonaise" src="https://live.staticflickr.com/65535/49719495427_01d9203ed9_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.3999238&amp;lon=132.4758202&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Cuisine japonaise】 by Rudy Pické</p>',
+      description: '<p>2巻 P145  広島県広島市 東区 二葉の里三丁目5</p> <p><img alt="Japan_Roll-14_07" src="https://live.staticflickr.com/65535/49840112437_e242194757_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.3999238&amp;lon=132.4758202&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Japan_Roll-14_07】 by derekcarter2</p>',
       location: {
         center: [132.4758202, 34.3999238],
         zoom: 14,
@@ -157,7 +157,7 @@ const config = {
       title: '嚴島神社 大鳥居（布の中）',
       image: '',
       tweet_id: '',
-      description: '<p>2巻 P152,153  </p> <p><img alt="Itsukushima-Schrein" src="https://live.staticflickr.com/65535/51089324234_3a7a50cd55_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.2973092&amp;lon=132.3181276&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Itsukushima-Schrein】 by Joerg1975</p>',
+      description: '<p>2巻 P152,153  </p> <p><img alt="High Tide-Hiroshima-Japan" src="https://live.staticflickr.com/65535/51196060049_e73e7224c5_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.2973092&amp;lon=132.3181276&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【High Tide-Hiroshima-Japan】 by noussa noussa</p>',
       location: {
         center: [132.3181276, 34.2973092],
         zoom: 14,

@@ -177,7 +177,7 @@ const config = {
       title: '久穂田烏山駅前旅館',
       image: '',
       tweet_id: '',
-      description: '<p>2巻 P59  栃木県那須烏山市 金井二丁目21</p> <p><img alt="蓄電池電車(゜ロ゜)" src="https://live.staticflickr.com/5543/30683515341_efda522c1b_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=36.6509415&amp;lon=140.1539749&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【蓄電池電車(゜ロ゜)】 by fox_kawai</p>',
+      description: '<p>2巻 P59  栃木県那須烏山市 金井二丁目21</p> <p><img alt="00003232_参議院議員選挙 栃木県選挙区 谷ひろゆき（民主党）" src="https://live.staticflickr.com/748/32059834856_2bcd2aea3b_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=36.6509415&amp;lon=140.1539749&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【00003232_参議院議員選挙 栃木県選挙区 谷ひろゆき（民主党）】 by rukaruru</p>',
       location: {
         center: [140.1539749, 36.6509415],
         zoom: 14,

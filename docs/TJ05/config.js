@@ -97,7 +97,7 @@ const config = {
       title: 'ラー麺・陽はまた昇る 伏見稲荷駅前本店',
       image: '',
       tweet_id: '',
-      description: '<p>2巻 P17  京都府京都市 伏見区 深草一ノ坪町35</p> <p><img alt="fushimi_inari_20200405093336" src="https://live.staticflickr.com/65535/50258911336_d2a33d7326_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.968596&amp;lon=135.768613&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【fushimi_inari_20200405093336】 by inunami</p>',
+      description: '<p>2巻 P17  京都府京都市 伏見区 深草一ノ坪町35</p> <p><img alt="Japan" src="https://live.staticflickr.com/65535/50900434912_3d01754f76_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.968596&amp;lon=135.768613&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Japan】 by Lamtom</p>',
       location: {
         center: [135.768613, 34.968596],
         zoom: 14,
@@ -197,7 +197,7 @@ const config = {
       title: '天橋立ビューランド リフト・モノレールのりば',
       image: '',
       tweet_id: '',
-      description: '<p>2巻 P31  京都府宮津市 字文珠190</p> <p><img alt="P1029152" src="https://live.staticflickr.com/65535/49332120552_cf2e9f9d8d_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.5557202&amp;lon=135.1839285&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【P1029152】 by MakotoUmeda</p>',
+      description: '<p>2巻 P31  京都府宮津市 字文珠190</p> <p><img alt="Amanohashidate station" src="https://live.staticflickr.com/65535/49444929417_82bbc08e4c_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.5557202&amp;lon=135.1839285&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Amanohashidate station】 by Spotman!</p>',
       location: {
         center: [135.1839285, 35.5557202],
         zoom: 14,
@@ -217,7 +217,7 @@ const config = {
       title: '天橋立ビューランド',
       image: '',
       tweet_id: '',
-      description: '<p>2巻 P32  京都府宮津市 文珠1</p> <p><img alt="P1029049" src="https://live.staticflickr.com/65535/49331444698_62356a189e_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.5527779&amp;lon=135.1821171&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【P1029049】 by MakotoUmeda</p>',
+      description: '<p>2巻 P32  京都府宮津市 文珠1</p> <p><img alt="IMG_9267" src="https://live.staticflickr.com/65535/49520477976_00d4a87832_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.5527779&amp;lon=135.1821171&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【IMG_9267】 by Jörg Weingrill</p>',
       location: {
         center: [135.1821171, 35.5527779],
         zoom: 14,
@@ -257,7 +257,7 @@ const config = {
       title: '岩見重太郎 仇討ちの場',
       image: '',
       tweet_id: '',
-      description: '<p>2巻 P36  京都府宮津市 字文珠</p> <p><img alt="P1039258" src="https://live.staticflickr.com/65535/49332252827_8aa1b90163_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.5628724&amp;lon=135.1881478&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【P1039258】 by MakotoUmeda</p>',
+      description: '<p>2巻 P36  京都府宮津市 字文珠</p> <p><img alt="P1039245" src="https://live.staticflickr.com/65535/49331567108_4c395bd571_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.5628724&amp;lon=135.1881478&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【P1039245】 by MakotoUmeda</p>',
       location: {
         center: [135.1881478, 35.5628724],
         zoom: 14,
@@ -277,7 +277,7 @@ const config = {
       title: '丹後國一之宮 元伊勢 籠神社',
       image: '',
       tweet_id: '',
-      description: '<p>2巻 P37  京都府宮津市 江尻430</p> <p><img alt="P1039204" src="https://live.staticflickr.com/65535/49331574968_6ec33431a3_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.5827837&amp;lon=135.1967015&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【P1039204】 by MakotoUmeda</p>',
+      description: '<p>2巻 P37  京都府宮津市 江尻430</p> <p><img alt="" src="https://live.staticflickr.com/65535/49339213341_b5906f8039_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.5827837&amp;lon=135.1967015&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【】 by balduran98</p>',
       location: {
         center: [135.1967015, 35.5827837],
         zoom: 14,
@@ -297,7 +297,7 @@ const config = {
       title: '天橋立神社',
       image: '',
       tweet_id: '',
-      description: '<p>2巻 P39  京都府宮津市 字文珠</p> <p><img alt="P1039257" src="https://live.staticflickr.com/65535/49332252957_7db496eeca_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.5634066&amp;lon=135.1879155&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【P1039257】 by MakotoUmeda</p>',
+      description: '<p>2巻 P39  京都府宮津市 字文珠</p> <p><img alt="P1039247" src="https://live.staticflickr.com/65535/49332254667_d3dfc78c3e_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.5634066&amp;lon=135.1879155&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【P1039247】 by MakotoUmeda</p>',
       location: {
         center: [135.1879155, 35.5634066],
         zoom: 14,
