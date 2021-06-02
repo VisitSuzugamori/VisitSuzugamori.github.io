@@ -94,9 +94,6 @@ class FlickrApi {
     });
 
     data.sort((a, b) => {
-      if (b.x_score === a.x_score) {
-        return new Date(b.datetaken).valueOf() - new Date(a.datetaken).valueOf();
-      }
       return b.x_score - a.x_score;
     });
     const best = data.shift();
