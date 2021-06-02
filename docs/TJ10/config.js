@@ -116,8 +116,8 @@ const config = {
       hidden: false,
       title: '三途の川',
       image: '',
-      tweet_id: '1396699510760370188',
-      description: '<p>3巻 P49  青森県むつ市 </p><div class="tweetContainer" id="tweet1396699510760370188"></div> ',
+      tweet_id: '',
+      description: '<p>3巻 P49  青森県むつ市 </p> <p><img alt="Mutsu Oct 17 151" src="https://live.staticflickr.com/5635/21972694023_2e2eb2200d_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=41.3260657&amp;lon=141.0962272&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Mutsu Oct 17 151】 by tculek</p>',
       location: {
         center: [141.0962272, 41.3260657],
         zoom: 14,

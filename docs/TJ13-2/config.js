@@ -16,8 +16,8 @@ const config = {
       hidden: false,
       title: '青石畳通り',
       image: '',
-      tweet_id: '1395286345937948676',
-      description: '<p>4巻 P5,20  島根県松江市 美保関町美保関</p><div class="tweetContainer" id="tweet1395286345937948676"></div> ',
+      tweet_id: '',
+      description: '<p>4巻 P5,20  島根県松江市 美保関町美保関</p> <p><img alt="Anchor" src="https://live.staticflickr.com/65535/48111991997_a5260003ae_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.5625098&amp;lon=133.3076796&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Anchor】 by Teruhide Tomori</p>',
       location: {
         center: [133.3076796, 35.5625098],
         zoom: 14,
@@ -96,8 +96,8 @@ const config = {
       hidden: false,
       title: '廻船御用水',
       image: '',
-      tweet_id: '1395284510913175565',
-      description: '<p>4巻 P13  島根県松江市 美保関町美保関</p><div class="tweetContainer" id="tweet1395284510913175565"></div> ',
+      tweet_id: '',
+      description: '<p>4巻 P13  島根県松江市 美保関町美保関</p> <p><img alt="美保關老街, Study 1" src="https://live.staticflickr.com/4855/45647025272_a86e0b322b_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.5623016&amp;lon=133.3074953&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【美保關老街, Study 1】 by Zale Yu</p>',
       location: {
         center: [133.3074953, 35.5623016],
         zoom: 14,

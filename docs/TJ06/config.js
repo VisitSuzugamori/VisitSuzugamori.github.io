@@ -16,8 +16,8 @@ const config = {
       hidden: false,
       title: '宇都宮駅',
       image: '',
-      tweet_id: '1396304931393392641',
-      description: '<p>2巻 P44  栃木県宇都宮市 駅前通り三丁目1</p><div class="tweetContainer" id="tweet1396304931393392641"></div> ',
+      tweet_id: '1397519170040958986',
+      description: '<p>2巻 P44  栃木県宇都宮市 駅前通り三丁目1</p><div class="tweetContainer" id="tweet1397519170040958986"></div> ',
       location: {
         center: [139.8984511, 36.5590234],
         zoom: 14,
@@ -56,8 +56,8 @@ const config = {
       hidden: false,
       title: '龍門の滝',
       image: '',
-      tweet_id: '1396369446877335554',
-      description: '<p>2巻 P49  栃木県那須烏山市 滝20</p><div class="tweetContainer" id="tweet1396369446877335554"></div> ',
+      tweet_id: '1399890303889203200',
+      description: '<p>2巻 P49  栃木県那須烏山市 滝20</p><div class="tweetContainer" id="tweet1399890303889203200"></div> ',
       location: {
         center: [140.1398144, 36.6455986],
         zoom: 14,
@@ -196,8 +196,8 @@ const config = {
       hidden: false,
       title: '烏山大橋',
       image: '',
-      tweet_id: '',
-      description: '<p>2巻 P60  栃木県那須烏山市 旭二丁目14</p> ',
+      tweet_id: '1398559407013646343',
+      description: '<p>2巻 P60  栃木県那須烏山市 旭二丁目14</p><div class="tweetContainer" id="tweet1398559407013646343"></div> ',
       location: {
         center: [140.1684645, 36.6527173],
         zoom: 14,
