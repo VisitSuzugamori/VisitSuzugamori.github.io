@@ -236,8 +236,8 @@ const config = {
       hidden: false,
       title: '熊野本宮大社',
       image: '',
-      tweet_id: '1397348035475038208',
-      description: '<p>3巻 P82  和歌山県田辺市 本宮町本宮</p><div class="tweetContainer" id="tweet1397348035475038208"></div> ',
+      tweet_id: '',
+      description: '<p>3巻 P82  和歌山県田辺市 本宮町本宮</p> <p><img alt="20201105-1106 Mie+Wakayama 21" src="https://live.staticflickr.com/65535/50725431197_a1a5118936_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=33.8405706&amp;lon=135.7734753&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【20201105-1106 Mie+Wakayama 21】 by BONGURI</p>',
       location: {
         center: [135.7734753, 33.8405706],
         zoom: 14,

@@ -37,7 +37,7 @@ const config = {
       title: '大聖院',
       image: '',
       tweet_id: '',
-      description: '<p>3巻 P8  広島県廿日市市 宮島町滝町215</p> <p><img alt="Daisho-in" src="https://live.staticflickr.com/65535/51089252156_2d919ce88d_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.2920477&amp;lon=132.3184736&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Daisho-in】 by Joerg1975</p>',
+      description: '<p>3巻 P8  広島県廿日市市 宮島町滝町215</p> <p><img alt="Miyajima; Daisho-in" src="https://live.staticflickr.com/65535/51088171451_625fe91ba4_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.2920477&amp;lon=132.3184736&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Miyajima; Daisho-in】 by Meknes2001</p>',
       location: {
         center: [132.3184736, 34.2920477],
         zoom: 14,
