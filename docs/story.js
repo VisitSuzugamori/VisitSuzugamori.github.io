@@ -100,7 +100,7 @@ config.chapters.forEach((record, idx) => {
     chapter.appendChild(story);
   }
 
-  container.setAttribute('id', record.id);
+  container.setAttribute('id', record.id.replace(/[<>"'&]/g, ''));
   container.classList.add('step');
   if (idx === 0) {
     container.classList.add('active');

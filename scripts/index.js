@@ -163,15 +163,15 @@ async function writeConfig(journey, s, j) {
     let part2_item = `${part2_source}\n`;
     part2 += part2_item
       .replace(/###align###/g, getAlignments())
-      .replace(/###journey###/g, u.replaceCharactorEntity4Html(journey))
-      .replace(/###book###/g, u.replaceCharactorEntity4Html(xbook))
-      .replace(/###page###/g, u.replaceCharactorEntity4Html(xpage))
-      .replace(/###name###/g, u.replaceCharactorEntity4Html(point.get('name')))
-      .replace(/###special###/g, u.replaceCharactorEntity4Html(point.get('special')))
-      .replace(/###tweet_id###/g, tweet_id ? u.replaceCharactorEntity4Html(tweet_id) : '')
+      .replace(/###journey###/g, u.replaceCharactorEntity4JsQuote(journey))
+      .replace(/###book###/g, u.replaceCharactorEntity4JsQuote(xbook))
+      .replace(/###page###/g, u.replaceCharactorEntity4JsQuote(xpage))
+      .replace(/###name###/g, u.replaceCharactorEntity4JsQuote(point.get('name')))
+      .replace(/###special###/g, u.replaceCharactorEntity4JsQuote(point.get('special')))
+      .replace(/###tweet_id###/g, tweet_id ? u.replaceCharactorEntity4JsQuote(tweet_id) : '')
       .replace(/###twitter###/g, tweetContainer)
       .replace(/###flickr###/g, flickrContent)
-      .replace(/###address###/g, u.replaceCharactorEntity4Html(address))
+      .replace(/###address###/g, u.replaceCharactorEntity4JsQuote(address))
       .replace(/###coordinates###/g, coordinates.join(', '));
   }
 

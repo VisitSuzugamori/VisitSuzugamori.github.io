@@ -88,6 +88,13 @@ class Common {
     return new Map(Object.entries(obj)).has(prop);
   }
 
+  replaceCharactorEntity4JsQuote(text) {
+    if (typeof text !== 'string' || !text) {
+      return text;
+    }
+    return text.replace(/\\/gm, '\\').replace('\'', '\'');
+  }
+
   replaceCharactorEntity4Html(text) {
     if (typeof text !== 'string' || !text) {
       return text;
