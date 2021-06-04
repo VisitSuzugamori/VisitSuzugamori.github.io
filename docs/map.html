@@ -147,7 +147,7 @@
       .then((data) => {
         const ul = document.querySelector('.navi ul');
         const description = document.querySelector('#placeDescription p');
-        const ignore = new Map([['TJ16-1', true], ['TJ16-2', true], ['TJ17-1', true], ['TJ17-2', true]]);
+        const ignore = new Map([['TJ0', true]]);
         Object.values(data.stories).forEach((val) => {
           if (ignore.has(val.id)) {
             return;

@@ -77,7 +77,7 @@ const config = {
       title: '潮岬灯台',
       image: '',
       tweet_id: '',
-      description: '<p>3巻 P62  和歌山県東牟婁郡 串本町 </p> <p><img alt="Pohled zpátky na pevninu" src="https://live.staticflickr.com/65535/51178871612_be0a4772d2_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=33.4375625&amp;lon=135.7544642&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Pohled zpátky na pevninu】 by SocialHermit</p>',
+      description: '<p>3巻 P62  和歌山県東牟婁郡 串本町 </p> <p><img alt="it was a good day" src="https://live.staticflickr.com/1870/42761121100_46abec0541_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=33.4375625&amp;lon=135.7544642&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【it was a good day】 by k n u l p</p>',
       location: {
         center: [135.7544642, 33.4375625],
         zoom: 14,
