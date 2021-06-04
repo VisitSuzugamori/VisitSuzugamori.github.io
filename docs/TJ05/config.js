@@ -217,7 +217,7 @@ const config = {
       title: '天橋立ビューランド',
       image: '',
       tweet_id: '',
-      description: '<p>2巻 P32  京都府宮津市 文珠1</p> <p><img alt="Amanohashi" src="https://live.staticflickr.com/65535/49331602003_c7724ab7c3_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.5527779&amp;lon=135.1821171&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Amanohashi】 by Ahmed Eather</p>',
+      description: '<p>2巻 P32  京都府宮津市 文珠1</p> <p><img alt="Amanohashidate" src="https://live.staticflickr.com/65535/49990422697_67ecab2351_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.5527779&amp;lon=135.1821171&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Amanohashidate】 by DrunkenAngel48</p>',
       location: {
         center: [135.1821171, 35.5527779],
         zoom: 14,

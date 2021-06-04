@@ -71,10 +71,10 @@ const config = {
       onChapterExit: [],
     },
     {
-      id: '--い&quot;い”い”い”っ',
+      id: '--い"い”い”い”っ',
       alignment: 'right',
       hidden: false,
-      title: 'い&quot;い”い”い”っ',
+      title: 'い"い”い”い”っ',
       image: '',
       tweet_id: '',
       description: '<p>   東京都千代田区 霞が関一丁目1</p> <p><img alt="IMG_6688" src="https://live.staticflickr.com/65535/51097376035_b62ff4a59c_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.6774878&amp;lon=139.7519827&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【IMG_6688】 by tnoma</p>',
