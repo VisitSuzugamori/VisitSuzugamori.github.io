@@ -2,6 +2,16 @@
 <kml xmlns="http://www.opengis.net/kml/2.2">
   <Document>
     <name>コミック登場ポイント</name>
+    <Style id="icon-1899-0288D1-labelson">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+    </Style>
     <Style id="icon-1899-0F9D58-labelson">
       <IconStyle>
         <color>ff589d0f</color>
@@ -45,16 +55,6 @@
     <Style id="icon-1899-E65100-labelson">
       <IconStyle>
         <color>ff0051e6</color>
-        <scale>1</scale>
-        <Icon>
-          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
-        </Icon>
-        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
-      </IconStyle>
-    </Style>
-    <Style id="icon-1899-FBC02D-labelson">
-      <IconStyle>
-        <color>ff2dc0fb</color>
         <scale>1</scale>
         <Icon>
           <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
@@ -314,7 +314,7 @@
     </Placemark>
     <Placemark>
       <name>東京駅</name>
-      <description><![CDATA[1巻P87 第3旅<br>1巻P126 第4旅<br>4巻P93 第14旅<br>4巻P119 第15旅<br>第16旅<br>第17旅<br>第18旅]]></description>
+      <description><![CDATA[1巻P87 第3旅<br>1巻P126 第4旅<br>4巻P93 第14旅<br>4巻P119 第15旅<br>5巻P3 第16旅（前編）<br>5巻P60 第17旅（前編）<br>5巻P136 第18旅<br>第19旅（前編）]]></description>
       <styleUrl>#icon-1899-A52714-labelson</styleUrl>
       <Point>
         <coordinates>
@@ -2224,7 +2224,7 @@
     </Placemark>
     <Placemark>
       <name>偕楽園・常磐神社前</name>
-      <description>第16旅</description>
+      <description>5巻P4 第16旅（前編）</description>
       <styleUrl>#icon-1899-0F9D58-labelson</styleUrl>
       <Point>
         <coordinates>
@@ -2234,7 +2234,7 @@
     </Placemark>
     <Placemark>
       <name>水戸駅</name>
-      <description>第16旅</description>
+      <description>5巻P7 第16旅（前編）</description>
       <styleUrl>#icon-1899-0F9D58-labelson</styleUrl>
       <Point>
         <coordinates>
@@ -2244,7 +2244,7 @@
     </Placemark>
     <Placemark>
       <name>水戸の納豆記念碑</name>
-      <description>第16旅</description>
+      <description>5巻P9 第16旅（前編）</description>
       <styleUrl>#icon-1899-0F9D58-labelson</styleUrl>
       <Point>
         <coordinates>
@@ -2254,7 +2254,7 @@
     </Placemark>
     <Placemark>
       <name>偕楽園</name>
-      <description><![CDATA[第16旅<br>季節を狙って行ってみよう！]]></description>
+      <description><![CDATA[5巻P11 第16旅（前編）<br>季節を狙って行ってみよう！]]></description>
       <styleUrl>#icon-1899-0F9D58-labelson</styleUrl>
       <Point>
         <coordinates>
@@ -2264,7 +2264,7 @@
     </Placemark>
     <Placemark>
       <name>常陸太田駅</name>
-      <description>第16旅</description>
+      <description>5巻P12 第16旅（前編）</description>
       <styleUrl>#icon-1899-0F9D58-labelson</styleUrl>
       <Point>
         <coordinates>
@@ -2274,7 +2274,7 @@
     </Placemark>
     <Placemark>
       <name>常陸太田市観光案内センター</name>
-      <description>第16旅</description>
+      <description>5巻P12 第16旅（前編）</description>
       <styleUrl>#icon-1899-0F9D58-labelson</styleUrl>
       <Point>
         <coordinates>
@@ -2284,7 +2284,7 @@
     </Placemark>
     <Placemark>
       <name>木崎坂</name>
-      <description>第16旅</description>
+      <description>5巻P14 第16旅（前編）</description>
       <styleUrl>#icon-1899-0F9D58-labelson</styleUrl>
       <Point>
         <coordinates>
@@ -2294,7 +2294,7 @@
     </Placemark>
     <Placemark>
       <name>常陸太田市郷土資料館</name>
-      <description>第16旅</description>
+      <description>5巻P14 第16旅（前編）</description>
       <styleUrl>#icon-1899-0F9D58-labelson</styleUrl>
       <Point>
         <coordinates>
@@ -2304,7 +2304,7 @@
     </Placemark>
     <Placemark>
       <name>東通り商店街</name>
-      <description>第16旅</description>
+      <description>5巻P14 第16旅（前編）</description>
       <styleUrl>#icon-1899-0F9D58-labelson</styleUrl>
       <Point>
         <coordinates>
@@ -2314,7 +2314,7 @@
     </Placemark>
     <Placemark>
       <name>黒澤輪業</name>
-      <description>第16旅</description>
+      <description>5巻P14 第16旅（前編）</description>
       <styleUrl>#icon-1899-0F9D58-labelson</styleUrl>
       <Point>
         <coordinates>
@@ -2324,7 +2324,7 @@
     </Placemark>
     <Placemark>
       <name>若宮八幡宮</name>
-      <description>第16旅</description>
+      <description>5巻P15 第16旅（前編）</description>
       <styleUrl>#icon-1899-0F9D58-labelson</styleUrl>
       <Point>
         <coordinates>
@@ -2334,7 +2334,7 @@
     </Placemark>
     <Placemark>
       <name>いづみや本店</name>
-      <description>第16旅</description>
+      <description>5巻P16 第16旅（前編）</description>
       <styleUrl>#icon-1899-0F9D58-labelson</styleUrl>
       <Point>
         <coordinates>
@@ -2343,8 +2343,18 @@
       </Point>
     </Placemark>
     <Placemark>
+      <name>セイコーマート まいづる店</name>
+      <description>5巻P16 第16旅（前編）</description>
+      <styleUrl>#icon-1899-0F9D58-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          140.5305212,36.5511386,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
       <name>いづみや東バイパス店</name>
-      <description>第16旅</description>
+      <description>5巻P17 第16旅（前編）</description>
       <styleUrl>#icon-1899-0F9D58-labelson</styleUrl>
       <Point>
         <coordinates>
@@ -2354,7 +2364,7 @@
     </Placemark>
     <Placemark>
       <name>中野屋旅館</name>
-      <description>第16旅</description>
+      <description>5巻P19 第16旅（前編）</description>
       <styleUrl>#icon-1899-0F9D58-labelson</styleUrl>
       <Point>
         <coordinates>
@@ -2364,7 +2374,7 @@
     </Placemark>
     <Placemark>
       <name>セブン-イレブン 日立下深荻町店</name>
-      <description>第16旅</description>
+      <description>5巻P28 第16旅（前編）</description>
       <styleUrl>#icon-1899-0F9D58-labelson</styleUrl>
       <Point>
         <coordinates>
@@ -2373,8 +2383,18 @@
       </Point>
     </Placemark>
     <Placemark>
+      <name>釜平</name>
+      <description>5巻P29 第16旅（前編）</description>
+      <styleUrl>#icon-1899-0F9D58-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          140.523225,36.538385,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
       <name>薩都神社中宮</name>
-      <description>第16旅</description>
+      <description>5巻P32 第16旅（後編）</description>
       <styleUrl>#icon-1899-0F9D58-labelson</styleUrl>
       <Point>
         <coordinates>
@@ -2384,7 +2404,7 @@
     </Placemark>
     <Placemark>
       <name>御岩神社</name>
-      <description>第16旅</description>
+      <description>5巻P36 第16旅（後編）</description>
       <styleUrl>#icon-1899-0F9D58-labelson</styleUrl>
       <Point>
         <coordinates>
@@ -2394,7 +2414,7 @@
     </Placemark>
     <Placemark>
       <name>賀毗禮神宮</name>
-      <description>第16旅</description>
+      <description>5巻P40 第16旅（後編）</description>
       <styleUrl>#icon-1899-0F9D58-labelson</styleUrl>
       <Point>
         <coordinates>
@@ -2404,7 +2424,7 @@
     </Placemark>
     <Placemark>
       <name>御岩山</name>
-      <description>第16旅</description>
+      <description>5巻P46 第16旅（後編）</description>
       <styleUrl>#icon-1899-0F9D58-labelson</styleUrl>
       <Point>
         <coordinates>
@@ -2414,7 +2434,7 @@
     </Placemark>
     <Placemark>
       <name>日立駅</name>
-      <description>第16旅</description>
+      <description>5巻P51 第16旅（後編）</description>
       <styleUrl>#icon-1899-0F9D58-labelson</styleUrl>
       <Point>
         <coordinates>
@@ -2424,7 +2444,7 @@
     </Placemark>
     <Placemark>
       <name>山文魚</name>
-      <description>第16旅</description>
+      <description>5巻P52 第16旅（後編）</description>
       <styleUrl>#icon-1899-0F9D58-labelson</styleUrl>
       <Point>
         <coordinates>
@@ -2434,7 +2454,7 @@
     </Placemark>
     <Placemark>
       <name>津神社</name>
-      <description>第16旅</description>
+      <description>5巻P53 第16旅（後編）</description>
       <styleUrl>#icon-1899-0F9D58-labelson</styleUrl>
       <Point>
         <coordinates>
@@ -2444,7 +2464,7 @@
     </Placemark>
     <Placemark>
       <name>小倉駅</name>
-      <description>第17旅</description>
+      <description>5巻P61 第17旅（前編）</description>
       <styleUrl>#icon-1899-0F9D58-labelson</styleUrl>
       <Point>
         <coordinates>
@@ -2454,7 +2474,7 @@
     </Placemark>
     <Placemark>
       <name>バジェット･レンタカー 小倉駅前店</name>
-      <description>第17旅</description>
+      <description>5巻P62 第17旅（前編）</description>
       <styleUrl>#icon-1899-0F9D58-labelson</styleUrl>
       <Point>
         <coordinates>
@@ -2464,7 +2484,7 @@
     </Placemark>
     <Placemark>
       <name>耶馬溪</name>
-      <description>第17旅</description>
+      <description>5巻P66 第17旅（前編）</description>
       <styleUrl>#icon-1899-0F9D58-labelson</styleUrl>
       <Point>
         <coordinates>
@@ -2474,7 +2494,7 @@
     </Placemark>
     <Placemark>
       <name>青の洞門</name>
-      <description>第17旅</description>
+      <description>5巻P68 第17旅（前編）</description>
       <styleUrl>#icon-1899-0F9D58-labelson</styleUrl>
       <Point>
         <coordinates>
@@ -2484,7 +2504,7 @@
     </Placemark>
     <Placemark>
       <name>楓乃木</name>
-      <description>第17旅</description>
+      <description>5巻P71 第17旅（前編）</description>
       <styleUrl>#icon-1899-0F9D58-labelson</styleUrl>
       <Point>
         <coordinates>
@@ -2494,7 +2514,7 @@
     </Placemark>
     <Placemark>
       <name>川底第一トンネル</name>
-      <description>第17旅</description>
+      <description>5巻P83 第17旅（前編）</description>
       <styleUrl>#icon-1899-0F9D58-labelson</styleUrl>
       <Point>
         <coordinates>
@@ -2503,18 +2523,8 @@
       </Point>
     </Placemark>
     <Placemark>
-      <name>宇佐のマチュピチュ展望所</name>
-      <description>第17旅</description>
-      <styleUrl>#icon-1899-0F9D58-labelson</styleUrl>
-      <Point>
-        <coordinates>
-          131.2675881,33.3744345,0
-        </coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
       <name>田舎食堂いいとこ焙（ばい）</name>
-      <description>第17旅</description>
+      <description>5巻P84 第17旅（前編）</description>
       <styleUrl>#icon-1899-0F9D58-labelson</styleUrl>
       <Point>
         <coordinates>
@@ -2523,9 +2533,29 @@
       </Point>
     </Placemark>
     <Placemark>
+      <name>宇佐のマチュピチュ展望所</name>
+      <description>5巻P86 第17旅（前編）</description>
+      <styleUrl>#icon-1899-0F9D58-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          131.2675881,33.3744345,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>一目八景展望台</name>
+      <description>5巻P89 第17旅（前編）</description>
+      <styleUrl>#icon-1899-0F9D58-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          131.1651069,33.3718603,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
       <name>国道500号線
 </name>
-      <description>第17旅</description>
+      <description>5巻P102 第17旅（後編）</description>
       <styleUrl>#icon-1899-0F9D58-labelson</styleUrl>
       <Point>
         <coordinates>
@@ -2535,7 +2565,7 @@
     </Placemark>
     <Placemark>
       <name>両子寺 仁王</name>
-      <description>第17旅</description>
+      <description>5巻P104 第17旅（後編）</description>
       <styleUrl>#icon-1899-0F9D58-labelson</styleUrl>
       <Point>
         <coordinates>
@@ -2545,7 +2575,7 @@
     </Placemark>
     <Placemark>
       <name>両子寺</name>
-      <description>第17旅</description>
+      <description>5巻P105 第17旅（後編）</description>
       <styleUrl>#icon-1899-0F9D58-labelson</styleUrl>
       <Point>
         <coordinates>
@@ -2555,7 +2585,7 @@
     </Placemark>
     <Placemark>
       <name>USA（宇佐）神宮</name>
-      <description><![CDATA[第17旅<br>5巻表紙]]></description>
+      <description><![CDATA[5巻P108 第17旅（後編）<br>5巻表紙]]></description>
       <styleUrl>#icon-1899-0F9D58-labelson</styleUrl>
       <Point>
         <coordinates>
@@ -2564,9 +2594,19 @@
       </Point>
     </Placemark>
     <Placemark>
+      <name>宇佐参宮線26号蒸気機関車</name>
+      <description>5巻P117 第17旅（後編）</description>
+      <styleUrl>#icon-1899-0F9D58-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          131.3750797,33.5279086,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
       <name>新丸の内ビルディング</name>
-      <description>第18旅</description>
-      <styleUrl>#icon-1899-FBC02D-labelson</styleUrl>
+      <description>5巻P137 第18旅</description>
+      <styleUrl>#icon-1899-0F9D58-labelson</styleUrl>
       <Point>
         <coordinates>
           139.7642436,35.6826212,0
@@ -2575,8 +2615,8 @@
     </Placemark>
     <Placemark>
       <name>丸の内ビルディング</name>
-      <description>第18旅</description>
-      <styleUrl>#icon-1899-FBC02D-labelson</styleUrl>
+      <description>5巻P137 第18旅</description>
+      <styleUrl>#icon-1899-0F9D58-labelson</styleUrl>
       <Point>
         <coordinates>
           139.7638027,35.6810403,0
@@ -2585,8 +2625,8 @@
     </Placemark>
     <Placemark>
       <name>皇居の石垣</name>
-      <description>第18旅</description>
-      <styleUrl>#icon-1899-FBC02D-labelson</styleUrl>
+      <description>5巻P138 第18旅</description>
+      <styleUrl>#icon-1899-0F9D58-labelson</styleUrl>
       <Point>
         <coordinates>
           139.7611857,35.6820643,0
@@ -2595,8 +2635,8 @@
     </Placemark>
     <Placemark>
       <name>皇居の石垣 その2</name>
-      <description>第18旅</description>
-      <styleUrl>#icon-1899-FBC02D-labelson</styleUrl>
+      <description>5巻P139 第18旅</description>
+      <styleUrl>#icon-1899-0F9D58-labelson</styleUrl>
       <Point>
         <coordinates>
           139.7578048,35.6827442,0
@@ -2605,8 +2645,8 @@
     </Placemark>
     <Placemark>
       <name>二重橋</name>
-      <description>第18旅</description>
-      <styleUrl>#icon-1899-FBC02D-labelson</styleUrl>
+      <description>5巻P139 第18旅</description>
+      <styleUrl>#icon-1899-0F9D58-labelson</styleUrl>
       <Point>
         <coordinates>
           139.7535982,35.680215,0
@@ -2615,8 +2655,8 @@
     </Placemark>
     <Placemark>
       <name>桜田門</name>
-      <description>第18旅</description>
-      <styleUrl>#icon-1899-FBC02D-labelson</styleUrl>
+      <description>5巻P139 第18旅</description>
+      <styleUrl>#icon-1899-0F9D58-labelson</styleUrl>
       <Point>
         <coordinates>
           139.7536378,35.6785028,0
@@ -2625,8 +2665,8 @@
     </Placemark>
     <Placemark>
       <name>警視庁本部</name>
-      <description>第18旅</description>
-      <styleUrl>#icon-1899-FBC02D-labelson</styleUrl>
+      <description>5巻P140 第18旅</description>
+      <styleUrl>#icon-1899-0F9D58-labelson</styleUrl>
       <Point>
         <coordinates>
           139.7524627,35.6771258,0
@@ -2635,8 +2675,8 @@
     </Placemark>
     <Placemark>
       <name>国会議事堂</name>
-      <description>第18旅</description>
-      <styleUrl>#icon-1899-FBC02D-labelson</styleUrl>
+      <description>5巻P140 第18旅</description>
+      <styleUrl>#icon-1899-0F9D58-labelson</styleUrl>
       <Point>
         <coordinates>
           139.744858,35.675888,0
@@ -2645,8 +2685,8 @@
     </Placemark>
     <Placemark>
       <name>国立国会図書館</name>
-      <description>第18旅</description>
-      <styleUrl>#icon-1899-FBC02D-labelson</styleUrl>
+      <description>5巻P141 第18旅</description>
+      <styleUrl>#icon-1899-0F9D58-labelson</styleUrl>
       <Point>
         <coordinates>
           139.7442197,35.6784667,0
@@ -2655,8 +2695,8 @@
     </Placemark>
     <Placemark>
       <name>都道405号線（外堀通り）</name>
-      <description>第18旅</description>
-      <styleUrl>#icon-1899-FBC02D-labelson</styleUrl>
+      <description>5巻P141 第18旅</description>
+      <styleUrl>#icon-1899-0F9D58-labelson</styleUrl>
       <Point>
         <coordinates>
           139.7365574,35.6779568,0
@@ -2665,8 +2705,8 @@
     </Placemark>
     <Placemark>
       <name>弁慶橋</name>
-      <description>第18旅</description>
-      <styleUrl>#icon-1899-FBC02D-labelson</styleUrl>
+      <description>5巻P141 第18旅</description>
+      <styleUrl>#icon-1899-0F9D58-labelson</styleUrl>
       <Point>
         <coordinates>
           139.7362698,35.6788421,0
@@ -2675,8 +2715,8 @@
     </Placemark>
     <Placemark>
       <name>千駄ヶ谷駅</name>
-      <description>第18旅</description>
-      <styleUrl>#icon-1899-FBC02D-labelson</styleUrl>
+      <description>5巻P142 第18旅</description>
+      <styleUrl>#icon-1899-0F9D58-labelson</styleUrl>
       <Point>
         <coordinates>
           139.7112822,35.6810999,0
@@ -2685,8 +2725,8 @@
     </Placemark>
     <Placemark>
       <name>北参道 鳥居</name>
-      <description>第18旅</description>
-      <styleUrl>#icon-1899-FBC02D-labelson</styleUrl>
+      <description>5巻P142 第18旅</description>
+      <styleUrl>#icon-1899-0F9D58-labelson</styleUrl>
       <Point>
         <coordinates>
           139.7021198,35.6789816,0
@@ -2695,8 +2735,8 @@
     </Placemark>
     <Placemark>
       <name>南神門</name>
-      <description>第18旅</description>
-      <styleUrl>#icon-1899-FBC02D-labelson</styleUrl>
+      <description>5巻P143 第18旅</description>
+      <styleUrl>#icon-1899-0F9D58-labelson</styleUrl>
       <Point>
         <coordinates>
           139.6994609,35.6754141,0
@@ -2705,8 +2745,8 @@
     </Placemark>
     <Placemark>
       <name>東京乗馬倶楽部</name>
-      <description>第18旅</description>
-      <styleUrl>#icon-1899-FBC02D-labelson</styleUrl>
+      <description>5巻P144 第18旅</description>
+      <styleUrl>#icon-1899-0F9D58-labelson</styleUrl>
       <Point>
         <coordinates>
           139.694663,35.6791113,0
@@ -2715,8 +2755,8 @@
     </Placemark>
     <Placemark>
       <name>大都会味ある</name>
-      <description>第18旅</description>
-      <styleUrl>#icon-1899-FBC02D-labelson</styleUrl>
+      <description>5巻P144 第18旅</description>
+      <styleUrl>#icon-1899-0F9D58-labelson</styleUrl>
       <Point>
         <coordinates>
           139.690806,35.6839315,0
@@ -2725,8 +2765,8 @@
     </Placemark>
     <Placemark>
       <name>東京都庁</name>
-      <description>第18旅</description>
-      <styleUrl>#icon-1899-FBC02D-labelson</styleUrl>
+      <description>5巻P145 第18旅</description>
+      <styleUrl>#icon-1899-0F9D58-labelson</styleUrl>
       <Point>
         <coordinates>
           139.6921007,35.6896342,0
@@ -2736,8 +2776,8 @@
     <Placemark>
       <name>なんだこれ？
 </name>
-      <description>第18旅</description>
-      <styleUrl>#icon-1899-FBC02D-labelson</styleUrl>
+      <description>5巻P145 第18旅</description>
+      <styleUrl>#icon-1899-0F9D58-labelson</styleUrl>
       <Point>
         <coordinates>
           139.6915634,35.6886568,0
@@ -2746,8 +2786,8 @@
     </Placemark>
     <Placemark>
       <name>都庁からさらに西へ・・・</name>
-      <description>第18旅</description>
-      <styleUrl>#icon-1899-FBC02D-labelson</styleUrl>
+      <description>5巻P146 第18旅</description>
+      <styleUrl>#icon-1899-0F9D58-labelson</styleUrl>
       <Point>
         <coordinates>
           139.6830083,35.6891142,0
@@ -2756,8 +2796,8 @@
     </Placemark>
     <Placemark>
       <name>清水橋跡</name>
-      <description>第18旅</description>
-      <styleUrl>#icon-1899-FBC02D-labelson</styleUrl>
+      <description>5巻P147 第18旅</description>
+      <styleUrl>#icon-1899-0F9D58-labelson</styleUrl>
       <Point>
         <coordinates>
           139.6826981,35.6888069,0
@@ -2766,8 +2806,8 @@
     </Placemark>
     <Placemark>
       <name>二軒家橋跡</name>
-      <description>第18旅</description>
-      <styleUrl>#icon-1899-FBC02D-labelson</styleUrl>
+      <description>5巻P147 第18旅</description>
+      <styleUrl>#icon-1899-0F9D58-labelson</styleUrl>
       <Point>
         <coordinates>
           139.6810693,35.6879053,0
@@ -2776,8 +2816,8 @@
     </Placemark>
     <Placemark>
       <name>村木橋跡</name>
-      <description>第18旅</description>
-      <styleUrl>#icon-1899-FBC02D-labelson</styleUrl>
+      <description>5巻P148 第18旅</description>
+      <styleUrl>#icon-1899-0F9D58-labelson</styleUrl>
       <Point>
         <coordinates>
           139.6801748,35.6870137,0
@@ -2786,8 +2826,8 @@
     </Placemark>
     <Placemark>
       <name>杉並区立玉川上水公園</name>
-      <description>第18旅</description>
-      <styleUrl>#icon-1899-FBC02D-labelson</styleUrl>
+      <description>5巻P149 第18旅</description>
+      <styleUrl>#icon-1899-0F9D58-labelson</styleUrl>
       <Point>
         <coordinates>
           139.651149,35.6713219,0
@@ -2796,8 +2836,8 @@
     </Placemark>
     <Placemark>
       <name>普通の街という感じ・・・</name>
-      <description>第18旅</description>
-      <styleUrl>#icon-1899-FBC02D-labelson</styleUrl>
+      <description>5巻P150 第18旅</description>
+      <styleUrl>#icon-1899-0F9D58-labelson</styleUrl>
       <Point>
         <coordinates>
           139.6478716,35.6731172,0
@@ -2806,11 +2846,52 @@
     </Placemark>
     <Placemark>
       <name>井の頭恩賜公園</name>
-      <description>第18旅</description>
-      <styleUrl>#icon-1899-FBC02D-labelson</styleUrl>
+      <description>5巻P150 第18旅</description>
+      <styleUrl>#icon-1899-0F9D58-labelson</styleUrl>
       <Point>
         <coordinates>
           139.5760343,35.7001082,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>東京山手急行電鉄跡</name>
+      <description>5巻P157 第18旅</description>
+      <styleUrl>#icon-1899-0F9D58-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          139.6499358,35.6712084,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>さくらだもんっ</name>
+      <description>第19旅（前編）</description>
+      <styleUrl>#icon-1899-0288D1-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          139.7199399,35.6218588,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>道路多いっ
+</name>
+      <description>第19旅（前編）</description>
+      <styleUrl>#icon-1899-0288D1-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          139.7392918,35.6674381,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[い"い”い”い”っ]]></name>
+      <description>第19旅（前編）</description>
+      <styleUrl>#icon-1899-0288D1-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          139.7519827,35.6774878,0
         </coordinates>
       </Point>
     </Placemark>
