@@ -76,8 +76,8 @@ const config = {
       hidden: false,
       title: '呉駅',
       image: '',
-      tweet_id: '',
-      description: '<p>3巻 P11  広島県呉市 宝町2</p> <p><img alt="kure_20200101180133" src="https://live.staticflickr.com/65535/50278725777_dddb02867b_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.2446471&amp;lon=132.5575846&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【kure_20200101180133】 by inunami</p>',
+      tweet_id: '1401106873584021509',
+      description: '<p>3巻 P11  広島県呉市 宝町2</p><div class="tweetContainer" id="tweet1401106873584021509"></div> ',
       location: {
         center: [132.5575846, 34.2446471],
         zoom: 14,
@@ -237,7 +237,7 @@ const config = {
       title: '尾道ラーメン日乃出食堂',
       image: '',
       tweet_id: '',
-      description: '<p>3巻 P25  広島県尾道市 土堂一丁目11</p> <p><img alt="A walk in Onomichi" src="https://live.staticflickr.com/65535/51165181433_8bd5d1f78c_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.4058259&amp;lon=133.1960287&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【A walk in Onomichi】 by Blue Ridge Walker</p>',
+      description: '<p>3巻 P25  広島県尾道市 土堂一丁目11</p> <p><img alt="A walk in Onomichi" src="https://live.staticflickr.com/65535/51165181348_44d6b743d7_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.4058259&amp;lon=133.1960287&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【A walk in Onomichi】 by Blue Ridge Walker</p>',
       location: {
         center: [133.1960287, 34.4058259],
         zoom: 14,

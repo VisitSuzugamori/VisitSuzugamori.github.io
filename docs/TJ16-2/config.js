@@ -76,8 +76,8 @@ const config = {
       hidden: false,
       title: '御岩山',
       image: '',
-      tweet_id: '',
-      description: '<p>5巻 P46  茨城県日立市 </p> ',
+      tweet_id: '1401028296888836097',
+      description: '<p>5巻 P46  茨城県日立市 </p><div class="tweetContainer" id="tweet1401028296888836097"></div> ',
       location: {
         center: [140.5934666, 36.6325788],
         zoom: 14,
