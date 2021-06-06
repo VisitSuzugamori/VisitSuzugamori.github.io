@@ -1,9 +1,9 @@
 'use strict';
 
-const { TwitterApi } = require('./twitter.js');
-const { FlickrApi } = require('./flickr.js');
-const { AginfoApi } = require('./aginfo.js');
-const { MapboxMtsApi } = require('./mapbox_mts.js');
+const { TwitterApi } = require('./api/twitter.js');
+const { FlickrApi } = require('./api/flickr.js');
+const { AginfoApi } = require('./api/aginfo.js');
+const { MapboxMtsApi } = require('./api/mapbox_mts.js');
 const u = require('./common.js');
 // eslint-disable-next-line node/no-unpublished-require
 const secret = require('../my_secret.json');

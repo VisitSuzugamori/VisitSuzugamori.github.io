@@ -1,6 +1,6 @@
 const mbxTilesets = require('@mapbox/mapbox-sdk/services/tilesets');
 const mbxUploads = require('@mapbox/mapbox-sdk/services/uploads');
-const u = require('./common.js');
+const u = require('../common.js');
 
 class MapboxMtsApi {
   constructor(config) {

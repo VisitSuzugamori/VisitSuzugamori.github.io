@@ -1,6 +1,6 @@
 const got = require('got');
 const querystring = require('querystring');
-const u = require('./common.js');
+const u = require('../common.js');
 
 class FlickrApi {
   constructor(config) {

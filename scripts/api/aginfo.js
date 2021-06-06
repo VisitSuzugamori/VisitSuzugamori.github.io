@@ -1,5 +1,5 @@
 const got = require('got');
-const u = require('./common.js');
+const u = require('../common.js');
 
 class AginfoApi {
   constructor() {

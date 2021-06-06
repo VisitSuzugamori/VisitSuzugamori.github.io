@@ -3,9 +3,9 @@
 const fs = require('fs').promises;
 const path = require('path');
 const { DOMParser } = require('xmldom');
-const { TwitterApi } = require('./twitter.js');
-const { FlickrApi } = require('./flickr.js');
-const { AginfoApi } = require('./aginfo.js');
+const { TwitterApi } = require('./api/twitter.js');
+const { FlickrApi } = require('./api/flickr.js');
+const { AginfoApi } = require('./api/aginfo.js');
 const u = require('./common.js');
 
 // eslint-disable-next-line node/no-unpublished-require

@@ -1,6 +1,6 @@
 'use strict';
 
-const { TwitterApi } = require('./twitter.js');
+const { TwitterApi } = require('./api/twitter.js');
 const u = require('./common.js');
 // eslint-disable-next-line node/no-unpublished-require
 const secret = require('../my_secret.json');
