@@ -16,8 +16,8 @@ const config = {
       hidden: false,
       title: '東京駅',
       image: '',
-      tweet_id: '1400599972072988672',
-      description: '<p>1巻 P126  東京都千代田区 丸の内一丁目9</p><div class="tweetContainer" id="tweet1400599972072988672"></div> ',
+      tweet_id: '1402032180524576769',
+      description: '<p>1巻 P126  東京都千代田区 丸の内一丁目9</p><div class="tweetContainer" id="tweet1402032180524576769"></div> ',
       location: {
         center: [139.7671248, 35.6812362],
         zoom: 14,
@@ -36,8 +36,8 @@ const config = {
       hidden: false,
       title: '岡山駅',
       image: '',
-      tweet_id: '1399537763435782145',
-      description: '<p>1巻 P130  岡山県岡山市 北区 駅元町11</p><div class="tweetContainer" id="tweet1399537763435782145"></div> ',
+      tweet_id: '1402741881176571917',
+      description: '<p>1巻 P130  岡山県岡山市 北区 駅元町11</p><div class="tweetContainer" id="tweet1402741881176571917"></div> ',
       location: {
         center: [133.9177335, 34.6661212],
         zoom: 14,
@@ -56,8 +56,8 @@ const config = {
       hidden: false,
       title: '高松駅',
       image: '',
-      tweet_id: '1398613508279963648',
-      description: '<p>1巻 P131  香川県高松市 西の丸町2</p><div class="tweetContainer" id="tweet1398613508279963648"></div> ',
+      tweet_id: '1401446873710297090',
+      description: '<p>1巻 P131  香川県高松市 西の丸町2</p><div class="tweetContainer" id="tweet1401446873710297090"></div> ',
       location: {
         center: [134.047056, 34.3504507],
         zoom: 14,
@@ -76,8 +76,8 @@ const config = {
       hidden: false,
       title: '高松築港駅',
       image: '',
-      tweet_id: '1398941397319835652',
-      description: '<p>1巻 P132  香川県高松市 寿町一丁目5</p><div class="tweetContainer" id="tweet1398941397319835652"></div> ',
+      tweet_id: '',
+      description: '<p>1巻 P132  香川県高松市 寿町一丁目5</p> <p><img alt="No matter how far we are, we are friends" src="https://live.staticflickr.com/65535/51202354199_76d7a4b9c9_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.350757&amp;lon=134.049468&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【No matter how far we are, we are friends】 by kelvinho1019</p>',
       location: {
         center: [134.049468, 34.350757],
         zoom: 14,
@@ -136,8 +136,8 @@ const config = {
       hidden: false,
       title: 'うどん本陣 山田家',
       image: '',
-      tweet_id: '1398893133790945281',
-      description: '<p>1巻 P134  香川県高松市 牟礼町牟礼3128</p><div class="tweetContainer" id="tweet1398893133790945281"></div> ',
+      tweet_id: '1402919984985260040',
+      description: '<p>1巻 P134  香川県高松市 牟礼町牟礼3128</p><div class="tweetContainer" id="tweet1402919984985260040"></div> ',
       location: {
         center: [134.1296254, 34.3532536],
         zoom: 14,
@@ -156,8 +156,8 @@ const config = {
       hidden: false,
       title: '八栗ケーブル',
       image: '',
-      tweet_id: '1398883731604131841',
-      description: '<p>1巻 P142  香川県高松市 牟礼町牟礼3369</p><div class="tweetContainer" id="tweet1398883731604131841"></div> ',
+      tweet_id: '',
+      description: '<p>1巻 P142  香川県高松市 牟礼町牟礼3369</p> <p><img alt="DSC05057.JPG" src="https://live.staticflickr.com/5027/5676973164_2f8a3c1952_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.3551328&amp;lon=134.1336543&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【DSC05057.JPG】 by t.nanba</p>',
       location: {
         center: [134.1336543, 34.3551328],
         zoom: 14,
@@ -177,7 +177,7 @@ const config = {
       title: '八栗寺',
       image: '',
       tweet_id: '',
-      description: '<p>1巻 P143  香川県高松市 牟礼町牟礼3416</p> <p><img alt="85" src="https://live.staticflickr.com/65535/50059366527_288c32e724_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.3599067&amp;lon=134.1398791&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【85】 by aldoschwartz01</p>',
+      description: '<p>1巻 P143  香川県高松市 牟礼町牟礼3416</p> <p><img alt="八十五番札所 八栗寺" src="https://live.staticflickr.com/65535/50384303247_eb791b7d3d_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.3599067&amp;lon=134.1398791&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【八十五番札所 八栗寺】 by JH1FJP</p>',
       location: {
         center: [134.1398791, 34.3599067],
         zoom: 14,
@@ -217,7 +217,7 @@ const config = {
       title: '玉藻公園',
       image: '',
       tweet_id: '',
-      description: '<p>1巻 P150  香川県高松市 玉藻町2</p> <p><img alt="No matter how far we are, we are friends" src="https://live.staticflickr.com/65535/51202354199_76d7a4b9c9_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.3503157&amp;lon=134.0516188&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【No matter how far we are, we are friends】 by kelvinho1019</p>',
+      description: '<p>1巻 P150  香川県高松市 玉藻町2</p> <p><img alt="2019 瀨戶內國際藝術祭-玉藻公園, Study 1" src="https://live.staticflickr.com/65535/49764929637_c7489a91e1_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.3503157&amp;lon=134.0516188&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【2019 瀨戶內國際藝術祭-玉藻公園, Study 1】 by Zale Yu</p>',
       location: {
         center: [134.0516188, 34.3503157],
         zoom: 14,

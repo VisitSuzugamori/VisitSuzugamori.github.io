@@ -37,7 +37,7 @@ const config = {
       title: '総合体育館前（バス）',
       image: '',
       tweet_id: '',
-      description: '<p>4巻 P9  島根県松江市 学園南二丁目5</p> <p><img alt="寒くても鳥たちは元気。" src="https://live.staticflickr.com/7211/6940758608_5f15e332cd_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.4731536&amp;lon=133.0660854&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【寒くても鳥たちは元気。】 by Nagatani Jungo</p>',
+      description: '<p>4巻 P9  島根県松江市 学園南二丁目5</p> <p><img alt="C56131 松江市北公園" src="https://live.staticflickr.com/5585/15117064830_54b2dcc3f0_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.4731536&amp;lon=133.0660854&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【C56131 松江市北公園】 by OOMYV</p>',
       location: {
         center: [133.0660854, 35.4731536],
         zoom: 14,
@@ -116,8 +116,8 @@ const config = {
       hidden: false,
       title: '美保神社',
       image: '',
-      tweet_id: '',
-      description: '<p>4巻 P14  島根県松江市 美保関町美保関</p> <p><img alt="Algenblüte" src="https://live.staticflickr.com/7802/32132141527_757cb04645_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.5623182&amp;lon=133.3062224&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Algenblüte】 by hapePHOTOGRAPHIX</p>',
+      tweet_id: '1401553937082195970',
+      description: '<p>4巻 P14  島根県松江市 美保関町美保関</p><div class="tweetContainer" id="tweet1401553937082195970"></div> ',
       location: {
         center: [133.3062224, 35.5623182],
         zoom: 14,
