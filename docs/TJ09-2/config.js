@@ -76,8 +76,8 @@ const config = {
       hidden: false,
       title: '呉駅',
       image: '',
-      tweet_id: '1401106873584021509',
-      description: '<p>3巻 P11  広島県呉市 宝町2</p><div class="tweetContainer" id="tweet1401106873584021509"></div> ',
+      tweet_id: '',
+      description: '<p>3巻 P11  広島県呉市 宝町2</p> <p><img alt="kure_20200101180440" src="https://live.staticflickr.com/65535/50277894228_0f240e46e4_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.2446471&amp;lon=132.5575846&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【kure_20200101180440】 by inunami</p>',
       location: {
         center: [132.5575846, 34.2446471],
         zoom: 14,
@@ -176,8 +176,8 @@ const config = {
       hidden: false,
       title: '尾道駅',
       image: '',
-      tweet_id: '',
-      description: '<p>3巻 P19  広島県尾道市 東御所町1</p> <p><img alt="A walk in Onomichi" src="https://live.staticflickr.com/65535/51164275737_0d831eae9c_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.4048654&amp;lon=133.193159&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【A walk in Onomichi】 by Blue Ridge Walker</p>',
+      tweet_id: '1403998175577346051',
+      description: '<p>3巻 P19  広島県尾道市 東御所町1</p><div class="tweetContainer" id="tweet1403998175577346051"></div> ',
       location: {
         center: [133.193159, 34.4048654],
         zoom: 14,
@@ -236,8 +236,8 @@ const config = {
       hidden: false,
       title: '尾道ラーメン日乃出食堂',
       image: '',
-      tweet_id: '',
-      description: '<p>3巻 P25  広島県尾道市 土堂一丁目11</p> <p><img alt="A walk in Onomichi" src="https://live.staticflickr.com/65535/51165181433_8bd5d1f78c_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.4058259&amp;lon=133.1960287&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【A walk in Onomichi】 by Blue Ridge Walker</p>',
+      tweet_id: '1403904863659044868',
+      description: '<p>3巻 P25  広島県尾道市 土堂一丁目11</p><div class="tweetContainer" id="tweet1403904863659044868"></div> ',
       location: {
         center: [133.1960287, 34.4058259],
         zoom: 14,
