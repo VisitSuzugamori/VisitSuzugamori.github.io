@@ -216,8 +216,8 @@ const config = {
       hidden: false,
       title: 'もり食堂',
       image: '',
-      tweet_id: '',
-      description: '<p>2巻 P62  栃木県那須烏山市 </p> ',
+      tweet_id: '1403584923437391875',
+      description: '<p>2巻 P62  栃木県那須烏山市 </p><div class="tweetContainer" id="tweet1403584923437391875"></div> ',
       location: {
         center: [140.1852927, 36.649359],
         zoom: 14,

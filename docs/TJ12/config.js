@@ -276,8 +276,8 @@ const config = {
       hidden: false,
       title: '中尊寺',
       image: '',
-      tweet_id: '',
-      description: '<p>3巻 P118  岩手県西磐井郡 平泉町 平泉43</p> <p><img alt="20191112-DSC06090-1424DN" src="https://live.staticflickr.com/65535/49362088928_baa62da01f_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=39.0017355&amp;lon=141.102596&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【20191112-DSC06090-1424DN】 by Noelas</p>',
+      tweet_id: '1403575945378684929',
+      description: '<p>3巻 P118  岩手県西磐井郡 平泉町 平泉43</p><div class="tweetContainer" id="tweet1403575945378684929"></div> ',
       location: {
         center: [141.102596, 39.0017355],
         zoom: 14,

@@ -16,8 +16,8 @@ const config = {
       hidden: false,
       title: '出雲市駅',
       image: '',
-      tweet_id: '1400398112628219912',
-      description: '<p>3巻 P130  島根県出雲市 駅北町25</p><div class="tweetContainer" id="tweet1400398112628219912"></div> ',
+      tweet_id: '1401337738549501953',
+      description: '<p>3巻 P130  島根県出雲市 駅北町25</p><div class="tweetContainer" id="tweet1401337738549501953"></div> ',
       location: {
         center: [132.7567006, 35.3608386],
         zoom: 14,

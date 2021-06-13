@@ -16,8 +16,8 @@ const config = {
       hidden: false,
       title: '東京駅',
       image: '',
-      tweet_id: '1402032180524576769',
-      description: '<p>1巻 P126  東京都千代田区 丸の内一丁目9</p><div class="tweetContainer" id="tweet1402032180524576769"></div> ',
+      tweet_id: '1402607260484968455',
+      description: '<p>1巻 P126  東京都千代田区 丸の内一丁目9</p><div class="tweetContainer" id="tweet1402607260484968455"></div> ',
       location: {
         center: [139.7671248, 35.6812362],
         zoom: 14,
@@ -236,8 +236,8 @@ const config = {
       hidden: false,
       title: '栗林公園',
       image: '',
-      tweet_id: '1400835036547584004',
-      description: '<p>1巻 P157  香川県高松市 栗林町一丁目20</p><div class="tweetContainer" id="tweet1400835036547584004"></div> ',
+      tweet_id: '1403152029162164227',
+      description: '<p>1巻 P157  香川県高松市 栗林町一丁目20</p><div class="tweetContainer" id="tweet1403152029162164227"></div> ',
       location: {
         center: [134.0445345, 34.3293842],
         zoom: 14,
