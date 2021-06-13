@@ -68,7 +68,7 @@ const secret = require('../my_secret.json');
   }
 })();
 
-// u.loadBlockList('./src/blocklist.txt').then((blocklist) => {
+// u.loadTaggedList('./src/blocklist.txt').then((blocklist) => {
 //   console.log(typeof blocklist, blocklist);
 //   console.log('banned_flickr_id', Array.from(blocklist.get('banned_flickr_id')));
 // });

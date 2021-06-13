@@ -15,7 +15,7 @@ class Common {
     return fs.readFile(filepath, { encoding: 'utf-8', flag: 'r' });
   }
 
-  async loadBlockList(filename = 'blocklist.txt') {
+  async loadTaggedList(filename = 'list.txt') {
     const raw = await this.read_local_file(filename).catch((e) => {
       throw new Error(`cannot read blocklist. ${e}`);
     });
