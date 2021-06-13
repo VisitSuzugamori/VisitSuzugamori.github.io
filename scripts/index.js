@@ -140,19 +140,22 @@ async function writeConfig(journey, s, j) {
     .replace(/###subtitle###/gm, j.subtitle ? j.subtitle : '(単行本未収録)');
   const part2_source = cft[2];
   let part2 = '';
+  const plist = await u.loadTaggedList('./src/place.txt');
   const getAlignments = getAlignmentsGenerator();
   for (const point of s) {
+    const xbook = point.get('book') ? `${point.get('book')}巻` : '';
+    const xpage = point.get('page') ? `P${point.get('page')}` : '';
+    const xid = `${xbook}-${xpage}-${point.get('name')}`;
     const coordinates = point.get('coordinates').split(',', 2);
+    const chika_tweet = plist.has(xid) ? plist.get(xid).values().next().value : undefined;
     const tweet_id = await tw.getTweetIdByGeo({
       latlon: coordinates,
       additional_keyword: point.get('name'),
       search_type: 'search_recent',
     });
-    const tweetContainer = getTweetContainerHtml(tweet_id);
+    const tweetContainer = getTweetContainerHtml(chika_tweet || tweet_id);
     const flickrContent = tweet_id ? '' : await getFlickrContentHtml(coordinates);
     console.debug('building...', coordinates, tweet_id);
-    const xbook = point.get('book') ? `${point.get('book')}巻` : '';
-    const xpage = point.get('page') ? `P${point.get('page')}` : '';
     let address = '';
     try {
       address = await revGeoCoder.getAdress(coordinates);
@@ -219,7 +222,7 @@ async function getFlickrContentHtml(latlon) {
 }
 
 (async () => {
-  const blocklist = await u.loadBlockList('./src/blocklist.txt');
+  const blocklist = await u.loadTaggedList('./src/blocklist.txt');
   tw.setBlockList(blocklist);
   flickr.setBlockList(blocklist);
   try {
