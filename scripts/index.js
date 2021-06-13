@@ -148,12 +148,13 @@ async function writeConfig(journey, s, j) {
     const xid = `${xbook}-${xpage}-${point.get('name')}`;
     const coordinates = point.get('coordinates').split(',', 2);
     const chika_tweet = plist.has(xid) ? plist.get(xid).values().next().value : undefined;
-    const tweet_id = await tw.getTweetIdByGeo({
+    const u_tweet_id = await tw.getTweetIdByGeo({
       latlon: coordinates,
       additional_keyword: point.get('name'),
       search_type: 'search_recent',
     });
-    const tweetContainer = getTweetContainerHtml(chika_tweet || tweet_id);
+    const tweet_id = chika_tweet || u_tweet_id;
+    const tweetContainer = getTweetContainerHtml(tweet_id);
     const flickrContent = tweet_id ? '' : await getFlickrContentHtml(coordinates);
     console.debug('building...', coordinates, tweet_id);
     let address = '';
@@ -222,6 +223,7 @@ async function getFlickrContentHtml(latlon) {
 }
 
 (async () => {
+  const for_journey = '';
   const blocklist = await u.loadTaggedList('./src/blocklist.txt');
   tw.setBlockList(blocklist);
   flickr.setBlockList(blocklist);
@@ -238,10 +240,12 @@ async function getFlickrContentHtml(latlon) {
         jData = VisitSuzugamori.stories[`TJ${sIndex}`];
       }
       const sData = byStory.get(sIndex);
-      await writeHtml(sIndex);
-      await writeConfig(sIndex, sData, jData);
-      await writeCsv(sIndex, sData);
-      await u.simple_wait_sec(1);
+      if (for_journey === '' || for_journey === sIndex) {
+        await writeHtml(sIndex);
+        await writeConfig(sIndex, sData, jData);
+        await writeCsv(sIndex, sData);
+        await u.simple_wait_sec(1);
+      }
     }
     await writeCsv('others', byStory.get('special'));
     console.debug(revGeoCoder.getAllPlaces());
