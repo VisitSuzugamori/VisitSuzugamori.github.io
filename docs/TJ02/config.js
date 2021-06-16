@@ -77,7 +77,7 @@ const config = {
       title: '松島公園',
       image: '',
       tweet_id: '',
-      description: '<p>1巻 P64  宮城県宮城郡 松島町 松島字霞ケ浦</p> <p><img alt="Oshima Island" src="https://live.staticflickr.com/65535/50829564487_793e5c2e1c_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=38.3661732&amp;lon=141.0611304&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Oshima Island】 by victor*f</p>',
+      description: '<p>1巻 P64  宮城県宮城郡 松島町 松島字霞ケ浦</p> <p><img alt="雄島" src="https://live.staticflickr.com/65535/51221394425_a4814c5527_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=38.3661732&amp;lon=141.0611304&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【雄島】 by いしだなおと</p>',
       location: {
         center: [141.0611304, 38.3661732],
         zoom: 14,
@@ -97,7 +97,7 @@ const config = {
       title: '雄島',
       image: '',
       tweet_id: '',
-      description: '<p>1巻 P64  宮城県宮城郡 松島町 松島字霞ケ浦</p> <p><img alt="雄島" src="https://live.staticflickr.com/65535/51221394425_a4814c5527_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=38.3653495&amp;lon=141.0625297&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【雄島】 by いしだなおと</p>',
+      description: '<p>1巻 P64  宮城県宮城郡 松島町 松島字霞ケ浦</p> <p><img alt="御嶋真珠稲荷大明神" src="https://live.staticflickr.com/65535/51221340535_4157a07bee_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=38.3653495&amp;lon=141.0625297&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【御嶋真珠稲荷大明神】 by いしだなおと</p>',
       location: {
         center: [141.0625297, 38.3653495],
         zoom: 14,
@@ -117,7 +117,7 @@ const config = {
       title: '御嶋真珠稲荷大明神',
       image: '',
       tweet_id: '',
-      description: '<p>1巻 P65  宮城県宮城郡 松島町 松島字霞ケ浦</p> <p><img alt="御嶋真珠稲荷大明神" src="https://live.staticflickr.com/65535/51221340535_4157a07bee_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=38.3654838&amp;lon=141.0622564&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【御嶋真珠稲荷大明神】 by いしだなおと</p>',
+      description: '<p>1巻 P65  宮城県宮城郡 松島町 松島字霞ケ浦</p> <p><img alt="Oshima Island" src="https://live.staticflickr.com/65535/50829564487_793e5c2e1c_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=38.3654838&amp;lon=141.0622564&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Oshima Island】 by victor*f</p>',
       location: {
         center: [141.0622564, 38.3654838],
         zoom: 14,

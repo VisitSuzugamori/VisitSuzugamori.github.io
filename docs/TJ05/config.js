@@ -36,8 +36,8 @@ const config = {
       hidden: false,
       title: '京都駅',
       image: '',
-      tweet_id: '1402221583674920966',
-      description: '<p>2巻 P6  京都府京都市 下京区 東塩小路町676</p><div class="tweetContainer" id="tweet1402221583674920966"></div> ',
+      tweet_id: '1403606157436981248',
+      description: '<p>2巻 P6  京都府京都市 下京区 東塩小路町676</p><div class="tweetContainer" id="tweet1403606157436981248"></div> ',
       location: {
         center: [135.7587667, 34.985849],
         zoom: 14,
@@ -77,7 +77,7 @@ const config = {
       title: '月桂冠大倉記念館',
       image: '',
       tweet_id: '',
-      description: '<p>2巻 P17  京都府京都市 伏見区 本材木町680</p> <p><img alt="伏見3・Fushimi" src="https://live.staticflickr.com/65535/49800485533_a485179bf4_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.929136&amp;lon=135.76161&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【伏見3・Fushimi】 by anglo10</p>',
+      description: '<p>2巻 P17  京都府京都市 伏見区 本材木町680</p> <p><img alt="長建寺" src="https://live.staticflickr.com/65535/50311170767_f814092770_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.929136&amp;lon=135.76161&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【長建寺】 by albertus</p>',
       location: {
         center: [135.76161, 34.929136],
         zoom: 14,
@@ -137,7 +137,7 @@ const config = {
       title: '宮津駅',
       image: '',
       tweet_id: '',
-      description: '<p>2巻 P21  京都府宮津市 字鶴賀2099</p> <p><img alt="IMG_20191022_112259" src="https://live.staticflickr.com/65535/49136451437_e0800f574b_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.5344188&amp;lon=135.1997513&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【IMG_20191022_112259】 by balduran98</p>',
+      description: '<p>2巻 P21  京都府宮津市 字鶴賀2099</p> <p><img alt="IMG_20191022_112249" src="https://live.staticflickr.com/65535/49136252841_24beaf8681_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.5344188&amp;lon=135.1997513&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【IMG_20191022_112249】 by balduran98</p>',
       location: {
         center: [135.1997513, 35.5344188],
         zoom: 14,
@@ -157,7 +157,7 @@ const config = {
       title: '富田屋',
       image: '',
       tweet_id: '',
-      description: '<p>2巻 P22  京都府宮津市 字鶴賀2066</p> <p><img alt="IMG_20191022_112249" src="https://live.staticflickr.com/65535/49136252841_24beaf8681_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.534848&amp;lon=135.1992613&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【IMG_20191022_112249】 by balduran98</p>',
+      description: '<p>2巻 P22  京都府宮津市 字鶴賀2066</p> <p><img alt="IMG_20191022_112259" src="https://live.staticflickr.com/65535/49136451437_e0800f574b_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.534848&amp;lon=135.1992613&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【IMG_20191022_112259】 by balduran98</p>',
       location: {
         center: [135.1992613, 35.534848],
         zoom: 14,
@@ -236,8 +236,8 @@ const config = {
       hidden: false,
       title: '天橋立',
       image: '',
-      tweet_id: '1401216993160695814',
-      description: '<p>2巻 P35  京都府宮津市 字江尻927</p><div class="tweetContainer" id="tweet1401216993160695814"></div> ',
+      tweet_id: '1403581593365659648',
+      description: '<p>2巻 P35  京都府宮津市 字江尻927</p><div class="tweetContainer" id="tweet1403581593365659648"></div> ',
       location: {
         center: [135.1918204, 35.5698022],
         zoom: 14,
