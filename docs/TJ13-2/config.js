@@ -17,7 +17,7 @@ const config = {
       title: '青石畳通り',
       image: '',
       tweet_id: '',
-      description: '<p>4巻 P5,20  島根県松江市 美保関町美保関</p> <p><img alt="Anchor" src="https://live.staticflickr.com/65535/48111991997_a5260003ae_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.5625098&amp;lon=133.3076796&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Anchor】 by Teruhide Tomori</p>',
+      description: '<p>4巻 P5,20  島根県松江市 美保関町美保関</p> <p><img alt="Torii and latern" src="https://live.staticflickr.com/7887/33108745748_d9ec2ee92f_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.5625098&amp;lon=133.3076796&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Torii and latern】 by hapePHOTOGRAPHIX</p>',
       location: {
         center: [133.3076796, 35.5625098],
         zoom: 14,
@@ -77,7 +77,7 @@ const config = {
       title: '美保関漁港',
       image: '',
       tweet_id: '',
-      description: '<p>4巻 P12,13  島根県松江市 美保関町美保関</p> <p><img alt="DSCN0158" src="https://live.staticflickr.com/8885/18136813874_86269128f8_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.5603343&amp;lon=133.3109506&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【DSCN0158】 by rurinoshima</p>',
+      description: '<p>4巻 P12,13  島根県松江市 美保関町美保関</p> <p><img alt="DSCN0156" src="https://live.staticflickr.com/8843/18136807424_8f4f80a17b_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.5603343&amp;lon=133.3109506&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【DSCN0156】 by rurinoshima</p>',
       location: {
         center: [133.3109506, 35.5603343],
         zoom: 14,
@@ -97,7 +97,7 @@ const config = {
       title: '廻船御用水',
       image: '',
       tweet_id: '',
-      description: '<p>4巻 P13  島根県松江市 美保関町美保関</p> <p><img alt="Miho Jinja Shrine" src="https://live.staticflickr.com/7821/46200567295_95f6e81851_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.5623016&amp;lon=133.3074953&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Miho Jinja Shrine】 by hapePHOTOGRAPHIX</p>',
+      description: '<p>4巻 P13  島根県松江市 美保関町美保関</p> <p><img alt="Anchor" src="https://live.staticflickr.com/65535/48111991997_a5260003ae_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.5623016&amp;lon=133.3074953&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Anchor】 by Teruhide Tomori</p>',
       location: {
         center: [133.3074953, 35.5623016],
         zoom: 14,
@@ -117,7 +117,7 @@ const config = {
       title: '美保神社',
       image: '',
       tweet_id: '',
-      description: '<p>4巻 P14  島根県松江市 美保関町美保関</p> <p><img alt="Miho Jinja Shrine" src="https://live.staticflickr.com/7827/46137295475_c7711437aa_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.5623182&amp;lon=133.3062224&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Miho Jinja Shrine】 by hapePHOTOGRAPHIX</p>',
+      description: '<p>4巻 P14  島根県松江市 美保関町美保関</p> <p><img alt="Miho Jinja Shrine" src="https://live.staticflickr.com/7821/46200567295_95f6e81851_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.5623182&amp;lon=133.3062224&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Miho Jinja Shrine】 by hapePHOTOGRAPHIX</p>',
       location: {
         center: [133.3062224, 35.5623182],
         zoom: 14,
@@ -137,7 +137,7 @@ const config = {
       title: '美保関灯台',
       image: '',
       tweet_id: '',
-      description: '<p>4巻 P28  島根県松江市 </p> <p><img alt="Lighthouse at noon" src="https://live.staticflickr.com/65535/48106762653_5fb1fa5f3b_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.5672984&amp;lon=133.3254458&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Lighthouse at noon】 by Teruhide Tomori</p>',
+      description: '<p>4巻 P28  島根県松江市 </p> <p><img alt="Mihonoseki Lighthouse - 美保関灯台" src="https://live.staticflickr.com/7923/46434627155_6e046782fd_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.5672984&amp;lon=133.3254458&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Mihonoseki Lighthouse - 美保関灯台】 by cHoIminG</p>',
       location: {
         center: [133.3254458, 35.5672984],
         zoom: 14,
@@ -157,7 +157,7 @@ const config = {
       title: '沖之御前地之御前遥拝所',
       image: '',
       tweet_id: '',
-      description: '<p>4巻 P32  島根県松江市 </p> <p><img alt="Mihonoseki Lighthouse - 美保関灯台" src="https://live.staticflickr.com/7923/46434627155_6e046782fd_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.567285&amp;lon=133.325638&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Mihonoseki Lighthouse - 美保関灯台】 by cHoIminG</p>',
+      description: '<p>4巻 P32  島根県松江市 </p> <p><img alt="Lighthouse at noon" src="https://live.staticflickr.com/65535/48106762653_5fb1fa5f3b_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.567285&amp;lon=133.325638&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Lighthouse at noon】 by Teruhide Tomori</p>',
       location: {
         center: [133.325638, 35.567285],
         zoom: 14,
