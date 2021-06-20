@@ -37,7 +37,7 @@ const config = {
       title: '鈴鹿市漁業協同組合直販所 魚魚鈴(ととりん)',
       image: '',
       tweet_id: '',
-      description: '<p>2巻 P99  三重県鈴鹿市 白子一丁目6277</p> <p><img alt="白子漁港" src="https://live.staticflickr.com/5672/30207698280_03668ae265_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.8277194&amp;lon=136.5919642&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【白子漁港】 by Shigelli</p>',
+      description: '<p>2巻 P99  三重県鈴鹿市 白子一丁目6277</p> <p><img alt="KONE0007.jpg" src="https://live.staticflickr.com/5773/30119804532_0ed58bab1a_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.8277194&amp;lon=136.5919642&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【KONE0007.jpg】 by hisway306</p>',
       location: {
         center: [136.5919642, 34.8277194],
         zoom: 14,
@@ -136,8 +136,8 @@ const config = {
       hidden: false,
       title: '伊勢神宮',
       image: '',
-      tweet_id: '1405434429678374914',
-      description: '<p>2巻 P108  三重県伊勢市 宇治館町98</p><div class="tweetContainer" id="tweet1405434429678374914"></div> ',
+      tweet_id: '1406503976707649539',
+      description: '<p>2巻 P108  三重県伊勢市 宇治館町98</p><div class="tweetContainer" id="tweet1406503976707649539"></div> ',
       location: {
         center: [136.725793, 34.45501],
         zoom: 14,
