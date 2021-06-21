@@ -175,6 +175,20 @@ async function scrollToAndRedrow(el) {
 map.on('load', () => {
   const chapters_length = config.chapters.length;
   config.chapters.forEach((record, idx) => {
+    (async () => {
+      const parent = document.getElementById(record.id);
+      if (document.location.hash === record.id) {
+        scrollToAndRedrow(parent);
+      }
+      if (Object.prototype.hasOwnProperty.call(record, 'tweet_id') && record.tweet_id) {
+        const tid = record.tweet_id;
+         twttr.widgets.createTweet(tid, document.getElementById(`tweet${tid}`), {
+          conversation: 'none',
+          lang: 'ja',
+        });
+      }
+    })();
+
     if (idx === 0) {
       directions.setOrigin(record.location.center);
     } else if (idx > 24) {
@@ -184,20 +198,6 @@ map.on('load', () => {
     } else {
       directions.setWaypoint(idx, record.location.center);
     }
-
-    (async () => {
-      const parent = document.getElementById(record.id);
-      if (document.location.hash === record.id) {
-        scrollToAndRedrow(parent);
-      }
-      if (Object.prototype.hasOwnProperty.call(record, 'tweet_id') && record.tweet_id) {
-        const tid = record.tweet_id;
-        await twttr.widgets.createTweet(tid, document.getElementById(`tweet${tid}`), {
-          conversation: 'none',
-          lang: 'ja',
-        });
-      }
-    })();
   });
 });
 map.addControl(directions);
