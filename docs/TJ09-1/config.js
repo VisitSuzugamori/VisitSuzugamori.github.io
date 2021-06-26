@@ -16,8 +16,8 @@ const config = {
       hidden: false,
       title: '東京ドームホテル',
       image: '',
-      tweet_id: '1405129106677657604',
-      description: '<p>2巻 P132  東京都文京区 後楽一丁目3</p><div class="tweetContainer" id="tweet1405129106677657604"></div> ',
+      tweet_id: '',
+      description: '<p>2巻 P132  東京都文京区 後楽一丁目3</p> <p><img alt="東京駅" src="https://live.staticflickr.com/65535/49964629588_d9ab1d93b1_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.7036666&amp;lon=139.7533928&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【東京駅】 by Naoki Natsume/Ishii , 夏目直樹 ,石井直樹</p>',
       location: {
         center: [139.7533928, 35.7036666],
         zoom: 14,
@@ -57,7 +57,7 @@ const config = {
       title: '広島テレビ放送',
       image: '',
       tweet_id: '',
-      description: '<p>2巻 P145  広島県広島市 東区 二葉の里三丁目5</p> <p><img alt="Japan_Roll-14_07" src="https://live.staticflickr.com/65535/49840112437_e242194757_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.3999238&amp;lon=132.4758202&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Japan_Roll-14_07】 by derekcarter2</p>',
+      description: '<p>2巻 P145  広島県広島市 東区 二葉の里三丁目5</p> <p><img alt="Japan_Roll-14_08" src="https://live.staticflickr.com/65535/49839808791_e208211689_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.3999238&amp;lon=132.4758202&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Japan_Roll-14_08】 by derekcarter2</p>',
       location: {
         center: [132.4758202, 34.3999238],
         zoom: 14,
@@ -157,7 +157,7 @@ const config = {
       title: '嚴島神社 大鳥居（布の中）',
       image: '',
       tweet_id: '',
-      description: '<p>2巻 P152,153  </p> <p><img alt="IMG_0978" src="https://live.staticflickr.com/65535/51258889094_c0e979c49f_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.2973092&amp;lon=132.3181276&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【IMG_0978】 by Chico Leung</p>',
+      description: '<p>2巻 P152,153  </p> <p><img alt="Itsukushima" src="https://live.staticflickr.com/65535/51267375602_f72f9f6e1a_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.2973092&amp;lon=132.3181276&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Itsukushima】 by luminaeon</p>',
       location: {
         center: [132.3181276, 34.2973092],
         zoom: 14,

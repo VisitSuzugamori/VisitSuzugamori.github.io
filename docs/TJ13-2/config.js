@@ -57,7 +57,7 @@ const config = {
       title: '美保関バスターミナル',
       image: '',
       tweet_id: '',
-      description: '<p>4巻 P11  島根県松江市 </p> <p><img alt="七類-境港_まんばら" src="https://live.staticflickr.com/8553/8703296687_8ae7abd38a_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.534707&amp;lon=133.164644&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【七類-境港_まんばら】 by zushonos</p>',
+      description: '<p>4巻 P11  島根県松江市 </p> ',
       location: {
         center: [133.164644, 35.534707],
         zoom: 14,
@@ -116,8 +116,8 @@ const config = {
       hidden: false,
       title: '美保神社',
       image: '',
-      tweet_id: '',
-      description: '<p>4巻 P14  島根県松江市 美保関町美保関</p> <p><img alt="Algenblüte" src="https://live.staticflickr.com/7802/32132141527_757cb04645_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.5623182&amp;lon=133.3062224&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Algenblüte】 by hapePHOTOGRAPHIX</p>',
+      tweet_id: '1406812528622149639',
+      description: '<p>4巻 P14  島根県松江市 美保関町美保関</p><div class="tweetContainer" id="tweet1406812528622149639"></div> ',
       location: {
         center: [133.3062224, 35.5623182],
         zoom: 14,
