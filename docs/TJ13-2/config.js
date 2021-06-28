@@ -57,7 +57,7 @@ const config = {
       title: '美保関バスターミナル',
       image: '',
       tweet_id: '',
-      description: '<p>4巻 P11  島根県松江市 </p> ',
+      description: '<p>4巻 P11  島根県松江市 </p> <p><img alt="七類-境港_まんばら" src="https://live.staticflickr.com/8553/8703296687_8ae7abd38a_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.534707&amp;lon=133.164644&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【七類-境港_まんばら】 by zushonos</p>',
       location: {
         center: [133.164644, 35.534707],
         zoom: 14,
@@ -77,7 +77,7 @@ const config = {
       title: '美保関漁港',
       image: '',
       tweet_id: '',
-      description: '<p>4巻 P12,13  島根県松江市 美保関町美保関</p> <p><img alt="DSCN0156" src="https://live.staticflickr.com/8843/18136807424_8f4f80a17b_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.5603343&amp;lon=133.3109506&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【DSCN0156】 by rurinoshima</p>',
+      description: '<p>4巻 P12,13  島根県松江市 美保関町美保関</p> <p><img alt="DSCN0158" src="https://live.staticflickr.com/8885/18136813874_86269128f8_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.5603343&amp;lon=133.3109506&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【DSCN0158】 by rurinoshima</p>',
       location: {
         center: [133.3109506, 35.5603343],
         zoom: 14,
