@@ -97,7 +97,7 @@ const config = {
       title: '出雲大社 大鳥居',
       image: '',
       tweet_id: '',
-      description: '<p>3巻 P137  島根県出雲市 大社町杵築南1386</p> <p><img alt="IMG_5777" src="https://live.staticflickr.com/1950/44167435245_d0405283e0_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.391579&amp;lon=132.6872784&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【IMG_5777】 by cmc700123</p>',
+      description: '<p>3巻 P137  島根県出雲市 大社町杵築南1386</p> <p><img alt="Izumo Taisha (Izumo, Shimane, Japan)" src="https://live.staticflickr.com/4607/24796741837_a778883d0d_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.391579&amp;lon=132.6872784&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Izumo Taisha (Izumo, Shimane, Japan)】 by t-mizo</p>',
       location: {
         center: [132.6872784, 35.391579],
         zoom: 14,
@@ -197,7 +197,7 @@ const config = {
       title: '出雲大社 拝殿',
       image: '',
       tweet_id: '',
-      description: '<p>3巻 P140  島根県出雲市 大社町杵築東257</p> <p><img alt="Main temple" src="https://live.staticflickr.com/65535/50628265262_bcc503c4a2_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.4012055&amp;lon=132.6855211&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Main temple】 by SocialHermit</p>',
+      description: '<p>3巻 P140  島根県出雲市 大社町杵築東257</p> <p><img alt="The hidden-in-the-back temple" src="https://live.staticflickr.com/65535/50628265512_06899697dc_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.4012055&amp;lon=132.6855211&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【The hidden-in-the-back temple】 by SocialHermit</p>',
       location: {
         center: [132.6855211, 35.4012055],
         zoom: 14,
@@ -217,7 +217,7 @@ const config = {
       title: '出雲大社 西十九社',
       image: '',
       tweet_id: '',
-      description: '<p>3巻 P141  島根県出雲市 大社町杵築東257</p> <p><img alt="The hidden-in-the-back temple" src="https://live.staticflickr.com/65535/50628265512_06899697dc_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.4014929&amp;lon=132.6848802&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【The hidden-in-the-back temple】 by SocialHermit</p>',
+      description: '<p>3巻 P141  島根県出雲市 大社町杵築東257</p> <p><img alt="Main temple" src="https://live.staticflickr.com/65535/50628265262_bcc503c4a2_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.4014929&amp;lon=132.6848802&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Main temple】 by SocialHermit</p>',
       location: {
         center: [132.6848802, 35.4014929],
         zoom: 14,
@@ -277,7 +277,7 @@ const config = {
       title: '出雲大社前駅',
       image: '',
       tweet_id: '',
-      description: '<p>3巻 P145  島根県出雲市 大社町杵築南1346</p> <p><img alt="出雲大社 神門前" src="https://live.staticflickr.com/65535/49472457456_6e5b33bfcb_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.3935224&amp;lon=132.6870732&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【出雲大社 神門前】 by alberth2</p>',
+      description: '<p>3巻 P145  島根県出雲市 大社町杵築南1346</p> <p><img alt="Ichibata Electric Railway at Izumotaisha-mae" src="https://live.staticflickr.com/65535/49496357377_78516b570a_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.3935224&amp;lon=132.6870732&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Ichibata Electric Railway at Izumotaisha-mae】 by RobGeraghty</p>',
       location: {
         center: [132.6870732, 35.3935224],
         zoom: 14,
@@ -336,8 +336,8 @@ const config = {
       hidden: false,
       title: '松江城',
       image: '',
-      tweet_id: '1409404854162759681',
-      description: '<p>3巻 P150  島根県松江市 殿町1</p><div class="tweetContainer" id="tweet1409404854162759681"></div> ',
+      tweet_id: '1410770738068393987',
+      description: '<p>3巻 P150  島根県松江市 殿町1</p><div class="tweetContainer" id="tweet1410770738068393987"></div> ',
       location: {
         center: [133.0506783, 35.4751335],
         zoom: 14,
