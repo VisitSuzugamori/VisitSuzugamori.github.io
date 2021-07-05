@@ -97,7 +97,7 @@ const config = {
       title: '雄島',
       image: '',
       tweet_id: '',
-      description: '<p>1巻 P64  宮城県宮城郡 松島町 松島字霞ケ浦</p> <p><img alt="雄島" src="https://live.staticflickr.com/65535/51221394425_a4814c5527_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=38.3653495&amp;lon=141.0625297&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【雄島】 by いしだなおと</p>',
+      description: '<p>1巻 P64  宮城県宮城郡 松島町 松島字霞ケ浦</p> <p><img alt="Oshima Island" src="https://live.staticflickr.com/65535/50829564487_793e5c2e1c_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=38.3653495&amp;lon=141.0625297&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Oshima Island】 by victor*f</p>',
       location: {
         center: [141.0625297, 38.3653495],
         zoom: 14,
@@ -117,7 +117,7 @@ const config = {
       title: '御嶋真珠稲荷大明神',
       image: '',
       tweet_id: '',
-      description: '<p>1巻 P65  宮城県宮城郡 松島町 松島字霞ケ浦</p> <p><img alt="御嶋真珠稲荷大明神" src="https://live.staticflickr.com/65535/51221340535_4157a07bee_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=38.3654838&amp;lon=141.0622564&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【御嶋真珠稲荷大明神】 by いしだなおと</p>',
+      description: '<p>1巻 P65  宮城県宮城郡 松島町 松島字霞ケ浦</p> <p><img alt="雄島" src="https://live.staticflickr.com/65535/51221394425_a4814c5527_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=38.3654838&amp;lon=141.0622564&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【雄島】 by いしだなおと</p>',
       location: {
         center: [141.0622564, 38.3654838],
         zoom: 14,
@@ -156,8 +156,8 @@ const config = {
       hidden: false,
       title: '瑞巌寺',
       image: '',
-      tweet_id: '1408978774968868865',
-      description: '<p>1巻 P69  宮城県宮城郡 松島町 松島字町内</p><div class="tweetContainer" id="tweet1408978774968868865"></div> ',
+      tweet_id: '1411534156387917824',
+      description: '<p>1巻 P69  宮城県宮城郡 松島町 松島字町内</p><div class="tweetContainer" id="tweet1411534156387917824"></div> ',
       location: {
         center: [141.0603899, 38.3718733],
         zoom: 14,
@@ -217,7 +217,7 @@ const config = {
       title: '松島巡り観光船 乗り場(松島觀光遊艇搭船場)',
       image: '',
       tweet_id: '',
-      description: '<p>1巻 P79  </p> <p><img alt="仁王丸 松島巡り観光船 乗り場(松島觀光遊艇搭船場)" src="https://live.staticflickr.com/65535/51211269214_c648f99bc3_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=38.3689558&amp;lon=141.0628948&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【仁王丸 松島巡り観光船 乗り場(松島觀光遊艇搭船場)】 by いしだなおと</p>',
+      description: '<p>1巻 P79  </p> <p><img alt="Kanrantei Teahouse, Matsushima Bay" src="https://live.staticflickr.com/65535/50829490277_f07503e14f_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=38.3689558&amp;lon=141.0628948&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Kanrantei Teahouse, Matsushima Bay】 by victor*f</p>',
       location: {
         center: [141.0628948, 38.3689558],
         zoom: 14,
@@ -236,8 +236,8 @@ const config = {
       hidden: false,
       title: '松島さかな市場',
       image: '',
-      tweet_id: '',
-      description: '<p>1巻 P81  宮城県宮城郡 松島町 松島字普賢堂</p> <p><img alt="探頭探腦" src="https://live.staticflickr.com/65535/49582717543_817fd6a7f3_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=38.3719519&amp;lon=141.0651719&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【探頭探腦】 by M.K. Design</p>',
+      tweet_id: '1411216514481635331',
+      description: '<p>1巻 P81  宮城県宮城郡 松島町 松島字普賢堂</p><div class="tweetContainer" id="tweet1411216514481635331"></div> ',
       location: {
         center: [141.0651719, 38.3719519],
         zoom: 14,

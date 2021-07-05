@@ -96,8 +96,8 @@ const config = {
       hidden: false,
       title: '宮島口駅',
       image: '',
-      tweet_id: '',
-      description: '<p>2巻 P147  広島県廿日市市 宮島口一丁目3</p> <p><img alt="kHia 40 transfer" src="https://live.staticflickr.com/65535/49706167578_ef62079037_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.3120172&amp;lon=132.3029311&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【kHia 40 transfer】 by vicrailways</p>',
+      tweet_id: '1411081234072039426',
+      description: '<p>2巻 P147  広島県廿日市市 宮島口一丁目3</p><div class="tweetContainer" id="tweet1411081234072039426"></div> ',
       location: {
         center: [132.3029311, 34.3120172],
         zoom: 14,
@@ -117,7 +117,7 @@ const config = {
       title: 'あなごめし うえの 宮島口本店',
       image: '',
       tweet_id: '',
-      description: '<p>2巻 P148  広島県廿日市市 宮島口一丁目5</p> <p><img alt="Redwing" src="https://live.staticflickr.com/65535/49699419612_8051bf66bc_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.311502&amp;lon=132.3035106&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Redwing】 by vicrailways</p>',
+      description: '<p>2巻 P148  広島県廿日市市 宮島口一丁目5</p> <p><img alt="Waiting for the ferry to Itsukushima" src="https://live.staticflickr.com/65535/49573189261_5e5aca14db_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.311502&amp;lon=132.3035106&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Waiting for the ferry to Itsukushima】 by Did M 974</p>',
       location: {
         center: [132.3035106, 34.311502],
         zoom: 14,
