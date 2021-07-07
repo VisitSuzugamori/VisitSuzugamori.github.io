@@ -56,8 +56,8 @@ const config = {
       hidden: false,
       title: '会津若松駅',
       image: '',
-      tweet_id: '1408986474926645251',
-      description: '<p>1巻 P24  福島県会津若松市 駅前町1</p><div class="tweetContainer" id="tweet1408986474926645251"></div> ',
+      tweet_id: '1411600053194604544',
+      description: '<p>1巻 P24  福島県会津若松市 駅前町1</p><div class="tweetContainer" id="tweet1411600053194604544"></div> ',
       location: {
         center: [139.9303261, 37.5078657],
         zoom: 14,

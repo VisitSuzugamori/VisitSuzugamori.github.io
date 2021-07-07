@@ -56,8 +56,8 @@ const config = {
       hidden: false,
       title: '龍門の滝',
       image: '',
-      tweet_id: '1409388453502984196',
-      description: '<p>2巻 P49  栃木県那須烏山市 滝20</p><div class="tweetContainer" id="tweet1409388453502984196"></div> ',
+      tweet_id: '1410122528811491328',
+      description: '<p>2巻 P49  栃木県那須烏山市 滝20</p><div class="tweetContainer" id="tweet1410122528811491328"></div> ',
       location: {
         center: [140.1398144, 36.6455986],
         zoom: 14,
@@ -77,7 +77,7 @@ const config = {
       title: '那須烏山市 龍門ふるさと民芸館',
       image: '',
       tweet_id: '',
-      description: '<p>2巻 P50  栃木県那須烏山市 滝20</p> <p><img alt="龍門の滝" src="https://live.staticflickr.com/1787/42202655254_803d0b147f_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=36.6455502&amp;lon=140.1389247&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【龍門の滝】 by cyberwonk</p>',
+      description: '<p>2巻 P50  栃木県那須烏山市 滝20</p> <p><img alt="那須烏山の町の鳥" src="https://live.staticflickr.com/899/28052432717_2dd7ab01d2_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=36.6455502&amp;lon=140.1389247&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【那須烏山の町の鳥】 by cyberwonk</p>',
       location: {
         center: [140.1389247, 36.6455502],
         zoom: 14,
@@ -196,8 +196,8 @@ const config = {
       hidden: false,
       title: '烏山大橋',
       image: '',
-      tweet_id: '',
-      description: '<p>2巻 P60  栃木県那須烏山市 旭二丁目14</p> ',
+      tweet_id: '1411970808738553860',
+      description: '<p>2巻 P60  栃木県那須烏山市 旭二丁目14</p><div class="tweetContainer" id="tweet1411970808738553860"></div> ',
       location: {
         center: [140.1684645, 36.6527173],
         zoom: 14,

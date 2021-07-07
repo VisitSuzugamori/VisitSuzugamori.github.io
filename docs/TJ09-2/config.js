@@ -16,8 +16,8 @@ const config = {
       hidden: false,
       title: '嚴島神社',
       image: '',
-      tweet_id: '',
-      description: '<p>3巻 P5  </p> <p><img alt="IMG_0978" src="https://live.staticflickr.com/65535/51258889094_c0e979c49f_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.2959885&amp;lon=132.3198262&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【IMG_0978】 by Chico Leung</p>',
+      tweet_id: '1412562820521107462',
+      description: '<p>3巻 P5  </p><div class="tweetContainer" id="tweet1412562820521107462"></div> ',
       location: {
         center: [132.3198262, 34.2959885],
         zoom: 14,
@@ -97,7 +97,7 @@ const config = {
       title: 'コンフォートホテル呉',
       image: '',
       tweet_id: '',
-      description: '<p>3巻 P12  広島県呉市 宝町2</p> <p><img alt="kure_20200102101807" src="https://live.staticflickr.com/65535/50278716222_ff774d4e86_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.2431335&amp;lon=132.5586395&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【kure_20200102101807】 by inunami</p>',
+      description: '<p>3巻 P12  広島県呉市 宝町2</p> <p><img alt="D71_2673" src="https://live.staticflickr.com/65535/50722338491_9a2e88ec94_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.2431335&amp;lon=132.5586395&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【D71_2673】 by Lox Pix</p>',
       location: {
         center: [132.5586395, 34.2431335],
         zoom: 14,
@@ -176,8 +176,8 @@ const config = {
       hidden: false,
       title: '尾道駅',
       image: '',
-      tweet_id: '1409424938998456325',
-      description: '<p>3巻 P19  広島県尾道市 東御所町1</p><div class="tweetContainer" id="tweet1409424938998456325"></div> ',
+      tweet_id: '',
+      description: '<p>3巻 P19  広島県尾道市 東御所町1</p> <p><img alt="Start point of Shimanami Kaido cycling road" src="https://live.staticflickr.com/65535/51285265682_7226769516_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.4048654&amp;lon=133.193159&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Start point of Shimanami Kaido cycling road】 by yukky89_yamashita</p>',
       location: {
         center: [133.193159, 34.4048654],
         zoom: 14,
