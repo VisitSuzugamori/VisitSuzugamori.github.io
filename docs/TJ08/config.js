@@ -77,7 +77,7 @@ const config = {
       title: '伊勢菊一',
       image: '',
       tweet_id: '',
-      description: '<p>2巻 P101  三重県伊勢市 本町18</p> <p><img alt="ise221" src="https://live.staticflickr.com/65535/50833835048_d180420235_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.4892923&amp;lon=136.7079545&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【ise221】 by tanayan</p>',
+      description: '<p>2巻 P101  三重県伊勢市 本町18</p> <p><img alt="P9303490" src="https://live.staticflickr.com/65535/48859028083_32910ee31c_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.4892923&amp;lon=136.7079545&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【P9303490】 by Lewis Lai</p>',
       location: {
         center: [136.7079545, 34.4892923],
         zoom: 14,
@@ -136,8 +136,8 @@ const config = {
       hidden: false,
       title: '伊勢神宮',
       image: '',
-      tweet_id: '1410345351555342338',
-      description: '<p>2巻 P108  三重県伊勢市 宇治館町98</p><div class="tweetContainer" id="tweet1410345351555342338"></div> ',
+      tweet_id: '1412952306207780867',
+      description: '<p>2巻 P108  三重県伊勢市 宇治館町98</p><div class="tweetContainer" id="tweet1412952306207780867"></div> ',
       location: {
         center: [136.725793, 34.45501],
         zoom: 14,

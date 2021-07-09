@@ -97,7 +97,7 @@ const config = {
       title: '本州最南端の碑',
       image: '',
       tweet_id: '',
-      description: '<p>3巻 P64  和歌山県東牟婁郡 串本町 </p> <p><img alt="Krabíci..." src="https://live.staticflickr.com/65535/51180652895_690f040e33_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=33.4362401&amp;lon=135.7621203&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Krabíci...】 by SocialHermit</p>',
+      description: '<p>3巻 P64  和歌山県東牟婁郡 串本町 </p> <p><img alt="Mys nikam" src="https://live.staticflickr.com/65535/51178872392_79679f0f6f_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=33.4362401&amp;lon=135.7621203&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Mys nikam】 by SocialHermit</p>',
       location: {
         center: [135.7621203, 33.4362401],
         zoom: 14,
@@ -217,7 +217,7 @@ const config = {
       title: 'くまのこ食堂',
       image: '',
       tweet_id: '',
-      description: '<p>3巻 P81  和歌山県田辺市 本宮町本宮</p> <p><img alt="glorious morning in a drowned shrine" src="https://live.staticflickr.com/4820/46354374552_d13edcb8d2_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=33.834421&amp;lon=135.7723926&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【glorious morning in a drowned shrine】 by deziluzija</p>',
+      description: '<p>3巻 P81  和歌山県田辺市 本宮町本宮</p> <p><img alt="大斎原、本宮町本宮、日本 — Oyunohara, Hongū, Japan" src="https://live.staticflickr.com/899/42024220895_59f5481fd5_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=33.834421&amp;lon=135.7723926&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【大斎原、本宮町本宮、日本 — Oyunohara, Hongū, Japan】 by Tiphaine Rolland</p>',
       location: {
         center: [135.7723926, 33.834421],
         zoom: 14,
@@ -257,7 +257,7 @@ const config = {
       title: '料理 萬口',
       image: '',
       tweet_id: '',
-      description: '<p>3巻 P85  和歌山県東牟婁郡 串本町 串本43</p> <p><img alt="日根野区 105系 01" src="https://live.staticflickr.com/800/39374790990_06c6f5e2d5_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=33.4745935&amp;lon=135.7817317&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【日根野区 105系 01】 by O_Kazunori_</p>',
+      description: '<p>3巻 P85  和歌山県東牟婁郡 串本町 串本43</p> <p><img alt="20100504-141240-kii-msw" src="https://live.staticflickr.com/400/31341818444_6f00bcd61b_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=33.4745935&amp;lon=135.7817317&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【20100504-141240-kii-msw】 by halffastcycling</p>',
       location: {
         center: [135.7817317, 33.4745935],
         zoom: 14,

@@ -57,7 +57,7 @@ const config = {
       title: '藤岡酒造',
       image: '',
       tweet_id: '',
-      description: '<p>2巻 P16  京都府京都市 伏見区 今町669</p> <p><img alt="ウルトラマン、古い都を守るぞ!!😅#ウルトラマン #ULTRAMAN #superhero #男子休日 #京都 #春休み" src="https://live.staticflickr.com/2918/33786638512_012d36414f_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.9351213&amp;lon=135.7624568&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【ウルトラマン、古い都を守るぞ!!😅#ウルトラマン #ULTRAMAN #superhero #男子休日 #京都 #春休み】 by JT116~</p>',
+      description: '<p>2巻 P16  京都府京都市 伏見区 今町669</p> <p><img alt="一步一步走. 慢慢走 不急不急.  #japan #fushimi #backpackers" src="https://live.staticflickr.com/4182/34542992166_b44acf1c8a_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.9351213&amp;lon=135.7624568&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【一步一步走. 慢慢走 不急不急.  #japan #fushimi #backpackers】 by tymtang215</p>',
       location: {
         center: [135.7624568, 34.9351213],
         zoom: 14,
@@ -77,7 +77,7 @@ const config = {
       title: '月桂冠大倉記念館',
       image: '',
       tweet_id: '',
-      description: '<p>2巻 P17  京都府京都市 伏見区 本材木町680</p> <p><img alt="京都伏見十石舟・三十石船" src="https://live.staticflickr.com/65535/49749500217_26bc871ed8_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.929136&amp;lon=135.76161&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【京都伏見十石舟・三十石船】 by YUSHENG HSU</p>',
+      description: '<p>2巻 P17  京都府京都市 伏見区 本材木町680</p> <p><img alt="京都伏見十石舟・三十石船" src="https://live.staticflickr.com/65535/49749173091_d6d999b9c6_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.929136&amp;lon=135.76161&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【京都伏見十石舟・三十石船】 by YUSHENG HSU</p>',
       location: {
         center: [135.76161, 34.929136],
         zoom: 14,
@@ -236,8 +236,8 @@ const config = {
       hidden: false,
       title: '天橋立',
       image: '',
-      tweet_id: '1409790692503687170',
-      description: '<p>2巻 P35  京都府宮津市 字江尻927</p><div class="tweetContainer" id="tweet1409790692503687170"></div> ',
+      tweet_id: '',
+      description: '<p>2巻 P35  京都府宮津市 字江尻927</p> <p><img alt="P1039230" src="https://live.staticflickr.com/65535/49332035656_89dca8f6f3_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.5698022&amp;lon=135.1918204&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【P1039230】 by MakotoUmeda</p>',
       location: {
         center: [135.1918204, 35.5698022],
         zoom: 14,
