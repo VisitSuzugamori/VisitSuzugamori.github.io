@@ -57,7 +57,7 @@ const config = {
       title: 'もみじ堂本店',
       image: '',
       tweet_id: '',
-      description: '<p>3巻 P10  広島県廿日市市 宮島町幸町西浜459</p> <p><img alt="Sanrio Store, Miyajima  宮島　広島" src="https://live.staticflickr.com/65535/51261927712_baba5d351b_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.2977872&amp;lon=132.320873&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Sanrio Store, Miyajima  宮島　広島】 by Todd Stradford</p>',
+      description: '<p>3巻 P10  広島県廿日市市 宮島町幸町西浜459</p> <p><img alt="Sanrio Store, Miyajima  宮島　広島" src="https://live.staticflickr.com/65535/51261927712_baba5d351b_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.2977872&amp;lon=132.320873&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Sanrio Store, Miyajima  宮島　広島】 by Anaguma</p>',
       location: {
         center: [132.320873, 34.2977872],
         zoom: 14,
@@ -176,8 +176,8 @@ const config = {
       hidden: false,
       title: '尾道駅',
       image: '',
-      tweet_id: '',
-      description: '<p>3巻 P19  広島県尾道市 東御所町1</p> <p><img alt="Start point of Shimanami Kaido cycling road" src="https://live.staticflickr.com/65535/51285265682_7226769516_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.4048654&amp;lon=133.193159&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Start point of Shimanami Kaido cycling road】 by yukky89_yamashita</p>',
+      tweet_id: '1414113365811634176',
+      description: '<p>3巻 P19  広島県尾道市 東御所町1</p><div class="tweetContainer" id="tweet1414113365811634176"></div> ',
       location: {
         center: [133.193159, 34.4048654],
         zoom: 14,

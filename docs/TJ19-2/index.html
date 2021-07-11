@@ -1,0 +1,177 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8" />
+<title>VisitSuzugamori 〜ざつ旅を辿る〜</title>
+<meta name="viewport" content="initial-scale=1,maximum-scale=1,user-scalable=no" />
+<meta name="description" content="VisitSuzugamori 〜ざつ旅を辿る〜 ざつ旅の登場人物である、鈴ヶ森さん。地図の上で、その足跡を辿ります。「ざつ旅」ファンサイト。" />
+<meta property="og:title" content="VisitSuzugamori 〜ざつ旅を辿る〜" />
+<meta property="og:type" content="website" />
+<meta property="og:site_name" content="VisitSuzugamori" />
+<meta property="og:description" content="VisitSuzugamori 〜ざつ旅を辿る〜 ざつ旅の登場人物である、鈴ヶ森さん。地図の上で、その足跡を辿ります。「ざつ旅」ファンサイト。" />
+<meta property="og:locale" content="ja_JP" />
+<meta property="og:image" content="https://visitsuzugamori.github.io/visitsuzugamori-360.png" />
+<meta property="article:author" content="isnot" />
+<meta property="article:tag" content="map" />
+<meta property="article:tag" content="ざつ旅" />
+<meta name="twitter:card" content="summary" />
+<script src="https://api.tiles.mapbox.com/mapbox-gl-js/v2.3.0/mapbox-gl.js"></script>
+<link href="https://api.tiles.mapbox.com/mapbox-gl-js/v2.3.0/mapbox-gl.css" rel="stylesheet" />
+<script src="https://unpkg.com/intersection-observer@0.12.0/intersection-observer.js"></script>
+<script src="https://unpkg.com/scrollama"></script>
+<script src="https://api.mapbox.com/mapbox-gl-js/plugins/mapbox-gl-directions/v4.1.0/mapbox-gl-directions.js"></script>
+<link rel="stylesheet" href="https://api.mapbox.com/mapbox-gl-js/plugins/mapbox-gl-directions/v4.1.0/mapbox-gl-directions.css" type="text/css"  />
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8" id="twitter-wjs"></script>
+<style>
+  body {
+      margin: 0;
+      padding: 0;
+      font-family: sans-serif;
+  }
+  a, a:hover, a:visited {
+      color: #0071bc;
+  }
+  #map {
+      top: 0;
+      height: 100vh;
+      width: 100vw;
+      position: fixed;
+  }
+  #header {
+      margin: auto;
+      width: 100%;
+      position: relative;
+      z-index: 5;
+  }
+  #header h1, #header h2, #header p {
+      margin: 0;
+      padding: 2vh 2vw;
+      text-align: center;
+  }
+  #footer {
+      width: 100%;
+      min-height: 5vh;
+      padding-top: 2vh;
+      padding-bottom: 2vh;
+      text-align: center;
+      line-height: 25px;
+      font-size: 13px;
+      position: relative;
+      z-index: 5;
+  }
+  #features {
+      padding-top: 10vh;
+      padding-bottom: 10vh;
+  }
+  .hidden {
+      visibility: hidden;
+  }
+  .centered {
+      width: 50vw;
+      margin: 0 auto;
+  }
+  .lefty {
+      width: 33vw;
+      margin-left: 5vw;
+  }
+  .righty {
+      width: 33vw;
+      margin-left: 62vw;
+  }
+  .fully {
+      width: 100%;
+      margin: auto;
+  }
+  .light {
+      color: #444;
+      background-color: #fafafa;
+  }
+  .dark {
+      color: #fafafa;
+      background-color: #444;
+  }
+  .step {
+      padding-bottom: 50vh;
+      /* margin-bottom: 10vh; */
+      opacity: 0.25;
+  }
+  .step.active {
+      opacity: 0.9;
+  }
+
+  .step div {
+      padding: 25px 50px;
+      line-height: 25px;
+      font-size: 13px;
+  }
+
+  .step img {
+      width: 100%;
+  }
+
+  @media (max-width: 750px) {
+      .centered, .lefty, .righty, .fully {
+          width: 90vw;
+          margin: 0 auto;
+      }
+  }
+
+  /* Fix issue on mobile browser where scroll breaks  */
+  .mapboxgl-canvas-container.mapboxgl-touch-zoom-rotate.mapboxgl-touch-drag-pan,
+  .mapboxgl-canvas-container.mapboxgl-touch-zoom-rotate.mapboxgl-touch-drag-pan .mapboxgl-canvas {
+      touch-action: unset;
+  }
+
+  #footer .navi {
+      background-color: #eed;
+      opacity: 0.9;
+      padding: 0.6em;
+      margin-bottom: 1.8em;
+  }
+  #footer .navi a {
+      padding: 3px 10px;
+      text-decoration: none;
+  }
+
+  #header h2 { padding: 0 2vw; }
+  .step h3 { font-size: 2em; }
+  .step p { font-size: 1.2em; }
+  .step .anchor {
+      margin: -0.8em -1.5em -1em 0;
+      padding: 0;
+      position: relative;
+      text-align: right;
+      line-height: 1em;
+      vertical-align: middle;
+  }
+  .step .LinkToHere, .step .LinkToGMap {
+      border-radius: 10px;
+      background-color: #eed;
+      padding: 5px;
+      width: 20px;
+      color: #0071bc;
+      font-size: 18px;
+      text-decoration: none;
+  }
+
+  div.placeDescription, div.tweetContainer, div.twitter-tweet {
+      margin: 0;
+      padding: 0;
+  }
+
+  @media (max-width: 750px) {
+      .step div { margin: 0; padding: 0; }
+      .step h3 { margin: 1px 20px 0 0; padding: 10px 20px 5px 20px; font-size: 2em; line-height: 1.3em; }
+      .step p { margin: 0; padding: 10px 20px; font-size: 13px; }
+      .step .anchor { margin: 0; }
+      .twitter-tweet iframe { width: 100%; padding: 3px; }
+  }
+</style>
+</head>
+<body>
+<div id="map"></div>
+<div id="story"></div>
+<script src="./config.js"></script>
+<script src="../story.js"></script>
+</body>
+</html>
