@@ -260,7 +260,19 @@
       "books": null,
       "subtitle": "ツーリング旅始まる…？",
       "camera": {"zoom": 11, "center": [139.6703, 35.6808]}
-    }  },
+    },
+    "TJ19-2": {
+      "index": 19,
+      "id": "TJ19-2",
+      "key": "第19旅",
+      "title": "第19旅 後編",
+      "place": "千代田区 北区 川口市 太田市 北群馬郡吉岡町 渋川市 利根郡みなかみ町",
+      "published": "2021, 電撃マオウ 8月号",
+      "books": null,
+      "subtitle": "思い出して群馬",
+      "camera": {"zoom": 10.2, "center": [139.0088, 36.4913]}
+    }
+  },
   "books": {
     "1": {
       "cover_image_url": "https://www.hanmoto.com/bd/img/9784049128253.jpg",
