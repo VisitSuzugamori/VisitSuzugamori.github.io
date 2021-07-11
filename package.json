@@ -46,7 +46,7 @@
   },
   "dependencies": {
     "@mapbox/mapbox-sdk": "^0.13.0",
-    "@turf/turf": "^6.4.0",
+    "@turf/turf": "^6.5.0",
     "got": "^11.8.2",
     "xmldom": "^0.6.0"
   }
