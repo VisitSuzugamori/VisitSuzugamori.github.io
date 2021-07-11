@@ -36,8 +36,8 @@ const config = {
       hidden: false,
       title: '大聖院',
       image: '',
-      tweet_id: '1410549279123406848',
-      description: '<p>3巻 P8  広島県廿日市市 宮島町滝町215</p><div class="tweetContainer" id="tweet1410549279123406848"></div> ',
+      tweet_id: '1413761430470365188',
+      description: '<p>3巻 P8  広島県廿日市市 宮島町滝町215</p><div class="tweetContainer" id="tweet1413761430470365188"></div> ',
       location: {
         center: [132.3184736, 34.2920477],
         zoom: 14,
@@ -97,7 +97,7 @@ const config = {
       title: 'コンフォートホテル呉',
       image: '',
       tweet_id: '',
-      description: '<p>3巻 P12  広島県呉市 宝町2</p> <p><img alt="kure_20200101180133" src="https://live.staticflickr.com/65535/50278725777_dddb02867b_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.2431335&amp;lon=132.5586395&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【kure_20200101180133】 by inunami</p>',
+      description: '<p>3巻 P12  広島県呉市 宝町2</p> <p><img alt="D71_2673" src="https://live.staticflickr.com/65535/50722338491_9a2e88ec94_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.2431335&amp;lon=132.5586395&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【D71_2673】 by Lox Pix</p>',
       location: {
         center: [132.5586395, 34.2431335],
         zoom: 14,
