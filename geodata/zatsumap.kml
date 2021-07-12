@@ -2895,16 +2895,6 @@
       </Point>
     </Placemark>
     <Placemark>
-      <name>足湯</name>
-      <description>第19旅（後編）</description>
-      <styleUrl>#icon-1899-0288D1-labelson</styleUrl>
-      <Point>
-        <coordinates>
-          138.968798,36.7641343,0
-        </coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
       <name>矢印いっぱい</name>
       <description>第19旅（後編）</description>
       <styleUrl>#icon-1899-0288D1-labelson</styleUrl>
@@ -2971,6 +2961,16 @@
       <Point>
         <coordinates>
           139.0338799,36.5414169,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>足湯</name>
+      <description>第19旅（後編）</description>
+      <styleUrl>#icon-1899-0288D1-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          138.968798,36.7641343,0
         </coordinates>
       </Point>
     </Placemark>
