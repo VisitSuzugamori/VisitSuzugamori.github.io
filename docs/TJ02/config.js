@@ -77,7 +77,7 @@ const config = {
       title: '松島公園',
       image: '',
       tweet_id: '',
-      description: '<p>1巻 P64  宮城県宮城郡 松島町 松島字霞ケ浦</p> <p><img alt="雄島" src="https://live.staticflickr.com/65535/51221394425_a4814c5527_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=38.3661732&amp;lon=141.0611304&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【雄島】 by いしだなおと</p>',
+      description: '<p>1巻 P64  宮城県宮城郡 松島町 松島字霞ケ浦</p> <p><img alt="Oshima Island" src="https://live.staticflickr.com/65535/50829561992_f0ea264f54_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=38.3661732&amp;lon=141.0611304&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Oshima Island】 by victor*f</p>',
       location: {
         center: [141.0611304, 38.3661732],
         zoom: 14,
@@ -97,7 +97,7 @@ const config = {
       title: '雄島',
       image: '',
       tweet_id: '',
-      description: '<p>1巻 P64  宮城県宮城郡 松島町 松島字霞ケ浦</p> <p><img alt="御嶋真珠稲荷大明神" src="https://live.staticflickr.com/65535/51221340535_4157a07bee_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=38.3653495&amp;lon=141.0625297&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【御嶋真珠稲荷大明神】 by いしだなおと</p>',
+      description: '<p>1巻 P64  宮城県宮城郡 松島町 松島字霞ケ浦</p> <p><img alt="雄島" src="https://live.staticflickr.com/65535/51221394425_a4814c5527_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=38.3653495&amp;lon=141.0625297&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【雄島】 by いしだなおと</p>',
       location: {
         center: [141.0625297, 38.3653495],
         zoom: 14,
@@ -117,7 +117,7 @@ const config = {
       title: '御嶋真珠稲荷大明神',
       image: '',
       tweet_id: '',
-      description: '<p>1巻 P65  宮城県宮城郡 松島町 松島字霞ケ浦</p> <p><img alt="Oshima Island" src="https://live.staticflickr.com/65535/50829564487_793e5c2e1c_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=38.3654838&amp;lon=141.0622564&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Oshima Island】 by victor*f</p>',
+      description: '<p>1巻 P65  宮城県宮城郡 松島町 松島字霞ケ浦</p> <p><img alt="御嶋真珠稲荷大明神" src="https://live.staticflickr.com/65535/51221340535_4157a07bee_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=38.3654838&amp;lon=141.0622564&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【御嶋真珠稲荷大明神】 by いしだなおと</p>',
       location: {
         center: [141.0622564, 38.3654838],
         zoom: 14,
@@ -177,7 +177,7 @@ const config = {
       title: 'うな真石田家',
       image: '',
       tweet_id: '',
-      description: '<p>1巻 P76  宮城県宮城郡 松島町 松島字仙隨</p> <p><img alt="松島さかな市場" src="https://live.staticflickr.com/65535/51211268914_03d30f6ae5_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=38.3707103&amp;lon=141.065417&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【松島さかな市場】 by いしだなおと</p>',
+      description: '<p>1巻 P76  宮城県宮城郡 松島町 松島字仙隨</p> <p><img alt="瑞嚴寺前" src="https://live.staticflickr.com/65535/49408110901_a4dd706eaa_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=38.3707103&amp;lon=141.065417&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【瑞嚴寺前】 by M.K. Design</p>',
       location: {
         center: [141.065417, 38.3707103],
         zoom: 14,
@@ -237,7 +237,7 @@ const config = {
       title: '松島さかな市場',
       image: '',
       tweet_id: '',
-      description: '<p>1巻 P81  宮城県宮城郡 松島町 松島字普賢堂</p> <p><img alt="探頭探腦" src="https://live.staticflickr.com/65535/49582717543_817fd6a7f3_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=38.3719519&amp;lon=141.0651719&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【探頭探腦】 by M.K. Design</p>',
+      description: '<p>1巻 P81  宮城県宮城郡 松島町 松島字普賢堂</p> <p><img alt="松島さかな市場" src="https://live.staticflickr.com/65535/51211268914_03d30f6ae5_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=38.3719519&amp;lon=141.0651719&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【松島さかな市場】 by いしだなおと</p>',
       location: {
         center: [141.0651719, 38.3719519],
         zoom: 14,

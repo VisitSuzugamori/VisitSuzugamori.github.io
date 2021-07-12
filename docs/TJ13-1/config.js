@@ -77,7 +77,7 @@ const config = {
       title: '旧大社駅舎',
       image: '',
       tweet_id: '',
-      description: '<p>3巻 P134  島根県出雲市 大社町北荒木452</p> <p><img alt="Former Taisha Station, Shimane  出雲大社　旧大社駅　島根" src="https://live.staticflickr.com/65535/50192567213_b75a7e68bd_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.3866419&amp;lon=132.690256&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Former Taisha Station, Shimane  出雲大社　旧大社駅　島根】 by Anaguma</p>',
+      description: '<p>3巻 P134  島根県出雲市 大社町北荒木452</p> <p><img alt="OLD Taisha Station (Izumo, Shimane, Japan)" src="https://live.staticflickr.com/4746/39665824061_c9cbe4aedd_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.3866419&amp;lon=132.690256&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【OLD Taisha Station (Izumo, Shimane, Japan)】 by t-mizo</p>',
       location: {
         center: [132.690256, 35.3866419],
         zoom: 14,
@@ -197,7 +197,7 @@ const config = {
       title: '出雲大社 拝殿',
       image: '',
       tweet_id: '',
-      description: '<p>3巻 P140  島根県出雲市 大社町杵築東257</p> <p><img alt="The hidden-in-the-back temple" src="https://live.staticflickr.com/65535/50628265512_06899697dc_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.4012055&amp;lon=132.6855211&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【The hidden-in-the-back temple】 by SocialHermit</p>',
+      description: '<p>3巻 P140  島根県出雲市 大社町杵築東257</p> <p><img alt="Izumo Taisha" src="https://live.staticflickr.com/65535/49882704167_26b0311926_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.4012055&amp;lon=132.6855211&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Izumo Taisha】 by hanstrappfr</p>',
       location: {
         center: [132.6855211, 35.4012055],
         zoom: 14,
@@ -217,7 +217,7 @@ const config = {
       title: '出雲大社 西十九社',
       image: '',
       tweet_id: '',
-      description: '<p>3巻 P141  島根県出雲市 大社町杵築東257</p> <p><img alt="Main temple" src="https://live.staticflickr.com/65535/50628265262_bcc503c4a2_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.4014929&amp;lon=132.6848802&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Main temple】 by SocialHermit</p>',
+      description: '<p>3巻 P141  島根県出雲市 大社町杵築東257</p> <p><img alt="The hidden-in-the-back temple" src="https://live.staticflickr.com/65535/50628265512_06899697dc_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.4014929&amp;lon=132.6848802&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【The hidden-in-the-back temple】 by SocialHermit</p>',
       location: {
         center: [132.6848802, 35.4014929],
         zoom: 14,
@@ -237,7 +237,7 @@ const config = {
       title: '出雲大社 神楽殿',
       image: '',
       tweet_id: '',
-      description: '<p>3巻 P142  島根県出雲市 大社町杵築東257</p> <p><img alt="Izumo Taisha" src="https://live.staticflickr.com/65535/49882704167_26b0311926_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.4015453&amp;lon=132.6844634&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Izumo Taisha】 by hanstrappfr</p>',
+      description: '<p>3巻 P142  島根県出雲市 大社町杵築東257</p> <p><img alt="Main temple" src="https://live.staticflickr.com/65535/50628265262_bcc503c4a2_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.4015453&amp;lon=132.6844634&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Main temple】 by SocialHermit</p>',
       location: {
         center: [132.6844634, 35.4015453],
         zoom: 14,
@@ -257,7 +257,7 @@ const config = {
       title: '稲佐の浜(弁天島)',
       image: '',
       tweet_id: '',
-      description: '<p>3巻 P143  島根県出雲市 大社町杵築北2844</p> <p><img alt="Shimane_Izumo" src="https://live.staticflickr.com/65535/49989704053_3474d69665_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.4003035&amp;lon=132.6719106&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Shimane_Izumo】 by DrunkenAngel48</p>',
+      description: '<p>3巻 P143  島根県出雲市 大社町杵築北2844</p> <p><img alt="島根県出雲市稲佐の浜" src="https://live.staticflickr.com/65535/49238298906_02f4f68138_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.4003035&amp;lon=132.6719106&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【島根県出雲市稲佐の浜】 by alvinphotos1</p>',
       location: {
         center: [132.6719106, 35.4003035],
         zoom: 14,
