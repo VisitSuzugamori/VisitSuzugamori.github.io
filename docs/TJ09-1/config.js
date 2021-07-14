@@ -117,7 +117,7 @@ const config = {
       title: 'あなごめし うえの 宮島口本店',
       image: '',
       tweet_id: '',
-      description: '<p>2巻 P148  広島県廿日市市 宮島口一丁目5</p> <p><img alt="JR West 226-87 with 227-73 at Miyajimaguchi" src="https://live.staticflickr.com/65535/49189551971_88bbbc92bb_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.311502&amp;lon=132.3035106&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【JR West 226-87 with 227-73 at Miyajimaguchi】 by Twydallaer</p>',
+      description: '<p>2巻 P148  広島県廿日市市 宮島口一丁目5</p> <p><img alt="kHia 40 transfer" src="https://live.staticflickr.com/65535/49706167578_ef62079037_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.311502&amp;lon=132.3035106&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【kHia 40 transfer】 by vicrailways</p>',
       location: {
         center: [132.3035106, 34.311502],
         zoom: 14,
@@ -137,7 +137,7 @@ const config = {
       title: '宮島桟橋',
       image: '',
       tweet_id: '',
-      description: '<p>2巻 P151  広島県廿日市市 宮島町873</p> <p><img alt="IMG_0990" src="https://live.staticflickr.com/65535/51259182735_d0abb44699_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.3020862&amp;lon=132.3222151&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【IMG_0990】 by Chico Leung</p>',
+      description: '<p>2巻 P151  広島県廿日市市 宮島町873</p> <p><img alt="IMG_0897" src="https://live.staticflickr.com/65535/51258341988_8622513e7f_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.3020862&amp;lon=132.3222151&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【IMG_0897】 by Chico Leung</p>',
       location: {
         center: [132.3222151, 34.3020862],
         zoom: 14,

@@ -6,7 +6,7 @@ const config = {
   theme: 'light',
   use3dTerrain: true,
   title: '第19旅 後編',
-  subtitle: '【千代田区 利根郡みなかみ町 北区 川口市 太田市 北群馬郡吉岡町 渋川市】思い出して群馬',
+  subtitle: '【千代田区 北区 川口市 太田市 北群馬郡吉岡町 渋川市 利根郡みなかみ町】思い出して群馬',
   byline: 'VisitSuzugamori 〜ざつ旅を辿る〜',
   footer: '<p class="navi"><a href="/">🔝各話一覧へ</a> <a href="https://github.com/VisitSuzugamori/VisitSuzugamori.github.io">💬contact</a></p><p>原作：<a href="https://www.kadokawa.co.jp/product/search/?sort=0&kw=%E3%81%96%E3%81%A4%E6%97%85">ざつ旅-That&#39;s Journey-</a> &copy; 石坂 ケンタ, KADOKAWA, 電撃マオウ / 地図・テンプレート：<a href="https://github.com/mapbox/storytelling">Mapbox</a> / 地図作成：VisitSuzugamori, <a href="https://twitter.com/isnot49662340">isnot</a>',
   chapters: [
@@ -32,7 +32,7 @@ const config = {
     },
     {
       id: '--矢印いっぱい',
-      alignment: 'left',
+      alignment: 'right',
       hidden: false,
       title: '矢印いっぱい',
       image: '',
@@ -52,7 +52,7 @@ const config = {
     },
     {
       id: '--路面電車',
-      alignment: 'right',
+      alignment: 'left',
       hidden: false,
       title: '路面電車',
       image: '',
@@ -72,7 +72,7 @@ const config = {
     },
     {
       id: '--埼玉突入',
-      alignment: 'left',
+      alignment: 'right',
       hidden: false,
       title: '埼玉突入',
       image: '',
@@ -92,7 +92,7 @@ const config = {
     },
     {
       id: '--道の駅 おおた',
-      alignment: 'right',
+      alignment: 'left',
       hidden: false,
       title: '道の駅 おおた',
       image: '',
@@ -112,7 +112,7 @@ const config = {
     },
     {
       id: '--新坂東橋',
-      alignment: 'left',
+      alignment: 'right',
       hidden: false,
       title: '新坂東橋',
       image: '',
@@ -132,12 +132,12 @@ const config = {
     },
     {
       id: '--渋川駅',
-      alignment: 'right',
+      alignment: 'left',
       hidden: false,
       title: '渋川駅',
       image: '',
       tweet_id: '',
-      description: '<p>   群馬県渋川市 渋川1655</p> <p><img alt="IMG_20200627_145350" src="https://live.staticflickr.com/65535/50049162833_b75d15784a_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=36.4913217&amp;lon=139.0087977&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【IMG_20200627_145350】 by tokotaha</p>',
+      description: '<p>   群馬県渋川市 渋川1655</p> <p><img alt="shibukawa_20190406123848" src="https://live.staticflickr.com/65535/48335419007_a5fd865420_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=36.4913217&amp;lon=139.0087977&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【shibukawa_20190406123848】 by inunami</p>',
       location: {
         center: [139.0087977, 36.4913217],
         zoom: 14,
@@ -152,7 +152,7 @@ const config = {
     },
     {
       id: '--福増寺屋',
-      alignment: 'left',
+      alignment: 'right',
       hidden: false,
       title: '福増寺屋',
       image: '',
@@ -172,12 +172,12 @@ const config = {
     },
     {
       id: '--足湯',
-      alignment: 'right',
+      alignment: 'left',
       hidden: false,
       title: '足湯',
       image: '',
       tweet_id: '',
-      description: '<p>   群馬県利根郡 みなかみ町 小日向416</p> <p><img alt="DSC07770" src="https://live.staticflickr.com/65535/49682492822_67262b0264_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=36.7641343&amp;lon=138.968798&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【DSC07770】 by OOMYV</p>',
+      description: '<p>   群馬県利根郡 みなかみ町 小日向416</p> <p><img alt="道の駅にいたら、川向うの上越線をSLが走っていったよ" src="https://live.staticflickr.com/3930/15335487579_809afcbbff_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=36.7641343&amp;lon=138.968798&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【道の駅にいたら、川向うの上越線をSLが走っていったよ】 by shckor</p>',
       location: {
         center: [138.968798, 36.7641343],
         zoom: 14,
@@ -190,5 +190,6 @@ const config = {
       onChapterEnter: [],
       onChapterExit: [],
     },
+
   ],
 };

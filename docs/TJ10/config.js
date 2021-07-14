@@ -17,7 +17,7 @@ const config = {
       title: '八甲田ロープウェイ 山頂公園駅',
       image: '',
       tweet_id: '',
-      description: '<p>3巻 P31  青森県青森市 </p> <p><img alt="L1004245" src="https://live.staticflickr.com/65535/49755229367_58e648fb0e_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=40.6758222&amp;lon=140.8588135&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【L1004245】 by YUSHENG HSU</p>',
+      description: '<p>3巻 P31  青森県青森市 </p> <p><img alt="" src="https://live.staticflickr.com/65535/50503418388_5bf50d6de3_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=40.6758222&amp;lon=140.8588135&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【】 by KYOEIMARU</p>',
       location: {
         center: [140.8588135, 40.6758222],
         zoom: 14,
@@ -36,8 +36,8 @@ const config = {
       hidden: false,
       title: '萱野茶屋',
       image: '',
-      tweet_id: '',
-      description: '<p>3巻 P32  青森県青森市 大字横内字八重菊62</p> <p><img alt="" src="https://live.staticflickr.com/7886/47193495301_8710185f1e_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=40.7057577&amp;lon=140.8223047&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【】 by mhrs.jp</p>',
+      tweet_id: '1415148024146366473',
+      description: '<p>3巻 P32  青森県青森市 大字横内字八重菊62</p><div class="tweetContainer" id="tweet1415148024146366473"></div> ',
       location: {
         center: [140.8223047, 40.7057577],
         zoom: 14,
@@ -77,7 +77,7 @@ const config = {
       title: '谷地温泉',
       image: '',
       tweet_id: '',
-      description: '<p>3巻 P38  青森県十和田市 </p> <p><img alt="Yachi onsen, one of the secret onsen of Aomori" src="https://live.staticflickr.com/65535/50036012223_af7d118d43_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=40.6330178&amp;lon=140.9245271&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Yachi onsen, one of the secret onsen of Aomori】 by Hans ter Horst Photography</p>',
+      description: '<p>3巻 P38  青森県十和田市 </p> <p><img alt="Yachi onsen, one of the secret onsen of Aomori" src="https://live.staticflickr.com/65535/48712696351_5bda163c9e_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=40.6330178&amp;lon=140.9245271&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Yachi onsen, one of the secret onsen of Aomori】 by Hans ter Horst Photography</p>',
       location: {
         center: [140.9245271, 40.6330178],
         zoom: 14,
@@ -117,7 +117,7 @@ const config = {
       title: '三途の川',
       image: '',
       tweet_id: '',
-      description: '<p>3巻 P49  青森県むつ市 </p> <p><img alt="Holy place Osorezan area map" src="https://live.staticflickr.com/8831/17633965984_ae951abdbe_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=41.3260657&amp;lon=141.0962272&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Holy place Osorezan area map】 by mega_midget_racer</p>',
+      description: '<p>3巻 P49  青森県むつ市 </p> <p><img alt="Mutsu Oct 17 68" src="https://live.staticflickr.com/5794/21971110014_5ec226ab08_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=41.3260657&amp;lon=141.0962272&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Mutsu Oct 17 68】 by tculek</p>',
       location: {
         center: [141.0962272, 41.3260657],
         zoom: 14,
@@ -157,7 +157,7 @@ const config = {
       title: '宇曽利山湖 極楽浜',
       image: '',
       tweet_id: '',
-      description: '<p>3巻 P51  青森県むつ市 </p> <p><img alt="æ¥µæ¥½æµ" src="https://live.staticflickr.com/5449/30300212020_093342e31e_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=41.3264966&amp;lon=141.086011&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【æ¥µæ¥½æµ】 by kanata-t</p>',
+      description: '<p>3巻 P51  青森県むつ市 </p> <p><img alt="恐山" src="https://live.staticflickr.com/65535/50327664441_0856db8fa1_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=41.3264966&amp;lon=141.086011&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【恐山】 by himeti</p>',
       location: {
         center: [141.086011, 41.3264966],
         zoom: 14,
