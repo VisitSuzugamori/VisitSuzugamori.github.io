@@ -16,8 +16,8 @@ const config = {
       hidden: false,
       title: '東京駅',
       image: '',
-      tweet_id: '1414198844695457799',
-      description: '<p>5巻 P60  東京都千代田区 丸の内一丁目9</p><div class="tweetContainer" id="tweet1414198844695457799"></div> ',
+      tweet_id: '1414785518563303426',
+      description: '<p>5巻 P60  東京都千代田区 丸の内一丁目9</p><div class="tweetContainer" id="tweet1414785518563303426"></div> ',
       location: {
         center: [139.7671248, 35.6812362],
         zoom: 14,

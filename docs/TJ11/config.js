@@ -57,7 +57,7 @@ const config = {
       title: 'この辺まで来たよ',
       image: '',
       tweet_id: '',
-      description: '<p>3巻 P61  和歌山県東牟婁郡 串本町 </p> <p><img alt="shionomisaki light house" src="https://live.staticflickr.com/4502/37487522141_c45ef6c230_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=33.4378491&amp;lon=135.754685&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【shionomisaki light house】 by hanenashi2968</p>',
+      description: '<p>3巻 P61  和歌山県東牟婁郡 串本町 </p> <p><img alt="South end of Honshu island" src="https://live.staticflickr.com/4185/34466991062_1e10bc85bc_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=33.4378491&amp;lon=135.754685&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【South end of Honshu island】 by harum.koh</p>',
       location: {
         center: [135.754685, 33.4378491],
         zoom: 14,
@@ -217,7 +217,7 @@ const config = {
       title: 'くまのこ食堂',
       image: '',
       tweet_id: '',
-      description: '<p>3巻 P81  和歌山県田辺市 本宮町本宮</p> <p><img alt="IMG_3544" src="https://live.staticflickr.com/65535/49393882143_a5f992baaa_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=33.834421&amp;lon=135.7723926&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【IMG_3544】 by aneel</p>',
+      description: '<p>3巻 P81  和歌山県田辺市 本宮町本宮</p> <p><img alt="IMG_8150.jpg" src="https://live.staticflickr.com/4862/45473003575_2bd35a99cb_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=33.834421&amp;lon=135.7723926&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【IMG_8150.jpg】 by _foam</p>',
       location: {
         center: [135.7723926, 33.834421],
         zoom: 14,
