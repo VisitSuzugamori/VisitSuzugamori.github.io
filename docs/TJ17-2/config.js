@@ -37,7 +37,7 @@ const config = {
       title: '両子寺 仁王',
       image: '',
       tweet_id: '',
-      description: '<p>5巻 P104  大分県国東市 </p> <p><img alt="DSCN4562" src="https://live.staticflickr.com/3814/14260004332_2aa7177d28_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=33.5728799&amp;lon=131.6046218&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【DSCN4562】 by rurinoshima</p>',
+      description: '<p>5巻 P104  大分県国東市 </p> <p><img alt="8008 Kunisaki-04.jpg" src="https://live.staticflickr.com/65535/48987862457_2e0f076ab0_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=33.5728799&amp;lon=131.6046218&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【8008 Kunisaki-04.jpg】 by Bruce Batten</p>',
       location: {
         center: [131.6046218, 33.5728799],
         zoom: 14,
@@ -56,8 +56,8 @@ const config = {
       hidden: false,
       title: '両子寺',
       image: '',
-      tweet_id: '1413381106867445760',
-      description: '<p>5巻 P105  大分県国東市 </p><div class="tweetContainer" id="tweet1413381106867445760"></div> ',
+      tweet_id: '',
+      description: '<p>5巻 P105  大分県国東市 </p> <p><img alt="Futago-ji Temple" src="https://live.staticflickr.com/4533/38279324851_01819ca4e0_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=33.5740013&amp;lon=131.603241&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Futago-ji Temple】 by K.G.23</p>',
       location: {
         center: [131.603241, 33.5740013],
         zoom: 14,
