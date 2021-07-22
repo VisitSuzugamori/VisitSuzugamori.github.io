@@ -36,8 +36,8 @@ const config = {
       hidden: false,
       title: '岡山駅',
       image: '',
-      tweet_id: '1414868754769408006',
-      description: '<p>1巻 P130  岡山県岡山市 北区 駅元町11</p><div class="tweetContainer" id="tweet1414868754769408006"></div> ',
+      tweet_id: '1416533072065884160',
+      description: '<p>1巻 P130  岡山県岡山市 北区 駅元町11</p><div class="tweetContainer" id="tweet1416533072065884160"></div> ',
       location: {
         center: [133.9177335, 34.6661212],
         zoom: 14,
@@ -56,8 +56,8 @@ const config = {
       hidden: false,
       title: '高松駅',
       image: '',
-      tweet_id: '1415940805500411910',
-      description: '<p>1巻 P131  香川県高松市 西の丸町2</p><div class="tweetContainer" id="tweet1415940805500411910"></div> ',
+      tweet_id: '1417811167766999042',
+      description: '<p>1巻 P131  香川県高松市 西の丸町2</p><div class="tweetContainer" id="tweet1417811167766999042"></div> ',
       location: {
         center: [134.047056, 34.3504507],
         zoom: 14,
@@ -217,7 +217,7 @@ const config = {
       title: '玉藻公園',
       image: '',
       tweet_id: '',
-      description: '<p>1巻 P150  香川県高松市 玉藻町2</p> <p><img alt="2019 瀨戶內國際藝術祭-玉藻公園, Study 16" src="https://live.staticflickr.com/65535/49764602826_830d69b535_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.3503157&amp;lon=134.0516188&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【2019 瀨戶內國際藝術祭-玉藻公園, Study 16】 by Zale Yu</p>',
+      description: '<p>1巻 P150  香川県高松市 玉藻町2</p> <p><img alt="2019 瀨戶內國際藝術祭-玉藻公園, Study 1" src="https://live.staticflickr.com/65535/49764929637_c7489a91e1_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.3503157&amp;lon=134.0516188&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【2019 瀨戶內國際藝術祭-玉藻公園, Study 1】 by Zale Yu</p>',
       location: {
         center: [134.0516188, 34.3503157],
         zoom: 14,
@@ -236,8 +236,8 @@ const config = {
       hidden: false,
       title: '栗林公園',
       image: '',
-      tweet_id: '1416922941548232705',
-      description: '<p>1巻 P157  香川県高松市 栗林町一丁目20</p><div class="tweetContainer" id="tweet1416922941548232705"></div> ',
+      tweet_id: '1417381390228738049',
+      description: '<p>1巻 P157  香川県高松市 栗林町一丁目20</p><div class="tweetContainer" id="tweet1417381390228738049"></div> ',
       location: {
         center: [134.0445345, 34.3293842],
         zoom: 14,
