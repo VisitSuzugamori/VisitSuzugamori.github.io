@@ -36,8 +36,8 @@ const config = {
       hidden: false,
       title: '磐梯熱海駅',
       image: '',
-      tweet_id: '1418032663990988801',
-      description: '<p>1巻 P23  福島県郡山市 熱海町熱海一丁目109</p><div class="tweetContainer" id="tweet1418032663990988801"></div> ',
+      tweet_id: '1418451816631635968',
+      description: '<p>1巻 P23  福島県郡山市 熱海町熱海一丁目109</p><div class="tweetContainer" id="tweet1418451816631635968"></div> ',
       location: {
         center: [140.2708687, 37.4808961],
         zoom: 14,
@@ -117,7 +117,7 @@ const config = {
       title: '小池菓子舗 飯盛山店',
       image: '',
       tweet_id: '',
-      description: '<p>1巻 P26  福島県会津若松市 一箕町八幡弁天下2</p> <p><img alt="イチョウ" src="https://live.staticflickr.com/65535/50758071426_221709fde9_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=37.5044771&amp;lon=139.9528276&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【イチョウ】 by Chitaka Chou</p>',
+      description: '<p>1巻 P26  福島県会津若松市 一箕町八幡弁天下2</p> <p><img alt="イチョウ" src="https://live.staticflickr.com/65535/50757333628_0caed3c01a_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=37.5044771&amp;lon=139.9528276&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【イチョウ】 by Chitaka Chou</p>',
       location: {
         center: [139.9528276, 37.5044771],
         zoom: 14,
@@ -237,7 +237,7 @@ const config = {
       title: '会津さざえ堂 (円通寺三匝堂)',
       image: '',
       tweet_id: '',
-      description: '<p>1巻 P51  福島県会津若松市 一箕町八幡弁天下33</p> <p><img alt="イチョウ" src="https://live.staticflickr.com/65535/50757333628_0caed3c01a_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=37.5045319&amp;lon=139.9539697&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【イチョウ】 by Chitaka Chou</p>',
+      description: '<p>1巻 P51  福島県会津若松市 一箕町八幡弁天下33</p> <p><img alt="イチョウ" src="https://live.staticflickr.com/65535/50758071426_221709fde9_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=37.5045319&amp;lon=139.9539697&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【イチョウ】 by Chitaka Chou</p>',
       location: {
         center: [139.9539697, 37.5045319],
         zoom: 14,

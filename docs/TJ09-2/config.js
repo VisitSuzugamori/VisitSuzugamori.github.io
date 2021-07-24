@@ -77,7 +77,7 @@ const config = {
       title: '呉駅',
       image: '',
       tweet_id: '',
-      description: '<p>3巻 P11  広島県呉市 宝町2</p> <p><img alt="kure_20200101180532" src="https://live.staticflickr.com/65535/50278724972_3bb759884f_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.2446471&amp;lon=132.5575846&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【kure_20200101180532】 by inunami</p>',
+      description: '<p>3巻 P11  広島県呉市 宝町2</p> <p><img alt="kure_20200101180133" src="https://live.staticflickr.com/65535/50278725777_dddb02867b_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.2446471&amp;lon=132.5575846&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【kure_20200101180133】 by inunami</p>',
       location: {
         center: [132.5575846, 34.2446471],
         zoom: 14,
@@ -97,7 +97,7 @@ const config = {
       title: 'コンフォートホテル呉',
       image: '',
       tweet_id: '',
-      description: '<p>3巻 P12  広島県呉市 宝町2</p> <p><img alt="kure_20200101180133" src="https://live.staticflickr.com/65535/50278725777_dddb02867b_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.2431335&amp;lon=132.5586395&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【kure_20200101180133】 by inunami</p>',
+      description: '<p>3巻 P12  広島県呉市 宝町2</p> <p><img alt="kure_20200101180440" src="https://live.staticflickr.com/65535/50277894228_0f240e46e4_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.2431335&amp;lon=132.5586395&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【kure_20200101180440】 by inunami</p>',
       location: {
         center: [132.5586395, 34.2431335],
         zoom: 14,
@@ -136,8 +136,8 @@ const config = {
       hidden: false,
       title: '大和ミュージアム（呉市海事歴史科学館）',
       image: '',
-      tweet_id: '1417990227294146570',
-      description: '<p>3巻 P15  広島県呉市 宝町4</p><div class="tweetContainer" id="tweet1417990227294146570"></div> ',
+      tweet_id: '1418468161456902147',
+      description: '<p>3巻 P15  広島県呉市 宝町4</p><div class="tweetContainer" id="tweet1418468161456902147"></div> ',
       location: {
         center: [132.5558555, 34.2411391],
         zoom: 14,
@@ -197,7 +197,7 @@ const config = {
       title: '清浄山光明寺',
       image: '',
       tweet_id: '',
-      description: '<p>3巻 P19  広島県尾道市 東土堂町2</p> <p><img alt="A walk in Onomichi" src="https://live.staticflickr.com/65535/51164278342_b2cdc89397_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.4081822&amp;lon=133.1978116&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【A walk in Onomichi】 by Blue Ridge Walker</p>',
+      description: '<p>3巻 P19  広島県尾道市 東土堂町2</p> <p><img alt="A walk in Onomichi" src="https://live.staticflickr.com/65535/51165182068_8b5b3cee34_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.4081822&amp;lon=133.1978116&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【A walk in Onomichi】 by Blue Ridge Walker</p>',
       location: {
         center: [133.1978116, 34.4081822],
         zoom: 14,

@@ -16,8 +16,8 @@ const config = {
       hidden: false,
       title: '東京駅',
       image: '',
-      tweet_id: '1416579576952549377',
-      description: '<p>1巻 P126  東京都千代田区 丸の内一丁目9</p><div class="tweetContainer" id="tweet1416579576952549377"></div> ',
+      tweet_id: '1418488627563139078',
+      description: '<p>1巻 P126  東京都千代田区 丸の内一丁目9</p><div class="tweetContainer" id="tweet1418488627563139078"></div> ',
       location: {
         center: [139.7671248, 35.6812362],
         zoom: 14,
@@ -136,8 +136,8 @@ const config = {
       hidden: false,
       title: 'うどん本陣 山田家',
       image: '',
-      tweet_id: '',
-      description: '<p>1巻 P134  香川県高松市 牟礼町牟礼3128</p> <p><img alt="IMG_2385" src="https://live.staticflickr.com/4255/34955050654_c2890fa7b5_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.3532536&amp;lon=134.1296254&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【IMG_2385】 by ponareon</p>',
+      tweet_id: '1418146332901007360',
+      description: '<p>1巻 P134  香川県高松市 牟礼町牟礼3128</p><div class="tweetContainer" id="tweet1418146332901007360"></div> ',
       location: {
         center: [134.1296254, 34.3532536],
         zoom: 14,
