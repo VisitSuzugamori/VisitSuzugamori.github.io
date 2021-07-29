@@ -57,7 +57,7 @@ const config = {
       title: '広島テレビ放送',
       image: '',
       tweet_id: '',
-      description: '<p>2巻 P145  広島県広島市 東区 二葉の里三丁目5</p> <p><img alt="Japan_Roll-14_07" src="https://live.staticflickr.com/65535/49840112437_e242194757_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.3999238&amp;lon=132.4758202&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Japan_Roll-14_07】 by derekcarter2</p>',
+      description: '<p>2巻 P145  広島県広島市 東区 二葉の里三丁目5</p> <p><img alt="Japan_Roll-14_09" src="https://live.staticflickr.com/65535/49840112192_30cca37e5c_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.3999238&amp;lon=132.4758202&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Japan_Roll-14_09】 by derekcarter2</p>',
       location: {
         center: [132.4758202, 34.3999238],
         zoom: 14,
@@ -76,8 +76,8 @@ const config = {
       hidden: false,
       title: '広島駅',
       image: '',
-      tweet_id: '1419046034320203778',
-      description: '<p>2巻 P146  広島県広島市 南区 松原町1</p><div class="tweetContainer" id="tweet1419046034320203778"></div> ',
+      tweet_id: '1420528506400776195',
+      description: '<p>2巻 P146  広島県広島市 南区 松原町1</p><div class="tweetContainer" id="tweet1420528506400776195"></div> ',
       location: {
         center: [132.4753786, 34.397667],
         zoom: 14,
@@ -136,8 +136,8 @@ const config = {
       hidden: false,
       title: '宮島桟橋',
       image: '',
-      tweet_id: '1417004971485061124',
-      description: '<p>2巻 P151  広島県廿日市市 宮島町873</p><div class="tweetContainer" id="tweet1417004971485061124"></div> ',
+      tweet_id: '',
+      description: '<p>2巻 P151  広島県廿日市市 宮島町873</p> <p><img alt="JR Miyajima Station (Ferry Terminal)" src="https://live.staticflickr.com/65535/51332939265_83687dcdbe_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.3020862&amp;lon=132.3222151&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【JR Miyajima Station (Ferry Terminal)】 by Kzaral</p>',
       location: {
         center: [132.3222151, 34.3020862],
         zoom: 14,
