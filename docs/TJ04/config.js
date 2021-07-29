@@ -56,8 +56,8 @@ const config = {
       hidden: false,
       title: '高松駅',
       image: '',
-      tweet_id: '1417811167766999042',
-      description: '<p>1巻 P131  香川県高松市 西の丸町2</p><div class="tweetContainer" id="tweet1417811167766999042"></div> ',
+      tweet_id: '1418109162718830595',
+      description: '<p>1巻 P131  香川県高松市 西の丸町2</p><div class="tweetContainer" id="tweet1418109162718830595"></div> ',
       location: {
         center: [134.047056, 34.3504507],
         zoom: 14,
@@ -176,8 +176,8 @@ const config = {
       hidden: false,
       title: '八栗寺',
       image: '',
-      tweet_id: '',
-      description: '<p>1巻 P143  香川県高松市 牟礼町牟礼3416</p> <p><img alt="Yakuri-ji, the 85th Temple of the Sacred Shikoku Pilgrimage in Kagawa, Japan." src="https://live.staticflickr.com/65535/48951825247_d8e3c3fc3f_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.3599067&amp;lon=134.1398791&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Yakuri-ji, the 85th Temple of the Sacred Shikoku Pilgrimage in Kagawa, Japan.】 by KyotoDreamTrips</p>',
+      tweet_id: '1420637638164320258',
+      description: '<p>1巻 P143  香川県高松市 牟礼町牟礼3416</p><div class="tweetContainer" id="tweet1420637638164320258"></div> ',
       location: {
         center: [134.1398791, 34.3599067],
         zoom: 14,

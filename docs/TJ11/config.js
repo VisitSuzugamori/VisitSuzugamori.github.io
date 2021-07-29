@@ -197,7 +197,7 @@ const config = {
       title: '新宮市観光協会 shingu tourist information centre',
       image: '',
       tweet_id: '',
-      description: '<p>3巻 P81  和歌山県新宮市 徐福一丁目3</p> <p><img alt="新宮駅" src="https://live.staticflickr.com/65535/50084565328_90a5daae47_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=33.7254244&amp;lon=135.9946972&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【新宮駅】 by OOMYV</p>',
+      description: '<p>3巻 P81  和歌山県新宮市 徐福一丁目3</p> <p><img alt="新宮站, 和歌山, 日本, 新宮駅, しんぐうえき, わかやまけん, にっぽん, にほん, Shingu Station, Wakayama, Japan, Nippon, Nihon" src="https://live.staticflickr.com/65535/49355096946_5fe66c54fd_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=33.7254244&amp;lon=135.9946972&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【新宮站, 和歌山, 日本, 新宮駅, しんぐうえき, わかやまけん, にっぽん, にほん, Shingu Station, Wakayama, Japan, Nippon, Nihon】 by bryan...</p>',
       location: {
         center: [135.9946972, 33.7254244],
         zoom: 14,

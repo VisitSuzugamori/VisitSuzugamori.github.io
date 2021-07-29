@@ -57,7 +57,7 @@ const config = {
       title: '藤岡酒造',
       image: '',
       tweet_id: '',
-      description: '<p>2巻 P16  京都府京都市 伏見区 今町669</p> <p><img alt="珍遊のラーメン" src="https://live.staticflickr.com/65535/50115002776_30c119f009_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.9351213&amp;lon=135.7624568&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【珍遊のラーメン】 by albertus</p>',
+      description: '<p>2巻 P16  京都府京都市 伏見区 今町669</p> <p><img alt="ラーメン・明太子定食" src="https://live.staticflickr.com/65535/50011517023_820f1aa7c5_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.9351213&amp;lon=135.7624568&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【ラーメン・明太子定食】 by albertus</p>',
       location: {
         center: [135.7624568, 34.9351213],
         zoom: 14,
@@ -77,7 +77,7 @@ const config = {
       title: '月桂冠大倉記念館',
       image: '',
       tweet_id: '',
-      description: '<p>2巻 P17  京都府京都市 伏見区 本材木町680</p> <p><img alt="伏見3・Fushimi" src="https://live.staticflickr.com/65535/49800485533_a485179bf4_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.929136&amp;lon=135.76161&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【伏見3・Fushimi】 by anglo10</p>',
+      description: '<p>2巻 P17  京都府京都市 伏見区 本材木町680</p> <p><img alt="長建寺" src="https://live.staticflickr.com/65535/50311170767_f814092770_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.929136&amp;lon=135.76161&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【長建寺】 by albertus</p>',
       location: {
         center: [135.76161, 34.929136],
         zoom: 14,
@@ -217,7 +217,7 @@ const config = {
       title: '天橋立ビューランド',
       image: '',
       tweet_id: '',
-      description: '<p>2巻 P32  京都府宮津市 文珠1</p> <p><img alt="IMG_1624" src="https://live.staticflickr.com/65535/51257467692_503eda4740_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.5527779&amp;lon=135.1821171&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【IMG_1624】 by Chico Leung</p>',
+      description: '<p>2巻 P32  京都府宮津市 文珠1</p> <p><img alt="IMG_1588" src="https://live.staticflickr.com/65535/51257498987_b8cafaa98f_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.5527779&amp;lon=135.1821171&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【IMG_1588】 by Chico Leung</p>',
       location: {
         center: [135.1821171, 35.5527779],
         zoom: 14,

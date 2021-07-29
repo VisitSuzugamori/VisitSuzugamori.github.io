@@ -17,7 +17,7 @@ const config = {
       title: '嚴島神社',
       image: '',
       tweet_id: '',
-      description: '<p>3巻 P5  </p> <p><img alt="Miyajima Shrine, Hatsukaichi" src="https://live.staticflickr.com/65535/51332939070_bdcc6b8aa6_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.2959885&amp;lon=132.3198262&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Miyajima Shrine, Hatsukaichi】 by Kzaral</p>',
+      description: '<p>3巻 P5  </p> <p><img alt="Miyajima Shrine, Hatsukaichi" src="https://live.staticflickr.com/65535/51331944031_612728ab19_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.2959885&amp;lon=132.3198262&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Miyajima Shrine, Hatsukaichi】 by Kzaral</p>',
       location: {
         center: [132.3198262, 34.2959885],
         zoom: 14,
@@ -36,8 +36,8 @@ const config = {
       hidden: false,
       title: '大聖院',
       image: '',
-      tweet_id: '',
-      description: '<p>3巻 P8  広島県廿日市市 宮島町滝町215</p> <p><img alt="Daisho-in" src="https://live.staticflickr.com/65535/51089252156_2d919ce88d_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.2920477&amp;lon=132.3184736&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Daisho-in】 by Joerg1975</p>',
+      tweet_id: '1420610229402705926',
+      description: '<p>3巻 P8  広島県廿日市市 宮島町滝町215</p><div class="tweetContainer" id="tweet1420610229402705926"></div> ',
       location: {
         center: [132.3184736, 34.2920477],
         zoom: 14,

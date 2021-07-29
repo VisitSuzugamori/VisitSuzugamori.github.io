@@ -197,7 +197,7 @@ const config = {
       title: '出雲大社 拝殿',
       image: '',
       tweet_id: '',
-      description: '<p>3巻 P140  島根県出雲市 大社町杵築東257</p> <p><img alt="島根県古代出雲歴史博物館" src="https://live.staticflickr.com/65535/51341348120_7fdcdae0c6_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.4012055&amp;lon=132.6855211&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【島根県古代出雲歴史博物館】 by Chitaka Chou</p>',
+      description: '<p>3巻 P140  島根県出雲市 大社町杵築東257</p> <p><img alt="島根県古代出雲歴史博物館" src="https://live.staticflickr.com/65535/51339615082_c652243de1_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.4012055&amp;lon=132.6855211&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【島根県古代出雲歴史博物館】 by Chitaka Chou</p>',
       location: {
         center: [132.6855211, 35.4012055],
         zoom: 14,
@@ -336,8 +336,8 @@ const config = {
       hidden: false,
       title: '松江城',
       image: '',
-      tweet_id: '1417677549677645824',
-      description: '<p>3巻 P150  島根県松江市 殿町1</p><div class="tweetContainer" id="tweet1417677549677645824"></div> ',
+      tweet_id: '1418411503183564801',
+      description: '<p>3巻 P150  島根県松江市 殿町1</p><div class="tweetContainer" id="tweet1418411503183564801"></div> ',
       location: {
         center: [133.0506783, 35.4751335],
         zoom: 14,
