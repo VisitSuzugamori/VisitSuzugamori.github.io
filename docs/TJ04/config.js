@@ -56,8 +56,8 @@ const config = {
       hidden: false,
       title: '高松駅',
       image: '',
-      tweet_id: '1418109162718830595',
-      description: '<p>1巻 P131  香川県高松市 西の丸町2</p><div class="tweetContainer" id="tweet1418109162718830595"></div> ',
+      tweet_id: '1420928918001913862',
+      description: '<p>1巻 P131  香川県高松市 西の丸町2</p><div class="tweetContainer" id="tweet1420928918001913862"></div> ',
       location: {
         center: [134.047056, 34.3504507],
         zoom: 14,
@@ -97,7 +97,7 @@ const config = {
       title: '八栗駅',
       image: '',
       tweet_id: '',
-      description: '<p>1巻 P134  香川県高松市 牟礼町牟礼2210</p> <p><img alt="帰り道の電車" src="https://live.staticflickr.com/715/21694861128_40dc0f9dc7_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.3446375&amp;lon=134.122008&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【帰り道の電車】 by 風の色写真館（讃岐東部の写真集）</p>',
+      description: '<p>1巻 P134  香川県高松市 牟礼町牟礼2210</p> <p><img alt="DSC05066.JPG" src="https://live.staticflickr.com/5149/5677062182_4de4f91ac1_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.3446375&amp;lon=134.122008&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【DSC05066.JPG】 by t.nanba</p>',
       location: {
         center: [134.122008, 34.3446375],
         zoom: 14,
@@ -117,7 +117,7 @@ const config = {
       title: '総門跡',
       image: '',
       tweet_id: '',
-      description: '<p>1巻 P134  香川県高松市 牟礼町牟礼2418</p> <p><img alt="DSC05066.JPG" src="https://live.staticflickr.com/5149/5677062182_4de4f91ac1_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.345598&amp;lon=134.1223194&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【DSC05066.JPG】 by t.nanba</p>',
+      description: '<p>1巻 P134  香川県高松市 牟礼町牟礼2418</p> <p><img alt="帰り道の電車" src="https://live.staticflickr.com/715/21694861128_40dc0f9dc7_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.345598&amp;lon=134.1223194&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【帰り道の電車】 by 風の色写真館（讃岐東部の写真集）</p>',
       location: {
         center: [134.1223194, 34.345598],
         zoom: 14,
@@ -136,8 +136,8 @@ const config = {
       hidden: false,
       title: 'うどん本陣 山田家',
       image: '',
-      tweet_id: '1418146332901007360',
-      description: '<p>1巻 P134  香川県高松市 牟礼町牟礼3128</p><div class="tweetContainer" id="tweet1418146332901007360"></div> ',
+      tweet_id: '1418827251530018823',
+      description: '<p>1巻 P134  香川県高松市 牟礼町牟礼3128</p><div class="tweetContainer" id="tweet1418827251530018823"></div> ',
       location: {
         center: [134.1296254, 34.3532536],
         zoom: 14,
@@ -216,8 +216,8 @@ const config = {
       hidden: false,
       title: '玉藻公園',
       image: '',
-      tweet_id: '1418827914343292941',
-      description: '<p>1巻 P150  香川県高松市 玉藻町2</p><div class="tweetContainer" id="tweet1418827914343292941"></div> ',
+      tweet_id: '1420936309925941250',
+      description: '<p>1巻 P150  香川県高松市 玉藻町2</p><div class="tweetContainer" id="tweet1420936309925941250"></div> ',
       location: {
         center: [134.0516188, 34.3503157],
         zoom: 14,
