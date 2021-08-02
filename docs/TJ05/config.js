@@ -57,7 +57,7 @@ const config = {
       title: '藤岡酒造',
       image: '',
       tweet_id: '',
-      description: '<p>2巻 P16  京都府京都市 伏見区 今町669</p> <p><img alt="珍遊のラーメン" src="https://live.staticflickr.com/65535/50115002776_30c119f009_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.9351213&amp;lon=135.7624568&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【珍遊のラーメン】 by albertus</p>',
+      description: '<p>2巻 P16  京都府京都市 伏見区 今町669</p> <p><img alt="呉竹湯" src="https://live.staticflickr.com/65535/49166042607_a0d41435ae_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.9351213&amp;lon=135.7624568&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【呉竹湯】 by albertus</p>',
       location: {
         center: [135.7624568, 34.9351213],
         zoom: 14,
@@ -77,7 +77,7 @@ const config = {
       title: '月桂冠大倉記念館',
       image: '',
       tweet_id: '',
-      description: '<p>2巻 P17  京都府京都市 伏見区 本材木町680</p> <p><img alt="伏見3・Fushimi" src="https://live.staticflickr.com/65535/49800485533_a485179bf4_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.929136&amp;lon=135.76161&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【伏見3・Fushimi】 by anglo10</p>',
+      description: '<p>2巻 P17  京都府京都市 伏見区 本材木町680</p> <p><img alt="長建寺" src="https://live.staticflickr.com/65535/50311170767_f814092770_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.929136&amp;lon=135.76161&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【長建寺】 by albertus</p>',
       location: {
         center: [135.76161, 34.929136],
         zoom: 14,
@@ -236,8 +236,8 @@ const config = {
       hidden: false,
       title: '天橋立',
       image: '',
-      tweet_id: '1419137673164247042',
-      description: '<p>2巻 P35  京都府宮津市 字江尻927</p><div class="tweetContainer" id="tweet1419137673164247042"></div> ',
+      tweet_id: '',
+      description: '<p>2巻 P35  京都府宮津市 字江尻927</p> <p><img alt="Hra barev" src="https://live.staticflickr.com/65535/51326048323_fe2ac2cd33_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.5698022&amp;lon=135.1918204&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Hra barev】 by SocialHermit</p>',
       location: {
         center: [135.1918204, 35.5698022],
         zoom: 14,
