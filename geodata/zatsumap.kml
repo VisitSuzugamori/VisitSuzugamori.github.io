@@ -2875,7 +2875,8 @@
       </Point>
     </Placemark>
     <Placemark>
-      <name>道路多いっ</name>
+      <name>道路多いっ
+</name>
       <description>第19旅（前編）</description>
       <styleUrl>#icon-1899-0288D1-labelson</styleUrl>
       <Point>
@@ -2891,6 +2892,16 @@
       <Point>
         <coordinates>
           139.7519827,35.6774878,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>足湯</name>
+      <description>第19旅（後編）</description>
+      <styleUrl>#icon-1899-0288D1-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          138.968798,36.7641343,0
         </coordinates>
       </Point>
     </Placemark>
@@ -2965,12 +2976,62 @@
       </Point>
     </Placemark>
     <Placemark>
-      <name>足湯</name>
+      <name>棚下不動の滝(雄滝)</name>
       <description>第19旅（後編）</description>
       <styleUrl>#icon-1899-0288D1-labelson</styleUrl>
       <Point>
         <coordinates>
-          138.968798,36.7641343,0
+          139.0596769,36.5717451,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ばーちゃん再会の地</name>
+      <description>第19旅（後編）</description>
+      <styleUrl>#icon-1899-0288D1-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          139.053134,36.5749053,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>綾戸橋</name>
+      <description>第19旅（後編）</description>
+      <styleUrl>#icon-1899-0288D1-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          139.0495015,36.5814415,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>水上駅</name>
+      <description>第19旅（後編）</description>
+      <styleUrl>#icon-1899-0288D1-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          138.9688398,36.778636,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>水上駅SL転車台広場</name>
+      <description>第19旅（後編）</description>
+      <styleUrl>#icon-1899-0288D1-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          138.9697672,36.7810089,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ホテルルートイン太田南-国道407号-</name>
+      <description>第19旅（後編）</description>
+      <styleUrl>#icon-1899-0288D1-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          139.3778761,36.2792064,0
         </coordinates>
       </Point>
     </Placemark>
