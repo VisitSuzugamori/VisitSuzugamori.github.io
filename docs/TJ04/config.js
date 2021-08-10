@@ -56,8 +56,8 @@ const config = {
       hidden: false,
       title: '高松駅',
       image: '',
-      tweet_id: '1422144499279564803',
-      description: '<p>1巻 P131  香川県高松市 西の丸町2</p><div class="tweetContainer" id="tweet1422144499279564803"></div> ',
+      tweet_id: '1425053245463011342',
+      description: '<p>1巻 P131  香川県高松市 西の丸町2</p><div class="tweetContainer" id="tweet1425053245463011342"></div> ',
       location: {
         center: [134.047056, 34.3504507],
         zoom: 14,
@@ -97,7 +97,7 @@ const config = {
       title: '八栗駅',
       image: '',
       tweet_id: '',
-      description: '<p>1巻 P134  香川県高松市 牟礼町牟礼2210</p> <p><img alt="DSC05065.JPG" src="https://live.staticflickr.com/5305/5677052738_4e674b63d3_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.3446375&amp;lon=134.122008&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【DSC05065.JPG】 by t.nanba</p>',
+      description: '<p>1巻 P134  香川県高松市 牟礼町牟礼2210</p> <p><img alt="帰り道の電車" src="https://live.staticflickr.com/715/21694861128_40dc0f9dc7_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.3446375&amp;lon=134.122008&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【帰り道の電車】 by 風の色写真館（讃岐東部の写真集）</p>',
       location: {
         center: [134.122008, 34.3446375],
         zoom: 14,
@@ -117,7 +117,7 @@ const config = {
       title: '総門跡',
       image: '',
       tweet_id: '',
-      description: '<p>1巻 P134  香川県高松市 牟礼町牟礼2418</p> <p><img alt="DSC05064.JPG" src="https://live.staticflickr.com/5143/5677046738_cd8436d27a_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.345598&amp;lon=134.1223194&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【DSC05064.JPG】 by t.nanba</p>',
+      description: '<p>1巻 P134  香川県高松市 牟礼町牟礼2418</p> <p><img alt="DSC05066.JPG" src="https://live.staticflickr.com/5149/5677062182_4de4f91ac1_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.345598&amp;lon=134.1223194&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【DSC05066.JPG】 by t.nanba</p>',
       location: {
         center: [134.1223194, 34.345598],
         zoom: 14,
@@ -177,7 +177,7 @@ const config = {
       title: '八栗寺',
       image: '',
       tweet_id: '',
-      description: '<p>1巻 P143  香川県高松市 牟礼町牟礼3416</p> <p><img alt="八十五番札所 八栗寺" src="https://live.staticflickr.com/65535/50384303247_eb791b7d3d_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.3599067&amp;lon=134.1398791&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【八十五番札所 八栗寺】 by JH1FJP</p>',
+      description: '<p>1巻 P143  香川県高松市 牟礼町牟礼3416</p> <p><img alt="Yakuri-ji, the 85th Temple of the Sacred Shikoku Pilgrimage in Kagawa, Japan." src="https://live.staticflickr.com/65535/48951825247_d8e3c3fc3f_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.3599067&amp;lon=134.1398791&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Yakuri-ji, the 85th Temple of the Sacred Shikoku Pilgrimage in Kagawa, Japan.】 by KyotoDreamTrips</p>',
       location: {
         center: [134.1398791, 34.3599067],
         zoom: 14,

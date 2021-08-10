@@ -177,7 +177,7 @@ const config = {
       title: '宇佐のマチュピチュ展望所',
       image: '',
       tweet_id: '',
-      description: '<p>5巻 P86  大分県宇佐市 院内町野地</p> <p><img alt="Usa no Machu Picchu" src="https://live.staticflickr.com/349/19351704725_a39aa65422_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=33.3744345&amp;lon=131.2675881&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Usa no Machu Picchu】 by parsons service</p>',
+      description: '<p>5巻 P86  大分県宇佐市 院内町野地</p> <p><img alt="DSC04552" src="https://live.staticflickr.com/8022/7278599324_9453573fbc_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=33.3744345&amp;lon=131.2675881&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【DSC04552】 by tokotaha</p>',
       location: {
         center: [131.2675881, 33.3744345],
         zoom: 14,
