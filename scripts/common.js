@@ -93,7 +93,7 @@ class Common {
       return text;
     }
     // eslint-disable-next-line prettier/prettier
-    return text.replace('\\', '\\\\').replace('\'', '\\\'');
+    return text.replace(/\\/gm, '\\\\').replace(/'/gm, '\\\'');
   }
 
   replaceCharactorEntity4Html(text) {
