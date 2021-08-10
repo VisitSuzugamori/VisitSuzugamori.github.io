@@ -1,3 +1,4 @@
+/* eslint no-undef: 0 */
 var layerTypes = {
   fill: ['fill-opacity'],
   line: ['line-opacity'],
@@ -66,16 +67,17 @@ if (header.innerText.length > 0) {
 config.chapters.forEach((record, idx) => {
   var container = document.createElement('div');
   var chapter = document.createElement('div');
-  const ll = `${record.location.center[1]},${record.location.center[0]}`;
+  const ll = `${record.location.center[1]},${record.location.center[0]}`.replace(/[^,.\d-]/gm, '');
 
   if (record.id !== '') {
     var anchor = document.createElement('div');
     anchor.classList.add('anchor');
+    // eslint-disable-next-line prettier/prettier
     anchor.innerHTML = `<a rel="noopener" href="#${encodeURIComponent(record.id)}" class="LinkToHere" title="この場所へのリンク">⚓</a>
 <a rel="noopener" href="https://www.google.com/maps/@?api=1&map_action=map&amp;center=${ll}" class="LinkToGMap" title="${ll}">🌏</a>
 <a rel="noopener" href="https://twitter.com/share?ref_src=twsrc%5Etfw" class="twitter-share-button"
  data-text="いまココ ${record.title.replace(/[<>"'&]/g, '')}"
- data-url="${document.location.href}#${encodeURIComponent(record.id)}"
+ data-url="${document.location.href.replace(/[<>"']/g, '')}#${encodeURIComponent(record.id)}"
  data-hashtags="ざつ旅"
  data-lang="ja" data-show-count="false">Tweet</a>`;
     chapter.appendChild(anchor);
@@ -182,7 +184,7 @@ map.on('load', () => {
       }
       if (Object.prototype.hasOwnProperty.call(record, 'tweet_id') && record.tweet_id) {
         const tid = record.tweet_id;
-         twttr.widgets.createTweet(tid, document.getElementById(`tweet${tid}`), {
+        twttr.widgets.createTweet(tid, document.getElementById(`tweet${tid}`), {
           conversation: 'none',
           lang: 'ja',
         });
@@ -193,6 +195,7 @@ map.on('load', () => {
       directions.setOrigin(record.location.center);
     } else if (idx > 24) {
       // ignore if over max waypoints.
+      // eslint-disable-next-line prettier/prettier
     } else if ((idx === chapters_length - 1) || (idx === 24)) {
       directions.setDestination(record.location.center);
     } else {

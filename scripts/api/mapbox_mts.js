@@ -225,6 +225,7 @@ class MapboxMtsApi {
   }
 
   parseResult(x) {
+    // eslint-disable-next-line no-unused-vars
     const name = u.deepRetrieve(x, 'name', '');
   }
 }

@@ -1,10 +1,16 @@
 'use strict';
 
+// eslint-disable-next-line no-unused-vars
 const { TwitterApi } = require('./api/twitter.js');
+// eslint-disable-next-line no-unused-vars
 const { FlickrApi } = require('./api/flickr.js');
+// eslint-disable-next-line no-unused-vars
 const { AginfoApi } = require('./api/aginfo.js');
+// eslint-disable-next-line no-unused-vars
 const { MapboxMtsApi } = require('./api/mapbox_mts.js');
+// eslint-disable-next-line no-unused-vars
 const u = require('./common.js');
+
 // eslint-disable-next-line node/no-unpublished-require
 const secret = require('../my_secret.json');
 
@@ -30,15 +36,15 @@ const secret = require('../my_secret.json');
     // });
     // console.log('OK', typeof res, res);
 
-    const res = await tw.getSearch({
-      params: {
-        q: 'from:isnotjp',
-        // fromDate: '201301010000',
-        // toDate: '201904010000',
-      },
-      search_type: 'search_recent',
-    });
-    console.log('OK', typeof res, res);
+    // const res = await tw.getSearch({
+    //   params: {
+    //     q: 'from:isnotjp',
+    //     // fromDate: '201301010000',
+    //     // toDate: '201904010000',
+    //   },
+    //   search_type: 'search_recent',
+    // });
+    // console.log('OK', typeof res, res);
 
     const status = await tw.getSearchRateLimitStatus();
     console.log('status', status);
@@ -56,11 +62,16 @@ const secret = require('../my_secret.json');
     // console.log('AginfoApi', await revGeoCoder.getAdress([132.3181276, 34.2973092]));
     // console.log('AginfoApi', await revGeoCoder.getAdress([132.3198262, 34.2959885]));
 
-    // console.log(u.replaceCharactorEntity4Html("h_nissy's Photography"));
+    // test escape for html | js
+    // eslint-disable-next-line prettier/prettier,quotes
+    console.log(u.replaceCharactorEntity4Html("h_nissy's Photography <&>\""));
+    // eslint-disable-next-line prettier/prettier,quotes
+    console.log(u.replaceCharactorEntity4JsQuote("h_nissy's Photography en " + String.fromCharCode(0x005c)));
+    console.log(String.fromCharCode(0x005c)); // print \ (U+005c)
 
-    const mts = new MapboxMtsApi({
-      access_token: secret.mapbox.secret_token,
-    });
+    // const mts = new MapboxMtsApi({
+    //   access_token: secret.mapbox.secret_token,
+    // });
     // const tid = 'isnot.5vtp91zq'; // isnot.bgelgck9 isnot.5vtp91zq
     // console.log('tileJSONMetadata', await mts.tileJSONMetadata(tid));
   } catch (e) {

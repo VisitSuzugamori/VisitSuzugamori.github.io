@@ -92,8 +92,8 @@ class Common {
     if (typeof text !== 'string' || !text) {
       return text;
     }
-    //eslint-disable-next-line prettier/prettier
-    return text.replace(/\\/gm, '\\').replace('\'', '\'');
+    // eslint-disable-next-line prettier/prettier
+    return text.replace('\\', '\\\\').replace('\'', '\\\'');
   }
 
   replaceCharactorEntity4Html(text) {

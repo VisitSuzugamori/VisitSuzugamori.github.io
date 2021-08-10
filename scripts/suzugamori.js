@@ -1,6 +1,7 @@
 'use strict';
 
 const { TwitterApi } = require('./api/twitter.js');
+// eslint-disable-next-line no-unused-vars
 const u = require('./common.js');
 // eslint-disable-next-line node/no-unpublished-require
 const secret = require('../my_secret.json');
