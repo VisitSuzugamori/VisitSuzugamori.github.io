@@ -16,8 +16,8 @@ const config = {
       hidden: false,
       title: '東京駅',
       image: '',
-      tweet_id: '1423538791197728769',
-      description: '<p>1巻 P126  東京都千代田区 丸の内一丁目9</p><div class="tweetContainer" id="tweet1423538791197728769"></div> ',
+      tweet_id: '1425255559041675266',
+      description: '<p>1巻 P126  東京都千代田区 丸の内一丁目9</p><div class="tweetContainer" id="tweet1425255559041675266"></div> ',
       location: {
         center: [139.7671248, 35.6812362],
         zoom: 14,
@@ -56,8 +56,8 @@ const config = {
       hidden: false,
       title: '高松駅',
       image: '',
-      tweet_id: '1425053245463011342',
-      description: '<p>1巻 P131  香川県高松市 西の丸町2</p><div class="tweetContainer" id="tweet1425053245463011342"></div> ',
+      tweet_id: '1425754427919585282',
+      description: '<p>1巻 P131  香川県高松市 西の丸町2</p><div class="tweetContainer" id="tweet1425754427919585282"></div> ',
       location: {
         center: [134.047056, 34.3504507],
         zoom: 14,
@@ -76,8 +76,8 @@ const config = {
       hidden: false,
       title: '高松築港駅',
       image: '',
-      tweet_id: '',
-      description: '<p>1巻 P132  香川県高松市 寿町一丁目5</p> <p><img alt="Kotoden Takamatsu-Chikko Station" src="https://live.staticflickr.com/65535/51332935675_8186efc6b3_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.350757&amp;lon=134.049468&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Kotoden Takamatsu-Chikko Station】 by Kzaral</p>',
+      tweet_id: '1425053245463011342',
+      description: '<p>1巻 P132  香川県高松市 寿町一丁目5</p><div class="tweetContainer" id="tweet1425053245463011342"></div> ',
       location: {
         center: [134.049468, 34.350757],
         zoom: 14,

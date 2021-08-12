@@ -36,8 +36,8 @@ const config = {
       hidden: false,
       title: '磐梯熱海駅',
       image: '',
-      tweet_id: '1422538107568619527',
-      description: '<p>1巻 P23  福島県郡山市 熱海町熱海一丁目109</p><div class="tweetContainer" id="tweet1422538107568619527"></div> ',
+      tweet_id: '1424188081331134468',
+      description: '<p>1巻 P23  福島県郡山市 熱海町熱海一丁目109</p><div class="tweetContainer" id="tweet1424188081331134468"></div> ',
       location: {
         center: [140.2708687, 37.4808961],
         zoom: 14,
@@ -117,7 +117,7 @@ const config = {
       title: '小池菓子舗 飯盛山店',
       image: '',
       tweet_id: '',
-      description: '<p>1巻 P26  福島県会津若松市 一箕町八幡弁天下2</p> <p><img alt="イチョウ" src="https://live.staticflickr.com/65535/50757333628_0caed3c01a_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=37.5044771&amp;lon=139.9528276&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【イチョウ】 by Chitaka Chou</p>',
+      description: '<p>1巻 P26  福島県会津若松市 一箕町八幡弁天下2</p> <p><img alt="Shinto shrine precincts" src="https://live.staticflickr.com/65535/51372137920_025563528a_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=37.5044771&amp;lon=139.9528276&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Shinto shrine precincts】 by カタクリコ</p>',
       location: {
         center: [139.9528276, 37.5044771],
         zoom: 14,
@@ -197,7 +197,7 @@ const config = {
       title: '羽黒山神社 神門',
       image: '',
       tweet_id: '',
-      description: '<p>1巻 P41  福島県会津若松市 東山町湯本寺屋敷10</p> <p><img alt="IMG_4674" src="https://live.staticflickr.com/4761/38687136560_f3cb49b85b_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=37.4797004&amp;lon=139.9620807&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【IMG_4674】 by ryota_23</p>',
+      description: '<p>1巻 P41  福島県会津若松市 東山町湯本寺屋敷10</p> <p><img alt="IMGP3717" src="https://live.staticflickr.com/4896/46090961191_9d830306d8_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=37.4797004&amp;lon=139.9620807&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【IMGP3717】 by k_natsumoto</p>',
       location: {
         center: [139.9620807, 37.4797004],
         zoom: 14,
@@ -237,7 +237,7 @@ const config = {
       title: '会津さざえ堂 (円通寺三匝堂)',
       image: '',
       tweet_id: '',
-      description: '<p>1巻 P51  福島県会津若松市 一箕町八幡弁天下33</p> <p><img alt="イチョウ" src="https://live.staticflickr.com/65535/50758071426_221709fde9_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=37.5045319&amp;lon=139.9539697&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【イチョウ】 by Chitaka Chou</p>',
+      description: '<p>1巻 P51  福島県会津若松市 一箕町八幡弁天下33</p> <p><img alt="イチョウ" src="https://live.staticflickr.com/65535/50757333628_0caed3c01a_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=37.5045319&amp;lon=139.9539697&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【イチョウ】 by Chitaka Chou</p>',
       location: {
         center: [139.9539697, 37.5045319],
         zoom: 14,
