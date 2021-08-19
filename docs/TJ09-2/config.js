@@ -17,7 +17,7 @@ const config = {
       title: '嚴島神社',
       image: '',
       tweet_id: '',
-      description: '<p>3巻 P5  </p> <p><img alt="Miyajima Island, Hatsukaichi" src="https://live.staticflickr.com/65535/51331944106_3627f83ae0_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.2959885&amp;lon=132.3198262&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Miyajima Island, Hatsukaichi】 by Kzaral</p>',
+      description: '<p>3巻 P5  </p> <p><img alt="IMG_3846" src="https://live.staticflickr.com/65535/51374104350_01a7ed754d_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.2959885&amp;lon=132.3198262&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【IMG_3846】 by ylefou2004</p>',
       location: {
         center: [132.3198262, 34.2959885],
         zoom: 14,
@@ -57,7 +57,7 @@ const config = {
       title: 'もみじ堂本店',
       image: '',
       tweet_id: '',
-      description: '<p>3巻 P10  広島県廿日市市 宮島町幸町西浜459</p> <p><img alt="IMG_3846" src="https://live.staticflickr.com/65535/51374104350_01a7ed754d_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.2977872&amp;lon=132.320873&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【IMG_3846】 by ylefou2004</p>',
+      description: '<p>3巻 P10  広島県廿日市市 宮島町幸町西浜459</p> <p><img alt="IMG_3847" src="https://live.staticflickr.com/65535/51372341077_af91295b16_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.2977872&amp;lon=132.320873&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【IMG_3847】 by ylefou2004</p>',
       location: {
         center: [132.320873, 34.2977872],
         zoom: 14,
@@ -76,8 +76,8 @@ const config = {
       hidden: false,
       title: '呉駅',
       image: '',
-      tweet_id: '1424977198247669764',
-      description: '<p>3巻 P11  広島県呉市 宝町2</p><div class="tweetContainer" id="tweet1424977198247669764"></div> ',
+      tweet_id: '',
+      description: '<p>3巻 P11  広島県呉市 宝町2</p> <p><img alt="kure_20200101180133" src="https://live.staticflickr.com/65535/50278725777_dddb02867b_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.2446471&amp;lon=132.5575846&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【kure_20200101180133】 by inunami</p>',
       location: {
         center: [132.5575846, 34.2446471],
         zoom: 14,
@@ -97,7 +97,7 @@ const config = {
       title: 'コンフォートホテル呉',
       image: '',
       tweet_id: '',
-      description: '<p>3巻 P12  広島県呉市 宝町2</p> <p><img alt="D71_2673" src="https://live.staticflickr.com/65535/50722338491_9a2e88ec94_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.2431335&amp;lon=132.5586395&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【D71_2673】 by Lox Pix</p>',
+      description: '<p>3巻 P12  広島県呉市 宝町2</p> <p><img alt="kure_20200101180440" src="https://live.staticflickr.com/65535/50277894228_0f240e46e4_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.2431335&amp;lon=132.5586395&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【kure_20200101180440】 by inunami</p>',
       location: {
         center: [132.5586395, 34.2431335],
         zoom: 14,
@@ -217,7 +217,7 @@ const config = {
       title: '頂上展望台',
       image: '',
       tweet_id: '',
-      description: '<p>3巻 P21  広島県尾道市 東土堂町20</p> <p><img alt="610_7873" src="https://live.staticflickr.com/65535/51344615951_53c92071e7_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.4106865&amp;lon=133.1969604&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【610_7873】 by Lox Pix</p>',
+      description: '<p>3巻 P21  広島県尾道市 東土堂町20</p> <p><img alt="610_7873" src="https://live.staticflickr.com/65535/51345368744_c7ccc5f886_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.4106865&amp;lon=133.1969604&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【610_7873】 by Lox Pix</p>',
       location: {
         center: [133.1969604, 34.4106865],
         zoom: 14,
@@ -257,7 +257,7 @@ const config = {
       title: '鼓岩（付近）',
       image: '',
       tweet_id: '',
-      description: '<p>3巻 P29  広島県尾道市 東土堂町5</p> <p><img alt="A walk in Onomichi" src="https://live.staticflickr.com/65535/51164944051_01495818aa_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.4097831&amp;lon=133.1976363&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【A walk in Onomichi】 by Blue Ridge Walker</p>',
+      description: '<p>3巻 P29  広島県尾道市 東土堂町5</p> <p><img alt="610_7873" src="https://live.staticflickr.com/65535/51344615951_53c92071e7_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.4097831&amp;lon=133.1976363&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【610_7873】 by Lox Pix</p>',
       location: {
         center: [133.1976363, 34.4097831],
         zoom: 14,

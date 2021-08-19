@@ -36,8 +36,8 @@ const config = {
       hidden: false,
       title: '岡山駅',
       image: '',
-      tweet_id: '1424665687738384386',
-      description: '<p>1巻 P130  岡山県岡山市 北区 駅元町11</p><div class="tweetContainer" id="tweet1424665687738384386"></div> ',
+      tweet_id: '1427200476647288835',
+      description: '<p>1巻 P130  岡山県岡山市 北区 駅元町11</p><div class="tweetContainer" id="tweet1427200476647288835"></div> ',
       location: {
         center: [133.9177335, 34.6661212],
         zoom: 14,
@@ -76,8 +76,8 @@ const config = {
       hidden: false,
       title: '高松築港駅',
       image: '',
-      tweet_id: '1425053245463011342',
-      description: '<p>1巻 P132  香川県高松市 寿町一丁目5</p><div class="tweetContainer" id="tweet1425053245463011342"></div> ',
+      tweet_id: '1428137249091248128',
+      description: '<p>1巻 P132  香川県高松市 寿町一丁目5</p><div class="tweetContainer" id="tweet1428137249091248128"></div> ',
       location: {
         center: [134.049468, 34.350757],
         zoom: 14,

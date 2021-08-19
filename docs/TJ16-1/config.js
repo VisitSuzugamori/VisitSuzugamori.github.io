@@ -37,7 +37,7 @@ const config = {
       title: '偕楽園・常磐神社前',
       image: '',
       tweet_id: '',
-      description: '<p>5巻 P4  茨城県水戸市 常磐町二丁目8</p> <p><img alt="DSC00551" src="https://live.staticflickr.com/65535/47985089662_e8078cee37_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=36.3746839&amp;lon=140.4569096&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【DSC00551】 by shyueyi</p>',
+      description: '<p>5巻 P4  茨城県水戸市 常磐町二丁目8</p> <p><img alt="Visiting Mito, Ibaraki, Japan" src="https://live.staticflickr.com/7813/46667905334_1d4ef7145d_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=36.3746839&amp;lon=140.4569096&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Visiting Mito, Ibaraki, Japan】 by Matthias Harbers</p>',
       location: {
         center: [140.4569096, 36.3746839],
         zoom: 14,
@@ -96,8 +96,8 @@ const config = {
       hidden: false,
       title: '偕楽園',
       image: '',
-      tweet_id: '',
-      description: '<p>5巻 P11  茨城県水戸市 常磐町6031</p> <p><img alt="DSC_0015_s" src="https://live.staticflickr.com/65535/49557479727_71b2d5eee4_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=36.3726263&amp;lon=140.4521765&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【DSC_0015_s】 by FatChuang</p>',
+      tweet_id: '1427598765955768321',
+      description: '<p>5巻 P11  茨城県水戸市 常磐町6031</p><div class="tweetContainer" id="tweet1427598765955768321"></div> ',
       location: {
         center: [140.4521765, 36.3726263],
         zoom: 14,

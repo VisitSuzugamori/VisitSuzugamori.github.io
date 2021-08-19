@@ -196,8 +196,8 @@ const config = {
       hidden: false,
       title: '宇奈月駅',
       image: '',
-      tweet_id: '',
-      description: '<p>1巻 P116  富山県黒部市 黒部峡谷口9</p> <p><img alt="IMG_9225" src="https://live.staticflickr.com/65535/51115279415_3a2a6feff6_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=36.8150247&amp;lon=137.5859364&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【IMG_9225】 by OOMYV</p>',
+      tweet_id: '1427846519516909569',
+      description: '<p>1巻 P116  富山県黒部市 黒部峡谷口9</p><div class="tweetContainer" id="tweet1427846519516909569"></div> ',
       location: {
         center: [137.5859364, 36.8150247],
         zoom: 14,
@@ -216,8 +216,8 @@ const config = {
       hidden: false,
       title: 'やまびこ展望台',
       image: '',
-      tweet_id: '',
-      description: '<p>1巻 P117  富山県黒部市 黒部峡谷口9</p> <p><img alt="610_7136" src="https://live.staticflickr.com/65535/50951287223_bbe270992c_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=36.8142871&amp;lon=137.5881562&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【610_7136】 by Lox Pix</p>',
+      tweet_id: '1427852419837300736',
+      description: '<p>1巻 P117  富山県黒部市 黒部峡谷口9</p><div class="tweetContainer" id="tweet1427852419837300736"></div> ',
       location: {
         center: [137.5881562, 36.8142871],
         zoom: 14,

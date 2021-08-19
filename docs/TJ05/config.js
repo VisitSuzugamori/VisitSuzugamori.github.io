@@ -77,7 +77,7 @@ const config = {
       title: '月桂冠大倉記念館',
       image: '',
       tweet_id: '',
-      description: '<p>2巻 P17  京都府京都市 伏見区 本材木町680</p> <p><img alt="伏見3・Fushimi" src="https://live.staticflickr.com/65535/49800485533_a485179bf4_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.929136&amp;lon=135.76161&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【伏見3・Fushimi】 by anglo10</p>',
+      description: '<p>2巻 P17  京都府京都市 伏見区 本材木町680</p> <p><img alt="京都伏見十石舟・三十石船" src="https://live.staticflickr.com/65535/49749500217_26bc871ed8_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.929136&amp;lon=135.76161&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【京都伏見十石舟・三十石船】 by YUSHENG HSU</p>',
       location: {
         center: [135.76161, 34.929136],
         zoom: 14,
@@ -156,8 +156,8 @@ const config = {
       hidden: false,
       title: '富田屋',
       image: '',
-      tweet_id: '1424938770512551938',
-      description: '<p>2巻 P22  京都府宮津市 字鶴賀2066</p><div class="tweetContainer" id="tweet1424938770512551938"></div> ',
+      tweet_id: '1426364571476967428',
+      description: '<p>2巻 P22  京都府宮津市 字鶴賀2066</p><div class="tweetContainer" id="tweet1426364571476967428"></div> ',
       location: {
         center: [135.1992613, 35.534848],
         zoom: 14,
@@ -177,7 +177,7 @@ const config = {
       title: '茶六本館',
       image: '',
       tweet_id: '',
-      description: '<p>2巻 P22  京都府宮津市 字本町842</p> <p><img alt="Miyazu#35" src="https://live.staticflickr.com/4441/36267565394_6d632f3211_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.5368405&amp;lon=135.1918306&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Miyazu#35】 by tetsuo5</p>',
+      description: '<p>2巻 P22  京都府宮津市 字本町842</p> <p><img alt="Miyazu#19" src="https://live.staticflickr.com/4358/36084114584_8b03b6eef6_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.5368405&amp;lon=135.1918306&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Miyazu#19】 by tetsuo5</p>',
       location: {
         center: [135.1918306, 35.5368405],
         zoom: 14,
@@ -217,7 +217,7 @@ const config = {
       title: '天橋立ビューランド',
       image: '',
       tweet_id: '',
-      description: '<p>2巻 P32  京都府宮津市 文珠1</p> <p><img alt="IMG_1588" src="https://live.staticflickr.com/65535/51257498987_b8cafaa98f_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.5527779&amp;lon=135.1821171&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【IMG_1588】 by Chico Leung</p>',
+      description: '<p>2巻 P32  京都府宮津市 文珠1</p> <p><img alt="IMG_1625" src="https://live.staticflickr.com/65535/51258939094_2785b548aa_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.5527779&amp;lon=135.1821171&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【IMG_1625】 by Chico Leung</p>',
       location: {
         center: [135.1821171, 35.5527779],
         zoom: 14,

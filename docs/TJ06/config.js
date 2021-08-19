@@ -16,8 +16,8 @@ const config = {
       hidden: false,
       title: '宇都宮駅',
       image: '',
-      tweet_id: '1424686330299125768',
-      description: '<p>2巻 P44  栃木県宇都宮市 駅前通り三丁目1</p><div class="tweetContainer" id="tweet1424686330299125768"></div> ',
+      tweet_id: '1426528588736520195',
+      description: '<p>2巻 P44  栃木県宇都宮市 駅前通り三丁目1</p><div class="tweetContainer" id="tweet1426528588736520195"></div> ',
       location: {
         center: [139.8984511, 36.5590234],
         zoom: 14,
@@ -156,8 +156,8 @@ const config = {
       hidden: false,
       title: '烏山駅',
       image: '',
-      tweet_id: '1426434947045236748',
-      description: '<p>2巻 P58  栃木県那須烏山市 南二丁目4</p><div class="tweetContainer" id="tweet1426434947045236748"></div> ',
+      tweet_id: '1427790964731437056',
+      description: '<p>2巻 P58  栃木県那須烏山市 南二丁目4</p><div class="tweetContainer" id="tweet1427790964731437056"></div> ',
       location: {
         center: [140.1550537, 36.650446],
         zoom: 14,
