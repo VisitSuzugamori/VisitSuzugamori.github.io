@@ -16,8 +16,8 @@ const config = {
       hidden: false,
       title: '串本駅',
       image: '',
-      tweet_id: '1425256371877040129',
-      description: '<p>3巻 P57  和歌山県東牟婁郡 串本町 串本40</p><div class="tweetContainer" id="tweet1425256371877040129"></div> ',
+      tweet_id: '1426338063714762761',
+      description: '<p>3巻 P57  和歌山県東牟婁郡 串本町 串本40</p><div class="tweetContainer" id="tweet1426338063714762761"></div> ',
       location: {
         center: [135.7816031, 33.4755266],
         zoom: 14,
@@ -97,7 +97,7 @@ const config = {
       title: '本州最南端の碑',
       image: '',
       tweet_id: '',
-      description: '<p>3巻 P64  和歌山県東牟婁郡 串本町 </p> <p><img alt="Pilný den" src="https://live.staticflickr.com/65535/51179776748_cbefb5afd8_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=33.4362401&amp;lon=135.7621203&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Pilný den】 by SocialHermit</p>',
+      description: '<p>3巻 P64  和歌山県東牟婁郡 串本町 </p> <p><img alt="Krabíci..." src="https://live.staticflickr.com/65535/51180652895_690f040e33_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=33.4362401&amp;lon=135.7621203&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Krabíci...】 by SocialHermit</p>',
       location: {
         center: [135.7621203, 33.4362401],
         zoom: 14,
