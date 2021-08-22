@@ -16,8 +16,8 @@ const config = {
       hidden: false,
       title: '出雲市駅',
       image: '',
-      tweet_id: '1426005773977415686',
-      description: '<p>3巻 P130  島根県出雲市 駅北町25</p><div class="tweetContainer" id="tweet1426005773977415686"></div> ',
+      tweet_id: '1426808515255955456',
+      description: '<p>3巻 P130  島根県出雲市 駅北町25</p><div class="tweetContainer" id="tweet1426808515255955456"></div> ',
       location: {
         center: [132.7567006, 35.3608386],
         zoom: 14,
@@ -77,7 +77,7 @@ const config = {
       title: '旧大社駅舎',
       image: '',
       tweet_id: '',
-      description: '<p>3巻 P134  島根県出雲市 大社町北荒木452</p> <p><img alt="Former Taisha Station, Shimane  出雲大社　旧大社駅　島根" src="https://live.staticflickr.com/65535/50192567213_b75a7e68bd_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.3866419&amp;lon=132.690256&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Former Taisha Station, Shimane  出雲大社　旧大社駅　島根】 by Anaguma</p>',
+      description: '<p>3巻 P134  島根県出雲市 大社町北荒木452</p> <p><img alt="OLD Taisha Station (Izumo, Shimane, Japan)" src="https://live.staticflickr.com/4698/24796736207_fa4a70532f_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.3866419&amp;lon=132.690256&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【OLD Taisha Station (Izumo, Shimane, Japan)】 by t-mizo</p>',
       location: {
         center: [132.690256, 35.3866419],
         zoom: 14,
@@ -96,8 +96,8 @@ const config = {
       hidden: false,
       title: '出雲大社 大鳥居',
       image: '',
-      tweet_id: '1426027372768382976',
-      description: '<p>3巻 P137  島根県出雲市 大社町杵築南1386</p><div class="tweetContainer" id="tweet1426027372768382976"></div> ',
+      tweet_id: '',
+      description: '<p>3巻 P137  島根県出雲市 大社町杵築南1386</p> <p><img alt="デハニ50形" src="https://live.staticflickr.com/65535/51350553009_4d506e1bd6_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.391579&amp;lon=132.6872784&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【デハニ50形】 by Chitaka Chou</p>',
       location: {
         center: [132.6872784, 35.391579],
         zoom: 14,
@@ -217,7 +217,7 @@ const config = {
       title: '出雲大社 西十九社',
       image: '',
       tweet_id: '',
-      description: '<p>3巻 P141  島根県出雲市 大社町杵築東257</p> <p><img alt="出雲大社" src="https://live.staticflickr.com/65535/51353235355_4d72a70895_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.4014929&amp;lon=132.6848802&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【出雲大社】 by Chitaka Chou</p>',
+      description: '<p>3巻 P141  島根県出雲市 大社町杵築東257</p> <p><img alt="出雲大社" src="https://live.staticflickr.com/65535/51352952534_a633a8cb82_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.4014929&amp;lon=132.6848802&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【出雲大社】 by Chitaka Chou</p>',
       location: {
         center: [132.6848802, 35.4014929],
         zoom: 14,
@@ -237,7 +237,7 @@ const config = {
       title: '出雲大社 神楽殿',
       image: '',
       tweet_id: '',
-      description: '<p>3巻 P142  島根県出雲市 大社町杵築東257</p> <p><img alt="出雲大社" src="https://live.staticflickr.com/65535/51353234805_904d42115b_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.4015453&amp;lon=132.6844634&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【出雲大社】 by Chitaka Chou</p>',
+      description: '<p>3巻 P142  島根県出雲市 大社町杵築東257</p> <p><img alt="出雲大社" src="https://live.staticflickr.com/65535/51352952119_49ebdd0acf_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.4015453&amp;lon=132.6844634&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【出雲大社】 by Chitaka Chou</p>',
       location: {
         center: [132.6844634, 35.4015453],
         zoom: 14,
@@ -336,8 +336,8 @@ const config = {
       hidden: false,
       title: '松江城',
       image: '',
-      tweet_id: '1426087977244004352',
-      description: '<p>3巻 P150  島根県松江市 殿町1</p><div class="tweetContainer" id="tweet1426087977244004352"></div> ',
+      tweet_id: '1426775316844802050',
+      description: '<p>3巻 P150  島根県松江市 殿町1</p><div class="tweetContainer" id="tweet1426775316844802050"></div> ',
       location: {
         center: [133.0506783, 35.4751335],
         zoom: 14,
