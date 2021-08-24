@@ -17,7 +17,7 @@ const config = {
       title: '嚴島神社',
       image: '',
       tweet_id: '',
-      description: '<p>3巻 P5  </p> <p><img alt="IMG_3845" src="https://live.staticflickr.com/65535/51373100471_c002b2da29_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.2959885&amp;lon=132.3198262&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【IMG_3845】 by ylefou2004</p>',
+      description: '<p>3巻 P5  </p> <p><img alt="Itsukushima lantern" src="https://live.staticflickr.com/65535/51357660675_3f722e6a78_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.2959885&amp;lon=132.3198262&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Itsukushima lantern】 by tokyobogue</p>',
       location: {
         center: [132.3198262, 34.2959885],
         zoom: 14,
@@ -176,8 +176,8 @@ const config = {
       hidden: false,
       title: '尾道駅',
       image: '',
-      tweet_id: '1426366911487561731',
-      description: '<p>3巻 P19  広島県尾道市 東御所町1</p><div class="tweetContainer" id="tweet1426366911487561731"></div> ',
+      tweet_id: '1428955200564387846',
+      description: '<p>3巻 P19  広島県尾道市 東御所町1</p><div class="tweetContainer" id="tweet1428955200564387846"></div> ',
       location: {
         center: [133.193159, 34.4048654],
         zoom: 14,

@@ -36,8 +36,8 @@ const config = {
       hidden: false,
       title: '岡山駅',
       image: '',
-      tweet_id: '1427200476647288835',
-      description: '<p>1巻 P130  岡山県岡山市 北区 駅元町11</p><div class="tweetContainer" id="tweet1427200476647288835"></div> ',
+      tweet_id: '1429274609069694976',
+      description: '<p>1巻 P130  岡山県岡山市 北区 駅元町11</p><div class="tweetContainer" id="tweet1429274609069694976"></div> ',
       location: {
         center: [133.9177335, 34.6661212],
         zoom: 14,
@@ -136,8 +136,8 @@ const config = {
       hidden: false,
       title: 'うどん本陣 山田家',
       image: '',
-      tweet_id: '1426365931526230018',
-      description: '<p>1巻 P134  香川県高松市 牟礼町牟礼3128</p><div class="tweetContainer" id="tweet1426365931526230018"></div> ',
+      tweet_id: '1429000483641901062',
+      description: '<p>1巻 P134  香川県高松市 牟礼町牟礼3128</p><div class="tweetContainer" id="tweet1429000483641901062"></div> ',
       location: {
         center: [134.1296254, 34.3532536],
         zoom: 14,
@@ -217,7 +217,7 @@ const config = {
       title: '玉藻公園',
       image: '',
       tweet_id: '',
-      description: '<p>1巻 P150  香川県高松市 玉藻町2</p> <p><img alt="No matter how far we are, we are friends" src="https://live.staticflickr.com/65535/51202354199_76d7a4b9c9_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.3503157&amp;lon=134.0516188&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【No matter how far we are, we are friends】 by kelvinho1019</p>',
+      description: '<p>1巻 P150  香川県高松市 玉藻町2</p> <p><img alt="2019 瀨戶內國際藝術祭-玉藻公園, Study 1" src="https://live.staticflickr.com/65535/49764929637_c7489a91e1_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.3503157&amp;lon=134.0516188&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【2019 瀨戶內國際藝術祭-玉藻公園, Study 1】 by Zale Yu</p>',
       location: {
         center: [134.0516188, 34.3503157],
         zoom: 14,

@@ -77,7 +77,7 @@ const config = {
       title: '松島公園',
       image: '',
       tweet_id: '',
-      description: '<p>1巻 P64  宮城県宮城郡 松島町 松島字霞ケ浦</p> <p><img alt="雄島" src="https://live.staticflickr.com/65535/49377984683_3193b5a9e2_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=38.3661732&amp;lon=141.0611304&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【雄島】 by ＧＫ</p>',
+      description: '<p>1巻 P64  宮城県宮城郡 松島町 松島字霞ケ浦</p> <p><img alt="雄島" src="https://live.staticflickr.com/65535/51221394425_a4814c5527_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=38.3661732&amp;lon=141.0611304&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【雄島】 by いしだなおと</p>',
       location: {
         center: [141.0611304, 38.3661732],
         zoom: 14,
@@ -96,8 +96,8 @@ const config = {
       hidden: false,
       title: '雄島',
       image: '',
-      tweet_id: '1428613950866960384',
-      description: '<p>1巻 P64  宮城県宮城郡 松島町 松島字霞ケ浦</p><div class="tweetContainer" id="tweet1428613950866960384"></div> ',
+      tweet_id: '1429347492416475140',
+      description: '<p>1巻 P64  宮城県宮城郡 松島町 松島字霞ケ浦</p><div class="tweetContainer" id="tweet1429347492416475140"></div> ',
       location: {
         center: [141.0625297, 38.3653495],
         zoom: 14,

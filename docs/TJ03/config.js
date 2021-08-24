@@ -157,7 +157,7 @@ const config = {
       title: '河鹿（かじか）',
       image: '',
       tweet_id: '',
-      description: '<p>1巻 P111  富山県黒部市 宇奈月温泉7</p> <p><img alt="宇奈月谷" src="https://live.staticflickr.com/65535/51115374896_6a86cfd680_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=36.8157762&amp;lon=137.5826756&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【宇奈月谷】 by yuki_alm_misa</p>',
+      description: '<p>1巻 P111  富山県黒部市 宇奈月温泉7</p> <p><img alt="富山地鉄 宇奈月谷橋梁" src="https://live.staticflickr.com/65535/51115374886_875fa36f74_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=36.8157762&amp;lon=137.5826756&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【富山地鉄 宇奈月谷橋梁】 by yuki_alm_misa</p>',
       location: {
         center: [137.5826756, 36.8157762],
         zoom: 14,
@@ -176,8 +176,8 @@ const config = {
       hidden: false,
       title: 'ホテル黒部',
       image: '',
-      tweet_id: '1426482307263827970',
-      description: '<p>1巻 P112  富山県黒部市 宇奈月温泉6</p><div class="tweetContainer" id="tweet1426482307263827970"></div> ',
+      tweet_id: '',
+      description: '<p>1巻 P112  富山県黒部市 宇奈月温泉6</p> <p><img alt="Run through autumn mountains" src="https://live.staticflickr.com/4553/24483665478_ee30f942cf_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=36.8126191&amp;lon=137.5900726&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Run through autumn mountains】 by Teruhide Tomori</p>',
       location: {
         center: [137.5900726, 36.8126191],
         zoom: 14,
