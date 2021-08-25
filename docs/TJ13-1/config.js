@@ -97,7 +97,7 @@ const config = {
       title: '出雲大社 大鳥居',
       image: '',
       tweet_id: '',
-      description: '<p>3巻 P137  島根県出雲市 大社町杵築南1386</p> <p><img alt="デハニ50形" src="https://live.staticflickr.com/65535/51350553009_4d506e1bd6_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.391579&amp;lon=132.6872784&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【デハニ50形】 by Chitaka Chou</p>',
+      description: '<p>3巻 P137  島根県出雲市 大社町杵築南1386</p> ',
       location: {
         center: [132.6872784, 35.391579],
         zoom: 14,
@@ -117,7 +117,7 @@ const config = {
       title: '俵屋菓舗 神門店',
       image: '',
       tweet_id: '',
-      description: '<p>3巻 P137  島根県出雲市 大社町杵築南775</p> <p><img alt="出雲大社" src="https://live.staticflickr.com/65535/51353236080_11e7daf080_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.3952169&amp;lon=132.6867573&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【出雲大社】 by Chitaka Chou</p>',
+      description: '<p>3巻 P137  島根県出雲市 大社町杵築南775</p> ',
       location: {
         center: [132.6867573, 35.3952169],
         zoom: 14,
@@ -137,7 +137,7 @@ const config = {
       title: '出雲日本海 出雲大社正門前店',
       image: '',
       tweet_id: '',
-      description: '<p>3巻 P137  島根県出雲市 大社町杵築南839</p> <p><img alt="出雲大社" src="https://live.staticflickr.com/65535/51352441128_d14225bb31_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.3962535&amp;lon=132.6863131&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【出雲大社】 by Chitaka Chou</p>',
+      description: '<p>3巻 P137  島根県出雲市 大社町杵築南839</p> ',
       location: {
         center: [132.6863131, 35.3962535],
         zoom: 14,
@@ -157,7 +157,7 @@ const config = {
       title: '出雲大社 勢溜の大鳥居',
       image: '',
       tweet_id: '',
-      description: '<p>3巻 P139  島根県出雲市 大社町杵築東3286</p> <p><img alt="出雲大社" src="https://live.staticflickr.com/65535/51352952989_87e8271252_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.3967051&amp;lon=132.6863743&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【出雲大社】 by Chitaka Chou</p>',
+      description: '<p>3巻 P139  島根県出雲市 大社町杵築東3286</p> ',
       location: {
         center: [132.6863743, 35.3967051],
         zoom: 14,
@@ -176,8 +176,8 @@ const config = {
       hidden: false,
       title: 'うさぎ！',
       image: '',
-      tweet_id: '1427132620551331843',
-      description: '<p>3巻 P139  島根県出雲市 大社町杵築東266</p><div class="tweetContainer" id="tweet1427132620551331843"></div> ',
+      tweet_id: '',
+      description: '<p>3巻 P139  島根県出雲市 大社町杵築東266</p> ',
       location: {
         center: [132.6852047, 35.3994106],
         zoom: 14,
@@ -197,7 +197,7 @@ const config = {
       title: '出雲大社 拝殿',
       image: '',
       tweet_id: '',
-      description: '<p>3巻 P140  島根県出雲市 大社町杵築東257</p> <p><img alt="出雲大社" src="https://live.staticflickr.com/65535/51353235570_9bbdee7aa6_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.4012055&amp;lon=132.6855211&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【出雲大社】 by Chitaka Chou</p>',
+      description: '<p>3巻 P140  島根県出雲市 大社町杵築東257</p> ',
       location: {
         center: [132.6855211, 35.4012055],
         zoom: 14,
@@ -217,7 +217,7 @@ const config = {
       title: '出雲大社 西十九社',
       image: '',
       tweet_id: '',
-      description: '<p>3巻 P141  島根県出雲市 大社町杵築東257</p> <p><img alt="出雲大社" src="https://live.staticflickr.com/65535/51353235355_4d72a70895_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.4014929&amp;lon=132.6848802&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【出雲大社】 by Chitaka Chou</p>',
+      description: '<p>3巻 P141  島根県出雲市 大社町杵築東257</p> ',
       location: {
         center: [132.6848802, 35.4014929],
         zoom: 14,
@@ -237,7 +237,7 @@ const config = {
       title: '出雲大社 神楽殿',
       image: '',
       tweet_id: '',
-      description: '<p>3巻 P142  島根県出雲市 大社町杵築東257</p> <p><img alt="出雲大社" src="https://live.staticflickr.com/65535/51352952119_49ebdd0acf_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.4015453&amp;lon=132.6844634&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【出雲大社】 by Chitaka Chou</p>',
+      description: '<p>3巻 P142  島根県出雲市 大社町杵築東257</p> ',
       location: {
         center: [132.6844634, 35.4015453],
         zoom: 14,
@@ -257,7 +257,7 @@ const config = {
       title: '稲佐の浜(弁天島)',
       image: '',
       tweet_id: '',
-      description: '<p>3巻 P143  島根県出雲市 大社町杵築北2844</p> <p><img alt="稲佐の浜" src="https://live.staticflickr.com/65535/51335483317_d4bd1143b1_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.4003035&amp;lon=132.6719106&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【稲佐の浜】 by Chitaka Chou</p>',
+      description: '<p>3巻 P143  島根県出雲市 大社町杵築北2844</p> ',
       location: {
         center: [132.6719106, 35.4003035],
         zoom: 14,
@@ -297,7 +297,7 @@ const config = {
       title: '松江しんじ湖温泉駅',
       image: '',
       tweet_id: '',
-      description: '<p>3巻 P146  島根県松江市 中原町51</p> <p><img alt="Ichibata Electric Railway Matsue-Shinjiko-Onsen Station" src="https://live.staticflickr.com/65535/51332672809_05603efba7_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.4673633&amp;lon=133.0460423&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Ichibata Electric Railway Matsue-Shinjiko-Onsen Station】 by Kzaral</p>',
+      description: '<p>3巻 P146  島根県松江市 中原町51</p> ',
       location: {
         center: [133.0460423, 35.4673633],
         zoom: 14,
@@ -317,7 +317,7 @@ const config = {
       title: 'ホテル一畑',
       image: '',
       tweet_id: '',
-      description: '<p>3巻 P146  島根県松江市 千鳥町18</p> <p><img alt="Ichibata Electric Railway Matsue-Shinjiko-Onsen Station" src="https://live.staticflickr.com/65535/51332941410_b5b4567cea_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.4661714&amp;lon=133.0453378&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Ichibata Electric Railway Matsue-Shinjiko-Onsen Station】 by Kzaral</p>',
+      description: '<p>3巻 P146  島根県松江市 千鳥町18</p> ',
       location: {
         center: [133.0453378, 35.4661714],
         zoom: 14,
@@ -337,7 +337,7 @@ const config = {
       title: '松江城',
       image: '',
       tweet_id: '',
-      description: '<p>3巻 P150  島根県松江市 殿町1</p> <p><img alt="Matsue Castle, Matsue" src="https://live.staticflickr.com/65535/51331210157_4040910456_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.4751335&amp;lon=133.0506783&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Matsue Castle, Matsue】 by Kzaral</p>',
+      description: '<p>3巻 P150  島根県松江市 殿町1</p> ',
       location: {
         center: [133.0506783, 35.4751335],
         zoom: 14,

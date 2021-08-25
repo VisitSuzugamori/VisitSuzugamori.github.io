@@ -57,7 +57,7 @@ const config = {
       title: 'バジェット･レンタカー 小倉駅前店',
       image: '',
       tweet_id: '',
-      description: '<p>5巻 P62  福岡県北九州市 小倉北区 浅野二丁目14</p> <p><img alt="Fukuoka 2017" src="https://live.staticflickr.com/65535/49929555212_ffa5fc2ede_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=33.887012&amp;lon=130.884924&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Fukuoka 2017】 by Propangas</p>',
+      description: '<p>5巻 P62  福岡県北九州市 小倉北区 浅野二丁目14</p> ',
       location: {
         center: [130.884924, 33.887012],
         zoom: 14,
@@ -97,7 +97,7 @@ const config = {
       title: '青の洞門',
       image: '',
       tweet_id: '',
-      description: '<p>5巻 P68  大分県中津市 本耶馬渓町樋田</p> <p><img alt="20191121_Kyushu_220" src="https://live.staticflickr.com/65535/49256380933_28a3515052_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=33.5001247&amp;lon=131.1717971&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【20191121_Kyushu_220】 by jinmsk</p>',
+      description: '<p>5巻 P68  大分県中津市 本耶馬渓町樋田</p> ',
       location: {
         center: [131.1717971, 33.5001247],
         zoom: 14,
@@ -177,7 +177,7 @@ const config = {
       title: '宇佐のマチュピチュ展望所',
       image: '',
       tweet_id: '',
-      description: '<p>5巻 P86  大分県宇佐市 院内町野地</p> <p><img alt="Usa no Machu Picchu" src="https://live.staticflickr.com/349/19351704725_a39aa65422_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=33.3744345&amp;lon=131.2675881&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Usa no Machu Picchu】 by parsons service</p>',
+      description: '<p>5巻 P86  大分県宇佐市 院内町野地</p> ',
       location: {
         center: [131.2675881, 33.3744345],
         zoom: 14,
@@ -197,7 +197,7 @@ const config = {
       title: '一目八景展望台',
       image: '',
       tweet_id: '',
-      description: '<p>5巻 P89  大分県中津市 </p> <p><img alt="20191121_Kyushu_230" src="https://live.staticflickr.com/65535/49256865221_9b8348ccd2_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=33.3718603&amp;lon=131.1651069&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【20191121_Kyushu_230】 by jinmsk</p>',
+      description: '<p>5巻 P89  大分県中津市 </p> ',
       location: {
         center: [131.1651069, 33.3718603],
         zoom: 14,

@@ -37,7 +37,7 @@ const config = {
       title: '今この辺をぶらついているよ！',
       image: '',
       tweet_id: '',
-      description: '<p>3巻 P90  岩手県花巻市 胡四王一丁目3</p> <p><img alt="20200201_141144" src="https://live.staticflickr.com/65535/49525320797_4017b59316_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=39.4058926&amp;lon=141.1728086&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【20200201_141144】 by honhong1598</p>',
+      description: '<p>3巻 P90  岩手県花巻市 胡四王一丁目3</p> ',
       location: {
         center: [141.1728086, 39.4058926],
         zoom: 14,
@@ -57,7 +57,7 @@ const config = {
       title: '宮沢賢治記念館',
       image: '',
       tweet_id: '',
-      description: '<p>3巻 P91  岩手県花巻市 矢沢第一地割15</p> <p><img alt="宮沢賢治童話の森 シカでしか" src="https://live.staticflickr.com/3714/10555442295_5dac9edd99_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=39.3992073&amp;lon=141.1626699&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【宮沢賢治童話の森 シカでしか】 by kTomoyuki</p>',
+      description: '<p>3巻 P91  岩手県花巻市 矢沢第一地割15</p> ',
       location: {
         center: [141.1626699, 39.3992073],
         zoom: 14,
@@ -77,7 +77,7 @@ const config = {
       title: '山猫軒',
       image: '',
       tweet_id: '',
-      description: '<p>3巻 P92  岩手県花巻市 高松第二十六地割8</p> <p><img alt="20200201_111209" src="https://live.staticflickr.com/65535/49525100391_19659df9aa_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=39.3994579&amp;lon=141.1645876&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【20200201_111209】 by honhong1598</p>',
+      description: '<p>3巻 P92  岩手県花巻市 高松第二十六地割8</p> ',
       location: {
         center: [141.1645876, 39.3994579],
         zoom: 14,
@@ -137,7 +137,7 @@ const config = {
       title: 'マルカン百貨店',
       image: '',
       tweet_id: '',
-      description: '<p>3巻 P101  岩手県花巻市 上町6</p> <p><img alt="DSC00975.jpg" src="https://live.staticflickr.com/4695/28322992389_4e2e6c4388_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=39.3858944&amp;lon=141.1171042&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【DSC00975.jpg】 by randy@katzenpost.de</p>',
+      description: '<p>3巻 P101  岩手県花巻市 上町6</p> ',
       location: {
         center: [141.1171042, 39.3858944],
         zoom: 14,
@@ -157,7 +157,7 @@ const config = {
       title: 'マルカンビル大食堂',
       image: '',
       tweet_id: '',
-      description: '<p>3巻 P101  岩手県花巻市 上町6</p> <p><img alt="iwate_20180308104442" src="https://live.staticflickr.com/941/43657100852_6b19ac31f3_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=39.385832&amp;lon=141.11711&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【iwate_20180308104442】 by inunami</p>',
+      description: '<p>3巻 P101  岩手県花巻市 上町6</p> ',
       location: {
         center: [141.11711, 39.385832],
         zoom: 14,
@@ -177,7 +177,7 @@ const config = {
       title: '大沢温泉 湯治屋',
       image: '',
       tweet_id: '',
-      description: '<p>3巻 P103  岩手県花巻市 湯口字大沢171</p> <p><img alt="Park near Osawa Onsen (大沢温泉), Hanamaki, Iwate" src="https://live.staticflickr.com/65535/49728118741_97faca3438_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=39.4365493&amp;lon=141.0159616&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Park near Osawa Onsen (大沢温泉), Hanamaki, Iwate】 by Hans ter Horst Photography</p>',
+      description: '<p>3巻 P103  岩手県花巻市 湯口字大沢171</p> ',
       location: {
         center: [141.0159616, 39.4365493],
         zoom: 14,
@@ -197,7 +197,7 @@ const config = {
       title: '渡り温泉 ホテルさつき・別邸楓',
       image: '',
       tweet_id: '',
-      description: '<p>3巻 P112  岩手県花巻市 湯口字渡り24</p> <p><img alt="DSC00096" src="https://live.staticflickr.com/5721/31313355952_df5b570cf9_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=39.4256925&amp;lon=141.0151992&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【DSC00096】 by DYKT Mohigan</p>',
+      description: '<p>3巻 P112  岩手県花巻市 湯口字渡り24</p> ',
       location: {
         center: [141.0151992, 39.4256925],
         zoom: 14,
@@ -276,8 +276,8 @@ const config = {
       hidden: false,
       title: '中尊寺',
       image: '',
-      tweet_id: '1429238593998884869',
-      description: '<p>3巻 P118  岩手県西磐井郡 平泉町 平泉43</p><div class="tweetContainer" id="tweet1429238593998884869"></div> ',
+      tweet_id: '1430400145565224961',
+      description: '<p>3巻 P118  岩手県西磐井郡 平泉町 平泉43</p><div class="tweetContainer" id="tweet1430400145565224961"></div> ',
       location: {
         center: [141.102596, 39.0017355],
         zoom: 14,
@@ -297,7 +297,7 @@ const config = {
       title: '材木町公園',
       image: '',
       tweet_id: '',
-      description: '<p>3巻 P121  岩手県花巻市 材木町3</p> <p><img alt="花巻交通デハ3" src="https://live.staticflickr.com/8109/8659495921_f54aa2ecb4_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=39.3894289&amp;lon=141.1091143&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【花巻交通デハ3】 by OOMYV</p>',
+      description: '<p>3巻 P121  岩手県花巻市 材木町3</p> ',
       location: {
         center: [141.1091143, 39.3894289],
         zoom: 14,
