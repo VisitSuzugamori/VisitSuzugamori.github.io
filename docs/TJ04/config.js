@@ -56,8 +56,8 @@ const config = {
       hidden: false,
       title: '高松駅',
       image: '',
-      tweet_id: '1428482274236919810',
-      description: '<p>1巻 P131  香川県高松市 西の丸町2</p><div class="tweetContainer" id="tweet1428482274236919810"></div> ',
+      tweet_id: '1430637374208237575',
+      description: '<p>1巻 P131  香川県高松市 西の丸町2</p><div class="tweetContainer" id="tweet1430637374208237575"></div> ',
       location: {
         center: [134.047056, 34.3504507],
         zoom: 14,
@@ -76,8 +76,8 @@ const config = {
       hidden: false,
       title: '高松築港駅',
       image: '',
-      tweet_id: '1428137249091248128',
-      description: '<p>1巻 P132  香川県高松市 寿町一丁目5</p><div class="tweetContainer" id="tweet1428137249091248128"></div> ',
+      tweet_id: '',
+      description: '<p>1巻 P132  香川県高松市 寿町一丁目5</p> <p><img alt="Kotoden Takamatsu-Chikko Station" src="https://live.staticflickr.com/65535/51332935675_8186efc6b3_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.350757&amp;lon=134.049468&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Kotoden Takamatsu-Chikko Station】 by Kzaral</p>',
       location: {
         center: [134.049468, 34.350757],
         zoom: 14,
@@ -217,7 +217,7 @@ const config = {
       title: '玉藻公園',
       image: '',
       tweet_id: '',
-      description: '<p>1巻 P150  香川県高松市 玉藻町2</p> <p><img alt="2019 瀨戶內國際藝術祭-玉藻公園, Study 1" src="https://live.staticflickr.com/65535/49764929637_c7489a91e1_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.3503157&amp;lon=134.0516188&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【2019 瀨戶內國際藝術祭-玉藻公園, Study 1】 by Zale Yu</p>',
+      description: '<p>1巻 P150  香川県高松市 玉藻町2</p> <p><img alt="No matter how far we are, we are friends" src="https://live.staticflickr.com/65535/51202354199_76d7a4b9c9_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.3503157&amp;lon=134.0516188&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【No matter how far we are, we are friends】 by kelvinho1019</p>',
       location: {
         center: [134.0516188, 34.3503157],
         zoom: 14,
@@ -236,8 +236,8 @@ const config = {
       hidden: false,
       title: '栗林公園',
       image: '',
-      tweet_id: '1428269816515686402',
-      description: '<p>1巻 P157  香川県高松市 栗林町一丁目20</p><div class="tweetContainer" id="tweet1428269816515686402"></div> ',
+      tweet_id: '',
+      description: '<p>1巻 P157  香川県高松市 栗林町一丁目20</p> <p><img alt="" src="https://live.staticflickr.com/65535/51314645366_d70604af37_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.3293842&amp;lon=134.0445345&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【】 by perioanajou</p>',
       location: {
         center: [134.0445345, 34.3293842],
         zoom: 14,

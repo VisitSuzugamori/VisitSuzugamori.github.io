@@ -196,8 +196,8 @@ const config = {
       hidden: false,
       title: '烏山大橋',
       image: '',
-      tweet_id: '1428370266166480899',
-      description: '<p>2巻 P60  栃木県那須烏山市 旭二丁目14</p><div class="tweetContainer" id="tweet1428370266166480899"></div> ',
+      tweet_id: '',
+      description: '<p>2巻 P60  栃木県那須烏山市 旭二丁目14</p> ',
       location: {
         center: [140.1684645, 36.6527173],
         zoom: 14,

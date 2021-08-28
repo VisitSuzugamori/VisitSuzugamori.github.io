@@ -16,8 +16,8 @@ const config = {
       hidden: false,
       title: '東京駅',
       image: '',
-      tweet_id: '1428600681909276683',
-      description: '<p>   東京都千代田区 丸の内一丁目9</p><div class="tweetContainer" id="tweet1428600681909276683"></div> ',
+      tweet_id: '1431574996569112580',
+      description: '<p>   東京都千代田区 丸の内一丁目9</p><div class="tweetContainer" id="tweet1431574996569112580"></div> ',
       location: {
         center: [139.7671248, 35.6812362],
         zoom: 14,
@@ -257,7 +257,7 @@ const config = {
       title: '水上駅SL転車台広場',
       image: '',
       tweet_id: '',
-      description: '<p>   群馬県利根郡 みなかみ町 鹿野沢326</p> <p><img alt="D51-498" src="https://live.staticflickr.com/8547/30063254976_e38c0284d0_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=36.7810089&amp;lon=138.9697672&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【D51-498】 by yukky89_yamashita</p>',
+      description: '<p>   群馬県利根郡 みなかみ町 鹿野沢326</p> <p><img alt="D51 498" src="https://live.staticflickr.com/1778/44002571042_61b3fe9062_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=36.7810089&amp;lon=138.9697672&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【D51 498】 by Fuguda</p>',
       location: {
         center: [138.9697672, 36.7810089],
         zoom: 14,
@@ -276,8 +276,8 @@ const config = {
       hidden: false,
       title: '足湯',
       image: '',
-      tweet_id: '1428655239733915652',
-      description: '<p>   群馬県利根郡 みなかみ町 小日向416</p><div class="tweetContainer" id="tweet1428655239733915652"></div> ',
+      tweet_id: '1431316244028801025',
+      description: '<p>   群馬県利根郡 みなかみ町 小日向416</p><div class="tweetContainer" id="tweet1431316244028801025"></div> ',
       location: {
         center: [138.968798, 36.7641343],
         zoom: 14,
