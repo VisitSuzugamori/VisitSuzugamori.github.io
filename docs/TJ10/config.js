@@ -36,8 +36,8 @@ const config = {
       hidden: false,
       title: '萱野茶屋',
       image: '',
-      tweet_id: '1429205998795853828',
-      description: '<p>3巻 P32  青森県青森市 大字横内字八重菊62</p><div class="tweetContainer" id="tweet1429205998795853828"></div> ',
+      tweet_id: '',
+      description: '<p>3巻 P32  青森県青森市 大字横内字八重菊62</p> <p><img alt="" src="https://live.staticflickr.com/7886/47193495301_8710185f1e_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=40.7057577&amp;lon=140.8223047&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【】 by mhrs.jp</p>',
       location: {
         center: [140.8223047, 40.7057577],
         zoom: 14,
@@ -137,7 +137,7 @@ const config = {
       title: '恐山菩提寺',
       image: '',
       tweet_id: '',
-      description: '<p>3巻 P49  青森県むつ市 </p> <p><img alt="IMGP6517.jpg" src="https://live.staticflickr.com/65535/51061009162_ab66c82ce8_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=41.327247&amp;lon=141.0907618&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【IMGP6517.jpg】 by quecava</p>',
+      description: '<p>3巻 P49  青森県むつ市 </p> <p><img alt="IMGP6545.jpg" src="https://live.staticflickr.com/65535/51060926706_44f7692b4f_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=41.327247&amp;lon=141.0907618&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【IMGP6545.jpg】 by quecava</p>',
       location: {
         center: [141.0907618, 41.327247],
         zoom: 14,
