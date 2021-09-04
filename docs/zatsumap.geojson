@@ -3944,7 +3944,7 @@
             },
             "properties": {
                 "description": "第19旅（前編）",
-                "name": "道路多いっ\n"
+                "name": "道路多いっ"
             },
             "type": "Feature"
         },
@@ -3959,20 +3959,6 @@
             "properties": {
                 "description": "第19旅（前編）",
                 "name": "い\"い”い”い”っ"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    138.968798,
-                    36.7641343
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "description": "第19旅（後編）",
-                "name": "足湯"
             },
             "type": "Feature"
         },
@@ -4147,6 +4133,20 @@
         {
             "geometry": {
                 "coordinates": [
+                    138.968798,
+                    36.7641343
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "第19旅（後編）",
+                "name": "足湯"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     139.3778761,
                     36.2792064
                 ],
@@ -4155,6 +4155,104 @@
             "properties": {
                 "description": "第19旅（後編）",
                 "name": "ホテルルートイン太田南-国道407号-"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    133.6380775,
+                    33.576415
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "第20旅（前編）",
+                "name": "東工業前駅"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    133.6454058,
+                    33.5791401
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "第20旅（前編）",
+                "name": "後免駅"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    133.6458189,
+                    33.5788333
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "第20旅（前編）",
+                "name": "師匠はよしてって～"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    133.6453861,
+                    33.578697
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "第20旅（前編）",
+                "name": "ショッピングセンター パステポコ・ア・ポコ南国店"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    133.6445347,
+                    33.577017
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "第20旅（前編）",
+                "name": "たかはし"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    133.6437073,
+                    33.5770095
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "第20旅（前編）",
+                "name": "日吉神社"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    133.6440005,
+                    33.57513
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "第20旅（前編）",
+                "name": "サンシャイン カルディア店"
             },
             "type": "Feature"
         }

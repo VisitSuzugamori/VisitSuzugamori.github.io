@@ -2875,8 +2875,7 @@
       </Point>
     </Placemark>
     <Placemark>
-      <name>道路多いっ
-</name>
+      <name>道路多いっ</name>
       <description>第19旅（前編）</description>
       <styleUrl>#icon-1899-0288D1-labelson</styleUrl>
       <Point>
@@ -3032,6 +3031,76 @@
       <Point>
         <coordinates>
           139.3778761,36.2792064,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>東工業前駅</name>
+      <description>第20旅（前編）</description>
+      <styleUrl>#icon-1899-0288D1-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          133.6380775,33.576415,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>後免駅</name>
+      <description>第20旅（前編）</description>
+      <styleUrl>#icon-1899-0288D1-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          133.6454058,33.5791401,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>師匠はよしてって～</name>
+      <description>第20旅（前編）</description>
+      <styleUrl>#icon-1899-0288D1-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          133.6458189,33.5788333,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ショッピングセンター パステポコ・ア・ポコ南国店</name>
+      <description>第20旅（前編）</description>
+      <styleUrl>#icon-1899-0288D1-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          133.6453861,33.578697,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>たかはし</name>
+      <description>第20旅（前編）</description>
+      <styleUrl>#icon-1899-0288D1-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          133.6445347,33.577017,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>日吉神社</name>
+      <description>第20旅（前編）</description>
+      <styleUrl>#icon-1899-0288D1-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          133.6437073,33.5770095,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>サンシャイン カルディア店</name>
+      <description>第20旅（前編）</description>
+      <styleUrl>#icon-1899-0288D1-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          133.6440005,33.57513,0
         </coordinates>
       </Point>
     </Placemark>
