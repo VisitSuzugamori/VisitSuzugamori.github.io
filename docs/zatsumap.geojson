@@ -3944,7 +3944,7 @@
             },
             "properties": {
                 "description": "第19旅（前編）",
-                "name": "道路多いっ"
+                "name": "道路多いっ\n"
             },
             "type": "Feature"
         },
@@ -4253,6 +4253,118 @@
             "properties": {
                 "description": "第20旅（前編）",
                 "name": "サンシャイン カルディア店"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    133.5426569,
+                    33.5599438
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "第20旅（前編）",
+                "name": "はりまや橋"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    133.5527511,
+                    33.5404756
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "第20旅（前編）",
+                "name": "桟橋通五丁目駅"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    133.5505423,
+                    33.5373806
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "第20旅（前編）",
+                "name": "ホームセンターブリコ 桟橋店"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    133.5512011,
+                    33.5321508
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "第20旅（前編）",
+                "name": "新宇津野トンネル"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    133.545798,
+                    33.521597
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "第20旅（前編）",
+                "name": "佐々木酒食品"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    133.5439082,
+                    33.4946664
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "第20旅（前編）",
+                "name": "若宮八幡宮"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    133.5464292,
+                    33.4924347
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "第20旅（前編）",
+                "name": "鎮守の森公園"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    133.5462907,
+                    33.4930629
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "第20旅（前編）",
+                "name": "長宗我部元親像"
             },
             "type": "Feature"
         }
