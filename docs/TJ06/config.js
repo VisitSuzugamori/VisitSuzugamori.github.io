@@ -16,8 +16,8 @@ const config = {
       hidden: false,
       title: '宇都宮駅',
       image: '',
-      tweet_id: '1433377381859741696',
-      description: '<p>2巻 P44  栃木県宇都宮市 駅前通り三丁目1</p><div class="tweetContainer" id="tweet1433377381859741696"></div> ',
+      tweet_id: '1436796869397544965',
+      description: '<p>2巻 P44  栃木県宇都宮市 駅前通り三丁目1</p><div class="tweetContainer" id="tweet1436796869397544965"></div> ',
       location: {
         center: [139.8984511, 36.5590234],
         zoom: 14,
@@ -36,8 +36,8 @@ const config = {
       hidden: false,
       title: '滝駅',
       image: '',
-      tweet_id: '',
-      description: '<p>2巻 P47  栃木県那須烏山市 滝233</p> <p><img alt="アキュムに遭遇♪　烏山線" src="https://live.staticflickr.com/7535/15160898733_06a3b2cacb_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=36.6485846&amp;lon=140.1381941&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【アキュムに遭遇♪　烏山線】 by rie3phs</p>',
+      tweet_id: '1436245988096679937',
+      description: '<p>2巻 P47  栃木県那須烏山市 滝233</p><div class="tweetContainer" id="tweet1436245988096679937"></div> ',
       location: {
         center: [140.1381941, 36.6485846],
         zoom: 14,
@@ -216,8 +216,8 @@ const config = {
       hidden: false,
       title: 'もり食堂',
       image: '',
-      tweet_id: '1433635685261479946',
-      description: '<p>2巻 P62  栃木県那須烏山市 </p><div class="tweetContainer" id="tweet1433635685261479946"></div> ',
+      tweet_id: '',
+      description: '<p>2巻 P62  栃木県那須烏山市 </p> ',
       location: {
         center: [140.1852927, 36.649359],
         zoom: 14,
