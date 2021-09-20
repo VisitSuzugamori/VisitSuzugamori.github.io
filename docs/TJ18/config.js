@@ -377,7 +377,7 @@ const config = {
       title: 'なんだこれ？',
       image: '',
       tweet_id: '',
-      description: '<p>5巻 P145  東京都新宿区 西新宿二丁目9</p> <p><img alt="IMG_6903" src="https://live.staticflickr.com/65535/51394309702_4d8e6dd602_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.6886568&amp;lon=139.6915634&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【IMG_6903】 by fengsuave</p>',
+      description: '<p>5巻 P145  東京都新宿区 西新宿二丁目9</p> <p><img alt="Nishi-Sinjuku Skyscrapers" src="https://live.staticflickr.com/65535/51378040462_e9397fd4e8_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.6886568&amp;lon=139.6915634&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Nishi-Sinjuku Skyscrapers】 by Les Koppe Photography</p>',
       location: {
         center: [139.6915634, 35.6886568],
         zoom: 14,
@@ -397,7 +397,7 @@ const config = {
       title: '都庁からさらに西へ・・・',
       image: '',
       tweet_id: '',
-      description: '<p>5巻 P146  東京都渋谷区 本町三丁目9</p> <p><img alt="Tokyo Street" src="https://live.staticflickr.com/65535/51375758014_20c2976074_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.6891142&amp;lon=139.6830083&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Tokyo Street】 by Rick Neves</p>',
+      description: '<p>5巻 P146  東京都渋谷区 本町三丁目9</p> <p><img alt="Japanese woman walking in sidewalk" src="https://live.staticflickr.com/65535/51363074430_2f636f9c9c_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.6891142&amp;lon=139.6830083&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Japanese woman walking in sidewalk】 by Rick Neves</p>',
       location: {
         center: [139.6830083, 35.6891142],
         zoom: 14,
@@ -477,7 +477,7 @@ const config = {
       title: '杉並区立玉川上水公園',
       image: '',
       tweet_id: '',
-      description: '<p>5巻 P149  東京都杉並区 和泉二丁目8</p> <p><img alt="杉並区立玉川上水公園" src="https://live.staticflickr.com/65535/51205465635_de6f2786a0_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.6713219&amp;lon=139.651149&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【杉並区立玉川上水公園】 by いしだなおと</p>',
+      description: '<p>5巻 P149  東京都杉並区 和泉二丁目8</p> <p><img alt="SDIM0639" src="https://live.staticflickr.com/65535/49845619347_e12c126761_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.6713219&amp;lon=139.651149&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【SDIM0639】 by beve4</p>',
       location: {
         center: [139.651149, 35.6713219],
         zoom: 14,
@@ -497,7 +497,7 @@ const config = {
       title: '普通の街という感じ・・・',
       image: '',
       tweet_id: '',
-      description: '<p>5巻 P150  東京都杉並区 和泉二丁目14</p> <p><img alt="Construction Platform over the Kanda River" src="https://live.staticflickr.com/7309/27486755916_5b1cc3b3fe_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.6731172&amp;lon=139.6478716&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Construction Platform over the Kanda River】 by ykanazawa1999</p>',
+      description: '<p>5巻 P150  東京都杉並区 和泉二丁目14</p> <p><img alt="Flying" src="https://live.staticflickr.com/6031/7016554651_220c8955ed_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.6731172&amp;lon=139.6478716&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Flying】 by Takahiro Yamamoto (2nd account)</p>',
       location: {
         center: [139.6478716, 35.6731172],
         zoom: 14,

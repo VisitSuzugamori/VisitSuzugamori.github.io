@@ -16,8 +16,8 @@ const config = {
       hidden: false,
       title: '郡山駅',
       image: '',
-      tweet_id: '1435874291573145600',
-      description: '<p>1巻 P22  福島県郡山市 駅前二丁目4</p><div class="tweetContainer" id="tweet1435874291573145600"></div> ',
+      tweet_id: '1439194425599553539',
+      description: '<p>1巻 P22  福島県郡山市 駅前二丁目4</p><div class="tweetContainer" id="tweet1439194425599553539"></div> ',
       location: {
         center: [140.3884019, 37.3985573],
         zoom: 14,
@@ -36,8 +36,8 @@ const config = {
       hidden: false,
       title: '磐梯熱海駅',
       image: '',
-      tweet_id: '1434364128412459013',
-      description: '<p>1巻 P23  福島県郡山市 熱海町熱海一丁目109</p><div class="tweetContainer" id="tweet1434364128412459013"></div> ',
+      tweet_id: '1439184357734891521',
+      description: '<p>1巻 P23  福島県郡山市 熱海町熱海一丁目109</p><div class="tweetContainer" id="tweet1439184357734891521"></div> ',
       location: {
         center: [140.2708687, 37.4808961],
         zoom: 14,
@@ -56,8 +56,8 @@ const config = {
       hidden: false,
       title: '会津若松駅',
       image: '',
-      tweet_id: '1434729521056403461',
-      description: '<p>1巻 P24  福島県会津若松市 駅前町1</p><div class="tweetContainer" id="tweet1434729521056403461"></div> ',
+      tweet_id: '1439088939231555584',
+      description: '<p>1巻 P24  福島県会津若松市 駅前町1</p><div class="tweetContainer" id="tweet1439088939231555584"></div> ',
       location: {
         center: [139.9303261, 37.5078657],
         zoom: 14,
@@ -76,8 +76,8 @@ const config = {
       hidden: false,
       title: 'ラーメン二郎 会津若松駅前店',
       image: '',
-      tweet_id: '1436572024084774917',
-      description: '<p>1巻 P25  福島県会津若松市 駅前町6</p><div class="tweetContainer" id="tweet1436572024084774917"></div> ',
+      tweet_id: '1438472156220887041',
+      description: '<p>1巻 P25  福島県会津若松市 駅前町6</p><div class="tweetContainer" id="tweet1438472156220887041"></div> ',
       location: {
         center: [139.9314173, 37.5066266],
         zoom: 14,
