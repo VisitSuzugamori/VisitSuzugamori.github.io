@@ -317,7 +317,7 @@ const config = {
       title: '東京乗馬倶楽部',
       image: '',
       tweet_id: '',
-      description: '<p>5巻 P144  東京都渋谷区 代々木神園町4</p> <p><img alt="東京乗馬倶楽部" src="https://live.staticflickr.com/65535/51317418485_035be5fe0a_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.6791113&amp;lon=139.694663&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【東京乗馬倶楽部】 by いしだなおと</p>',
+      description: '<p>5巻 P144  東京都渋谷区 代々木神園町4</p> <p><img alt="代々木ポニー公園 Yoyogi Pony Park" src="https://live.staticflickr.com/7835/32040151527_9efa5a1d05_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.6791113&amp;lon=139.694663&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【代々木ポニー公園 Yoyogi Pony Park】 by Spicio</p>',
       location: {
         center: [139.694663, 35.6791113],
         zoom: 14,
@@ -337,7 +337,7 @@ const config = {
       title: '大都会味ある',
       image: '',
       tweet_id: '',
-      description: '<p>5巻 P144  東京都新宿区 西新宿三丁目15</p> <p><img alt="大都会味ある 甲州街道 西参道口" src="https://live.staticflickr.com/65535/51317136589_cb249a1063_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.6839315&amp;lon=139.690806&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【大都会味ある 甲州街道 西参道口】 by いしだなおと</p>',
+      description: '<p>5巻 P144  東京都新宿区 西新宿三丁目15</p> <p><img alt="甲州街道" src="https://live.staticflickr.com/65535/51156210119_d385bbafd3_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.6839315&amp;lon=139.690806&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【甲州街道】 by Propangas</p>',
       location: {
         center: [139.690806, 35.6839315],
         zoom: 14,
@@ -377,7 +377,7 @@ const config = {
       title: 'なんだこれ？',
       image: '',
       tweet_id: '',
-      description: '<p>5巻 P145  東京都新宿区 西新宿二丁目9</p> <p><img alt="IMG_6902" src="https://live.staticflickr.com/65535/51395074041_0d66c14102_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.6886568&amp;lon=139.6915634&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【IMG_6902】 by fengsuave</p>',
+      description: '<p>5巻 P145  東京都新宿区 西新宿二丁目9</p> <p><img alt="Nishi-Sinjuku Skyscrapers" src="https://live.staticflickr.com/65535/51378040462_e9397fd4e8_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.6886568&amp;lon=139.6915634&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Nishi-Sinjuku Skyscrapers】 by Les Koppe Photography</p>',
       location: {
         center: [139.6915634, 35.6886568],
         zoom: 14,
@@ -397,7 +397,7 @@ const config = {
       title: '都庁からさらに西へ・・・',
       image: '',
       tweet_id: '',
-      description: '<p>5巻 P146  東京都渋谷区 本町三丁目9</p> <p><img alt="Tokyo Street" src="https://live.staticflickr.com/65535/51375758014_20c2976074_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.6891142&amp;lon=139.6830083&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Tokyo Street】 by Rick Neves</p>',
+      description: '<p>5巻 P146  東京都渋谷区 本町三丁目9</p> <p><img alt="Japanese woman crossing the street" src="https://live.staticflickr.com/65535/51362779854_9a9df1e857_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.6891142&amp;lon=139.6830083&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Japanese woman crossing the street】 by Rick Neves</p>',
       location: {
         center: [139.6830083, 35.6891142],
         zoom: 14,
@@ -437,7 +437,7 @@ const config = {
       title: '二軒家橋跡',
       image: '',
       tweet_id: '',
-      description: '<p>5巻 P147  東京都渋谷区 本町四丁目12</p> <p><img alt="二軒家橋跡" src="https://live.staticflickr.com/65535/51203676882_140155dc1b_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.6879053&amp;lon=139.6810693&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【二軒家橋跡】 by いしだなおと</p>',
+      description: '<p>5巻 P147  東京都渋谷区 本町四丁目12</p> <p><img alt="清水橋跡" src="https://live.staticflickr.com/65535/51204598608_4534d514d2_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.6879053&amp;lon=139.6810693&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【清水橋跡】 by いしだなおと</p>',
       location: {
         center: [139.6810693, 35.6879053],
         zoom: 14,
@@ -477,7 +477,7 @@ const config = {
       title: '杉並区立玉川上水公園',
       image: '',
       tweet_id: '',
-      description: '<p>5巻 P149  東京都杉並区 和泉二丁目8</p> <p><img alt="東京山手急行電鉄跡" src="https://live.staticflickr.com/65535/51204396566_7231c379a0_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.6713219&amp;lon=139.651149&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【東京山手急行電鉄跡】 by いしだなおと</p>',
+      description: '<p>5巻 P149  東京都杉並区 和泉二丁目8</p> <p><img alt="杉並区立玉川上水公園" src="https://live.staticflickr.com/65535/51205465635_de6f2786a0_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.6713219&amp;lon=139.651149&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【杉並区立玉川上水公園】 by いしだなおと</p>',
       location: {
         center: [139.651149, 35.6713219],
         zoom: 14,

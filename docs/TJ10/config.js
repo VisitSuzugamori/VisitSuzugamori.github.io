@@ -96,8 +96,8 @@ const config = {
       hidden: false,
       title: '下北駅',
       image: '',
-      tweet_id: '1437323160525971456',
-      description: '<p>3巻 P47  青森県むつ市 下北町4</p><div class="tweetContainer" id="tweet1437323160525971456"></div> ',
+      tweet_id: '',
+      description: '<p>3巻 P47  青森県むつ市 下北町4</p> <p><img alt="Traveller" src="https://live.staticflickr.com/8236/8477522033_92a0de2ec3_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=41.2827427&amp;lon=141.1899038&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Traveller】 by moaan</p>',
       location: {
         center: [141.1899038, 41.2827427],
         zoom: 14,
@@ -116,8 +116,8 @@ const config = {
       hidden: false,
       title: '三途の川',
       image: '',
-      tweet_id: '1437657686556938240',
-      description: '<p>3巻 P49  青森県むつ市 </p><div class="tweetContainer" id="tweet1437657686556938240"></div> ',
+      tweet_id: '',
+      description: '<p>3巻 P49  青森県むつ市 </p> <p><img alt="Sanzu no Kawa" src="https://live.staticflickr.com/8804/18253098982_9ee3a980c3_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=41.3260657&amp;lon=141.0962272&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Sanzu no Kawa】 by mega_midget_racer</p>',
       location: {
         center: [141.0962272, 41.3260657],
         zoom: 14,
@@ -157,7 +157,7 @@ const config = {
       title: '宇曽利山湖 極楽浜',
       image: '',
       tweet_id: '',
-      description: '<p>3巻 P51  青森県むつ市 </p> <p><img alt="Osorezan" src="https://live.staticflickr.com/8572/29173120092_15680bfe66_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=41.3264966&amp;lon=141.086011&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Osorezan】 by hirorin2013</p>',
+      description: '<p>3巻 P51  青森県むつ市 </p> <p><img alt="恐山" src="https://live.staticflickr.com/65535/50327664441_0856db8fa1_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=41.3264966&amp;lon=141.086011&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【恐山】 by himeti</p>',
       location: {
         center: [141.086011, 41.3264966],
         zoom: 14,
@@ -176,8 +176,8 @@ const config = {
       hidden: false,
       title: '恐山 花染の湯',
       image: '',
-      tweet_id: '',
-      description: '<p>3巻 P52  青森県むつ市 </p> <p><img alt="Gable Gate" src="https://live.staticflickr.com/7779/30227491562_f1a0316774_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=41.3283697&amp;lon=141.0917047&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Gable Gate】 by campra</p>',
+      tweet_id: '1440141784638627840',
+      description: '<p>3巻 P52  青森県むつ市 </p><div class="tweetContainer" id="tweet1440141784638627840"></div> ',
       location: {
         center: [141.0917047, 41.3283697],
         zoom: 14,
