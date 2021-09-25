@@ -4367,6 +4367,34 @@
                 "name": "長宗我部元親像"
             },
             "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    133.5488726,
+                    33.4887778
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "第20旅（前編）",
+                "name": "桂浜花街道"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    133.5675576,
+                    33.4967764
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "第20旅（前編）",
+                "name": "切り通し"
+            },
+            "type": "Feature"
         }
     ],
     "type": "FeatureCollection"

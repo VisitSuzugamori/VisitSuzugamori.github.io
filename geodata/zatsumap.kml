@@ -3185,5 +3185,25 @@
         </coordinates>
       </Point>
     </Placemark>
+    <Placemark>
+      <name>桂浜花街道</name>
+      <description>第20旅（前編）</description>
+      <styleUrl>#icon-1899-0288D1-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          133.5488726,33.4887778,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>切り通し</name>
+      <description>第20旅（前編）</description>
+      <styleUrl>#icon-1899-0288D1-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          133.5675576,33.4967764,0
+        </coordinates>
+      </Point>
+    </Placemark>
   </Document>
 </kml>
