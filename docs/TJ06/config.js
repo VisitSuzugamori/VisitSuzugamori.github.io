@@ -56,8 +56,8 @@ const config = {
       hidden: false,
       title: '龍門の滝',
       image: '',
-      tweet_id: '1438270267747291136',
-      description: '<p>2巻 P49  栃木県那須烏山市 滝20</p><div class="tweetContainer" id="tweet1438270267747291136"></div> ',
+      tweet_id: '1441325762481512450',
+      description: '<p>2巻 P49  栃木県那須烏山市 滝20</p><div class="tweetContainer" id="tweet1441325762481512450"></div> ',
       location: {
         center: [140.1398144, 36.6455986],
         zoom: 14,
