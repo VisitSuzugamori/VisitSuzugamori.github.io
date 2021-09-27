@@ -77,7 +77,7 @@ const config = {
       title: '旧大社駅舎',
       image: '',
       tweet_id: '',
-      description: '<p>3巻 P134  島根県出雲市 大社町北荒木452</p> <p><img alt="Former Taisha Station, Shimane  出雲大社　旧大社駅　島根" src="https://live.staticflickr.com/65535/50192567213_b75a7e68bd_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.3866419&amp;lon=132.690256&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Former Taisha Station, Shimane  出雲大社　旧大社駅　島根】 by Anaguma</p>',
+      description: '<p>3巻 P134  島根県出雲市 大社町北荒木452</p> <p><img alt="OLD Taisha Station (Izumo, Shimane, Japan)" src="https://live.staticflickr.com/4698/24796736207_fa4a70532f_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.3866419&amp;lon=132.690256&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【OLD Taisha Station (Izumo, Shimane, Japan)】 by t-mizo</p>',
       location: {
         center: [132.690256, 35.3866419],
         zoom: 14,
@@ -117,7 +117,7 @@ const config = {
       title: '俵屋菓舗 神門店',
       image: '',
       tweet_id: '',
-      description: '<p>3巻 P137  島根県出雲市 大社町杵築南775</p> <p><img alt="出雲大社" src="https://live.staticflickr.com/65535/51353236080_11e7daf080_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.3952169&amp;lon=132.6867573&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【出雲大社】 by Chitaka Chou</p>',
+      description: '<p>3巻 P137  島根県出雲市 大社町杵築南775</p> <p><img alt="出雲大社参道" src="https://live.staticflickr.com/65535/51350828730_9f8002eb1a_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.3952169&amp;lon=132.6867573&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【出雲大社参道】 by Chitaka Chou</p>',
       location: {
         center: [132.6867573, 35.3952169],
         zoom: 14,
@@ -137,7 +137,7 @@ const config = {
       title: '出雲日本海 出雲大社正門前店',
       image: '',
       tweet_id: '',
-      description: '<p>3巻 P137  島根県出雲市 大社町杵築南839</p> <p><img alt="出雲大社" src="https://live.staticflickr.com/65535/51352441128_d14225bb31_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.3962535&amp;lon=132.6863131&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【出雲大社】 by Chitaka Chou</p>',
+      description: '<p>3巻 P137  島根県出雲市 大社町杵築南839</p> <p><img alt="出雲大社" src="https://live.staticflickr.com/65535/51353236080_11e7daf080_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.3962535&amp;lon=132.6863131&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【出雲大社】 by Chitaka Chou</p>',
       location: {
         center: [132.6863131, 35.3962535],
         zoom: 14,
@@ -157,7 +157,7 @@ const config = {
       title: '出雲大社 勢溜の大鳥居',
       image: '',
       tweet_id: '',
-      description: '<p>3巻 P139  島根県出雲市 大社町杵築東3286</p> <p><img alt="出雲大社" src="https://live.staticflickr.com/65535/51352952989_87e8271252_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.3967051&amp;lon=132.6863743&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【出雲大社】 by Chitaka Chou</p>',
+      description: '<p>3巻 P139  島根県出雲市 大社町杵築東3286</p> <p><img alt="出雲大社" src="https://live.staticflickr.com/65535/51352441128_d14225bb31_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.3967051&amp;lon=132.6863743&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【出雲大社】 by Chitaka Chou</p>',
       location: {
         center: [132.6863743, 35.3967051],
         zoom: 14,
@@ -177,7 +177,7 @@ const config = {
       title: 'うさぎ！',
       image: '',
       tweet_id: '',
-      description: '<p>3巻 P139  島根県出雲市 大社町杵築東266</p> <p><img alt="出雲大社" src="https://live.staticflickr.com/65535/51353235570_9bbdee7aa6_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.3994106&amp;lon=132.6852047&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【出雲大社】 by Chitaka Chou</p>',
+      description: '<p>3巻 P139  島根県出雲市 大社町杵築東266</p> <p><img alt="出雲大社" src="https://live.staticflickr.com/65535/51352440158_b1554b12af_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.3994106&amp;lon=132.6852047&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【出雲大社】 by Chitaka Chou</p>',
       location: {
         center: [132.6852047, 35.3994106],
         zoom: 14,
@@ -217,7 +217,7 @@ const config = {
       title: '出雲大社 西十九社',
       image: '',
       tweet_id: '',
-      description: '<p>3巻 P141  島根県出雲市 大社町杵築東257</p> <p><img alt="出雲大社" src="https://live.staticflickr.com/65535/51353235355_4d72a70895_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.4014929&amp;lon=132.6848802&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【出雲大社】 by Chitaka Chou</p>',
+      description: '<p>3巻 P141  島根県出雲市 大社町杵築東257</p> <p><img alt="出雲大社" src="https://live.staticflickr.com/65535/51353235570_9bbdee7aa6_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.4014929&amp;lon=132.6848802&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【出雲大社】 by Chitaka Chou</p>',
       location: {
         center: [132.6848802, 35.4014929],
         zoom: 14,
@@ -257,7 +257,7 @@ const config = {
       title: '稲佐の浜(弁天島)',
       image: '',
       tweet_id: '',
-      description: '<p>3巻 P143  島根県出雲市 大社町杵築北2844</p> <p><img alt="稲佐の浜" src="https://live.staticflickr.com/65535/51335483317_d4bd1143b1_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.4003035&amp;lon=132.6719106&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【稲佐の浜】 by Chitaka Chou</p>',
+      description: '<p>3巻 P143  島根県出雲市 大社町杵築北2844</p> <p><img alt="稲佐の浜" src="https://live.staticflickr.com/65535/51336941204_95732acd22_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.4003035&amp;lon=132.6719106&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【稲佐の浜】 by Chitaka Chou</p>',
       location: {
         center: [132.6719106, 35.4003035],
         zoom: 14,
