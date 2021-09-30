@@ -16,8 +16,8 @@ const config = {
       hidden: false,
       title: '郡山駅',
       image: '',
-      tweet_id: '1439194425599553539',
-      description: '<p>1巻 P22  福島県郡山市 駅前二丁目4</p><div class="tweetContainer" id="tweet1439194425599553539"></div> ',
+      tweet_id: '1442319068019638283',
+      description: '<p>1巻 P22  福島県郡山市 駅前二丁目4</p><div class="tweetContainer" id="tweet1442319068019638283"></div> ',
       location: {
         center: [140.3884019, 37.3985573],
         zoom: 14,
@@ -36,8 +36,8 @@ const config = {
       hidden: false,
       title: '磐梯熱海駅',
       image: '',
-      tweet_id: '1439184357734891521',
-      description: '<p>1巻 P23  福島県郡山市 熱海町熱海一丁目109</p><div class="tweetContainer" id="tweet1439184357734891521"></div> ',
+      tweet_id: '',
+      description: '<p>1巻 P23  福島県郡山市 熱海町熱海一丁目109</p> <p><img alt="Bandai-Atami manhole" src="https://live.staticflickr.com/2893/34283938266_30851380ee_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=37.4808961&amp;lon=140.2708687&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Bandai-Atami manhole】 by Katakanadian</p>',
       location: {
         center: [140.2708687, 37.4808961],
         zoom: 14,
@@ -237,7 +237,7 @@ const config = {
       title: '会津さざえ堂 (円通寺三匝堂)',
       image: '',
       tweet_id: '',
-      description: '<p>1巻 P51  福島県会津若松市 一箕町八幡弁天下33</p> <p><img alt="イチョウ" src="https://live.staticflickr.com/65535/50758071426_221709fde9_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=37.5045319&amp;lon=139.9539697&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【イチョウ】 by Chitaka Chou</p>',
+      description: '<p>1巻 P51  福島県会津若松市 一箕町八幡弁天下33</p> <p><img alt="イチョウ" src="https://live.staticflickr.com/65535/50757333628_0caed3c01a_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=37.5045319&amp;lon=139.9539697&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【イチョウ】 by Chitaka Chou</p>',
       location: {
         center: [139.9539697, 37.5045319],
         zoom: 14,

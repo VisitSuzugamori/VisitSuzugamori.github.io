@@ -36,8 +36,8 @@ const config = {
       hidden: false,
       title: '大聖院',
       image: '',
-      tweet_id: '1439496841561657351',
-      description: '<p>3巻 P8  広島県廿日市市 宮島町滝町215</p><div class="tweetContainer" id="tweet1439496841561657351"></div> ',
+      tweet_id: '',
+      description: '<p>3巻 P8  広島県廿日市市 宮島町滝町215</p> <p><img alt="The Room at Mani-den 摩尼殿の部屋" src="https://live.staticflickr.com/65535/51449518791_3835ab45ed_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.2920477&amp;lon=132.3184736&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【The Room at Mani-den 摩尼殿の部屋】 by banzainetsurfer</p>',
       location: {
         center: [132.3184736, 34.2920477],
         zoom: 14,
@@ -57,7 +57,7 @@ const config = {
       title: 'もみじ堂本店',
       image: '',
       tweet_id: '',
-      description: '<p>3巻 P10  広島県廿日市市 宮島町幸町西浜459</p> <p><img alt="Stairway to Senjokaku 千条角への階段" src="https://live.staticflickr.com/65535/51425606215_861b9fbda9_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.2977872&amp;lon=132.320873&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Stairway to Senjokaku 千条角への階段】 by banzainetsurfer</p>',
+      description: '<p>3巻 P10  広島県廿日市市 宮島町幸町西浜459</p> <p><img alt="Senjokaku 千畳閣" src="https://live.staticflickr.com/65535/51424620811_c384a4ab4a_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.2977872&amp;lon=132.320873&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Senjokaku 千畳閣】 by banzainetsurfer</p>',
       location: {
         center: [132.320873, 34.2977872],
         zoom: 14,
@@ -217,7 +217,7 @@ const config = {
       title: '頂上展望台',
       image: '',
       tweet_id: '',
-      description: '<p>3巻 P21  広島県尾道市 東土堂町20</p> <p><img alt="IMG_0550" src="https://live.staticflickr.com/65535/51119574347_c2b858132b_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.4106865&amp;lon=133.1969604&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【IMG_0550】 by bluegreen405</p>',
+      description: '<p>3巻 P21  広島県尾道市 東土堂町20</p> <p><img alt="610_7873" src="https://live.staticflickr.com/65535/51345368744_c7ccc5f886_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.4106865&amp;lon=133.1969604&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【610_7873】 by Lox Pix</p>',
       location: {
         center: [133.1969604, 34.4106865],
         zoom: 14,
@@ -257,7 +257,7 @@ const config = {
       title: '鼓岩（付近）',
       image: '',
       tweet_id: '',
-      description: '<p>3巻 P29  広島県尾道市 東土堂町5</p> <p><img alt="610_7873" src="https://live.staticflickr.com/65535/51345368744_c7ccc5f886_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.4097831&amp;lon=133.1976363&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【610_7873】 by Lox Pix</p>',
+      description: '<p>3巻 P29  広島県尾道市 東土堂町5</p> <p><img alt="610_7873" src="https://live.staticflickr.com/65535/51344615951_53c92071e7_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.4097831&amp;lon=133.1976363&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【610_7873】 by Lox Pix</p>',
       location: {
         center: [133.1976363, 34.4097831],
         zoom: 14,
