@@ -117,7 +117,7 @@ const config = {
       title: 'あなごめし うえの 宮島口本店',
       image: '',
       tweet_id: '',
-      description: '<p>2巻 P148  広島県廿日市市 宮島口一丁目5</p> <p><img alt="JR Miyajimaguchi Station" src="https://live.staticflickr.com/65535/51332939385_79f34f1c4e_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.311502&amp;lon=132.3035106&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【JR Miyajimaguchi Station】 by Kzaral</p>',
+      description: '<p>2巻 P148  広島県廿日市市 宮島口一丁目5</p> <p><img alt="IMG_3840" src="https://live.staticflickr.com/65535/51373328993_57f2969684_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.311502&amp;lon=132.3035106&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【IMG_3840】 by ylefou2004</p>',
       location: {
         center: [132.3035106, 34.311502],
         zoom: 14,
@@ -136,8 +136,8 @@ const config = {
       hidden: false,
       title: '宮島桟橋',
       image: '',
-      tweet_id: '',
-      description: '<p>2巻 P151  広島県廿日市市 宮島町873</p> <p><img alt="JR Miyajima Station (Ferry Terminal)" src="https://live.staticflickr.com/65535/51332939265_83687dcdbe_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.3020862&amp;lon=132.3222151&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【JR Miyajima Station (Ferry Terminal)】 by Kzaral</p>',
+      tweet_id: '1443861788596994049',
+      description: '<p>2巻 P151  広島県廿日市市 宮島町873</p><div class="tweetContainer" id="tweet1443861788596994049"></div> ',
       location: {
         center: [132.3222151, 34.3020862],
         zoom: 14,

@@ -96,8 +96,8 @@ const config = {
       hidden: false,
       title: '出雲大社 大鳥居',
       image: '',
-      tweet_id: '1440568458333147139',
-      description: '<p>3巻 P137  島根県出雲市 大社町杵築南1386</p><div class="tweetContainer" id="tweet1440568458333147139"></div> ',
+      tweet_id: '1443401510486953984',
+      description: '<p>3巻 P137  島根県出雲市 大社町杵築南1386</p><div class="tweetContainer" id="tweet1443401510486953984"></div> ',
       location: {
         center: [132.6872784, 35.391579],
         zoom: 14,
@@ -196,8 +196,8 @@ const config = {
       hidden: false,
       title: '出雲大社 拝殿',
       image: '',
-      tweet_id: '1440577487692439559',
-      description: '<p>3巻 P140  島根県出雲市 大社町杵築東257</p><div class="tweetContainer" id="tweet1440577487692439559"></div> ',
+      tweet_id: '',
+      description: '<p>3巻 P140  島根県出雲市 大社町杵築東257</p> <p><img alt="出雲大社" src="https://live.staticflickr.com/65535/51353235570_9bbdee7aa6_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.4012055&amp;lon=132.6855211&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【出雲大社】 by Chitaka Chou</p>',
       location: {
         center: [132.6855211, 35.4012055],
         zoom: 14,
@@ -217,7 +217,7 @@ const config = {
       title: '出雲大社 西十九社',
       image: '',
       tweet_id: '',
-      description: '<p>3巻 P141  島根県出雲市 大社町杵築東257</p> <p><img alt="出雲大社" src="https://live.staticflickr.com/65535/51353235570_9bbdee7aa6_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.4014929&amp;lon=132.6848802&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【出雲大社】 by Chitaka Chou</p>',
+      description: '<p>3巻 P141  島根県出雲市 大社町杵築東257</p> <p><img alt="出雲大社" src="https://live.staticflickr.com/65535/51353235355_4d72a70895_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.4014929&amp;lon=132.6848802&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【出雲大社】 by Chitaka Chou</p>',
       location: {
         center: [132.6848802, 35.4014929],
         zoom: 14,
@@ -257,7 +257,7 @@ const config = {
       title: '稲佐の浜(弁天島)',
       image: '',
       tweet_id: '',
-      description: '<p>3巻 P143  島根県出雲市 大社町杵築北2844</p> <p><img alt="稲佐の浜" src="https://live.staticflickr.com/65535/51335483317_d4bd1143b1_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.4003035&amp;lon=132.6719106&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【稲佐の浜】 by Chitaka Chou</p>',
+      description: '<p>3巻 P143  島根県出雲市 大社町杵築北2844</p> <p><img alt="Shimane_Izumo" src="https://live.staticflickr.com/65535/49989704053_3474d69665_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.4003035&amp;lon=132.6719106&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Shimane_Izumo】 by DrunkenAngel48</p>',
       location: {
         center: [132.6719106, 35.4003035],
         zoom: 14,
@@ -276,8 +276,8 @@ const config = {
       hidden: false,
       title: '出雲大社前駅',
       image: '',
-      tweet_id: '1442698297378934793',
-      description: '<p>3巻 P145  島根県出雲市 大社町杵築南1346</p><div class="tweetContainer" id="tweet1442698297378934793"></div> ',
+      tweet_id: '1444130699703955456',
+      description: '<p>3巻 P145  島根県出雲市 大社町杵築南1346</p><div class="tweetContainer" id="tweet1444130699703955456"></div> ',
       location: {
         center: [132.6870732, 35.3935224],
         zoom: 14,
@@ -296,8 +296,8 @@ const config = {
       hidden: false,
       title: '松江しんじ湖温泉駅',
       image: '',
-      tweet_id: '1440483508753887238',
-      description: '<p>3巻 P146  島根県松江市 中原町51</p><div class="tweetContainer" id="tweet1440483508753887238"></div> ',
+      tweet_id: '1444211971008647170',
+      description: '<p>3巻 P146  島根県松江市 中原町51</p><div class="tweetContainer" id="tweet1444211971008647170"></div> ',
       location: {
         center: [133.0460423, 35.4673633],
         zoom: 14,
@@ -336,8 +336,8 @@ const config = {
       hidden: false,
       title: '松江城',
       image: '',
-      tweet_id: '1440130070643757058',
-      description: '<p>3巻 P150  島根県松江市 殿町1</p><div class="tweetContainer" id="tweet1440130070643757058"></div> ',
+      tweet_id: '1443900725247967236',
+      description: '<p>3巻 P150  島根県松江市 殿町1</p><div class="tweetContainer" id="tweet1443900725247967236"></div> ',
       location: {
         center: [133.0506783, 35.4751335],
         zoom: 14,

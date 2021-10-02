@@ -16,8 +16,8 @@ const config = {
       hidden: false,
       title: '東京駅',
       image: '',
-      tweet_id: '1442243048591691777',
-      description: '<p>   東京都千代田区 丸の内一丁目9</p><div class="tweetContainer" id="tweet1442243048591691777"></div> ',
+      tweet_id: '1444051602571075586',
+      description: '<p>   東京都千代田区 丸の内一丁目9</p><div class="tweetContainer" id="tweet1444051602571075586"></div> ',
       location: {
         center: [139.7671248, 35.6812362],
         zoom: 14,
@@ -96,8 +96,8 @@ const config = {
       hidden: false,
       title: '道の駅 おおた',
       image: '',
-      tweet_id: '',
-      description: '<p>   群馬県太田市 粕川町701</p> ',
+      tweet_id: '1443802903660011522',
+      description: '<p>   群馬県太田市 粕川町701</p><div class="tweetContainer" id="tweet1443802903660011522"></div> ',
       location: {
         center: [139.2959965, 36.2645224],
         zoom: 14,
@@ -136,8 +136,8 @@ const config = {
       hidden: false,
       title: '渋川駅',
       image: '',
-      tweet_id: '1440621824119754756',
-      description: '<p>   群馬県渋川市 渋川1655</p><div class="tweetContainer" id="tweet1440621824119754756"></div> ',
+      tweet_id: '1444195773604720640',
+      description: '<p>   群馬県渋川市 渋川1655</p><div class="tweetContainer" id="tweet1444195773604720640"></div> ',
       location: {
         center: [139.0087977, 36.4913217],
         zoom: 14,
@@ -236,8 +236,8 @@ const config = {
       hidden: false,
       title: '水上駅',
       image: '',
-      tweet_id: '1443380505286635524',
-      description: '<p>   群馬県利根郡 みなかみ町 鹿野沢70</p><div class="tweetContainer" id="tweet1443380505286635524"></div> ',
+      tweet_id: '1444136803179634688',
+      description: '<p>   群馬県利根郡 みなかみ町 鹿野沢70</p><div class="tweetContainer" id="tweet1444136803179634688"></div> ',
       location: {
         center: [138.9688398, 36.778636],
         zoom: 14,
