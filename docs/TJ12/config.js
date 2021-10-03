@@ -137,7 +137,7 @@ const config = {
       title: 'マルカン百貨店',
       image: '',
       tweet_id: '',
-      description: '<p>3巻 P101  岩手県花巻市 上町6</p> <p><img alt="iwate_20180308104442" src="https://live.staticflickr.com/941/43657100852_6b19ac31f3_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=39.3858944&amp;lon=141.1171042&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【iwate_20180308104442】 by inunami</p>',
+      description: '<p>3巻 P101  岩手県花巻市 上町6</p> <p><img alt="DSC00975.jpg" src="https://live.staticflickr.com/4695/28322992389_4e2e6c4388_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=39.3858944&amp;lon=141.1171042&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【DSC00975.jpg】 by randy@katzenpost.de</p>',
       location: {
         center: [141.1171042, 39.3858944],
         zoom: 14,
@@ -177,7 +177,7 @@ const config = {
       title: '大沢温泉 湯治屋',
       image: '',
       tweet_id: '',
-      description: '<p>3巻 P103  岩手県花巻市 湯口字大沢171</p> <p><img alt="Park near Osawa Onsen (大沢温泉), Hanamaki, Iwate" src="https://live.staticflickr.com/65535/49727572498_6ae09c3ef5_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=39.4365493&amp;lon=141.0159616&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Park near Osawa Onsen (大沢温泉), Hanamaki, Iwate】 by Hans ter Horst Photography</p>',
+      description: '<p>3巻 P103  岩手県花巻市 湯口字大沢171</p> <p><img alt="花巻 大沢温泉" src="https://live.staticflickr.com/7029/6718760839_3e0f709e7a_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=39.4365493&amp;lon=141.0159616&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【花巻 大沢温泉】 by aqua_don</p>',
       location: {
         center: [141.0159616, 39.4365493],
         zoom: 14,
