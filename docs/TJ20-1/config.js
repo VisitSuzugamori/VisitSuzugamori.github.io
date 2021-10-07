@@ -36,8 +36,8 @@ const config = {
       hidden: false,
       title: '後免駅',
       image: '',
-      tweet_id: '1444193555950493696',
-      description: '<p>   高知県南国市 駅前町二丁目3</p><div class="tweetContainer" id="tweet1444193555950493696"></div> ',
+      tweet_id: '1445279863045165057',
+      description: '<p>   高知県南国市 駅前町二丁目3</p><div class="tweetContainer" id="tweet1445279863045165057"></div> ',
       location: {
         center: [133.6454058, 33.5791401],
         zoom: 14,
@@ -57,7 +57,7 @@ const config = {
       title: '師匠はよしてって～',
       image: '',
       tweet_id: '',
-      description: '<p>   高知県南国市 駅前町二丁目3</p> <p><img alt="nankoku_20190905111603" src="https://live.staticflickr.com/65535/49844880412_6cbf656155_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=33.5788333&amp;lon=133.6458189&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【nankoku_20190905111603】 by inunami</p>',
+      description: '<p>   高知県南国市 駅前町二丁目3</p> <p><img alt="nankoku_20190905111300" src="https://live.staticflickr.com/65535/49844880672_539a7d01db_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=33.5788333&amp;lon=133.6458189&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【nankoku_20190905111300】 by inunami</p>',
       location: {
         center: [133.6458189, 33.5788333],
         zoom: 14,
@@ -77,7 +77,7 @@ const config = {
       title: 'ショッピングセンター パステポコ・ア・ポコ南国店',
       image: '',
       tweet_id: '',
-      description: '<p>   高知県南国市 駅前町二丁目3</p> <p><img alt="nankoku_20190905111300" src="https://live.staticflickr.com/65535/49844880672_539a7d01db_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=33.578697&amp;lon=133.6453861&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【nankoku_20190905111300】 by inunami</p>',
+      description: '<p>   高知県南国市 駅前町二丁目3</p> <p><img alt="nankoku_20190905111603" src="https://live.staticflickr.com/65535/49844880412_6cbf656155_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=33.578697&amp;lon=133.6453861&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【nankoku_20190905111603】 by inunami</p>',
       location: {
         center: [133.6453861, 33.578697],
         zoom: 14,
@@ -156,8 +156,8 @@ const config = {
       hidden: false,
       title: 'はりまや橋',
       image: '',
-      tweet_id: '1441696229910401028',
-      description: '<p>   高知県高知市 はりまや町一丁目1</p><div class="tweetContainer" id="tweet1441696229910401028"></div> ',
+      tweet_id: '',
+      description: '<p>   高知県高知市 はりまや町一丁目1</p> <p><img alt="" src="https://live.staticflickr.com/65535/50632082893_e309850e5c_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=33.5599438&amp;lon=133.5426569&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【】 by yajiro</p>',
       location: {
         center: [133.5426569, 33.5599438],
         zoom: 14,
@@ -256,8 +256,8 @@ const config = {
       hidden: false,
       title: '若宮八幡宮',
       image: '',
-      tweet_id: '',
-      description: '<p>   高知県高知市 長浜4063</p> ',
+      tweet_id: '1444535237115985922',
+      description: '<p>   高知県高知市 長浜4063</p><div class="tweetContainer" id="tweet1444535237115985922"></div> ',
       location: {
         center: [133.5439082, 33.4946664],
         zoom: 14,

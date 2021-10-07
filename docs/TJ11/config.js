@@ -17,7 +17,7 @@ const config = {
       title: '串本駅',
       image: '',
       tweet_id: '',
-      description: '<p>3巻 P57  和歌山県東牟婁郡 串本町 串本40</p> <p><img alt="20100504-141240-kii-msw" src="https://live.staticflickr.com/400/31341818444_6f00bcd61b_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=33.4755266&amp;lon=135.7816031&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【20100504-141240-kii-msw】 by halffastcycling</p>',
+      description: '<p>3巻 P57  和歌山県東牟婁郡 串本町 串本40</p> <p><img alt="sister city (Japan: Turkey) panorama 2018 Oct. 27 Kushimoto" src="https://live.staticflickr.com/4915/45089021854_ac4169c2b2_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=33.4755266&amp;lon=135.7816031&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【sister city (Japan: Turkey) panorama 2018 Oct. 27 Kushimoto】 by anthroview</p>',
       location: {
         center: [135.7816031, 33.4755266],
         zoom: 14,
@@ -57,7 +57,7 @@ const config = {
       title: 'この辺まで来たよ',
       image: '',
       tweet_id: '',
-      description: '<p>3巻 P61  和歌山県東牟婁郡 串本町 </p> <p><img alt="1808 1059 7R303537" src="https://live.staticflickr.com/1842/30235383188_2f4038d554_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=33.4378491&amp;lon=135.754685&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【1808 1059 7R303537】 by skycat1221</p>',
+      description: '<p>3巻 P61  和歌山県東牟婁郡 串本町 </p> <p><img alt="V zajetí koníčku" src="https://live.staticflickr.com/65535/51180350109_7198a86e97_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=33.4378491&amp;lon=135.754685&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【V zajetí koníčku】 by SocialHermit</p>',
       location: {
         center: [135.754685, 33.4378491],
         zoom: 14,
@@ -77,7 +77,7 @@ const config = {
       title: '潮岬灯台',
       image: '',
       tweet_id: '',
-      description: '<p>3巻 P62  和歌山県東牟婁郡 串本町 </p> <p><img alt="V zajetí koníčku" src="https://live.staticflickr.com/65535/51180350109_7198a86e97_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=33.4375625&amp;lon=135.7544642&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【V zajetí koníčku】 by SocialHermit</p>',
+      description: '<p>3巻 P62  和歌山県東牟婁郡 串本町 </p> <p><img alt="Pohled zpátky na pevninu" src="https://live.staticflickr.com/65535/51178871612_be0a4772d2_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=33.4375625&amp;lon=135.7544642&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Pohled zpátky na pevninu】 by SocialHermit</p>',
       location: {
         center: [135.7544642, 33.4375625],
         zoom: 14,
@@ -96,8 +96,8 @@ const config = {
       hidden: false,
       title: '本州最南端の碑',
       image: '',
-      tweet_id: '',
-      description: '<p>3巻 P64  和歌山県東牟婁郡 串本町 </p> <p><img alt="Krabíci..." src="https://live.staticflickr.com/65535/51180652895_690f040e33_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=33.4362401&amp;lon=135.7621203&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Krabíci...】 by SocialHermit</p>',
+      tweet_id: '1445971413844774912',
+      description: '<p>3巻 P64  和歌山県東牟婁郡 串本町 </p><div class="tweetContainer" id="tweet1445971413844774912"></div> ',
       location: {
         center: [135.7621203, 33.4362401],
         zoom: 14,
@@ -156,8 +156,8 @@ const config = {
       hidden: false,
       title: '潮岬観光タワー',
       image: '',
-      tweet_id: '',
-      description: '<p>3巻 P71  和歌山県東牟婁郡 串本町 </p> <p><img alt="Milky way and Jupiter (3)" src="https://live.staticflickr.com/65535/50343782877_c69482ce8d_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=33.437806&amp;lon=135.7613677&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Milky way and Jupiter (3)】 by kuni4400</p>',
+      tweet_id: '1445646050329391114',
+      description: '<p>3巻 P71  和歌山県東牟婁郡 串本町 </p><div class="tweetContainer" id="tweet1445646050329391114"></div> ',
       location: {
         center: [135.7613677, 33.437806],
         zoom: 14,
@@ -176,8 +176,8 @@ const config = {
       hidden: false,
       title: '新宮駅',
       image: '',
-      tweet_id: '1441295833052299277',
-      description: '<p>3巻 P80  和歌山県新宮市 徐福一丁目3</p><div class="tweetContainer" id="tweet1441295833052299277"></div> ',
+      tweet_id: '',
+      description: '<p>3巻 P80  和歌山県新宮市 徐福一丁目3</p> <p><img alt="新宮站, 和歌山, 日本, 新宮駅, しんぐうえき, わかやまけん, にっぽん, にほん, Shingu Station, Wakayama, Japan, Nippon, Nihon" src="https://live.staticflickr.com/65535/49355096946_5fe66c54fd_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=33.7251509&amp;lon=135.9941471&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【新宮站, 和歌山, 日本, 新宮駅, しんぐうえき, わかやまけん, にっぽん, にほん, Shingu Station, Wakayama, Japan, Nippon, Nihon】 by bryan...</p>',
       location: {
         center: [135.9941471, 33.7251509],
         zoom: 14,
@@ -217,7 +217,7 @@ const config = {
       title: 'くまのこ食堂',
       image: '',
       tweet_id: '',
-      description: '<p>3巻 P81  和歌山県田辺市 本宮町本宮</p> <p><img alt="20190929" src="https://live.staticflickr.com/65535/51531071105_de05170bf8_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=33.834421&amp;lon=135.7723926&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【20190929】 by trlintw</p>',
+      description: '<p>3巻 P81  和歌山県田辺市 本宮町本宮</p> <p><img alt="20190929" src="https://live.staticflickr.com/65535/51530861199_e88faf506e_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=33.834421&amp;lon=135.7723926&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【20190929】 by trlintw</p>',
       location: {
         center: [135.7723926, 33.834421],
         zoom: 14,
@@ -236,8 +236,8 @@ const config = {
       hidden: false,
       title: '熊野本宮大社',
       image: '',
-      tweet_id: '1441952851987550211',
-      description: '<p>3巻 P82  和歌山県田辺市 本宮町本宮</p><div class="tweetContainer" id="tweet1441952851987550211"></div> ',
+      tweet_id: '1445603653260173315',
+      description: '<p>3巻 P82  和歌山県田辺市 本宮町本宮</p><div class="tweetContainer" id="tweet1445603653260173315"></div> ',
       location: {
         center: [135.7734753, 33.8405706],
         zoom: 14,
