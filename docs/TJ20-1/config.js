@@ -156,8 +156,8 @@ const config = {
       hidden: false,
       title: 'はりまや橋',
       image: '',
-      tweet_id: '',
-      description: '<p>   高知県高知市 はりまや町一丁目1</p> <p><img alt="" src="https://live.staticflickr.com/65535/50632082893_e309850e5c_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=33.5599438&amp;lon=133.5426569&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【】 by yajiro</p>',
+      tweet_id: '1446467534765522944',
+      description: '<p>   高知県高知市 はりまや町一丁目1</p><div class="tweetContainer" id="tweet1446467534765522944"></div> ',
       location: {
         center: [133.5426569, 33.5599438],
         zoom: 14,

@@ -137,7 +137,7 @@ const config = {
       title: 'マルカン百貨店',
       image: '',
       tweet_id: '',
-      description: '<p>3巻 P101  岩手県花巻市 上町6</p> <p><img alt="iwate_20180308104442" src="https://live.staticflickr.com/941/43657100852_6b19ac31f3_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=39.3858944&amp;lon=141.1171042&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【iwate_20180308104442】 by inunami</p>',
+      description: '<p>3巻 P101  岩手県花巻市 上町6</p> <p><img alt="DSC00974.jpg" src="https://live.staticflickr.com/4709/39204283275_a5d27ba8b6_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=39.3858944&amp;lon=141.1171042&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【DSC00974.jpg】 by randy@katzenpost.de</p>',
       location: {
         center: [141.1171042, 39.3858944],
         zoom: 14,
@@ -297,7 +297,7 @@ const config = {
       title: '材木町公園',
       image: '',
       tweet_id: '',
-      description: '<p>3巻 P121  岩手県花巻市 材木町3</p> <p><img alt="花巻交通デハ3" src="https://live.staticflickr.com/8109/8659495921_f54aa2ecb4_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=39.3894289&amp;lon=141.1091143&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【花巻交通デハ3】 by OOMYV</p>',
+      description: '<p>3巻 P121  岩手県花巻市 材木町3</p> <p><img alt="Hanamaki electric railway, &quot;DEHA-3&quot;" src="https://live.staticflickr.com/8092/8430037138_8b69f56541_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=39.3894289&amp;lon=141.1091143&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Hanamaki electric railway, &quot;DEHA-3&quot;】 by mega_midget_racer</p>',
       location: {
         center: [141.1091143, 39.3894289],
         zoom: 14,
