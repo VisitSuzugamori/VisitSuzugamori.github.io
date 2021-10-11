@@ -97,7 +97,7 @@ const config = {
       title: '雄島',
       image: '',
       tweet_id: '',
-      description: '<p>1巻 P64  宮城県宮城郡 松島町 松島字霞ケ浦</p> <p><img alt="Roof, Matsushima, Japan" src="https://live.staticflickr.com/65535/51324410034_be18a392ea_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=38.3653495&amp;lon=141.0625297&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Roof, Matsushima, Japan】 by runslikethewind83</p>',
+      description: '<p>1巻 P64  宮城県宮城郡 松島町 松島字霞ケ浦</p> <p><img alt="御嶋真珠稲荷大明神" src="https://live.staticflickr.com/65535/51221340535_4157a07bee_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=38.3653495&amp;lon=141.0625297&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【御嶋真珠稲荷大明神】 by いしだなおと</p>',
       location: {
         center: [141.0625297, 38.3653495],
         zoom: 14,
@@ -117,7 +117,7 @@ const config = {
       title: '御嶋真珠稲荷大明神',
       image: '',
       tweet_id: '',
-      description: '<p>1巻 P65  宮城県宮城郡 松島町 松島字霞ケ浦</p> <p><img alt="御嶋真珠稲荷大明神" src="https://live.staticflickr.com/65535/51221340535_4157a07bee_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=38.3654838&amp;lon=141.0622564&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【御嶋真珠稲荷大明神】 by いしだなおと</p>',
+      description: '<p>1巻 P65  宮城県宮城郡 松島町 松島字霞ケ浦</p> <p><img alt="Roof, Matsushima, Japan" src="https://live.staticflickr.com/65535/51324410034_be18a392ea_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=38.3654838&amp;lon=141.0622564&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Roof, Matsushima, Japan】 by runslikethewind83</p>',
       location: {
         center: [141.0622564, 38.3654838],
         zoom: 14,
@@ -217,7 +217,7 @@ const config = {
       title: '松島巡り観光船 乗り場(松島觀光遊艇搭船場)',
       image: '',
       tweet_id: '',
-      description: '<p>1巻 P79  </p> <p><img alt="IMG_3724.jpg" src="https://live.staticflickr.com/65535/51331058300_6cd99452c2_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=38.3689558&amp;lon=141.0628948&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【IMG_3724.jpg】 by fasion</p>',
+      description: '<p>1巻 P79  </p> <p><img alt="IMG_9508.jpg" src="https://live.staticflickr.com/65535/51330788799_acf9f82035_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=38.3689558&amp;lon=141.0628948&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【IMG_9508.jpg】 by fasion</p>',
       location: {
         center: [141.0628948, 38.3689558],
         zoom: 14,

@@ -76,8 +76,8 @@ const config = {
       hidden: false,
       title: '呉駅',
       image: '',
-      tweet_id: '1443858521032847361',
-      description: '<p>3巻 P11  広島県呉市 宝町2</p><div class="tweetContainer" id="tweet1443858521032847361"></div> ',
+      tweet_id: '1444854525588869120',
+      description: '<p>3巻 P11  広島県呉市 宝町2</p><div class="tweetContainer" id="tweet1444854525588869120"></div> ',
       location: {
         center: [132.5575846, 34.2446471],
         zoom: 14,
@@ -176,8 +176,8 @@ const config = {
       hidden: false,
       title: '尾道駅',
       image: '',
-      tweet_id: '1445176907910184961',
-      description: '<p>3巻 P19  広島県尾道市 東御所町1</p><div class="tweetContainer" id="tweet1445176907910184961"></div> ',
+      tweet_id: '1446683685101531138',
+      description: '<p>3巻 P19  広島県尾道市 東御所町1</p><div class="tweetContainer" id="tweet1446683685101531138"></div> ',
       location: {
         center: [133.193159, 34.4048654],
         zoom: 14,
