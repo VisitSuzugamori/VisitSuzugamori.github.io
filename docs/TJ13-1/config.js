@@ -277,7 +277,7 @@ const config = {
       title: '出雲大社前駅',
       image: '',
       tweet_id: '',
-      description: '<p>3巻 P145  島根県出雲市 大社町杵築南1346</p> <p><img alt="デハニ50形" src="https://live.staticflickr.com/65535/51350553009_4d506e1bd6_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.3935224&amp;lon=132.6870732&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【デハニ50形】 by Chitaka Chou</p>',
+      description: '<p>3巻 P145  島根県出雲市 大社町杵築南1346</p> <p><img alt="出雲大社参道" src="https://live.staticflickr.com/65535/51349812331_1ef6410bbc_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.3935224&amp;lon=132.6870732&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【出雲大社参道】 by Chitaka Chou</p>',
       location: {
         center: [132.6870732, 35.3935224],
         zoom: 14,
@@ -317,7 +317,7 @@ const config = {
       title: 'ホテル一畑',
       image: '',
       tweet_id: '',
-      description: '<p>3巻 P146  島根県松江市 千鳥町18</p> <p><img alt="Ichibata Electric Railway Matsue-Shinjiko-Onsen Station" src="https://live.staticflickr.com/65535/51331210217_5646081e9a_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.4661714&amp;lon=133.0453378&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Ichibata Electric Railway Matsue-Shinjiko-Onsen Station】 by Kzaral</p>',
+      description: '<p>3巻 P146  島根県松江市 千鳥町18</p> <p><img alt="Ichibata Electric Railway Matsue-Shinjiko-Onsen Station" src="https://live.staticflickr.com/65535/51332941410_b5b4567cea_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.4661714&amp;lon=133.0453378&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Ichibata Electric Railway Matsue-Shinjiko-Onsen Station】 by Kzaral</p>',
       location: {
         center: [133.0453378, 35.4661714],
         zoom: 14,
