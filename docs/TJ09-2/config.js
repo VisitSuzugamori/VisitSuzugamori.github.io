@@ -57,7 +57,7 @@ const config = {
       title: 'もみじ堂本店',
       image: '',
       tweet_id: '',
-      description: '<p>3巻 P10  広島県廿日市市 宮島町幸町西浜459</p> <p><img alt="IMG_1333" src="https://live.staticflickr.com/65535/51525598766_6c69027ce2_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.2977872&amp;lon=132.320873&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【IMG_1333】 by lee-tw</p>',
+      description: '<p>3巻 P10  広島県廿日市市 宮島町幸町西浜459</p> <p><img alt="IMG_1336" src="https://live.staticflickr.com/65535/51526509610_66128219ee_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.2977872&amp;lon=132.320873&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【IMG_1336】 by lee-tw</p>',
       location: {
         center: [132.320873, 34.2977872],
         zoom: 14,
@@ -176,8 +176,8 @@ const config = {
       hidden: false,
       title: '尾道駅',
       image: '',
-      tweet_id: '',
-      description: '<p>3巻 P19  広島県尾道市 東御所町1</p> <p><img alt="Rock dove" src="https://live.staticflickr.com/65535/51158479347_fb61824486_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.4048654&amp;lon=133.193159&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Rock dove】 by tenfas.apk</p>',
+      tweet_id: '1446683685101531138',
+      description: '<p>3巻 P19  広島県尾道市 東御所町1</p><div class="tweetContainer" id="tweet1446683685101531138"></div> ',
       location: {
         center: [133.193159, 34.4048654],
         zoom: 14,

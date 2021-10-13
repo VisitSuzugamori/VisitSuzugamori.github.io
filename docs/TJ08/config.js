@@ -97,7 +97,7 @@ const config = {
       title: '若松屋 外宮前店',
       image: '',
       tweet_id: '',
-      description: '<p>2巻 P102  三重県伊勢市 本町13</p> <p><img alt="P9303491" src="https://live.staticflickr.com/65535/48859382221_965981569f_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.4885003&amp;lon=136.7070889&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【P9303491】 by Lewis Lai</p>',
+      description: '<p>2巻 P102  三重県伊勢市 本町13</p> <p><img alt="IMG_9068" src="https://live.staticflickr.com/65535/49331989091_9e5da2f29c_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.4885003&amp;lon=136.7070889&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【IMG_9068】 by necosuke</p>',
       location: {
         center: [136.7070889, 34.4885003],
         zoom: 14,
@@ -277,7 +277,7 @@ const config = {
       title: '（株）赤福 二見支店',
       image: '',
       tweet_id: '',
-      description: '<p>2巻 P124  三重県伊勢市 二見町茶屋203</p> <p><img alt="20201122_いい夫婦旅_167" src="https://live.staticflickr.com/65535/50636333798_8194d9920b_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.5073078&amp;lon=136.7777824&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【20201122_いい夫婦旅_167】 by jinmsk</p>',
+      description: '<p>2巻 P124  三重県伊勢市 二見町茶屋203</p> <p><img alt="#166" src="https://live.staticflickr.com/65535/47792541822_bf67bebb20_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.5073078&amp;lon=136.7777824&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【#166】 by Ville Misaki</p>',
       location: {
         center: [136.7777824, 34.5073078],
         zoom: 14,

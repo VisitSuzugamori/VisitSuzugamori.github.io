@@ -217,7 +217,7 @@ const config = {
       title: '都道405号線（外堀通り）',
       image: '',
       tweet_id: '',
-      description: '<p>5巻 P141  東京都港区 赤坂三丁目1</p> <p><img alt="20211005-1IMG4981" src="https://live.staticflickr.com/65535/51552598266_0238e2f092_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.6779568&amp;lon=139.7365574&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【20211005-1IMG4981】 by marcomaiji</p>',
+      description: '<p>5巻 P141  東京都港区 赤坂三丁目1</p> <p><img alt="20211005-1IMG4997" src="https://live.staticflickr.com/65535/51553462195_bf94e452d8_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.6779568&amp;lon=139.7365574&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【20211005-1IMG4997】 by marcomaiji</p>',
       location: {
         center: [139.7365574, 35.6779568],
         zoom: 14,
@@ -477,7 +477,7 @@ const config = {
       title: '杉並区立玉川上水公園',
       image: '',
       tweet_id: '',
-      description: '<p>5巻 P149  東京都杉並区 和泉二丁目8</p> <p><img alt="甲州街道" src="https://live.staticflickr.com/65535/51156211159_fec50d3469_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.6713219&amp;lon=139.651149&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【甲州街道】 by Propangas</p>',
+      description: '<p>5巻 P149  東京都杉並区 和泉二丁目8</p> <p><img alt="杉並区立玉川上水公園" src="https://live.staticflickr.com/65535/51205460915_8d543ab569_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.6713219&amp;lon=139.651149&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【杉並区立玉川上水公園】 by いしだなおと</p>',
       location: {
         center: [139.651149, 35.6713219],
         zoom: 14,
