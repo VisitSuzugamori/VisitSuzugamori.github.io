@@ -77,7 +77,7 @@ const config = {
       title: '月桂冠大倉記念館',
       image: '',
       tweet_id: '',
-      description: '<p>2巻 P17  京都府京都市 伏見区 本材木町680</p> <p><img alt="京都伏見十石舟・三十石船" src="https://live.staticflickr.com/65535/49749173091_d6d999b9c6_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.929136&amp;lon=135.76161&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【京都伏見十石舟・三十石船】 by YUSHENG HSU</p>',
+      description: '<p>2巻 P17  京都府京都市 伏見区 本材木町680</p> <p><img alt="伏見3・Fushimi" src="https://live.staticflickr.com/65535/49800485533_a485179bf4_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.929136&amp;lon=135.76161&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【伏見3・Fushimi】 by anglo10</p>',
       location: {
         center: [135.76161, 34.929136],
         zoom: 14,
@@ -136,8 +136,8 @@ const config = {
       hidden: false,
       title: '宮津駅',
       image: '',
-      tweet_id: '1446721468683808770',
-      description: '<p>2巻 P21  京都府宮津市 字鶴賀2099</p><div class="tweetContainer" id="tweet1446721468683808770"></div> ',
+      tweet_id: '1449546743692017665',
+      description: '<p>2巻 P21  京都府宮津市 字鶴賀2099</p><div class="tweetContainer" id="tweet1449546743692017665"></div> ',
       location: {
         center: [135.1997513, 35.5344188],
         zoom: 14,
@@ -156,8 +156,8 @@ const config = {
       hidden: false,
       title: '富田屋',
       image: '',
-      tweet_id: '',
-      description: '<p>2巻 P22  京都府宮津市 字鶴賀2066</p> <p><img alt="delicious_05" src="https://live.staticflickr.com/4236/35359264565_c3b6e3d68a_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.534848&amp;lon=135.1992613&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【delicious_05】 by YUICHI38</p>',
+      tweet_id: '1449555465499779073',
+      description: '<p>2巻 P22  京都府宮津市 字鶴賀2066</p><div class="tweetContainer" id="tweet1449555465499779073"></div> ',
       location: {
         center: [135.1992613, 35.534848],
         zoom: 14,
@@ -177,7 +177,7 @@ const config = {
       title: '茶六本館',
       image: '',
       tweet_id: '',
-      description: '<p>2巻 P22  京都府宮津市 字本町842</p> <p><img alt="Catching a temporary friend" src="https://live.staticflickr.com/7566/27277190044_29e48c9013_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.5368405&amp;lon=135.1918306&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Catching a temporary friend】 by akulakhaan</p>',
+      description: '<p>2巻 P22  京都府宮津市 字本町842</p> <p><img alt="Miyazu#35" src="https://live.staticflickr.com/4441/36267565394_6d632f3211_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.5368405&amp;lon=135.1918306&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Miyazu#35】 by tetsuo5</p>',
       location: {
         center: [135.1918306, 35.5368405],
         zoom: 14,
@@ -197,7 +197,7 @@ const config = {
       title: '天橋立ビューランド リフト・モノレールのりば',
       image: '',
       tweet_id: '',
-      description: '<p>2巻 P31  京都府宮津市 字文珠190</p> <p><img alt="IMG_1583" src="https://live.staticflickr.com/65535/51257465927_a0b39d4b82_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.5557202&amp;lon=135.1839285&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【IMG_1583】 by Chico Leung</p>',
+      description: '<p>2巻 P31  京都府宮津市 字文珠190</p> <p><img alt="Amanohashidate station" src="https://live.staticflickr.com/65535/49444929417_82bbc08e4c_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.5557202&amp;lon=135.1839285&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Amanohashidate station】 by Spotman!</p>',
       location: {
         center: [135.1839285, 35.5557202],
         zoom: 14,
