@@ -96,8 +96,8 @@ const config = {
       hidden: false,
       title: '出雲大社 大鳥居',
       image: '',
-      tweet_id: '1446675291112361984',
-      description: '<p>3巻 P137  島根県出雲市 大社町杵築南1386</p><div class="tweetContainer" id="tweet1446675291112361984"></div> ',
+      tweet_id: '',
+      description: '<p>3巻 P137  島根県出雲市 大社町杵築南1386</p> <p><img alt="デハニ50形" src="https://live.staticflickr.com/65535/51350553009_4d506e1bd6_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.391579&amp;lon=132.6872784&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【デハニ50形】 by Chitaka Chou</p>',
       location: {
         center: [132.6872784, 35.391579],
         zoom: 14,
@@ -277,7 +277,7 @@ const config = {
       title: '出雲大社前駅',
       image: '',
       tweet_id: '',
-      description: '<p>3巻 P145  島根県出雲市 大社町杵築南1346</p> <p><img alt="出雲大社参道" src="https://live.staticflickr.com/65535/51349080617_42c9de6a49_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.3935224&amp;lon=132.6870732&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【出雲大社参道】 by Chitaka Chou</p>',
+      description: '<p>3巻 P145  島根県出雲市 大社町杵築南1346</p> <p><img alt="デハニ50形" src="https://live.staticflickr.com/65535/51349812611_9064924f50_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.3935224&amp;lon=132.6870732&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【デハニ50形】 by Chitaka Chou</p>',
       location: {
         center: [132.6870732, 35.3935224],
         zoom: 14,
@@ -336,8 +336,8 @@ const config = {
       hidden: false,
       title: '松江城',
       image: '',
-      tweet_id: '1446840271845662721',
-      description: '<p>3巻 P150  島根県松江市 殿町1</p><div class="tweetContainer" id="tweet1446840271845662721"></div> ',
+      tweet_id: '1448405105712058368',
+      description: '<p>3巻 P150  島根県松江市 殿町1</p><div class="tweetContainer" id="tweet1448405105712058368"></div> ',
       location: {
         center: [133.0506783, 35.4751335],
         zoom: 14,
