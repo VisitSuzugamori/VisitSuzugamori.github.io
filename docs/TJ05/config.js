@@ -16,8 +16,8 @@ const config = {
       hidden: false,
       title: '伏見稲荷大社',
       image: '',
-      tweet_id: '1447386434130694147',
-      description: '<p>2巻 P3  京都府京都市 伏見区 深草藪之内町1</p><div class="tweetContainer" id="tweet1447386434130694147"></div> ',
+      tweet_id: '1448597050631749638',
+      description: '<p>2巻 P3  京都府京都市 伏見区 深草藪之内町1</p><div class="tweetContainer" id="tweet1448597050631749638"></div> ',
       location: {
         center: [135.7726717, 34.9671402],
         zoom: 14,
@@ -36,8 +36,8 @@ const config = {
       hidden: false,
       title: '京都駅',
       image: '',
-      tweet_id: '1447433751542128640',
-      description: '<p>2巻 P6  京都府京都市 下京区 東塩小路町676</p><div class="tweetContainer" id="tweet1447433751542128640"></div> ',
+      tweet_id: '1450714710697910273',
+      description: '<p>2巻 P6  京都府京都市 下京区 東塩小路町676</p><div class="tweetContainer" id="tweet1450714710697910273"></div> ',
       location: {
         center: [135.7587667, 34.985849],
         zoom: 14,
@@ -77,7 +77,7 @@ const config = {
       title: '月桂冠大倉記念館',
       image: '',
       tweet_id: '',
-      description: '<p>2巻 P17  京都府京都市 伏見区 本材木町680</p> <p><img alt="伏見3・Fushimi" src="https://live.staticflickr.com/65535/49800485533_a485179bf4_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.929136&amp;lon=135.76161&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【伏見3・Fushimi】 by anglo10</p>',
+      description: '<p>2巻 P17  京都府京都市 伏見区 本材木町680</p> <p><img alt="京都伏見十石舟・三十石船" src="https://live.staticflickr.com/65535/49749173091_d6d999b9c6_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.929136&amp;lon=135.76161&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【京都伏見十石舟・三十石船】 by YUSHENG HSU</p>',
       location: {
         center: [135.76161, 34.929136],
         zoom: 14,
@@ -197,7 +197,7 @@ const config = {
       title: '天橋立ビューランド リフト・モノレールのりば',
       image: '',
       tweet_id: '',
-      description: '<p>2巻 P31  京都府宮津市 字文珠190</p> <p><img alt="IMG_1583" src="https://live.staticflickr.com/65535/51257465927_a0b39d4b82_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.5557202&amp;lon=135.1839285&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【IMG_1583】 by Chico Leung</p>',
+      description: '<p>2巻 P31  京都府宮津市 字文珠190</p> <p><img alt="Amanohashidate station" src="https://live.staticflickr.com/65535/49444929417_82bbc08e4c_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.5557202&amp;lon=135.1839285&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Amanohashidate station】 by Spotman!</p>',
       location: {
         center: [135.1839285, 35.5557202],
         zoom: 14,
@@ -216,8 +216,8 @@ const config = {
       hidden: false,
       title: '天橋立ビューランド',
       image: '',
-      tweet_id: '1447740528074784770',
-      description: '<p>2巻 P32  京都府宮津市 文珠1</p><div class="tweetContainer" id="tweet1447740528074784770"></div> ',
+      tweet_id: '1450309618463350790',
+      description: '<p>2巻 P32  京都府宮津市 文珠1</p><div class="tweetContainer" id="tweet1450309618463350790"></div> ',
       location: {
         center: [135.1821171, 35.5527779],
         zoom: 14,
