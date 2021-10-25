@@ -137,7 +137,7 @@ const config = {
       title: 'マルカン百貨店',
       image: '',
       tweet_id: '',
-      description: '<p>3巻 P101  岩手県花巻市 上町6</p> <p><img alt="iwate_20180308110707" src="https://live.staticflickr.com/929/43704080111_71773fb920_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=39.3858944&amp;lon=141.1171042&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【iwate_20180308110707】 by inunami</p>',
+      description: '<p>3巻 P101  岩手県花巻市 上町6</p> <p><img alt="DSC00975.jpg" src="https://live.staticflickr.com/4695/28322992389_4e2e6c4388_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=39.3858944&amp;lon=141.1171042&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【DSC00975.jpg】 by randy@katzenpost.de</p>',
       location: {
         center: [141.1171042, 39.3858944],
         zoom: 14,
@@ -276,8 +276,8 @@ const config = {
       hidden: false,
       title: '中尊寺',
       image: '',
-      tweet_id: '1450262180234874890',
-      description: '<p>3巻 P118  岩手県西磐井郡 平泉町 平泉43</p><div class="tweetContainer" id="tweet1450262180234874890"></div> ',
+      tweet_id: '1452167835170467845',
+      description: '<p>3巻 P118  岩手県西磐井郡 平泉町 平泉43</p><div class="tweetContainer" id="tweet1452167835170467845"></div> ',
       location: {
         center: [141.102596, 39.0017355],
         zoom: 14,
