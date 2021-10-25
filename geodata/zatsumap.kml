@@ -314,7 +314,7 @@
     </Placemark>
     <Placemark>
       <name>東京駅</name>
-      <description><![CDATA[1巻P87 第3旅<br>1巻P126 第4旅<br>4巻P93 第14旅<br>4巻P119 第15旅<br>5巻P3 第16旅（前編）<br>5巻P60 第17旅（前編）<br>5巻P136 第18旅<br>第19旅（前編）<br>第19旅（後編）]]></description>
+      <description><![CDATA[1巻P87 第3旅<br>1巻P126 第4旅<br>4巻P93 第14旅<br>4巻P119 第15旅<br>5巻P3 第16旅（前編）<br>5巻P60 第17旅（前編）<br>5巻P136 第18旅<br>第19旅（前編）<br>第19旅（後編）<br>出張版]]></description>
       <styleUrl>#icon-1899-A52714-labelson</styleUrl>
       <Point>
         <coordinates>
@@ -2014,7 +2014,7 @@
     </Placemark>
     <Placemark>
       <name>勝鬨橋</name>
-      <description><![CDATA[4巻表紙<br>4巻P121 第15旅]]></description>
+      <description><![CDATA[4巻表紙<br>4巻P121 第15旅<br>番外編]]></description>
       <styleUrl>#icon-1899-9C27B0-labelson</styleUrl>
       <Point>
         <coordinates>
@@ -2204,7 +2204,7 @@
     </Placemark>
     <Placemark>
       <name>レインボーブリッジ</name>
-      <description>4巻P138 第15旅</description>
+      <description><![CDATA[4巻P138 第15旅<br>番外編]]></description>
       <styleUrl>#icon-1899-9C27B0-labelson</styleUrl>
       <Point>
         <coordinates>
@@ -2875,8 +2875,7 @@
       </Point>
     </Placemark>
     <Placemark>
-      <name>道路多いっ
-</name>
+      <name>道路多いっ</name>
       <description>第19旅（前編）</description>
       <styleUrl>#icon-1899-0288D1-labelson</styleUrl>
       <Point>
@@ -3202,6 +3201,146 @@
       <Point>
         <coordinates>
           133.5675576,33.4967764,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>今日は</name>
+      <description>番外編</description>
+      <styleUrl>#icon-1899-0288D1-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          139.7174742,35.6198804,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>東京タワー</name>
+      <description>番外編</description>
+      <styleUrl>#icon-1899-0288D1-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          139.7454329,35.6585805,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>歌舞伎座</name>
+      <description>番外編</description>
+      <styleUrl>#icon-1899-0288D1-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          139.7677687,35.6694245,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>歌舞伎座タワー</name>
+      <description>番外編</description>
+      <styleUrl>#icon-1899-0288D1-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          139.7680715,35.6695959,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>豊洲ーっ</name>
+      <description>番外編</description>
+      <styleUrl>#icon-1899-0288D1-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          139.785097,35.6452698,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>トゲトゲしたあのビル</name>
+      <description>番外編</description>
+      <styleUrl>#icon-1899-0288D1-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          139.7804431,35.630045,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>浦佐駅</name>
+      <description>出張版</description>
+      <styleUrl>#icon-1899-0288D1-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          138.9228047,37.1674363,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>白米探し中</name>
+      <description>出張版</description>
+      <styleUrl>#icon-1899-0288D1-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          138.9213359,37.1680435,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>毘沙門堂</name>
+      <description>出張版</description>
+      <styleUrl>#icon-1899-0288D1-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          138.9193517,37.1700727,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>地蔵清水</name>
+      <description>出張版</description>
+      <styleUrl>#icon-1899-0288D1-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          138.9221463,37.1748913,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>モンブラン</name>
+      <description>出張版</description>
+      <styleUrl>#icon-1899-0288D1-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          138.9678273,37.2276799,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>道の駅 ゆのたに</name>
+      <description>出張版</description>
+      <styleUrl>#icon-1899-0288D1-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          138.9827934,37.2239146,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>魚沼市インフォメーションセンター（一般社団法人魚沼市観光協会）</name>
+      <description>出張版</description>
+      <styleUrl>#icon-1899-0288D1-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          138.9821788,37.2243869,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>栃尾又ラジウム温泉 自在館</name>
+      <description>出張版</description>
+      <styleUrl>#icon-1899-0288D1-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          139.0860494,37.1852372,0
         </coordinates>
       </Point>
     </Placemark>

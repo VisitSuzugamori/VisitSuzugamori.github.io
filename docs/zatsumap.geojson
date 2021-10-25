@@ -359,7 +359,7 @@
                 "type": "Point"
             },
             "properties": {
-                "description": "1巻P87 第3旅<br>1巻P126 第4旅<br>4巻P93 第14旅<br>4巻P119 第15旅<br>5巻P3 第16旅（前編）<br>5巻P60 第17旅（前編）<br>5巻P136 第18旅<br>第19旅（前編）<br>第19旅（後編）",
+                "description": "1巻P87 第3旅<br>1巻P126 第4旅<br>4巻P93 第14旅<br>4巻P119 第15旅<br>5巻P3 第16旅（前編）<br>5巻P60 第17旅（前編）<br>5巻P136 第18旅<br>第19旅（前編）<br>第19旅（後編）<br>出張版",
                 "name": "東京駅"
             },
             "type": "Feature"
@@ -2739,7 +2739,7 @@
                 "type": "Point"
             },
             "properties": {
-                "description": "4巻表紙<br>4巻P121 第15旅",
+                "description": "4巻表紙<br>4巻P121 第15旅<br>番外編",
                 "name": "勝鬨橋"
             },
             "type": "Feature"
@@ -3005,7 +3005,7 @@
                 "type": "Point"
             },
             "properties": {
-                "description": "4巻P138 第15旅",
+                "description": "4巻P138 第15旅<br>番外編",
                 "name": "レインボーブリッジ"
             },
             "type": "Feature"
@@ -3944,7 +3944,7 @@
             },
             "properties": {
                 "description": "第19旅（前編）",
-                "name": "道路多いっ\n"
+                "name": "道路多いっ"
             },
             "type": "Feature"
         },
@@ -4393,6 +4393,202 @@
             "properties": {
                 "description": "第20旅（前編）",
                 "name": "切り通し"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    139.7174742,
+                    35.6198804
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "番外編",
+                "name": "今日は"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    139.7454329,
+                    35.6585805
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "番外編",
+                "name": "東京タワー"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    139.7677687,
+                    35.6694245
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "番外編",
+                "name": "歌舞伎座"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    139.7680715,
+                    35.6695959
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "番外編",
+                "name": "歌舞伎座タワー"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    139.785097,
+                    35.6452698
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "番外編",
+                "name": "豊洲ーっ"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    139.7804431,
+                    35.630045
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "番外編",
+                "name": "トゲトゲしたあのビル"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    138.9228047,
+                    37.1674363
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "出張版",
+                "name": "浦佐駅"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    138.9213359,
+                    37.1680435
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "出張版",
+                "name": "白米探し中"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    138.9193517,
+                    37.1700727
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "出張版",
+                "name": "毘沙門堂"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    138.9221463,
+                    37.1748913
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "出張版",
+                "name": "地蔵清水"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    138.9678273,
+                    37.2276799
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "出張版",
+                "name": "モンブラン"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    138.9827934,
+                    37.2239146
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "出張版",
+                "name": "道の駅 ゆのたに"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    138.9821788,
+                    37.2243869
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "出張版",
+                "name": "魚沼市インフォメーションセンター（一般社団法人魚沼市観光協会）"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    139.0860494,
+                    37.1852372
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "出張版",
+                "name": "栃尾又ラジウム温泉 自在館"
             },
             "type": "Feature"
         }
