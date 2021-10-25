@@ -137,7 +137,7 @@ const config = {
       title: 'うどん本陣 山田家',
       image: '',
       tweet_id: '',
-      description: '<p>1巻 P134  香川県高松市 牟礼町牟礼3128</p> <p><img alt="うどん本陣 山田家 本店" src="https://live.staticflickr.com/113/255025444_921df47fff_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.3532536&amp;lon=134.1296254&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【うどん本陣 山田家 本店】 by DKF_L</p>',
+      description: '<p>1巻 P134  香川県高松市 牟礼町牟礼3128</p> <p><img alt="Takamatsu, Kagawa" src="https://live.staticflickr.com/65535/51332935595_2a9507f701_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.3532536&amp;lon=134.1296254&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Takamatsu, Kagawa】 by Kzaral</p>',
       location: {
         center: [134.1296254, 34.3532536],
         zoom: 14,

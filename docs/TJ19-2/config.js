@@ -57,7 +57,7 @@ const config = {
       title: '路面電車',
       image: '',
       tweet_id: '',
-      description: '<p>   東京都北区 滝野川二丁目4</p> <p><img alt="210619_PentaxMe_001" src="https://live.staticflickr.com/65535/51384594166_16e522876a_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.7519289&amp;lon=139.7364344&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【210619_PentaxMe_001】 by Matsui Hiroyuki</p>',
+      description: '<p>   東京都北区 滝野川二丁目4</p> <p><img alt="210619_PentaxMe_037" src="https://live.staticflickr.com/65535/51389905580_dc5527a79f_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.7519289&amp;lon=139.7364344&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【210619_PentaxMe_037】 by Matsui Hiroyuki</p>',
       location: {
         center: [139.7364344, 35.7519289],
         zoom: 14,
@@ -277,7 +277,7 @@ const config = {
       title: '足湯',
       image: '',
       tweet_id: '',
-      description: '<p>   群馬県利根郡 みなかみ町 小日向416</p> <p><img alt="EF1628_" src="https://live.staticflickr.com/65535/49682492767_c464ab3420_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=36.7641343&amp;lon=138.968798&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【EF1628_】 by OOMYV</p>',
+      description: '<p>   群馬県利根郡 みなかみ町 小日向416</p> <p><img alt="DSC07770" src="https://live.staticflickr.com/65535/49682492822_67262b0264_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=36.7641343&amp;lon=138.968798&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【DSC07770】 by OOMYV</p>',
       location: {
         center: [138.968798, 36.7641343],
         zoom: 14,

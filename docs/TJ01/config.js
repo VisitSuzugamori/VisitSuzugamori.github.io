@@ -77,7 +77,7 @@ const config = {
       title: 'ラーメン二郎 会津若松駅前店',
       image: '',
       tweet_id: '',
-      description: '<p>1巻 P25  福島県会津若松市 駅前町6</p> <p><img alt="福島交通" src="https://live.staticflickr.com/65535/49232917396_d2fa5f9054_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=37.5066266&amp;lon=139.9314173&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【福島交通】 by izayuke_tarokaja</p>',
+      description: '<p>1巻 P25  福島県会津若松市 駅前町6</p> <p><img alt="Aizu Wakamatsu Station" src="https://live.staticflickr.com/65535/51602779883_3a2df93836_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=37.5066266&amp;lon=139.9314173&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Aizu Wakamatsu Station】 by pantkiewicz</p>',
       location: {
         center: [139.9314173, 37.5066266],
         zoom: 14,

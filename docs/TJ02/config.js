@@ -37,7 +37,7 @@ const config = {
       title: '松島海岸駅',
       image: '',
       tweet_id: '',
-      description: '<p>1巻 P62  宮城県宮城郡 松島町 松島字浪打浜</p> <p><img alt="かき松島 こうは「松島海岸駅前本店」1号店" src="https://live.staticflickr.com/65535/51220257976_af4e919888_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=38.368053&amp;lon=141.0588152&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【かき松島 こうは「松島海岸駅前本店」1号店】 by いしだなおと</p>',
+      description: '<p>1巻 P62  宮城県宮城郡 松島町 松島字浪打浜</p> <p><img alt="松島海岸駅" src="https://live.staticflickr.com/65535/51221329540_858134a1a3_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=38.368053&amp;lon=141.0588152&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【松島海岸駅】 by いしだなおと</p>',
       location: {
         center: [141.0588152, 38.368053],
         zoom: 14,
@@ -137,7 +137,7 @@ const config = {
       title: '三陸海鮮料理 たからや食堂',
       image: '',
       tweet_id: '',
-      description: '<p>1巻 P69  宮城県宮城郡 松島町 松島字浪打浜</p> <p><img alt="松島海岸駅" src="https://live.staticflickr.com/65535/51221329540_858134a1a3_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=38.3685198&amp;lon=141.0595572&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【松島海岸駅】 by いしだなおと</p>',
+      description: '<p>1巻 P69  宮城県宮城郡 松島町 松島字浪打浜</p> <p><img alt="かき松島 こうは「松島海岸駅前本店」1号店" src="https://live.staticflickr.com/65535/51220257976_af4e919888_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=38.3685198&amp;lon=141.0595572&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【かき松島 こうは「松島海岸駅前本店」1号店】 by いしだなおと</p>',
       location: {
         center: [141.0595572, 38.3685198],
         zoom: 14,
@@ -237,7 +237,7 @@ const config = {
       title: '松島さかな市場',
       image: '',
       tweet_id: '',
-      description: '<p>1巻 P81  宮城県宮城郡 松島町 松島字普賢堂</p> <p><img alt="松島魚市場" src="https://live.staticflickr.com/65535/49378274421_b336fe0105_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=38.3719519&amp;lon=141.0651719&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【松島魚市場】 by ＧＫ</p>',
+      description: '<p>1巻 P81  宮城県宮城郡 松島町 松島字普賢堂</p> <p><img alt="松島さかな市場" src="https://live.staticflickr.com/65535/51211268914_03d30f6ae5_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=38.3719519&amp;lon=141.0651719&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【松島さかな市場】 by いしだなおと</p>',
       location: {
         center: [141.0651719, 38.3719519],
         zoom: 14,
