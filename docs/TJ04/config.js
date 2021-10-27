@@ -76,8 +76,8 @@ const config = {
       hidden: false,
       title: '高松築港駅',
       image: '',
-      tweet_id: '1449662136511352835',
-      description: '<p>1巻 P132  香川県高松市 寿町一丁目5</p><div class="tweetContainer" id="tweet1449662136511352835"></div> ',
+      tweet_id: '1453301418157297672',
+      description: '<p>1巻 P132  香川県高松市 寿町一丁目5</p><div class="tweetContainer" id="tweet1453301418157297672"></div> ',
       location: {
         center: [134.049468, 34.350757],
         zoom: 14,
@@ -216,8 +216,8 @@ const config = {
       hidden: false,
       title: '玉藻公園',
       image: '',
-      tweet_id: '1450009323665510400',
-      description: '<p>1巻 P150  香川県高松市 玉藻町2</p><div class="tweetContainer" id="tweet1450009323665510400"></div> ',
+      tweet_id: '1452067962077208580',
+      description: '<p>1巻 P150  香川県高松市 玉藻町2</p><div class="tweetContainer" id="tweet1452067962077208580"></div> ',
       location: {
         center: [134.0516188, 34.3503157],
         zoom: 14,
@@ -236,8 +236,8 @@ const config = {
       hidden: false,
       title: '栗林公園',
       image: '',
-      tweet_id: '1449347773891964933',
-      description: '<p>1巻 P157  香川県高松市 栗林町一丁目20</p><div class="tweetContainer" id="tweet1449347773891964933"></div> ',
+      tweet_id: '1452089596418748420',
+      description: '<p>1巻 P157  香川県高松市 栗林町一丁目20</p><div class="tweetContainer" id="tweet1452089596418748420"></div> ',
       location: {
         center: [134.0445345, 34.3293842],
         zoom: 14,

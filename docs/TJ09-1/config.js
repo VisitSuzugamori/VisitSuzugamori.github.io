@@ -76,8 +76,8 @@ const config = {
       hidden: false,
       title: '広島駅',
       image: '',
-      tweet_id: '1449688555333189635',
-      description: '<p>2巻 P146  広島県広島市 南区 松原町1</p><div class="tweetContainer" id="tweet1449688555333189635"></div> ',
+      tweet_id: '1452958519653634054',
+      description: '<p>2巻 P146  広島県広島市 南区 松原町1</p><div class="tweetContainer" id="tweet1452958519653634054"></div> ',
       location: {
         center: [132.4753786, 34.397667],
         zoom: 14,
