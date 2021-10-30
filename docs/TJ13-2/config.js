@@ -116,8 +116,8 @@ const config = {
       hidden: false,
       title: '美保神社',
       image: '',
-      tweet_id: '1452560170991587331',
-      description: '<p>4巻 P14  島根県松江市 美保関町美保関</p><div class="tweetContainer" id="tweet1452560170991587331"></div> ',
+      tweet_id: '1454260466897678342',
+      description: '<p>4巻 P14  島根県松江市 美保関町美保関</p><div class="tweetContainer" id="tweet1454260466897678342"></div> ',
       location: {
         center: [133.3062224, 35.5623182],
         zoom: 14,
@@ -177,7 +177,7 @@ const config = {
       title: '美保関灯台ビュッフェ',
       image: '',
       tweet_id: '',
-      description: '<p>4巻 P33  島根県松江市 </p> <p><img alt="Mihonoseki tōdai" src="https://live.staticflickr.com/7824/32315714187_8d20a471fc_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.5672491&amp;lon=133.3250483&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Mihonoseki tōdai】 by hapePHOTOGRAPHIX</p>',
+      description: '<p>4巻 P33  島根県松江市 </p> <p><img alt="Mihonoseki Lighthouse - 美保関灯台" src="https://live.staticflickr.com/7923/46434627155_6e046782fd_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.5672491&amp;lon=133.3250483&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Mihonoseki Lighthouse - 美保関灯台】 by cHoIminG</p>',
       location: {
         center: [133.3250483, 35.5672491],
         zoom: 14,

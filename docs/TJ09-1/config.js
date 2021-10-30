@@ -16,8 +16,8 @@ const config = {
       hidden: false,
       title: '東京ドームホテル',
       image: '',
-      tweet_id: '1450613019298332672',
-      description: '<p>2巻 P132  東京都文京区 後楽一丁目3</p><div class="tweetContainer" id="tweet1450613019298332672"></div> ',
+      tweet_id: '',
+      description: '<p>2巻 P132  東京都文京区 後楽一丁目3</p> <p><img alt="ローストビーフ丼@リラッサ" src="https://live.staticflickr.com/65535/50008874012_b33e15ec0c_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.7036666&amp;lon=139.7533928&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【ローストビーフ丼@リラッサ】 by MÜGE</p>',
       location: {
         center: [139.7533928, 35.7036666],
         zoom: 14,

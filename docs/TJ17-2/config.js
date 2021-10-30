@@ -56,8 +56,8 @@ const config = {
       hidden: false,
       title: '両子寺',
       image: '',
-      tweet_id: '',
-      description: '<p>5巻 P105  大分県国東市 </p> <p><img alt="Futago-ji Temple" src="https://live.staticflickr.com/4533/38279324851_01819ca4e0_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=33.5740013&amp;lon=131.603241&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Futago-ji Temple】 by K.G.23</p>',
+      tweet_id: '1454318914901405697',
+      description: '<p>5巻 P105  大分県国東市 </p><div class="tweetContainer" id="tweet1454318914901405697"></div> ',
       location: {
         center: [131.603241, 33.5740013],
         zoom: 14,

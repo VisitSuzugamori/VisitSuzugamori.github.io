@@ -16,8 +16,8 @@ const config = {
       hidden: false,
       title: '東京駅',
       image: '',
-      tweet_id: '1452156988045987846',
-      description: '<p>1巻 P126  東京都千代田区 丸の内一丁目9</p><div class="tweetContainer" id="tweet1452156988045987846"></div> ',
+      tweet_id: '1453686135415136259',
+      description: '<p>1巻 P126  東京都千代田区 丸の内一丁目9</p><div class="tweetContainer" id="tweet1453686135415136259"></div> ',
       location: {
         center: [139.7671248, 35.6812362],
         zoom: 14,
@@ -137,7 +137,7 @@ const config = {
       title: 'うどん本陣 山田家',
       image: '',
       tweet_id: '',
-      description: '<p>1巻 P134  香川県高松市 牟礼町牟礼3128</p> <p><img alt="Takamatsu, Kagawa" src="https://live.staticflickr.com/65535/51332935595_2a9507f701_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.3532536&amp;lon=134.1296254&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Takamatsu, Kagawa】 by Kzaral</p>',
+      description: '<p>1巻 P134  香川県高松市 牟礼町牟礼3128</p> <p><img alt="【 讃岐入り 】" src="https://live.staticflickr.com/1484/24903508566_68d1ce15ca_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.3532536&amp;lon=134.1296254&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【【 讃岐入り 】】 by jun.skywalker (enishi hand made cyclecap)</p>',
       location: {
         center: [134.1296254, 34.3532536],
         zoom: 14,
@@ -156,8 +156,8 @@ const config = {
       hidden: false,
       title: '八栗ケーブル',
       image: '',
-      tweet_id: '',
-      description: '<p>1巻 P142  香川県高松市 牟礼町牟礼3369</p> <p><img alt="DSC05057.JPG" src="https://live.staticflickr.com/5027/5676973164_2f8a3c1952_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.3551328&amp;lon=134.1336543&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【DSC05057.JPG】 by t.nanba</p>',
+      tweet_id: '1454323375434731521',
+      description: '<p>1巻 P142  香川県高松市 牟礼町牟礼3369</p><div class="tweetContainer" id="tweet1454323375434731521"></div> ',
       location: {
         center: [134.1336543, 34.3551328],
         zoom: 14,

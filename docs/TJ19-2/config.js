@@ -16,8 +16,8 @@ const config = {
       hidden: false,
       title: '東京駅',
       image: '',
-      tweet_id: '1452939018136551430',
-      description: '<p>   東京都千代田区 丸の内一丁目9</p><div class="tweetContainer" id="tweet1452939018136551430"></div> ',
+      tweet_id: '1453540022343196673',
+      description: '<p>   東京都千代田区 丸の内一丁目9</p><div class="tweetContainer" id="tweet1453540022343196673"></div> ',
       location: {
         center: [139.7671248, 35.6812362],
         zoom: 14,
@@ -96,8 +96,8 @@ const config = {
       hidden: false,
       title: '道の駅 おおた',
       image: '',
-      tweet_id: '1451668181580398595',
-      description: '<p>   群馬県太田市 粕川町701</p><div class="tweetContainer" id="tweet1451668181580398595"></div> ',
+      tweet_id: '1453498234328870912',
+      description: '<p>   群馬県太田市 粕川町701</p><div class="tweetContainer" id="tweet1453498234328870912"></div> ',
       location: {
         center: [139.2959965, 36.2645224],
         zoom: 14,
