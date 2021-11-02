@@ -97,7 +97,7 @@ const config = {
       title: '本州最南端の碑',
       image: '',
       tweet_id: '',
-      description: '<p>3巻 P64  和歌山県東牟婁郡 串本町 </p> <p><img alt="Shionomisaki" src="https://live.staticflickr.com/4375/35777504023_cff334de72_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=33.4362401&amp;lon=135.7621203&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Shionomisaki】 by cotaro70s</p>',
+      description: '<p>3巻 P64  和歌山県東牟婁郡 串本町 </p> <p><img alt="Krabíci..." src="https://live.staticflickr.com/65535/51180652895_690f040e33_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=33.4362401&amp;lon=135.7621203&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Krabíci...】 by SocialHermit</p>',
       location: {
         center: [135.7621203, 33.4362401],
         zoom: 14,
@@ -176,8 +176,8 @@ const config = {
       hidden: false,
       title: '新宮駅',
       image: '',
-      tweet_id: '1454224166450831364',
-      description: '<p>3巻 P80  和歌山県新宮市 徐福一丁目3</p><div class="tweetContainer" id="tweet1454224166450831364"></div> ',
+      tweet_id: '1454757936903987201',
+      description: '<p>3巻 P80  和歌山県新宮市 徐福一丁目3</p><div class="tweetContainer" id="tweet1454757936903987201"></div> ',
       location: {
         center: [135.9941471, 33.7251509],
         zoom: 14,
@@ -236,8 +236,8 @@ const config = {
       hidden: false,
       title: '熊野本宮大社',
       image: '',
-      tweet_id: '1451355464453742592',
-      description: '<p>3巻 P82  和歌山県田辺市 本宮町本宮</p><div class="tweetContainer" id="tweet1451355464453742592"></div> ',
+      tweet_id: '1454651172590133248',
+      description: '<p>3巻 P82  和歌山県田辺市 本宮町本宮</p><div class="tweetContainer" id="tweet1454651172590133248"></div> ',
       location: {
         center: [135.7734753, 33.8405706],
         zoom: 14,
