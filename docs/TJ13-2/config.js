@@ -17,7 +17,7 @@ const config = {
       title: '青石畳通り',
       image: '',
       tweet_id: '',
-      description: '<p>4巻 P5,20  島根県松江市 美保関町美保関</p> <p><img alt="Anchor" src="https://live.staticflickr.com/65535/48111991997_a5260003ae_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.5625098&amp;lon=133.3076796&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Anchor】 by Teruhide Tomori</p>',
+      description: '<p>4巻 P5,20  島根県松江市 美保関町美保関</p> <p><img alt="Miho Jinja Shrine" src="https://live.staticflickr.com/7821/46200567295_95f6e81851_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.5625098&amp;lon=133.3076796&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Miho Jinja Shrine】 by hapePHOTOGRAPHIX</p>',
       location: {
         center: [133.3076796, 35.5625098],
         zoom: 14,
@@ -97,7 +97,7 @@ const config = {
       title: '廻船御用水',
       image: '',
       tweet_id: '',
-      description: '<p>4巻 P13  島根県松江市 美保関町美保関</p> <p><img alt="Miho Jinja Shrine" src="https://live.staticflickr.com/7821/46200567295_95f6e81851_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.5623016&amp;lon=133.3074953&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Miho Jinja Shrine】 by hapePHOTOGRAPHIX</p>',
+      description: '<p>4巻 P13  島根県松江市 美保関町美保関</p> <p><img alt="Anchor" src="https://live.staticflickr.com/65535/48111991997_a5260003ae_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.5623016&amp;lon=133.3074953&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Anchor】 by Teruhide Tomori</p>',
       location: {
         center: [133.3074953, 35.5623016],
         zoom: 14,
@@ -177,7 +177,7 @@ const config = {
       title: '美保関灯台ビュッフェ',
       image: '',
       tweet_id: '',
-      description: '<p>4巻 P33  島根県松江市 </p> <p><img alt="Mihonoseki tōdai" src="https://live.staticflickr.com/7824/32315714187_8d20a471fc_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.5672491&amp;lon=133.3250483&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Mihonoseki tōdai】 by hapePHOTOGRAPHIX</p>',
+      description: '<p>4巻 P33  島根県松江市 </p> <p><img alt="Mihonoseki tōdai" src="https://live.staticflickr.com/7830/46487727064_b575a3f7e5_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.5672491&amp;lon=133.3250483&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Mihonoseki tōdai】 by hapePHOTOGRAPHIX</p>',
       location: {
         center: [133.3250483, 35.5672491],
         zoom: 14,

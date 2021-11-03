@@ -96,8 +96,8 @@ const config = {
       hidden: false,
       title: '本州最南端の碑',
       image: '',
-      tweet_id: '',
-      description: '<p>3巻 P64  和歌山県東牟婁郡 串本町 </p> <p><img alt="Krabíci..." src="https://live.staticflickr.com/65535/51180652895_690f040e33_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=33.4362401&amp;lon=135.7621203&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Krabíci...】 by SocialHermit</p>',
+      tweet_id: '1455739988444860418',
+      description: '<p>3巻 P64  和歌山県東牟婁郡 串本町 </p><div class="tweetContainer" id="tweet1455739988444860418"></div> ',
       location: {
         center: [135.7621203, 33.4362401],
         zoom: 14,
@@ -117,7 +117,7 @@ const config = {
       title: 'ビジネスホテル串本 駅前店',
       image: '',
       tweet_id: '',
-      description: '<p>3巻 P67  和歌山県東牟婁郡 串本町 串本40</p> <p><img alt="train station at Kushimoto shows major attractions" src="https://live.staticflickr.com/4869/32011139438_67c5371bdb_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=33.474975&amp;lon=135.782048&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【train station at Kushimoto shows major attractions】 by anthroview</p>',
+      description: '<p>3巻 P67  和歌山県東牟婁郡 串本町 串本40</p> <p><img alt="sister city (Japan: Turkey) panorama 2018 Oct. 27 Kushimoto" src="https://live.staticflickr.com/4915/45089021854_ac4169c2b2_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=33.474975&amp;lon=135.782048&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【sister city (Japan: Turkey) panorama 2018 Oct. 27 Kushimoto】 by anthroview</p>',
       location: {
         center: [135.782048, 33.474975],
         zoom: 14,
@@ -157,7 +157,7 @@ const config = {
       title: '潮岬観光タワー',
       image: '',
       tweet_id: '',
-      description: '<p>3巻 P71  和歌山県東牟婁郡 串本町 </p> <p><img alt="Milky way and Jupiter (3)" src="https://live.staticflickr.com/65535/50343782877_c69482ce8d_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=33.437806&amp;lon=135.7613677&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Milky way and Jupiter (3)】 by kuni4400</p>',
+      description: '<p>3巻 P71  和歌山県東牟婁郡 串本町 </p> <p><img alt="本州島最南端串本町" src="https://live.staticflickr.com/1972/31405782828_0e6546635d_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=33.437806&amp;lon=135.7613677&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【本州島最南端串本町】 by hairy63845</p>',
       location: {
         center: [135.7613677, 33.437806],
         zoom: 14,
@@ -176,8 +176,8 @@ const config = {
       hidden: false,
       title: '新宮駅',
       image: '',
-      tweet_id: '1454757936903987201',
-      description: '<p>3巻 P80  和歌山県新宮市 徐福一丁目3</p><div class="tweetContainer" id="tweet1454757936903987201"></div> ',
+      tweet_id: '1455516550685921283',
+      description: '<p>3巻 P80  和歌山県新宮市 徐福一丁目3</p><div class="tweetContainer" id="tweet1455516550685921283"></div> ',
       location: {
         center: [135.9941471, 33.7251509],
         zoom: 14,
@@ -257,7 +257,7 @@ const config = {
       title: '料理 萬口',
       image: '',
       tweet_id: '',
-      description: '<p>3巻 P85  和歌山県東牟婁郡 串本町 串本43</p> <p><img alt="日根野区 105系 01" src="https://live.staticflickr.com/800/39374790990_06c6f5e2d5_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=33.4745935&amp;lon=135.7817317&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【日根野区 105系 01】 by O_Kazunori_</p>',
+      description: '<p>3巻 P85  和歌山県東牟婁郡 串本町 串本43</p> <p><img alt="train station at Kushimoto shows major attractions" src="https://live.staticflickr.com/4869/32011139438_67c5371bdb_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=33.4745935&amp;lon=135.7817317&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【train station at Kushimoto shows major attractions】 by anthroview</p>',
       location: {
         center: [135.7817317, 33.4745935],
         zoom: 14,

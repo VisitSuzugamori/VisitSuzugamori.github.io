@@ -16,8 +16,8 @@ const config = {
       hidden: false,
       title: '東京駅',
       image: '',
-      tweet_id: '1455174819620683781',
-      description: '<p>1巻 P126  東京都千代田区 丸の内一丁目9</p><div class="tweetContainer" id="tweet1455174819620683781"></div> ',
+      tweet_id: '1455394356559372290',
+      description: '<p>1巻 P126  東京都千代田区 丸の内一丁目9</p><div class="tweetContainer" id="tweet1455394356559372290"></div> ',
       location: {
         center: [139.7671248, 35.6812362],
         zoom: 14,
@@ -56,8 +56,8 @@ const config = {
       hidden: false,
       title: '高松駅',
       image: '',
-      tweet_id: '1454347563407007751',
-      description: '<p>1巻 P131  香川県高松市 西の丸町2</p><div class="tweetContainer" id="tweet1454347563407007751"></div> ',
+      tweet_id: '1455718208472633349',
+      description: '<p>1巻 P131  香川県高松市 西の丸町2</p><div class="tweetContainer" id="tweet1455718208472633349"></div> ',
       location: {
         center: [134.047056, 34.3504507],
         zoom: 14,
@@ -236,8 +236,8 @@ const config = {
       hidden: false,
       title: '栗林公園',
       image: '',
-      tweet_id: '1454988904319258626',
-      description: '<p>1巻 P157  香川県高松市 栗林町一丁目20</p><div class="tweetContainer" id="tweet1454988904319258626"></div> ',
+      tweet_id: '1455732244727754752',
+      description: '<p>1巻 P157  香川県高松市 栗林町一丁目20</p><div class="tweetContainer" id="tweet1455732244727754752"></div> ',
       location: {
         center: [134.0445345, 34.3293842],
         zoom: 14,
