@@ -37,7 +37,7 @@ const config = {
       title: '萱野茶屋',
       image: '',
       tweet_id: '',
-      description: '<p>3巻 P32  青森県青森市 大字横内字八重菊62</p> <p><img alt="20181005八甲田" src="https://live.staticflickr.com/4870/46524326451_cd8e8e7742_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=40.7057577&amp;lon=140.8223047&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【20181005八甲田】 by trlintw</p>',
+      description: '<p>3巻 P32  青森県青森市 大字横内字八重菊62</p> <p><img alt="" src="https://live.staticflickr.com/7886/47193495301_8710185f1e_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=40.7057577&amp;lon=140.8223047&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【】 by mhrs.jp</p>',
       location: {
         center: [140.8223047, 40.7057577],
         zoom: 14,
@@ -76,8 +76,8 @@ const config = {
       hidden: false,
       title: '谷地温泉',
       image: '',
-      tweet_id: '',
-      description: '<p>3巻 P38  青森県十和田市 </p> <p><img alt="Yachi onsen, one of the secret onsen of Aomori" src="https://live.staticflickr.com/65535/50036012223_af7d118d43_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=40.6330178&amp;lon=140.9245271&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Yachi onsen, one of the secret onsen of Aomori】 by Hans ter Horst Photography</p>',
+      tweet_id: '1456740134401949699',
+      description: '<p>3巻 P38  青森県十和田市 </p><div class="tweetContainer" id="tweet1456740134401949699"></div> ',
       location: {
         center: [140.9245271, 40.6330178],
         zoom: 14,
@@ -97,7 +97,7 @@ const config = {
       title: '下北駅',
       image: '',
       tweet_id: '',
-      description: '<p>3巻 P47  青森県むつ市 下北町4</p> <p><img alt="707" src="https://live.staticflickr.com/7149/26832857492_273c8ef072_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=41.2827427&amp;lon=141.1899038&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【707】 by hyuhyu6748usver</p>',
+      description: '<p>3巻 P47  青森県むつ市 下北町4</p> <p><img alt="Traveller" src="https://live.staticflickr.com/8236/8477522033_92a0de2ec3_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=41.2827427&amp;lon=141.1899038&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Traveller】 by moaan</p>',
       location: {
         center: [141.1899038, 41.2827427],
         zoom: 14,
@@ -136,8 +136,8 @@ const config = {
       hidden: false,
       title: '恐山菩提寺',
       image: '',
-      tweet_id: '1454321032685305860',
-      description: '<p>3巻 P49  青森県むつ市 </p><div class="tweetContainer" id="tweet1454321032685305860"></div> ',
+      tweet_id: '1454657363508547590',
+      description: '<p>3巻 P49  青森県むつ市 </p><div class="tweetContainer" id="tweet1454657363508547590"></div> ',
       location: {
         center: [141.0907618, 41.327247],
         zoom: 14,
