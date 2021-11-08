@@ -57,7 +57,7 @@ const config = {
       title: 'かき松島 こうは「松島海岸駅前本店」１号店',
       image: '',
       tweet_id: '',
-      description: '<p>1巻 P63  宮城県宮城郡 松島町 松島字浪打浜</p> <p><img alt="三陸海鮮料理 たからや食堂" src="https://live.staticflickr.com/65535/51209794152_bf793b4e29_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=38.3685502&amp;lon=141.0593616&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【三陸海鮮料理 たからや食堂】 by いしだなおと</p>',
+      description: '<p>1巻 P63  宮城県宮城郡 松島町 松島字浪打浜</p> <p><img alt="かき松島 こうは「松島海岸駅前本店」1号店" src="https://live.staticflickr.com/65535/51220257976_af4e919888_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=38.3685502&amp;lon=141.0593616&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【かき松島 こうは「松島海岸駅前本店」1号店】 by いしだなおと</p>',
       location: {
         center: [141.0593616, 38.3685502],
         zoom: 14,
@@ -77,7 +77,7 @@ const config = {
       title: '松島公園',
       image: '',
       tweet_id: '',
-      description: '<p>1巻 P64  宮城県宮城郡 松島町 松島字霞ケ浦</p> <p><img alt="雄島" src="https://live.staticflickr.com/65535/51221394425_a4814c5527_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=38.3661732&amp;lon=141.0611304&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【雄島】 by いしだなおと</p>',
+      description: '<p>1巻 P64  宮城県宮城郡 松島町 松島字霞ケ浦</p> <p><img alt="Matsushima / Saigyoumodoshi no Matsu Park 02" src="https://live.staticflickr.com/65535/33769620838_4998b46fef_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=38.3661732&amp;lon=141.0611304&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Matsushima / Saigyoumodoshi no Matsu Park 02】 by hatake_s</p>',
       location: {
         center: [141.0611304, 38.3661732],
         zoom: 14,
@@ -117,7 +117,7 @@ const config = {
       title: '御嶋真珠稲荷大明神',
       image: '',
       tweet_id: '',
-      description: '<p>1巻 P65  宮城県宮城郡 松島町 松島字霞ケ浦</p> <p><img alt="御嶋真珠稲荷大明神" src="https://live.staticflickr.com/65535/51221340535_4157a07bee_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=38.3654838&amp;lon=141.0622564&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【御嶋真珠稲荷大明神】 by いしだなおと</p>',
+      description: '<p>1巻 P65  宮城県宮城郡 松島町 松島字霞ケ浦</p> <p><img alt="雄島" src="https://live.staticflickr.com/65535/51221394425_a4814c5527_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=38.3654838&amp;lon=141.0622564&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【雄島】 by いしだなおと</p>',
       location: {
         center: [141.0622564, 38.3654838],
         zoom: 14,
@@ -137,7 +137,7 @@ const config = {
       title: '三陸海鮮料理 たからや食堂',
       image: '',
       tweet_id: '',
-      description: '<p>1巻 P69  宮城県宮城郡 松島町 松島字浪打浜</p> <p><img alt="かき松島 こうは「松島海岸駅前本店」1号店" src="https://live.staticflickr.com/65535/51220257976_af4e919888_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=38.3685198&amp;lon=141.0595572&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【かき松島 こうは「松島海岸駅前本店」1号店】 by いしだなおと</p>',
+      description: '<p>1巻 P69  宮城県宮城郡 松島町 松島字浪打浜</p> <p><img alt="松島海岸駅" src="https://live.staticflickr.com/65535/51221329540_858134a1a3_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=38.3685198&amp;lon=141.0595572&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【松島海岸駅】 by いしだなおと</p>',
       location: {
         center: [141.0595572, 38.3685198],
         zoom: 14,
@@ -257,7 +257,7 @@ const config = {
       title: '笹かま販売所',
       image: '',
       tweet_id: '',
-      description: '<p>1巻 P85  宮城県宮城郡 松島町 松島字浪打浜</p> <p><img alt="松島海岸駅" src="https://live.staticflickr.com/65535/51221329540_858134a1a3_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=38.3683903&amp;lon=141.0588914&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【松島海岸駅】 by いしだなおと</p>',
+      description: '<p>1巻 P85  宮城県宮城郡 松島町 松島字浪打浜</p> <p><img alt="三陸海鮮料理 たからや食堂" src="https://live.staticflickr.com/65535/51209794152_bf793b4e29_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=38.3683903&amp;lon=141.0588914&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【三陸海鮮料理 たからや食堂】 by いしだなおと</p>',
       location: {
         center: [141.0588914, 38.3683903],
         zoom: 14,

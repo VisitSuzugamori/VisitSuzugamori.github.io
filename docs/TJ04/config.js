@@ -56,8 +56,8 @@ const config = {
       hidden: false,
       title: '高松駅',
       image: '',
-      tweet_id: '1456901486185627649',
-      description: '<p>1巻 P131  香川県高松市 西の丸町2</p><div class="tweetContainer" id="tweet1456901486185627649"></div> ',
+      tweet_id: '1457569453902729216',
+      description: '<p>1巻 P131  香川県高松市 西の丸町2</p><div class="tweetContainer" id="tweet1457569453902729216"></div> ',
       location: {
         center: [134.047056, 34.3504507],
         zoom: 14,
@@ -136,8 +136,8 @@ const config = {
       hidden: false,
       title: 'うどん本陣 山田家',
       image: '',
-      tweet_id: '1454632875047936005',
-      description: '<p>1巻 P134  香川県高松市 牟礼町牟礼3128</p><div class="tweetContainer" id="tweet1454632875047936005"></div> ',
+      tweet_id: '1455749886901641216',
+      description: '<p>1巻 P134  香川県高松市 牟礼町牟礼3128</p><div class="tweetContainer" id="tweet1455749886901641216"></div> ',
       location: {
         center: [134.1296254, 34.3532536],
         zoom: 14,
