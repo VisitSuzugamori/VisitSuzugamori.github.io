@@ -350,6 +350,26 @@ const config = {
       onChapterEnter: [],
       onChapterExit: [],
     },
+    {
+      id: '--民宿まさご',
+      alignment: 'right',
+      hidden: false,
+      title: '民宿まさご',
+      image: '',
+      tweet_id: '',
+      description: '<p>   高知県高知市 浦戸18</p> <p><img alt="P_20180822_164317_vHDR_On_HP.jpg" src="https://live.staticflickr.com/1894/43474328194_44af71e972_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=33.4991881&amp;lon=133.5721656&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【P_20180822_164317_vHDR_On_HP.jpg】 by anttylee.tw</p>',
+      location: {
+        center: [133.5721656, 33.4991881],
+        zoom: 14,
+        pitch: 60,
+        bearing: 0,
+      },
+      mapAnimation: 'flyTo',
+      rotateAnimation: false,
+      callback: '',
+      onChapterEnter: [],
+      onChapterExit: [],
+    },
 
   ],
 };

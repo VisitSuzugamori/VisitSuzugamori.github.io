@@ -57,7 +57,7 @@ const config = {
       title: '藤岡酒造',
       image: '',
       tweet_id: '',
-      description: '<p>2巻 P16  京都府京都市 伏見区 今町669</p> <p><img alt="呉竹湯" src="https://live.staticflickr.com/65535/49166042607_a0d41435ae_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.9351213&amp;lon=135.7624568&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【呉竹湯】 by albertus</p>',
+      description: '<p>2巻 P16  京都府京都市 伏見区 今町669</p> <p><img alt="珍遊のラーメン" src="https://live.staticflickr.com/65535/50115002776_30c119f009_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.9351213&amp;lon=135.7624568&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【珍遊のラーメン】 by albertus</p>',
       location: {
         center: [135.7624568, 34.9351213],
         zoom: 14,
@@ -157,7 +157,7 @@ const config = {
       title: '富田屋',
       image: '',
       tweet_id: '',
-      description: '<p>2巻 P22  京都府宮津市 字鶴賀2066</p> <p><img alt="swallow" src="https://live.staticflickr.com/4259/35746896066_1d02070642_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.534848&amp;lon=135.1992613&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【swallow】 by YUICHI38</p>',
+      description: '<p>2巻 P22  京都府宮津市 字鶴賀2066</p> <p><img alt="IMG_20191022_112259" src="https://live.staticflickr.com/65535/49136451437_e0800f574b_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.534848&amp;lon=135.1992613&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【IMG_20191022_112259】 by balduran98</p>',
       location: {
         center: [135.1992613, 35.534848],
         zoom: 14,
@@ -177,7 +177,7 @@ const config = {
       title: '茶六本館',
       image: '',
       tweet_id: '',
-      description: '<p>2巻 P22  京都府宮津市 字本町842</p> <p><img alt="Miyazu#21" src="https://live.staticflickr.com/4394/36130490213_ea34762198_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.5368405&amp;lon=135.1918306&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Miyazu#21】 by tetsuo5</p>',
+      description: '<p>2巻 P22  京都府宮津市 字本町842</p> <p><img alt="Miyazu#35" src="https://live.staticflickr.com/4441/36267565394_6d632f3211_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.5368405&amp;lon=135.1918306&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Miyazu#35】 by tetsuo5</p>',
       location: {
         center: [135.1918306, 35.5368405],
         zoom: 14,

@@ -57,7 +57,7 @@ const config = {
       title: '路面電車',
       image: '',
       tweet_id: '',
-      description: '<p>   東京都北区 滝野川二丁目4</p> <p><img alt="十月桜" src="https://live.staticflickr.com/65535/51630117673_19660bbb69_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.7519289&amp;lon=139.7364344&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【十月桜】 by Yorkey&amp;Rin</p>',
+      description: '<p>   東京都北区 滝野川二丁目4</p> <p><img alt="210619_PentaxMe_037" src="https://live.staticflickr.com/65535/51389905580_dc5527a79f_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.7519289&amp;lon=139.7364344&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【210619_PentaxMe_037】 by Matsui Hiroyuki</p>',
       location: {
         center: [139.7364344, 35.7519289],
         zoom: 14,
@@ -177,7 +177,7 @@ const config = {
       title: '棚下不動の滝(雄滝)',
       image: '',
       tweet_id: '',
-      description: '<p>   群馬県渋川市 赤城町棚下</p> <p><img alt="tanashitafudo fall 棚下不動滝 -sigma dp2 -" src="https://live.staticflickr.com/4121/4759464584_eb25f28831_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=36.5717451&amp;lon=139.0596769&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【tanashitafudo fall 棚下不動滝 -sigma dp2 -】 by atem_y_zeit</p>',
+      description: '<p>   群馬県渋川市 赤城町棚下</p> <p><img alt="26-P1000255" src="https://live.staticflickr.com/1680/26268843192_d153e671a6_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=36.5717451&amp;lon=139.0596769&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【26-P1000255】 by TZR6063</p>',
       location: {
         center: [139.0596769, 36.5717451],
         zoom: 14,
@@ -197,7 +197,7 @@ const config = {
       title: 'ばーちゃん再会の地',
       image: '',
       tweet_id: '',
-      description: '<p>   群馬県渋川市 上白井400</p> <p><img alt="18a1121" src="https://live.staticflickr.com/4665/27853362789_220ff1b401_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=36.5749053&amp;lon=139.053134&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【18a1121】 by kimagurenote</p>',
+      description: '<p>   群馬県渋川市 上白井400</p> <p><img alt="0145 Upstream" src="https://live.staticflickr.com/3931/15340543459_63ec4cd00e_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=36.5749053&amp;lon=139.053134&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【0145 Upstream】 by mari-ten</p>',
       location: {
         center: [139.053134, 36.5749053],
         zoom: 14,
@@ -277,7 +277,7 @@ const config = {
       title: '足湯',
       image: '',
       tweet_id: '',
-      description: '<p>   群馬県利根郡 みなかみ町 小日向416</p> <p><img alt="EF1628_" src="https://live.staticflickr.com/65535/49682492767_c464ab3420_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=36.7641343&amp;lon=138.968798&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【EF1628_】 by OOMYV</p>',
+      description: '<p>   群馬県利根郡 みなかみ町 小日向416</p> <p><img alt="DSC07770" src="https://live.staticflickr.com/65535/49682492822_67262b0264_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=36.7641343&amp;lon=138.968798&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【DSC07770】 by OOMYV</p>',
       location: {
         center: [138.968798, 36.7641343],
         zoom: 14,
