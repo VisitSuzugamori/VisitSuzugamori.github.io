@@ -3205,6 +3205,36 @@
       </Point>
     </Placemark>
     <Placemark>
+      <name>民宿まさご</name>
+      <description>第20旅（前編）</description>
+      <styleUrl>#icon-1899-0288D1-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          133.5721656,33.4991881,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>桂浜</name>
+      <description>第20旅（後編）</description>
+      <styleUrl>#icon-1899-0288D1-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          133.5749209,33.4971366,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>坂本龍馬像</name>
+      <description>第20旅（後編）</description>
+      <styleUrl>#icon-1899-0288D1-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          133.5754821,33.4986187,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
       <name>今日は</name>
       <description>番外編</description>
       <styleUrl>#icon-1899-0288D1-labelson</styleUrl>

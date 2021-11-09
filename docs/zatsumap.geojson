@@ -4399,6 +4399,48 @@
         {
             "geometry": {
                 "coordinates": [
+                    133.5721656,
+                    33.4991881
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "第20旅（前編）",
+                "name": "民宿まさご"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    133.5749209,
+                    33.4971366
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "第20旅（後編）",
+                "name": "桂浜"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    133.5754821,
+                    33.4986187
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "第20旅（後編）",
+                "name": "坂本龍馬像"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     139.7174742,
                     35.6198804
                 ],
