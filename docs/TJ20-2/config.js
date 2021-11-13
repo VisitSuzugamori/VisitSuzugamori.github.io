@@ -16,8 +16,8 @@ const config = {
       hidden: false,
       title: '桂浜',
       image: '',
-      tweet_id: '1455724958676500484',
-      description: '<p>   高知県高知市 浦戸778</p><div class="tweetContainer" id="tweet1455724958676500484"></div> ',
+      tweet_id: '1458346167285129216',
+      description: '<p>   高知県高知市 浦戸778</p><div class="tweetContainer" id="tweet1458346167285129216"></div> ',
       location: {
         center: [133.5749209, 33.4971366],
         zoom: 14,
@@ -36,8 +36,8 @@ const config = {
       hidden: false,
       title: '坂本龍馬像',
       image: '',
-      tweet_id: '1455454001697275907',
-      description: '<p>   高知県高知市 浦戸6</p><div class="tweetContainer" id="tweet1455454001697275907"></div> ',
+      tweet_id: '1457544767768862724',
+      description: '<p>   高知県高知市 浦戸6</p><div class="tweetContainer" id="tweet1457544767768862724"></div> ',
       location: {
         center: [133.5754821, 33.4986187],
         zoom: 14,
