@@ -176,8 +176,8 @@ const config = {
       hidden: false,
       title: 'うさぎ！',
       image: '',
-      tweet_id: '1456825055778775041',
-      description: '<p>3巻 P139  島根県出雲市 大社町杵築東266</p><div class="tweetContainer" id="tweet1456825055778775041"></div> ',
+      tweet_id: '',
+      description: '<p>3巻 P139  島根県出雲市 大社町杵築東266</p> <p><img alt="出雲大社" src="https://live.staticflickr.com/65535/51352440878_c409bf3655_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.3994106&amp;lon=132.6852047&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【出雲大社】 by Chitaka Chou</p>',
       location: {
         center: [132.6852047, 35.3994106],
         zoom: 14,
@@ -317,7 +317,7 @@ const config = {
       title: 'ホテル一畑',
       image: '',
       tweet_id: '',
-      description: '<p>3巻 P146  島根県松江市 千鳥町18</p> <p><img alt="Ichibata Electric Railway Matsue-Shinjiko-Onsen Station" src="https://live.staticflickr.com/65535/51332941410_b5b4567cea_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.4661714&amp;lon=133.0453378&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Ichibata Electric Railway Matsue-Shinjiko-Onsen Station】 by Kzaral</p>',
+      description: '<p>3巻 P146  島根県松江市 千鳥町18</p> <p><img alt="Ichibata Electric Railway Matsue-Shinjiko-Onsen Station" src="https://live.staticflickr.com/65535/51332672809_05603efba7_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.4661714&amp;lon=133.0453378&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Ichibata Electric Railway Matsue-Shinjiko-Onsen Station】 by Kzaral</p>',
       location: {
         center: [133.0453378, 35.4661714],
         zoom: 14,

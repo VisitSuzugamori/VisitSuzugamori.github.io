@@ -36,8 +36,8 @@ const config = {
       hidden: false,
       title: '坂本龍馬像',
       image: '',
-      tweet_id: '1457544767768862724',
-      description: '<p>   高知県高知市 浦戸6</p><div class="tweetContainer" id="tweet1457544767768862724"></div> ',
+      tweet_id: '1459772914438479878',
+      description: '<p>   高知県高知市 浦戸6</p><div class="tweetContainer" id="tweet1459772914438479878"></div> ',
       location: {
         center: [133.5754821, 33.4986187],
         zoom: 14,

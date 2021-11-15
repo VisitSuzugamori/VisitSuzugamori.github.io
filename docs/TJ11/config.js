@@ -236,8 +236,8 @@ const config = {
       hidden: false,
       title: '熊野本宮大社',
       image: '',
-      tweet_id: '1459393968458944512',
-      description: '<p>3巻 P82  和歌山県田辺市 本宮町本宮</p><div class="tweetContainer" id="tweet1459393968458944512"></div> ',
+      tweet_id: '1459855839259357197',
+      description: '<p>3巻 P82  和歌山県田辺市 本宮町本宮</p><div class="tweetContainer" id="tweet1459855839259357197"></div> ',
       location: {
         center: [135.7734753, 33.8405706],
         zoom: 14,

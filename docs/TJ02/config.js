@@ -96,8 +96,8 @@ const config = {
       hidden: false,
       title: '雄島',
       image: '',
-      tweet_id: '',
-      description: '<p>1巻 P64  宮城県宮城郡 松島町 松島字霞ケ浦</p> <p><img alt="Roof, Matsushima, Japan" src="https://live.staticflickr.com/65535/51324410034_be18a392ea_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=38.3653495&amp;lon=141.0625297&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Roof, Matsushima, Japan】 by runslikethewind83</p>',
+      tweet_id: '1459667257986990083',
+      description: '<p>1巻 P64  宮城県宮城郡 松島町 松島字霞ケ浦</p><div class="tweetContainer" id="tweet1459667257986990083"></div> ',
       location: {
         center: [141.0625297, 38.3653495],
         zoom: 14,
@@ -117,7 +117,7 @@ const config = {
       title: '御嶋真珠稲荷大明神',
       image: '',
       tweet_id: '',
-      description: '<p>1巻 P65  宮城県宮城郡 松島町 松島字霞ケ浦</p> <p><img alt="雄島" src="https://live.staticflickr.com/65535/51221394425_a4814c5527_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=38.3654838&amp;lon=141.0622564&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【雄島】 by いしだなおと</p>',
+      description: '<p>1巻 P65  宮城県宮城郡 松島町 松島字霞ケ浦</p> <p><img alt="Roof, Matsushima, Japan" src="https://live.staticflickr.com/65535/51324410034_be18a392ea_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=38.3654838&amp;lon=141.0622564&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Roof, Matsushima, Japan】 by runslikethewind83</p>',
       location: {
         center: [141.0622564, 38.3654838],
         zoom: 14,
@@ -196,8 +196,8 @@ const config = {
       hidden: false,
       title: '松島ホテル和楽',
       image: '',
-      tweet_id: '1459440277567979523',
-      description: '<p>1巻 P78  宮城県宮城郡 松島町 松島字道珍浜</p><div class="tweetContainer" id="tweet1459440277567979523"></div> ',
+      tweet_id: '1459642808726429704',
+      description: '<p>1巻 P78  宮城県宮城郡 松島町 松島字道珍浜</p><div class="tweetContainer" id="tweet1459642808726429704"></div> ',
       location: {
         center: [141.0685577, 38.3768196],
         zoom: 14,
