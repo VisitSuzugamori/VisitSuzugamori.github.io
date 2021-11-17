@@ -36,8 +36,8 @@ const config = {
       hidden: false,
       title: '後免駅',
       image: '',
-      tweet_id: '1459764100150353924',
-      description: '<p>   高知県南国市 駅前町二丁目3</p><div class="tweetContainer" id="tweet1459764100150353924"></div> ',
+      tweet_id: '1459769364538789889',
+      description: '<p>   高知県南国市 駅前町二丁目3</p><div class="tweetContainer" id="tweet1459769364538789889"></div> ',
       location: {
         center: [133.6454058, 33.5791401],
         zoom: 14,
@@ -156,8 +156,8 @@ const config = {
       hidden: false,
       title: 'はりまや橋',
       image: '',
-      tweet_id: '1457192084884967425',
-      description: '<p>   高知県高知市 はりまや町一丁目1</p><div class="tweetContainer" id="tweet1457192084884967425"></div> ',
+      tweet_id: '1460105637971386368',
+      description: '<p>   高知県高知市 はりまや町一丁目1</p><div class="tweetContainer" id="tweet1460105637971386368"></div> ',
       location: {
         center: [133.5426569, 33.5599438],
         zoom: 14,
@@ -297,7 +297,7 @@ const config = {
       title: '長宗我部元親像',
       image: '',
       tweet_id: '',
-      description: '<p>   高知県高知市 長浜5714</p> ',
+      description: '<p>   高知県高知市 長浜5714</p> <p><img alt="姫若子" src="https://live.staticflickr.com/6013/6016875198_40d0ea07d0_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=33.4930629&amp;lon=133.5462907&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【姫若子】 by jour13</p>',
       location: {
         center: [133.5462907, 33.4930629],
         zoom: 14,

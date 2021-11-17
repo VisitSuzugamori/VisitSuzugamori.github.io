@@ -76,8 +76,8 @@ const config = {
       hidden: false,
       title: 'ラーメン二郎 会津若松駅前店',
       image: '',
-      tweet_id: '1459128798075523081',
-      description: '<p>1巻 P25  福島県会津若松市 駅前町6</p><div class="tweetContainer" id="tweet1459128798075523081"></div> ',
+      tweet_id: '1460799258047647747',
+      description: '<p>1巻 P25  福島県会津若松市 駅前町6</p><div class="tweetContainer" id="tweet1460799258047647747"></div> ',
       location: {
         center: [139.9314173, 37.5066266],
         zoom: 14,
@@ -237,7 +237,7 @@ const config = {
       title: '会津さざえ堂 (円通寺三匝堂)',
       image: '',
       tweet_id: '',
-      description: '<p>1巻 P51  福島県会津若松市 一箕町八幡弁天下33</p> <p><img alt="Itsukushima-jinja (厳島神社)" src="https://live.staticflickr.com/65535/51603408545_708ef91d8c_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=37.5045319&amp;lon=139.9539697&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Itsukushima-jinja (厳島神社)】 by pantkiewicz</p>',
+      description: '<p>1巻 P51  福島県会津若松市 一箕町八幡弁天下33</p> <p><img alt="Itsukushima-jinja (厳島神社)" src="https://live.staticflickr.com/65535/51602525711_0a01f1ec1b_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=37.5045319&amp;lon=139.9539697&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Itsukushima-jinja (厳島神社)】 by pantkiewicz</p>',
       location: {
         center: [139.9539697, 37.5045319],
         zoom: 14,
