@@ -3235,6 +3235,76 @@
       </Point>
     </Placemark>
     <Placemark>
+      <name>桂浜水族館</name>
+      <description>第20旅（後編）</description>
+      <styleUrl>#icon-1899-0288D1-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          133.5736111,33.4969444,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>龍王宮</name>
+      <description>第20旅（後編）</description>
+      <styleUrl>#icon-1899-0288D1-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          133.5746555,33.4956281,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>高知駅</name>
+      <description>第20旅（後編）</description>
+      <styleUrl>#icon-1899-0288D1-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          133.5436452,33.5672271,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>土佐三志士の像</name>
+      <description>第20旅（後編）</description>
+      <styleUrl>#icon-1899-0288D1-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          133.5430255,33.5664177,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>奈半利駅</name>
+      <description>第20旅（後編）</description>
+      <styleUrl>#icon-1899-0288D1-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          134.0180808,33.4250302,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>長谷橋</name>
+      <description>第20旅（後編）</description>
+      <styleUrl>#icon-1899-0288D1-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          134.0238408,33.4203525,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>旧魚梁瀬森林鉄道 法恩寺跨線橋</name>
+      <description>第20旅（後編）</description>
+      <styleUrl>#icon-1899-0288D1-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          134.0258951,33.4178698,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
       <name>今日は</name>
       <description>番外編</description>
       <styleUrl>#icon-1899-0288D1-labelson</styleUrl>

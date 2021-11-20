@@ -4441,6 +4441,104 @@
         {
             "geometry": {
                 "coordinates": [
+                    133.5736111,
+                    33.4969444
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "第20旅（後編）",
+                "name": "桂浜水族館"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    133.5746555,
+                    33.4956281
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "第20旅（後編）",
+                "name": "龍王宮"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    133.5436452,
+                    33.5672271
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "第20旅（後編）",
+                "name": "高知駅"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    133.5430255,
+                    33.5664177
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "第20旅（後編）",
+                "name": "土佐三志士の像"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    134.0180808,
+                    33.4250302
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "第20旅（後編）",
+                "name": "奈半利駅"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    134.0238408,
+                    33.4203525
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "第20旅（後編）",
+                "name": "長谷橋"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    134.0258951,
+                    33.4178698
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "第20旅（後編）",
+                "name": "旧魚梁瀬森林鉄道 法恩寺跨線橋"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     139.7174742,
                     35.6198804
                 ],
