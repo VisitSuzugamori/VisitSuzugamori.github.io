@@ -97,7 +97,7 @@ const config = {
       title: 'コンフォートホテル呉',
       image: '',
       tweet_id: '',
-      description: '<p>3巻 P12  広島県呉市 宝町2</p> <p><img alt="kure_20200102101708" src="https://live.staticflickr.com/65535/50277885393_6c2d6a6738_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.2431335&amp;lon=132.5586395&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【kure_20200102101708】 by inunami</p>',
+      description: '<p>3巻 P12  広島県呉市 宝町2</p> <p><img alt="IMG_3753" src="https://live.staticflickr.com/65535/51403547307_d5688e8347_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.2431335&amp;lon=132.5586395&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【IMG_3753】 by Kai_Yi</p>',
       location: {
         center: [132.5586395, 34.2431335],
         zoom: 14,
@@ -197,7 +197,7 @@ const config = {
       title: '清浄山光明寺',
       image: '',
       tweet_id: '',
-      description: '<p>3巻 P19  広島県尾道市 東土堂町2</p> <p><img alt="A walk in Onomichi" src="https://live.staticflickr.com/65535/51165725184_618de7f9b3_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.4081822&amp;lon=133.1978116&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【A walk in Onomichi】 by Blue Ridge Walker</p>',
+      description: '<p>3巻 P19  広島県尾道市 東土堂町2</p> <p><img alt="A walk in Onomichi" src="https://live.staticflickr.com/65535/51165182068_8b5b3cee34_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.4081822&amp;lon=133.1978116&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【A walk in Onomichi】 by Blue Ridge Walker</p>',
       location: {
         center: [133.1978116, 34.4081822],
         zoom: 14,
@@ -217,7 +217,7 @@ const config = {
       title: '頂上展望台',
       image: '',
       tweet_id: '',
-      description: '<p>3巻 P21  広島県尾道市 東土堂町20</p> <p><img alt="A walk in Onomichi" src="https://live.staticflickr.com/65535/51166044845_0d90c22d72_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.4106865&amp;lon=133.1969604&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【A walk in Onomichi】 by Blue Ridge Walker</p>',
+      description: '<p>3巻 P21  広島県尾道市 東土堂町20</p> <p><img alt="IMG_0550" src="https://live.staticflickr.com/65535/51119574347_c2b858132b_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.4106865&amp;lon=133.1969604&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【IMG_0550】 by bluegreen405</p>',
       location: {
         center: [133.1969604, 34.4106865],
         zoom: 14,
