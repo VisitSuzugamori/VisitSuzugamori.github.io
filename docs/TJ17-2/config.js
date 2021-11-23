@@ -37,7 +37,7 @@ const config = {
       title: '両子寺 仁王',
       image: '',
       tweet_id: '',
-      description: '<p>5巻 P104  大分県国東市 </p> <p><img alt="8008 Kunisaki-04.jpg" src="https://live.staticflickr.com/65535/48987862457_2e0f076ab0_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=33.5728799&amp;lon=131.6046218&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【8008 Kunisaki-04.jpg】 by Bruce Batten</p>',
+      description: '<p>5巻 P104  大分県国東市 </p> <p><img alt="Futago-ji" src="https://live.staticflickr.com/4221/34845424705_3bf9a0189c_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=33.5728799&amp;lon=131.6046218&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Futago-ji】 by seghal1</p>',
       location: {
         center: [131.6046218, 33.5728799],
         zoom: 14,
@@ -56,8 +56,8 @@ const config = {
       hidden: false,
       title: '両子寺',
       image: '',
-      tweet_id: '',
-      description: '<p>5巻 P105  大分県国東市 </p> <p><img alt="Futago-ji" src="https://live.staticflickr.com/4245/34806229896_68b7848b87_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=33.5740013&amp;lon=131.603241&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Futago-ji】 by seghal1</p>',
+      tweet_id: '1462249410977357830',
+      description: '<p>5巻 P105  大分県国東市 </p><div class="tweetContainer" id="tweet1462249410977357830"></div> ',
       location: {
         center: [131.603241, 33.5740013],
         zoom: 14,
@@ -77,7 +77,7 @@ const config = {
       title: 'USA（宇佐）神宮',
       image: '',
       tweet_id: '',
-      description: '<p>5巻 P108  大分県宇佐市 南宇佐2859</p> <p><img alt="IMG_8597" src="https://live.staticflickr.com/1801/43375991242_b5beb91773_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=33.5260019&amp;lon=131.3746381&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【IMG_8597】 by npso0211</p>',
+      description: '<p>5巻 P108  大分県宇佐市 南宇佐2859</p> <p><img alt="Usa-jingu" src="https://live.staticflickr.com/4276/34475254200_b0cf1da829_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=33.5260019&amp;lon=131.3746381&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Usa-jingu】 by seghal1</p>',
       location: {
         center: [131.3746381, 33.5260019],
         zoom: 14,

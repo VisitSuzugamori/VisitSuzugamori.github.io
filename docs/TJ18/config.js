@@ -377,7 +377,7 @@ const config = {
       title: 'なんだこれ？',
       image: '',
       tweet_id: '',
-      description: '<p>5巻 P145  東京都新宿区 西新宿二丁目9</p> <p><img alt="Atop" src="https://live.staticflickr.com/65535/51279592015_a30ca2b465_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.6886568&amp;lon=139.6915634&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Atop】 by desomnis</p>',
+      description: '<p>5巻 P145  東京都新宿区 西新宿二丁目9</p> <p><img alt="G7XII_IMG_1077" src="https://live.staticflickr.com/65535/51494724537_fd3f50445c_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.6886568&amp;lon=139.6915634&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【G7XII_IMG_1077】 by Peioserv</p>',
       location: {
         center: [139.6915634, 35.6886568],
         zoom: 14,
@@ -477,7 +477,7 @@ const config = {
       title: '杉並区立玉川上水公園',
       image: '',
       tweet_id: '',
-      description: '<p>5巻 P149  東京都杉並区 和泉二丁目8</p> <p><img alt="杉並区立玉川上水公園" src="https://live.staticflickr.com/65535/51205465635_de6f2786a0_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.6713219&amp;lon=139.651149&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【杉並区立玉川上水公園】 by いしだなおと</p>',
+      description: '<p>5巻 P149  東京都杉並区 和泉二丁目8</p> <p><img alt="和泉地蔵尊。お供えの鏡餅が家にあるのと同じだ。" src="https://live.staticflickr.com/65535/49321890268_fab387feb2_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.6713219&amp;lon=139.651149&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【和泉地蔵尊。お供えの鏡餅が家にあるのと同じだ。】 by cyberwonk</p>',
       location: {
         center: [139.651149, 35.6713219],
         zoom: 14,
