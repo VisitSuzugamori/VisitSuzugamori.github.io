@@ -157,7 +157,7 @@ const config = {
       title: '河鹿（かじか）',
       image: '',
       tweet_id: '',
-      description: '<p>1巻 P111  富山県黒部市 宇奈月温泉7</p> <p><img alt="宇奈月谷" src="https://live.staticflickr.com/65535/51115374896_6a86cfd680_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=36.8157762&amp;lon=137.5826756&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【宇奈月谷】 by yuki_alm_misa</p>',
+      description: '<p>1巻 P111  富山県黒部市 宇奈月温泉7</p> <p><img alt="IMG_9223" src="https://live.staticflickr.com/65535/51114243054_e0771ea0b8_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=36.8157762&amp;lon=137.5826756&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【IMG_9223】 by OOMYV</p>',
       location: {
         center: [137.5826756, 36.8157762],
         zoom: 14,
@@ -196,8 +196,8 @@ const config = {
       hidden: false,
       title: '宇奈月駅',
       image: '',
-      tweet_id: '1462403424746496002',
-      description: '<p>1巻 P116  富山県黒部市 黒部峡谷口9</p><div class="tweetContainer" id="tweet1462403424746496002"></div> ',
+      tweet_id: '1462765919067725830',
+      description: '<p>1巻 P116  富山県黒部市 黒部峡谷口9</p><div class="tweetContainer" id="tweet1462765919067725830"></div> ',
       location: {
         center: [137.5859364, 36.8150247],
         zoom: 14,

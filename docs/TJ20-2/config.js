@@ -36,8 +36,8 @@ const config = {
       hidden: false,
       title: '坂本龍馬像',
       image: '',
-      tweet_id: '1461874834187505667',
-      description: '<p>   高知県高知市 浦戸6</p><div class="tweetContainer" id="tweet1461874834187505667"></div> ',
+      tweet_id: '1463351713381769217',
+      description: '<p>   高知県高知市 浦戸6</p><div class="tweetContainer" id="tweet1463351713381769217"></div> ',
       location: {
         center: [133.5754821, 33.4986187],
         zoom: 14,
@@ -96,8 +96,8 @@ const config = {
       hidden: false,
       title: '高知駅',
       image: '',
-      tweet_id: '1462226587273728000',
-      description: '<p>   高知県高知市 栄田町二丁目1</p><div class="tweetContainer" id="tweet1462226587273728000"></div> ',
+      tweet_id: '1463295113661083650',
+      description: '<p>   高知県高知市 栄田町二丁目1</p><div class="tweetContainer" id="tweet1463295113661083650"></div> ',
       location: {
         center: [133.5436452, 33.5672271],
         zoom: 14,
