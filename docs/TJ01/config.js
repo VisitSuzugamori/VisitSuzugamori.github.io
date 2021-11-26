@@ -76,8 +76,8 @@ const config = {
       hidden: false,
       title: 'ラーメン二郎 会津若松駅前店',
       image: '',
-      tweet_id: '1460799258047647747',
-      description: '<p>1巻 P25  福島県会津若松市 駅前町6</p><div class="tweetContainer" id="tweet1460799258047647747"></div> ',
+      tweet_id: '1463068135892742146',
+      description: '<p>1巻 P25  福島県会津若松市 駅前町6</p><div class="tweetContainer" id="tweet1463068135892742146"></div> ',
       location: {
         center: [139.9314173, 37.5066266],
         zoom: 14,

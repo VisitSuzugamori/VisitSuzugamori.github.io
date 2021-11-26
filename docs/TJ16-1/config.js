@@ -177,7 +177,7 @@ const config = {
       title: '常陸太田市郷土資料館',
       image: '',
       tweet_id: '',
-      description: '<p>5巻 P14  茨城県常陸太田市 西二町2170</p> <p><img alt="Kujiragaoka" src="https://live.staticflickr.com/65535/49277527958_2259b5ea8b_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=36.5402389&amp;lon=140.5224722&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Kujiragaoka】 by ubic from tokyo</p>',
+      description: '<p>5巻 P14  茨城県常陸太田市 西二町2170</p> <p><img alt="iPhone 6 Plusで撮影" src="https://live.staticflickr.com/8843/28762753815_4ea80a9c05_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=36.5402389&amp;lon=140.5224722&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【iPhone 6 Plusで撮影】 by Tokutomi Masaki</p>',
       location: {
         center: [140.5224722, 36.5402389],
         zoom: 14,
@@ -197,7 +197,7 @@ const config = {
       title: '東通り商店街',
       image: '',
       tweet_id: '',
-      description: '<p>5巻 P14  茨城県常陸太田市 東一町2298</p> <p><img alt="Kujiragaoka" src="https://live.staticflickr.com/65535/49264007191_f670e42e4a_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=36.5407325&amp;lon=140.5231782&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Kujiragaoka】 by ubic from tokyo</p>',
+      description: '<p>5巻 P14  茨城県常陸太田市 東一町2298</p> <p><img alt="Kujiragaoka" src="https://live.staticflickr.com/65535/49278005281_68d5375921_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=36.5407325&amp;lon=140.5231782&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Kujiragaoka】 by ubic from tokyo</p>',
       location: {
         center: [140.5231782, 36.5407325],
         zoom: 14,
@@ -217,7 +217,7 @@ const config = {
       title: '黒澤輪業',
       image: '',
       tweet_id: '',
-      description: '<p>5巻 P14  茨城県常陸太田市 東一町2283</p> <p><img alt="Kujiragaoka" src="https://live.staticflickr.com/65535/49280957167_59ba13384b_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=36.541721&amp;lon=140.523689&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Kujiragaoka】 by ubic from tokyo</p>',
+      description: '<p>5巻 P14  茨城県常陸太田市 東一町2283</p> <p><img alt="iPhone 6 Plusで撮影" src="https://live.staticflickr.com/8424/28145230624_85b356f717_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=36.541721&amp;lon=140.523689&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【iPhone 6 Plusで撮影】 by Tokutomi Masaki</p>',
       location: {
         center: [140.523689, 36.541721],
         zoom: 14,
@@ -357,7 +357,7 @@ const config = {
       title: '釜平',
       image: '',
       tweet_id: '',
-      description: '<p>5巻 P29  茨城県常陸太田市 西三町2129</p> <p><img alt="Kujiragaoka" src="https://live.staticflickr.com/65535/49269051197_95d8f412fc_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=36.538385&amp;lon=140.523225&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Kujiragaoka】 by ubic from tokyo</p>',
+      description: '<p>5巻 P29  茨城県常陸太田市 西三町2129</p> <p><img alt="iPhone 6 Plusで撮影" src="https://live.staticflickr.com/8844/28685683591_9595b4c5b6_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=36.538385&amp;lon=140.523225&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【iPhone 6 Plusで撮影】 by Tokutomi Masaki</p>',
       location: {
         center: [140.523225, 36.538385],
         zoom: 14,
