@@ -46,6 +46,8 @@ class TwitterApi {
             new Map([
               ['search_recent', '2/tweets/search/recent'],
               ['search_full', ''],
+              ['retrieve_tweet', '2/tweets'],
+              ['labs_tweet', 'labs/2/tweets'],
             ]),
           ],
           [
@@ -53,6 +55,8 @@ class TwitterApi {
             new Map([
               ['search_recent', '2/tweets/search/recent'],
               ['search_full', '2/tweets/search/all'],
+              ['retrieve_tweet', '2/tweets'],
+              ['labs_tweet', 'labs/2/tweets'],
             ]),
           ],
         ]),
@@ -148,6 +152,24 @@ class TwitterApi {
     this.api_cache.set(cache_key, res_promise);
     const res = await res_promise;
     return res.body;
+  }
+
+  async getPollByTweetId(tweet_id) {
+    const api = this.getClient();
+    const endpoint = this.getEndpoint(2, this.product_track, 'retrieve_tweet');
+    console.log(endpoint, tweet_id);
+
+    const tweet = await api(
+      `${endpoint}/${tweet_id}`,
+      {
+        searchParams: {
+          expansions: 'attachments.poll_ids',
+          'poll.fields': 'id,options,voting_status,duration_minutes,end_datetime'
+        }
+      }).catch((e) => {
+        throw e;
+      });
+    return tweet.body;
   }
 
   setupParams(latlon, additional_keyword, search_type) {
