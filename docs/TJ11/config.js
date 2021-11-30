@@ -16,8 +16,8 @@ const config = {
       hidden: false,
       title: '串本駅',
       image: '',
-      tweet_id: '',
-      description: '<p>3巻 P57  和歌山県東牟婁郡 串本町 串本40</p> <p><img alt="whaling story for the south end of the Kii Peninsula" src="https://live.staticflickr.com/4852/44065931920_23a842dcbb_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=33.4755266&amp;lon=135.7816031&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【whaling story for the south end of the Kii Peninsula】 by anthroview</p>',
+      tweet_id: '1465287621744152587',
+      description: '<p>3巻 P57  和歌山県東牟婁郡 串本町 串本40</p><div class="tweetContainer" id="tweet1465287621744152587"></div> ',
       location: {
         center: [135.7816031, 33.4755266],
         zoom: 14,
@@ -57,7 +57,7 @@ const config = {
       title: 'この辺まで来たよ',
       image: '',
       tweet_id: '',
-      description: '<p>3巻 P61  和歌山県東牟婁郡 串本町 </p> <p><img alt="Pohled zpátky na pevninu" src="https://live.staticflickr.com/65535/51178871612_be0a4772d2_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=33.4378491&amp;lon=135.754685&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Pohled zpátky na pevninu】 by SocialHermit</p>',
+      description: '<p>3巻 P61  和歌山県東牟婁郡 串本町 </p> <p><img alt="V zajetí koníčku" src="https://live.staticflickr.com/65535/51180350109_7198a86e97_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=33.4378491&amp;lon=135.754685&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【V zajetí koníčku】 by SocialHermit</p>',
       location: {
         center: [135.754685, 33.4378491],
         zoom: 14,
@@ -77,7 +77,7 @@ const config = {
       title: '潮岬灯台',
       image: '',
       tweet_id: '',
-      description: '<p>3巻 P62  和歌山県東牟婁郡 串本町 </p> <p><img alt="V zajetí koníčku" src="https://live.staticflickr.com/65535/51180350109_7198a86e97_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=33.4375625&amp;lon=135.7544642&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【V zajetí koníčku】 by SocialHermit</p>',
+      description: '<p>3巻 P62  和歌山県東牟婁郡 串本町 </p> <p><img alt="Pohled zpátky na pevninu" src="https://live.staticflickr.com/65535/51178871612_be0a4772d2_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=33.4375625&amp;lon=135.7544642&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Pohled zpátky na pevninu】 by SocialHermit</p>',
       location: {
         center: [135.7544642, 33.4375625],
         zoom: 14,
@@ -96,8 +96,8 @@ const config = {
       hidden: false,
       title: '本州最南端の碑',
       image: '',
-      tweet_id: '1461958082045657092',
-      description: '<p>3巻 P64  和歌山県東牟婁郡 串本町 </p><div class="tweetContainer" id="tweet1461958082045657092"></div> ',
+      tweet_id: '1462983168189997061',
+      description: '<p>3巻 P64  和歌山県東牟婁郡 串本町 </p><div class="tweetContainer" id="tweet1462983168189997061"></div> ',
       location: {
         center: [135.7621203, 33.4362401],
         zoom: 14,
@@ -117,7 +117,7 @@ const config = {
       title: 'ビジネスホテル串本 駅前店',
       image: '',
       tweet_id: '',
-      description: '<p>3巻 P67  和歌山県東牟婁郡 串本町 串本40</p> <p><img alt="train station at Kushimoto shows major attractions" src="https://live.staticflickr.com/4869/32011139438_67c5371bdb_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=33.474975&amp;lon=135.782048&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【train station at Kushimoto shows major attractions】 by anthroview</p>',
+      description: '<p>3巻 P67  和歌山県東牟婁郡 串本町 串本40</p> <p><img alt="whaling story for the south end of the Kii Peninsula" src="https://live.staticflickr.com/4852/44065931920_23a842dcbb_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=33.474975&amp;lon=135.782048&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【whaling story for the south end of the Kii Peninsula】 by anthroview</p>',
       location: {
         center: [135.782048, 33.474975],
         zoom: 14,
@@ -157,7 +157,7 @@ const config = {
       title: '潮岬観光タワー',
       image: '',
       tweet_id: '',
-      description: '<p>3巻 P71  和歌山県東牟婁郡 串本町 </p> <p><img alt="潮岬 本州最南端 (8)" src="https://live.staticflickr.com/65535/50084564413_21ec1ddb6d_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=33.437806&amp;lon=135.7613677&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【潮岬 本州最南端 (8)】 by OOMYV</p>',
+      description: '<p>3巻 P71  和歌山県東牟婁郡 串本町 </p> <p><img alt="Milky way and Jupiter (3)" src="https://live.staticflickr.com/65535/50343782877_c69482ce8d_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=33.437806&amp;lon=135.7613677&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Milky way and Jupiter (3)】 by kuni4400</p>',
       location: {
         center: [135.7613677, 33.437806],
         zoom: 14,
@@ -176,8 +176,8 @@ const config = {
       hidden: false,
       title: '新宮駅',
       image: '',
-      tweet_id: '1462619117630930945',
-      description: '<p>3巻 P80  和歌山県新宮市 徐福一丁目3</p><div class="tweetContainer" id="tweet1462619117630930945"></div> ',
+      tweet_id: '1464849476695126022',
+      description: '<p>3巻 P80  和歌山県新宮市 徐福一丁目3</p><div class="tweetContainer" id="tweet1464849476695126022"></div> ',
       location: {
         center: [135.9941471, 33.7251509],
         zoom: 14,
@@ -236,8 +236,8 @@ const config = {
       hidden: false,
       title: '熊野本宮大社',
       image: '',
-      tweet_id: '1462026360990228480',
-      description: '<p>3巻 P82  和歌山県田辺市 本宮町本宮</p><div class="tweetContainer" id="tweet1462026360990228480"></div> ',
+      tweet_id: '1464434390168051716',
+      description: '<p>3巻 P82  和歌山県田辺市 本宮町本宮</p><div class="tweetContainer" id="tweet1464434390168051716"></div> ',
       location: {
         center: [135.7734753, 33.8405706],
         zoom: 14,
