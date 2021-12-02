@@ -1,5 +1,6 @@
 secret.json
 my_secret.json
+/cert/
 
 # Logs
 logs
