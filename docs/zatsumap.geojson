@@ -359,7 +359,7 @@
                 "type": "Point"
             },
             "properties": {
-                "description": "1巻P87 第3旅<br>1巻P126 第4旅<br>4巻P93 第14旅<br>4巻P119 第15旅<br>5巻P3 第16旅（前編）<br>5巻P60 第17旅（前編）<br>5巻P136 第18旅<br>第19旅（前編）<br>第19旅（後編）<br>出張版",
+                "description": "1巻P87 第3旅<br>1巻P126 第4旅<br>4巻P93 第14旅<br>4巻P119 第15旅<br>5巻P3 第16旅（前編）<br>5巻P60 第17旅（前編）<br>5巻P136 第18旅<br>第19旅（前編）<br>第19旅（後編）<br>出張版<br>第20旅（後編）",
                 "name": "東京駅"
             },
             "type": "Feature"
@@ -4533,6 +4533,34 @@
             "properties": {
                 "description": "第20旅（後編）",
                 "name": "旧魚梁瀬森林鉄道 法恩寺跨線橋"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    134.0193727,
+                    33.434948
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "第20旅（後編）",
+                "name": "う\"ぇい\"～\n"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    134.021034,
+                    33.4350865
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "第20旅（後編）",
+                "name": "旧魚梁瀬森林鉄道 立岡第二号桟道"
             },
             "type": "Feature"
         },
