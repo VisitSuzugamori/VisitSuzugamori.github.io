@@ -8,7 +8,7 @@ const config = {
   title: '第18旅 都内Ⅲ',
   subtitle: '【千代田区 港区 渋谷区 新宿区 杉並区 三鷹市】時にはあの番組のように',
   byline: 'VisitSuzugamori 〜ざつ旅を辿る〜',
-  footer: '<p class="navi"><a href="/">🔝各話一覧へ</a> <a href="https://github.com/VisitSuzugamori/VisitSuzugamori.github.io">💬contact</a></p><p>原作：<a href="https://www.kadokawa.co.jp/product/search/?sort=0&kw=%E3%81%96%E3%81%A4%E6%97%85">ざつ旅-That&#39;s Journey-</a> &copy; 石坂 ケンタ, KADOKAWA, 電撃マオウ / 地図・テンプレート：<a href="https://github.com/mapbox/storytelling">Mapbox</a> / 地図作成：VisitSuzugamori, <a href="https://twitter.com/isnot49662340">isnot</a>',
+  footer: '<p class="navi"><a href="/">🔝各話一覧へ</a> <a href="https://github.com/VisitSuzugamori/VisitSuzugamori.github.io">💬contact</a></p><p>原作：<a href="https://dengekimaoh.jp/series_info/zatsutabi/">ざつ旅-That&#39;s Journey-</a> &copy; 石坂 ケンタ, KADOKAWA, 電撃マオウ / 地図・テンプレート：<a href="https://github.com/mapbox/storytelling">Mapbox</a> / 地図作成：VisitSuzugamori, <a href="https://twitter.com/isnot49662340">isnot</a>',
   chapters: [
     {
       id: '5巻-P136-東京駅',
@@ -197,7 +197,7 @@ const config = {
       title: '国立国会図書館',
       image: '',
       tweet_id: '',
-      description: '<p>5巻 P141  東京都千代田区 永田町一丁目10</p> <p><img alt="20211009-1IMG5906" src="https://live.staticflickr.com/65535/51615584157_c744820440_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.6784667&amp;lon=139.7442197&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【20211009-1IMG5906】 by marcomaiji</p>',
+      description: '<p>5巻 P141  東京都千代田区 永田町一丁目10</p> <p><img alt="20211009-1IMG5904" src="https://live.staticflickr.com/65535/51611938152_3578b86460_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.6784667&amp;lon=139.7442197&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【20211009-1IMG5904】 by marcomaiji</p>',
       location: {
         center: [139.7442197, 35.6784667],
         zoom: 14,
@@ -317,7 +317,7 @@ const config = {
       title: '東京乗馬倶楽部',
       image: '',
       tweet_id: '',
-      description: '<p>5巻 P144  東京都渋谷区 代々木神園町4</p> <p><img alt="0C27328E-C680-4F6E-9A8A-C345D828E7C0" src="https://live.staticflickr.com/65535/51562784741_2085a6c884_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.6791113&amp;lon=139.694663&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【0C27328E-C680-4F6E-9A8A-C345D828E7C0】 by jimhhpc</p>',
+      description: '<p>5巻 P144  東京都渋谷区 代々木神園町4</p> <p><img alt="代々木ポニー公園 Yoyogi Pony Park" src="https://live.staticflickr.com/4911/32040151157_c7a6188e0b_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.6791113&amp;lon=139.694663&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【代々木ポニー公園 Yoyogi Pony Park】 by Spicio</p>',
       location: {
         center: [139.694663, 35.6791113],
         zoom: 14,
@@ -377,7 +377,7 @@ const config = {
       title: 'なんだこれ？',
       image: '',
       tweet_id: '',
-      description: '<p>5巻 P145  東京都新宿区 西新宿二丁目9</p> <p><img alt="G7XII_IMG_1077" src="https://live.staticflickr.com/65535/51494724537_fd3f50445c_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.6886568&amp;lon=139.6915634&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【G7XII_IMG_1077】 by Peioserv</p>',
+      description: '<p>5巻 P145  東京都新宿区 西新宿二丁目9</p> <p><img alt="Nishi-Sinjuku Skyscrapers" src="https://live.staticflickr.com/65535/51378040462_e9397fd4e8_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.6886568&amp;lon=139.6915634&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Nishi-Sinjuku Skyscrapers】 by Les Koppe Photography</p>',
       location: {
         center: [139.6915634, 35.6886568],
         zoom: 14,
@@ -437,7 +437,7 @@ const config = {
       title: '二軒家橋跡',
       image: '',
       tweet_id: '',
-      description: '<p>5巻 P147  東京都渋谷区 本町四丁目12</p> <p><img alt="村木橋跡" src="https://live.staticflickr.com/65535/51203683032_f758d003d8_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.6879053&amp;lon=139.6810693&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【村木橋跡】 by いしだなおと</p>',
+      description: '<p>5巻 P147  東京都渋谷区 本町四丁目12</p> <p><img alt="清水橋跡" src="https://live.staticflickr.com/65535/51204598608_4534d514d2_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.6879053&amp;lon=139.6810693&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【清水橋跡】 by いしだなおと</p>',
       location: {
         center: [139.6810693, 35.6879053],
         zoom: 14,
@@ -477,7 +477,7 @@ const config = {
       title: '杉並区立玉川上水公園',
       image: '',
       tweet_id: '',
-      description: '<p>5巻 P149  東京都杉並区 和泉二丁目8</p> <p><img alt="杉並区立玉川上水公園" src="https://live.staticflickr.com/65535/51205465635_de6f2786a0_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.6713219&amp;lon=139.651149&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【杉並区立玉川上水公園】 by いしだなおと</p>',
+      description: '<p>5巻 P149  東京都杉並区 和泉二丁目8</p> <p><img alt="甲州街道" src="https://live.staticflickr.com/65535/51156211159_fec50d3469_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.6713219&amp;lon=139.651149&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【甲州街道】 by Propangas</p>',
       location: {
         center: [139.651149, 35.6713219],
         zoom: 14,

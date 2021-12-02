@@ -8,7 +8,7 @@ const config = {
   title: '第14旅 奥多摩',
   subtitle: '【千代田区 立川市 青梅市 西多摩郡奥多摩町】ほんとうに都内',
   byline: 'VisitSuzugamori 〜ざつ旅を辿る〜',
-  footer: '<p class="navi"><a href="/">🔝各話一覧へ</a> <a href="https://github.com/VisitSuzugamori/VisitSuzugamori.github.io">💬contact</a></p><p>原作：<a href="https://www.kadokawa.co.jp/product/search/?sort=0&kw=%E3%81%96%E3%81%A4%E6%97%85">ざつ旅-That&#39;s Journey-</a> &copy; 石坂 ケンタ, KADOKAWA, 電撃マオウ / 地図・テンプレート：<a href="https://github.com/mapbox/storytelling">Mapbox</a> / 地図作成：VisitSuzugamori, <a href="https://twitter.com/isnot49662340">isnot</a>',
+  footer: '<p class="navi"><a href="/">🔝各話一覧へ</a> <a href="https://github.com/VisitSuzugamori/VisitSuzugamori.github.io">💬contact</a></p><p>原作：<a href="https://dengekimaoh.jp/series_info/zatsutabi/">ざつ旅-That&#39;s Journey-</a> &copy; 石坂 ケンタ, KADOKAWA, 電撃マオウ / 地図・テンプレート：<a href="https://github.com/mapbox/storytelling">Mapbox</a> / 地図作成：VisitSuzugamori, <a href="https://twitter.com/isnot49662340">isnot</a>',
   chapters: [
     {
       id: '4巻-P93-東京駅',
@@ -117,7 +117,7 @@ const config = {
       title: '数馬隧道',
       image: '',
       tweet_id: '',
-      description: '<p>4巻 P101  東京都西多摩郡 奥多摩町 白丸</p> <p><img alt="October 20, 2013 at 12:17PM" src="https://live.staticflickr.com/3718/10379393606_6b2f0d524e_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.8085032&amp;lon=139.1138905&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【October 20, 2013 at 12:17PM】 by Kimilee0317</p>',
+      description: '<p>4巻 P101  東京都西多摩郡 奥多摩町 白丸</p> <p><img alt="20100501-奥多摩" src="https://live.staticflickr.com/4033/4570063436_67b6a25b6a_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.8085032&amp;lon=139.1138905&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【20100501-奥多摩】 by takuhitofujita</p>',
       location: {
         center: [139.1138905, 35.8085032],
         zoom: 14,
@@ -197,7 +197,7 @@ const config = {
       title: '愛宕神社階段',
       image: '',
       tweet_id: '',
-      description: '<p>4巻 P107  東京都西多摩郡 奥多摩町 </p> <p><img alt="IMG_20201108_145530" src="https://live.staticflickr.com/65535/50579126647_616d09be0a_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.8048366&amp;lon=139.0974752&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【IMG_20201108_145530】 by tokotaha</p>',
+      description: '<p>4巻 P107  東京都西多摩郡 奥多摩町 </p> <p><img alt="K-1 20191123-0055" src="https://live.staticflickr.com/65535/49727175146_dcc056dc8e_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.8048366&amp;lon=139.0974752&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【K-1 20191123-0055】 by Rakurai70</p>',
       location: {
         center: [139.0974752, 35.8048366],
         zoom: 14,
@@ -277,7 +277,7 @@ const config = {
       title: '数馬の切通し',
       image: '',
       tweet_id: '',
-      description: '<p>4巻 P117  東京都西多摩郡 奥多摩町 白丸</p> <p><img alt="豪雨のあと。 天候回復した今のうちに帰る！" src="https://live.staticflickr.com/5527/9432185499_721f5d3aed_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.808468&amp;lon=139.1135257&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【豪雨のあと。 天候回復した今のうちに帰る！】 by mortardesign</p>',
+      description: '<p>4巻 P117  東京都西多摩郡 奥多摩町 白丸</p> <p><img alt="October 20, 2013 at 12:17PM" src="https://live.staticflickr.com/3718/10379393606_6b2f0d524e_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.808468&amp;lon=139.1135257&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【October 20, 2013 at 12:17PM】 by Kimilee0317</p>',
       location: {
         center: [139.1135257, 35.808468],
         zoom: 14,

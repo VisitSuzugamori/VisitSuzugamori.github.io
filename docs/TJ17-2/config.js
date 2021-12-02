@@ -8,7 +8,7 @@ const config = {
   title: '第17旅 九州後編',
   subtitle: '【中津市 国東市 宇佐市】おうちに着くまで気ーをつけよう',
   byline: 'VisitSuzugamori 〜ざつ旅を辿る〜',
-  footer: '<p class="navi"><a href="/">🔝各話一覧へ</a> <a href="https://github.com/VisitSuzugamori/VisitSuzugamori.github.io">💬contact</a></p><p>原作：<a href="https://www.kadokawa.co.jp/product/search/?sort=0&kw=%E3%81%96%E3%81%A4%E6%97%85">ざつ旅-That&#39;s Journey-</a> &copy; 石坂 ケンタ, KADOKAWA, 電撃マオウ / 地図・テンプレート：<a href="https://github.com/mapbox/storytelling">Mapbox</a> / 地図作成：VisitSuzugamori, <a href="https://twitter.com/isnot49662340">isnot</a>',
+  footer: '<p class="navi"><a href="/">🔝各話一覧へ</a> <a href="https://github.com/VisitSuzugamori/VisitSuzugamori.github.io">💬contact</a></p><p>原作：<a href="https://dengekimaoh.jp/series_info/zatsutabi/">ざつ旅-That&#39;s Journey-</a> &copy; 石坂 ケンタ, KADOKAWA, 電撃マオウ / 地図・テンプレート：<a href="https://github.com/mapbox/storytelling">Mapbox</a> / 地図作成：VisitSuzugamori, <a href="https://twitter.com/isnot49662340">isnot</a>',
   chapters: [
     {
       id: '5巻-P102-国道500号線',
@@ -37,7 +37,7 @@ const config = {
       title: '両子寺 仁王',
       image: '',
       tweet_id: '',
-      description: '<p>5巻 P104  大分県国東市 </p> <p><img alt="8008 Kunisaki-04.jpg" src="https://live.staticflickr.com/65535/48987862457_2e0f076ab0_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=33.5728799&amp;lon=131.6046218&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【8008 Kunisaki-04.jpg】 by Bruce Batten</p>',
+      description: '<p>5巻 P104  大分県国東市 </p> <p><img alt="8008 Kunisaki-04.jpg" src="https://live.staticflickr.com/1644/24428789365_2263e2e09b_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=33.5728799&amp;lon=131.6046218&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【8008 Kunisaki-04.jpg】 by Bruce Batten</p>',
       location: {
         center: [131.6046218, 33.5728799],
         zoom: 14,

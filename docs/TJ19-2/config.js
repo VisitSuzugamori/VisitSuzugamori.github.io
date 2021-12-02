@@ -8,7 +8,7 @@ const config = {
   title: '第19旅 群馬後編',
   subtitle: '【千代田区 北区 川口市 太田市 北群馬郡吉岡町 渋川市 利根郡みなかみ町】思い出して群馬',
   byline: 'VisitSuzugamori 〜ざつ旅を辿る〜',
-  footer: '<p class="navi"><a href="/">🔝各話一覧へ</a> <a href="https://github.com/VisitSuzugamori/VisitSuzugamori.github.io">💬contact</a></p><p>原作：<a href="https://www.kadokawa.co.jp/product/search/?sort=0&kw=%E3%81%96%E3%81%A4%E6%97%85">ざつ旅-That&#39;s Journey-</a> &copy; 石坂 ケンタ, KADOKAWA, 電撃マオウ / 地図・テンプレート：<a href="https://github.com/mapbox/storytelling">Mapbox</a> / 地図作成：VisitSuzugamori, <a href="https://twitter.com/isnot49662340">isnot</a>',
+  footer: '<p class="navi"><a href="/">🔝各話一覧へ</a> <a href="https://github.com/VisitSuzugamori/VisitSuzugamori.github.io">💬contact</a></p><p>原作：<a href="https://dengekimaoh.jp/series_info/zatsutabi/">ざつ旅-That&#39;s Journey-</a> &copy; 石坂 ケンタ, KADOKAWA, 電撃マオウ / 地図・テンプレート：<a href="https://github.com/mapbox/storytelling">Mapbox</a> / 地図作成：VisitSuzugamori, <a href="https://twitter.com/isnot49662340">isnot</a>',
   chapters: [
     {
       id: '--東京駅',
@@ -137,7 +137,7 @@ const config = {
       title: '渋川駅',
       image: '',
       tweet_id: '',
-      description: '<p>   群馬県渋川市 渋川1655</p> <p><img alt="IMG_20200627_145350" src="https://live.staticflickr.com/65535/50049162833_b75d15784a_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=36.4913217&amp;lon=139.0087977&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【IMG_20200627_145350】 by tokotaha</p>',
+      description: '<p>   群馬県渋川市 渋川1655</p> <p><img alt="IMG_20200627_145412" src="https://live.staticflickr.com/65535/50049163098_52e9903c6d_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=36.4913217&amp;lon=139.0087977&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【IMG_20200627_145412】 by tokotaha</p>',
       location: {
         center: [139.0087977, 36.4913217],
         zoom: 14,
@@ -177,7 +177,7 @@ const config = {
       title: '棚下不動の滝(雄滝)',
       image: '',
       tweet_id: '',
-      description: '<p>   群馬県渋川市 赤城町棚下</p> <p><img alt="Giant fallen rock" src="https://live.staticflickr.com/4113/4967178699_c4f5a5e1d1_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=36.5717451&amp;lon=139.0596769&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Giant fallen rock】 by Katakanadian</p>',
+      description: '<p>   群馬県渋川市 赤城町棚下</p> <p><img alt="26-P1000255" src="https://live.staticflickr.com/1680/26268843192_d153e671a6_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=36.5717451&amp;lon=139.0596769&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【26-P1000255】 by TZR6063</p>',
       location: {
         center: [139.0596769, 36.5717451],
         zoom: 14,
@@ -197,7 +197,7 @@ const config = {
       title: 'ばーちゃん再会の地',
       image: '',
       tweet_id: '',
-      description: '<p>   群馬県渋川市 上白井400</p> <p><img alt="0145 Upstream" src="https://live.staticflickr.com/3931/15340543459_63ec4cd00e_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=36.5749053&amp;lon=139.053134&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【0145 Upstream】 by mari-ten</p>',
+      description: '<p>   群馬県渋川市 上白井400</p> <p><img alt="18a1121" src="https://live.staticflickr.com/4665/27853362789_220ff1b401_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=36.5749053&amp;lon=139.053134&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【18a1121】 by kimagurenote</p>',
       location: {
         center: [139.053134, 36.5749053],
         zoom: 14,
@@ -257,7 +257,7 @@ const config = {
       title: '水上駅SL転車台広場',
       image: '',
       tweet_id: '',
-      description: '<p>   群馬県利根郡 みなかみ町 鹿野沢326</p> <p><img alt="18l3204" src="https://live.staticflickr.com/4717/24762554287_dedf56efed_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=36.7810089&amp;lon=138.9697672&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【18l3204】 by kimagurenote</p>',
+      description: '<p>   群馬県利根郡 みなかみ町 鹿野沢326</p> <p><img alt="D51 498" src="https://live.staticflickr.com/1778/44002571042_61b3fe9062_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=36.7810089&amp;lon=138.9697672&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【D51 498】 by FUGU-A</p>',
       location: {
         center: [138.9697672, 36.7810089],
         zoom: 14,
@@ -277,7 +277,7 @@ const config = {
       title: '足湯',
       image: '',
       tweet_id: '',
-      description: '<p>   群馬県利根郡 みなかみ町 小日向416</p> <p><img alt="DSC07798" src="https://live.staticflickr.com/65535/49681666418_50aa6e5f0f_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=36.7641343&amp;lon=138.968798&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【DSC07798】 by OOMYV</p>',
+      description: '<p>   群馬県利根郡 みなかみ町 小日向416</p> <p><img alt="DSC07770" src="https://live.staticflickr.com/65535/49682492822_67262b0264_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=36.7641343&amp;lon=138.968798&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【DSC07770】 by OOMYV</p>',
       location: {
         center: [138.968798, 36.7641343],
         zoom: 14,

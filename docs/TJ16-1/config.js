@@ -8,7 +8,7 @@ const config = {
   title: '第16旅 茨城前編',
   subtitle: '【千代田区 水戸市 常陸太田市 日立市】あたらしい旅',
   byline: 'VisitSuzugamori 〜ざつ旅を辿る〜',
-  footer: '<p class="navi"><a href="/">🔝各話一覧へ</a> <a href="https://github.com/VisitSuzugamori/VisitSuzugamori.github.io">💬contact</a></p><p>原作：<a href="https://www.kadokawa.co.jp/product/search/?sort=0&kw=%E3%81%96%E3%81%A4%E6%97%85">ざつ旅-That&#39;s Journey-</a> &copy; 石坂 ケンタ, KADOKAWA, 電撃マオウ / 地図・テンプレート：<a href="https://github.com/mapbox/storytelling">Mapbox</a> / 地図作成：VisitSuzugamori, <a href="https://twitter.com/isnot49662340">isnot</a>',
+  footer: '<p class="navi"><a href="/">🔝各話一覧へ</a> <a href="https://github.com/VisitSuzugamori/VisitSuzugamori.github.io">💬contact</a></p><p>原作：<a href="https://dengekimaoh.jp/series_info/zatsutabi/">ざつ旅-That&#39;s Journey-</a> &copy; 石坂 ケンタ, KADOKAWA, 電撃マオウ / 地図・テンプレート：<a href="https://github.com/mapbox/storytelling">Mapbox</a> / 地図作成：VisitSuzugamori, <a href="https://twitter.com/isnot49662340">isnot</a>',
   chapters: [
     {
       id: '5巻-P3-東京駅',
@@ -37,7 +37,7 @@ const config = {
       title: '偕楽園・常磐神社前',
       image: '',
       tweet_id: '',
-      description: '<p>5巻 P4  茨城県水戸市 常磐町二丁目8</p> <p><img alt="DSC00551" src="https://live.staticflickr.com/65535/47985089662_e8078cee37_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=36.3746839&amp;lon=140.4569096&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【DSC00551】 by shyueyi</p>',
+      description: '<p>5巻 P4  茨城県水戸市 常磐町二丁目8</p> <p><img alt="kairakuen" src="https://live.staticflickr.com/7871/46147455724_2993f8b2b1_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=36.3746839&amp;lon=140.4569096&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【kairakuen】 by lazy fri13th</p>',
       location: {
         center: [140.4569096, 36.3746839],
         zoom: 14,
@@ -217,7 +217,7 @@ const config = {
       title: '黒澤輪業',
       image: '',
       tweet_id: '',
-      description: '<p>5巻 P14  茨城県常陸太田市 東一町2283</p> <p><img alt="Kujiragaoka" src="https://live.staticflickr.com/65535/49277537553_f0c8909187_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=36.541721&amp;lon=140.523689&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Kujiragaoka】 by ubic from tokyo</p>',
+      description: '<p>5巻 P14  茨城県常陸太田市 東一町2283</p> <p><img alt="Kujiragaoka" src="https://live.staticflickr.com/65535/49280957167_59ba13384b_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=36.541721&amp;lon=140.523689&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Kujiragaoka】 by ubic from tokyo</p>',
       location: {
         center: [140.523689, 36.541721],
         zoom: 14,
@@ -357,7 +357,7 @@ const config = {
       title: '釜平',
       image: '',
       tweet_id: '',
-      description: '<p>5巻 P29  茨城県常陸太田市 西三町2129</p> <p><img alt="Kujiragaoka" src="https://live.staticflickr.com/65535/49278009171_ab772649e9_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=36.538385&amp;lon=140.523225&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Kujiragaoka】 by ubic from tokyo</p>',
+      description: '<p>5巻 P29  茨城県常陸太田市 西三町2129</p> <p><img alt="iPhone 6 Plusで撮影" src="https://live.staticflickr.com/8843/28762753815_4ea80a9c05_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=36.538385&amp;lon=140.523225&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【iPhone 6 Plusで撮影】 by Tokutomi Masaki</p>',
       location: {
         center: [140.523225, 36.538385],
         zoom: 14,

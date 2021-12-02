@@ -8,7 +8,7 @@ const config = {
   title: '第6旅 栃木',
   subtitle: '【宇都宮市 那須烏山市】カラスと龍と蕎麦の先',
   byline: 'VisitSuzugamori 〜ざつ旅を辿る〜',
-  footer: '<p class="navi"><a href="/">🔝各話一覧へ</a> <a href="https://github.com/VisitSuzugamori/VisitSuzugamori.github.io">💬contact</a></p><p>原作：<a href="https://www.kadokawa.co.jp/product/search/?sort=0&kw=%E3%81%96%E3%81%A4%E6%97%85">ざつ旅-That&#39;s Journey-</a> &copy; 石坂 ケンタ, KADOKAWA, 電撃マオウ / 地図・テンプレート：<a href="https://github.com/mapbox/storytelling">Mapbox</a> / 地図作成：VisitSuzugamori, <a href="https://twitter.com/isnot49662340">isnot</a>',
+  footer: '<p class="navi"><a href="/">🔝各話一覧へ</a> <a href="https://github.com/VisitSuzugamori/VisitSuzugamori.github.io">💬contact</a></p><p>原作：<a href="https://dengekimaoh.jp/series_info/zatsutabi/">ざつ旅-That&#39;s Journey-</a> &copy; 石坂 ケンタ, KADOKAWA, 電撃マオウ / 地図・テンプレート：<a href="https://github.com/mapbox/storytelling">Mapbox</a> / 地図作成：VisitSuzugamori, <a href="https://twitter.com/isnot49662340">isnot</a>',
   chapters: [
     {
       id: '2巻-P44-宇都宮駅',
@@ -77,7 +77,7 @@ const config = {
       title: '那須烏山市 龍門ふるさと民芸館',
       image: '',
       tweet_id: '',
-      description: '<p>2巻 P50  栃木県那須烏山市 滝20</p> <p><img alt="烏山線　大滝" src="https://live.staticflickr.com/5704/30669256966_2d717e9d3d_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=36.6455502&amp;lon=140.1389247&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【烏山線　大滝】 by O_Kazunori_</p>',
+      description: '<p>2巻 P50  栃木県那須烏山市 滝20</p> <p><img alt="龍門の滝" src="https://live.staticflickr.com/1787/42202655254_803d0b147f_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=36.6455502&amp;lon=140.1389247&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【龍門の滝】 by cyberwonk</p>',
       location: {
         center: [140.1389247, 36.6455502],
         zoom: 14,
@@ -177,7 +177,7 @@ const config = {
       title: '久穂田烏山駅前旅館',
       image: '',
       tweet_id: '',
-      description: '<p>2巻 P59  栃木県那須烏山市 金井二丁目21</p> <p><img alt="蓄電池電車(゜ロ゜)" src="https://live.staticflickr.com/5543/30683515341_efda522c1b_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=36.6509415&amp;lon=140.1539749&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【蓄電池電車(゜ロ゜)】 by fox_kawai</p>',
+      description: '<p>2巻 P59  栃木県那須烏山市 金井二丁目21</p> <p><img alt="いぃぶいいぃ～( ´∀｀)" src="https://live.staticflickr.com/3798/32769801943_d6fcc95e44_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=36.6509415&amp;lon=140.1539749&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【いぃぶいいぃ～( ´∀｀)】 by fox_kawai</p>',
       location: {
         center: [140.1539749, 36.6509415],
         zoom: 14,

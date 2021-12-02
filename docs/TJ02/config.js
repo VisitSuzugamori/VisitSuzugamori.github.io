@@ -8,7 +8,7 @@ const config = {
   title: '第2旅 松島',
   subtitle: '【仙台市青葉区 宮城郡松島町】伊達じゃない伊達',
   byline: 'VisitSuzugamori 〜ざつ旅を辿る〜',
-  footer: '<p class="navi"><a href="/">🔝各話一覧へ</a> <a href="https://github.com/VisitSuzugamori/VisitSuzugamori.github.io">💬contact</a></p><p>原作：<a href="https://www.kadokawa.co.jp/product/search/?sort=0&kw=%E3%81%96%E3%81%A4%E6%97%85">ざつ旅-That&#39;s Journey-</a> &copy; 石坂 ケンタ, KADOKAWA, 電撃マオウ / 地図・テンプレート：<a href="https://github.com/mapbox/storytelling">Mapbox</a> / 地図作成：VisitSuzugamori, <a href="https://twitter.com/isnot49662340">isnot</a>',
+  footer: '<p class="navi"><a href="/">🔝各話一覧へ</a> <a href="https://github.com/VisitSuzugamori/VisitSuzugamori.github.io">💬contact</a></p><p>原作：<a href="https://dengekimaoh.jp/series_info/zatsutabi/">ざつ旅-That&#39;s Journey-</a> &copy; 石坂 ケンタ, KADOKAWA, 電撃マオウ / 地図・テンプレート：<a href="https://github.com/mapbox/storytelling">Mapbox</a> / 地図作成：VisitSuzugamori, <a href="https://twitter.com/isnot49662340">isnot</a>',
   chapters: [
     {
       id: '1巻-P61-仙台駅',
@@ -57,7 +57,7 @@ const config = {
       title: 'かき松島 こうは「松島海岸駅前本店」１号店',
       image: '',
       tweet_id: '',
-      description: '<p>1巻 P63  宮城県宮城郡 松島町 松島字浪打浜</p> <p><img alt="松島海岸駅" src="https://live.staticflickr.com/65535/51221329540_858134a1a3_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=38.3685502&amp;lon=141.0593616&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【松島海岸駅】 by いしだなおと</p>',
+      description: '<p>1巻 P63  宮城県宮城郡 松島町 松島字浪打浜</p> <p><img alt="三陸海鮮料理 たからや食堂" src="https://live.staticflickr.com/65535/51209794152_bf793b4e29_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=38.3685502&amp;lon=141.0593616&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【三陸海鮮料理 たからや食堂】 by いしだなおと</p>',
       location: {
         center: [141.0593616, 38.3685502],
         zoom: 14,
@@ -77,7 +77,7 @@ const config = {
       title: '松島公園',
       image: '',
       tweet_id: '',
-      description: '<p>1巻 P64  宮城県宮城郡 松島町 松島字霞ケ浦</p> <p><img alt="雄島" src="https://live.staticflickr.com/65535/51221394425_a4814c5527_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=38.3661732&amp;lon=141.0611304&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【雄島】 by いしだなおと</p>',
+      description: '<p>1巻 P64  宮城県宮城郡 松島町 松島字霞ケ浦</p> <p><img alt="雄島" src="https://live.staticflickr.com/65535/49377984683_3193b5a9e2_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=38.3661732&amp;lon=141.0611304&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【雄島】 by ＧＫ</p>',
       location: {
         center: [141.0611304, 38.3661732],
         zoom: 14,
@@ -117,7 +117,7 @@ const config = {
       title: '御嶋真珠稲荷大明神',
       image: '',
       tweet_id: '',
-      description: '<p>1巻 P65  宮城県宮城郡 松島町 松島字霞ケ浦</p> <p><img alt="Roof, Matsushima, Japan" src="https://live.staticflickr.com/65535/51324410034_be18a392ea_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=38.3654838&amp;lon=141.0622564&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Roof, Matsushima, Japan】 by runslikethewind83</p>',
+      description: '<p>1巻 P65  宮城県宮城郡 松島町 松島字霞ケ浦</p> <p><img alt="雄島" src="https://live.staticflickr.com/65535/51221394425_a4814c5527_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=38.3654838&amp;lon=141.0622564&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【雄島】 by いしだなおと</p>',
       location: {
         center: [141.0622564, 38.3654838],
         zoom: 14,
@@ -137,7 +137,7 @@ const config = {
       title: '三陸海鮮料理 たからや食堂',
       image: '',
       tweet_id: '',
-      description: '<p>1巻 P69  宮城県宮城郡 松島町 松島字浪打浜</p> <p><img alt="三陸海鮮料理 たからや食堂" src="https://live.staticflickr.com/65535/51209794152_bf793b4e29_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=38.3685198&amp;lon=141.0595572&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【三陸海鮮料理 たからや食堂】 by いしだなおと</p>',
+      description: '<p>1巻 P69  宮城県宮城郡 松島町 松島字浪打浜</p> <p><img alt="松島海岸駅" src="https://live.staticflickr.com/65535/51221329540_858134a1a3_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=38.3685198&amp;lon=141.0595572&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【松島海岸駅】 by いしだなおと</p>',
       location: {
         center: [141.0595572, 38.3685198],
         zoom: 14,
@@ -237,7 +237,7 @@ const config = {
       title: '松島さかな市場',
       image: '',
       tweet_id: '',
-      description: '<p>1巻 P81  宮城県宮城郡 松島町 松島字普賢堂</p> <p><img alt="松島さかな市場" src="https://live.staticflickr.com/65535/51211268914_03d30f6ae5_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=38.3719519&amp;lon=141.0651719&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【松島さかな市場】 by いしだなおと</p>',
+      description: '<p>1巻 P81  宮城県宮城郡 松島町 松島字普賢堂</p> <p><img alt="松島魚市場" src="https://live.staticflickr.com/65535/49378274421_b336fe0105_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=38.3719519&amp;lon=141.0651719&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【松島魚市場】 by ＧＫ</p>',
       location: {
         center: [141.0651719, 38.3719519],
         zoom: 14,

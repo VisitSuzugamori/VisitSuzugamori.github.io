@@ -8,7 +8,7 @@ const config = {
   title: '第1旅 会津若松',
   subtitle: '【郡山市 会津若松市】はじめの1225段',
   byline: 'VisitSuzugamori 〜ざつ旅を辿る〜',
-  footer: '<p class="navi"><a href="/">🔝各話一覧へ</a> <a href="https://github.com/VisitSuzugamori/VisitSuzugamori.github.io">💬contact</a></p><p>原作：<a href="https://www.kadokawa.co.jp/product/search/?sort=0&kw=%E3%81%96%E3%81%A4%E6%97%85">ざつ旅-That&#39;s Journey-</a> &copy; 石坂 ケンタ, KADOKAWA, 電撃マオウ / 地図・テンプレート：<a href="https://github.com/mapbox/storytelling">Mapbox</a> / 地図作成：VisitSuzugamori, <a href="https://twitter.com/isnot49662340">isnot</a>',
+  footer: '<p class="navi"><a href="/">🔝各話一覧へ</a> <a href="https://github.com/VisitSuzugamori/VisitSuzugamori.github.io">💬contact</a></p><p>原作：<a href="https://dengekimaoh.jp/series_info/zatsutabi/">ざつ旅-That&#39;s Journey-</a> &copy; 石坂 ケンタ, KADOKAWA, 電撃マオウ / 地図・テンプレート：<a href="https://github.com/mapbox/storytelling">Mapbox</a> / 地図作成：VisitSuzugamori, <a href="https://twitter.com/isnot49662340">isnot</a>',
   chapters: [
     {
       id: '1巻-P22-郡山駅',
@@ -37,7 +37,7 @@ const config = {
       title: '磐梯熱海駅',
       image: '',
       tweet_id: '',
-      description: '<p>1巻 P23  福島県郡山市 熱海町熱海一丁目109</p> <p><img alt="最後に追加した項目-290" src="https://live.staticflickr.com/4555/38802988612_c95236e468_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=37.4808961&amp;lon=140.2708687&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【最後に追加した項目-290】 by Ken-sasuke</p>',
+      description: '<p>1巻 P23  福島県郡山市 熱海町熱海一丁目109</p> <p><img alt="Trip! to 会津若松. 列車の旅" src="https://live.staticflickr.com/8021/7566916846_1f5fda559d_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=37.4808961&amp;lon=140.2708687&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Trip! to 会津若松. 列車の旅】 by makisato</p>',
       location: {
         center: [140.2708687, 37.4808961],
         zoom: 14,
@@ -137,7 +137,7 @@ const config = {
       title: 'くつろぎ宿 千代滝',
       image: '',
       tweet_id: '',
-      description: '<p>1巻 P30  福島県会津若松市 東山町湯本寺屋敷19</p> <p><img alt="DSC_3197n" src="https://live.staticflickr.com/1772/43123239764_e3014c779f_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=37.4793359&amp;lon=139.9623918&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【DSC_3197n】 by josemanueldiz</p>',
+      description: '<p>1巻 P30  福島県会津若松市 東山町湯本寺屋敷19</p> <p><img alt="IMGP3722" src="https://live.staticflickr.com/4874/44274624730_2d8095c7a6_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=37.4793359&amp;lon=139.9623918&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【IMGP3722】 by k_natsumoto</p>',
       location: {
         center: [139.9623918, 37.4793359],
         zoom: 14,
@@ -157,7 +157,7 @@ const config = {
       title: '射的場',
       image: '',
       tweet_id: '',
-      description: '<p>1巻 P40  福島県会津若松市 東山町湯本居平122</p> <p><img alt="" src="https://live.staticflickr.com/4818/46109236232_24119b28d9_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=37.4781468&amp;lon=139.9632406&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【】 by Straylight66</p>',
+      description: '<p>1巻 P40  福島県会津若松市 東山町湯本居平122</p> <p><img alt="IMGP3715" src="https://live.staticflickr.com/4890/46090968901_5e8575fa87_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=37.4781468&amp;lon=139.9632406&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【IMGP3715】 by k_natsumoto</p>',
       location: {
         center: [139.9632406, 37.4781468],
         zoom: 14,
@@ -177,7 +177,7 @@ const config = {
       title: '会津東山温泉 向瀧',
       image: '',
       tweet_id: '',
-      description: '<p>1巻 P40  福島県会津若松市 東山町湯本居平41</p> <p><img alt="IMGP3722" src="https://live.staticflickr.com/4874/44274624730_2d8095c7a6_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=37.478055&amp;lon=139.9610889&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【IMGP3722】 by k_natsumoto</p>',
+      description: '<p>1巻 P40  福島県会津若松市 東山町湯本居平41</p> <p><img alt="IMGP3716" src="https://live.staticflickr.com/4803/31152003897_11abafdeff_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=37.478055&amp;lon=139.9610889&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【IMGP3716】 by k_natsumoto</p>',
       location: {
         center: [139.9610889, 37.478055],
         zoom: 14,

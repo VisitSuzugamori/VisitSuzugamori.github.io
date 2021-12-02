@@ -8,7 +8,7 @@ const config = {
   title: '第15旅 都内',
   subtitle: '【千代田区 中央区 江東区】それでも繋がってる',
   byline: 'VisitSuzugamori 〜ざつ旅を辿る〜',
-  footer: '<p class="navi"><a href="/">🔝各話一覧へ</a> <a href="https://github.com/VisitSuzugamori/VisitSuzugamori.github.io">💬contact</a></p><p>原作：<a href="https://www.kadokawa.co.jp/product/search/?sort=0&kw=%E3%81%96%E3%81%A4%E6%97%85">ざつ旅-That&#39;s Journey-</a> &copy; 石坂 ケンタ, KADOKAWA, 電撃マオウ / 地図・テンプレート：<a href="https://github.com/mapbox/storytelling">Mapbox</a> / 地図作成：VisitSuzugamori, <a href="https://twitter.com/isnot49662340">isnot</a>',
+  footer: '<p class="navi"><a href="/">🔝各話一覧へ</a> <a href="https://github.com/VisitSuzugamori/VisitSuzugamori.github.io">💬contact</a></p><p>原作：<a href="https://dengekimaoh.jp/series_info/zatsutabi/">ざつ旅-That&#39;s Journey-</a> &copy; 石坂 ケンタ, KADOKAWA, 電撃マオウ / 地図・テンプレート：<a href="https://github.com/mapbox/storytelling">Mapbox</a> / 地図作成：VisitSuzugamori, <a href="https://twitter.com/isnot49662340">isnot</a>',
   chapters: [
     {
       id: '4巻-P119-東京駅',
@@ -37,7 +37,7 @@ const config = {
       title: 'アーバンゲートブリッジ',
       image: '',
       tweet_id: '',
-      description: '<p>4巻 P121  </p> <p><img alt="豊洲ララポつけ麺。TETSUなくなっててショック" src="https://live.staticflickr.com/65535/50400039346_431b69bbb6_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.6548755&amp;lon=139.7911163&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【豊洲ララポつけ麺。TETSUなくなっててショック】 by Norisa1</p>',
+      description: '<p>4巻 P121  </p> <p><img alt="なんか、色々とコロナ対策@ららぽーと豊洲" src="https://live.staticflickr.com/65535/50400246947_ac038c1436_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.6548755&amp;lon=139.7911163&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【なんか、色々とコロナ対策@ららぽーと豊洲】 by Norisa1</p>',
       location: {
         center: [139.7911163, 35.6548755],
         zoom: 14,
@@ -157,7 +157,7 @@ const config = {
       title: '月島西仲通り商店街',
       image: '',
       tweet_id: '',
-      description: '<p>4巻 P126  東京都中央区 月島三丁目27</p> <p><img alt="Hamamae suimon - Staudamm" src="https://live.staticflickr.com/65535/46617528394_6f97b4e616_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.6616846&amp;lon=139.7787896&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Hamamae suimon - Staudamm】 by Raychan87</p>',
+      description: '<p>4巻 P126  東京都中央区 月島三丁目27</p> <p><img alt="Tsukishima Water Gate and Houseboats" src="https://live.staticflickr.com/65535/51449732187_cd43db88aa_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.6616846&amp;lon=139.7787896&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Tsukishima Water Gate and Houseboats】 by LukSkywalkr</p>',
       location: {
         center: [139.7787896, 35.6616846],
         zoom: 14,
@@ -357,7 +357,7 @@ const config = {
       title: '国際展示場駅',
       image: '',
       tweet_id: '',
-      description: '<p>4巻 P134  東京都江東区 有明三丁目7</p> <p><img alt="" src="https://live.staticflickr.com/65535/51008207047_feb5af4ab6_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.6344346&amp;lon=139.7916499&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【】 by Masato K.</p>',
+      description: '<p>4巻 P134  東京都江東区 有明三丁目7</p> <p><img alt="20190605-20190605_205038" src="https://live.staticflickr.com/65535/48680393656_44b2c8ebfc_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.6344346&amp;lon=139.7916499&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【20190605-20190605_205038】 by Scaredy Sleepy Kitty</p>',
       location: {
         center: [139.7916499, 35.6344346],
         zoom: 14,
@@ -397,7 +397,7 @@ const config = {
       title: '新木場緑道公園',
       image: '',
       tweet_id: '',
-      description: '<p>4巻 P135  東京都江東区 新木場四丁目4</p> <p><img alt="東京メトロ 6000系, 東京メトロ 7000系_00001" src="https://live.staticflickr.com/65535/49682497042_ffbce2f7ed_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.6405733&amp;lon=139.8405881&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【東京メトロ 6000系, 東京メトロ 7000系_00001】 by OOMYV</p>',
+      description: '<p>4巻 P135  東京都江東区 新木場四丁目4</p> <p><img alt="2016" src="https://live.staticflickr.com/5635/23466286023_99e0a6fe19_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.6405733&amp;lon=139.8405881&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【2016】 by Youji Ishiwatari</p>',
       location: {
         center: [139.8405881, 35.6405733],
         zoom: 14,
@@ -417,7 +417,7 @@ const config = {
       title: '南極観測船『宗谷』',
       image: '',
       tweet_id: '',
-      description: '<p>4巻 P136  </p> <p><img alt="051013 Odaiba-03.jpg" src="https://live.staticflickr.com/65535/51398900508_297e4a631c_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.6191097&amp;lon=139.7738425&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【051013 Odaiba-03.jpg】 by Bruce Batten</p>',
+      description: '<p>4巻 P136  </p> <p><img alt="JCG Patrol Craft &quot;Yurikaze&quot; CL183, &quot;Nachikaze&quot; CL54" src="https://live.staticflickr.com/65535/51425788804_4859ac2e71_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.6191097&amp;lon=139.7738425&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【JCG Patrol Craft &quot;Yurikaze&quot; CL183, &quot;Nachikaze&quot; CL54】 by Takk D. Martin</p>',
       location: {
         center: [139.7738425, 35.6191097],
         zoom: 14,
