@@ -32,6 +32,7 @@
     "verbose": true
   },
   "devDependencies": {
+    "connect": "^3.7.0",
     "eslint": "^8.3.0",
     "eslint-config-airbnb-base": "^15.0.0",
     "eslint-config-prettier": "^8.3.0",
@@ -42,7 +43,9 @@
     "eslint-plugin-node": "^11.1.0",
     "eslint-plugin-prettier": "^4.0.0",
     "jest": "^27.4.0",
-    "prettier": "^2.5.0"
+    "morgan": "^1.10.0",
+    "prettier": "^2.5.0",
+    "serve-static": "^1.14.1"
   },
   "dependencies": {
     "@mapbox/mapbox-sdk": "^0.13.2",
