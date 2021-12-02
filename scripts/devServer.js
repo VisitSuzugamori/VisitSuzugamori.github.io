@@ -9,7 +9,7 @@ const options = {
   key: fs.readFileSync('./cert/server.key'),
 };
 
-const app = connect().use(logger('dev')).use(serveStatic('../docs/'));
+const app = connect().use(logger('dev')).use(serveStatic('./docs/'));
 
 https.createServer(options, app).listen(3000);
 console.log('start serv');
