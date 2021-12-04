@@ -36,8 +36,8 @@ const config = {
       hidden: false,
       title: '御岩神社',
       image: '',
-      tweet_id: '',
-      description: '<p>5巻 P36  茨城県日立市 </p> <p><img alt="Niigata/Ibaraki &#39;16 #19" src="https://live.staticflickr.com/8200/28815102074_b6a5c91bb1_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=36.6360807&amp;lon=140.5855581&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Niigata/Ibaraki &#39;16 #19】 by tt64jp</p>',
+      tweet_id: '1467129989615480834',
+      description: '<p>5巻 P36  茨城県日立市 </p><div class="tweetContainer" id="tweet1467129989615480834"></div> ',
       location: {
         center: [140.5855581, 36.6360807],
         zoom: 14,
