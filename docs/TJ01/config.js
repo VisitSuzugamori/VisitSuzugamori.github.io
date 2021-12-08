@@ -56,8 +56,8 @@ const config = {
       hidden: false,
       title: '会津若松駅',
       image: '',
-      tweet_id: '1467119542619058182',
-      description: '<p>1巻 P24  福島県会津若松市 駅前町1</p><div class="tweetContainer" id="tweet1467119542619058182"></div> ',
+      tweet_id: '1467374356644958209',
+      description: '<p>1巻 P24  福島県会津若松市 駅前町1</p><div class="tweetContainer" id="tweet1467374356644958209"></div> ',
       location: {
         center: [139.9303261, 37.5078657],
         zoom: 14,
@@ -157,7 +157,7 @@ const config = {
       title: '射的場',
       image: '',
       tweet_id: '',
-      description: '<p>1巻 P40  福島県会津若松市 東山町湯本居平122</p> <p><img alt="" src="https://live.staticflickr.com/4916/45191414395_f29a825038_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=37.4781468&amp;lon=139.9632406&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【】 by Straylight66</p>',
+      description: '<p>1巻 P40  福島県会津若松市 東山町湯本居平122</p> <p><img alt="" src="https://live.staticflickr.com/4818/46109236232_24119b28d9_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=37.4781468&amp;lon=139.9632406&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【】 by Straylight66</p>',
       location: {
         center: [139.9632406, 37.4781468],
         zoom: 14,

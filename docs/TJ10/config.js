@@ -57,7 +57,7 @@ const config = {
       title: '八甲田 山頂公園',
       image: '',
       tweet_id: '',
-      description: '<p>3巻 P34  青森県青森市 </p> <p><img alt="PXL_20210501_030318803.PANO" src="https://live.staticflickr.com/65535/51156582327_0bb8865803_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=40.6757743&amp;lon=140.8592116&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【PXL_20210501_030318803.PANO】 by Masosan</p>',
+      description: '<p>3巻 P34  青森県青森市 </p> <p><img alt="PXL_20210501_025949333" src="https://live.staticflickr.com/65535/51158354220_063f1987ef_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=40.6757743&amp;lon=140.8592116&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【PXL_20210501_025949333】 by Masosan</p>',
       location: {
         center: [140.8592116, 40.6757743],
         zoom: 14,
@@ -157,7 +157,7 @@ const config = {
       title: '宇曽利山湖 極楽浜',
       image: '',
       tweet_id: '',
-      description: '<p>3巻 P51  青森県むつ市 </p> <p><img alt="恐山" src="https://live.staticflickr.com/65535/50327664441_0856db8fa1_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=41.3264966&amp;lon=141.086011&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【恐山】 by himeti</p>',
+      description: '<p>3巻 P51  青森県むつ市 </p> <p><img alt="722" src="https://live.staticflickr.com/7627/26653585470_7d29c11052_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=41.3264966&amp;lon=141.086011&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【722】 by hyuhyu6748usver</p>',
       location: {
         center: [141.086011, 41.3264966],
         zoom: 14,
