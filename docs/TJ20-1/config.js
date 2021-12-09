@@ -156,8 +156,8 @@ const config = {
       hidden: false,
       title: 'はりまや橋',
       image: '',
-      tweet_id: '1466332751594852355',
-      description: '<p>   高知県高知市 はりまや町一丁目1</p><div class="tweetContainer" id="tweet1466332751594852355"></div> ',
+      tweet_id: '1468400797772021760',
+      description: '<p>   高知県高知市 はりまや町一丁目1</p><div class="tweetContainer" id="tweet1468400797772021760"></div> ',
       location: {
         center: [133.5426569, 33.5599438],
         zoom: 14,
