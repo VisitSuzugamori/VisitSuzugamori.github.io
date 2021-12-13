@@ -37,7 +37,7 @@ const config = {
       title: '鈴鹿市漁業協同組合直販所 魚魚鈴(ととりん)',
       image: '',
       tweet_id: '',
-      description: '<p>2巻 P99  三重県鈴鹿市 白子一丁目6277</p> <p><img alt="白子漁港" src="https://live.staticflickr.com/5672/30207698280_03668ae265_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.8277194&amp;lon=136.5919642&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【白子漁港】 by Shigelli</p>',
+      description: '<p>2巻 P99  三重県鈴鹿市 白子一丁目6277</p> <p><img alt="台風の後の白子の浜" src="https://live.staticflickr.com/5330/9771733422_44b9d5c711_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.8277194&amp;lon=136.5919642&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【台風の後の白子の浜】 by Shigelli</p>',
       location: {
         center: [136.5919642, 34.8277194],
         zoom: 14,
@@ -56,8 +56,8 @@ const config = {
       hidden: false,
       title: '伊勢市駅',
       image: '',
-      tweet_id: '1466987625437347840',
-      description: '<p>2巻 P100  三重県伊勢市 吹上一丁目1</p><div class="tweetContainer" id="tweet1466987625437347840"></div> ',
+      tweet_id: '1470261967571111937',
+      description: '<p>2巻 P100  三重県伊勢市 吹上一丁目1</p><div class="tweetContainer" id="tweet1470261967571111937"></div> ',
       location: {
         center: [136.7097004, 34.4910554],
         zoom: 14,
@@ -116,8 +116,8 @@ const config = {
       hidden: false,
       title: '伊勢神宮 外宮',
       image: '',
-      tweet_id: '1466982703480324096',
-      description: '<p>2巻 P106  三重県伊勢市 本町16</p><div class="tweetContainer" id="tweet1466982703480324096"></div> ',
+      tweet_id: '1467702176214818816',
+      description: '<p>2巻 P106  三重県伊勢市 本町16</p><div class="tweetContainer" id="tweet1467702176214818816"></div> ',
       location: {
         center: [136.7029233, 34.4871537],
         zoom: 14,
@@ -136,8 +136,8 @@ const config = {
       hidden: false,
       title: '伊勢神宮',
       image: '',
-      tweet_id: '1465630600451166209',
-      description: '<p>2巻 P108  三重県伊勢市 宇治館町98</p><div class="tweetContainer" id="tweet1465630600451166209"></div> ',
+      tweet_id: '1469552054163357696',
+      description: '<p>2巻 P108  三重県伊勢市 宇治館町98</p><div class="tweetContainer" id="tweet1469552054163357696"></div> ',
       location: {
         center: [136.725793, 34.45501],
         zoom: 14,
@@ -176,8 +176,8 @@ const config = {
       hidden: false,
       title: '鳥羽駅',
       image: '',
-      tweet_id: '1466978321057869825',
-      description: '<p>2巻 P111  三重県鳥羽市 鳥羽一丁目8</p><div class="tweetContainer" id="tweet1466978321057869825"></div> ',
+      tweet_id: '1470280242107457537',
+      description: '<p>2巻 P111  三重県鳥羽市 鳥羽一丁目8</p><div class="tweetContainer" id="tweet1470280242107457537"></div> ',
       location: {
         center: [136.8431256, 34.4867665],
         zoom: 14,
@@ -217,7 +217,7 @@ const config = {
       title: '海月',
       image: '',
       tweet_id: '',
-      description: '<p>2巻 P111  三重県鳥羽市 鳥羽一丁目6</p> <p><img alt="IMG_0153" src="https://live.staticflickr.com/4813/47025883411_c9260089dc_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.4847431&amp;lon=136.8439619&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【IMG_0153】 by masa.nagano</p>',
+      description: '<p>2巻 P111  三重県鳥羽市 鳥羽一丁目6</p> <p><img alt="DSCF3455" src="https://live.staticflickr.com/2819/32508478073_fe9af51ffe_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.4847431&amp;lon=136.8439619&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【DSCF3455】 by chenpingi</p>',
       location: {
         center: [136.8439619, 34.4847431],
         zoom: 14,
