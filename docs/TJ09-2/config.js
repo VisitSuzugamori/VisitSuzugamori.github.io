@@ -136,8 +136,8 @@ const config = {
       hidden: false,
       title: '大和ミュージアム（呉市海事歴史科学館）',
       image: '',
-      tweet_id: '1467388009825906690',
-      description: '<p>3巻 P15  広島県呉市 宝町4</p><div class="tweetContainer" id="tweet1467388009825906690"></div> ',
+      tweet_id: '1470603528443994112',
+      description: '<p>3巻 P15  広島県呉市 宝町4</p><div class="tweetContainer" id="tweet1470603528443994112"></div> ',
       location: {
         center: [132.5558555, 34.2411391],
         zoom: 14,
@@ -236,8 +236,8 @@ const config = {
       hidden: false,
       title: '尾道ラーメン日乃出食堂',
       image: '',
-      tweet_id: '1467413323343962114',
-      description: '<p>3巻 P25  広島県尾道市 土堂一丁目11</p><div class="tweetContainer" id="tweet1467413323343962114"></div> ',
+      tweet_id: '',
+      description: '<p>3巻 P25  広島県尾道市 土堂一丁目11</p> <p><img alt="" src="https://live.staticflickr.com/65535/51588739325_683f61521b_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.4058259&amp;lon=133.1960287&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【】 by mkuratani2009</p>',
       location: {
         center: [133.1960287, 34.4058259],
         zoom: 14,

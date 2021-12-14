@@ -137,7 +137,7 @@ const config = {
       title: 'マルカン百貨店',
       image: '',
       tweet_id: '',
-      description: '<p>3巻 P101  岩手県花巻市 上町6</p> <p><img alt="iwate_20180308104442" src="https://live.staticflickr.com/941/43657100852_6b19ac31f3_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=39.3858944&amp;lon=141.1171042&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【iwate_20180308104442】 by inunami</p>',
+      description: '<p>3巻 P101  岩手県花巻市 上町6</p> <p><img alt="iwate_20180308110616" src="https://live.staticflickr.com/936/29833720138_6147cf5771_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=39.3858944&amp;lon=141.1171042&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【iwate_20180308110616】 by inunami</p>',
       location: {
         center: [141.1171042, 39.3858944],
         zoom: 14,
@@ -157,7 +157,7 @@ const config = {
       title: 'マルカンビル大食堂',
       image: '',
       tweet_id: '',
-      description: '<p>3巻 P101  岩手県花巻市 上町6</p> <p><img alt="iwate_20180308110616" src="https://live.staticflickr.com/936/29833720138_6147cf5771_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=39.385832&amp;lon=141.11711&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【iwate_20180308110616】 by inunami</p>',
+      description: '<p>3巻 P101  岩手県花巻市 上町6</p> <p><img alt="iwate_20180308104442" src="https://live.staticflickr.com/941/43657100852_6b19ac31f3_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=39.385832&amp;lon=141.11711&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【iwate_20180308104442】 by inunami</p>',
       location: {
         center: [141.11711, 39.385832],
         zoom: 14,
@@ -276,8 +276,8 @@ const config = {
       hidden: false,
       title: '中尊寺',
       image: '',
-      tweet_id: '1467298476572946438',
-      description: '<p>3巻 P118  岩手県西磐井郡 平泉町 平泉43</p><div class="tweetContainer" id="tweet1467298476572946438"></div> ',
+      tweet_id: '',
+      description: '<p>3巻 P118  岩手県西磐井郡 平泉町 平泉43</p> <p><img alt="20191112-DSC06090-1424DN" src="https://live.staticflickr.com/65535/49362088928_baa62da01f_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=39.0017355&amp;lon=141.102596&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【20191112-DSC06090-1424DN】 by Noelas</p>',
       location: {
         center: [141.102596, 39.0017355],
         zoom: 14,
