@@ -236,8 +236,8 @@ const config = {
       hidden: false,
       title: '水上駅',
       image: '',
-      tweet_id: '1467863094856937475',
-      description: '<p>   群馬県利根郡 みなかみ町 鹿野沢70</p><div class="tweetContainer" id="tweet1467863094856937475"></div> ',
+      tweet_id: '',
+      description: '<p>   群馬県利根郡 みなかみ町 鹿野沢70</p> <p><img alt="" src="https://live.staticflickr.com/65535/50754582416_f92d86f205_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=36.778636&amp;lon=138.9688398&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【】 by KYOEIMARU</p>',
       location: {
         center: [138.9688398, 36.778636],
         zoom: 14,
@@ -257,7 +257,7 @@ const config = {
       title: '水上駅SL転車台広場',
       image: '',
       tweet_id: '',
-      description: '<p>   群馬県利根郡 みなかみ町 鹿野沢326</p> <p><img alt="18l3204" src="https://live.staticflickr.com/4717/24762554287_dedf56efed_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=36.7810089&amp;lon=138.9697672&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【18l3204】 by kimagurenote</p>',
+      description: '<p>   群馬県利根郡 みなかみ町 鹿野沢326</p> <p><img alt="D51 498" src="https://live.staticflickr.com/1778/44002571042_61b3fe9062_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=36.7810089&amp;lon=138.9697672&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【D51 498】 by FUGU-A</p>',
       location: {
         center: [138.9697672, 36.7810089],
         zoom: 14,

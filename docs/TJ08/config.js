@@ -77,7 +77,7 @@ const config = {
       title: '伊勢菊一',
       image: '',
       tweet_id: '',
-      description: '<p>2巻 P101  三重県伊勢市 本町18</p> <p><img alt="ise221" src="https://live.staticflickr.com/65535/50833835048_d180420235_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.4892923&amp;lon=136.7079545&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【ise221】 by tanayan</p>',
+      description: '<p>2巻 P101  三重県伊勢市 本町18</p> <p><img alt="" src="https://live.staticflickr.com/65535/51112498127_363c49565e_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.4892923&amp;lon=136.7079545&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【】 by mhrs.jp</p>',
       location: {
         center: [136.7079545, 34.4892923],
         zoom: 14,
@@ -136,8 +136,8 @@ const config = {
       hidden: false,
       title: '伊勢神宮',
       image: '',
-      tweet_id: '1469552054163357696',
-      description: '<p>2巻 P108  三重県伊勢市 宇治館町98</p><div class="tweetContainer" id="tweet1469552054163357696"></div> ',
+      tweet_id: '1471023950654472192',
+      description: '<p>2巻 P108  三重県伊勢市 宇治館町98</p><div class="tweetContainer" id="tweet1471023950654472192"></div> ',
       location: {
         center: [136.725793, 34.45501],
         zoom: 14,
@@ -157,7 +157,7 @@ const config = {
       title: '赤福 内宮前支店',
       image: '',
       tweet_id: '',
-      description: '<p>2巻 P109  三重県伊勢市 宇治今在家町64</p> <p><img alt="20211018 Ise Jingu 14" src="https://live.staticflickr.com/65535/51715902612_d23675348b_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.4595551&amp;lon=136.7230903&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【20211018 Ise Jingu 14】 by BONGURI</p>',
+      description: '<p>2巻 P109  三重県伊勢市 宇治今在家町64</p> <p><img alt="20211018 Ise Jingu 6" src="https://live.staticflickr.com/65535/51699800984_3fe6b9122d_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.4595551&amp;lon=136.7230903&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【20211018 Ise Jingu 6】 by BONGURI</p>',
       location: {
         center: [136.7230903, 34.4595551],
         zoom: 14,

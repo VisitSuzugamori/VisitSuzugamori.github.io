@@ -37,7 +37,7 @@ const config = {
       title: '松島海岸駅',
       image: '',
       tweet_id: '',
-      description: '<p>1巻 P62  宮城県宮城郡 松島町 松島字浪打浜</p> <p><img alt="かき松島 こうは「松島海岸駅前本店」1号店" src="https://live.staticflickr.com/65535/51220257976_af4e919888_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=38.368053&amp;lon=141.0588152&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【かき松島 こうは「松島海岸駅前本店」1号店】 by いしだなおと</p>',
+      description: '<p>1巻 P62  宮城県宮城郡 松島町 松島字浪打浜</p> <p><img alt="松島海岸駅" src="https://live.staticflickr.com/65535/51221329540_858134a1a3_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=38.368053&amp;lon=141.0588152&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【松島海岸駅】 by いしだなおと</p>',
       location: {
         center: [141.0588152, 38.368053],
         zoom: 14,
@@ -57,7 +57,7 @@ const config = {
       title: 'かき松島 こうは「松島海岸駅前本店」１号店',
       image: '',
       tweet_id: '',
-      description: '<p>1巻 P63  宮城県宮城郡 松島町 松島字浪打浜</p> <p><img alt="松島海岸駅" src="https://live.staticflickr.com/65535/51221329540_858134a1a3_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=38.3685502&amp;lon=141.0593616&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【松島海岸駅】 by いしだなおと</p>',
+      description: '<p>1巻 P63  宮城県宮城郡 松島町 松島字浪打浜</p> <p><img alt="かき松島 こうは「松島海岸駅前本店」1号店" src="https://live.staticflickr.com/65535/51220257976_af4e919888_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=38.3685502&amp;lon=141.0593616&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【かき松島 こうは「松島海岸駅前本店」1号店】 by いしだなおと</p>',
       location: {
         center: [141.0593616, 38.3685502],
         zoom: 14,
@@ -96,8 +96,8 @@ const config = {
       hidden: false,
       title: '雄島',
       image: '',
-      tweet_id: '',
-      description: '<p>1巻 P64  宮城県宮城郡 松島町 松島字霞ケ浦</p> <p><img alt="Roof, Matsushima, Japan" src="https://live.staticflickr.com/65535/51324410034_be18a392ea_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=38.3653495&amp;lon=141.0625297&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Roof, Matsushima, Japan】 by runslikethewind83</p>',
+      tweet_id: '1470873213521514502',
+      description: '<p>1巻 P64  宮城県宮城郡 松島町 松島字霞ケ浦</p><div class="tweetContainer" id="tweet1470873213521514502"></div> ',
       location: {
         center: [141.0625297, 38.3653495],
         zoom: 14,
@@ -117,7 +117,7 @@ const config = {
       title: '御嶋真珠稲荷大明神',
       image: '',
       tweet_id: '',
-      description: '<p>1巻 P65  宮城県宮城郡 松島町 松島字霞ケ浦</p> <p><img alt="御嶋真珠稲荷大明神" src="https://live.staticflickr.com/65535/51221340535_4157a07bee_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=38.3654838&amp;lon=141.0622564&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【御嶋真珠稲荷大明神】 by いしだなおと</p>',
+      description: '<p>1巻 P65  宮城県宮城郡 松島町 松島字霞ケ浦</p> <p><img alt="Roof, Matsushima, Japan" src="https://live.staticflickr.com/65535/51324410034_be18a392ea_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=38.3654838&amp;lon=141.0622564&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Roof, Matsushima, Japan】 by runslikethewind83</p>',
       location: {
         center: [141.0622564, 38.3654838],
         zoom: 14,
