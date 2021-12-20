@@ -16,8 +16,8 @@ const config = {
       hidden: false,
       title: '郡山駅',
       image: '',
-      tweet_id: '1469425744887619590',
-      description: '<p>1巻 P22  福島県郡山市 駅前二丁目4</p><div class="tweetContainer" id="tweet1469425744887619590"></div> ',
+      tweet_id: '1472065533579309062',
+      description: '<p>1巻 P22  福島県郡山市 駅前二丁目4</p><div class="tweetContainer" id="tweet1472065533579309062"></div> ',
       location: {
         center: [140.3884019, 37.3985573],
         zoom: 14,
@@ -56,8 +56,8 @@ const config = {
       hidden: false,
       title: '会津若松駅',
       image: '',
-      tweet_id: '1469874805331668992',
-      description: '<p>1巻 P24  福島県会津若松市 駅前町1</p><div class="tweetContainer" id="tweet1469874805331668992"></div> ',
+      tweet_id: '1472404401646096385',
+      description: '<p>1巻 P24  福島県会津若松市 駅前町1</p><div class="tweetContainer" id="tweet1472404401646096385"></div> ',
       location: {
         center: [139.9303261, 37.5078657],
         zoom: 14,
@@ -76,8 +76,8 @@ const config = {
       hidden: false,
       title: 'ラーメン二郎 会津若松駅前店',
       image: '',
-      tweet_id: '1469184976164126722',
-      description: '<p>1巻 P25  福島県会津若松市 駅前町6</p><div class="tweetContainer" id="tweet1469184976164126722"></div> ',
+      tweet_id: '1472051748085071874',
+      description: '<p>1巻 P25  福島県会津若松市 駅前町6</p><div class="tweetContainer" id="tweet1472051748085071874"></div> ',
       location: {
         center: [139.9314173, 37.5066266],
         zoom: 14,
@@ -117,7 +117,7 @@ const config = {
       title: '小池菓子舗 飯盛山店',
       image: '',
       tweet_id: '',
-      description: '<p>1巻 P26  福島県会津若松市 一箕町八幡弁天下2</p> <p><img alt="Itsukushima-jinja (厳島神社)" src="https://live.staticflickr.com/65535/51603407960_93fb11b821_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=37.5044771&amp;lon=139.9528276&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Itsukushima-jinja (厳島神社)】 by pantkiewicz</p>',
+      description: '<p>1巻 P26  福島県会津若松市 一箕町八幡弁天下2</p> <p><img alt="Aizu Wakamatsu" src="https://live.staticflickr.com/65535/51601740577_b0bb96a836_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=37.5044771&amp;lon=139.9528276&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Aizu Wakamatsu】 by pantkiewicz</p>',
       location: {
         center: [139.9528276, 37.5044771],
         zoom: 14,

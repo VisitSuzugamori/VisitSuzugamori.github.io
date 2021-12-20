@@ -17,7 +17,7 @@ const config = {
       title: '薩都神社中宮',
       image: '',
       tweet_id: '',
-      description: '<p>5巻 P32  茨城県日立市 </p> <p><img alt="Niigata/Ibaraki &#39;16 #23" src="https://live.staticflickr.com/8307/29404605806_2af3875b34_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=36.6338743&amp;lon=140.587316&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Niigata/Ibaraki &#39;16 #23】 by tt64jp</p>',
+      description: '<p>5巻 P32  茨城県日立市 </p> <p><img alt="20181008-105017-51" src="https://live.staticflickr.com/1977/45200850641_eeb121a874_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=36.6338743&amp;lon=140.587316&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【20181008-105017-51】 by giu205</p>',
       location: {
         center: [140.587316, 36.6338743],
         zoom: 14,
@@ -37,7 +37,7 @@ const config = {
       title: '御岩神社',
       image: '',
       tweet_id: '',
-      description: '<p>5巻 P36  茨城県日立市 </p> <p><img alt="Niigata/Ibaraki &#39;16 #19" src="https://live.staticflickr.com/8200/28815102074_b6a5c91bb1_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=36.6360807&amp;lon=140.5855581&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Niigata/Ibaraki &#39;16 #19】 by tt64jp</p>',
+      description: '<p>5巻 P36  茨城県日立市 </p> <p><img alt="20181008-084906-40" src="https://live.staticflickr.com/1903/31326270958_ccb17041be_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=36.6360807&amp;lon=140.5855581&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【20181008-084906-40】 by giu205</p>',
       location: {
         center: [140.5855581, 36.6360807],
         zoom: 14,
