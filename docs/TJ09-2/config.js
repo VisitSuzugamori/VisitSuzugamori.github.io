@@ -16,8 +16,8 @@ const config = {
       hidden: false,
       title: '嚴島神社',
       image: '',
-      tweet_id: '1469844935943806978',
-      description: '<p>3巻 P5  </p><div class="tweetContainer" id="tweet1469844935943806978"></div> ',
+      tweet_id: '',
+      description: '<p>3巻 P5  </p> <p><img alt="IMG_20180717_103719" src="https://live.staticflickr.com/65535/51759808423_78f22847c7_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.2959885&amp;lon=132.3198262&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【IMG_20180717_103719】 by eugeniocentenaro</p>',
       location: {
         center: [132.3198262, 34.2959885],
         zoom: 14,
@@ -176,8 +176,8 @@ const config = {
       hidden: false,
       title: '尾道駅',
       image: '',
-      tweet_id: '1469906642305445895',
-      description: '<p>3巻 P19  広島県尾道市 東御所町1</p><div class="tweetContainer" id="tweet1469906642305445895"></div> ',
+      tweet_id: '1470235813535711235',
+      description: '<p>3巻 P19  広島県尾道市 東御所町1</p><div class="tweetContainer" id="tweet1470235813535711235"></div> ',
       location: {
         center: [133.193159, 34.4048654],
         zoom: 14,

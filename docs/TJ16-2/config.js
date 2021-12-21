@@ -76,8 +76,8 @@ const config = {
       hidden: false,
       title: '御岩山',
       image: '',
-      tweet_id: '1469905559021584395',
-      description: '<p>5巻 P46  茨城県日立市 </p><div class="tweetContainer" id="tweet1469905559021584395"></div> ',
+      tweet_id: '',
+      description: '<p>5巻 P46  茨城県日立市 </p> ',
       location: {
         center: [140.5934666, 36.6325788],
         zoom: 14,
@@ -96,8 +96,8 @@ const config = {
       hidden: false,
       title: '日立駅',
       image: '',
-      tweet_id: '1470185480461463552',
-      description: '<p>5巻 P51  茨城県日立市 旭町一丁目3</p><div class="tweetContainer" id="tweet1470185480461463552"></div> ',
+      tweet_id: '1473197145872539651',
+      description: '<p>5巻 P51  茨城県日立市 旭町一丁目3</p><div class="tweetContainer" id="tweet1473197145872539651"></div> ',
       location: {
         center: [140.6621017, 36.5906849],
         zoom: 14,

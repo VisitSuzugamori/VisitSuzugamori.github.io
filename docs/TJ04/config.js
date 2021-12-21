@@ -16,8 +16,8 @@ const config = {
       hidden: false,
       title: '東京駅',
       image: '',
-      tweet_id: '1472184566945554442',
-      description: '<p>1巻 P126  東京都千代田区 丸の内一丁目9</p><div class="tweetContainer" id="tweet1472184566945554442"></div> ',
+      tweet_id: '1472518239653875713',
+      description: '<p>1巻 P126  東京都千代田区 丸の内一丁目9</p><div class="tweetContainer" id="tweet1472518239653875713"></div> ',
       location: {
         center: [139.7671248, 35.6812362],
         zoom: 14,
@@ -36,8 +36,8 @@ const config = {
       hidden: false,
       title: '岡山駅',
       image: '',
-      tweet_id: '1469662808195629056',
-      description: '<p>1巻 P130  岡山県岡山市 北区 駅元町11</p><div class="tweetContainer" id="tweet1469662808195629056"></div> ',
+      tweet_id: '1472721446376189954',
+      description: '<p>1巻 P130  岡山県岡山市 北区 駅元町11</p><div class="tweetContainer" id="tweet1472721446376189954"></div> ',
       location: {
         center: [133.9177335, 34.6661212],
         zoom: 14,
@@ -177,7 +177,7 @@ const config = {
       title: '八栗寺',
       image: '',
       tweet_id: '',
-      description: '<p>1巻 P143  香川県高松市 牟礼町牟礼3416</p> <p><img alt="八十五番札所 八栗寺" src="https://live.staticflickr.com/65535/50384303247_eb791b7d3d_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.3599067&amp;lon=134.1398791&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【八十五番札所 八栗寺】 by JH1FJP</p>',
+      description: '<p>1巻 P143  香川県高松市 牟礼町牟礼3416</p> <p><img alt="Yakuri-ji, the 85th Temple of the Sacred Shikoku Pilgrimage in Kagawa, Japan." src="https://live.staticflickr.com/65535/48951825247_d8e3c3fc3f_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.3599067&amp;lon=134.1398791&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Yakuri-ji, the 85th Temple of the Sacred Shikoku Pilgrimage in Kagawa, Japan.】 by KyotoDreamTrips</p>',
       location: {
         center: [134.1398791, 34.3599067],
         zoom: 14,
@@ -197,7 +197,7 @@ const config = {
       title: 'ルピナス',
       image: '',
       tweet_id: '',
-      description: '<p>1巻 P148  香川県高松市 西の丸町6</p> <p><img alt="285系 サンライズ瀬戸" src="https://live.staticflickr.com/65535/51683917113_0dd6208f93_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.3497929&amp;lon=134.0469322&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【285系 サンライズ瀬戸】 by Hikoki-kun.</p>',
+      description: '<p>1巻 P148  香川県高松市 西の丸町6</p> <p><img alt="JR四国5000系" src="https://live.staticflickr.com/65535/51684324884_f2e40f83f0_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.3497929&amp;lon=134.0469322&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【JR四国5000系】 by Hikoki-kun.</p>',
       location: {
         center: [134.0469322, 34.3497929],
         zoom: 14,
@@ -236,8 +236,8 @@ const config = {
       hidden: false,
       title: '栗林公園',
       image: '',
-      tweet_id: '1469841452822044673',
-      description: '<p>1巻 P157  香川県高松市 栗林町一丁目20</p><div class="tweetContainer" id="tweet1469841452822044673"></div> ',
+      tweet_id: '1471268797155786752',
+      description: '<p>1巻 P157  香川県高松市 栗林町一丁目20</p><div class="tweetContainer" id="tweet1471268797155786752"></div> ',
       location: {
         center: [134.0445345, 34.3293842],
         zoom: 14,

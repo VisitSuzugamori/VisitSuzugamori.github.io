@@ -37,7 +37,7 @@ const config = {
       title: '松島海岸駅',
       image: '',
       tweet_id: '',
-      description: '<p>1巻 P62  宮城県宮城郡 松島町 松島字浪打浜</p> <p><img alt="松島海岸駅" src="https://live.staticflickr.com/65535/51221329540_858134a1a3_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=38.368053&amp;lon=141.0588152&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【松島海岸駅】 by いしだなおと</p>',
+      description: '<p>1巻 P62  宮城県宮城郡 松島町 松島字浪打浜</p> <p><img alt="かき松島 こうは「松島海岸駅前本店」1号店" src="https://live.staticflickr.com/65535/51220257976_af4e919888_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=38.368053&amp;lon=141.0588152&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【かき松島 こうは「松島海岸駅前本店」1号店】 by いしだなおと</p>',
       location: {
         center: [141.0588152, 38.368053],
         zoom: 14,
@@ -57,7 +57,7 @@ const config = {
       title: 'かき松島 こうは「松島海岸駅前本店」１号店',
       image: '',
       tweet_id: '',
-      description: '<p>1巻 P63  宮城県宮城郡 松島町 松島字浪打浜</p> <p><img alt="かき松島 こうは「松島海岸駅前本店」1号店" src="https://live.staticflickr.com/65535/51220257976_af4e919888_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=38.3685502&amp;lon=141.0593616&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【かき松島 こうは「松島海岸駅前本店」1号店】 by いしだなおと</p>',
+      description: '<p>1巻 P63  宮城県宮城郡 松島町 松島字浪打浜</p> <p><img alt="松島海岸駅" src="https://live.staticflickr.com/65535/51221329540_858134a1a3_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=38.3685502&amp;lon=141.0593616&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【松島海岸駅】 by いしだなおと</p>',
       location: {
         center: [141.0593616, 38.3685502],
         zoom: 14,
@@ -77,7 +77,7 @@ const config = {
       title: '松島公園',
       image: '',
       tweet_id: '',
-      description: '<p>1巻 P64  宮城県宮城郡 松島町 松島字霞ケ浦</p> <p><img alt="雄島" src="https://live.staticflickr.com/65535/51221394425_a4814c5527_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=38.3661732&amp;lon=141.0611304&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【雄島】 by いしだなおと</p>',
+      description: '<p>1巻 P64  宮城県宮城郡 松島町 松島字霞ケ浦</p> <p><img alt="雄島" src="https://live.staticflickr.com/65535/49377984683_3193b5a9e2_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=38.3661732&amp;lon=141.0611304&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【雄島】 by ＧＫ</p>',
       location: {
         center: [141.0611304, 38.3661732],
         zoom: 14,
@@ -156,8 +156,8 @@ const config = {
       hidden: false,
       title: '瑞巌寺',
       image: '',
-      tweet_id: '1469582865315024899',
-      description: '<p>1巻 P69  宮城県宮城郡 松島町 松島字町内</p><div class="tweetContainer" id="tweet1469582865315024899"></div> ',
+      tweet_id: '1472923058352832516',
+      description: '<p>1巻 P69  宮城県宮城郡 松島町 松島字町内</p><div class="tweetContainer" id="tweet1472923058352832516"></div> ',
       location: {
         center: [141.0603899, 38.3718733],
         zoom: 14,
