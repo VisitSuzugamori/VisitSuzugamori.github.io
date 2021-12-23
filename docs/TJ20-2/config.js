@@ -16,8 +16,8 @@ const config = {
       hidden: false,
       title: '東京駅',
       image: '',
-      tweet_id: '1472592686607900675',
-      description: '<p>   東京都千代田区 丸の内一丁目9</p><div class="tweetContainer" id="tweet1472592686607900675"></div> ',
+      tweet_id: '1472880888384204801',
+      description: '<p>   東京都千代田区 丸の内一丁目9</p><div class="tweetContainer" id="tweet1472880888384204801"></div> ',
       location: {
         center: [139.7671248, 35.6812362],
         zoom: 14,
@@ -116,8 +116,8 @@ const config = {
       hidden: false,
       title: '高知駅',
       image: '',
-      tweet_id: '1471997003592867840',
-      description: '<p>   高知県高知市 栄田町二丁目1</p><div class="tweetContainer" id="tweet1471997003592867840"></div> ',
+      tweet_id: '1473526261687648257',
+      description: '<p>   高知県高知市 栄田町二丁目1</p><div class="tweetContainer" id="tweet1473526261687648257"></div> ',
       location: {
         center: [133.5436452, 33.5672271],
         zoom: 14,
@@ -137,7 +137,7 @@ const config = {
       title: '土佐三志士の像',
       image: '',
       tweet_id: '',
-      description: '<p>   高知県高知市 北本町二丁目10</p> <p><img alt="2017-10-07, Kochi, Ekimae" src="https://live.staticflickr.com/65535/50492273251_5613843215_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=33.5664177&amp;lon=133.5430255&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【2017-10-07, Kochi, Ekimae】 by Fototak</p>',
+      description: '<p>   高知県高知市 北本町二丁目10</p> <p><img alt="高知駅" src="https://live.staticflickr.com/65535/50296902157_7a932268df_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=33.5664177&amp;lon=133.5430255&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【高知駅】 by Chitaka Chou</p>',
       location: {
         center: [133.5430255, 33.5664177],
         zoom: 14,
@@ -156,8 +156,8 @@ const config = {
       hidden: false,
       title: '奈半利駅',
       image: '',
-      tweet_id: '1471388291895562245',
-      description: '<p>   高知県安芸郡 奈半利町 乙978</p><div class="tweetContainer" id="tweet1471388291895562245"></div> ',
+      tweet_id: '1473560177190502403',
+      description: '<p>   高知県安芸郡 奈半利町 乙978</p><div class="tweetContainer" id="tweet1473560177190502403"></div> ',
       location: {
         center: [134.0180808, 33.4250302],
         zoom: 14,

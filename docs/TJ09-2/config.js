@@ -17,7 +17,7 @@ const config = {
       title: '嚴島神社',
       image: '',
       tweet_id: '',
-      description: '<p>3巻 P5  </p> <p><img alt="IMG_20180717_103719" src="https://live.staticflickr.com/65535/51759808423_78f22847c7_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.2959885&amp;lon=132.3198262&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【IMG_20180717_103719】 by eugeniocentenaro</p>',
+      description: '<p>3巻 P5  </p> <p><img alt="Itsukushima Shrine" src="https://live.staticflickr.com/65535/51767263723_894b9564b7_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.2959885&amp;lon=132.3198262&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Itsukushima Shrine】 by Takk D. Martin</p>',
       location: {
         center: [132.3198262, 34.2959885],
         zoom: 14,
@@ -57,7 +57,7 @@ const config = {
       title: 'もみじ堂本店',
       image: '',
       tweet_id: '',
-      description: '<p>3巻 P10  広島県廿日市市 宮島町幸町西浜459</p> <p><img alt="IMG_1326" src="https://live.staticflickr.com/65535/51526509760_fed52983f8_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.2977872&amp;lon=132.320873&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【IMG_1326】 by lee-tw</p>',
+      description: '<p>3巻 P10  広島県廿日市市 宮島町幸町西浜459</p> <p><img alt="Itsukushima Shrine" src="https://live.staticflickr.com/65535/51764361311_1667b512b2_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.2977872&amp;lon=132.320873&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Itsukushima Shrine】 by Takk D. Martin</p>',
       location: {
         center: [132.320873, 34.2977872],
         zoom: 14,
@@ -176,8 +176,8 @@ const config = {
       hidden: false,
       title: '尾道駅',
       image: '',
-      tweet_id: '1470235813535711235',
-      description: '<p>3巻 P19  広島県尾道市 東御所町1</p><div class="tweetContainer" id="tweet1470235813535711235"></div> ',
+      tweet_id: '1472017838667976709',
+      description: '<p>3巻 P19  広島県尾道市 東御所町1</p><div class="tweetContainer" id="tweet1472017838667976709"></div> ',
       location: {
         center: [133.193159, 34.4048654],
         zoom: 14,
@@ -237,7 +237,7 @@ const config = {
       title: '尾道ラーメン日乃出食堂',
       image: '',
       tweet_id: '',
-      description: '<p>3巻 P25  広島県尾道市 土堂一丁目11</p> <p><img alt="" src="https://live.staticflickr.com/65535/51588496549_797b0d80a9_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.4058259&amp;lon=133.1960287&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【】 by mkuratani2009</p>',
+      description: '<p>3巻 P25  広島県尾道市 土堂一丁目11</p> <p><img alt="" src="https://live.staticflickr.com/65535/51588739325_683f61521b_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.4058259&amp;lon=133.1960287&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【】 by mkuratani2009</p>',
       location: {
         center: [133.1960287, 34.4058259],
         zoom: 14,

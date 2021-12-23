@@ -136,8 +136,8 @@ const config = {
       hidden: false,
       title: '宮島桟橋',
       image: '',
-      tweet_id: '1470230052885639171',
-      description: '<p>2巻 P151  広島県廿日市市 宮島町873</p><div class="tweetContainer" id="tweet1470230052885639171"></div> ',
+      tweet_id: '1472010842384519168',
+      description: '<p>2巻 P151  広島県廿日市市 宮島町873</p><div class="tweetContainer" id="tweet1472010842384519168"></div> ',
       location: {
         center: [132.3222151, 34.3020862],
         zoom: 14,
@@ -157,7 +157,7 @@ const config = {
       title: '嚴島神社 大鳥居（布の中）',
       image: '',
       tweet_id: '',
-      description: '<p>2巻 P152,153  </p> <p><img alt="IMG_20180717_164626" src="https://live.staticflickr.com/65535/51759565341_7cbb8b8f18_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.2973092&amp;lon=132.3181276&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【IMG_20180717_164626】 by eugeniocentenaro</p>',
+      description: '<p>2巻 P152,153  </p> <p><img alt="JR West Miyajima Ferry &quot;Misen Maru&quot;" src="https://live.staticflickr.com/65535/51768218888_115d12c174_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.2973092&amp;lon=132.3181276&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【JR West Miyajima Ferry &quot;Misen Maru&quot;】 by Takk D. Martin</p>',
       location: {
         center: [132.3181276, 34.2973092],
         zoom: 14,
