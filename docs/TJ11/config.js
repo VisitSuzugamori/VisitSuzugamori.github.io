@@ -37,7 +37,7 @@ const config = {
       title: 'この辺歩いてるよ',
       image: '',
       tweet_id: '',
-      description: '<p>3巻 P60  和歌山県東牟婁郡 串本町 串本1403</p> <p><img alt="橋杭岩 和歌山県串本 (3)" src="https://live.staticflickr.com/65535/50085149361_8e38e19985_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=33.4580493&amp;lon=135.7718515&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【橋杭岩 和歌山県串本 (3)】 by OOMYV</p>',
+      description: '<p>3巻 P60  和歌山県東牟婁郡 串本町 串本1403</p> <p><img alt="潮岬 本州最南端 (1)" src="https://live.staticflickr.com/65535/50085149401_a59c3fd84f_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=33.4580493&amp;lon=135.7718515&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【潮岬 本州最南端 (1)】 by OOMYV</p>',
       location: {
         center: [135.7718515, 33.4580493],
         zoom: 14,
@@ -236,8 +236,8 @@ const config = {
       hidden: false,
       title: '熊野本宮大社',
       image: '',
-      tweet_id: '',
-      description: '<p>3巻 P82  和歌山県田辺市 本宮町本宮</p> <p><img alt="IMG_E2273" src="https://live.staticflickr.com/65535/51274466364_8188cc4466_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=33.8405706&amp;lon=135.7734753&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【IMG_E2273】 by Chico Leung</p>',
+      tweet_id: '1474193125745004545',
+      description: '<p>3巻 P82  和歌山県田辺市 本宮町本宮</p><div class="tweetContainer" id="tweet1474193125745004545"></div> ',
       location: {
         center: [135.7734753, 33.8405706],
         zoom: 14,

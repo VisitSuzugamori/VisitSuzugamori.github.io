@@ -36,8 +36,8 @@ const config = {
       hidden: false,
       title: '桂浜',
       image: '',
-      tweet_id: '1472124671579791365',
-      description: '<p>   高知県高知市 浦戸778</p><div class="tweetContainer" id="tweet1472124671579791365"></div> ',
+      tweet_id: '1474165304087437312',
+      description: '<p>   高知県高知市 浦戸778</p><div class="tweetContainer" id="tweet1474165304087437312"></div> ',
       location: {
         center: [133.5749209, 33.4971366],
         zoom: 14,
@@ -137,7 +137,7 @@ const config = {
       title: '土佐三志士の像',
       image: '',
       tweet_id: '',
-      description: '<p>   高知県高知市 北本町二丁目10</p> <p><img alt="高知駅" src="https://live.staticflickr.com/65535/50296902157_7a932268df_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=33.5664177&amp;lon=133.5430255&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【高知駅】 by Chitaka Chou</p>',
+      description: '<p>   高知県高知市 北本町二丁目10</p> <p><img alt="2017-10-07, Kochi, Ekimae" src="https://live.staticflickr.com/65535/50492273251_5613843215_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=33.5664177&amp;lon=133.5430255&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【2017-10-07, Kochi, Ekimae】 by Fototak</p>',
       location: {
         center: [133.5430255, 33.5664177],
         zoom: 14,

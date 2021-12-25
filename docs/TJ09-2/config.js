@@ -76,8 +76,8 @@ const config = {
       hidden: false,
       title: '呉駅',
       image: '',
-      tweet_id: '1470960916158205956',
-      description: '<p>3巻 P11  広島県呉市 宝町2</p><div class="tweetContainer" id="tweet1470960916158205956"></div> ',
+      tweet_id: '1472421118459981831',
+      description: '<p>3巻 P11  広島県呉市 宝町2</p><div class="tweetContainer" id="tweet1472421118459981831"></div> ',
       location: {
         center: [132.5575846, 34.2446471],
         zoom: 14,
@@ -117,7 +117,7 @@ const config = {
       title: '呉湾艦船めぐり',
       image: '',
       tweet_id: '',
-      description: '<p>3巻 P14  広島県呉市 宝町4</p> <p><img alt="IMG_3726" src="https://live.staticflickr.com/65535/51405276005_dd1cf78494_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.2405577&amp;lon=132.5564318&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【IMG_3726】 by Kai_Yi</p>',
+      description: '<p>3巻 P14  広島県呉市 宝町4</p> <p><img alt="Kure Hiroshima, manhole cover 4 （広島県呉市のマンホール４）" src="https://live.staticflickr.com/65535/51772915195_7ffdd61fe5_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.2405577&amp;lon=132.5564318&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Kure Hiroshima, manhole cover 4 （広島県呉市のマンホール４）】 by MRSY</p>',
       location: {
         center: [132.5564318, 34.2405577],
         zoom: 14,
@@ -157,7 +157,7 @@ const config = {
       title: '日招きの里 呉ハイカラ食堂',
       image: '',
       tweet_id: '',
-      description: '<p>3巻 P15  広島県呉市 宝町4</p> <p><img alt="610_7069" src="https://live.staticflickr.com/65535/50883132783_8009a079ca_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.2415568&amp;lon=132.5574165&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【610_7069】 by Lox Pix</p>',
+      description: '<p>3巻 P15  広島県呉市 宝町4</p> <p><img alt="IMG_3726" src="https://live.staticflickr.com/65535/51405276005_dd1cf78494_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.2415568&amp;lon=132.5574165&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【IMG_3726】 by Kai_Yi</p>',
       location: {
         center: [132.5574165, 34.2415568],
         zoom: 14,
@@ -197,7 +197,7 @@ const config = {
       title: '清浄山光明寺',
       image: '',
       tweet_id: '',
-      description: '<p>3巻 P19  広島県尾道市 東土堂町2</p> <p><img alt="A walk in Onomichi" src="https://live.staticflickr.com/65535/51165182068_8b5b3cee34_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.4081822&amp;lon=133.1978116&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【A walk in Onomichi】 by Blue Ridge Walker</p>',
+      description: '<p>3巻 P19  広島県尾道市 東土堂町2</p> <p><img alt="Onomichi" src="https://live.staticflickr.com/65535/49937898001_7df262ca10_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.4081822&amp;lon=133.1978116&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Onomichi】 by PBY</p>',
       location: {
         center: [133.1978116, 34.4081822],
         zoom: 14,
@@ -237,7 +237,7 @@ const config = {
       title: '尾道ラーメン日乃出食堂',
       image: '',
       tweet_id: '',
-      description: '<p>3巻 P25  広島県尾道市 土堂一丁目11</p> <p><img alt="" src="https://live.staticflickr.com/65535/51588739325_683f61521b_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.4058259&amp;lon=133.1960287&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【】 by mkuratani2009</p>',
+      description: '<p>3巻 P25  広島県尾道市 土堂一丁目11</p> <p><img alt="" src="https://live.staticflickr.com/65535/51588496549_797b0d80a9_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.4058259&amp;lon=133.1960287&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【】 by mkuratani2009</p>',
       location: {
         center: [133.1960287, 34.4058259],
         zoom: 14,

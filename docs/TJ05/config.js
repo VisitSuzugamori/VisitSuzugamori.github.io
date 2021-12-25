@@ -77,7 +77,7 @@ const config = {
       title: '月桂冠大倉記念館',
       image: '',
       tweet_id: '',
-      description: '<p>2巻 P17  京都府京都市 伏見区 本材木町680</p> <p><img alt="長建寺" src="https://live.staticflickr.com/65535/50311170767_f814092770_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.929136&amp;lon=135.76161&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【長建寺】 by albertus</p>',
+      description: '<p>2巻 P17  京都府京都市 伏見区 本材木町680</p> <p><img alt="京都伏見十石舟・三十石船" src="https://live.staticflickr.com/65535/49749500217_26bc871ed8_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.929136&amp;lon=135.76161&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【京都伏見十石舟・三十石船】 by YUSHENG HSU</p>',
       location: {
         center: [135.76161, 34.929136],
         zoom: 14,
@@ -157,7 +157,7 @@ const config = {
       title: '富田屋',
       image: '',
       tweet_id: '',
-      description: '<p>2巻 P22  京都府宮津市 字鶴賀2066</p> <p><img alt="DSC07719" src="https://live.staticflickr.com/1887/29190128947_dbbeb888e4_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.534848&amp;lon=135.1992613&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【DSC07719】 by anowls</p>',
+      description: '<p>2巻 P22  京都府宮津市 字鶴賀2066</p> <p><img alt="IMG_20191022_112249" src="https://live.staticflickr.com/65535/49136252841_24beaf8681_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.534848&amp;lon=135.1992613&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【IMG_20191022_112249】 by balduran98</p>',
       location: {
         center: [135.1992613, 35.534848],
         zoom: 14,
@@ -177,7 +177,7 @@ const config = {
       title: '茶六本館',
       image: '',
       tweet_id: '',
-      description: '<p>2巻 P22  京都府宮津市 字本町842</p> <p><img alt="Miyazu#35" src="https://live.staticflickr.com/4441/36267565394_6d632f3211_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.5368405&amp;lon=135.1918306&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Miyazu#35】 by tetsuo5</p>',
+      description: '<p>2巻 P22  京都府宮津市 字本町842</p> <p><img alt="Miyazu#22" src="https://live.staticflickr.com/4367/36799334791_aa6f7be99e_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.5368405&amp;lon=135.1918306&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Miyazu#22】 by tetsuo5</p>',
       location: {
         center: [135.1918306, 35.5368405],
         zoom: 14,
@@ -197,7 +197,7 @@ const config = {
       title: '天橋立ビューランド リフト・モノレールのりば',
       image: '',
       tweet_id: '',
-      description: '<p>2巻 P31  京都府宮津市 字文珠190</p> <p><img alt="IMG_1582" src="https://live.staticflickr.com/65535/51259234930_b4a51c1d9c_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.5557202&amp;lon=135.1839285&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【IMG_1582】 by Chico Leung</p>',
+      description: '<p>2巻 P31  京都府宮津市 字文珠190</p> <p><img alt="IMG_1583" src="https://live.staticflickr.com/65535/51257465927_a0b39d4b82_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.5557202&amp;lon=135.1839285&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【IMG_1583】 by Chico Leung</p>',
       location: {
         center: [135.1839285, 35.5557202],
         zoom: 14,
@@ -257,7 +257,7 @@ const config = {
       title: '岩見重太郎 仇討ちの場',
       image: '',
       tweet_id: '',
-      description: '<p>2巻 P36  京都府宮津市 字文珠</p> <p><img alt="P1039245" src="https://live.staticflickr.com/65535/49331567108_4c395bd571_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.5628724&amp;lon=135.1881478&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【P1039245】 by MakotoUmeda</p>',
+      description: '<p>2巻 P36  京都府宮津市 字文珠</p> <p><img alt="P1039247" src="https://live.staticflickr.com/65535/49332254667_d3dfc78c3e_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.5628724&amp;lon=135.1881478&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【P1039247】 by MakotoUmeda</p>',
       location: {
         center: [135.1881478, 35.5628724],
         zoom: 14,
