@@ -16,8 +16,8 @@ const config = {
       hidden: false,
       title: '宇都宮駅',
       image: '',
-      tweet_id: '1472530768425807875',
-      description: '<p>2巻 P44  栃木県宇都宮市 駅前通り三丁目1</p><div class="tweetContainer" id="tweet1472530768425807875"></div> ',
+      tweet_id: '1474944886369828868',
+      description: '<p>2巻 P44  栃木県宇都宮市 駅前通り三丁目1</p><div class="tweetContainer" id="tweet1474944886369828868"></div> ',
       location: {
         center: [139.8984511, 36.5590234],
         zoom: 14,
@@ -57,7 +57,7 @@ const config = {
       title: '龍門の滝',
       image: '',
       tweet_id: '',
-      description: '<p>2巻 P49  栃木県那須烏山市 滝20</p> <p><img alt="仁王門" src="https://live.staticflickr.com/884/42921165271_b52a1d5c28_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=36.6455986&amp;lon=140.1398144&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【仁王門】 by cyberwonk</p>',
+      description: '<p>2巻 P49  栃木県那須烏山市 滝20</p> <p><img alt="龍門の滝" src="https://live.staticflickr.com/1787/42202655254_803d0b147f_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=36.6455986&amp;lon=140.1398144&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【龍門の滝】 by cyberwonk</p>',
       location: {
         center: [140.1398144, 36.6455986],
         zoom: 14,
@@ -77,7 +77,7 @@ const config = {
       title: '那須烏山市 龍門ふるさと民芸館',
       image: '',
       tweet_id: '',
-      description: '<p>2巻 P50  栃木県那須烏山市 滝20</p> <p><img alt="龍門の滝" src="https://live.staticflickr.com/1787/42202655254_803d0b147f_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=36.6455502&amp;lon=140.1389247&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【龍門の滝】 by cyberwonk</p>',
+      description: '<p>2巻 P50  栃木県那須烏山市 滝20</p> <p><img alt="那須烏山の町の鳥" src="https://live.staticflickr.com/899/28052432717_2dd7ab01d2_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=36.6455502&amp;lon=140.1389247&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【那須烏山の町の鳥】 by cyberwonk</p>',
       location: {
         center: [140.1389247, 36.6455502],
         zoom: 14,

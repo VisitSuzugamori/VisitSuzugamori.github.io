@@ -116,8 +116,8 @@ const config = {
       hidden: false,
       title: '伊勢神宮 外宮',
       image: '',
-      tweet_id: '1471978478945845248',
-      description: '<p>2巻 P106  三重県伊勢市 本町16</p><div class="tweetContainer" id="tweet1471978478945845248"></div> ',
+      tweet_id: '1474938213668376579',
+      description: '<p>2巻 P106  三重県伊勢市 本町16</p><div class="tweetContainer" id="tweet1474938213668376579"></div> ',
       location: {
         center: [136.7029233, 34.4871537],
         zoom: 14,
@@ -157,7 +157,7 @@ const config = {
       title: '赤福 内宮前支店',
       image: '',
       tweet_id: '',
-      description: '<p>2巻 P109  三重県伊勢市 宇治今在家町64</p> <p><img alt="20211018 Ise Jingu 14" src="https://live.staticflickr.com/65535/51715902612_d23675348b_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.4595551&amp;lon=136.7230903&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【20211018 Ise Jingu 14】 by BONGURI</p>',
+      description: '<p>2巻 P109  三重県伊勢市 宇治今在家町64</p> <p><img alt="20211018 Ise Jingu 6" src="https://live.staticflickr.com/65535/51699800984_3fe6b9122d_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.4595551&amp;lon=136.7230903&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【20211018 Ise Jingu 6】 by BONGURI</p>',
       location: {
         center: [136.7230903, 34.4595551],
         zoom: 14,
