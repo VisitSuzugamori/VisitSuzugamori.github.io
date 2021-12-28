@@ -136,8 +136,8 @@ const config = {
       hidden: false,
       title: '伊勢神宮',
       image: '',
-      tweet_id: '1473133030663688196',
-      description: '<p>2巻 P108  三重県伊勢市 宇治館町98</p><div class="tweetContainer" id="tweet1473133030663688196"></div> ',
+      tweet_id: '1475606129153818624',
+      description: '<p>2巻 P108  三重県伊勢市 宇治館町98</p><div class="tweetContainer" id="tweet1475606129153818624"></div> ',
       location: {
         center: [136.725793, 34.45501],
         zoom: 14,
@@ -157,7 +157,7 @@ const config = {
       title: '赤福 内宮前支店',
       image: '',
       tweet_id: '',
-      description: '<p>2巻 P109  三重県伊勢市 宇治今在家町64</p> <p><img alt="20211018 Ise Jingu 6" src="https://live.staticflickr.com/65535/51699800984_3fe6b9122d_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.4595551&amp;lon=136.7230903&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【20211018 Ise Jingu 6】 by BONGURI</p>',
+      description: '<p>2巻 P109  三重県伊勢市 宇治今在家町64</p> <p><img alt="20211018 Ise Jingu 14" src="https://live.staticflickr.com/65535/51715902612_d23675348b_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.4595551&amp;lon=136.7230903&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【20211018 Ise Jingu 14】 by BONGURI</p>',
       location: {
         center: [136.7230903, 34.4595551],
         zoom: 14,
@@ -217,7 +217,7 @@ const config = {
       title: '海月',
       image: '',
       tweet_id: '',
-      description: '<p>2巻 P111  三重県鳥羽市 鳥羽一丁目6</p> <p><img alt="DSCF3455" src="https://live.staticflickr.com/2819/32508478073_fe9af51ffe_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.4847431&amp;lon=136.8439619&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【DSCF3455】 by chenpingi</p>',
+      description: '<p>2巻 P111  三重県鳥羽市 鳥羽一丁目6</p> <p><img alt="IMG_0153" src="https://live.staticflickr.com/4813/47025883411_c9260089dc_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.4847431&amp;lon=136.8439619&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【IMG_0153】 by masa.nagano</p>',
       location: {
         center: [136.8439619, 34.4847431],
         zoom: 14,
@@ -256,8 +256,8 @@ const config = {
       hidden: false,
       title: '夫婦岩',
       image: '',
-      tweet_id: '1474487250444783618',
-      description: '<p>2巻 P121  三重県伊勢市 二見町茶屋562</p><div class="tweetContainer" id="tweet1474487250444783618"></div> ',
+      tweet_id: '1475636260165550081',
+      description: '<p>2巻 P121  三重県伊勢市 二見町茶屋562</p><div class="tweetContainer" id="tweet1475636260165550081"></div> ',
       location: {
         center: [136.7883283, 34.5092993],
         zoom: 14,

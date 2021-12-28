@@ -397,7 +397,7 @@ const config = {
       title: '都庁からさらに西へ・・・',
       image: '',
       tweet_id: '',
-      description: '<p>5巻 P146  東京都渋谷区 本町三丁目9</p> <p><img alt="Japanese woman walking in sidewalk" src="https://live.staticflickr.com/65535/51363074430_2f636f9c9c_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.6891142&amp;lon=139.6830083&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Japanese woman walking in sidewalk】 by Rick Neves</p>',
+      description: '<p>5巻 P146  東京都渋谷区 本町三丁目9</p> <p><img alt="Japanese woman crossing the street" src="https://live.staticflickr.com/65535/51362779854_9a9df1e857_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.6891142&amp;lon=139.6830083&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Japanese woman crossing the street】 by Rick Neves</p>',
       location: {
         center: [139.6830083, 35.6891142],
         zoom: 14,
