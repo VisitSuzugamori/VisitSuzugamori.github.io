@@ -36,8 +36,8 @@ const config = {
       hidden: false,
       title: '京都駅',
       image: '',
-      tweet_id: '1472677076876804096',
-      description: '<p>2巻 P6  京都府京都市 下京区 東塩小路町676</p><div class="tweetContainer" id="tweet1472677076876804096"></div> ',
+      tweet_id: '1475823377659351040',
+      description: '<p>2巻 P6  京都府京都市 下京区 東塩小路町676</p><div class="tweetContainer" id="tweet1475823377659351040"></div> ',
       location: {
         center: [135.7587667, 34.985849],
         zoom: 14,
@@ -56,8 +56,8 @@ const config = {
       hidden: false,
       title: '藤岡酒造',
       image: '',
-      tweet_id: '1472391653361131520',
-      description: '<p>2巻 P16  京都府京都市 伏見区 今町669</p><div class="tweetContainer" id="tweet1472391653361131520"></div> ',
+      tweet_id: '',
+      description: '<p>2巻 P16  京都府京都市 伏見区 今町669</p> <p><img alt="珍遊のラーメン" src="https://live.staticflickr.com/65535/50115002776_30c119f009_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.9351213&amp;lon=135.7624568&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【珍遊のラーメン】 by albertus</p>',
       location: {
         center: [135.7624568, 34.9351213],
         zoom: 14,
@@ -97,7 +97,7 @@ const config = {
       title: 'ラー麺・陽はまた昇る 伏見稲荷駅前本店',
       image: '',
       tweet_id: '',
-      description: '<p>2巻 P17  京都府京都市 伏見区 深草一ノ坪町35</p> <p><img alt="IMG_1985" src="https://live.staticflickr.com/65535/51525837721_a57de874fc_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.968596&amp;lon=135.768613&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【IMG_1985】 by lee-tw</p>',
+      description: '<p>2巻 P17  京都府京都市 伏見区 深草一ノ坪町35</p> <p><img alt="Japanese trains 3" src="https://live.staticflickr.com/65535/51542284501_84e46d275b_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.968596&amp;lon=135.768613&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Japanese trains 3】 by Antoine Sollier</p>',
       location: {
         center: [135.768613, 34.968596],
         zoom: 14,
@@ -136,8 +136,8 @@ const config = {
       hidden: false,
       title: '宮津駅',
       image: '',
-      tweet_id: '',
-      description: '<p>2巻 P21  京都府宮津市 字鶴賀2099</p> <p><img alt="swallow" src="https://live.staticflickr.com/4259/35746896066_1d02070642_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.5344188&amp;lon=135.1997513&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【swallow】 by YUICHI38</p>',
+      tweet_id: '1475993380081577987',
+      description: '<p>2巻 P21  京都府宮津市 字鶴賀2099</p><div class="tweetContainer" id="tweet1475993380081577987"></div> ',
       location: {
         center: [135.1997513, 35.5344188],
         zoom: 14,
@@ -296,8 +296,8 @@ const config = {
       hidden: false,
       title: '天橋立神社',
       image: '',
-      tweet_id: '1473477569630838785',
-      description: '<p>2巻 P39  京都府宮津市 字文珠</p><div class="tweetContainer" id="tweet1473477569630838785"></div> ',
+      tweet_id: '1475999563811074054',
+      description: '<p>2巻 P39  京都府宮津市 字文珠</p><div class="tweetContainer" id="tweet1475999563811074054"></div> ',
       location: {
         center: [135.1879155, 35.5634066],
         zoom: 14,

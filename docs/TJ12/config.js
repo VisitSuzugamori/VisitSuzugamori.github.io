@@ -156,8 +156,8 @@ const config = {
       hidden: false,
       title: 'マルカンビル大食堂',
       image: '',
-      tweet_id: '1472458729354588162',
-      description: '<p>3巻 P101  岩手県花巻市 上町6</p><div class="tweetContainer" id="tweet1472458729354588162"></div> ',
+      tweet_id: '1474604696883154944',
+      description: '<p>3巻 P101  岩手県花巻市 上町6</p><div class="tweetContainer" id="tweet1474604696883154944"></div> ',
       location: {
         center: [141.11711, 39.385832],
         zoom: 14,
@@ -276,8 +276,8 @@ const config = {
       hidden: false,
       title: '中尊寺',
       image: '',
-      tweet_id: '1472749888404594688',
-      description: '<p>3巻 P118  岩手県西磐井郡 平泉町 平泉43</p><div class="tweetContainer" id="tweet1472749888404594688"></div> ',
+      tweet_id: '1474235497069572101',
+      description: '<p>3巻 P118  岩手県西磐井郡 平泉町 平泉43</p><div class="tweetContainer" id="tweet1474235497069572101"></div> ',
       location: {
         center: [141.102596, 39.0017355],
         zoom: 14,

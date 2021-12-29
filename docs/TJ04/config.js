@@ -16,8 +16,8 @@ const config = {
       hidden: false,
       title: '東京駅',
       image: '',
-      tweet_id: '1474698970719199232',
-      description: '<p>1巻 P126  東京都千代田区 丸の内一丁目9</p><div class="tweetContainer" id="tweet1474698970719199232"></div> ',
+      tweet_id: '1475742203024912384',
+      description: '<p>1巻 P126  東京都千代田区 丸の内一丁目9</p><div class="tweetContainer" id="tweet1475742203024912384"></div> ',
       location: {
         center: [139.7671248, 35.6812362],
         zoom: 14,
@@ -36,8 +36,8 @@ const config = {
       hidden: false,
       title: '岡山駅',
       image: '',
-      tweet_id: '1472721446376189954',
-      description: '<p>1巻 P130  岡山県岡山市 北区 駅元町11</p><div class="tweetContainer" id="tweet1472721446376189954"></div> ',
+      tweet_id: '1475692402950098944',
+      description: '<p>1巻 P130  岡山県岡山市 北区 駅元町11</p><div class="tweetContainer" id="tweet1475692402950098944"></div> ',
       location: {
         center: [133.9177335, 34.6661212],
         zoom: 14,
@@ -197,7 +197,7 @@ const config = {
       title: 'ルピナス',
       image: '',
       tweet_id: '',
-      description: '<p>1巻 P148  香川県高松市 西の丸町6</p> <p><img alt="高松港" src="https://live.staticflickr.com/65535/51569364212_689a636229_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.3497929&amp;lon=134.0469322&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【高松港】 by Chitaka Chou</p>',
+      description: '<p>1巻 P148  香川県高松市 西の丸町6</p> <p><img alt="JR四国5000系" src="https://live.staticflickr.com/65535/51684324884_f2e40f83f0_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.3497929&amp;lon=134.0469322&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【JR四国5000系】 by Hikoki-kun.</p>',
       location: {
         center: [134.0469322, 34.3497929],
         zoom: 14,
@@ -236,8 +236,8 @@ const config = {
       hidden: false,
       title: '栗林公園',
       image: '',
-      tweet_id: '1474206573849636864',
-      description: '<p>1巻 P157  香川県高松市 栗林町一丁目20</p><div class="tweetContainer" id="tweet1474206573849636864"></div> ',
+      tweet_id: '1475576777607364608',
+      description: '<p>1巻 P157  香川県高松市 栗林町一丁目20</p><div class="tweetContainer" id="tweet1475576777607364608"></div> ',
       location: {
         center: [134.0445345, 34.3293842],
         zoom: 14,
