@@ -16,8 +16,8 @@ const config = {
       hidden: false,
       title: '東京駅',
       image: '',
-      tweet_id: '1475739913278869507',
-      description: '<p>4巻 P119  東京都千代田区 丸の内一丁目9</p><div class="tweetContainer" id="tweet1475739913278869507"></div> ',
+      tweet_id: '1476819551379922944',
+      description: '<p>4巻 P119  東京都千代田区 丸の内一丁目9</p><div class="tweetContainer" id="tweet1476819551379922944"></div> ',
       location: {
         center: [139.7671248, 35.6812362],
         zoom: 14,
@@ -37,7 +37,7 @@ const config = {
       title: 'アーバンゲートブリッジ',
       image: '',
       tweet_id: '',
-      description: '<p>4巻 P121  </p> <p><img alt="豊洲ララポつけ麺。TETSUなくなっててショック" src="https://live.staticflickr.com/65535/50400039346_431b69bbb6_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.6548755&amp;lon=139.7911163&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【豊洲ララポつけ麺。TETSUなくなっててショック】 by Norisa1</p>',
+      description: '<p>4巻 P121  </p> <p><img alt="なんか、色々とコロナ対策@ららぽーと豊洲" src="https://live.staticflickr.com/65535/50400246947_ac038c1436_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.6548755&amp;lon=139.7911163&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【なんか、色々とコロナ対策@ららぽーと豊洲】 by Norisa1</p>',
       location: {
         center: [139.7911163, 35.6548755],
         zoom: 14,
@@ -116,8 +116,8 @@ const config = {
       hidden: false,
       title: '築地本願寺',
       image: '',
-      tweet_id: '1474611563701354502',
-      description: '<p>4巻 P122  東京都中央区 築地三丁目15</p><div class="tweetContainer" id="tweet1474611563701354502"></div> ',
+      tweet_id: '1476938727155187713',
+      description: '<p>4巻 P122  東京都中央区 築地三丁目15</p><div class="tweetContainer" id="tweet1476938727155187713"></div> ',
       location: {
         center: [139.7722836, 35.6664862],
         zoom: 14,
@@ -336,8 +336,8 @@ const config = {
       hidden: false,
       title: '東京ビッグサイト',
       image: '',
-      tweet_id: '1476202342177718278',
-      description: '<p>4巻 P134  東京都江東区 有明三丁目11</p><div class="tweetContainer" id="tweet1476202342177718278"></div> ',
+      tweet_id: '1476670335516876810',
+      description: '<p>4巻 P134  東京都江東区 有明三丁目11</p><div class="tweetContainer" id="tweet1476670335516876810"></div> ',
       location: {
         center: [139.7942868, 35.6298179],
         zoom: 14,
@@ -397,7 +397,7 @@ const config = {
       title: '新木場緑道公園',
       image: '',
       tweet_id: '',
-      description: '<p>4巻 P135  東京都江東区 新木場四丁目4</p> <p><img alt="2016" src="https://live.staticflickr.com/5635/23466286023_99e0a6fe19_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.6405733&amp;lon=139.8405881&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【2016】 by Youji Ishiwatari</p>',
+      description: '<p>4巻 P135  東京都江東区 新木場四丁目4</p> <p><img alt="東京メトロ 6000系, 東京メトロ 7000系_00001" src="https://live.staticflickr.com/65535/49682497042_ffbce2f7ed_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.6405733&amp;lon=139.8405881&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【東京メトロ 6000系, 東京メトロ 7000系_00001】 by OOMYV</p>',
       location: {
         center: [139.8405881, 35.6405733],
         zoom: 14,
@@ -416,8 +416,8 @@ const config = {
       hidden: false,
       title: '南極観測船『宗谷』',
       image: '',
-      tweet_id: '1473892581117411329',
-      description: '<p>4巻 P136  </p><div class="tweetContainer" id="tweet1473892581117411329"></div> ',
+      tweet_id: '',
+      description: '<p>4巻 P136  </p> <p><img alt="K-1 20211107-0153" src="https://live.staticflickr.com/65535/51728396725_383b48a76d_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.6191097&amp;lon=139.7738425&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【K-1 20211107-0153】 by Rakurai70</p>',
       location: {
         center: [139.7738425, 35.6191097],
         zoom: 14,
@@ -436,8 +436,8 @@ const config = {
       hidden: false,
       title: 'レインボーブリッジ',
       image: '',
-      tweet_id: '1473508403360448515',
-      description: '<p>4巻 P138  </p><div class="tweetContainer" id="tweet1473508403360448515"></div> ',
+      tweet_id: '1476787862712561728',
+      description: '<p>4巻 P138  </p><div class="tweetContainer" id="tweet1476787862712561728"></div> ',
       location: {
         center: [139.7631443, 35.6365639],
         zoom: 14,

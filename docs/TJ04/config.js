@@ -16,8 +16,8 @@ const config = {
       hidden: false,
       title: '東京駅',
       image: '',
-      tweet_id: '1475742203024912384',
-      description: '<p>1巻 P126  東京都千代田区 丸の内一丁目9</p><div class="tweetContainer" id="tweet1475742203024912384"></div> ',
+      tweet_id: '1476952458174005248',
+      description: '<p>1巻 P126  東京都千代田区 丸の内一丁目9</p><div class="tweetContainer" id="tweet1476952458174005248"></div> ',
       location: {
         center: [139.7671248, 35.6812362],
         zoom: 14,
@@ -76,8 +76,8 @@ const config = {
       hidden: false,
       title: '高松築港駅',
       image: '',
-      tweet_id: '1474007177761378313',
-      description: '<p>1巻 P132  香川県高松市 寿町一丁目5</p><div class="tweetContainer" id="tweet1474007177761378313"></div> ',
+      tweet_id: '1476712245371494409',
+      description: '<p>1巻 P132  香川県高松市 寿町一丁目5</p><div class="tweetContainer" id="tweet1476712245371494409"></div> ',
       location: {
         center: [134.049468, 34.350757],
         zoom: 14,
@@ -216,8 +216,8 @@ const config = {
       hidden: false,
       title: '玉藻公園',
       image: '',
-      tweet_id: '',
-      description: '<p>1巻 P150  香川県高松市 玉藻町2</p> <p><img alt="高松城" src="https://live.staticflickr.com/65535/51606947294_bbc2f08df4_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.3503157&amp;lon=134.0516188&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【高松城】 by Chitaka Chou</p>',
+      tweet_id: '1476525459139665926',
+      description: '<p>1巻 P150  香川県高松市 玉藻町2</p><div class="tweetContainer" id="tweet1476525459139665926"></div> ',
       location: {
         center: [134.0516188, 34.3503157],
         zoom: 14,

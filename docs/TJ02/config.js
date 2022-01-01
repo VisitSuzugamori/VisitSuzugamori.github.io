@@ -16,8 +16,8 @@ const config = {
       hidden: false,
       title: '仙台駅',
       image: '',
-      tweet_id: '1474702676025921538',
-      description: '<p>1巻 P61  宮城県仙台市 青葉区 中央一丁目</p><div class="tweetContainer" id="tweet1474702676025921538"></div> ',
+      tweet_id: '1476360260256354306',
+      description: '<p>1巻 P61  宮城県仙台市 青葉区 中央一丁目</p><div class="tweetContainer" id="tweet1476360260256354306"></div> ',
       location: {
         center: [140.8824375, 38.2601316],
         zoom: 14,
@@ -77,7 +77,7 @@ const config = {
       title: '松島公園',
       image: '',
       tweet_id: '',
-      description: '<p>1巻 P64  宮城県宮城郡 松島町 松島字霞ケ浦</p> <p><img alt="雄島" src="https://live.staticflickr.com/65535/49377984683_3193b5a9e2_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=38.3661732&amp;lon=141.0611304&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【雄島】 by ＧＫ</p>',
+      description: '<p>1巻 P64  宮城県宮城郡 松島町 松島字霞ケ浦</p> <p><img alt="雄島" src="https://live.staticflickr.com/65535/51221394425_a4814c5527_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=38.3661732&amp;lon=141.0611304&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【雄島】 by いしだなおと</p>',
       location: {
         center: [141.0611304, 38.3661732],
         zoom: 14,
@@ -117,7 +117,7 @@ const config = {
       title: '御嶋真珠稲荷大明神',
       image: '',
       tweet_id: '',
-      description: '<p>1巻 P65  宮城県宮城郡 松島町 松島字霞ケ浦</p> <p><img alt="雄島" src="https://live.staticflickr.com/65535/51221394425_a4814c5527_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=38.3654838&amp;lon=141.0622564&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【雄島】 by いしだなおと</p>',
+      description: '<p>1巻 P65  宮城県宮城郡 松島町 松島字霞ケ浦</p> <p><img alt="御嶋真珠稲荷大明神" src="https://live.staticflickr.com/65535/51221340535_4157a07bee_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=38.3654838&amp;lon=141.0622564&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【御嶋真珠稲荷大明神】 by いしだなおと</p>',
       location: {
         center: [141.0622564, 38.3654838],
         zoom: 14,
@@ -156,8 +156,8 @@ const config = {
       hidden: false,
       title: '瑞巌寺',
       image: '',
-      tweet_id: '1473555978839007239',
-      description: '<p>1巻 P69  宮城県宮城郡 松島町 松島字町内</p><div class="tweetContainer" id="tweet1473555978839007239"></div> ',
+      tweet_id: '1476745320646287366',
+      description: '<p>1巻 P69  宮城県宮城郡 松島町 松島字町内</p><div class="tweetContainer" id="tweet1476745320646287366"></div> ',
       location: {
         center: [141.0603899, 38.3718733],
         zoom: 14,
