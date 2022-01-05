@@ -157,7 +157,7 @@ const config = {
       title: '宇曽利山湖 極楽浜',
       image: '',
       tweet_id: '',
-      description: '<p>3巻 P51  青森県むつ市 </p> <p><img alt="æ¥µæ¥½æµ" src="https://live.staticflickr.com/5700/30300214030_6039b48ac4_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=41.3264966&amp;lon=141.086011&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【æ¥µæ¥½æµ】 by kanata-t</p>',
+      description: '<p>3巻 P51  青森県むつ市 </p> <p><img alt="Osorezan" src="https://live.staticflickr.com/8572/29173120092_15680bfe66_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=41.3264966&amp;lon=141.086011&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Osorezan】 by hirorin2013</p>',
       location: {
         center: [141.086011, 41.3264966],
         zoom: 14,
@@ -197,7 +197,7 @@ const config = {
       title: '恐山冷水',
       image: '',
       tweet_id: '',
-      description: '<p>3巻 P55  青森県むつ市 </p> <p><img alt="Hiyamizu" src="https://live.staticflickr.com/26/60335134_9b83ef0b46_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=41.3145659&amp;lon=141.1264919&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Hiyamizu】 by tsuda</p>',
+      description: '<p>3巻 P55  青森県むつ市 </p> <p><img alt="Hiyamizu" src="https://live.staticflickr.com/3650/3506049220_e0c97a378c_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=41.3145659&amp;lon=141.1264919&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Hiyamizu】 by tsuda</p>',
       location: {
         center: [141.1264919, 41.3145659],
         zoom: 14,

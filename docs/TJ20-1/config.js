@@ -36,8 +36,8 @@ const config = {
       hidden: false,
       title: '後免駅',
       image: '',
-      tweet_id: '1474346992185012224',
-      description: '<p>   高知県南国市 駅前町二丁目3</p><div class="tweetContainer" id="tweet1474346992185012224"></div> ',
+      tweet_id: '1477182578340024320',
+      description: '<p>   高知県南国市 駅前町二丁目3</p><div class="tweetContainer" id="tweet1477182578340024320"></div> ',
       location: {
         center: [133.6454058, 33.5791401],
         zoom: 14,
@@ -256,8 +256,8 @@ const config = {
       hidden: false,
       title: '若宮八幡宮',
       image: '',
-      tweet_id: '',
-      description: '<p>   高知県高知市 長浜4063</p> ',
+      tweet_id: '1477569467421192194',
+      description: '<p>   高知県高知市 長浜4063</p><div class="tweetContainer" id="tweet1477569467421192194"></div> ',
       location: {
         center: [133.5439082, 33.4946664],
         zoom: 14,
