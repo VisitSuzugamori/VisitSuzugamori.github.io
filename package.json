@@ -2,7 +2,7 @@
   "private": true,
   "name": "VisitSuzugamori",
   "version": "1.1.0",
-  "description": "ざつ旅-That's Journey- Copyright (c) 石坂 ケンタ, KADOKAWA, 電撃マオウ / ざつ旅マップ ホ​ーリー提督 @Holly_carp_10 / Mapbox",
+  "description": "ざつ旅-That's Journey- Copyright (c) 石坂 ケンタ, KADOKAWA, 電撃マオウ / ざつ旅マップ ホーリー提督 @Holly_carp_10 / Mapbox",
   "author": "isnot (https://github.com/isnot)",
   "license": "CC-BY-4.0",
   "engines": {
@@ -51,7 +51,7 @@
   "dependencies": {
     "@mapbox/mapbox-sdk": "^0.13.2",
     "@turf/turf": "^6.5.0",
-    "got": "^12.0.0",
+    "got": "^11.8.3",
     "xmldom": "github:xmldom/xmldom"
   }
 }
