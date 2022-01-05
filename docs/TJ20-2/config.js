@@ -97,7 +97,7 @@ const config = {
       title: '龍王宮',
       image: '',
       tweet_id: '',
-      description: '<p>   高知県高知市 浦戸830</p> <p><img alt="IMG_20210110_173250" src="https://live.staticflickr.com/65535/50839352018_0115eb6aaa_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=33.4956281&amp;lon=133.5746555&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【IMG_20210110_173250】 by Crush Yuta</p>',
+      description: '<p>   高知県高知市 浦戸830</p> <p><img alt="桂浜" src="https://live.staticflickr.com/65535/50306643363_c7f8226290_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=33.4956281&amp;lon=133.5746555&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【桂浜】 by Chitaka Chou</p>',
       location: {
         center: [133.5746555, 33.4956281],
         zoom: 14,

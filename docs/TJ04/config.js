@@ -236,8 +236,8 @@ const config = {
       hidden: false,
       title: '栗林公園',
       image: '',
-      tweet_id: '1475576777607364608',
-      description: '<p>1巻 P157  香川県高松市 栗林町一丁目20</p><div class="tweetContainer" id="tweet1475576777607364608"></div> ',
+      tweet_id: '1476014596242685959',
+      description: '<p>1巻 P157  香川県高松市 栗林町一丁目20</p><div class="tweetContainer" id="tweet1476014596242685959"></div> ',
       location: {
         center: [134.0445345, 34.3293842],
         zoom: 14,
