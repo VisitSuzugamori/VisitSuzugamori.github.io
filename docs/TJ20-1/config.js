@@ -36,8 +36,8 @@ const config = {
       hidden: false,
       title: '後免駅',
       image: '',
-      tweet_id: '1477182578340024320',
-      description: '<p>   高知県南国市 駅前町二丁目3</p><div class="tweetContainer" id="tweet1477182578340024320"></div> ',
+      tweet_id: '1477937453826777090',
+      description: '<p>   高知県南国市 駅前町二丁目3</p><div class="tweetContainer" id="tweet1477937453826777090"></div> ',
       location: {
         center: [133.6454058, 33.5791401],
         zoom: 14,
@@ -156,8 +156,8 @@ const config = {
       hidden: false,
       title: 'はりまや橋',
       image: '',
-      tweet_id: '1476875944208257025',
-      description: '<p>   高知県高知市 はりまや町一丁目1</p><div class="tweetContainer" id="tweet1476875944208257025"></div> ',
+      tweet_id: '1479389529454882816',
+      description: '<p>   高知県高知市 はりまや町一丁目1</p><div class="tweetContainer" id="tweet1479389529454882816"></div> ',
       location: {
         center: [133.5426569, 33.5599438],
         zoom: 14,
@@ -256,8 +256,8 @@ const config = {
       hidden: false,
       title: '若宮八幡宮',
       image: '',
-      tweet_id: '1477569467421192194',
-      description: '<p>   高知県高知市 長浜4063</p><div class="tweetContainer" id="tweet1477569467421192194"></div> ',
+      tweet_id: '1480526997378207753',
+      description: '<p>   高知県高知市 長浜4063</p><div class="tweetContainer" id="tweet1480526997378207753"></div> ',
       location: {
         center: [133.5439082, 33.4946664],
         zoom: 14,

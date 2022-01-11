@@ -16,8 +16,8 @@ const config = {
       hidden: false,
       title: '伏見稲荷大社',
       image: '',
-      tweet_id: '1476395360654610432',
-      description: '<p>2巻 P3  京都府京都市 伏見区 深草藪之内町1</p><div class="tweetContainer" id="tweet1476395360654610432"></div> ',
+      tweet_id: '1478309710839545858',
+      description: '<p>2巻 P3  京都府京都市 伏見区 深草藪之内町1</p><div class="tweetContainer" id="tweet1478309710839545858"></div> ',
       location: {
         center: [135.7726717, 34.9671402],
         zoom: 14,
@@ -36,8 +36,8 @@ const config = {
       hidden: false,
       title: '京都駅',
       image: '',
-      tweet_id: '1477831899360165889',
-      description: '<p>2巻 P6  京都府京都市 下京区 東塩小路町676</p><div class="tweetContainer" id="tweet1477831899360165889"></div> ',
+      tweet_id: '1480303132660105216',
+      description: '<p>2巻 P6  京都府京都市 下京区 東塩小路町676</p><div class="tweetContainer" id="tweet1480303132660105216"></div> ',
       location: {
         center: [135.7587667, 34.985849],
         zoom: 14,
@@ -56,8 +56,8 @@ const config = {
       hidden: false,
       title: '藤岡酒造',
       image: '',
-      tweet_id: '1476406836131684354',
-      description: '<p>2巻 P16  京都府京都市 伏見区 今町669</p><div class="tweetContainer" id="tweet1476406836131684354"></div> ',
+      tweet_id: '1480020723863273473',
+      description: '<p>2巻 P16  京都府京都市 伏見区 今町669</p><div class="tweetContainer" id="tweet1480020723863273473"></div> ',
       location: {
         center: [135.7624568, 34.9351213],
         zoom: 14,
@@ -116,8 +116,8 @@ const config = {
       hidden: false,
       title: '伏見稲荷駅',
       image: '',
-      tweet_id: '1477008076536709120',
-      description: '<p>2巻 P18  京都府京都市 伏見区 深草一ノ坪町20</p><div class="tweetContainer" id="tweet1477008076536709120"></div> ',
+      tweet_id: '1478189924360892421',
+      description: '<p>2巻 P18  京都府京都市 伏見区 深草一ノ坪町20</p><div class="tweetContainer" id="tweet1478189924360892421"></div> ',
       location: {
         center: [135.7692088, 34.9687541],
         zoom: 14,
@@ -157,7 +157,7 @@ const config = {
       title: '富田屋',
       image: '',
       tweet_id: '',
-      description: '<p>2巻 P22  京都府宮津市 字鶴賀2066</p> <p><img alt="IMG_20191022_112259" src="https://live.staticflickr.com/65535/49136451437_e0800f574b_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.534848&amp;lon=135.1992613&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【IMG_20191022_112259】 by balduran98</p>',
+      description: '<p>2巻 P22  京都府宮津市 字鶴賀2066</p> <p><img alt="delicious_05" src="https://live.staticflickr.com/4236/35359264565_c3b6e3d68a_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.534848&amp;lon=135.1992613&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【delicious_05】 by YUICHI38</p>',
       location: {
         center: [135.1992613, 35.534848],
         zoom: 14,
@@ -177,7 +177,7 @@ const config = {
       title: '茶六本館',
       image: '',
       tweet_id: '',
-      description: '<p>2巻 P22  京都府宮津市 字本町842</p> <p><img alt="Miyazu#22" src="https://live.staticflickr.com/4367/36799334791_aa6f7be99e_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.5368405&amp;lon=135.1918306&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Miyazu#22】 by tetsuo5</p>',
+      description: '<p>2巻 P22  京都府宮津市 字本町842</p> <p><img alt="Miyazu#35" src="https://live.staticflickr.com/4441/36267565394_6d632f3211_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.5368405&amp;lon=135.1918306&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Miyazu#35】 by tetsuo5</p>',
       location: {
         center: [135.1918306, 35.5368405],
         zoom: 14,
@@ -197,7 +197,7 @@ const config = {
       title: '天橋立ビューランド リフト・モノレールのりば',
       image: '',
       tweet_id: '',
-      description: '<p>2巻 P31  京都府宮津市 字文珠190</p> <p><img alt="Amanohashidate station" src="https://live.staticflickr.com/65535/49444929417_82bbc08e4c_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.5557202&amp;lon=135.1839285&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Amanohashidate station】 by Spotman!</p>',
+      description: '<p>2巻 P31  京都府宮津市 字文珠190</p> <p><img alt="amanohashidate_20211008155541" src="https://live.staticflickr.com/65535/51812257259_2bcfa21c1e_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.5557202&amp;lon=135.1839285&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【amanohashidate_20211008155541】 by inunami</p>',
       location: {
         center: [135.1839285, 35.5557202],
         zoom: 14,
@@ -216,8 +216,8 @@ const config = {
       hidden: false,
       title: '天橋立ビューランド',
       image: '',
-      tweet_id: '1475999563811074054',
-      description: '<p>2巻 P32  京都府宮津市 文珠1</p><div class="tweetContainer" id="tweet1475999563811074054"></div> ',
+      tweet_id: '',
+      description: '<p>2巻 P32  京都府宮津市 文珠1</p> <p><img alt="amanohashidate_20211008160710" src="https://live.staticflickr.com/65535/51811911021_60eab500ca_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.5527779&amp;lon=135.1821171&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【amanohashidate_20211008160710】 by inunami</p>',
       location: {
         center: [135.1821171, 35.5527779],
         zoom: 14,
@@ -236,8 +236,8 @@ const config = {
       hidden: false,
       title: '天橋立',
       image: '',
-      tweet_id: '1478555902022406147',
-      description: '<p>2巻 P35  京都府宮津市 字江尻927</p><div class="tweetContainer" id="tweet1478555902022406147"></div> ',
+      tweet_id: '1480065130654482439',
+      description: '<p>2巻 P35  京都府宮津市 字江尻927</p><div class="tweetContainer" id="tweet1480065130654482439"></div> ',
       location: {
         center: [135.1918204, 35.5698022],
         zoom: 14,
