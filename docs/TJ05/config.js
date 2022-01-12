@@ -136,8 +136,8 @@ const config = {
       hidden: false,
       title: '宮津駅',
       image: '',
-      tweet_id: '1477865042465161221',
-      description: '<p>2巻 P21  京都府宮津市 字鶴賀2099</p><div class="tweetContainer" id="tweet1477865042465161221"></div> ',
+      tweet_id: '1480374402969706496',
+      description: '<p>2巻 P21  京都府宮津市 字鶴賀2099</p><div class="tweetContainer" id="tweet1480374402969706496"></div> ',
       location: {
         center: [135.1997513, 35.5344188],
         zoom: 14,
@@ -277,7 +277,7 @@ const config = {
       title: '丹後國一之宮 元伊勢 籠神社',
       image: '',
       tweet_id: '',
-      description: '<p>2巻 P37  京都府宮津市 江尻430</p> <p><img alt="" src="https://live.staticflickr.com/65535/49339213341_b5906f8039_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.5827837&amp;lon=135.1967015&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【】 by balduran98</p>',
+      description: '<p>2巻 P37  京都府宮津市 江尻430</p> <p><img alt="P1039202" src="https://live.staticflickr.com/65535/49331575563_9901e4031e_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.5827837&amp;lon=135.1967015&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【P1039202】 by MakotoUmeda</p>',
       location: {
         center: [135.1967015, 35.5827837],
         zoom: 14,

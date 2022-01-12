@@ -56,8 +56,8 @@ const config = {
       hidden: false,
       title: '坂本龍馬像',
       image: '',
-      tweet_id: '1480333030711566341',
-      description: '<p>   高知県高知市 浦戸6</p><div class="tweetContainer" id="tweet1480333030711566341"></div> ',
+      tweet_id: '1480776585674379264',
+      description: '<p>   高知県高知市 浦戸6</p><div class="tweetContainer" id="tweet1480776585674379264"></div> ',
       location: {
         center: [133.5754821, 33.4986187],
         zoom: 14,
@@ -77,7 +77,7 @@ const config = {
       title: '桂浜水族館',
       image: '',
       tweet_id: '',
-      description: '<p>   高知県高知市 浦戸778</p> <p><img alt="Stromový háj" src="https://live.staticflickr.com/65535/51204645550_a57ac82fdb_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=33.4969444&amp;lon=133.5736111&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Stromový háj】 by SocialHermit</p>',
+      description: '<p>   高知県高知市 浦戸778</p> <p><img alt="Přichází se den" src="https://live.staticflickr.com/65535/51204646280_1b8ddee437_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=33.4969444&amp;lon=133.5736111&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Přichází se den】 by SocialHermit</p>',
       location: {
         center: [133.5736111, 33.4969444],
         zoom: 14,
@@ -156,8 +156,8 @@ const config = {
       hidden: false,
       title: '奈半利駅',
       image: '',
-      tweet_id: '1477944460210491394',
-      description: '<p>   高知県安芸郡 奈半利町 乙978</p><div class="tweetContainer" id="tweet1477944460210491394"></div> ',
+      tweet_id: '1479745187698331654',
+      description: '<p>   高知県安芸郡 奈半利町 乙978</p><div class="tweetContainer" id="tweet1479745187698331654"></div> ',
       location: {
         center: [134.0180808, 33.4250302],
         zoom: 14,

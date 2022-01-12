@@ -16,8 +16,8 @@ const config = {
       hidden: false,
       title: '薩都神社中宮',
       image: '',
-      tweet_id: '',
-      description: '<p>5巻 P32  茨城県日立市 </p> <p><img alt="20181008-105017-51" src="https://live.staticflickr.com/1977/45200850641_eeb121a874_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=36.6338743&amp;lon=140.587316&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【20181008-105017-51】 by giu205</p>',
+      tweet_id: '1480724092722761733',
+      description: '<p>5巻 P32  茨城県日立市 </p><div class="tweetContainer" id="tweet1480724092722761733"></div> ',
       location: {
         center: [140.587316, 36.6338743],
         zoom: 14,

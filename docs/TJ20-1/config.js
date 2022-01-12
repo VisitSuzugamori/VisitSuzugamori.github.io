@@ -36,8 +36,8 @@ const config = {
       hidden: false,
       title: '後免駅',
       image: '',
-      tweet_id: '1477937453826777090',
-      description: '<p>   高知県南国市 駅前町二丁目3</p><div class="tweetContainer" id="tweet1477937453826777090"></div> ',
+      tweet_id: '1478258399267676160',
+      description: '<p>   高知県南国市 駅前町二丁目3</p><div class="tweetContainer" id="tweet1478258399267676160"></div> ',
       location: {
         center: [133.6454058, 33.5791401],
         zoom: 14,
@@ -156,8 +156,8 @@ const config = {
       hidden: false,
       title: 'はりまや橋',
       image: '',
-      tweet_id: '1479389529454882816',
-      description: '<p>   高知県高知市 はりまや町一丁目1</p><div class="tweetContainer" id="tweet1479389529454882816"></div> ',
+      tweet_id: '1480754831191068674',
+      description: '<p>   高知県高知市 はりまや町一丁目1</p><div class="tweetContainer" id="tweet1480754831191068674"></div> ',
       location: {
         center: [133.5426569, 33.5599438],
         zoom: 14,
