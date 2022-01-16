@@ -17,7 +17,7 @@ const config = {
       title: '八甲田ロープウェイ 山頂公園駅',
       image: '',
       tweet_id: '',
-      description: '<p>3巻 P31  青森県青森市 </p> <p><img alt="八甲田" src="https://live.staticflickr.com/65535/51812368835_3f0bf28b58_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=40.6758222&amp;lon=140.8588135&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【八甲田】 by Chitaka Chou</p>',
+      description: '<p>3巻 P31  青森県青森市 </p> <p><img alt="八甲田" src="https://live.staticflickr.com/65535/51812368030_35bddac9d7_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=40.6758222&amp;lon=140.8588135&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【八甲田】 by Chitaka Chou</p>',
       location: {
         center: [140.8588135, 40.6758222],
         zoom: 14,
@@ -57,7 +57,7 @@ const config = {
       title: '八甲田 山頂公園',
       image: '',
       tweet_id: '',
-      description: '<p>3巻 P34  青森県青森市 </p> <p><img alt="八甲田" src="https://live.staticflickr.com/65535/51810683007_e69a4b9c72_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=40.6757743&amp;lon=140.8592116&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【八甲田】 by Chitaka Chou</p>',
+      description: '<p>3巻 P34  青森県青森市 </p> <p><img alt="八甲田" src="https://live.staticflickr.com/65535/51812368835_3f0bf28b58_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=40.6757743&amp;lon=140.8592116&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【八甲田】 by Chitaka Chou</p>',
       location: {
         center: [140.8592116, 40.6757743],
         zoom: 14,
@@ -157,7 +157,7 @@ const config = {
       title: '宇曽利山湖 極楽浜',
       image: '',
       tweet_id: '',
-      description: '<p>3巻 P51  青森県むつ市 </p> <p><img alt="æ¥µæ¥½æµ" src="https://live.staticflickr.com/5700/30300214030_6039b48ac4_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=41.3264966&amp;lon=141.086011&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【æ¥µæ¥½æµ】 by kanata-t</p>',
+      description: '<p>3巻 P51  青森県むつ市 </p> <p><img alt="Osorezan" src="https://live.staticflickr.com/8084/29281399015_02136e6d08_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=41.3264966&amp;lon=141.086011&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Osorezan】 by hirorin2013</p>',
       location: {
         center: [141.086011, 41.3264966],
         zoom: 14,

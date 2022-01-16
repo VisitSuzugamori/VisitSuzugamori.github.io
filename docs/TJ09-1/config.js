@@ -76,8 +76,8 @@ const config = {
       hidden: false,
       title: '広島駅',
       image: '',
-      tweet_id: '1480419038387912706',
-      description: '<p>2巻 P146  広島県広島市 南区 松原町1</p><div class="tweetContainer" id="tweet1480419038387912706"></div> ',
+      tweet_id: '1482246410984570880',
+      description: '<p>2巻 P146  広島県広島市 南区 松原町1</p><div class="tweetContainer" id="tweet1482246410984570880"></div> ',
       location: {
         center: [132.4753786, 34.397667],
         zoom: 14,
@@ -96,8 +96,8 @@ const config = {
       hidden: false,
       title: '宮島口駅',
       image: '',
-      tweet_id: '1480442318327062529',
-      description: '<p>2巻 P147  広島県廿日市市 宮島口一丁目3</p><div class="tweetContainer" id="tweet1480442318327062529"></div> ',
+      tweet_id: '1481495036013461504',
+      description: '<p>2巻 P147  広島県廿日市市 宮島口一丁目3</p><div class="tweetContainer" id="tweet1481495036013461504"></div> ',
       location: {
         center: [132.3029311, 34.3120172],
         zoom: 14,
@@ -117,7 +117,7 @@ const config = {
       title: 'あなごめし うえの 宮島口本店',
       image: '',
       tweet_id: '',
-      description: '<p>2巻 P148  広島県廿日市市 宮島口一丁目5</p> <p><img alt="IMG_3840" src="https://live.staticflickr.com/65535/51373328993_57f2969684_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.311502&amp;lon=132.3035106&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【IMG_3840】 by ylefou2004</p>',
+      description: '<p>2巻 P148  広島県廿日市市 宮島口一丁目5</p> <p><img alt="JR Miyajimaguchi Station" src="https://live.staticflickr.com/65535/51332939385_79f34f1c4e_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.311502&amp;lon=132.3035106&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【JR Miyajimaguchi Station】 by Kzaral</p>',
       location: {
         center: [132.3035106, 34.311502],
         zoom: 14,

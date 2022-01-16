@@ -16,8 +16,8 @@ const config = {
       hidden: false,
       title: '東京駅',
       image: '',
-      tweet_id: '1479942693996630018',
-      description: '<p>   東京都千代田区 丸の内一丁目9</p><div class="tweetContainer" id="tweet1479942693996630018"></div> ',
+      tweet_id: '1482545947410575362',
+      description: '<p>   東京都千代田区 丸の内一丁目9</p><div class="tweetContainer" id="tweet1482545947410575362"></div> ',
       location: {
         center: [139.7671248, 35.6812362],
         zoom: 14,
@@ -116,8 +116,8 @@ const config = {
       hidden: false,
       title: '高知駅',
       image: '',
-      tweet_id: '1478316980935729164',
-      description: '<p>   高知県高知市 栄田町二丁目1</p><div class="tweetContainer" id="tweet1478316980935729164"></div> ',
+      tweet_id: '1482162980074983424',
+      description: '<p>   高知県高知市 栄田町二丁目1</p><div class="tweetContainer" id="tweet1482162980074983424"></div> ',
       location: {
         center: [133.5436452, 33.5672271],
         zoom: 14,
