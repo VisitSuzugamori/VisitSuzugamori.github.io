@@ -237,7 +237,7 @@ const config = {
       title: '松島さかな市場',
       image: '',
       tweet_id: '',
-      description: '<p>1巻 P81  宮城県宮城郡 松島町 松島字普賢堂</p> <p><img alt="探頭探腦" src="https://live.staticflickr.com/65535/49582717543_817fd6a7f3_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=38.3719519&amp;lon=141.0651719&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【探頭探腦】 by M.K. Design</p>',
+      description: '<p>1巻 P81  宮城県宮城郡 松島町 松島字普賢堂</p> <p><img alt="松島魚市場" src="https://live.staticflickr.com/65535/49378274421_b336fe0105_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=38.3719519&amp;lon=141.0651719&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【松島魚市場】 by ＧＫ</p>',
       location: {
         center: [141.0651719, 38.3719519],
         zoom: 14,
@@ -251,10 +251,10 @@ const config = {
       onChapterExit: [],
     },
     {
-      id: '1巻-P85-笹かま販売所',
+      id: '1巻-P85-（閉店）笹かま販売所',
       alignment: 'left',
       hidden: false,
-      title: '笹かま販売所',
+      title: '（閉店）笹かま販売所',
       image: '',
       tweet_id: '',
       description: '<p>1巻 P85  宮城県宮城郡 松島町 松島字浪打浜</p> <p><img alt="松島" src="https://live.staticflickr.com/65535/51818520714_d4584a7d8a_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=38.3683903&amp;lon=141.0588914&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【松島】 by Chitaka Chou</p>',
