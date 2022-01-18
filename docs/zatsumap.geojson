@@ -3923,20 +3923,6 @@
         {
             "geometry": {
                 "coordinates": [
-                    139.0596769,
-                    36.5717451
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "description": "6巻P1,46 第19旅（後編）",
-                "name": "棚下不動の滝(雄滝)"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
                     139.7199399,
                     35.6218588
                 ],
@@ -4071,6 +4057,20 @@
             "properties": {
                 "description": "6巻P43 第19旅（後編）",
                 "name": "福増寺屋"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    139.0596769,
+                    36.5717451
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "6巻P1,46 第19旅（後編）",
+                "name": "棚下不動の滝(雄滝)"
             },
             "type": "Feature"
         },

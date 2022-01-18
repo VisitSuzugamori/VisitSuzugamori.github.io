@@ -2875,16 +2875,6 @@
       </Point>
     </Placemark>
     <Placemark>
-      <name>棚下不動の滝(雄滝)</name>
-      <description>6巻P1,46 第19旅（後編）</description>
-      <styleUrl>#icon-1899-FF5252-labelson</styleUrl>
-      <Point>
-        <coordinates>
-          139.0596769,36.5717451,0
-        </coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
       <name>さくらだもんっ</name>
       <description>6巻P18 第19旅（前編）</description>
       <styleUrl>#icon-1899-FF5252-labelson</styleUrl>
@@ -2981,6 +2971,16 @@
       <Point>
         <coordinates>
           139.0338799,36.5414169,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>棚下不動の滝(雄滝)</name>
+      <description>6巻P1,46 第19旅（後編）</description>
+      <styleUrl>#icon-1899-FF5252-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          139.0596769,36.5717451,0
         </coordinates>
       </Point>
     </Placemark>
