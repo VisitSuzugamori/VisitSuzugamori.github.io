@@ -191,7 +191,7 @@
                 "type": "Point"
             },
             "properties": {
-                "description": "1巻P62 第2旅",
+                "description": "1巻P62 第2旅<br>- コミック登場時は駅舎改装中で仮駅舎。2022年1月現在すでに新しい駅舎が開業済み。",
                 "name": "松島海岸駅"
             },
             "type": "Feature"
@@ -346,7 +346,7 @@
             },
             "properties": {
                 "description": "1巻P85 第2旅",
-                "name": "笹かま販売所"
+                "name": "（閉店）笹かま販売所"
             },
             "type": "Feature"
         },
@@ -359,7 +359,7 @@
                 "type": "Point"
             },
             "properties": {
-                "description": "1巻P87 第3旅<br>1巻P126 第4旅<br>4巻P93 第14旅<br>4巻P119 第15旅<br>5巻P3 第16旅（前編）<br>5巻P60 第17旅（前編）<br>5巻P136 第18旅<br>第19旅（前編）<br>第19旅（後編）<br>出張版<br>第20旅（後編）",
+                "description": "1巻P87 第3旅<br>1巻P126 第4旅<br>4巻P93 第14旅<br>4巻P119 第15旅<br>5巻P3 第16旅（前編）<br>5巻P60 第17旅（前編）<br>5巻P136 第18旅<br>6巻P18 第19旅（前編）<br>6巻P38 第19旅（後編）<br>6巻P132 第20旅（後編）<br>出張版",
                 "name": "東京駅"
             },
             "type": "Feature"
@@ -2739,7 +2739,7 @@
                 "type": "Point"
             },
             "properties": {
-                "description": "4巻表紙<br>4巻P121 第15旅<br>番外編",
+                "description": "4巻表紙<br>4巻P121 第15旅<br>6巻P141 番外編",
                 "name": "勝鬨橋"
             },
             "type": "Feature"
@@ -3005,7 +3005,7 @@
                 "type": "Point"
             },
             "properties": {
-                "description": "4巻P138 第15旅<br>番外編",
+                "description": "4巻P138 第15旅<br>6巻P142 番外編",
                 "name": "レインボーブリッジ"
             },
             "type": "Feature"
@@ -3923,13 +3923,27 @@
         {
             "geometry": {
                 "coordinates": [
+                    139.0596769,
+                    36.5717451
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "6巻P1,46 第19旅（後編）",
+                "name": "棚下不動の滝(雄滝)"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     139.7199399,
                     35.6218588
                 ],
                 "type": "Point"
             },
             "properties": {
-                "description": "第19旅（前編）",
+                "description": "6巻P18 第19旅（前編）",
                 "name": "さくらだもんっ"
             },
             "type": "Feature"
@@ -3943,7 +3957,7 @@
                 "type": "Point"
             },
             "properties": {
-                "description": "第19旅（前編）",
+                "description": "6巻P18 第19旅（前編）",
                 "name": "道路多いっ"
             },
             "type": "Feature"
@@ -3957,7 +3971,7 @@
                 "type": "Point"
             },
             "properties": {
-                "description": "第19旅（前編）",
+                "description": "6巻P19 第19旅（前編）",
                 "name": "い\"い”い”い”っ"
             },
             "type": "Feature"
@@ -3971,7 +3985,7 @@
                 "type": "Point"
             },
             "properties": {
-                "description": "第19旅（後編）",
+                "description": "6巻P39 第19旅（後編）",
                 "name": "矢印いっぱい"
             },
             "type": "Feature"
@@ -3985,7 +3999,7 @@
                 "type": "Point"
             },
             "properties": {
-                "description": "第19旅（後編）",
+                "description": "6巻P39 第19旅（後編）",
                 "name": "路面電車"
             },
             "type": "Feature"
@@ -3999,7 +4013,7 @@
                 "type": "Point"
             },
             "properties": {
-                "description": "第19旅（後編）",
+                "description": "6巻P40 第19旅（後編）",
                 "name": "埼玉突入"
             },
             "type": "Feature"
@@ -4013,7 +4027,7 @@
                 "type": "Point"
             },
             "properties": {
-                "description": "第19旅（後編）",
+                "description": "6巻P40 第19旅（後編）",
                 "name": "道の駅 おおた"
             },
             "type": "Feature"
@@ -4027,7 +4041,7 @@
                 "type": "Point"
             },
             "properties": {
-                "description": "第19旅（後編）",
+                "description": "6巻P41 第19旅（後編）",
                 "name": "新坂東橋"
             },
             "type": "Feature"
@@ -4041,7 +4055,7 @@
                 "type": "Point"
             },
             "properties": {
-                "description": "第19旅（後編）",
+                "description": "6巻P42 第19旅（後編）",
                 "name": "渋川駅"
             },
             "type": "Feature"
@@ -4055,22 +4069,8 @@
                 "type": "Point"
             },
             "properties": {
-                "description": "第19旅（後編）",
+                "description": "6巻P43 第19旅（後編）",
                 "name": "福増寺屋"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    139.0596769,
-                    36.5717451
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "description": "第19旅（後編）",
-                "name": "棚下不動の滝(雄滝)"
             },
             "type": "Feature"
         },
@@ -4083,7 +4083,7 @@
                 "type": "Point"
             },
             "properties": {
-                "description": "第19旅（後編）",
+                "description": "6巻P50 ,59 第19旅（後編）",
                 "name": "ばーちゃん再会の地"
             },
             "type": "Feature"
@@ -4097,7 +4097,7 @@
                 "type": "Point"
             },
             "properties": {
-                "description": "第19旅（後編）",
+                "description": "6巻P54 第19旅（後編）",
                 "name": "綾戸橋"
             },
             "type": "Feature"
@@ -4111,7 +4111,7 @@
                 "type": "Point"
             },
             "properties": {
-                "description": "第19旅（後編）",
+                "description": "6巻P56 第19旅（後編）",
                 "name": "水上駅"
             },
             "type": "Feature"
@@ -4125,7 +4125,7 @@
                 "type": "Point"
             },
             "properties": {
-                "description": "第19旅（後編）",
+                "description": "6巻P57 第19旅（後編）",
                 "name": "水上駅SL転車台広場"
             },
             "type": "Feature"
@@ -4139,7 +4139,7 @@
                 "type": "Point"
             },
             "properties": {
-                "description": "第19旅（後編）",
+                "description": "6巻P32 第19旅（後編）",
                 "name": "足湯"
             },
             "type": "Feature"
@@ -4153,8 +4153,22 @@
                 "type": "Point"
             },
             "properties": {
-                "description": "第19旅（後編）",
+                "description": "6巻P58 第19旅（後編）",
                 "name": "ホテルルートイン太田南-国道407号-"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.2709675,
+                    37.4811389
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "6巻P63 番外編",
+                "name": "磐梯熱海駅前足湯"
             },
             "type": "Feature"
         },
@@ -4167,7 +4181,7 @@
                 "type": "Point"
             },
             "properties": {
-                "description": "第20旅（前編）",
+                "description": "6巻P70 第20旅（前編）",
                 "name": "東工業前駅"
             },
             "type": "Feature"
@@ -4181,7 +4195,7 @@
                 "type": "Point"
             },
             "properties": {
-                "description": "第20旅（前編）",
+                "description": "6巻P71 第20旅（前編）",
                 "name": "後免駅"
             },
             "type": "Feature"
@@ -4195,7 +4209,7 @@
                 "type": "Point"
             },
             "properties": {
-                "description": "第20旅（前編）",
+                "description": "6巻P72 第20旅（前編）",
                 "name": "師匠はよしてって～"
             },
             "type": "Feature"
@@ -4209,7 +4223,7 @@
                 "type": "Point"
             },
             "properties": {
-                "description": "第20旅（前編）",
+                "description": "6巻P73 第20旅（前編）",
                 "name": "ショッピングセンター パステポコ・ア・ポコ南国店"
             },
             "type": "Feature"
@@ -4223,7 +4237,7 @@
                 "type": "Point"
             },
             "properties": {
-                "description": "第20旅（前編）",
+                "description": "6巻P73 第20旅（前編）",
                 "name": "たかはし"
             },
             "type": "Feature"
@@ -4237,7 +4251,7 @@
                 "type": "Point"
             },
             "properties": {
-                "description": "第20旅（前編）",
+                "description": "6巻P74 第20旅（前編）",
                 "name": "日吉神社"
             },
             "type": "Feature"
@@ -4251,7 +4265,7 @@
                 "type": "Point"
             },
             "properties": {
-                "description": "第20旅（前編）",
+                "description": "6巻P74 第20旅（前編）",
                 "name": "サンシャイン カルディア店"
             },
             "type": "Feature"
@@ -4265,7 +4279,7 @@
                 "type": "Point"
             },
             "properties": {
-                "description": "第20旅（前編）",
+                "description": "6巻P80 第20旅（前編）",
                 "name": "はりまや橋"
             },
             "type": "Feature"
@@ -4279,7 +4293,7 @@
                 "type": "Point"
             },
             "properties": {
-                "description": "第20旅（前編）",
+                "description": "6巻P80 第20旅（前編）",
                 "name": "桟橋通五丁目駅"
             },
             "type": "Feature"
@@ -4293,7 +4307,7 @@
                 "type": "Point"
             },
             "properties": {
-                "description": "第20旅（前編）",
+                "description": "6巻P80 第20旅（前編）",
                 "name": "ホームセンターブリコ 桟橋店"
             },
             "type": "Feature"
@@ -4307,7 +4321,7 @@
                 "type": "Point"
             },
             "properties": {
-                "description": "第20旅（前編）",
+                "description": "6巻P81 第20旅（前編）",
                 "name": "新宇津野トンネル"
             },
             "type": "Feature"
@@ -4321,7 +4335,7 @@
                 "type": "Point"
             },
             "properties": {
-                "description": "第20旅（前編）",
+                "description": "6巻P81 第20旅（前編）",
                 "name": "佐々木酒食品"
             },
             "type": "Feature"
@@ -4335,7 +4349,7 @@
                 "type": "Point"
             },
             "properties": {
-                "description": "第20旅（前編）",
+                "description": "6巻P82 第20旅（前編）",
                 "name": "若宮八幡宮"
             },
             "type": "Feature"
@@ -4349,7 +4363,7 @@
                 "type": "Point"
             },
             "properties": {
-                "description": "第20旅（前編）",
+                "description": "6巻P82 第20旅（前編）",
                 "name": "鎮守の森公園"
             },
             "type": "Feature"
@@ -4363,7 +4377,7 @@
                 "type": "Point"
             },
             "properties": {
-                "description": "第20旅（前編）",
+                "description": "6巻P83 第20旅（前編）<br>6巻表紙",
                 "name": "長宗我部元親像"
             },
             "type": "Feature"
@@ -4377,7 +4391,7 @@
                 "type": "Point"
             },
             "properties": {
-                "description": "第20旅（前編）",
+                "description": "6巻P90 第20旅（前編）",
                 "name": "桂浜花街道"
             },
             "type": "Feature"
@@ -4391,7 +4405,7 @@
                 "type": "Point"
             },
             "properties": {
-                "description": "第20旅（前編）",
+                "description": "6巻P92 第20旅（前編）",
                 "name": "切り通し"
             },
             "type": "Feature"
@@ -4405,8 +4419,22 @@
                 "type": "Point"
             },
             "properties": {
-                "description": "第20旅（前編）",
+                "description": "6巻P93 第20旅（前編）",
                 "name": "民宿まさご"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    133.5506309,
+                    33.5209427
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "6巻P101 第20旅（前編）",
+                "name": "ツヅキ島"
             },
             "type": "Feature"
         },
@@ -4419,7 +4447,7 @@
                 "type": "Point"
             },
             "properties": {
-                "description": "第20旅（後編）",
+                "description": "6巻P108 第20旅（後編）",
                 "name": "桂浜"
             },
             "type": "Feature"
@@ -4433,7 +4461,7 @@
                 "type": "Point"
             },
             "properties": {
-                "description": "第20旅（後編）",
+                "description": "6巻P109 第20旅（後編）",
                 "name": "坂本龍馬像"
             },
             "type": "Feature"
@@ -4447,7 +4475,7 @@
                 "type": "Point"
             },
             "properties": {
-                "description": "第20旅（後編）",
+                "description": "6巻P116 第20旅（後編）",
                 "name": "桂浜水族館"
             },
             "type": "Feature"
@@ -4461,7 +4489,7 @@
                 "type": "Point"
             },
             "properties": {
-                "description": "第20旅（後編）",
+                "description": "6巻P117 第20旅（後編）",
                 "name": "龍王宮"
             },
             "type": "Feature"
@@ -4475,7 +4503,7 @@
                 "type": "Point"
             },
             "properties": {
-                "description": "第20旅（後編）",
+                "description": "6巻P122 第20旅（後編）",
                 "name": "高知駅"
             },
             "type": "Feature"
@@ -4489,7 +4517,7 @@
                 "type": "Point"
             },
             "properties": {
-                "description": "第20旅（後編）",
+                "description": "6巻P122 第20旅（後編）",
                 "name": "土佐三志士の像"
             },
             "type": "Feature"
@@ -4503,7 +4531,7 @@
                 "type": "Point"
             },
             "properties": {
-                "description": "第20旅（後編）",
+                "description": "6巻P124 第20旅（後編）",
                 "name": "奈半利駅"
             },
             "type": "Feature"
@@ -4517,7 +4545,7 @@
                 "type": "Point"
             },
             "properties": {
-                "description": "第20旅（後編）",
+                "description": "6巻P124 第20旅（後編）",
                 "name": "長谷橋"
             },
             "type": "Feature"
@@ -4531,7 +4559,7 @@
                 "type": "Point"
             },
             "properties": {
-                "description": "第20旅（後編）",
+                "description": "6巻P125 第20旅（後編）",
                 "name": "旧魚梁瀬森林鉄道 法恩寺跨線橋"
             },
             "type": "Feature"
@@ -4545,7 +4573,7 @@
                 "type": "Point"
             },
             "properties": {
-                "description": "第20旅（後編）",
+                "description": "6巻P127 第20旅（後編）",
                 "name": "う\"ぇい\"～\n"
             },
             "type": "Feature"
@@ -4559,8 +4587,22 @@
                 "type": "Point"
             },
             "properties": {
-                "description": "第20旅（後編）",
+                "description": "6巻P128 第20旅（後編）",
                 "name": "旧魚梁瀬森林鉄道 立岡第二号桟道"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    133.5743881,
+                    33.4955899
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "6巻P135 第20旅（後編）",
+                "name": "龍王岬展望台"
             },
             "type": "Feature"
         },
@@ -4573,7 +4615,7 @@
                 "type": "Point"
             },
             "properties": {
-                "description": "番外編",
+                "description": "6巻P138 番外編",
                 "name": "今日は"
             },
             "type": "Feature"
@@ -4587,7 +4629,7 @@
                 "type": "Point"
             },
             "properties": {
-                "description": "番外編",
+                "description": "6巻P138 番外編",
                 "name": "東京タワー"
             },
             "type": "Feature"
@@ -4601,7 +4643,7 @@
                 "type": "Point"
             },
             "properties": {
-                "description": "番外編",
+                "description": "6巻P139 番外編",
                 "name": "歌舞伎座"
             },
             "type": "Feature"
@@ -4615,7 +4657,7 @@
                 "type": "Point"
             },
             "properties": {
-                "description": "番外編",
+                "description": "6巻P140 番外編",
                 "name": "歌舞伎座タワー"
             },
             "type": "Feature"
@@ -4629,7 +4671,7 @@
                 "type": "Point"
             },
             "properties": {
-                "description": "番外編",
+                "description": "6巻P142 番外編",
                 "name": "豊洲ーっ"
             },
             "type": "Feature"
@@ -4643,8 +4685,36 @@
                 "type": "Point"
             },
             "properties": {
-                "description": "番外編",
+                "description": "6巻P142 番外編",
                 "name": "トゲトゲしたあのビル"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    139.7697706,
+                    35.6656241
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "6巻P147 番外編",
+                "name": "若葉"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    139.0588401,
+                    36.571575
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "6巻P161",
+                "name": "棚下不動堂"
             },
             "type": "Feature"
         },
@@ -4757,6 +4827,174 @@
             "properties": {
                 "description": "出張版",
                 "name": "栃尾又ラジウム温泉 自在館"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.7264741,
+                    41.7737804
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "第21旅（前編）",
+                "name": "函館駅"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.6483763,
+                    41.9046983
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "第21旅（前編）",
+                "name": "新函館北斗駅"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.6523709,
+                    41.9024872
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "第21旅（前編）",
+                "name": "この「↓」"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.6666355,
+                    41.8874737
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "第21旅（前編）",
+                "name": "道道676号線"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.6881975,
+                    41.8877128
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "第21旅（前編）",
+                "name": "七飯駅"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.7255235,
+                    41.77272
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "第21旅（前編）",
+                "name": "函館朝市 どんぶり横丁市場"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.7258098,
+                    41.7726202
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "第21旅（前編）",
+                "name": "朝市お食事処 山三道下商店"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.7176349,
+                    41.7673531
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "第21旅（前編）",
+                "name": "金森赤レンガ倉庫"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.7146335,
+                    41.7659929
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "第21旅（前編）",
+                "name": "カリフォルニアベイビー"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.7161274,
+                    41.7643549
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "第21旅（前編）",
+                "name": "二十間坂"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.7140386,
+                    41.7629356
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "第21旅（前編）",
+                "name": "真宗大谷派 東本願寺 函館別院"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.7143007,
+                    41.7609078
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "第21旅（前編）",
+                "name": "函館山ロープウェイ山麓駅"
             },
             "type": "Feature"
         }
