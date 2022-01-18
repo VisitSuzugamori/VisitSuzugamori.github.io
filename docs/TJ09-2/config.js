@@ -16,8 +16,8 @@ const config = {
       hidden: false,
       title: '嚴島神社',
       image: '',
-      tweet_id: '1479652954139664386',
-      description: '<p>3巻 P5  </p><div class="tweetContainer" id="tweet1479652954139664386"></div> ',
+      tweet_id: '',
+      description: '<p>3巻 P5  </p> <p><img alt="Itsukushima-jinja (Mijajima, Japan)" src="https://live.staticflickr.com/65535/51825488692_7f7464b69a_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.2959885&amp;lon=132.3198262&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Itsukushima-jinja (Mijajima, Japan)】 by paintingwithlight75</p>',
       location: {
         center: [132.3198262, 34.2959885],
         zoom: 14,
@@ -97,7 +97,7 @@ const config = {
       title: 'コンフォートホテル呉',
       image: '',
       tweet_id: '',
-      description: '<p>3巻 P12  広島県呉市 宝町2</p> <p><img alt="kure_20200102095113" src="https://live.staticflickr.com/65535/50278722742_d2306c403c_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.2431335&amp;lon=132.5586395&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【kure_20200102095113】 by inunami</p>',
+      description: '<p>3巻 P12  広島県呉市 宝町2</p> <p><img alt="IMG_3753" src="https://live.staticflickr.com/65535/51403547307_d5688e8347_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.2431335&amp;lon=132.5586395&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【IMG_3753】 by Kai_Yi</p>',
       location: {
         center: [132.5586395, 34.2431335],
         zoom: 14,
@@ -176,8 +176,8 @@ const config = {
       hidden: false,
       title: '尾道駅',
       image: '',
-      tweet_id: '1480060653842935809',
-      description: '<p>3巻 P19  広島県尾道市 東御所町1</p><div class="tweetContainer" id="tweet1480060653842935809"></div> ',
+      tweet_id: '1480074318742757376',
+      description: '<p>3巻 P19  広島県尾道市 東御所町1</p><div class="tweetContainer" id="tweet1480074318742757376"></div> ',
       location: {
         center: [133.193159, 34.4048654],
         zoom: 14,

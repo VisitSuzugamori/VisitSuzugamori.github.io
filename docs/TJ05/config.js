@@ -56,8 +56,8 @@ const config = {
       hidden: false,
       title: '藤岡酒造',
       image: '',
-      tweet_id: '1480020723863273473',
-      description: '<p>2巻 P16  京都府京都市 伏見区 今町669</p><div class="tweetContainer" id="tweet1480020723863273473"></div> ',
+      tweet_id: '',
+      description: '<p>2巻 P16  京都府京都市 伏見区 今町669</p> <p><img alt="呉竹湯" src="https://live.staticflickr.com/65535/49166042607_a0d41435ae_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.9351213&amp;lon=135.7624568&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【呉竹湯】 by albertus</p>',
       location: {
         center: [135.7624568, 34.9351213],
         zoom: 14,
@@ -236,8 +236,8 @@ const config = {
       hidden: false,
       title: '天橋立',
       image: '',
-      tweet_id: '1480065130654482439',
-      description: '<p>2巻 P35  京都府宮津市 字江尻927</p><div class="tweetContainer" id="tweet1480065130654482439"></div> ',
+      tweet_id: '1481517695455563782',
+      description: '<p>2巻 P35  京都府宮津市 字江尻927</p><div class="tweetContainer" id="tweet1481517695455563782"></div> ',
       location: {
         center: [135.1918204, 35.5698022],
         zoom: 14,
