@@ -76,8 +76,8 @@ const config = {
       hidden: false,
       title: '高松築港駅',
       image: '',
-      tweet_id: '1480281453116145667',
-      description: '<p>1巻 P132  香川県高松市 寿町一丁目5</p><div class="tweetContainer" id="tweet1480281453116145667"></div> ',
+      tweet_id: '',
+      description: '<p>1巻 P132  香川県高松市 寿町一丁目5</p> <p><img alt="高松" src="https://live.staticflickr.com/65535/51613953339_1f14b9cbe5_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.350757&amp;lon=134.049468&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【高松】 by Chitaka Chou</p>',
       location: {
         center: [134.049468, 34.350757],
         zoom: 14,
@@ -157,7 +157,7 @@ const config = {
       title: '八栗ケーブル',
       image: '',
       tweet_id: '',
-      description: '<p>1巻 P142  香川県高松市 牟礼町牟礼3369</p> <p><img alt="DSC05057.JPG" src="https://live.staticflickr.com/5027/5676973164_2f8a3c1952_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.3551328&amp;lon=134.1336543&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【DSC05057.JPG】 by t.nanba</p>',
+      description: '<p>1巻 P142  香川県高松市 牟礼町牟礼3369</p> <p><img alt="DSC05056.JPG" src="https://live.staticflickr.com/5302/5676962524_0e43f7d769_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.3551328&amp;lon=134.1336543&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【DSC05056.JPG】 by t.nanba</p>',
       location: {
         center: [134.1336543, 34.3551328],
         zoom: 14,
@@ -217,7 +217,7 @@ const config = {
       title: '玉藻公園',
       image: '',
       tweet_id: '',
-      description: '<p>1巻 P150  香川県高松市 玉藻町2</p> <p><img alt="高松城" src="https://live.staticflickr.com/65535/51607165350_86f41127d0_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.3503157&amp;lon=134.0516188&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【高松城】 by Chitaka Chou</p>',
+      description: '<p>1巻 P150  香川県高松市 玉藻町2</p> <p><img alt="高松城" src="https://live.staticflickr.com/65535/51606947294_bbc2f08df4_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.3503157&amp;lon=134.0516188&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【高松城】 by Chitaka Chou</p>',
       location: {
         center: [134.0516188, 34.3503157],
         zoom: 14,

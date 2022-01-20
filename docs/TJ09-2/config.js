@@ -17,7 +17,7 @@ const config = {
       title: '嚴島神社',
       image: '',
       tweet_id: '',
-      description: '<p>3巻 P5  </p> <p><img alt="Miyajima, Japan" src="https://live.staticflickr.com/65535/51811409906_c3b03a7458_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.2959885&amp;lon=132.3198262&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Miyajima, Japan】 by Foraggio Photographic</p>',
+      description: '<p>3巻 P5  </p> <p><img alt="Itsukushima-jinja (Mijajima, Japan)" src="https://live.staticflickr.com/65535/51825488692_7f7464b69a_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.2959885&amp;lon=132.3198262&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Itsukushima-jinja (Mijajima, Japan)】 by paintingwithlight75</p>',
       location: {
         center: [132.3198262, 34.2959885],
         zoom: 14,
@@ -136,8 +136,8 @@ const config = {
       hidden: false,
       title: '大和ミュージアム（呉市海事歴史科学館）',
       image: '',
-      tweet_id: '1480376269011308545',
-      description: '<p>3巻 P15  広島県呉市 宝町4</p><div class="tweetContainer" id="tweet1480376269011308545"></div> ',
+      tweet_id: '',
+      description: '<p>3巻 P15  広島県呉市 宝町4</p> <p><img alt="IMG_3679" src="https://live.staticflickr.com/65535/51405280700_e789a6d203_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.2411391&amp;lon=132.5558555&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【IMG_3679】 by Kai_Yi</p>',
       location: {
         center: [132.5558555, 34.2411391],
         zoom: 14,
@@ -176,8 +176,8 @@ const config = {
       hidden: false,
       title: '尾道駅',
       image: '',
-      tweet_id: '1481828732192968704',
-      description: '<p>3巻 P19  広島県尾道市 東御所町1</p><div class="tweetContainer" id="tweet1481828732192968704"></div> ',
+      tweet_id: '1483664608338804738',
+      description: '<p>3巻 P19  広島県尾道市 東御所町1</p><div class="tweetContainer" id="tweet1483664608338804738"></div> ',
       location: {
         center: [133.193159, 34.4048654],
         zoom: 14,

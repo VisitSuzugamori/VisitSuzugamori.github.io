@@ -36,8 +36,8 @@ const config = {
       hidden: false,
       title: '黒部宇奈月温泉駅',
       image: '',
-      tweet_id: '1480398185592143872',
-      description: '<p>1巻 P92  富山県黒部市 若栗3203</p><div class="tweetContainer" id="tweet1480398185592143872"></div> ',
+      tweet_id: '',
+      description: '<p>1巻 P92  富山県黒部市 若栗3203</p> <p><img alt="DSC_4966" src="https://live.staticflickr.com/4638/38542226645_f0ebff29ab_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=36.8742374&amp;lon=137.4814155&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【DSC_4966】 by 善變獵人</p>',
       location: {
         center: [137.4814155, 36.8742374],
         zoom: 14,
@@ -176,8 +176,8 @@ const config = {
       hidden: false,
       title: 'ホテル黒部',
       image: '',
-      tweet_id: '1480374789005246464',
-      description: '<p>1巻 P112  富山県黒部市 宇奈月温泉6</p><div class="tweetContainer" id="tweet1480374789005246464"></div> ',
+      tweet_id: '',
+      description: '<p>1巻 P112  富山県黒部市 宇奈月温泉6</p> <p><img alt="Run through autumn mountains" src="https://live.staticflickr.com/4553/24483665478_ee30f942cf_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=36.8126191&amp;lon=137.5900726&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Run through autumn mountains】 by Teruhide Tomori</p>',
       location: {
         center: [137.5900726, 36.8126191],
         zoom: 14,
