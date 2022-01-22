@@ -57,7 +57,7 @@ const config = {
       title: 'この辺まで来たよ',
       image: '',
       tweet_id: '',
-      description: '<p>3巻 P61  和歌山県東牟婁郡 串本町 </p> <p><img alt="1808 1059 7R303537" src="https://live.staticflickr.com/1842/30235383188_2f4038d554_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=33.4378491&amp;lon=135.754685&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【1808 1059 7R303537】 by skycat1221</p>',
+      description: '<p>3巻 P61  和歌山県東牟婁郡 串本町 </p> <p><img alt="V zajetí koníčku" src="https://live.staticflickr.com/65535/51180350109_7198a86e97_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=33.4378491&amp;lon=135.754685&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【V zajetí koníčku】 by SocialHermit</p>',
       location: {
         center: [135.754685, 33.4378491],
         zoom: 14,
@@ -77,7 +77,7 @@ const config = {
       title: '潮岬灯台',
       image: '',
       tweet_id: '',
-      description: '<p>3巻 P62  和歌山県東牟婁郡 串本町 </p> <p><img alt="V zajetí koníčku" src="https://live.staticflickr.com/65535/51180350109_7198a86e97_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=33.4375625&amp;lon=135.7544642&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【V zajetí koníčku】 by SocialHermit</p>',
+      description: '<p>3巻 P62  和歌山県東牟婁郡 串本町 </p> <p><img alt="Pohled zpátky na pevninu" src="https://live.staticflickr.com/65535/51178871612_be0a4772d2_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=33.4375625&amp;lon=135.7544642&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Pohled zpátky na pevninu】 by SocialHermit</p>',
       location: {
         center: [135.7544642, 33.4375625],
         zoom: 14,
@@ -217,7 +217,7 @@ const config = {
       title: 'くまのこ食堂',
       image: '',
       tweet_id: '',
-      description: '<p>3巻 P81  和歌山県田辺市 本宮町本宮</p> <p><img alt="20190417-Canon EOS 6D Mark II-0486" src="https://live.staticflickr.com/65535/49131762951_41fb2df318_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=33.834421&amp;lon=135.7723926&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【20190417-Canon EOS 6D Mark II-0486】 by Bartek Rozanski</p>',
+      description: '<p>3巻 P81  和歌山県田辺市 本宮町本宮</p> <p><img alt="hongu taisha, the original" src="https://live.staticflickr.com/4895/46354388122_8c6f6e384c_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=33.834421&amp;lon=135.7723926&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【hongu taisha, the original】 by deziluzija</p>',
       location: {
         center: [135.7723926, 33.834421],
         zoom: 14,
@@ -237,7 +237,7 @@ const config = {
       title: '熊野本宮大社',
       image: '',
       tweet_id: '',
-      description: '<p>3巻 P82  和歌山県田辺市 本宮町本宮</p> <p><img alt="IMG_E2273" src="https://live.staticflickr.com/65535/51274466364_8188cc4466_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=33.8405706&amp;lon=135.7734753&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【IMG_E2273】 by Chico Leung</p>',
+      description: '<p>3巻 P82  和歌山県田辺市 本宮町本宮</p> <p><img alt="IMG_2278" src="https://live.staticflickr.com/65535/51273733391_ff197ee676_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=33.8405706&amp;lon=135.7734753&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【IMG_2278】 by Chico Leung</p>',
       location: {
         center: [135.7734753, 33.8405706],
         zoom: 14,
