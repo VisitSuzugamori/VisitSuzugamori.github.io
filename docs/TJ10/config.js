@@ -96,8 +96,8 @@ const config = {
       hidden: false,
       title: '下北駅',
       image: '',
-      tweet_id: '1482216474131398659',
-      description: '<p>3巻 P47  青森県むつ市 下北町4</p><div class="tweetContainer" id="tweet1482216474131398659"></div> ',
+      tweet_id: '',
+      description: '<p>3巻 P47  青森県むつ市 下北町4</p> <p><img alt="mutsu_20210812191321" src="https://live.staticflickr.com/65535/51821101050_191b79fcd7_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=41.2827427&amp;lon=141.1899038&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【mutsu_20210812191321】 by inunami</p>',
       location: {
         center: [141.1899038, 41.2827427],
         zoom: 14,

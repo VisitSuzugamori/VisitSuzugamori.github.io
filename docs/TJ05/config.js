@@ -57,7 +57,7 @@ const config = {
       title: '藤岡酒造',
       image: '',
       tweet_id: '',
-      description: '<p>2巻 P16  京都府京都市 伏見区 今町669</p> <p><img alt="一步一步走. 慢慢走 不急不急.  #japan #fushimi #backpackers" src="https://live.staticflickr.com/4182/34542992166_b44acf1c8a_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.9351213&amp;lon=135.7624568&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【一步一步走. 慢慢走 不急不急.  #japan #fushimi #backpackers】 by tymtang215</p>',
+      description: '<p>2巻 P16  京都府京都市 伏見区 今町669</p> <p><img alt="珍遊のラーメン" src="https://live.staticflickr.com/65535/50115002776_30c119f009_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.9351213&amp;lon=135.7624568&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【珍遊のラーメン】 by albertus</p>',
       location: {
         center: [135.7624568, 34.9351213],
         zoom: 14,
@@ -177,7 +177,7 @@ const config = {
       title: '茶六本館',
       image: '',
       tweet_id: '',
-      description: '<p>2巻 P22  京都府宮津市 字本町842</p> <p><img alt="Miyazu#20" src="https://live.staticflickr.com/4370/36747815052_03773443d2_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.5368405&amp;lon=135.1918306&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Miyazu#20】 by tetsuo5</p>',
+      description: '<p>2巻 P22  京都府宮津市 字本町842</p> <p><img alt="Miyazu#35" src="https://live.staticflickr.com/4441/36267565394_6d632f3211_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.5368405&amp;lon=135.1918306&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Miyazu#35】 by tetsuo5</p>',
       location: {
         center: [135.1918306, 35.5368405],
         zoom: 14,
@@ -217,7 +217,7 @@ const config = {
       title: '天橋立ビューランド',
       image: '',
       tweet_id: '',
-      description: '<p>2巻 P32  京都府宮津市 文珠1</p> <p><img alt="amanohashidate_20211008160710" src="https://live.staticflickr.com/65535/51811911021_60eab500ca_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.5527779&amp;lon=135.1821171&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【amanohashidate_20211008160710】 by inunami</p>',
+      description: '<p>2巻 P32  京都府宮津市 文珠1</p> <p><img alt="Mùa đông cuối" src="https://live.staticflickr.com/65535/51835712043_7982fe7e14_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.5527779&amp;lon=135.1821171&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Mùa đông cuối】 by KhánhDươnng</p>',
       location: {
         center: [135.1821171, 35.5527779],
         zoom: 14,
@@ -277,7 +277,7 @@ const config = {
       title: '丹後國一之宮 元伊勢 籠神社',
       image: '',
       tweet_id: '',
-      description: '<p>2巻 P37  京都府宮津市 江尻430</p> <p><img alt="IMG_20191123_150243" src="https://live.staticflickr.com/65535/49200527193_26e36b2239_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.5827837&amp;lon=135.1967015&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【IMG_20191123_150243】 by ADILIN</p>',
+      description: '<p>2巻 P37  京都府宮津市 江尻430</p> <p><img alt="" src="https://live.staticflickr.com/65535/49339213341_b5906f8039_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.5827837&amp;lon=135.1967015&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【】 by balduran98</p>',
       location: {
         center: [135.1967015, 35.5827837],
         zoom: 14,
@@ -297,7 +297,7 @@ const config = {
       title: '天橋立神社',
       image: '',
       tweet_id: '',
-      description: '<p>2巻 P39  京都府宮津市 字文珠</p> <p><img alt="P1039248" src="https://live.staticflickr.com/65535/49332032556_d1a03f0566_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.5634066&amp;lon=135.1879155&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【P1039248】 by MakotoUmeda</p>',
+      description: '<p>2巻 P39  京都府宮津市 字文珠</p> <p><img alt="P1039247" src="https://live.staticflickr.com/65535/49332254667_d3dfc78c3e_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.5634066&amp;lon=135.1879155&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【P1039247】 by MakotoUmeda</p>',
       location: {
         center: [135.1879155, 35.5634066],
         zoom: 14,
