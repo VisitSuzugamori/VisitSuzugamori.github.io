@@ -56,8 +56,8 @@ const config = {
       hidden: false,
       title: '高松駅',
       image: '',
-      tweet_id: '',
-      description: '<p>1巻 P131  香川県高松市 西の丸町2</p> <p><img alt="JR四国5000系" src="https://live.staticflickr.com/65535/51684324884_f2e40f83f0_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.3504507&amp;lon=134.047056&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【JR四国5000系】 by Hikoki-kun.</p>',
+      tweet_id: '1485530111487070209',
+      description: '<p>1巻 P131  香川県高松市 西の丸町2</p><div class="tweetContainer" id="tweet1485530111487070209"></div> ',
       location: {
         center: [134.047056, 34.3504507],
         zoom: 14,
@@ -137,7 +137,7 @@ const config = {
       title: 'うどん本陣 山田家',
       image: '',
       tweet_id: '',
-      description: '<p>1巻 P134  香川県高松市 牟礼町牟礼3128</p> <p><img alt="うどん本陣 山田家 本店" src="https://live.staticflickr.com/7668/16939055167_3bda384136_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.3532536&amp;lon=134.1296254&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【うどん本陣 山田家 本店】 by DKF_L</p>',
+      description: '<p>1巻 P134  香川県高松市 牟礼町牟礼3128</p> <p><img alt="【 讃岐入り 】" src="https://live.staticflickr.com/1484/24903508566_68d1ce15ca_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.3532536&amp;lon=134.1296254&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【【 讃岐入り 】】 by jun.skywalker (enishi hand made cyclecap)</p>',
       location: {
         center: [134.1296254, 34.3532536],
         zoom: 14,
@@ -157,7 +157,7 @@ const config = {
       title: '八栗ケーブル',
       image: '',
       tweet_id: '',
-      description: '<p>1巻 P142  香川県高松市 牟礼町牟礼3369</p> <p><img alt="DSC05056.JPG" src="https://live.staticflickr.com/5302/5676962524_0e43f7d769_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.3551328&amp;lon=134.1336543&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【DSC05056.JPG】 by t.nanba</p>',
+      description: '<p>1巻 P142  香川県高松市 牟礼町牟礼3369</p> <p><img alt="DSC05057.JPG" src="https://live.staticflickr.com/5027/5676973164_2f8a3c1952_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.3551328&amp;lon=134.1336543&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【DSC05057.JPG】 by t.nanba</p>',
       location: {
         center: [134.1336543, 34.3551328],
         zoom: 14,
@@ -197,7 +197,7 @@ const config = {
       title: 'ルピナス',
       image: '',
       tweet_id: '',
-      description: '<p>1巻 P148  香川県高松市 西の丸町6</p> <p><img alt="JR四国5000系" src="https://live.staticflickr.com/65535/51683649191_bd855dd742_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.3497929&amp;lon=134.0469322&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【JR四国5000系】 by Hikoki-kun.</p>',
+      description: '<p>1巻 P148  香川県高松市 西の丸町6</p> <p><img alt="JR四国5000系" src="https://live.staticflickr.com/65535/51684324884_f2e40f83f0_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.3497929&amp;lon=134.0469322&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【JR四国5000系】 by Hikoki-kun.</p>',
       location: {
         center: [134.0469322, 34.3497929],
         zoom: 14,

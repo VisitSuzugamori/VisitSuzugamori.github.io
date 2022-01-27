@@ -37,7 +37,7 @@ const config = {
       title: '後免駅',
       image: '',
       tweet_id: '',
-      description: '<p>6巻 P71  高知県南国市 駅前町二丁目3</p> <p><img alt="#広島県 #宮島町 #厳島神社 #宮島鳥居" src="https://live.staticflickr.com/3785/8840126197_0cfc847b16_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=33.5791401&amp;lon=133.6454058&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【#広島県 #宮島町 #厳島神社 #宮島鳥居】 by Armouredghost</p>',
+      description: '<p>6巻 P71  高知県南国市 駅前町二丁目3</p> <p><img alt="IMG_9740.jpg" src="https://live.staticflickr.com/1613/26139466803_0e51c15fdb_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=33.5791401&amp;lon=133.6454058&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【IMG_9740.jpg】 by Kuruman</p>',
       location: {
         center: [133.6454058, 33.5791401],
         zoom: 14,

@@ -197,7 +197,7 @@ const config = {
       title: '出雲大社 拝殿',
       image: '',
       tweet_id: '',
-      description: '<p>3巻 P140  島根県出雲市 大社町杵築東257</p> <p><img alt="Izumo Taisha Grand Shrine" src="https://live.staticflickr.com/65535/51821905134_58e6bd3488_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.4012055&amp;lon=132.6855211&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Izumo Taisha Grand Shrine】 by 雷太</p>',
+      description: '<p>3巻 P140  島根県出雲市 大社町杵築東257</p> <p><img alt="Izumo Taisha Grand Shrine" src="https://live.staticflickr.com/65535/51821905204_0ff6803a23_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.4012055&amp;lon=132.6855211&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Izumo Taisha Grand Shrine】 by 雷太</p>',
       location: {
         center: [132.6855211, 35.4012055],
         zoom: 14,
@@ -217,7 +217,7 @@ const config = {
       title: '出雲大社 西十九社',
       image: '',
       tweet_id: '',
-      description: '<p>3巻 P141  島根県出雲市 大社町杵築東257</p> <p><img alt="Izumo Taisha Grand Shrine" src="https://live.staticflickr.com/65535/51821905204_0ff6803a23_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.4014929&amp;lon=132.6848802&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Izumo Taisha Grand Shrine】 by 雷太</p>',
+      description: '<p>3巻 P141  島根県出雲市 大社町杵築東257</p> <p><img alt="Izumo Taisha Grand Shrine" src="https://live.staticflickr.com/65535/51821905179_b875787683_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.4014929&amp;lon=132.6848802&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Izumo Taisha Grand Shrine】 by 雷太</p>',
       location: {
         center: [132.6848802, 35.4014929],
         zoom: 14,
@@ -237,7 +237,7 @@ const config = {
       title: '出雲大社 神楽殿',
       image: '',
       tweet_id: '',
-      description: '<p>3巻 P142  島根県出雲市 大社町杵築東257</p> <p><img alt="Izumo Taisha Grand Shrine" src="https://live.staticflickr.com/65535/51821905179_b875787683_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.4015453&amp;lon=132.6844634&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Izumo Taisha Grand Shrine】 by 雷太</p>',
+      description: '<p>3巻 P142  島根県出雲市 大社町杵築東257</p> <p><img alt="Izumo Taisha Grand Shrine" src="https://live.staticflickr.com/65535/51821905134_58e6bd3488_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.4015453&amp;lon=132.6844634&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Izumo Taisha Grand Shrine】 by 雷太</p>',
       location: {
         center: [132.6844634, 35.4015453],
         zoom: 14,
@@ -336,8 +336,8 @@ const config = {
       hidden: false,
       title: '松江城',
       image: '',
-      tweet_id: '1482901692119076864',
-      description: '<p>3巻 P150  島根県松江市 殿町1</p><div class="tweetContainer" id="tweet1482901692119076864"></div> ',
+      tweet_id: '',
+      description: '<p>3巻 P150  島根県松江市 殿町1</p> <p><img alt="Matsue Castle 松江城" src="https://live.staticflickr.com/65535/51421457070_28b26a4770_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.4751335&amp;lon=133.0506783&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Matsue Castle 松江城】 by banzainetsurfer</p>',
       location: {
         center: [133.0506783, 35.4751335],
         zoom: 14,
