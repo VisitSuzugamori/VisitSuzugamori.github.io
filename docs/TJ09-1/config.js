@@ -16,8 +16,8 @@ const config = {
       hidden: false,
       title: '東京ドームホテル',
       image: '',
-      tweet_id: '1484739306757722115',
-      description: '<p>2巻 P132  東京都文京区 後楽一丁目3</p><div class="tweetContainer" id="tweet1484739306757722115"></div> ',
+      tweet_id: '',
+      description: '<p>2巻 P132  東京都文京区 後楽一丁目3</p> <p><img alt="Snow Tokyo Dome City" src="https://live.staticflickr.com/65535/51828880404_0fb89952c7_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.7036666&amp;lon=139.7533928&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Snow Tokyo Dome City】 by gemapozo</p>',
       location: {
         center: [139.7533928, 35.7036666],
         zoom: 14,
@@ -76,8 +76,8 @@ const config = {
       hidden: false,
       title: '広島駅',
       image: '',
-      tweet_id: '1484668453198131201',
-      description: '<p>2巻 P146  広島県広島市 南区 松原町1</p><div class="tweetContainer" id="tweet1484668453198131201"></div> ',
+      tweet_id: '1485173851848077312',
+      description: '<p>2巻 P146  広島県広島市 南区 松原町1</p><div class="tweetContainer" id="tweet1485173851848077312"></div> ',
       location: {
         center: [132.4753786, 34.397667],
         zoom: 14,

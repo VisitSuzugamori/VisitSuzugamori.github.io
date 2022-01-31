@@ -17,7 +17,7 @@ const config = {
       title: '嚴島神社',
       image: '',
       tweet_id: '',
-      description: '<p>3巻 P5  </p> <p><img alt="Itsukushima-jinja (Mijajima, Japan)" src="https://live.staticflickr.com/65535/51825488692_7f7464b69a_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.2959885&amp;lon=132.3198262&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Itsukushima-jinja (Mijajima, Japan)】 by paintingwithlight75</p>',
+      description: '<p>3巻 P5  </p> <p><img alt="Miyajima, Japan" src="https://live.staticflickr.com/65535/51811757624_bc03fde1d1_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.2959885&amp;lon=132.3198262&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Miyajima, Japan】 by Foraggio Photographic</p>',
       location: {
         center: [132.3198262, 34.2959885],
         zoom: 14,
@@ -37,7 +37,7 @@ const config = {
       title: '大聖院',
       image: '',
       tweet_id: '',
-      description: '<p>3巻 P8  広島県廿日市市 宮島町滝町215</p> <p><img alt="The Room at Mani-den 摩尼殿の部屋" src="https://live.staticflickr.com/65535/51449518791_3835ab45ed_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.2920477&amp;lon=132.3184736&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【The Room at Mani-den 摩尼殿の部屋】 by banzainetsurfer</p>',
+      description: '<p>3巻 P8  広島県廿日市市 宮島町滝町215</p> <p><img alt="Daishoin banners, Miyajima 大聖院 宮島  広島" src="https://live.staticflickr.com/65535/51488631058_30212eaf6f_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.2920477&amp;lon=132.3184736&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Daishoin banners, Miyajima 大聖院 宮島  広島】 by Anaguma</p>',
       location: {
         center: [132.3184736, 34.2920477],
         zoom: 14,
@@ -77,7 +77,7 @@ const config = {
       title: '呉駅',
       image: '',
       tweet_id: '',
-      description: '<p>3巻 P11  広島県呉市 宝町2</p> <p><img alt="kure_20200101180440" src="https://live.staticflickr.com/65535/50277894228_0f240e46e4_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.2446471&amp;lon=132.5575846&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【kure_20200101180440】 by inunami</p>',
+      description: '<p>3巻 P11  広島県呉市 宝町2</p> <p><img alt="IMG_3753" src="https://live.staticflickr.com/65535/51403547307_d5688e8347_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.2446471&amp;lon=132.5575846&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【IMG_3753】 by Kai_Yi</p>',
       location: {
         center: [132.5575846, 34.2446471],
         zoom: 14,
@@ -137,7 +137,7 @@ const config = {
       title: '大和ミュージアム（呉市海事歴史科学館）',
       image: '',
       tweet_id: '',
-      description: '<p>3巻 P15  広島県呉市 宝町4</p> <p><img alt="IMG_3726" src="https://live.staticflickr.com/65535/51405276005_dd1cf78494_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.2411391&amp;lon=132.5558555&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【IMG_3726】 by Kai_Yi</p>',
+      description: '<p>3巻 P15  広島県呉市 宝町4</p> <p><img alt="IMG_3679" src="https://live.staticflickr.com/65535/51405280700_e789a6d203_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.2411391&amp;lon=132.5558555&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【IMG_3679】 by Kai_Yi</p>',
       location: {
         center: [132.5558555, 34.2411391],
         zoom: 14,
@@ -157,7 +157,7 @@ const config = {
       title: '日招きの里 呉ハイカラ食堂',
       image: '',
       tweet_id: '',
-      description: '<p>3巻 P15  広島県呉市 宝町4</p> <p><img alt="610_7069" src="https://live.staticflickr.com/65535/50883132783_8009a079ca_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.2415568&amp;lon=132.5574165&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【610_7069】 by Lox Pix</p>',
+      description: '<p>3巻 P15  広島県呉市 宝町4</p> <p><img alt="IMG_3726" src="https://live.staticflickr.com/65535/51405276005_dd1cf78494_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.2415568&amp;lon=132.5574165&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【IMG_3726】 by Kai_Yi</p>',
       location: {
         center: [132.5574165, 34.2415568],
         zoom: 14,
@@ -257,7 +257,7 @@ const config = {
       title: '鼓岩（付近）',
       image: '',
       tweet_id: '',
-      description: '<p>3巻 P29  広島県尾道市 東土堂町5</p> <p><img alt="610_7873" src="https://live.staticflickr.com/65535/51345368744_c7ccc5f886_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.4097831&amp;lon=133.1976363&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【610_7873】 by Lox Pix</p>',
+      description: '<p>3巻 P29  広島県尾道市 東土堂町5</p> <p><img alt="A walk in Onomichi" src="https://live.staticflickr.com/65535/51166042240_d8c4edc892_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.4097831&amp;lon=133.1976363&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【A walk in Onomichi】 by Blue Ridge Walker</p>',
       location: {
         center: [133.1976363, 34.4097831],
         zoom: 14,
