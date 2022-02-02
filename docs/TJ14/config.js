@@ -36,8 +36,8 @@ const config = {
       hidden: false,
       title: '立川駅',
       image: '',
-      tweet_id: '1485782276965552129',
-      description: '<p>4巻 P96  東京都立川市 柴崎町三丁目1</p><div class="tweetContainer" id="tweet1485782276965552129"></div> ',
+      tweet_id: '1488802005023956998',
+      description: '<p>4巻 P96  東京都立川市 柴崎町三丁目1</p><div class="tweetContainer" id="tweet1488802005023956998"></div> ',
       location: {
         center: [139.4137408, 35.6979144],
         zoom: 14,

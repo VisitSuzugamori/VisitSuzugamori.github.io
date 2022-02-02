@@ -16,8 +16,8 @@ const config = {
       hidden: false,
       title: '東京駅',
       image: '',
-      tweet_id: '1487080622086496260',
-      description: '<p>5巻 P60  東京都千代田区 丸の内一丁目9</p><div class="tweetContainer" id="tweet1487080622086496260"></div> ',
+      tweet_id: '1488363099614638082',
+      description: '<p>5巻 P60  東京都千代田区 丸の内一丁目9</p><div class="tweetContainer" id="tweet1488363099614638082"></div> ',
       location: {
         center: [139.7671248, 35.6812362],
         zoom: 14,
@@ -36,8 +36,8 @@ const config = {
       hidden: false,
       title: '小倉駅',
       image: '',
-      tweet_id: '1486596314586615809',
-      description: '<p>5巻 P61  福岡県北九州市 小倉北区 京町三丁目8</p><div class="tweetContainer" id="tweet1486596314586615809"></div> ',
+      tweet_id: '1488830759834353667',
+      description: '<p>5巻 P61  福岡県北九州市 小倉北区 京町三丁目8</p><div class="tweetContainer" id="tweet1488830759834353667"></div> ',
       location: {
         center: [130.8825758, 33.8869679],
         zoom: 14,

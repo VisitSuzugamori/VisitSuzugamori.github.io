@@ -256,8 +256,8 @@ const config = {
       hidden: false,
       title: '稲佐の浜(弁天島)',
       image: '',
-      tweet_id: '',
-      description: '<p>3巻 P143  島根県出雲市 大社町杵築北2844</p> <p><img alt="Bentenjima" src="https://live.staticflickr.com/65535/51820613402_82c2847af9_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.4003035&amp;lon=132.6719106&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Bentenjima】 by 雷太</p>',
+      tweet_id: '1488447490093318145',
+      description: '<p>3巻 P143  島根県出雲市 大社町杵築北2844</p><div class="tweetContainer" id="tweet1488447490093318145"></div> ',
       location: {
         center: [132.6719106, 35.4003035],
         zoom: 14,
@@ -276,8 +276,8 @@ const config = {
       hidden: false,
       title: '出雲大社前駅',
       image: '',
-      tweet_id: '1487997728743464961',
-      description: '<p>3巻 P145  島根県出雲市 大社町杵築南1346</p><div class="tweetContainer" id="tweet1487997728743464961"></div> ',
+      tweet_id: '1488136624857038848',
+      description: '<p>3巻 P145  島根県出雲市 大社町杵築南1346</p><div class="tweetContainer" id="tweet1488136624857038848"></div> ',
       location: {
         center: [132.6870732, 35.3935224],
         zoom: 14,

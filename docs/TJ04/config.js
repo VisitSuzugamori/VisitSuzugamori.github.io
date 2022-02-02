@@ -36,8 +36,8 @@ const config = {
       hidden: false,
       title: '岡山駅',
       image: '',
-      tweet_id: '1485163336220409856',
-      description: '<p>1巻 P130  岡山県岡山市 北区 駅元町11</p><div class="tweetContainer" id="tweet1485163336220409856"></div> ',
+      tweet_id: '1488308909227974656',
+      description: '<p>1巻 P130  岡山県岡山市 北区 駅元町11</p><div class="tweetContainer" id="tweet1488308909227974656"></div> ',
       location: {
         center: [133.9177335, 34.6661212],
         zoom: 14,
@@ -97,7 +97,7 @@ const config = {
       title: '八栗駅',
       image: '',
       tweet_id: '',
-      description: '<p>1巻 P134  香川県高松市 牟礼町牟礼2210</p> <p><img alt="帰り道の電車" src="https://live.staticflickr.com/715/21694861128_40dc0f9dc7_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.3446375&amp;lon=134.122008&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【帰り道の電車】 by 風の色写真館（讃岐東部の写真集）</p>',
+      description: '<p>1巻 P134  香川県高松市 牟礼町牟礼2210</p> <p><img alt="DSC05062.JPG" src="https://live.staticflickr.com/5310/5676463257_94db23e1b1_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.3446375&amp;lon=134.122008&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【DSC05062.JPG】 by t.nanba</p>',
       location: {
         center: [134.122008, 34.3446375],
         zoom: 14,
@@ -117,7 +117,7 @@ const config = {
       title: '総門跡',
       image: '',
       tweet_id: '',
-      description: '<p>1巻 P134  香川県高松市 牟礼町牟礼2418</p> <p><img alt="DSC05066.JPG" src="https://live.staticflickr.com/5149/5677062182_4de4f91ac1_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.345598&amp;lon=134.1223194&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【DSC05066.JPG】 by t.nanba</p>',
+      description: '<p>1巻 P134  香川県高松市 牟礼町牟礼2418</p> <p><img alt="帰り道の電車" src="https://live.staticflickr.com/715/21694861128_40dc0f9dc7_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.345598&amp;lon=134.1223194&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【帰り道の電車】 by 風の色写真館（讃岐東部の写真集）</p>',
       location: {
         center: [134.1223194, 34.345598],
         zoom: 14,
@@ -157,7 +157,7 @@ const config = {
       title: '八栗ケーブル',
       image: '',
       tweet_id: '',
-      description: '<p>1巻 P142  香川県高松市 牟礼町牟礼3369</p> <p><img alt="DSC05057.JPG" src="https://live.staticflickr.com/5027/5676973164_2f8a3c1952_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.3551328&amp;lon=134.1336543&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【DSC05057.JPG】 by t.nanba</p>',
+      description: '<p>1巻 P142  香川県高松市 牟礼町牟礼3369</p> <p><img alt="DSC05029.JPG" src="https://live.staticflickr.com/5310/5675730529_1bb3835e74_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.3551328&amp;lon=134.1336543&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【DSC05029.JPG】 by t.nanba</p>',
       location: {
         center: [134.1336543, 34.3551328],
         zoom: 14,
@@ -197,7 +197,7 @@ const config = {
       title: 'ルピナス',
       image: '',
       tweet_id: '',
-      description: '<p>1巻 P148  香川県高松市 西の丸町6</p> <p><img alt="JR四国5000系" src="https://live.staticflickr.com/65535/51684324884_f2e40f83f0_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.3497929&amp;lon=134.0469322&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【JR四国5000系】 by Hikoki-kun.</p>',
+      description: '<p>1巻 P148  香川県高松市 西の丸町6</p> <p><img alt="高松港" src="https://live.staticflickr.com/65535/51569364212_689a636229_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.3497929&amp;lon=134.0469322&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【高松港】 by Chitaka Chou</p>',
       location: {
         center: [134.0469322, 34.3497929],
         zoom: 14,
@@ -236,8 +236,8 @@ const config = {
       hidden: false,
       title: '栗林公園',
       image: '',
-      tweet_id: '',
-      description: '<p>1巻 P157  香川県高松市 栗林町一丁目20</p> <p><img alt="" src="https://live.staticflickr.com/65535/51314645366_d70604af37_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.3293842&amp;lon=134.0445345&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【】 by perioanajou</p>',
+      tweet_id: '1488054530596282372',
+      description: '<p>1巻 P157  香川県高松市 栗林町一丁目20</p><div class="tweetContainer" id="tweet1488054530596282372"></div> ',
       location: {
         center: [134.0445345, 34.3293842],
         zoom: 14,
