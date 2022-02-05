@@ -37,7 +37,7 @@ const config = {
       title: '総合体育館前（バス）',
       image: '',
       tweet_id: '',
-      description: '<p>4巻 P9  島根県松江市 学園南二丁目5</p> <p><img alt="C56131 松江市北公園" src="https://live.staticflickr.com/5585/15117064830_54b2dcc3f0_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.4731536&amp;lon=133.0660854&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【C56131 松江市北公園】 by OOMYV</p>',
+      description: '<p>4巻 P9  島根県松江市 学園南二丁目5</p> <p><img alt="試合終了。残念ながら、89-93で敗北。燃えたゲームでした。" src="https://live.staticflickr.com/8512/8415744955_cfdc8f3250_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.4731536&amp;lon=133.0660854&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【試合終了。残念ながら、89-93で敗北。燃えたゲームでした。】 by Nagatani Jungo</p>',
       location: {
         center: [133.0660854, 35.4731536],
         zoom: 14,
@@ -97,7 +97,7 @@ const config = {
       title: '廻船御用水',
       image: '',
       tweet_id: '',
-      description: '<p>4巻 P13  島根県松江市 美保関町美保関</p> <p><img alt="Miho Jinja Shrine" src="https://live.staticflickr.com/7821/46200567295_95f6e81851_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.5623016&amp;lon=133.3074953&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Miho Jinja Shrine】 by hapePHOTOGRAPHIX</p>',
+      description: '<p>4巻 P13  島根県松江市 美保関町美保関</p> <p><img alt="Anchor" src="https://live.staticflickr.com/65535/48111991997_a5260003ae_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.5623016&amp;lon=133.3074953&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Anchor】 by Teruhide Tomori</p>',
       location: {
         center: [133.3074953, 35.5623016],
         zoom: 14,
@@ -197,7 +197,7 @@ const config = {
       title: '恵美須社',
       image: '',
       tweet_id: '',
-      description: '<p>4巻 P37  島根県松江市 </p> <p><img alt="前往美保關的路上, Study 1" src="https://live.staticflickr.com/1977/44783390065_422f02b3c7_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.5642081&amp;lon=133.3198608&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【前往美保關的路上, Study 1】 by Zale Yu</p>',
+      description: '<p>4巻 P37  島根県松江市 </p> <p><img alt="DSCN0066" src="https://live.staticflickr.com/8882/18571418810_04a0dae5f8_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.5642081&amp;lon=133.3198608&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【DSCN0066】 by rurinoshima</p>',
       location: {
         center: [133.3198608, 35.5642081],
         zoom: 14,
