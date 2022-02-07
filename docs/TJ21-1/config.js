@@ -156,8 +156,8 @@ const config = {
       hidden: false,
       title: '金森赤レンガ倉庫',
       image: '',
-      tweet_id: '',
-      description: '<p>   北海道函館市 豊川町11</p> <p><img alt="_DSC2863" src="https://live.staticflickr.com/65535/51569893205_08fea73a1a_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=41.7673531&amp;lon=140.7176349&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【_DSC2863】 by de98lip</p>',
+      tweet_id: '1490126421397843968',
+      description: '<p>   北海道函館市 豊川町11</p><div class="tweetContainer" id="tweet1490126421397843968"></div> ',
       location: {
         center: [140.7176349, 41.7673531],
         zoom: 14,
@@ -236,8 +236,8 @@ const config = {
       hidden: false,
       title: '函館山ロープウェイ山麓駅',
       image: '',
-      tweet_id: '',
-      description: '<p>   北海道函館市 元町19</p> <p><img alt="_DSC2833" src="https://live.staticflickr.com/65535/51568966396_d672f1c502_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=41.7609078&amp;lon=140.7143007&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【_DSC2833】 by de98lip</p>',
+      tweet_id: '1489918200196304898',
+      description: '<p>   北海道函館市 元町19</p><div class="tweetContainer" id="tweet1489918200196304898"></div> ',
       location: {
         center: [140.7143007, 41.7609078],
         zoom: 14,

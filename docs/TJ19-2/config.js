@@ -16,8 +16,8 @@ const config = {
       hidden: false,
       title: '東京駅',
       image: '',
-      tweet_id: '1489081632669650944',
-      description: '<p>6巻 P38  東京都千代田区 丸の内一丁目9</p><div class="tweetContainer" id="tweet1489081632669650944"></div> ',
+      tweet_id: '1489536807264210949',
+      description: '<p>6巻 P38  東京都千代田区 丸の内一丁目9</p><div class="tweetContainer" id="tweet1489536807264210949"></div> ',
       location: {
         center: [139.7671248, 35.6812362],
         zoom: 14,
@@ -57,7 +57,7 @@ const config = {
       title: '路面電車',
       image: '',
       tweet_id: '',
-      description: '<p>6巻 P39  東京都北区 滝野川二丁目4</p> <p><img alt="Oji 王子" src="https://live.staticflickr.com/65535/51697496516_2b3a25589e_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.7519289&amp;lon=139.7364344&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Oji 王子】 by Propangas</p>',
+      description: '<p>6巻 P39  東京都北区 滝野川二丁目4</p> <p><img alt="Oji 王子" src="https://live.staticflickr.com/65535/51698180254_4e3eee5620_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.7519289&amp;lon=139.7364344&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Oji 王子】 by Propangas</p>',
       location: {
         center: [139.7364344, 35.7519289],
         zoom: 14,
@@ -136,8 +136,8 @@ const config = {
       hidden: false,
       title: '渋川駅',
       image: '',
-      tweet_id: '1486884288276668417',
-      description: '<p>6巻 P42  群馬県渋川市 渋川1655</p><div class="tweetContainer" id="tweet1486884288276668417"></div> ',
+      tweet_id: '1490167711842050050',
+      description: '<p>6巻 P42  群馬県渋川市 渋川1655</p><div class="tweetContainer" id="tweet1490167711842050050"></div> ',
       location: {
         center: [139.0087977, 36.4913217],
         zoom: 14,

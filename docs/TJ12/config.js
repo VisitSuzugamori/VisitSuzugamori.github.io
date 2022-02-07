@@ -197,7 +197,7 @@ const config = {
       title: '渡り温泉 ホテルさつき・別邸楓',
       image: '',
       tweet_id: '',
-      description: '<p>3巻 P112  岩手県花巻市 湯口字渡り24</p> <p><img alt="朝から露天風呂なう(・∀・)" src="https://live.staticflickr.com/7004/13589732694_59d414253f_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=39.4256925&amp;lon=141.0151992&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【朝から露天風呂なう(・∀・)】 by ともぞう</p>',
+      description: '<p>3巻 P112  岩手県花巻市 湯口字渡り24</p> <p><img alt="DSC00096" src="https://live.staticflickr.com/5721/31313355952_df5b570cf9_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=39.4256925&amp;lon=141.0151992&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【DSC00096】 by DYKT Mohigan</p>',
       location: {
         center: [141.0151992, 39.4256925],
         zoom: 14,
@@ -277,7 +277,7 @@ const config = {
       title: '中尊寺',
       image: '',
       tweet_id: '',
-      description: '<p>3巻 P118  岩手県西磐井郡 平泉町 平泉43</p> <p><img alt="中尊寺" src="https://live.staticflickr.com/65535/51787089290_c3be0cb13d_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=39.0017355&amp;lon=141.102596&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【中尊寺】 by Chitaka Chou</p>',
+      description: '<p>3巻 P118  岩手県西磐井郡 平泉町 平泉43</p> <p><img alt="中尊寺" src="https://live.staticflickr.com/65535/51786837034_5d0073c023_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=39.0017355&amp;lon=141.102596&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【中尊寺】 by Chitaka Chou</p>',
       location: {
         center: [141.102596, 39.0017355],
         zoom: 14,

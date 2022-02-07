@@ -57,7 +57,7 @@ const config = {
       title: '賀毗禮神宮',
       image: '',
       tweet_id: '',
-      description: '<p>5巻 P40  茨城県日立市 </p> <p><img alt="20181008-091000-44" src="https://live.staticflickr.com/1927/30261306427_85b2179b26_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=36.6319654&amp;lon=140.5907626&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【20181008-091000-44】 by giu205</p>',
+      description: '<p>5巻 P40  茨城県日立市 </p> <p><img alt="20181008-091903-46" src="https://live.staticflickr.com/1937/44288874835_15616258c1_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=36.6319654&amp;lon=140.5907626&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【20181008-091903-46】 by giu205</p>',
       location: {
         center: [140.5907626, 36.6319654],
         zoom: 14,
@@ -76,8 +76,8 @@ const config = {
       hidden: false,
       title: '御岩山',
       image: '',
-      tweet_id: '1487354750756876289',
-      description: '<p>5巻 P46  茨城県日立市 </p><div class="tweetContainer" id="tweet1487354750756876289"></div> ',
+      tweet_id: '',
+      description: '<p>5巻 P46  茨城県日立市 </p> ',
       location: {
         center: [140.5934666, 36.6325788],
         zoom: 14,
@@ -96,8 +96,8 @@ const config = {
       hidden: false,
       title: '日立駅',
       image: '',
-      tweet_id: '1487181273126748160',
-      description: '<p>5巻 P51  茨城県日立市 旭町一丁目3</p><div class="tweetContainer" id="tweet1487181273126748160"></div> ',
+      tweet_id: '1487682122882379776',
+      description: '<p>5巻 P51  茨城県日立市 旭町一丁目3</p><div class="tweetContainer" id="tweet1487682122882379776"></div> ',
       location: {
         center: [140.6621017, 36.5906849],
         zoom: 14,

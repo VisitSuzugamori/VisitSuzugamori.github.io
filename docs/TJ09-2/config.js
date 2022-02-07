@@ -17,7 +17,7 @@ const config = {
       title: '嚴島神社',
       image: '',
       tweet_id: '',
-      description: '<p>3巻 P5  </p> <p><img alt="Itsukushima-jinja (Itsukushima Shrine) | Miyajima, Hiroshima Prefecture, Japan" src="https://live.staticflickr.com/65535/51825488692_7f7464b69a_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.2959885&amp;lon=132.3198262&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Itsukushima-jinja (Itsukushima Shrine) | Miyajima, Hiroshima Prefecture, Japan】 by paintingwithlight75</p>',
+      description: '<p>3巻 P5  </p> <p><img alt="Itsukushima Jinja" src="https://live.staticflickr.com/65535/51866671790_4399fdcd98_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.2959885&amp;lon=132.3198262&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Itsukushima Jinja】 by kewing</p>',
       location: {
         center: [132.3198262, 34.2959885],
         zoom: 14,
@@ -76,8 +76,8 @@ const config = {
       hidden: false,
       title: '呉駅',
       image: '',
-      tweet_id: '1488265306707349504',
-      description: '<p>3巻 P11  広島県呉市 宝町2</p><div class="tweetContainer" id="tweet1488265306707349504"></div> ',
+      tweet_id: '1489815041134129154',
+      description: '<p>3巻 P11  広島県呉市 宝町2</p><div class="tweetContainer" id="tweet1489815041134129154"></div> ',
       location: {
         center: [132.5575846, 34.2446471],
         zoom: 14,
@@ -137,7 +137,7 @@ const config = {
       title: '大和ミュージアム（呉市海事歴史科学館）',
       image: '',
       tweet_id: '',
-      description: '<p>3巻 P15  広島県呉市 宝町4</p> <p><img alt="IMG_3679" src="https://live.staticflickr.com/65535/51405280700_e789a6d203_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.2411391&amp;lon=132.5558555&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【IMG_3679】 by Kai_Yi</p>',
+      description: '<p>3巻 P15  広島県呉市 宝町4</p> <p><img alt="IMG_3689" src="https://live.staticflickr.com/65535/51404563783_5d6a41448b_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.2411391&amp;lon=132.5558555&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【IMG_3689】 by Kai_Yi</p>',
       location: {
         center: [132.5558555, 34.2411391],
         zoom: 14,
