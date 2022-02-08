@@ -96,8 +96,8 @@ const config = {
       hidden: false,
       title: '下北駅',
       image: '',
-      tweet_id: '1487735038913482753',
-      description: '<p>3巻 P47  青森県むつ市 下北町4</p><div class="tweetContainer" id="tweet1487735038913482753"></div> ',
+      tweet_id: '',
+      description: '<p>3巻 P47  青森県むつ市 下北町4</p> <p><img alt="mutsu_20210812191321" src="https://live.staticflickr.com/65535/51821101050_191b79fcd7_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=41.2827427&amp;lon=141.1899038&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【mutsu_20210812191321】 by inunami</p>',
       location: {
         center: [141.1899038, 41.2827427],
         zoom: 14,
@@ -117,7 +117,7 @@ const config = {
       title: '三途の川',
       image: '',
       tweet_id: '',
-      description: '<p>3巻 P49  青森県むつ市 </p> <p><img alt="Mutsu Oct 17 55" src="https://live.staticflickr.com/566/22580331092_51a11811f9_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=41.3260657&amp;lon=141.0962272&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Mutsu Oct 17 55】 by tculek</p>',
+      description: '<p>3巻 P49  青森県むつ市 </p> <p><img alt="Mutsu Oct 17 68" src="https://live.staticflickr.com/5794/21971110014_5ec226ab08_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=41.3260657&amp;lon=141.0962272&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Mutsu Oct 17 68】 by tculek</p>',
       location: {
         center: [141.0962272, 41.3260657],
         zoom: 14,
@@ -137,7 +137,7 @@ const config = {
       title: '恐山菩提寺',
       image: '',
       tweet_id: '',
-      description: '<p>3巻 P49  青森県むつ市 </p> <p><img alt="Brána do zásvětí" src="https://live.staticflickr.com/65535/51547085772_622db872a4_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=41.327247&amp;lon=141.0907618&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Brána do zásvětí】 by SocialHermit</p>',
+      description: '<p>3巻 P49  青森県むつ市 </p> <p><img alt="Daishido" src="https://live.staticflickr.com/65535/51548800235_c2d41c58e1_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=41.327247&amp;lon=141.0907618&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Daishido】 by SocialHermit</p>',
       location: {
         center: [141.0907618, 41.327247],
         zoom: 14,
@@ -157,7 +157,7 @@ const config = {
       title: '宇曽利山湖 極楽浜',
       image: '',
       tweet_id: '',
-      description: '<p>3巻 P51  青森県むつ市 </p> <p><img alt="恐山" src="https://live.staticflickr.com/65535/50327664441_0856db8fa1_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=41.3264966&amp;lon=141.086011&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【恐山】 by himeti</p>',
+      description: '<p>3巻 P51  青森県むつ市 </p> <p><img alt="恐山(Mt. Osorezan)" src="https://live.staticflickr.com/4181/33624245414_bb17444860_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=41.3264966&amp;lon=141.086011&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【恐山(Mt. Osorezan)】 by seto</p>',
       location: {
         center: [141.086011, 41.3264966],
         zoom: 14,
@@ -177,7 +177,7 @@ const config = {
       title: '恐山 花染の湯',
       image: '',
       tweet_id: '',
-      description: '<p>3巻 P52  青森県むつ市 </p> <p><img alt="Pekelná krajina" src="https://live.staticflickr.com/65535/51548121888_2ae021f18a_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=41.3283697&amp;lon=141.0917047&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Pekelná krajina】 by SocialHermit</p>',
+      description: '<p>3巻 P52  青森県むつ市 </p> <p><img alt="Brána do zásvětí" src="https://live.staticflickr.com/65535/51547085772_622db872a4_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=41.3283697&amp;lon=141.0917047&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Brána do zásvětí】 by SocialHermit</p>',
       location: {
         center: [141.0917047, 41.3283697],
         zoom: 14,
