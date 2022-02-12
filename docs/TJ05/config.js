@@ -57,7 +57,7 @@ const config = {
       title: '藤岡酒造',
       image: '',
       tweet_id: '',
-      description: '<p>2巻 P16  京都府京都市 伏見区 今町669</p> <p><img alt="珍遊のラーメン" src="https://live.staticflickr.com/65535/50115002776_30c119f009_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.9351213&amp;lon=135.7624568&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【珍遊のラーメン】 by albertus</p>',
+      description: '<p>2巻 P16  京都府京都市 伏見区 今町669</p> <p><img alt="Sake Kasu Ramen" src="https://live.staticflickr.com/680/20927759143_085de6aa5a_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.9351213&amp;lon=135.7624568&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Sake Kasu Ramen】 by eric ...</p>',
       location: {
         center: [135.7624568, 34.9351213],
         zoom: 14,
@@ -77,7 +77,7 @@ const config = {
       title: '月桂冠大倉記念館',
       image: '',
       tweet_id: '',
-      description: '<p>2巻 P17  京都府京都市 伏見区 本材木町680</p> <p><img alt="長建寺" src="https://live.staticflickr.com/65535/50311170767_f814092770_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.929136&amp;lon=135.76161&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【長建寺】 by albertus</p>',
+      description: '<p>2巻 P17  京都府京都市 伏見区 本材木町680</p> <p><img alt="京都伏見十石舟・三十石船" src="https://live.staticflickr.com/65535/49749173091_d6d999b9c6_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.929136&amp;lon=135.76161&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【京都伏見十石舟・三十石船】 by YUSHENG HSU</p>',
       location: {
         center: [135.76161, 34.929136],
         zoom: 14,
@@ -116,8 +116,8 @@ const config = {
       hidden: false,
       title: '伏見稲荷駅',
       image: '',
-      tweet_id: '',
-      description: '<p>2巻 P18  京都府京都市 伏見区 深草一ノ坪町20</p> <p><img alt="IMG_1985" src="https://live.staticflickr.com/65535/51525837721_a57de874fc_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.9687541&amp;lon=135.7692088&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【IMG_1985】 by lee-tw</p>',
+      tweet_id: '1491701006891061253',
+      description: '<p>2巻 P18  京都府京都市 伏見区 深草一ノ坪町20</p><div class="tweetContainer" id="tweet1491701006891061253"></div> ',
       location: {
         center: [135.7692088, 34.9687541],
         zoom: 14,
@@ -197,7 +197,7 @@ const config = {
       title: '天橋立ビューランド リフト・モノレールのりば',
       image: '',
       tweet_id: '',
-      description: '<p>2巻 P31  京都府宮津市 字文珠190</p> <p><img alt="IMG_1583" src="https://live.staticflickr.com/65535/51257465927_a0b39d4b82_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.5557202&amp;lon=135.1839285&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【IMG_1583】 by Chico Leung</p>',
+      description: '<p>2巻 P31  京都府宮津市 字文珠190</p> <p><img alt="amanohashidate_20211008155541" src="https://live.staticflickr.com/65535/51812257259_2bcfa21c1e_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.5557202&amp;lon=135.1839285&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【amanohashidate_20211008155541】 by inunami</p>',
       location: {
         center: [135.1839285, 35.5557202],
         zoom: 14,

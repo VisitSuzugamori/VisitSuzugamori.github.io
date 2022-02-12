@@ -17,7 +17,7 @@ const config = {
       title: '嚴島神社',
       image: '',
       tweet_id: '',
-      description: '<p>3巻 P5  </p> <p><img alt="Itsukushima Jinja: Torii" src="https://live.staticflickr.com/65535/51865051617_ac1415f360_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.2959885&amp;lon=132.3198262&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Itsukushima Jinja: Torii】 by kewing</p>',
+      description: '<p>3巻 P5  </p> <p><img alt="Itsukushima Jinja" src="https://live.staticflickr.com/65535/51866671790_4399fdcd98_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.2959885&amp;lon=132.3198262&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Itsukushima Jinja】 by kewing</p>',
       location: {
         center: [132.3198262, 34.2959885],
         zoom: 14,
@@ -117,7 +117,7 @@ const config = {
       title: '呉湾艦船めぐり',
       image: '',
       tweet_id: '',
-      description: '<p>3巻 P14  広島県呉市 宝町4</p> <p><img alt="Kure Hiroshima, manhole cover 4 （広島県呉市のマンホール４）" src="https://live.staticflickr.com/65535/51772915195_7ffdd61fe5_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.2405577&amp;lon=132.5564318&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Kure Hiroshima, manhole cover 4 （広島県呉市のマンホール４）】 by MRSY</p>',
+      description: '<p>3巻 P14  広島県呉市 宝町4</p> <p><img alt="610_7069" src="https://live.staticflickr.com/65535/50883132783_8009a079ca_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.2405577&amp;lon=132.5564318&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【610_7069】 by Lox Pix</p>',
       location: {
         center: [132.5564318, 34.2405577],
         zoom: 14,
@@ -137,7 +137,7 @@ const config = {
       title: '大和ミュージアム（呉市海事歴史科学館）',
       image: '',
       tweet_id: '',
-      description: '<p>3巻 P15  広島県呉市 宝町4</p> <p><img alt="IMG_3726" src="https://live.staticflickr.com/65535/51405276005_dd1cf78494_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.2411391&amp;lon=132.5558555&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【IMG_3726】 by Kai_Yi</p>',
+      description: '<p>3巻 P15  広島県呉市 宝町4</p> <p><img alt="Kure Hiroshima, manhole cover 4 （広島県呉市のマンホール４）" src="https://live.staticflickr.com/65535/51772915195_7ffdd61fe5_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.2411391&amp;lon=132.5558555&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Kure Hiroshima, manhole cover 4 （広島県呉市のマンホール４）】 by MRSY</p>',
       location: {
         center: [132.5558555, 34.2411391],
         zoom: 14,
@@ -157,7 +157,7 @@ const config = {
       title: '日招きの里 呉ハイカラ食堂',
       image: '',
       tweet_id: '',
-      description: '<p>3巻 P15  広島県呉市 宝町4</p> <p><img alt="610_7069" src="https://live.staticflickr.com/65535/50883132783_8009a079ca_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.2415568&amp;lon=132.5574165&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【610_7069】 by Lox Pix</p>',
+      description: '<p>3巻 P15  広島県呉市 宝町4</p> <p><img alt="IMG_3726" src="https://live.staticflickr.com/65535/51405276005_dd1cf78494_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.2415568&amp;lon=132.5574165&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【IMG_3726】 by Kai_Yi</p>',
       location: {
         center: [132.5574165, 34.2415568],
         zoom: 14,
@@ -176,8 +176,8 @@ const config = {
       hidden: false,
       title: '尾道駅',
       image: '',
-      tweet_id: '1488868241451585536',
-      description: '<p>3巻 P19  広島県尾道市 東御所町1</p><div class="tweetContainer" id="tweet1488868241451585536"></div> ',
+      tweet_id: '1491963059769913347',
+      description: '<p>3巻 P19  広島県尾道市 東御所町1</p><div class="tweetContainer" id="tweet1491963059769913347"></div> ',
       location: {
         center: [133.193159, 34.4048654],
         zoom: 14,
