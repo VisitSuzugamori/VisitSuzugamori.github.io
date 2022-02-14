@@ -17,7 +17,7 @@ const config = {
       title: '八甲田ロープウェイ 山頂公園駅',
       image: '',
       tweet_id: '',
-      description: '<p>3巻 P31  青森県青森市 </p> <p><img alt="八甲田" src="https://live.staticflickr.com/65535/51812368835_3f0bf28b58_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=40.6758222&amp;lon=140.8588135&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【八甲田】 by Chitaka Chou</p>',
+      description: '<p>3巻 P31  青森県青森市 </p> <p><img alt="八甲田" src="https://live.staticflickr.com/65535/51812368510_ce4b5d07fd_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=40.6758222&amp;lon=140.8588135&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【八甲田】 by Chitaka Chou</p>',
       location: {
         center: [140.8588135, 40.6758222],
         zoom: 14,
@@ -56,8 +56,8 @@ const config = {
       hidden: false,
       title: '八甲田 山頂公園',
       image: '',
-      tweet_id: '',
-      description: '<p>3巻 P34  青森県青森市 </p> <p><img alt="八甲田" src="https://live.staticflickr.com/65535/51810683007_e69a4b9c72_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=40.6757743&amp;lon=140.8592116&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【八甲田】 by Chitaka Chou</p>',
+      tweet_id: '1492710291209175041',
+      description: '<p>3巻 P34  青森県青森市 </p><div class="tweetContainer" id="tweet1492710291209175041"></div> ',
       location: {
         center: [140.8592116, 40.6757743],
         zoom: 14,
@@ -97,7 +97,7 @@ const config = {
       title: '下北駅',
       image: '',
       tweet_id: '',
-      description: '<p>3巻 P47  青森県むつ市 下北町4</p> <p><img alt="mutsu_20210812191321" src="https://live.staticflickr.com/65535/51821101050_191b79fcd7_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=41.2827427&amp;lon=141.1899038&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【mutsu_20210812191321】 by inunami</p>',
+      description: '<p>3巻 P47  青森県むつ市 下北町4</p> <p><img alt="mutsu_20210812205905" src="https://live.staticflickr.com/65535/51819433317_fecf974d7f_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=41.2827427&amp;lon=141.1899038&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【mutsu_20210812205905】 by inunami</p>',
       location: {
         center: [141.1899038, 41.2827427],
         zoom: 14,

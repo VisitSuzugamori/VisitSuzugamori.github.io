@@ -77,7 +77,7 @@ const config = {
       title: 'ショッピングセンター パステポコ・ア・ポコ南国店',
       image: '',
       tweet_id: '',
-      description: '<p>6巻 P73  高知県南国市 駅前町二丁目3</p> <p><img alt="nankoku_20190905111603" src="https://live.staticflickr.com/65535/49844880412_6cbf656155_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=33.578697&amp;lon=133.6453861&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【nankoku_20190905111603】 by inunami</p>',
+      description: '<p>6巻 P73  高知県南国市 駅前町二丁目3</p> <p><img alt="nankoku_20190905114442" src="https://live.staticflickr.com/65535/49844880052_32aae9bd78_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=33.578697&amp;lon=133.6453861&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【nankoku_20190905114442】 by inunami</p>',
       location: {
         center: [133.6453861, 33.578697],
         zoom: 14,
@@ -236,8 +236,8 @@ const config = {
       hidden: false,
       title: '佐々木酒食品',
       image: '',
-      tweet_id: '1489901978561875970',
-      description: '<p>6巻 P81  高知県高知市 横浜東町5</p><div class="tweetContainer" id="tweet1489901978561875970"></div> ',
+      tweet_id: '',
+      description: '<p>6巻 P81  高知県高知市 横浜東町5</p> <p><img alt="温肉ぶっかけ　よがなうどん" src="https://live.staticflickr.com/65535/50943993261_b4f4cff336_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=33.521597&amp;lon=133.545798&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【温肉ぶっかけ　よがなうどん】 by yajiro</p>',
       location: {
         center: [133.545798, 33.521597],
         zoom: 14,
@@ -256,8 +256,8 @@ const config = {
       hidden: false,
       title: '若宮八幡宮',
       image: '',
-      tweet_id: '1489850871026380804',
-      description: '<p>6巻 P82  高知県高知市 長浜4063</p><div class="tweetContainer" id="tweet1489850871026380804"></div> ',
+      tweet_id: '',
+      description: '<p>6巻 P82  高知県高知市 長浜4063</p> ',
       location: {
         center: [133.5439082, 33.4946664],
         zoom: 14,

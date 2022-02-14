@@ -136,8 +136,8 @@ const config = {
       hidden: false,
       title: '宮島桟橋',
       image: '',
-      tweet_id: '1489576056382439428',
-      description: '<p>2巻 P151  広島県廿日市市 宮島町873</p><div class="tweetContainer" id="tweet1489576056382439428"></div> ',
+      tweet_id: '',
+      description: '<p>2巻 P151  広島県廿日市市 宮島町873</p> <p><img alt="Miyajima: Fishing fleet flags" src="https://live.staticflickr.com/65535/51858509766_5f7154070c_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.3020862&amp;lon=132.3222151&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Miyajima: Fishing fleet flags】 by kewing</p>',
       location: {
         center: [132.3222151, 34.3020862],
         zoom: 14,
@@ -157,7 +157,7 @@ const config = {
       title: '嚴島神社 大鳥居（布の中）',
       image: '',
       tweet_id: '',
-      description: '<p>2巻 P152,153  </p> <p><img alt="Japan-8" src="https://live.staticflickr.com/65535/51856685462_fe7ce177c1_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.2973092&amp;lon=132.3181276&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Japan-8】 by finkandreas85</p>',
+      description: '<p>2巻 P152,153  </p> <p><img alt="Miyajima Matsudai Tourist Ship &quot;Aki&quot;" src="https://live.staticflickr.com/65535/51768856390_0596c0525b_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.2973092&amp;lon=132.3181276&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Miyajima Matsudai Tourist Ship &quot;Aki&quot;】 by Takk D. Martin</p>',
       location: {
         center: [132.3181276, 34.2973092],
         zoom: 14,

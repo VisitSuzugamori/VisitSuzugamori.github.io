@@ -36,8 +36,8 @@ const config = {
       hidden: false,
       title: '磐梯熱海駅',
       image: '',
-      tweet_id: '1489843599432986626',
-      description: '<p>1巻 P23  福島県郡山市 熱海町熱海一丁目109</p><div class="tweetContainer" id="tweet1489843599432986626"></div> ',
+      tweet_id: '1492402506160390150',
+      description: '<p>1巻 P23  福島県郡山市 熱海町熱海一丁目109</p><div class="tweetContainer" id="tweet1492402506160390150"></div> ',
       location: {
         center: [140.2708687, 37.4808961],
         zoom: 14,
@@ -56,8 +56,8 @@ const config = {
       hidden: false,
       title: '会津若松駅',
       image: '',
-      tweet_id: '1489936872084160513',
-      description: '<p>1巻 P24  福島県会津若松市 駅前町1</p><div class="tweetContainer" id="tweet1489936872084160513"></div> ',
+      tweet_id: '1492739008807325699',
+      description: '<p>1巻 P24  福島県会津若松市 駅前町1</p><div class="tweetContainer" id="tweet1492739008807325699"></div> ',
       location: {
         center: [139.9303261, 37.5078657],
         zoom: 14,
