@@ -77,7 +77,7 @@ const config = {
       title: '月桂冠大倉記念館',
       image: '',
       tweet_id: '',
-      description: '<p>2巻 P17  京都府京都市 伏見区 本材木町680</p> <p><img alt="Olden Days Flat Boat on a Canal Lined With Sakura in Kyoto." src="https://live.staticflickr.com/65535/49727690712_5e9d42e851_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.929136&amp;lon=135.76161&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Olden Days Flat Boat on a Canal Lined With Sakura in Kyoto.】 by KyotoDreamTrips</p>',
+      description: '<p>2巻 P17  京都府京都市 伏見区 本材木町680</p> <p><img alt="長建寺" src="https://live.staticflickr.com/65535/50311170767_f814092770_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.929136&amp;lon=135.76161&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【長建寺】 by albertus</p>',
       location: {
         center: [135.76161, 34.929136],
         zoom: 14,
@@ -177,7 +177,7 @@ const config = {
       title: '茶六本館',
       image: '',
       tweet_id: '',
-      description: '<p>2巻 P22  京都府宮津市 字本町842</p> <p><img alt="Miyazu#28" src="https://live.staticflickr.com/4362/36851465932_1a32ac830f_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.5368405&amp;lon=135.1918306&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Miyazu#28】 by tetsuo5</p>',
+      description: '<p>2巻 P22  京都府宮津市 字本町842</p> <p><img alt="Miyazu#23" src="https://live.staticflickr.com/4407/36150693163_25d560a8ca_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.5368405&amp;lon=135.1918306&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Miyazu#23】 by tetsuo5</p>',
       location: {
         center: [135.1918306, 35.5368405],
         zoom: 14,
@@ -216,8 +216,8 @@ const config = {
       hidden: false,
       title: '天橋立ビューランド',
       image: '',
-      tweet_id: '1490227802255212545',
-      description: '<p>2巻 P32  京都府宮津市 文珠1</p><div class="tweetContainer" id="tweet1490227802255212545"></div> ',
+      tweet_id: '',
+      description: '<p>2巻 P32  京都府宮津市 文珠1</p> <p><img alt="Mùa đông cuối" src="https://live.staticflickr.com/65535/51835712043_7982fe7e14_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.5527779&amp;lon=135.1821171&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Mùa đông cuối】 by KhánhDươnng</p>',
       location: {
         center: [135.1821171, 35.5527779],
         zoom: 14,
@@ -297,7 +297,7 @@ const config = {
       title: '天橋立神社',
       image: '',
       tweet_id: '',
-      description: '<p>2巻 P39  京都府宮津市 字文珠</p> <p><img alt="P1039247" src="https://live.staticflickr.com/65535/49332254667_d3dfc78c3e_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.5634066&amp;lon=135.1879155&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【P1039247】 by MakotoUmeda</p>',
+      description: '<p>2巻 P39  京都府宮津市 字文珠</p> <p><img alt="P1039248" src="https://live.staticflickr.com/65535/49332032556_d1a03f0566_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.5634066&amp;lon=135.1879155&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【P1039248】 by MakotoUmeda</p>',
       location: {
         center: [135.1879155, 35.5634066],
         zoom: 14,

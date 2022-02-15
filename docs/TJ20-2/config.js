@@ -36,8 +36,8 @@ const config = {
       hidden: false,
       title: '桂浜',
       image: '',
-      tweet_id: '1490335521901465609',
-      description: '<p>6巻 P108  高知県高知市 浦戸778</p><div class="tweetContainer" id="tweet1490335521901465609"></div> ',
+      tweet_id: '1492751855071674369',
+      description: '<p>6巻 P108  高知県高知市 浦戸778</p><div class="tweetContainer" id="tweet1492751855071674369"></div> ',
       location: {
         center: [133.5749209, 33.4971366],
         zoom: 14,
@@ -56,8 +56,8 @@ const config = {
       hidden: false,
       title: '坂本龍馬像',
       image: '',
-      tweet_id: '1492751855071674369',
-      description: '<p>6巻 P109  高知県高知市 浦戸6</p><div class="tweetContainer" id="tweet1492751855071674369"></div> ',
+      tweet_id: '1492654951994036225',
+      description: '<p>6巻 P109  高知県高知市 浦戸6</p><div class="tweetContainer" id="tweet1492654951994036225"></div> ',
       location: {
         center: [133.5754821, 33.4986187],
         zoom: 14,
@@ -76,8 +76,8 @@ const config = {
       hidden: false,
       title: '桂浜水族館',
       image: '',
-      tweet_id: '',
-      description: '<p>6巻 P116  高知県高知市 浦戸778</p> <p><img alt="Přichází se den" src="https://live.staticflickr.com/65535/51204646280_1b8ddee437_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=33.4969444&amp;lon=133.5736111&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Přichází se den】 by SocialHermit</p>',
+      tweet_id: '1493486702572503040',
+      description: '<p>6巻 P116  高知県高知市 浦戸778</p><div class="tweetContainer" id="tweet1493486702572503040"></div> ',
       location: {
         center: [133.5736111, 33.4969444],
         zoom: 14,
@@ -97,7 +97,7 @@ const config = {
       title: '龍王宮',
       image: '',
       tweet_id: '',
-      description: '<p>6巻 P117  高知県高知市 浦戸830</p> <p><img alt="桂浜" src="https://live.staticflickr.com/65535/50289035028_cfbdc52d93_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=33.4956281&amp;lon=133.5746555&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【桂浜】 by Chitaka Chou</p>',
+      description: '<p>6巻 P117  高知県高知市 浦戸830</p> <p><img alt="IMG_20210110_173250" src="https://live.staticflickr.com/65535/50839352018_0115eb6aaa_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=33.4956281&amp;lon=133.5746555&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【IMG_20210110_173250】 by Crush Yuta</p>',
       location: {
         center: [133.5746555, 33.4956281],
         zoom: 14,
@@ -137,7 +137,7 @@ const config = {
       title: '土佐三志士の像',
       image: '',
       tweet_id: '',
-      description: '<p>6巻 P122  高知県高知市 北本町二丁目10</p> <p><img alt="高知駅" src="https://live.staticflickr.com/65535/50296902157_7a932268df_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=33.5664177&amp;lon=133.5430255&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【高知駅】 by Chitaka Chou</p>',
+      description: '<p>6巻 P122  高知県高知市 北本町二丁目10</p> <p><img alt="2017-10-07, Kochi, Ekimae" src="https://live.staticflickr.com/65535/50492273251_5613843215_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=33.5664177&amp;lon=133.5430255&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【2017-10-07, Kochi, Ekimae】 by Fototak</p>',
       location: {
         center: [133.5430255, 33.5664177],
         zoom: 14,
@@ -156,8 +156,8 @@ const config = {
       hidden: false,
       title: '奈半利駅',
       image: '',
-      tweet_id: '1492711307828547584',
-      description: '<p>6巻 P124  高知県安芸郡 奈半利町 乙978</p><div class="tweetContainer" id="tweet1492711307828547584"></div> ',
+      tweet_id: '1493386695110238211',
+      description: '<p>6巻 P124  高知県安芸郡 奈半利町 乙978</p><div class="tweetContainer" id="tweet1493386695110238211"></div> ',
       location: {
         center: [134.0180808, 33.4250302],
         zoom: 14,
@@ -196,8 +196,8 @@ const config = {
       hidden: false,
       title: '旧魚梁瀬森林鉄道 法恩寺跨線橋',
       image: '',
-      tweet_id: '1490171254841643010',
-      description: '<p>6巻 P125  高知県安芸郡 奈半利町 乙234</p><div class="tweetContainer" id="tweet1490171254841643010"></div> ',
+      tweet_id: '',
+      description: '<p>6巻 P125  高知県安芸郡 奈半利町 乙234</p> ',
       location: {
         center: [134.0258951, 33.4178698],
         zoom: 14,
@@ -257,7 +257,7 @@ const config = {
       title: '龍王岬展望台',
       image: '',
       tweet_id: '',
-      description: '<p>6巻 P135  高知県高知市 浦戸830</p> <p><img alt="IMG_20210110_173250" src="https://live.staticflickr.com/65535/50839352018_0115eb6aaa_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=33.4955899&amp;lon=133.5743881&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【IMG_20210110_173250】 by Crush Yuta</p>',
+      description: '<p>6巻 P135  高知県高知市 浦戸830</p> <p><img alt="IMG_20210110_173342" src="https://live.staticflickr.com/65535/50840163587_c18da6cb09_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=33.4955899&amp;lon=133.5743881&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【IMG_20210110_173342】 by Crush Yuta</p>',
       location: {
         center: [133.5743881, 33.4955899],
         zoom: 14,

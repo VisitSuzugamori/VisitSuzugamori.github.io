@@ -97,7 +97,7 @@ const config = {
       title: '宮島口駅',
       image: '',
       tweet_id: '',
-      description: '<p>2巻 P147  広島県廿日市市 宮島口一丁目3</p> <p><img alt="IMG_3840" src="https://live.staticflickr.com/65535/51373328993_57f2969684_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.3120172&amp;lon=132.3029311&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【IMG_3840】 by ylefou2004</p>',
+      description: '<p>2巻 P147  広島県廿日市市 宮島口一丁目3</p> <p><img alt="Hiroden-Miyajimaguchi Station" src="https://live.staticflickr.com/65535/51331943546_9f5b2af971_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.3120172&amp;lon=132.3029311&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Hiroden-Miyajimaguchi Station】 by Kzaral</p>',
       location: {
         center: [132.3029311, 34.3120172],
         zoom: 14,
@@ -157,7 +157,7 @@ const config = {
       title: '嚴島神社 大鳥居（布の中）',
       image: '',
       tweet_id: '',
-      description: '<p>2巻 P152,153  </p> <p><img alt="Miyajima Matsudai Tourist Ship &quot;Aki&quot;" src="https://live.staticflickr.com/65535/51768856390_0596c0525b_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.2973092&amp;lon=132.3181276&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Miyajima Matsudai Tourist Ship &quot;Aki&quot;】 by Takk D. Martin</p>',
+      description: '<p>2巻 P152,153  </p> <p><img alt="JR West Miyajima Ferry &quot;Misen Maru&quot;" src="https://live.staticflickr.com/65535/51768218888_115d12c174_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.2973092&amp;lon=132.3181276&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【JR West Miyajima Ferry &quot;Misen Maru&quot;】 by Takk D. Martin</p>',
       location: {
         center: [132.3181276, 34.2973092],
         zoom: 14,

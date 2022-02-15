@@ -96,8 +96,8 @@ const config = {
       hidden: false,
       title: '日立駅',
       image: '',
-      tweet_id: '1492298383813672961',
-      description: '<p>5巻 P51  茨城県日立市 旭町一丁目3</p><div class="tweetContainer" id="tweet1492298383813672961"></div> ',
+      tweet_id: '1493043901397368832',
+      description: '<p>5巻 P51  茨城県日立市 旭町一丁目3</p><div class="tweetContainer" id="tweet1493043901397368832"></div> ',
       location: {
         center: [140.6621017, 36.5906849],
         zoom: 14,
@@ -117,7 +117,7 @@ const config = {
       title: '山文魚',
       image: '',
       tweet_id: '',
-      description: '<p>5巻 P52  茨城県日立市 旭町二丁目3</p> <p><img alt="IMG_0369.JPG" src="https://live.staticflickr.com/7012/6531086175_737290ac1b_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=36.5873526&amp;lon=140.6616108&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【IMG_0369.JPG】 by hottn</p>',
+      description: '<p>5巻 P52  茨城県日立市 旭町二丁目3</p> <p><img alt="Hitachi&#39;s beach has a road going over it." src="https://live.staticflickr.com/2529/3794111541_cda9dbfe99_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=36.5873526&amp;lon=140.6616108&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Hitachi&#39;s beach has a road going over it.】 by justindoub</p>',
       location: {
         center: [140.6616108, 36.5873526],
         zoom: 14,
