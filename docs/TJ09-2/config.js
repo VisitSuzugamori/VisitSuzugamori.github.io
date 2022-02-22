@@ -76,8 +76,8 @@ const config = {
       hidden: false,
       title: '呉駅',
       image: '',
-      tweet_id: '1493443730258690050',
-      description: '<p>3巻 P11  広島県呉市 宝町2</p><div class="tweetContainer" id="tweet1493443730258690050"></div> ',
+      tweet_id: '1494982829130018816',
+      description: '<p>3巻 P11  広島県呉市 宝町2</p><div class="tweetContainer" id="tweet1494982829130018816"></div> ',
       location: {
         center: [132.5575846, 34.2446471],
         zoom: 14,
@@ -137,7 +137,7 @@ const config = {
       title: '大和ミュージアム（呉市海事歴史科学館）',
       image: '',
       tweet_id: '',
-      description: '<p>3巻 P15  広島県呉市 宝町4</p> <p><img alt="IMG_3679" src="https://live.staticflickr.com/65535/51405280700_e789a6d203_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.2411391&amp;lon=132.5558555&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【IMG_3679】 by Kai_Yi</p>',
+      description: '<p>3巻 P15  広島県呉市 宝町4</p> <p><img alt="IMG_3689" src="https://live.staticflickr.com/65535/51404563783_5d6a41448b_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.2411391&amp;lon=132.5558555&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【IMG_3689】 by Kai_Yi</p>',
       location: {
         center: [132.5558555, 34.2411391],
         zoom: 14,
@@ -176,8 +176,8 @@ const config = {
       hidden: false,
       title: '尾道駅',
       image: '',
-      tweet_id: '1491963059769913347',
-      description: '<p>3巻 P19  広島県尾道市 東御所町1</p><div class="tweetContainer" id="tweet1491963059769913347"></div> ',
+      tweet_id: '1494911969656438784',
+      description: '<p>3巻 P19  広島県尾道市 東御所町1</p><div class="tweetContainer" id="tweet1494911969656438784"></div> ',
       location: {
         center: [133.193159, 34.4048654],
         zoom: 14,
