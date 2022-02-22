@@ -3335,8 +3335,7 @@
       </Point>
     </Placemark>
     <Placemark>
-      <name><![CDATA[う"ぇい"～
-]]></name>
+      <name><![CDATA[う"ぇい"～]]></name>
       <description>6巻P127 第20旅（後編）</description>
       <styleUrl>#icon-1899-FF5252-labelson</styleUrl>
       <Point>
@@ -3642,6 +3641,166 @@
       <Point>
         <coordinates>
           140.7143007,41.7609078,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>旅館一乃松</name>
+      <description>第21旅（前編）</description>
+      <styleUrl>#icon-1899-0288D1-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          140.7856914,41.7757667,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>湯倉神社 鳥居</name>
+      <description>第21旅（後編）</description>
+      <styleUrl>#icon-1899-0288D1-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          140.7909432,41.7815466,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>湯倉神社</name>
+      <description>第21旅（後編）</description>
+      <styleUrl>#icon-1899-0288D1-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          140.7910231,41.7821053,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>石川啄木像</name>
+      <description>第21旅（後編）</description>
+      <styleUrl>#icon-1899-0288D1-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          140.7536031,41.7723579,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>コーヒールームきくち</name>
+      <description>第21旅（後編）</description>
+      <styleUrl>#icon-1899-0288D1-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          140.7931866,41.7776852,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>湯川第２街区公園</name>
+      <description>第21旅（後編）</description>
+      <styleUrl>#icon-1899-0288D1-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          140.7929599,41.7770914,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>函館市熱帯植物園駐車場</name>
+      <description>第21旅（後編）</description>
+      <styleUrl>#icon-1899-0288D1-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          140.7883462,41.7741951,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>湯川堤防</name>
+      <description>第21旅（後編）</description>
+      <styleUrl>#icon-1899-0288D1-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          140.7874485,41.7731667,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>函館麺や 一文字 函館総本店</name>
+      <description>第21旅（後編）</description>
+      <styleUrl>#icon-1899-0288D1-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          140.7878883,41.7748933,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>漁火通</name>
+      <description>第21旅（後編）</description>
+      <styleUrl>#icon-1899-0288D1-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          140.7572748,41.7736848,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>日乃出ひまわり</name>
+      <description>第21旅（後編）</description>
+      <styleUrl>#icon-1899-0288D1-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          140.7530528,41.7727805,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>東屋（四阿）</name>
+      <description>第21旅（後編）</description>
+      <styleUrl>#icon-1899-0288D1-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          140.754053,41.7725071,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>函館グルメ回転ずし函太郎 宇賀浦本店</name>
+      <description>第21旅（後編）</description>
+      <styleUrl>#icon-1899-0288D1-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          140.745451,41.770788,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>大森町</name>
+      <description>第21旅（後編）</description>
+      <styleUrl>#icon-1899-0288D1-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          140.7404156,41.7697786,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>石川啄木一族の墓</name>
+      <description>第21旅（後編）</description>
+      <styleUrl>#icon-1899-0288D1-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          140.7194496,41.7474858,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>立待岬</name>
+      <description>第21旅（後編）</description>
+      <styleUrl>#icon-1899-0288D1-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          140.7212027,41.7450354,0
         </coordinates>
       </Point>
     </Placemark>

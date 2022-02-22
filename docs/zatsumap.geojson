@@ -4574,7 +4574,7 @@
             },
             "properties": {
                 "description": "6巻P127 第20旅（後編）",
-                "name": "う\"ぇい\"～\n"
+                "name": "う\"ぇい\"～"
             },
             "type": "Feature"
         },
@@ -4995,6 +4995,230 @@
             "properties": {
                 "description": "第21旅（前編）",
                 "name": "函館山ロープウェイ山麓駅"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.7856914,
+                    41.7757667
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "第21旅（前編）",
+                "name": "旅館一乃松"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.7909432,
+                    41.7815466
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "第21旅（後編）",
+                "name": "湯倉神社 鳥居"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.7910231,
+                    41.7821053
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "第21旅（後編）",
+                "name": "湯倉神社"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.7536031,
+                    41.7723579
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "第21旅（後編）",
+                "name": "石川啄木像"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.7931866,
+                    41.7776852
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "第21旅（後編）",
+                "name": "コーヒールームきくち"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.7929599,
+                    41.7770914
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "第21旅（後編）",
+                "name": "湯川第２街区公園"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.7883462,
+                    41.7741951
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "第21旅（後編）",
+                "name": "函館市熱帯植物園駐車場"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.7874485,
+                    41.7731667
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "第21旅（後編）",
+                "name": "湯川堤防"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.7878883,
+                    41.7748933
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "第21旅（後編）",
+                "name": "函館麺や 一文字 函館総本店"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.7572748,
+                    41.7736848
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "第21旅（後編）",
+                "name": "漁火通"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.7530528,
+                    41.7727805
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "第21旅（後編）",
+                "name": "日乃出ひまわり"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.754053,
+                    41.7725071
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "第21旅（後編）",
+                "name": "東屋（四阿）"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.745451,
+                    41.770788
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "第21旅（後編）",
+                "name": "函館グルメ回転ずし函太郎 宇賀浦本店"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.7404156,
+                    41.7697786
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "第21旅（後編）",
+                "name": "大森町"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.7194496,
+                    41.7474858
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "第21旅（後編）",
+                "name": "石川啄木一族の墓"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.7212027,
+                    41.7450354
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "第21旅（後編）",
+                "name": "立待岬"
             },
             "type": "Feature"
         }
