@@ -57,7 +57,7 @@ const config = {
       title: '両子寺',
       image: '',
       tweet_id: '',
-      description: '<p>5巻 P105  大分県国東市 </p> <p><img alt="Futago-ji" src="https://live.staticflickr.com/4245/34806229896_68b7848b87_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=33.5740013&amp;lon=131.603241&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Futago-ji】 by seghal1</p>',
+      description: '<p>5巻 P105  大分県国東市 </p> <p><img alt="Futago-ji Temple" src="https://live.staticflickr.com/4533/38279324851_01819ca4e0_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=33.5740013&amp;lon=131.603241&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Futago-ji Temple】 by K.G.23</p>',
       location: {
         center: [131.603241, 33.5740013],
         zoom: 14,
@@ -77,7 +77,7 @@ const config = {
       title: 'USA（宇佐）神宮',
       image: '',
       tweet_id: '',
-      description: '<p>5巻 P108  大分県宇佐市 南宇佐2859</p> <p><img alt="Usa-jingu" src="https://live.staticflickr.com/4267/34730188471_3bbe9b8e24_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=33.5260019&amp;lon=131.3746381&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Usa-jingu】 by seghal1</p>',
+      description: '<p>5巻 P108  大分県宇佐市 南宇佐2859</p> <p><img alt="Usa Jingū Torii" src="https://live.staticflickr.com/4813/45988001031_1ba6262ca1_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=33.5260019&amp;lon=131.3746381&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Usa Jingū Torii】 by Martin Smith - Having the Time of my Life</p>',
       location: {
         center: [131.3746381, 33.5260019],
         zoom: 14,
@@ -97,7 +97,7 @@ const config = {
       title: '宇佐参宮線26号蒸気機関車',
       image: '',
       tweet_id: '',
-      description: '<p>5巻 P117  大分県宇佐市 南宇佐2218</p> <p><img alt="Usa-jingu" src="https://live.staticflickr.com/4276/34730163261_e219dd808f_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=33.5279086&amp;lon=131.3750797&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Usa-jingu】 by seghal1</p>',
+      description: '<p>5巻 P117  大分県宇佐市 南宇佐2218</p> <p><img alt="Looking Up" src="https://live.staticflickr.com/4883/45923259842_da2f04d260_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=33.5279086&amp;lon=131.3750797&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Looking Up】 by Martin Smith - Having the Time of my Life</p>',
       location: {
         center: [131.3750797, 33.5279086],
         zoom: 14,
