@@ -303,7 +303,7 @@
       "published": "2022, 電撃マオウ 2月号",
       "books": null,
       "subtitle": "たどり着いたら北",
-      "camera": {"zoom": 10, "center": [140.74543169586593, 41.83890663412469]}
+      "camera": {"zoom": 10, "center": [140.74543169586593, 41.85]}
     },
     "TJ21-2": {
       "index": 21,
@@ -325,7 +325,7 @@
       "published": "2022, 電撃マオウ 4月号",
       "books": null,
       "subtitle": "空からまたきた！",
-      "camera": {"zoom": 10, "center": [140.74543169586593, 41.85]}
+      "camera": {"zoom": 10, "center": [139.6703, 35.6808]}
     }
   },
   "books": {
