@@ -5221,6 +5221,104 @@
                 "name": "立待岬"
             },
             "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.677222,
+                    42.063333
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "第21旅（後編）",
+                "name": "北海道駒ヶ岳"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.5739136,
+                    42.1089297
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "第21旅（後編）",
+                "name": "森駅"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.6729083,
+                    41.9838889
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "第21旅（後編）",
+                "name": "大沼国定公園"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.6668324,
+                    41.9889583
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "第21旅（後編）",
+                "name": "月見橋"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    139.7387597,
+                    35.6284713
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "第22旅（前編）",
+                "name": "品川駅"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    139.786427,
+                    35.5499709
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "第22旅（前編）",
+                "name": "羽田空港第１・第２ターミナル駅"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    139.7798386,
+                    35.5493932
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "第22旅（前編）",
+                "name": "羽田空港"
+            },
+            "type": "Feature"
         }
     ],
     "type": "FeatureCollection"
