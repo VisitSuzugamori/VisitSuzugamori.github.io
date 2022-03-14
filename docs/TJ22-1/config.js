@@ -16,8 +16,8 @@ const config = {
       hidden: false,
       title: '品川駅',
       image: '',
-      tweet_id: '1500373920985149441',
-      description: '<p>   東京都港区 高輪三丁目26</p><div class="tweetContainer" id="tweet1500373920985149441"></div> ',
+      tweet_id: '1501774847227346948',
+      description: '<p>   東京都港区 高輪三丁目26</p><div class="tweetContainer" id="tweet1501774847227346948"></div> ',
       location: {
         center: [139.7387597, 35.6284713],
         zoom: 14,
