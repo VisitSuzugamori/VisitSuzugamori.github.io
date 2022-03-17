@@ -36,8 +36,8 @@ const config = {
       hidden: false,
       title: '新函館北斗駅',
       image: '',
-      tweet_id: '1500418298747363330',
-      description: '<p>   北海道北斗市 市渡一丁目1</p><div class="tweetContainer" id="tweet1500418298747363330"></div> ',
+      tweet_id: '1502608993910345733',
+      description: '<p>   北海道北斗市 市渡一丁目1</p><div class="tweetContainer" id="tweet1502608993910345733"></div> ',
       location: {
         center: [140.6483763, 41.9046983],
         zoom: 14,

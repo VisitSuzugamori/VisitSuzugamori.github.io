@@ -77,7 +77,7 @@ const config = {
       title: '谷地温泉',
       image: '',
       tweet_id: '',
-      description: '<p>3巻 P38  青森県十和田市 </p> <p><img alt="Yachi onsen, one of the secret onsen of Aomori" src="https://live.staticflickr.com/65535/50036012223_af7d118d43_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=40.6330178&amp;lon=140.9245271&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Yachi onsen, one of the secret onsen of Aomori】 by Hans ter Horst Photography</p>',
+      description: '<p>3巻 P38  青森県十和田市 </p> <p><img alt="Yachi onsen, one of the secret onsen of Aomori" src="https://live.staticflickr.com/65535/48712696351_5bda163c9e_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=40.6330178&amp;lon=140.9245271&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Yachi onsen, one of the secret onsen of Aomori】 by Hans ter Horst Photography</p>',
       location: {
         center: [140.9245271, 40.6330178],
         zoom: 14,
@@ -97,7 +97,7 @@ const config = {
       title: '下北駅',
       image: '',
       tweet_id: '',
-      description: '<p>3巻 P47  青森県むつ市 下北町4</p> <p><img alt="707" src="https://live.staticflickr.com/7149/26832857492_273c8ef072_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=41.2827427&amp;lon=141.1899038&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【707】 by hyuhyu6748usver</p>',
+      description: '<p>3巻 P47  青森県むつ市 下北町4</p> <p><img alt="mutsu_20210812191321" src="https://live.staticflickr.com/65535/51821101050_191b79fcd7_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=41.2827427&amp;lon=141.1899038&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【mutsu_20210812191321】 by inunami</p>',
       location: {
         center: [141.1899038, 41.2827427],
         zoom: 14,
@@ -117,7 +117,7 @@ const config = {
       title: '三途の川',
       image: '',
       tweet_id: '',
-      description: '<p>3巻 P49  青森県むつ市 </p> <p><img alt="Mutsu Oct 17 55" src="https://live.staticflickr.com/566/22580331092_51a11811f9_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=41.3260657&amp;lon=141.0962272&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Mutsu Oct 17 55】 by tculek</p>',
+      description: '<p>3巻 P49  青森県むつ市 </p> <p><img alt="Mutsu Oct 17 68" src="https://live.staticflickr.com/5794/21971110014_5ec226ab08_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=41.3260657&amp;lon=141.0962272&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Mutsu Oct 17 68】 by tculek</p>',
       location: {
         center: [141.0962272, 41.3260657],
         zoom: 14,

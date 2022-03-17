@@ -16,8 +16,8 @@ const config = {
       hidden: false,
       title: '郡山駅',
       image: '',
-      tweet_id: '1502826774220189698',
-      description: '<p>1巻 P22  福島県郡山市 駅前二丁目4</p><div class="tweetContainer" id="tweet1502826774220189698"></div> ',
+      tweet_id: '1503584016263532550',
+      description: '<p>1巻 P22  福島県郡山市 駅前二丁目4</p><div class="tweetContainer" id="tweet1503584016263532550"></div> ',
       location: {
         center: [140.3884019, 37.3985573],
         zoom: 14,
@@ -56,8 +56,8 @@ const config = {
       hidden: false,
       title: '会津若松駅',
       image: '',
-      tweet_id: '1500821974029049857',
-      description: '<p>1巻 P24  福島県会津若松市 駅前町1</p><div class="tweetContainer" id="tweet1500821974029049857"></div> ',
+      tweet_id: '1503606081628553217',
+      description: '<p>1巻 P24  福島県会津若松市 駅前町1</p><div class="tweetContainer" id="tweet1503606081628553217"></div> ',
       location: {
         center: [139.9303261, 37.5078657],
         zoom: 14,
@@ -77,7 +77,7 @@ const config = {
       title: 'ラーメン二郎 会津若松駅前店',
       image: '',
       tweet_id: '',
-      description: '<p>1巻 P25  福島県会津若松市 駅前町6</p> <p><img alt="Aizu Wakamatsu Station" src="https://live.staticflickr.com/65535/51602779883_3a2df93836_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=37.5066266&amp;lon=139.9314173&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Aizu Wakamatsu Station】 by pantkiewicz</p>',
+      description: '<p>1巻 P25  福島県会津若松市 駅前町6</p> <p><img alt="Akabeko (赤べこ)" src="https://live.staticflickr.com/65535/51601740622_fba08995fb_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=37.5066266&amp;lon=139.9314173&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Akabeko (赤べこ)】 by pantkiewicz</p>',
       location: {
         center: [139.9314173, 37.5066266],
         zoom: 14,
