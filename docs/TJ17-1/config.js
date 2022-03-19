@@ -16,8 +16,8 @@ const config = {
       hidden: false,
       title: '東京駅',
       image: '',
-      tweet_id: '1502842668438925313',
-      description: '<p>5巻 P60  東京都千代田区 丸の内一丁目9</p><div class="tweetContainer" id="tweet1502842668438925313"></div> ',
+      tweet_id: '1504646005295226882',
+      description: '<p>5巻 P60  東京都千代田区 丸の内一丁目9</p><div class="tweetContainer" id="tweet1504646005295226882"></div> ',
       location: {
         center: [139.7671248, 35.6812362],
         zoom: 14,
@@ -36,8 +36,8 @@ const config = {
       hidden: false,
       title: '小倉駅',
       image: '',
-      tweet_id: '1504290054419607558',
-      description: '<p>5巻 P61  福岡県北九州市 小倉北区 京町三丁目8</p><div class="tweetContainer" id="tweet1504290054419607558"></div> ',
+      tweet_id: '1504996155851444224',
+      description: '<p>5巻 P61  福岡県北九州市 小倉北区 京町三丁目8</p><div class="tweetContainer" id="tweet1504996155851444224"></div> ',
       location: {
         center: [130.8825758, 33.8869679],
         zoom: 14,
@@ -76,8 +76,8 @@ const config = {
       hidden: false,
       title: '耶馬溪',
       image: '',
-      tweet_id: '1502091017658400768',
-      description: '<p>5巻 P66  大分県中津市 本耶馬渓町樋田</p><div class="tweetContainer" id="tweet1502091017658400768"></div> ',
+      tweet_id: '',
+      description: '<p>5巻 P66  大分県中津市 本耶馬渓町樋田</p> ',
       location: {
         center: [131.1779366, 33.4947001],
         zoom: 14,

@@ -177,7 +177,7 @@ const config = {
       title: '八栗寺',
       image: '',
       tweet_id: '',
-      description: '<p>1巻 P143  香川県高松市 牟礼町牟礼3416</p> <p><img alt="八十五番札所 八栗寺" src="https://live.staticflickr.com/65535/50384303247_eb791b7d3d_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.3599067&amp;lon=134.1398791&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【八十五番札所 八栗寺】 by JH1FJP</p>',
+      description: '<p>1巻 P143  香川県高松市 牟礼町牟礼3416</p> <p><img alt="Yakuri-ji, the 85th Temple of the Sacred Shikoku Pilgrimage in Kagawa, Japan." src="https://live.staticflickr.com/65535/48951817712_2949a8699a_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.3599067&amp;lon=134.1398791&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Yakuri-ji, the 85th Temple of the Sacred Shikoku Pilgrimage in Kagawa, Japan.】 by KyotoDreamTrips</p>',
       location: {
         center: [134.1398791, 34.3599067],
         zoom: 14,
@@ -197,7 +197,7 @@ const config = {
       title: 'ルピナス',
       image: '',
       tweet_id: '',
-      description: '<p>1巻 P148  香川県高松市 西の丸町6</p> <p><img alt="285系 サンライズ瀬戸" src="https://live.staticflickr.com/65535/51683917113_0dd6208f93_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.3497929&amp;lon=134.0469322&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【285系 サンライズ瀬戸】 by Hikoki-kun.</p>',
+      description: '<p>1巻 P148  香川県高松市 西の丸町6</p> <p><img alt="JR四国5000系" src="https://live.staticflickr.com/65535/51684324884_f2e40f83f0_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.3497929&amp;lon=134.0469322&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【JR四国5000系】 by Hikoki-kun.</p>',
       location: {
         center: [134.0469322, 34.3497929],
         zoom: 14,
@@ -236,8 +236,8 @@ const config = {
       hidden: false,
       title: '栗林公園',
       image: '',
-      tweet_id: '1502079312690040832',
-      description: '<p>1巻 P157  香川県高松市 栗林町一丁目20</p><div class="tweetContainer" id="tweet1502079312690040832"></div> ',
+      tweet_id: '1502180998707965953',
+      description: '<p>1巻 P157  香川県高松市 栗林町一丁目20</p><div class="tweetContainer" id="tweet1502180998707965953"></div> ',
       location: {
         center: [134.0445345, 34.3293842],
         zoom: 14,
