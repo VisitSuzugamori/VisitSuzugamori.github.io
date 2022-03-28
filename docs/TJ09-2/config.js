@@ -17,7 +17,7 @@ const config = {
       title: '嚴島神社',
       image: '',
       tweet_id: '',
-      description: '<p>3巻 P5  </p> <p><img alt="Itsukushima Jinja" src="https://live.staticflickr.com/65535/51866671790_4399fdcd98_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.2959885&amp;lon=132.3198262&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Itsukushima Jinja】 by kewing</p>',
+      description: '<p>3巻 P5  </p> <p><img alt="宮島広島, Miyajima, Hiroshima" src="https://live.staticflickr.com/65535/51932158665_d08a7eb341_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.2959885&amp;lon=132.3198262&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【宮島広島, Miyajima, Hiroshima】 by 朗寿 ross</p>',
       location: {
         center: [132.3198262, 34.2959885],
         zoom: 14,
@@ -76,8 +76,8 @@ const config = {
       hidden: false,
       title: '呉駅',
       image: '',
-      tweet_id: '1506409381935558656',
-      description: '<p>3巻 P11  広島県呉市 宝町2</p><div class="tweetContainer" id="tweet1506409381935558656"></div> ',
+      tweet_id: '1507639212283101187',
+      description: '<p>3巻 P11  広島県呉市 宝町2</p><div class="tweetContainer" id="tweet1507639212283101187"></div> ',
       location: {
         center: [132.5575846, 34.2446471],
         zoom: 14,

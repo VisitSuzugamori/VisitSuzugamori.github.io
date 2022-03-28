@@ -16,8 +16,8 @@ const config = {
       hidden: false,
       title: '東京駅',
       image: '',
-      tweet_id: '1506089245920075778',
-      description: '<p>6巻 P132  東京都千代田区 丸の内一丁目9</p><div class="tweetContainer" id="tweet1506089245920075778"></div> ',
+      tweet_id: '1507665031965523968',
+      description: '<p>6巻 P132  東京都千代田区 丸の内一丁目9</p><div class="tweetContainer" id="tweet1507665031965523968"></div> ',
       location: {
         center: [139.7671248, 35.6812362],
         zoom: 14,
@@ -257,7 +257,7 @@ const config = {
       title: '龍王岬展望台',
       image: '',
       tweet_id: '',
-      description: '<p>6巻 P135  高知県高知市 浦戸830</p> <p><img alt="IMG_20210110_173250" src="https://live.staticflickr.com/65535/50839352018_0115eb6aaa_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=33.4955899&amp;lon=133.5743881&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【IMG_20210110_173250】 by Crush Yuta</p>',
+      description: '<p>6巻 P135  高知県高知市 浦戸830</p> <p><img alt="桂浜" src="https://live.staticflickr.com/65535/50306643058_c6467a0b28_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=33.4955899&amp;lon=133.5743881&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【桂浜】 by Chitaka Chou</p>',
       location: {
         center: [133.5743881, 33.4955899],
         zoom: 14,

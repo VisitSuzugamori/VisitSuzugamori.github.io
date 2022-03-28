@@ -77,7 +77,7 @@ const config = {
       title: 'USA（宇佐）神宮',
       image: '',
       tweet_id: '',
-      description: '<p>5巻 P108  大分県宇佐市 南宇佐2859</p> <p><img alt="IMG_8597" src="https://live.staticflickr.com/1801/43375991242_b5beb91773_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=33.5260019&amp;lon=131.3746381&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【IMG_8597】 by npso0211</p>',
+      description: '<p>5巻 P108  大分県宇佐市 南宇佐2859</p> <p><img alt="Usa Jingū Torii" src="https://live.staticflickr.com/4813/45988001031_1ba6262ca1_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=33.5260019&amp;lon=131.3746381&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Usa Jingū Torii】 by Martin Smith - Having the Time of my Life</p>',
       location: {
         center: [131.3746381, 33.5260019],
         zoom: 14,
