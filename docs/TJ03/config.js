@@ -176,8 +176,8 @@ const config = {
       hidden: false,
       title: 'ホテル黒部',
       image: '',
-      tweet_id: '1506526424039141376',
-      description: '<p>1巻 P112  富山県黒部市 宇奈月温泉6</p><div class="tweetContainer" id="tweet1506526424039141376"></div> ',
+      tweet_id: '1508642792159199232',
+      description: '<p>1巻 P112  富山県黒部市 宇奈月温泉6</p><div class="tweetContainer" id="tweet1508642792159199232"></div> ',
       location: {
         center: [137.5900726, 36.8126191],
         zoom: 14,
@@ -196,8 +196,8 @@ const config = {
       hidden: false,
       title: '宇奈月駅',
       image: '',
-      tweet_id: '1506141143561502724',
-      description: '<p>1巻 P116  富山県黒部市 黒部峡谷口9</p><div class="tweetContainer" id="tweet1506141143561502724"></div> ',
+      tweet_id: '',
+      description: '<p>1巻 P116  富山県黒部市 黒部峡谷口9</p> <p><img alt="610_7145" src="https://live.staticflickr.com/65535/51278701289_c53d477c7d_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=36.8150247&amp;lon=137.5859364&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【610_7145】 by Lox Pix</p>',
       location: {
         center: [137.5859364, 36.8150247],
         zoom: 14,

@@ -96,8 +96,8 @@ const config = {
       hidden: false,
       title: 'コンフォートホテル呉',
       image: '',
-      tweet_id: '1505487820907028480',
-      description: '<p>3巻 P12  広島県呉市 宝町2</p><div class="tweetContainer" id="tweet1505487820907028480"></div> ',
+      tweet_id: '',
+      description: '<p>3巻 P12  広島県呉市 宝町2</p> <p><img alt="IMG_3753" src="https://live.staticflickr.com/65535/51403547307_d5688e8347_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.2431335&amp;lon=132.5586395&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【IMG_3753】 by Kai_Yi</p>',
       location: {
         center: [132.5586395, 34.2431335],
         zoom: 14,
@@ -136,8 +136,8 @@ const config = {
       hidden: false,
       title: '大和ミュージアム（呉市海事歴史科学館）',
       image: '',
-      tweet_id: '1505775994585681923',
-      description: '<p>3巻 P15  広島県呉市 宝町4</p><div class="tweetContainer" id="tweet1505775994585681923"></div> ',
+      tweet_id: '1507554249147830279',
+      description: '<p>3巻 P15  広島県呉市 宝町4</p><div class="tweetContainer" id="tweet1507554249147830279"></div> ',
       location: {
         center: [132.5558555, 34.2411391],
         zoom: 14,
@@ -216,8 +216,8 @@ const config = {
       hidden: false,
       title: '頂上展望台',
       image: '',
-      tweet_id: '',
-      description: '<p>3巻 P21  広島県尾道市 東土堂町20</p> <p><img alt="Onomichi" src="https://live.staticflickr.com/65535/51807128293_f92ee86228_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.4106865&amp;lon=133.1969604&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Onomichi】 by 雷太</p>',
+      tweet_id: '1509126711887155203',
+      description: '<p>3巻 P21  広島県尾道市 東土堂町20</p><div class="tweetContainer" id="tweet1509126711887155203"></div> ',
       location: {
         center: [133.1969604, 34.4106865],
         zoom: 14,
@@ -257,7 +257,7 @@ const config = {
       title: '鼓岩（付近）',
       image: '',
       tweet_id: '',
-      description: '<p>3巻 P29  広島県尾道市 東土堂町5</p> <p><img alt="610_7873" src="https://live.staticflickr.com/65535/51345368744_c7ccc5f886_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.4097831&amp;lon=133.1976363&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【610_7873】 by Lox Pix</p>',
+      description: '<p>3巻 P29  広島県尾道市 東土堂町5</p> <p><img alt="Onomichi" src="https://live.staticflickr.com/65535/51807128293_f92ee86228_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.4097831&amp;lon=133.1976363&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Onomichi】 by 雷太</p>',
       location: {
         center: [133.1976363, 34.4097831],
         zoom: 14,
