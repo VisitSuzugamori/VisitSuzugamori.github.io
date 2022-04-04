@@ -57,7 +57,7 @@ const config = {
       title: '両子寺',
       image: '',
       tweet_id: '',
-      description: '<p>5巻 P105  大分県国東市 </p> <p><img alt="Futago-ji Temple" src="https://live.staticflickr.com/4533/38279324851_01819ca4e0_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=33.5740013&amp;lon=131.603241&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Futago-ji Temple】 by K.G.23</p>',
+      description: '<p>5巻 P105  大分県国東市 </p> <p><img alt="oku-no-inn" src="https://live.staticflickr.com/65535/51982037700_732c5d8ca3_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=33.5740013&amp;lon=131.603241&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【oku-no-inn】 by MURATAGAWA Kei</p>',
       location: {
         center: [131.603241, 33.5740013],
         zoom: 14,
@@ -77,7 +77,7 @@ const config = {
       title: 'USA（宇佐）神宮',
       image: '',
       tweet_id: '',
-      description: '<p>5巻 P108  大分県宇佐市 南宇佐2859</p> <p><img alt="IMG_8573" src="https://live.staticflickr.com/845/43423475851_240a14850e_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=33.5260019&amp;lon=131.3746381&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【IMG_8573】 by npso0211</p>',
+      description: '<p>5巻 P108  大分県宇佐市 南宇佐2859</p> <p><img alt="torii" src="https://live.staticflickr.com/65535/51981546213_83af81b64b_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=33.5260019&amp;lon=131.3746381&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【torii】 by MURATAGAWA Kei</p>',
       location: {
         center: [131.3746381, 33.5260019],
         zoom: 14,

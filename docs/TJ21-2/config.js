@@ -157,7 +157,7 @@ const config = {
       title: '函館麺や 一文字 函館総本店',
       image: '',
       tweet_id: '',
-      description: '<p>   北海道函館市 湯川町二丁目1</p> <p><img alt="" src="https://live.staticflickr.com/7870/47304751222_7a109cc643_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=41.7748933&amp;lon=140.7878883&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【】 by 湯啪啪</p>',
+      description: '<p>   北海道函館市 湯川町二丁目1</p> <p><img alt="Snow or rains...." src="https://live.staticflickr.com/7810/32579141387_47f5b55b53_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=41.7748933&amp;lon=140.7878883&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Snow or rains....】 by NIeFH</p>',
       location: {
         center: [140.7878883, 41.7748933],
         zoom: 14,
@@ -176,8 +176,8 @@ const config = {
       hidden: false,
       title: '漁火通',
       image: '',
-      tweet_id: '1507256145559183369',
-      description: '<p>   北海道函館市 金堀町2</p><div class="tweetContainer" id="tweet1507256145559183369"></div> ',
+      tweet_id: '',
+      description: '<p>   北海道函館市 金堀町2</p> <p><img alt="DSC01096" src="https://live.staticflickr.com/7005/27302570501_2c87ae78e7_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=41.7736848&amp;lon=140.7572748&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【DSC01096】 by 騰子</p>',
       location: {
         center: [140.7572748, 41.7736848],
         zoom: 14,
@@ -297,7 +297,7 @@ const config = {
       title: '立待岬',
       image: '',
       tweet_id: '',
-      description: '<p>   北海道函館市 住吉町15</p> <p><img alt="2019-07-01 at 10-20-15" src="https://live.staticflickr.com/65535/48210537597_b5c9829cfa_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=41.7450354&amp;lon=140.7212027&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【2019-07-01 at 10-20-15】 by vince2047</p>',
+      description: '<p>   北海道函館市 住吉町15</p> <p><img alt="Tsugaru Strait" src="https://live.staticflickr.com/65535/51971873627_603eac0afc_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=41.7450354&amp;lon=140.7212027&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Tsugaru Strait】 by 雷太</p>',
       location: {
         center: [140.7212027, 41.7450354],
         zoom: 14,
