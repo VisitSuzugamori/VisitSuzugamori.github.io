@@ -16,8 +16,8 @@ const config = {
       hidden: false,
       title: '東京駅',
       image: '',
-      tweet_id: '1511275433244827652',
-      description: '<p>6巻 P132  東京都千代田区 丸の内一丁目9</p><div class="tweetContainer" id="tweet1511275433244827652"></div> ',
+      tweet_id: '1510894824886796291',
+      description: '<p>6巻 P132  東京都千代田区 丸の内一丁目9</p><div class="tweetContainer" id="tweet1510894824886796291"></div> ',
       location: {
         center: [139.7671248, 35.6812362],
         zoom: 14,
@@ -56,8 +56,8 @@ const config = {
       hidden: false,
       title: '坂本龍馬像',
       image: '',
-      tweet_id: '1508959180018925572',
-      description: '<p>6巻 P109  高知県高知市 浦戸6</p><div class="tweetContainer" id="tweet1508959180018925572"></div> ',
+      tweet_id: '',
+      description: '<p>6巻 P109  高知県高知市 浦戸6</p> <p><img alt="桂浜" src="https://live.staticflickr.com/65535/50306647063_77431ede0c_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=33.4986187&amp;lon=133.5754821&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【桂浜】 by Chitaka Chou</p>',
       location: {
         center: [133.5754821, 33.4986187],
         zoom: 14,
@@ -116,8 +116,8 @@ const config = {
       hidden: false,
       title: '高知駅',
       image: '',
-      tweet_id: '1511287593479991299',
-      description: '<p>6巻 P122  高知県高知市 栄田町二丁目1</p><div class="tweetContainer" id="tweet1511287593479991299"></div> ',
+      tweet_id: '1511866954013093888',
+      description: '<p>6巻 P122  高知県高知市 栄田町二丁目1</p><div class="tweetContainer" id="tweet1511866954013093888"></div> ',
       location: {
         center: [133.5436452, 33.5672271],
         zoom: 14,
@@ -137,7 +137,7 @@ const config = {
       title: '土佐三志士の像',
       image: '',
       tweet_id: '',
-      description: '<p>6巻 P122  高知県高知市 北本町二丁目10</p> <p><img alt="kochi_20190906183747" src="https://live.staticflickr.com/65535/49844458067_6336812699_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=33.5664177&amp;lon=133.5430255&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【kochi_20190906183747】 by inunami</p>',
+      description: '<p>6巻 P122  高知県高知市 北本町二丁目10</p> <p><img alt="2017-10-07, Kochi, Ekimae" src="https://live.staticflickr.com/65535/50492273251_5613843215_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=33.5664177&amp;lon=133.5430255&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【2017-10-07, Kochi, Ekimae】 by Fototak</p>',
       location: {
         center: [133.5430255, 33.5664177],
         zoom: 14,

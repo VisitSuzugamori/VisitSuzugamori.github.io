@@ -16,8 +16,8 @@ const config = {
       hidden: false,
       title: '串本駅',
       image: '',
-      tweet_id: '1508962239415468039',
-      description: '<p>3巻 P57  和歌山県東牟婁郡 串本町 串本40</p><div class="tweetContainer" id="tweet1508962239415468039"></div> ',
+      tweet_id: '',
+      description: '<p>3巻 P57  和歌山県東牟婁郡 串本町 串本40</p> <p><img alt="20100504-141248-kii-msw" src="https://live.staticflickr.com/358/32183096425_b7d9e41b1a_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=33.4755266&amp;lon=135.7816031&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【20100504-141248-kii-msw】 by halffastcycling</p>',
       location: {
         center: [135.7816031, 33.4755266],
         zoom: 14,

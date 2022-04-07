@@ -17,7 +17,7 @@ const config = {
       title: '青石畳通り',
       image: '',
       tweet_id: '',
-      description: '<p>4巻 P5,20  島根県松江市 美保関町美保関</p> <p><img alt="Miho Jinja Shrine" src="https://live.staticflickr.com/7821/46200567295_95f6e81851_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.5625098&amp;lon=133.3076796&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Miho Jinja Shrine】 by hapePHOTOGRAPHIX</p>',
+      description: '<p>4巻 P5,20  島根県松江市 美保関町美保関</p> <p><img alt="Wooden boards with wishes" src="https://live.staticflickr.com/4830/46966673322_b58a016476_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.5625098&amp;lon=133.3076796&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Wooden boards with wishes】 by hapePHOTOGRAPHIX</p>',
       location: {
         center: [133.3076796, 35.5625098],
         zoom: 14,
@@ -117,7 +117,7 @@ const config = {
       title: '美保神社',
       image: '',
       tweet_id: '',
-      description: '<p>4巻 P14  島根県松江市 美保関町美保関</p> <p><img alt="Algenblüte" src="https://live.staticflickr.com/7802/32132141527_757cb04645_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.5623182&amp;lon=133.3062224&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Algenblüte】 by hapePHOTOGRAPHIX</p>',
+      description: '<p>4巻 P14  島根県松江市 美保関町美保関</p> <p><img alt="Miho Jinja Shrine" src="https://live.staticflickr.com/7821/46200567295_95f6e81851_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.5623182&amp;lon=133.3062224&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Miho Jinja Shrine】 by hapePHOTOGRAPHIX</p>',
       location: {
         center: [133.3062224, 35.5623182],
         zoom: 14,
@@ -157,7 +157,7 @@ const config = {
       title: '沖之御前地之御前遥拝所',
       image: '',
       tweet_id: '',
-      description: '<p>4巻 P32  島根県松江市 </p> <p><img alt="Lighthouse at noon" src="https://live.staticflickr.com/65535/48106762653_5fb1fa5f3b_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.567285&amp;lon=133.325638&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Lighthouse at noon】 by Teruhide Tomori</p>',
+      description: '<p>4巻 P32  島根県松江市 </p> <p><img alt="Mihonoseki tōdai" src="https://live.staticflickr.com/7824/32315714187_8d20a471fc_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.567285&amp;lon=133.325638&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Mihonoseki tōdai】 by hapePHOTOGRAPHIX</p>',
       location: {
         center: [133.325638, 35.567285],
         zoom: 14,
@@ -177,7 +177,7 @@ const config = {
       title: '美保関灯台ビュッフェ',
       image: '',
       tweet_id: '',
-      description: '<p>4巻 P33  島根県松江市 </p> <p><img alt="Mihonoseki tōdai" src="https://live.staticflickr.com/7824/32315714187_8d20a471fc_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.5672491&amp;lon=133.3250483&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Mihonoseki tōdai】 by hapePHOTOGRAPHIX</p>',
+      description: '<p>4巻 P33  島根県松江市 </p> <p><img alt="Lighthouse at noon" src="https://live.staticflickr.com/65535/48106762653_5fb1fa5f3b_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.5672491&amp;lon=133.3250483&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Lighthouse at noon】 by Teruhide Tomori</p>',
       location: {
         center: [133.3250483, 35.5672491],
         zoom: 14,
