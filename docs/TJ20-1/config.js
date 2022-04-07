@@ -156,8 +156,8 @@ const config = {
       hidden: false,
       title: 'はりまや橋',
       image: '',
-      tweet_id: '1508604135893094400',
-      description: '<p>6巻 P80  高知県高知市 はりまや町一丁目1</p><div class="tweetContainer" id="tweet1508604135893094400"></div> ',
+      tweet_id: '1509117172752470016',
+      description: '<p>6巻 P80  高知県高知市 はりまや町一丁目1</p><div class="tweetContainer" id="tweet1509117172752470016"></div> ',
       location: {
         center: [133.5426569, 33.5599438],
         zoom: 14,
@@ -256,8 +256,8 @@ const config = {
       hidden: false,
       title: '若宮八幡宮',
       image: '',
-      tweet_id: '1508645372822175744',
-      description: '<p>6巻 P82  高知県高知市 長浜4063</p><div class="tweetContainer" id="tweet1508645372822175744"></div> ',
+      tweet_id: '1510070990029557762',
+      description: '<p>6巻 P82  高知県高知市 長浜4063</p><div class="tweetContainer" id="tweet1510070990029557762"></div> ',
       location: {
         center: [133.5439082, 33.4946664],
         zoom: 14,

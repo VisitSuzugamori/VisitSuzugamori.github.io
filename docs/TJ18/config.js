@@ -397,7 +397,7 @@ const config = {
       title: '都庁からさらに西へ・・・',
       image: '',
       tweet_id: '',
-      description: '<p>5巻 P146  東京都渋谷区 本町三丁目9</p> <p><img alt="Japanese woman walking in sidewalk" src="https://live.staticflickr.com/65535/51363074430_2f636f9c9c_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.6891142&amp;lon=139.6830083&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Japanese woman walking in sidewalk】 by Rick Neves</p>',
+      description: '<p>5巻 P146  東京都渋谷区 本町三丁目9</p> <p><img alt="so many items" src="https://live.staticflickr.com/65535/51550563709_0912670f4a_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.6891142&amp;lon=139.6830083&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【so many items】 by cat_in_136</p>',
       location: {
         center: [139.6830083, 35.6891142],
         zoom: 14,
@@ -477,7 +477,7 @@ const config = {
       title: '杉並区立玉川上水公園',
       image: '',
       tweet_id: '',
-      description: '<p>5巻 P149  東京都杉並区 和泉二丁目8</p> <p><img alt="杉並区立玉川上水公園" src="https://live.staticflickr.com/65535/51205465635_de6f2786a0_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.6713219&amp;lon=139.651149&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【杉並区立玉川上水公園】 by いしだなおと</p>',
+      description: '<p>5巻 P149  東京都杉並区 和泉二丁目8</p> <p><img alt="Water Tanks in Izumi Water Pressure Regulating Place" src="https://live.staticflickr.com/4541/38209359252_2e03398cb7_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.6713219&amp;lon=139.651149&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Water Tanks in Izumi Water Pressure Regulating Place】 by ykanazawa1999</p>',
       location: {
         center: [139.651149, 35.6713219],
         zoom: 14,
@@ -497,7 +497,7 @@ const config = {
       title: '普通の街という感じ・・・',
       image: '',
       tweet_id: '',
-      description: '<p>5巻 P150  東京都杉並区 和泉二丁目14</p> <p><img alt="Power Line Tower and Path along the Kanda River" src="https://live.staticflickr.com/5834/20873931178_7be91ae4a0_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.6731172&amp;lon=139.6478716&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Power Line Tower and Path along the Kanda River】 by ykanazawa1999</p>',
+      description: '<p>5巻 P150  東京都杉並区 和泉二丁目14</p> <p><img alt="Kitabori Line Tower No.31" src="https://live.staticflickr.com/712/21884026486_c92f68113f_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.6731172&amp;lon=139.6478716&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Kitabori Line Tower No.31】 by ykanazawa1999</p>',
       location: {
         center: [139.6478716, 35.6731172],
         zoom: 14,
