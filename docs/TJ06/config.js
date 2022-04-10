@@ -16,8 +16,8 @@ const config = {
       hidden: false,
       title: '宇都宮駅',
       image: '',
-      tweet_id: '1509846969610653698',
-      description: '<p>2巻 P44  栃木県宇都宮市 駅前通り三丁目1</p><div class="tweetContainer" id="tweet1509846969610653698"></div> ',
+      tweet_id: '1513104142549594122',
+      description: '<p>2巻 P44  栃木県宇都宮市 駅前通り三丁目1</p><div class="tweetContainer" id="tweet1513104142549594122"></div> ',
       location: {
         center: [139.8984511, 36.5590234],
         zoom: 14,
@@ -156,8 +156,8 @@ const config = {
       hidden: false,
       title: '烏山駅',
       image: '',
-      tweet_id: '',
-      description: '<p>2巻 P58  栃木県那須烏山市 南二丁目4</p> <p><img alt="いぃぶいいぃ～( ´∀｀)" src="https://live.staticflickr.com/3798/32769801943_d6fcc95e44_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=36.650446&amp;lon=140.1550537&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【いぃぶいいぃ～( ´∀｀)】 by fox_kawai</p>',
+      tweet_id: '1513014125668237312',
+      description: '<p>2巻 P58  栃木県那須烏山市 南二丁目4</p><div class="tweetContainer" id="tweet1513014125668237312"></div> ',
       location: {
         center: [140.1550537, 36.650446],
         zoom: 14,
@@ -177,7 +177,7 @@ const config = {
       title: '久穂田烏山駅前旅館',
       image: '',
       tweet_id: '',
-      description: '<p>2巻 P59  栃木県那須烏山市 金井二丁目21</p> <p><img alt="蓄電池電車(゜ロ゜)" src="https://live.staticflickr.com/5543/30683515341_efda522c1b_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=36.6509415&amp;lon=140.1539749&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【蓄電池電車(゜ロ゜)】 by fox_kawai</p>',
+      description: '<p>2巻 P59  栃木県那須烏山市 金井二丁目21</p> <p><img alt="いぃぶいいぃ～( ´∀｀)" src="https://live.staticflickr.com/3798/32769801943_d6fcc95e44_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=36.6509415&amp;lon=140.1539749&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【いぃぶいいぃ～( ´∀｀)】 by fox_kawai</p>',
       location: {
         center: [140.1539749, 36.6509415],
         zoom: 14,
@@ -196,8 +196,8 @@ const config = {
       hidden: false,
       title: '烏山大橋',
       image: '',
-      tweet_id: '1509348892671823882',
-      description: '<p>2巻 P60  栃木県那須烏山市 旭二丁目14</p><div class="tweetContainer" id="tweet1509348892671823882"></div> ',
+      tweet_id: '',
+      description: '<p>2巻 P60  栃木県那須烏山市 旭二丁目14</p> ',
       location: {
         center: [140.1684645, 36.6527173],
         zoom: 14,

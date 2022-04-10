@@ -96,8 +96,8 @@ const config = {
       hidden: false,
       title: '宮島口駅',
       image: '',
-      tweet_id: '1510124942033326080',
-      description: '<p>2巻 P147  広島県廿日市市 宮島口一丁目3</p><div class="tweetContainer" id="tweet1510124942033326080"></div> ',
+      tweet_id: '1512691764540456961',
+      description: '<p>2巻 P147  広島県廿日市市 宮島口一丁目3</p><div class="tweetContainer" id="tweet1512691764540456961"></div> ',
       location: {
         center: [132.3029311, 34.3120172],
         zoom: 14,
@@ -157,7 +157,7 @@ const config = {
       title: '嚴島神社 大鳥居（布の中）',
       image: '',
       tweet_id: '',
-      description: '<p>2巻 P152,153  </p> <p><img alt="Japan-8" src="https://live.staticflickr.com/65535/51856685462_fe7ce177c1_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.2973092&amp;lon=132.3181276&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Japan-8】 by finkandreas85</p>',
+      description: '<p>2巻 P152,153  </p> <p><img alt="Great Torii at Itsukushima Shrine 厳島神社 大鳥居" src="https://live.staticflickr.com/65535/51988862212_1a99165e24_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.2973092&amp;lon=132.3181276&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Great Torii at Itsukushima Shrine 厳島神社 大鳥居】 by banzainetsurfer</p>',
       location: {
         center: [132.3181276, 34.2973092],
         zoom: 14,
