@@ -136,8 +136,8 @@ const config = {
       hidden: false,
       title: '大和ミュージアム（呉市海事歴史科学館）',
       image: '',
-      tweet_id: '1510479250993946630',
-      description: '<p>3巻 P15  広島県呉市 宝町4</p><div class="tweetContainer" id="tweet1510479250993946630"></div> ',
+      tweet_id: '1511933016926568452',
+      description: '<p>3巻 P15  広島県呉市 宝町4</p><div class="tweetContainer" id="tweet1511933016926568452"></div> ',
       location: {
         center: [132.5558555, 34.2411391],
         zoom: 14,

@@ -36,8 +36,8 @@ const config = {
       hidden: false,
       title: '岡山駅',
       image: '',
-      tweet_id: '1512997895620149252',
-      description: '<p>1巻 P130  岡山県岡山市 北区 駅元町11</p><div class="tweetContainer" id="tweet1512997895620149252"></div> ',
+      tweet_id: '1513465563544174592',
+      description: '<p>1巻 P130  岡山県岡山市 北区 駅元町11</p><div class="tweetContainer" id="tweet1513465563544174592"></div> ',
       location: {
         center: [133.9177335, 34.6661212],
         zoom: 14,

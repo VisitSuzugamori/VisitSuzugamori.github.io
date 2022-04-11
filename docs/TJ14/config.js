@@ -97,7 +97,7 @@ const config = {
       title: '白丸調整池ダム',
       image: '',
       tweet_id: '',
-      description: '<p>4巻 P100  東京都西多摩郡 奥多摩町 白丸</p> <p><img alt="211106_048" src="https://live.staticflickr.com/65535/51744661484_11edc0e560_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.8110763&amp;lon=139.1239406&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【211106_048】 by Matsui Hiroyuki</p>',
+      description: '<p>4巻 P100  東京都西多摩郡 奥多摩町 白丸</p> <p><img alt="211106_Yashicaflex_009" src="https://live.staticflickr.com/65535/51755191618_3238ffea75_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.8110763&amp;lon=139.1239406&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【211106_Yashicaflex_009】 by Matsui Hiroyuki</p>',
       location: {
         center: [139.1239406, 35.8110763],
         zoom: 14,
@@ -137,7 +137,7 @@ const config = {
       title: '奥多摩温泉 もえぎの湯',
       image: '',
       tweet_id: '',
-      description: '<p>4巻 P102  東京都西多摩郡 奥多摩町 </p> <p><img alt="Zoom, zoom." src="https://live.staticflickr.com/3393/3338079002_949dd778de_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.8046162&amp;lon=139.102613&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Zoom, zoom.】 by Daifuku Sensei</p>',
+      description: '<p>4巻 P102  東京都西多摩郡 奥多摩町 </p> <p><img alt="Footbridge and Hikawa community" src="https://live.staticflickr.com/65535/51650969308_99788607cf_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.8046162&amp;lon=139.102613&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Footbridge and Hikawa community】 by yhila</p>',
       location: {
         center: [139.102613, 35.8046162],
         zoom: 14,
@@ -157,7 +157,7 @@ const config = {
       title: 'もえぎ橋',
       image: '',
       tweet_id: '',
-      description: '<p>4巻 P105  東京都西多摩郡 奥多摩町 </p> <p><img alt="Footbridge and Hikawa community" src="https://live.staticflickr.com/65535/51650969308_99788607cf_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.8057723&amp;lon=139.1011388&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Footbridge and Hikawa community】 by yhila</p>',
+      description: '<p>4巻 P105  東京都西多摩郡 奥多摩町 </p> <p><img alt="20170422-090218-exploring-oume-pt2" src="https://live.staticflickr.com/2860/33382482493_f0905f830d_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.8057723&amp;lon=139.1011388&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【20170422-090218-exploring-oume-pt2】 by halffastcycling</p>',
       location: {
         center: [139.1011388, 35.8057723],
         zoom: 14,
@@ -177,7 +177,7 @@ const config = {
       title: '山城屋 奥多摩わさび本舗',
       image: '',
       tweet_id: '',
-      description: '<p>4巻 P105  東京都西多摩郡 奥多摩町 </p> <p><img alt="20170422-090218-exploring-oume-pt2" src="https://live.staticflickr.com/2860/33382482493_f0905f830d_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.806077&amp;lon=139.099594&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【20170422-090218-exploring-oume-pt2】 by halffastcycling</p>',
+      description: '<p>4巻 P105  東京都西多摩郡 奥多摩町 </p> <p><img alt="山形鳥海山麓 つや姫" src="https://live.staticflickr.com/5811/21166749689_a14e769bc4_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.806077&amp;lon=139.099594&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【山形鳥海山麓 つや姫】 by Kentaro Ohno</p>',
       location: {
         center: [139.099594, 35.806077],
         zoom: 14,
@@ -277,7 +277,7 @@ const config = {
       title: '数馬の切通し',
       image: '',
       tweet_id: '',
-      description: '<p>4巻 P117  東京都西多摩郡 奥多摩町 白丸</p> <p><img alt="豪雨のあと。 天候回復した今のうちに帰る！" src="https://live.staticflickr.com/5527/9432185499_721f5d3aed_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.808468&amp;lon=139.1135257&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【豪雨のあと。 天候回復した今のうちに帰る！】 by mortardesign</p>',
+      description: '<p>4巻 P117  東京都西多摩郡 奥多摩町 白丸</p> <p><img alt="豪雨襲来！ Σ(￣□￣ﾉ)ﾉ" src="https://live.staticflickr.com/5332/9431836387_d15f4c8cff_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.808468&amp;lon=139.1135257&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【豪雨襲来！ Σ(￣□￣ﾉ)ﾉ】 by mortardesign</p>',
       location: {
         center: [139.1135257, 35.808468],
         zoom: 14,

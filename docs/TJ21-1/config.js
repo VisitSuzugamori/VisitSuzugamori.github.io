@@ -157,7 +157,7 @@ const config = {
       title: '金森赤レンガ倉庫',
       image: '',
       tweet_id: '',
-      description: '<p>   北海道函館市 豊川町11</p> <p><img alt="_DSC2863" src="https://live.staticflickr.com/65535/51569893205_08fea73a1a_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=41.7673531&amp;lon=140.7176349&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【_DSC2863】 by de98lip</p>',
+      description: '<p>   北海道函館市 豊川町11</p> <p><img alt="函館" src="https://live.staticflickr.com/65535/51034575421_bb7eb1671a_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=41.7673531&amp;lon=140.7176349&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【函館】 by Chitaka Chou</p>',
       location: {
         center: [140.7176349, 41.7673531],
         zoom: 14,
@@ -177,7 +177,7 @@ const config = {
       title: 'カリフォルニアベイビー',
       image: '',
       tweet_id: '',
-      description: '<p>   北海道函館市 末広町23</p> <p><img alt="函館" src="https://live.staticflickr.com/65535/51033844393_c822bfb2a1_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=41.7659929&amp;lon=140.7146335&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【函館】 by Chitaka Chou</p>',
+      description: '<p>   北海道函館市 末広町23</p> <p><img alt="IMG_6280s" src="https://live.staticflickr.com/65535/49420106326_bce276214f_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=41.7659929&amp;lon=140.7146335&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【IMG_6280s】 by 小宗宗</p>',
       location: {
         center: [140.7146335, 41.7659929],
         zoom: 14,
@@ -197,7 +197,7 @@ const config = {
       title: '二十間坂',
       image: '',
       tweet_id: '',
-      description: '<p>   北海道函館市 末広町16</p> <p><img alt="DSC_0504" src="https://live.staticflickr.com/65535/51373178361_b4102b2024_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=41.7643549&amp;lon=140.7161274&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【DSC_0504】 by ylefou2004</p>',
+      description: '<p>   北海道函館市 末広町16</p> <p><img alt="函館" src="https://live.staticflickr.com/65535/51033844038_e4658c4a1e_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=41.7643549&amp;lon=140.7161274&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【函館】 by Chitaka Chou</p>',
       location: {
         center: [140.7161274, 41.7643549],
         zoom: 14,
@@ -217,7 +217,7 @@ const config = {
       title: '真宗大谷派 東本願寺 函館別院',
       image: '',
       tweet_id: '',
-      description: '<p>   北海道函館市 元町16</p> <p><img alt="函館" src="https://live.staticflickr.com/65535/51033844038_e4658c4a1e_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=41.7629356&amp;lon=140.7140386&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【函館】 by Chitaka Chou</p>',
+      description: '<p>   北海道函館市 元町16</p> <p><img alt="DSC_0504" src="https://live.staticflickr.com/65535/51373178361_b4102b2024_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=41.7629356&amp;lon=140.7140386&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【DSC_0504】 by ylefou2004</p>',
       location: {
         center: [140.7140386, 41.7629356],
         zoom: 14,
@@ -237,7 +237,7 @@ const config = {
       title: '函館山ロープウェイ山麓駅',
       image: '',
       tweet_id: '',
-      description: '<p>   北海道函館市 元町19</p> <p><img alt="_DSC2833" src="https://live.staticflickr.com/65535/51568966396_d672f1c502_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=41.7609078&amp;lon=140.7143007&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【_DSC2833】 by de98lip</p>',
+      description: '<p>   北海道函館市 元町19</p> <p><img alt="IMGP0281" src="https://live.staticflickr.com/65535/50691134313_43c6e64516_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=41.7609078&amp;lon=140.7143007&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【IMGP0281】 by de98lip</p>',
       location: {
         center: [140.7143007, 41.7609078],
         zoom: 14,
@@ -257,7 +257,7 @@ const config = {
       title: '旅館一乃松',
       image: '',
       tweet_id: '',
-      description: '<p>   北海道函館市 湯川町一丁目3</p> <p><img alt="DSC_2541" src="https://live.staticflickr.com/1860/29164382477_8fa30f23a3_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=41.7757667&amp;lon=140.7856914&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【DSC_2541】 by jeremy.yang</p>',
+      description: '<p>   北海道函館市 湯川町一丁目3</p> <p><img alt="DSC_2539" src="https://live.staticflickr.com/1890/43195491915_ee6bfd152d_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=41.7757667&amp;lon=140.7856914&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【DSC_2539】 by jeremy.yang</p>',
       location: {
         center: [140.7856914, 41.7757667],
         zoom: 14,

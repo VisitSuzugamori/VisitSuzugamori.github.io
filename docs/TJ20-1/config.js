@@ -177,7 +177,7 @@ const config = {
       title: '桟橋通五丁目駅',
       image: '',
       tweet_id: '',
-      description: '<p>6巻 P80  高知県高知市 桟橋通五丁目3</p> <p><img alt="Kōchi" src="https://live.staticflickr.com/65535/48684589953_c04e89e743_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=33.5404756&amp;lon=133.5527511&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Kōchi】 by Jan Dreesen</p>',
+      description: '<p>6巻 P80  高知県高知市 桟橋通五丁目3</p> <p><img alt="Kōchi" src="https://live.staticflickr.com/65535/48685102857_1e704d90f3_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=33.5404756&amp;lon=133.5527511&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Kōchi】 by Jan Dreesen</p>',
       location: {
         center: [133.5527511, 33.5404756],
         zoom: 14,
@@ -197,7 +197,7 @@ const config = {
       title: 'ホームセンターブリコ 桟橋店',
       image: '',
       tweet_id: '',
-      description: '<p>6巻 P80  高知県高知市 孕西町214</p> <p><img alt="IMG_0337" src="https://live.staticflickr.com/417/31638786993_de6a43f139_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=33.5373806&amp;lon=133.5505423&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【IMG_0337】 by hiromori</p>',
+      description: '<p>6巻 P80  高知県高知市 孕西町214</p> <p><img alt="IMG_0333" src="https://live.staticflickr.com/557/32299452112_55429d601a_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=33.5373806&amp;lon=133.5505423&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【IMG_0333】 by hiromori</p>',
       location: {
         center: [133.5505423, 33.5373806],
         zoom: 14,
@@ -297,7 +297,7 @@ const config = {
       title: '長宗我部元親像',
       image: '',
       tweet_id: '',
-      description: '<p>6巻 P83  高知県高知市 長浜5714</p> <p><img alt="姫若子" src="https://live.staticflickr.com/6013/6016875198_40d0ea07d0_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=33.4930629&amp;lon=133.5462907&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【姫若子】 by jour13</p>',
+      description: '<p>6巻 P83  高知県高知市 長浜5714</p> ',
       location: {
         center: [133.5462907, 33.4930629],
         zoom: 14,

@@ -137,7 +137,7 @@ const config = {
       title: '湯川堤防',
       image: '',
       tweet_id: '',
-      description: '<p>   北海道函館市 湯川町三丁目1</p> <p><img alt="IMG20180204113532" src="https://live.staticflickr.com/1958/44915848902_f4cfc34975_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=41.7731667&amp;lon=140.7874485&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【IMG20180204113532】 by redice0112</p>',
+      description: '<p>   北海道函館市 湯川町三丁目1</p> <p><img alt="2018 - 0807 iMG_783 平成館しおさい亭別館花月" src="https://live.staticflickr.com/1873/30457375638_3e720b770d_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=41.7731667&amp;lon=140.7874485&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【2018 - 0807 iMG_783 平成館しおさい亭別館花月】 by PIPIQ.LAI</p>',
       location: {
         center: [140.7874485, 41.7731667],
         zoom: 14,
@@ -157,7 +157,7 @@ const config = {
       title: '函館麺や 一文字 函館総本店',
       image: '',
       tweet_id: '',
-      description: '<p>   北海道函館市 湯川町二丁目1</p> <p><img alt="Snow or rains...." src="https://live.staticflickr.com/7810/32579141387_47f5b55b53_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=41.7748933&amp;lon=140.7878883&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Snow or rains....】 by NIeFH</p>',
+      description: '<p>   北海道函館市 湯川町二丁目1</p> <p><img alt="IMG20180204113532" src="https://live.staticflickr.com/1958/44915848902_f4cfc34975_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=41.7748933&amp;lon=140.7878883&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【IMG20180204113532】 by redice0112</p>',
       location: {
         center: [140.7878883, 41.7748933],
         zoom: 14,
@@ -257,7 +257,7 @@ const config = {
       title: '大森町',
       image: '',
       tweet_id: '',
-      description: '<p>   北海道函館市 宇賀浦町1</p> <p><img alt="DSC01101" src="https://live.staticflickr.com/7451/27302716311_cd09c86ca7_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=41.7697786&amp;lon=140.7404156&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【DSC01101】 by 騰子</p>',
+      description: '<p>   北海道函館市 宇賀浦町1</p> <p><img alt="函館市電 39 ハイカラ号の絵" src="https://live.staticflickr.com/65535/50074882542_30b0baceb7_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=41.7697786&amp;lon=140.7404156&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【函館市電 39 ハイカラ号の絵】 by OOMYV</p>',
       location: {
         center: [140.7404156, 41.7697786],
         zoom: 14,
