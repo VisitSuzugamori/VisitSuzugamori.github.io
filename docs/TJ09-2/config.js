@@ -117,7 +117,7 @@ const config = {
       title: '呉湾艦船めぐり',
       image: '',
       tweet_id: '',
-      description: '<p>3巻 P14  広島県呉市 宝町4</p> <p><img alt="Kure Hiroshima, manhole cover 4 （広島県呉市のマンホール４）" src="https://live.staticflickr.com/65535/51772915195_7ffdd61fe5_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.2405577&amp;lon=132.5564318&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Kure Hiroshima, manhole cover 4 （広島県呉市のマンホール４）】 by MRSY</p>',
+      description: '<p>3巻 P14  広島県呉市 宝町4</p> <p><img alt="610_7069" src="https://live.staticflickr.com/65535/50883132783_8009a079ca_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.2405577&amp;lon=132.5564318&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【610_7069】 by Lox Pix</p>',
       location: {
         center: [132.5564318, 34.2405577],
         zoom: 14,

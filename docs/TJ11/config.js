@@ -76,8 +76,8 @@ const config = {
       hidden: false,
       title: '潮岬灯台',
       image: '',
-      tweet_id: '',
-      description: '<p>3巻 P62  和歌山県東牟婁郡 串本町 </p> <p><img alt="Pohled zpátky na pevninu" src="https://live.staticflickr.com/65535/51178871612_be0a4772d2_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=33.4375625&amp;lon=135.7544642&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Pohled zpátky na pevninu】 by SocialHermit</p>',
+      tweet_id: '1514261600966160385',
+      description: '<p>3巻 P62  和歌山県東牟婁郡 串本町 </p><div class="tweetContainer" id="tweet1514261600966160385"></div> ',
       location: {
         center: [135.7544642, 33.4375625],
         zoom: 14,
@@ -96,8 +96,8 @@ const config = {
       hidden: false,
       title: '本州最南端の碑',
       image: '',
-      tweet_id: '1511508039467102209',
-      description: '<p>3巻 P64  和歌山県東牟婁郡 串本町 </p><div class="tweetContainer" id="tweet1511508039467102209"></div> ',
+      tweet_id: '1514102341573742598',
+      description: '<p>3巻 P64  和歌山県東牟婁郡 串本町 </p><div class="tweetContainer" id="tweet1514102341573742598"></div> ',
       location: {
         center: [135.7621203, 33.4362401],
         zoom: 14,
@@ -236,8 +236,8 @@ const config = {
       hidden: false,
       title: '熊野本宮大社',
       image: '',
-      tweet_id: '1513023689293369350',
-      description: '<p>3巻 P82  和歌山県田辺市 本宮町本宮</p><div class="tweetContainer" id="tweet1513023689293369350"></div> ',
+      tweet_id: '1514064040158728192',
+      description: '<p>3巻 P82  和歌山県田辺市 本宮町本宮</p><div class="tweetContainer" id="tweet1514064040158728192"></div> ',
       location: {
         center: [135.7734753, 33.8405706],
         zoom: 14,

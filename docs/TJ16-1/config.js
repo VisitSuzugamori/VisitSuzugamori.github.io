@@ -56,8 +56,8 @@ const config = {
       hidden: false,
       title: '水戸駅',
       image: '',
-      tweet_id: '1511476720008073220',
-      description: '<p>5巻 P7  茨城県水戸市 宮町一丁目7</p><div class="tweetContainer" id="tweet1511476720008073220"></div> ',
+      tweet_id: '1514564179214053378',
+      description: '<p>5巻 P7  茨城県水戸市 宮町一丁目7</p><div class="tweetContainer" id="tweet1514564179214053378"></div> ',
       location: {
         center: [140.4762789, 36.3707326],
         zoom: 14,
@@ -77,7 +77,7 @@ const config = {
       title: '水戸の納豆記念碑',
       image: '',
       tweet_id: '',
-      description: '<p>5巻 P9  茨城県水戸市 宮町一丁目7</p> <p><img alt="Mito Set" src="https://live.staticflickr.com/65535/51807457031_29f257dfee_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=36.369809&amp;lon=140.4758112&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Mito Set】 by シュポじ（ししまる）</p>',
+      description: '<p>5巻 P9  茨城県水戸市 宮町一丁目7</p> <p><img alt="水戸" src="https://live.staticflickr.com/65535/51279687285_330d007621_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=36.369809&amp;lon=140.4758112&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【水戸】 by Chitaka Chou</p>',
       location: {
         center: [140.4758112, 36.369809],
         zoom: 14,
