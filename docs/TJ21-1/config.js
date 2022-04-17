@@ -16,8 +16,8 @@ const config = {
       hidden: false,
       title: '函館駅',
       image: '',
-      tweet_id: '1513282303686070272',
-      description: '<p>   北海道函館市 若松町12</p><div class="tweetContainer" id="tweet1513282303686070272"></div> ',
+      tweet_id: '1515538791208919043',
+      description: '<p>   北海道函館市 若松町12</p><div class="tweetContainer" id="tweet1515538791208919043"></div> ',
       location: {
         center: [140.7264741, 41.7737804],
         zoom: 14,
@@ -36,8 +36,8 @@ const config = {
       hidden: false,
       title: '新函館北斗駅',
       image: '',
-      tweet_id: '1512009977514577926',
-      description: '<p>   北海道北斗市 市渡一丁目1</p><div class="tweetContainer" id="tweet1512009977514577926"></div> ',
+      tweet_id: '',
+      description: '<p>   北海道北斗市 市渡一丁目1</p> <p><img alt="shin_hakodate_hokuto_20210811205646" src="https://live.staticflickr.com/65535/51821607881_1e2e534c39_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=41.9046983&amp;lon=140.6483763&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【shin_hakodate_hokuto_20210811205646】 by inunami</p>',
       location: {
         center: [140.6483763, 41.9046983],
         zoom: 14,
@@ -236,8 +236,8 @@ const config = {
       hidden: false,
       title: '函館山ロープウェイ山麓駅',
       image: '',
-      tweet_id: '',
-      description: '<p>   北海道函館市 元町19</p> <p><img alt="_DSC2833" src="https://live.staticflickr.com/65535/51568966396_d672f1c502_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=41.7609078&amp;lon=140.7143007&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【_DSC2833】 by de98lip</p>',
+      tweet_id: '1515202179006668803',
+      description: '<p>   北海道函館市 元町19</p><div class="tweetContainer" id="tweet1515202179006668803"></div> ',
       location: {
         center: [140.7143007, 41.7609078],
         zoom: 14,
