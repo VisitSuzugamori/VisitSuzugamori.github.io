@@ -116,8 +116,8 @@ const config = {
       hidden: false,
       title: '伏見稲荷駅',
       image: '',
-      tweet_id: '1514173963777486849',
-      description: '<p>2巻 P18  京都府京都市 伏見区 深草一ノ坪町20</p><div class="tweetContainer" id="tweet1514173963777486849"></div> ',
+      tweet_id: '1516609217112809477',
+      description: '<p>2巻 P18  京都府京都市 伏見区 深草一ノ坪町20</p><div class="tweetContainer" id="tweet1516609217112809477"></div> ',
       location: {
         center: [135.7692088, 34.9687541],
         zoom: 14,
@@ -137,7 +137,7 @@ const config = {
       title: '宮津駅',
       image: '',
       tweet_id: '',
-      description: '<p>2巻 P21  京都府宮津市 字鶴賀2099</p> <p><img alt="swallow" src="https://live.staticflickr.com/4259/35746896066_1d02070642_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.5344188&amp;lon=135.1997513&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【swallow】 by YUICHI38</p>',
+      description: '<p>2巻 P21  京都府宮津市 字鶴賀2099</p> <p><img alt="kyoto_tango_railway_20211008153929" src="https://live.staticflickr.com/65535/51817209892_ca91e7ab1a_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.5344188&amp;lon=135.1997513&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【kyoto_tango_railway_20211008153929】 by inunami</p>',
       location: {
         center: [135.1997513, 35.5344188],
         zoom: 14,
@@ -177,7 +177,7 @@ const config = {
       title: '茶六本館',
       image: '',
       tweet_id: '',
-      description: '<p>2巻 P22  京都府宮津市 字本町842</p> <p><img alt="Miyazu#35" src="https://live.staticflickr.com/4441/36267565394_6d632f3211_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.5368405&amp;lon=135.1918306&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Miyazu#35】 by tetsuo5</p>',
+      description: '<p>2巻 P22  京都府宮津市 字本町842</p> <p><img alt="Miyazu#28" src="https://live.staticflickr.com/4362/36851465932_1a32ac830f_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.5368405&amp;lon=135.1918306&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Miyazu#28】 by tetsuo5</p>',
       location: {
         center: [135.1918306, 35.5368405],
         zoom: 14,
@@ -216,8 +216,8 @@ const config = {
       hidden: false,
       title: '天橋立ビューランド',
       image: '',
-      tweet_id: '1513000091497418756',
-      description: '<p>2巻 P32  京都府宮津市 文珠1</p><div class="tweetContainer" id="tweet1513000091497418756"></div> ',
+      tweet_id: '',
+      description: '<p>2巻 P32  京都府宮津市 文珠1</p> <p><img alt="IMG_5856" src="https://live.staticflickr.com/65535/51995051679_f28e81d129_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.5527779&amp;lon=135.1821171&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【IMG_5856】 by スーパーサイヤ人Ⅳ</p>',
       location: {
         center: [135.1821171, 35.5527779],
         zoom: 14,
@@ -257,7 +257,7 @@ const config = {
       title: '岩見重太郎 仇討ちの場',
       image: '',
       tweet_id: '',
-      description: '<p>2巻 P36  京都府宮津市 字文珠</p> <p><img alt="P1039247" src="https://live.staticflickr.com/65535/49332254667_d3dfc78c3e_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.5628724&amp;lon=135.1881478&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【P1039247】 by MakotoUmeda</p>',
+      description: '<p>2巻 P36  京都府宮津市 字文珠</p> <p><img alt="P1039245" src="https://live.staticflickr.com/65535/49331567108_4c395bd571_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.5628724&amp;lon=135.1881478&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【P1039245】 by MakotoUmeda</p>',
       location: {
         center: [135.1881478, 35.5628724],
         zoom: 14,
@@ -297,7 +297,7 @@ const config = {
       title: '天橋立神社',
       image: '',
       tweet_id: '',
-      description: '<p>2巻 P39  京都府宮津市 字文珠</p> <p><img alt="P1039248" src="https://live.staticflickr.com/65535/49332032556_d1a03f0566_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.5634066&amp;lon=135.1879155&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【P1039248】 by MakotoUmeda</p>',
+      description: '<p>2巻 P39  京都府宮津市 字文珠</p> <p><img alt="P1039247" src="https://live.staticflickr.com/65535/49332254667_d3dfc78c3e_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.5634066&amp;lon=135.1879155&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【P1039247】 by MakotoUmeda</p>',
       location: {
         center: [135.1879155, 35.5634066],
         zoom: 14,

@@ -57,7 +57,7 @@ const config = {
       title: '両子寺',
       image: '',
       tweet_id: '',
-      description: '<p>5巻 P105  大分県国東市 </p> <p><img alt="oku-no-inn" src="https://live.staticflickr.com/65535/51982037700_732c5d8ca3_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=33.5740013&amp;lon=131.603241&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【oku-no-inn】 by MURATAGAWA Kei</p>',
+      description: '<p>5巻 P105  大分県国東市 </p> <p><img alt="Futago-ji" src="https://live.staticflickr.com/4245/34806229896_68b7848b87_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=33.5740013&amp;lon=131.603241&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Futago-ji】 by seghal1</p>',
       location: {
         center: [131.603241, 33.5740013],
         zoom: 14,
