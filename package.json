@@ -43,7 +43,7 @@
     "eslint-plugin-no-secrets": "^0.8.9",
     "eslint-plugin-node": "^11.1.0",
     "eslint-plugin-prettier": "^4.0.0",
-    "jest": "^27.5.1",
+    "jest": "^28.0.1",
     "morgan": "^1.10.0",
     "prettier": "^2.6.2",
     "serve-static": "^1.15.0"
