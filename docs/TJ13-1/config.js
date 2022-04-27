@@ -16,8 +16,8 @@ const config = {
       hidden: false,
       title: '出雲市駅',
       image: '',
-      tweet_id: '1515263121644007430',
-      description: '<p>3巻 P130  島根県出雲市 駅北町25</p><div class="tweetContainer" id="tweet1515263121644007430"></div> ',
+      tweet_id: '1518395915480051713',
+      description: '<p>3巻 P130  島根県出雲市 駅北町25</p><div class="tweetContainer" id="tweet1518395915480051713"></div> ',
       location: {
         center: [132.7567006, 35.3608386],
         zoom: 14,
@@ -276,8 +276,8 @@ const config = {
       hidden: false,
       title: '出雲大社前駅',
       image: '',
-      tweet_id: '',
-      description: '<p>3巻 P145  島根県出雲市 大社町杵築南1346</p> <p><img alt="デハニ50形" src="https://live.staticflickr.com/65535/51349812611_9064924f50_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.3935224&amp;lon=132.6870732&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【デハニ50形】 by Chitaka Chou</p>',
+      tweet_id: '1518089379620978688',
+      description: '<p>3巻 P145  島根県出雲市 大社町杵築南1346</p><div class="tweetContainer" id="tweet1518089379620978688"></div> ',
       location: {
         center: [132.6870732, 35.3935224],
         zoom: 14,
@@ -336,8 +336,8 @@ const config = {
       hidden: false,
       title: '松江城',
       image: '',
-      tweet_id: '1515923120627978242',
-      description: '<p>3巻 P150  島根県松江市 殿町1</p><div class="tweetContainer" id="tweet1515923120627978242"></div> ',
+      tweet_id: '1518783655119831040',
+      description: '<p>3巻 P150  島根県松江市 殿町1</p><div class="tweetContainer" id="tweet1518783655119831040"></div> ',
       location: {
         center: [133.0506783, 35.4751335],
         zoom: 14,
