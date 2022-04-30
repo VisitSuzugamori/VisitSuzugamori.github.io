@@ -116,8 +116,8 @@ const config = {
       hidden: false,
       title: '伏見稲荷駅',
       image: '',
-      tweet_id: '1516609217112809477',
-      description: '<p>2巻 P18  京都府京都市 伏見区 深草一ノ坪町20</p><div class="tweetContainer" id="tweet1516609217112809477"></div> ',
+      tweet_id: '1517632474960252928',
+      description: '<p>2巻 P18  京都府京都市 伏見区 深草一ノ坪町20</p><div class="tweetContainer" id="tweet1517632474960252928"></div> ',
       location: {
         center: [135.7692088, 34.9687541],
         zoom: 14,
@@ -136,8 +136,8 @@ const config = {
       hidden: false,
       title: '宮津駅',
       image: '',
-      tweet_id: '',
-      description: '<p>2巻 P21  京都府宮津市 字鶴賀2099</p> <p><img alt="kyoto_tango_railway_20211008153929" src="https://live.staticflickr.com/65535/51817209892_ca91e7ab1a_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.5344188&amp;lon=135.1997513&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【kyoto_tango_railway_20211008153929】 by inunami</p>',
+      tweet_id: '1519188607210487809',
+      description: '<p>2巻 P21  京都府宮津市 字鶴賀2099</p><div class="tweetContainer" id="tweet1519188607210487809"></div> ',
       location: {
         center: [135.1997513, 35.5344188],
         zoom: 14,
@@ -217,7 +217,7 @@ const config = {
       title: '天橋立ビューランド',
       image: '',
       tweet_id: '',
-      description: '<p>2巻 P32  京都府宮津市 文珠1</p> <p><img alt="IMG_5856" src="https://live.staticflickr.com/65535/51995051679_f28e81d129_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.5527779&amp;lon=135.1821171&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【IMG_5856】 by スーパーサイヤ人Ⅳ</p>',
+      description: '<p>2巻 P32  京都府宮津市 文珠1</p> <p><img alt="IMG_5858" src="https://live.staticflickr.com/65535/51994836453_f2f168a8ef_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.5527779&amp;lon=135.1821171&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【IMG_5858】 by スーパーサイヤ人Ⅳ</p>',
       location: {
         center: [135.1821171, 35.5527779],
         zoom: 14,

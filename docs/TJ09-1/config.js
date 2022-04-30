@@ -137,7 +137,7 @@ const config = {
       title: '宮島桟橋',
       image: '',
       tweet_id: '',
-      description: '<p>2巻 P151  広島県廿日市市 宮島町873</p> <p><img alt="IMG_1318" src="https://live.staticflickr.com/65535/51525828533_1e28147119_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.3020862&amp;lon=132.3222151&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【IMG_1318】 by lee-tw</p>',
+      description: '<p>2巻 P151  広島県廿日市市 宮島町873</p> <p><img alt="Miyajima: Fishing fleet flags" src="https://live.staticflickr.com/65535/51858509766_5f7154070c_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.3020862&amp;lon=132.3222151&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Miyajima: Fishing fleet flags】 by kewing</p>',
       location: {
         center: [132.3222151, 34.3020862],
         zoom: 14,

@@ -37,7 +37,7 @@ const config = {
       title: '御岩神社',
       image: '',
       tweet_id: '',
-      description: '<p>5巻 P36  茨城県日立市 </p> <p><img alt="20181008-084906-40" src="https://live.staticflickr.com/1903/31326270958_ccb17041be_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=36.6360807&amp;lon=140.5855581&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【20181008-084906-40】 by giu205</p>',
+      description: '<p>5巻 P36  茨城県日立市 </p> <p><img alt="Niigata/Ibaraki &#39;16 #19" src="https://live.staticflickr.com/8200/28815102074_b6a5c91bb1_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=36.6360807&amp;lon=140.5855581&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Niigata/Ibaraki &#39;16 #19】 by tt64jp</p>',
       location: {
         center: [140.5855581, 36.6360807],
         zoom: 14,
@@ -96,8 +96,8 @@ const config = {
       hidden: false,
       title: '日立駅',
       image: '',
-      tweet_id: '1517683557137018881',
-      description: '<p>5巻 P51  茨城県日立市 旭町一丁目3</p><div class="tweetContainer" id="tweet1517683557137018881"></div> ',
+      tweet_id: '1519862283337625600',
+      description: '<p>5巻 P51  茨城県日立市 旭町一丁目3</p><div class="tweetContainer" id="tweet1519862283337625600"></div> ',
       location: {
         center: [140.6621017, 36.5906849],
         zoom: 14,

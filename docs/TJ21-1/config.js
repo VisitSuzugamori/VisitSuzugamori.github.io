@@ -36,8 +36,8 @@ const config = {
       hidden: false,
       title: '新函館北斗駅',
       image: '',
-      tweet_id: '1516951919729967104',
-      description: '<p>   北海道北斗市 市渡一丁目1</p><div class="tweetContainer" id="tweet1516951919729967104"></div> ',
+      tweet_id: '1519067479779459072',
+      description: '<p>   北海道北斗市 市渡一丁目1</p><div class="tweetContainer" id="tweet1519067479779459072"></div> ',
       location: {
         center: [140.6483763, 41.9046983],
         zoom: 14,
@@ -97,7 +97,7 @@ const config = {
       title: '七飯駅',
       image: '',
       tweet_id: '',
-      description: '<p>   北海道亀田郡 七飯町 本町一丁目1</p> <p><img alt="DSC01950" src="https://live.staticflickr.com/7174/27502953965_d403f785d8_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=41.8877128&amp;lon=140.6881975&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【DSC01950】 by 騰子</p>',
+      description: '<p>   北海道亀田郡 七飯町 本町一丁目1</p> <p><img alt="_DSF7021" src="https://live.staticflickr.com/65535/49006697577_1b7bd3a6b3_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=41.8877128&amp;lon=140.6881975&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【_DSF7021】 by b0rt</p>',
       location: {
         center: [140.6881975, 41.8877128],
         zoom: 14,
