@@ -96,8 +96,8 @@ const config = {
       hidden: false,
       title: '日立駅',
       image: '',
-      tweet_id: '1519862283337625600',
-      description: '<p>5巻 P51  茨城県日立市 旭町一丁目3</p><div class="tweetContainer" id="tweet1519862283337625600"></div> ',
+      tweet_id: '1521212822402732032',
+      description: '<p>5巻 P51  茨城県日立市 旭町一丁目3</p><div class="tweetContainer" id="tweet1521212822402732032"></div> ',
       location: {
         center: [140.6621017, 36.5906849],
         zoom: 14,
