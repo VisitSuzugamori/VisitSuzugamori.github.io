@@ -276,8 +276,8 @@ const config = {
       hidden: false,
       title: '中尊寺',
       image: '',
-      tweet_id: '1521010579946704898',
-      description: '<p>3巻 P118  岩手県西磐井郡 平泉町 平泉43</p><div class="tweetContainer" id="tweet1521010579946704898"></div> ',
+      tweet_id: '1521682508668055552',
+      description: '<p>3巻 P118  岩手県西磐井郡 平泉町 平泉43</p><div class="tweetContainer" id="tweet1521682508668055552"></div> ',
       location: {
         center: [141.102596, 39.0017355],
         zoom: 14,
