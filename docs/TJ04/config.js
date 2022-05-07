@@ -16,8 +16,8 @@ const config = {
       hidden: false,
       title: '東京駅',
       image: '',
-      tweet_id: '1521457709547397121',
-      description: '<p>1巻 P126  東京都千代田区 丸の内一丁目9</p><div class="tweetContainer" id="tweet1521457709547397121"></div> ',
+      tweet_id: '1522778387634593792',
+      description: '<p>1巻 P126  東京都千代田区 丸の内一丁目9</p><div class="tweetContainer" id="tweet1522778387634593792"></div> ',
       location: {
         center: [139.7671248, 35.6812362],
         zoom: 14,
@@ -136,8 +136,8 @@ const config = {
       hidden: false,
       title: 'うどん本陣 山田家',
       image: '',
-      tweet_id: '1520988140311400448',
-      description: '<p>1巻 P134  香川県高松市 牟礼町牟礼3128</p><div class="tweetContainer" id="tweet1520988140311400448"></div> ',
+      tweet_id: '1522466991004602368',
+      description: '<p>1巻 P134  香川県高松市 牟礼町牟礼3128</p><div class="tweetContainer" id="tweet1522466991004602368"></div> ',
       location: {
         center: [134.1296254, 34.3532536],
         zoom: 14,

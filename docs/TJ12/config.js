@@ -56,8 +56,8 @@ const config = {
       hidden: false,
       title: '宮沢賢治記念館',
       image: '',
-      tweet_id: '1519917516977545217',
-      description: '<p>3巻 P91  岩手県花巻市 矢沢第一地割15</p><div class="tweetContainer" id="tweet1519917516977545217"></div> ',
+      tweet_id: '1522055217948524545',
+      description: '<p>3巻 P91  岩手県花巻市 矢沢第一地割15</p><div class="tweetContainer" id="tweet1522055217948524545"></div> ',
       location: {
         center: [141.1626699, 39.3992073],
         zoom: 14,
@@ -76,8 +76,8 @@ const config = {
       hidden: false,
       title: '山猫軒',
       image: '',
-      tweet_id: '',
-      description: '<p>3巻 P92  岩手県花巻市 高松第二十六地割8</p> <p><img alt="20200201_111234" src="https://live.staticflickr.com/65535/49525100341_f78ece8444_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=39.3994579&amp;lon=141.1645876&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【20200201_111234】 by honhong1598</p>',
+      tweet_id: '1522391247377387522',
+      description: '<p>3巻 P92  岩手県花巻市 高松第二十六地割8</p><div class="tweetContainer" id="tweet1522391247377387522"></div> ',
       location: {
         center: [141.1645876, 39.3994579],
         zoom: 14,
@@ -276,8 +276,8 @@ const config = {
       hidden: false,
       title: '中尊寺',
       image: '',
-      tweet_id: '1521682508668055552',
-      description: '<p>3巻 P118  岩手県西磐井郡 平泉町 平泉43</p><div class="tweetContainer" id="tweet1521682508668055552"></div> ',
+      tweet_id: '1522338749275074561',
+      description: '<p>3巻 P118  岩手県西磐井郡 平泉町 平泉43</p><div class="tweetContainer" id="tweet1522338749275074561"></div> ',
       location: {
         center: [141.102596, 39.0017355],
         zoom: 14,

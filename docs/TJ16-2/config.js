@@ -36,8 +36,8 @@ const config = {
       hidden: false,
       title: '御岩神社',
       image: '',
-      tweet_id: '',
-      description: '<p>5巻 P36  茨城県日立市 </p> <p><img alt="20181008-084906-40" src="https://live.staticflickr.com/1903/31326270958_ccb17041be_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=36.6360807&amp;lon=140.5855581&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【20181008-084906-40】 by giu205</p>',
+      tweet_id: '1522755256848773120',
+      description: '<p>5巻 P36  茨城県日立市 </p><div class="tweetContainer" id="tweet1522755256848773120"></div> ',
       location: {
         center: [140.5855581, 36.6360807],
         zoom: 14,
@@ -57,7 +57,7 @@ const config = {
       title: '賀毗禮神宮',
       image: '',
       tweet_id: '',
-      description: '<p>5巻 P40  茨城県日立市 </p> <p><img alt="20181008-091011-45" src="https://live.staticflickr.com/1952/30261309897_75a58ec1dc_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=36.6319654&amp;lon=140.5907626&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【20181008-091011-45】 by giu205</p>',
+      description: '<p>5巻 P40  茨城県日立市 </p> <p><img alt="20181008-091903-46" src="https://live.staticflickr.com/1937/44288874835_15616258c1_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=36.6319654&amp;lon=140.5907626&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【20181008-091903-46】 by giu205</p>',
       location: {
         center: [140.5907626, 36.6319654],
         zoom: 14,
@@ -137,7 +137,7 @@ const config = {
       title: '津神社',
       image: '',
       tweet_id: '',
-      description: '<p>5巻 P53  茨城県日立市 相賀町14</p> <p><img alt="Dusk" src="https://live.staticflickr.com/5001/5377641481_e43bf18a20_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=36.5809219&amp;lon=140.6617725&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Dusk】 by gupey</p>',
+      description: '<p>5巻 P53  茨城県日立市 相賀町14</p> <p><img alt="#sea #shore" src="https://live.staticflickr.com/3956/15501150157_220386f221_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=36.5809219&amp;lon=140.6617725&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【#sea #shore】 by culturalphenomenon27</p>',
       location: {
         center: [140.6617725, 36.5809219],
         zoom: 14,
