@@ -16,8 +16,8 @@ const config = {
       hidden: false,
       title: '品川駅',
       image: '',
-      tweet_id: '1520985550328823808',
-      description: '<p>   東京都港区 高輪三丁目26</p><div class="tweetContainer" id="tweet1520985550328823808"></div> ',
+      tweet_id: '1522953340896038913',
+      description: '<p>   東京都港区 高輪三丁目26</p><div class="tweetContainer" id="tweet1522953340896038913"></div> ',
       location: {
         center: [139.7387597, 35.6284713],
         zoom: 14,
@@ -36,8 +36,8 @@ const config = {
       hidden: false,
       title: '羽田空港第１・第２ターミナル駅',
       image: '',
-      tweet_id: '1519932951651307521',
-      description: '<p>   東京都大田区 羽田空港三丁目4</p><div class="tweetContainer" id="tweet1519932951651307521"></div> ',
+      tweet_id: '1523231406490808320',
+      description: '<p>   東京都大田区 羽田空港三丁目4</p><div class="tweetContainer" id="tweet1523231406490808320"></div> ',
       location: {
         center: [139.786427, 35.5499709],
         zoom: 14,
@@ -56,8 +56,8 @@ const config = {
       hidden: false,
       title: '羽田空港',
       image: '',
-      tweet_id: '1522010882502705152',
-      description: '<p>   東京都大田区 羽田空港三丁目3</p><div class="tweetContainer" id="tweet1522010882502705152"></div> ',
+      tweet_id: '1522442138948374528',
+      description: '<p>   東京都大田区 羽田空港三丁目3</p><div class="tweetContainer" id="tweet1522442138948374528"></div> ',
       location: {
         center: [139.7798386, 35.5493932],
         zoom: 14,
