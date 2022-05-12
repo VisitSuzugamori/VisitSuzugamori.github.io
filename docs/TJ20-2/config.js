@@ -16,8 +16,8 @@ const config = {
       hidden: false,
       title: '東京駅',
       image: '',
-      tweet_id: '1523970179113586688',
-      description: '<p>6巻 P132  東京都千代田区 丸の内一丁目9</p><div class="tweetContainer" id="tweet1523970179113586688"></div> ',
+      tweet_id: '1523628196859576322',
+      description: '<p>6巻 P132  東京都千代田区 丸の内一丁目9</p><div class="tweetContainer" id="tweet1523628196859576322"></div> ',
       location: {
         center: [139.7671248, 35.6812362],
         zoom: 14,
@@ -36,8 +36,8 @@ const config = {
       hidden: false,
       title: '桂浜',
       image: '',
-      tweet_id: '1520928594398117888',
-      description: '<p>6巻 P108  高知県高知市 浦戸778</p><div class="tweetContainer" id="tweet1520928594398117888"></div> ',
+      tweet_id: '1521747463346208768',
+      description: '<p>6巻 P108  高知県高知市 浦戸778</p><div class="tweetContainer" id="tweet1521747463346208768"></div> ',
       location: {
         center: [133.5749209, 33.4971366],
         zoom: 14,
@@ -97,7 +97,7 @@ const config = {
       title: '龍王宮',
       image: '',
       tweet_id: '',
-      description: '<p>6巻 P117  高知県高知市 浦戸830</p> <p><img alt="桂浜" src="https://live.staticflickr.com/65535/50307478852_2e8db97f78_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=33.4956281&amp;lon=133.5746555&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【桂浜】 by Chitaka Chou</p>',
+      description: '<p>6巻 P117  高知県高知市 浦戸830</p> <p><img alt="IMG_20210110_173250" src="https://live.staticflickr.com/65535/50839352018_0115eb6aaa_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=33.4956281&amp;lon=133.5746555&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【IMG_20210110_173250】 by Crush Yuta</p>',
       location: {
         center: [133.5746555, 33.4956281],
         zoom: 14,
@@ -137,7 +137,7 @@ const config = {
       title: '土佐三志士の像',
       image: '',
       tweet_id: '',
-      description: '<p>6巻 P122  高知県高知市 北本町二丁目10</p> <p><img alt="土佐電 外国電車198 はりまや橋" src="https://live.staticflickr.com/65535/50075027517_310abb94d3_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=33.5664177&amp;lon=133.5430255&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【土佐電 外国電車198 はりまや橋】 by OOMYV</p>',
+      description: '<p>6巻 P122  高知県高知市 北本町二丁目10</p> <p><img alt="2017-10-07, Kochi, Ekimae" src="https://live.staticflickr.com/65535/50492273251_5613843215_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=33.5664177&amp;lon=133.5430255&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【2017-10-07, Kochi, Ekimae】 by Fototak</p>',
       location: {
         center: [133.5430255, 33.5664177],
         zoom: 14,
@@ -156,8 +156,8 @@ const config = {
       hidden: false,
       title: '奈半利駅',
       image: '',
-      tweet_id: '1521669989618667521',
-      description: '<p>6巻 P124  高知県安芸郡 奈半利町 乙978</p><div class="tweetContainer" id="tweet1521669989618667521"></div> ',
+      tweet_id: '',
+      description: '<p>6巻 P124  高知県安芸郡 奈半利町 乙978</p> <p><img alt="nahari_20190905093608" src="https://live.staticflickr.com/65535/49844540966_ae50115601_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=33.4250302&amp;lon=134.0180808&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【nahari_20190905093608】 by inunami</p>',
       location: {
         center: [134.0180808, 33.4250302],
         zoom: 14,
@@ -256,8 +256,8 @@ const config = {
       hidden: false,
       title: '龍王岬展望台',
       image: '',
-      tweet_id: '1520540369963913218',
-      description: '<p>6巻 P135  高知県高知市 浦戸830</p><div class="tweetContainer" id="tweet1520540369963913218"></div> ',
+      tweet_id: '',
+      description: '<p>6巻 P135  高知県高知市 浦戸830</p> <p><img alt="IMG_20210110_173342" src="https://live.staticflickr.com/65535/50840163587_c18da6cb09_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=33.4955899&amp;lon=133.5743881&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【IMG_20210110_173342】 by Crush Yuta</p>',
       location: {
         center: [133.5743881, 33.4955899],
         zoom: 14,

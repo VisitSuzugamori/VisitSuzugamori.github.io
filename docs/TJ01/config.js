@@ -16,8 +16,8 @@ const config = {
       hidden: false,
       title: '郡山駅',
       image: '',
-      tweet_id: '1521409223531569153',
-      description: '<p>1巻 P22  福島県郡山市 駅前二丁目4</p><div class="tweetContainer" id="tweet1521409223531569153"></div> ',
+      tweet_id: '1523142605139152896',
+      description: '<p>1巻 P22  福島県郡山市 駅前二丁目4</p><div class="tweetContainer" id="tweet1523142605139152896"></div> ',
       location: {
         center: [140.3884019, 37.3985573],
         zoom: 14,
@@ -56,8 +56,8 @@ const config = {
       hidden: false,
       title: '会津若松駅',
       image: '',
-      tweet_id: '1520235271677423616',
-      description: '<p>1巻 P24  福島県会津若松市 駅前町1</p><div class="tweetContainer" id="tweet1520235271677423616"></div> ',
+      tweet_id: '1521819614904205313',
+      description: '<p>1巻 P24  福島県会津若松市 駅前町1</p><div class="tweetContainer" id="tweet1521819614904205313"></div> ',
       location: {
         center: [139.9303261, 37.5078657],
         zoom: 14,

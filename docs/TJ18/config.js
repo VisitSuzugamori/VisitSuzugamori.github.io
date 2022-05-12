@@ -377,7 +377,7 @@ const config = {
       title: 'なんだこれ？',
       image: '',
       tweet_id: '',
-      description: '<p>5巻 P145  東京都新宿区 西新宿二丁目9</p> <p><img alt="View over Tokyo to Mt. Fuji" src="https://live.staticflickr.com/65535/52006195886_52efd24631_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.6886568&amp;lon=139.6915634&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【View over Tokyo to Mt. Fuji】 by Christian Sacher</p>',
+      description: '<p>5巻 P145  東京都新宿区 西新宿二丁目9</p> <p><img alt="IMG_20200114_170820-01" src="https://live.staticflickr.com/65535/52037865499_80ff06f2e3_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.6886568&amp;lon=139.6915634&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【IMG_20200114_170820-01】 by mark.dempsey26</p>',
       location: {
         center: [139.6915634, 35.6886568],
         zoom: 14,
@@ -397,7 +397,7 @@ const config = {
       title: '都庁からさらに西へ・・・',
       image: '',
       tweet_id: '',
-      description: '<p>5巻 P146  東京都渋谷区 本町三丁目9</p> <p><img alt="so many items" src="https://live.staticflickr.com/65535/51550563709_0912670f4a_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.6891142&amp;lon=139.6830083&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【so many items】 by cat_in_136</p>',
+      description: '<p>5巻 P146  東京都渋谷区 本町三丁目9</p> <p><img alt="Japanese woman walking in sidewalk" src="https://live.staticflickr.com/65535/51363074430_2f636f9c9c_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.6891142&amp;lon=139.6830083&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Japanese woman walking in sidewalk】 by Rick Neves</p>',
       location: {
         center: [139.6830083, 35.6891142],
         zoom: 14,
@@ -477,7 +477,7 @@ const config = {
       title: '杉並区立玉川上水公園',
       image: '',
       tweet_id: '',
-      description: '<p>5巻 P149  東京都杉並区 和泉二丁目8</p> <p><img alt="和泉地蔵尊。お供えの鏡餅が家にあるのと同じだ。" src="https://live.staticflickr.com/65535/49321890268_fab387feb2_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.6713219&amp;lon=139.651149&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【和泉地蔵尊。お供えの鏡餅が家にあるのと同じだ。】 by cyberwonk</p>',
+      description: '<p>5巻 P149  東京都杉並区 和泉二丁目8</p> <p><img alt="杉並区立玉川上水公園" src="https://live.staticflickr.com/65535/51205465635_de6f2786a0_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.6713219&amp;lon=139.651149&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【杉並区立玉川上水公園】 by いしだなおと</p>',
       location: {
         center: [139.651149, 35.6713219],
         zoom: 14,
@@ -497,7 +497,7 @@ const config = {
       title: '普通の街という感じ・・・',
       image: '',
       tweet_id: '',
-      description: '<p>5巻 P150  東京都杉並区 和泉二丁目14</p> <p><img alt="杉並区和泉2丁目 井の頭通りヤマト運輸前　0.07μSv" src="https://live.staticflickr.com/2206/5790204247_9e3fca6177_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.6731172&amp;lon=139.6478716&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【杉並区和泉2丁目 井の頭通りヤマト運輸前　0.07μSv】 by LHM4000cc</p>',
+      description: '<p>5巻 P150  東京都杉並区 和泉二丁目14</p> <p><img alt="Construction Platform over the Kanda River" src="https://live.staticflickr.com/7309/27486755916_5b1cc3b3fe_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.6731172&amp;lon=139.6478716&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Construction Platform over the Kanda River】 by ykanazawa1999</p>',
       location: {
         center: [139.6478716, 35.6731172],
         zoom: 14,

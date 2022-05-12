@@ -56,8 +56,8 @@ const config = {
       hidden: false,
       title: '伊勢市駅',
       image: '',
-      tweet_id: '1520297785417150464',
-      description: '<p>2巻 P100  三重県伊勢市 吹上一丁目1</p><div class="tweetContainer" id="tweet1520297785417150464"></div> ',
+      tweet_id: '1522071301984178177',
+      description: '<p>2巻 P100  三重県伊勢市 吹上一丁目1</p><div class="tweetContainer" id="tweet1522071301984178177"></div> ',
       location: {
         center: [136.7097004, 34.4910554],
         zoom: 14,
@@ -256,8 +256,8 @@ const config = {
       hidden: false,
       title: '夫婦岩',
       image: '',
-      tweet_id: '1520266476481036289',
-      description: '<p>2巻 P121  三重県伊勢市 二見町茶屋562</p><div class="tweetContainer" id="tweet1520266476481036289"></div> ',
+      tweet_id: '1521685136185892864',
+      description: '<p>2巻 P121  三重県伊勢市 二見町茶屋562</p><div class="tweetContainer" id="tweet1521685136185892864"></div> ',
       location: {
         center: [136.7883283, 34.5092993],
         zoom: 14,
