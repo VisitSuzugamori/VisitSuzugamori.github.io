@@ -3496,7 +3496,7 @@
             },
             "properties": {
                 "description": "5巻P102 第17旅（後編）",
-                "name": "国道500号線\n"
+                "name": "国道500号線"
             },
             "type": "Feature"
         },
@@ -3804,7 +3804,7 @@
             },
             "properties": {
                 "description": "5巻P145 第18旅",
-                "name": "なんだこれ？\n"
+                "name": "なんだこれ？"
             },
             "type": "Feature"
         },
@@ -5317,6 +5317,146 @@
             "properties": {
                 "description": "第22旅（前編）",
                 "name": "羽田空港"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    143.4068361,
+                    44.306398
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "第22旅（前編）",
+                "name": "紋別空港（オホーツク紋別空港）"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    143.4067317,
+                    44.3067562
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "第22旅（前編）",
+                "name": "トヨタレンタリース北見 紋別空港カウンター"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    143.4067391,
+                    44.3089909
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "第22旅（前編）",
+                "name": "海のゲート"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    143.4025066,
+                    44.3115946
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "第22旅（前編）",
+                "name": "クロスカントリーコース"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    143.3531553,
+                    44.363687
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "第22旅（前編）",
+                "name": "ワンズレンタカー紋別店"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    144.0708245,
+                    44.121295
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "第22旅（前編）",
+                "name": "松寿し"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    139.7442465,
+                    35.6978467
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "第22旅（後編）",
+                "name": "角川第2本社ビル"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    144.2473548,
+                    44.1106685
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "第22旅（後編）",
+                "name": "オホーツクの塔"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    144.1156977,
+                    44.0124153
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "第22旅（後編）",
+                "name": "能取の荘 かがり屋"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    143.5957829,
+                    44.1853551
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "7巻表紙",
+                "name": "中湧別駅跡"
             },
             "type": "Feature"
         }

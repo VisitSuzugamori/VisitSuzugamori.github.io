@@ -2563,8 +2563,7 @@
       </Point>
     </Placemark>
     <Placemark>
-      <name>国道500号線
-</name>
+      <name>国道500号線</name>
       <description>5巻P102 第17旅（後編）</description>
       <styleUrl>#icon-1899-0F9D58-labelson</styleUrl>
       <Point>
@@ -2784,8 +2783,7 @@
       </Point>
     </Placemark>
     <Placemark>
-      <name>なんだこれ？
-</name>
+      <name>なんだこれ？</name>
       <description>5巻P145 第18旅</description>
       <styleUrl>#icon-1899-0F9D58-labelson</styleUrl>
       <Point>
@@ -3871,6 +3869,106 @@
       <Point>
         <coordinates>
           139.7798386,35.5493932,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>紋別空港（オホーツク紋別空港）</name>
+      <description>第22旅（前編）</description>
+      <styleUrl>#icon-1899-0288D1-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          143.4068361,44.306398,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>トヨタレンタリース北見 紋別空港カウンター</name>
+      <description>第22旅（前編）</description>
+      <styleUrl>#icon-1899-0288D1-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          143.4067317,44.3067562,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>海のゲート</name>
+      <description>第22旅（前編）</description>
+      <styleUrl>#icon-1899-0288D1-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          143.4067391,44.3089909,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>クロスカントリーコース</name>
+      <description>第22旅（前編）</description>
+      <styleUrl>#icon-1899-0288D1-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          143.4025066,44.3115946,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ワンズレンタカー紋別店</name>
+      <description>第22旅（前編）</description>
+      <styleUrl>#icon-1899-0288D1-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          143.3531553,44.363687,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>松寿し</name>
+      <description>第22旅（前編）</description>
+      <styleUrl>#icon-1899-0288D1-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          144.0708245,44.121295,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>角川第2本社ビル</name>
+      <description>第22旅（後編）</description>
+      <styleUrl>#icon-1899-0288D1-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          139.7442465,35.6978467,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>オホーツクの塔</name>
+      <description>第22旅（後編）</description>
+      <styleUrl>#icon-1899-0288D1-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          144.2473548,44.1106685,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>能取の荘 かがり屋</name>
+      <description>第22旅（後編）</description>
+      <styleUrl>#icon-1899-0288D1-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          144.1156977,44.0124153,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>中湧別駅跡</name>
+      <description>7巻表紙</description>
+      <styleUrl>#icon-1899-0288D1-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          143.5957829,44.1853551,0
         </coordinates>
       </Point>
     </Placemark>
