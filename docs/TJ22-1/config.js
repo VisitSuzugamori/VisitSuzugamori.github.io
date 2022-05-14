@@ -36,8 +36,8 @@ const config = {
       hidden: false,
       title: '羽田空港第１・第２ターミナル駅',
       image: '',
-      tweet_id: '1523231406490808320',
-      description: '<p>   東京都大田区 羽田空港三丁目4</p><div class="tweetContainer" id="tweet1523231406490808320"></div> ',
+      tweet_id: '1525338138045992961',
+      description: '<p>   東京都大田区 羽田空港三丁目4</p><div class="tweetContainer" id="tweet1525338138045992961"></div> ',
       location: {
         center: [139.786427, 35.5499709],
         zoom: 14,
@@ -56,8 +56,8 @@ const config = {
       hidden: false,
       title: '羽田空港',
       image: '',
-      tweet_id: '1522442138948374528',
-      description: '<p>   東京都大田区 羽田空港三丁目3</p><div class="tweetContainer" id="tweet1522442138948374528"></div> ',
+      tweet_id: '1523594870333804545',
+      description: '<p>   東京都大田区 羽田空港三丁目3</p><div class="tweetContainer" id="tweet1523594870333804545"></div> ',
       location: {
         center: [139.7798386, 35.5493932],
         zoom: 14,
@@ -76,8 +76,8 @@ const config = {
       hidden: false,
       title: '紋別空港（オホーツク紋別空港）',
       image: '',
-      tweet_id: '1521694743654191106',
-      description: '<p>   北海道紋別市 </p><div class="tweetContainer" id="tweet1521694743654191106"></div> ',
+      tweet_id: '1523080978050080769',
+      description: '<p>   北海道紋別市 </p><div class="tweetContainer" id="tweet1523080978050080769"></div> ',
       location: {
         center: [143.4068361, 44.306398],
         zoom: 14,

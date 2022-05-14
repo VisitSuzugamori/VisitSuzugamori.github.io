@@ -36,8 +36,8 @@ const config = {
       hidden: false,
       title: '海老名SA (下り)',
       image: '',
-      tweet_id: '1521155947384565760',
-      description: '<p>2巻 P141  神奈川県海老名市 大谷南五丁目2</p><div class="tweetContainer" id="tweet1521155947384565760"></div> ',
+      tweet_id: '',
+      description: '<p>2巻 P141  神奈川県海老名市 大谷南五丁目2</p> <p><img alt="IMG_0261" src="https://live.staticflickr.com/65535/50597455831_e792480b64_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.4310702&amp;lon=139.4010198&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【IMG_0261】 by tnoma</p>',
       location: {
         center: [139.4010198, 35.4310702],
         zoom: 14,
@@ -96,8 +96,8 @@ const config = {
       hidden: false,
       title: '宮島口駅',
       image: '',
-      tweet_id: '1521370987886907392',
-      description: '<p>2巻 P147  広島県廿日市市 宮島口一丁目3</p><div class="tweetContainer" id="tweet1521370987886907392"></div> ',
+      tweet_id: '1523168451380281344',
+      description: '<p>2巻 P147  広島県廿日市市 宮島口一丁目3</p><div class="tweetContainer" id="tweet1523168451380281344"></div> ',
       location: {
         center: [132.3029311, 34.3120172],
         zoom: 14,
@@ -137,7 +137,7 @@ const config = {
       title: '宮島桟橋',
       image: '',
       tweet_id: '',
-      description: '<p>2巻 P151  広島県廿日市市 宮島町873</p> <p><img alt="JR West Miyajima Ferry &quot;Nanaura Maru&quot;" src="https://live.staticflickr.com/65535/51764871240_cacdb2a1a9_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.3020862&amp;lon=132.3222151&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【JR West Miyajima Ferry &quot;Nanaura Maru&quot;】 by Takk D. Martin</p>',
+      description: '<p>2巻 P151  広島県廿日市市 宮島町873</p> <p><img alt="Miyajima: Fishing fleet flags" src="https://live.staticflickr.com/65535/51858509766_5f7154070c_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.3020862&amp;lon=132.3222151&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Miyajima: Fishing fleet flags】 by kewing</p>',
       location: {
         center: [132.3222151, 34.3020862],
         zoom: 14,
