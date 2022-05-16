@@ -17,7 +17,7 @@ const config = {
       title: '角川第2本社ビル',
       image: '',
       tweet_id: '',
-      description: '<p>   東京都千代田区 富士見二丁目13</p> <p><img alt="JP029 Awajicho" src="https://live.staticflickr.com/65535/51432652370_2d47448e5e_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.6978467&amp;lon=139.7442465&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【JP029 Awajicho】 by @oyajimbo</p>',
+      description: '<p>   東京都千代田区 富士見二丁目13</p> <p><img alt="" src="https://live.staticflickr.com/65535/52039372571_d66d54a179_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.6978467&amp;lon=139.7442465&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【】 by satty sky</p>',
       location: {
         center: [139.7442465, 35.6978467],
         zoom: 14,
@@ -37,7 +37,7 @@ const config = {
       title: 'オホーツクの塔',
       image: '',
       tweet_id: '',
-      description: '<p>   北海道網走市 </p> <p><img alt="L1009111" src="https://live.staticflickr.com/1839/43515868074_b0cf563335_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=44.1106685&amp;lon=144.2473548&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【L1009111】 by bluepointchen</p>',
+      description: '<p>   北海道網走市 </p> <p><img alt="L1009111" src="https://live.staticflickr.com/1897/43515868224_95bb4c0496_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=44.1106685&amp;lon=144.2473548&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【L1009111】 by bluepointchen</p>',
       location: {
         center: [144.2473548, 44.1106685],
         zoom: 14,

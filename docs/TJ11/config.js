@@ -57,7 +57,7 @@ const config = {
       title: 'この辺まで来たよ',
       image: '',
       tweet_id: '',
-      description: '<p>3巻 P61  和歌山県東牟婁郡 串本町 </p> <p><img alt="1808 1059 7R303537" src="https://live.staticflickr.com/1842/30235383188_2f4038d554_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=33.4378491&amp;lon=135.754685&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【1808 1059 7R303537】 by skycat1221</p>',
+      description: '<p>3巻 P61  和歌山県東牟婁郡 串本町 </p> <p><img alt="it was a good day" src="https://live.staticflickr.com/1870/42761121100_46abec0541_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=33.4378491&amp;lon=135.754685&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【it was a good day】 by k n u l p</p>',
       location: {
         center: [135.754685, 33.4378491],
         zoom: 14,
@@ -96,8 +96,8 @@ const config = {
       hidden: false,
       title: '本州最南端の碑',
       image: '',
-      tweet_id: '1522429177093406720',
-      description: '<p>3巻 P64  和歌山県東牟婁郡 串本町 </p><div class="tweetContainer" id="tweet1522429177093406720"></div> ',
+      tweet_id: '',
+      description: '<p>3巻 P64  和歌山県東牟婁郡 串本町 </p> <p><img alt="Krabíci..." src="https://live.staticflickr.com/65535/51180652895_690f040e33_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=33.4362401&amp;lon=135.7621203&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Krabíci...】 by SocialHermit</p>',
       location: {
         center: [135.7621203, 33.4362401],
         zoom: 14,
