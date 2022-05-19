@@ -177,7 +177,7 @@ const config = {
       title: '漁火通',
       image: '',
       tweet_id: '',
-      description: '<p>   北海道函館市 金堀町2</p> <p><img alt="DSC_4663" src="https://live.staticflickr.com/7567/15820718495_a6d25072ef_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=41.7736848&amp;lon=140.7572748&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【DSC_4663】 by fliesyan</p>',
+      description: '<p>   北海道函館市 金堀町2</p> <p><img alt="DSC01096" src="https://live.staticflickr.com/7005/27302570501_2c87ae78e7_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=41.7736848&amp;lon=140.7572748&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【DSC01096】 by 騰子</p>',
       location: {
         center: [140.7572748, 41.7736848],
         zoom: 14,
@@ -296,8 +296,8 @@ const config = {
       hidden: false,
       title: '立待岬',
       image: '',
-      tweet_id: '1523209932392177664',
-      description: '<p>   北海道函館市 住吉町15</p><div class="tweetContainer" id="tweet1523209932392177664"></div> ',
+      tweet_id: '',
+      description: '<p>   北海道函館市 住吉町15</p> <p><img alt="Tsugaru Strait" src="https://live.staticflickr.com/65535/51971873627_603eac0afc_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=41.7450354&amp;lon=140.7212027&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Tsugaru Strait】 by 雷太</p>',
       location: {
         center: [140.7212027, 41.7450354],
         zoom: 14,

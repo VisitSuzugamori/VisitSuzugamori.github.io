@@ -36,8 +36,8 @@ const config = {
       hidden: false,
       title: '松島海岸駅',
       image: '',
-      tweet_id: '',
-      description: '<p>1巻 P62  宮城県宮城郡 松島町 松島字浪打浜</p> <p><img alt="松島海岸駅" src="https://live.staticflickr.com/65535/51828227348_8827632042_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=38.368053&amp;lon=141.0588152&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【松島海岸駅】 by Chitaka Chou</p>',
+      tweet_id: '1526061541287526400',
+      description: '<p>1巻 P62  宮城県宮城郡 松島町 松島字浪打浜</p><div class="tweetContainer" id="tweet1526061541287526400"></div> ',
       location: {
         center: [141.0588152, 38.368053],
         zoom: 14,
@@ -257,7 +257,7 @@ const config = {
       title: '（閉店）笹かま販売所',
       image: '',
       tweet_id: '',
-      description: '<p>1巻 P85  宮城県宮城郡 松島町 松島字浪打浜</p> <p><img alt="松島海岸駅" src="https://live.staticflickr.com/65535/51827169807_903a5d50b8_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=38.3683903&amp;lon=141.0588914&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【松島海岸駅】 by Chitaka Chou</p>',
+      description: '<p>1巻 P85  宮城県宮城郡 松島町 松島字浪打浜</p> <p><img alt="松島海岸駅" src="https://live.staticflickr.com/65535/51828227348_8827632042_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=38.3683903&amp;lon=141.0588914&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【松島海岸駅】 by Chitaka Chou</p>',
       location: {
         center: [141.0588914, 38.3683903],
         zoom: 14,

@@ -76,8 +76,8 @@ const config = {
       hidden: false,
       title: '谷地温泉',
       image: '',
-      tweet_id: '',
-      description: '<p>3巻 P38  青森県十和田市 </p> <p><img alt="Yachi onsen, one of the secret onsen of Aomori" src="https://live.staticflickr.com/65535/50036012223_af7d118d43_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=40.6330178&amp;lon=140.9245271&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Yachi onsen, one of the secret onsen of Aomori】 by Hans ter Horst Photography</p>',
+      tweet_id: '1527077469102407680',
+      description: '<p>3巻 P38  青森県十和田市 </p><div class="tweetContainer" id="tweet1527077469102407680"></div> ',
       location: {
         center: [140.9245271, 40.6330178],
         zoom: 14,
