@@ -16,8 +16,8 @@ const config = {
       hidden: false,
       title: '東京駅',
       image: '',
-      tweet_id: '1527231866369372166',
-      description: '<p>6巻 P132  東京都千代田区 丸の内一丁目9</p><div class="tweetContainer" id="tweet1527231866369372166"></div> ',
+      tweet_id: '1528205063352913920',
+      description: '<p>6巻 P132  東京都千代田区 丸の内一丁目9</p><div class="tweetContainer" id="tweet1528205063352913920"></div> ',
       location: {
         center: [139.7671248, 35.6812362],
         zoom: 14,
@@ -56,8 +56,8 @@ const config = {
       hidden: false,
       title: '坂本龍馬像',
       image: '',
-      tweet_id: '',
-      description: '<p>6巻 P109  高知県高知市 浦戸6</p> <p><img alt="Ryuo-gu (龍王宮 海津見神社)" src="https://live.staticflickr.com/65535/52068937199_be16f453a8_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=33.4986187&amp;lon=133.5754821&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Ryuo-gu (龍王宮 海津見神社)】 by pantkiewicz</p>',
+      tweet_id: '1528169736655278080',
+      description: '<p>6巻 P109  高知県高知市 浦戸6</p><div class="tweetContainer" id="tweet1528169736655278080"></div> ',
       location: {
         center: [133.5754821, 33.4986187],
         zoom: 14,
@@ -77,7 +77,7 @@ const config = {
       title: '桂浜水族館',
       image: '',
       tweet_id: '',
-      description: '<p>6巻 P116  高知県高知市 浦戸778</p> <p><img alt="Urado Castle ruins (浦戸城跡)" src="https://live.staticflickr.com/65535/52068952264_27f3e0e513_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=33.4969444&amp;lon=133.5736111&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Urado Castle ruins (浦戸城跡)】 by pantkiewicz</p>',
+      description: '<p>6巻 P116  高知県高知市 浦戸778</p> <p><img alt="Urado Castle ruins (浦戸城跡)" src="https://live.staticflickr.com/65535/52067675272_aef8331fb4_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=33.4969444&amp;lon=133.5736111&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Urado Castle ruins (浦戸城跡)】 by pantkiewicz</p>',
       location: {
         center: [133.5736111, 33.4969444],
         zoom: 14,
@@ -137,7 +137,7 @@ const config = {
       title: '土佐三志士の像',
       image: '',
       tweet_id: '',
-      description: '<p>6巻 P122  高知県高知市 北本町二丁目10</p> <p><img alt="2017-10-07, Kochi, Ekimae" src="https://live.staticflickr.com/65535/50492273251_5613843215_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=33.5664177&amp;lon=133.5430255&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【2017-10-07, Kochi, Ekimae】 by Fototak</p>',
+      description: '<p>6巻 P122  高知県高知市 北本町二丁目10</p> <p><img alt="土佐電 外国電車198 はりまや橋" src="https://live.staticflickr.com/65535/50075027517_310abb94d3_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=33.5664177&amp;lon=133.5430255&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【土佐電 外国電車198 はりまや橋】 by OOMYV</p>',
       location: {
         center: [133.5430255, 33.5664177],
         zoom: 14,

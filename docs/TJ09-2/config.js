@@ -17,7 +17,7 @@ const config = {
       title: '嚴島神社',
       image: '',
       tweet_id: '',
-      description: '<p>3巻 P5  </p> <p><img alt="厳島神社" src="https://live.staticflickr.com/65535/52087985649_fef2d02f19_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.2959885&amp;lon=132.3198262&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【厳島神社】 by worldrambles</p>',
+      description: '<p>3巻 P5  </p> <p><img alt="Maroudo Shrine Haiden" src="https://live.staticflickr.com/65535/52056094581_30417ec706_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.2959885&amp;lon=132.3198262&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Maroudo Shrine Haiden】 by Richard Weil</p>',
       location: {
         center: [132.3198262, 34.2959885],
         zoom: 14,
@@ -37,7 +37,7 @@ const config = {
       title: '大聖院',
       image: '',
       tweet_id: '',
-      description: '<p>3巻 P8  広島県廿日市市 宮島町滝町215</p> <p><img alt="Daishoin banners, Miyajima 大聖院 宮島  広島" src="https://live.staticflickr.com/65535/51488631058_30212eaf6f_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.2920477&amp;lon=132.3184736&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Daishoin banners, Miyajima 大聖院 宮島  広島】 by Anaguma</p>',
+      description: '<p>3巻 P8  広島県廿日市市 宮島町滝町215</p> <p><img alt="The Room at Mani-den 摩尼殿の部屋" src="https://live.staticflickr.com/65535/51449518791_3835ab45ed_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.2920477&amp;lon=132.3184736&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【The Room at Mani-den 摩尼殿の部屋】 by banzainetsurfer</p>',
       location: {
         center: [132.3184736, 34.2920477],
         zoom: 14,
@@ -57,7 +57,7 @@ const config = {
       title: 'もみじ堂本店',
       image: '',
       tweet_id: '',
-      description: '<p>3巻 P10  広島県廿日市市 宮島町幸町西浜459</p> <p><img alt="Maroudo Shrine Haiden" src="https://live.staticflickr.com/65535/52056094581_30417ec706_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.2977872&amp;lon=132.320873&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Maroudo Shrine Haiden】 by Richard Weil</p>',
+      description: '<p>3巻 P10  広島県廿日市市 宮島町幸町西浜459</p> <p><img alt="Lining up at restaurant | Miyajima, Hatsukaichi, Hiroshima Prefecture, Japan (Itsukushima Island)" src="https://live.staticflickr.com/65535/52020346909_e48d1c4c9d_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.2977872&amp;lon=132.320873&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Lining up at restaurant | Miyajima, Hatsukaichi, Hiroshima Prefecture, Japan (Itsukushima Island)】 by paintingwithlight75</p>',
       location: {
         center: [132.320873, 34.2977872],
         zoom: 14,
@@ -117,7 +117,7 @@ const config = {
       title: '呉湾艦船めぐり',
       image: '',
       tweet_id: '',
-      description: '<p>3巻 P14  広島県呉市 宝町4</p> <p><img alt="Kure Hiroshima, manhole cover 4 （広島県呉市のマンホール４）" src="https://live.staticflickr.com/65535/51772915195_7ffdd61fe5_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.2405577&amp;lon=132.5564318&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Kure Hiroshima, manhole cover 4 （広島県呉市のマンホール４）】 by MRSY</p>',
+      description: '<p>3巻 P14  広島県呉市 宝町4</p> <p><img alt="610_7075" src="https://live.staticflickr.com/65535/50883132283_4232534eff_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.2405577&amp;lon=132.5564318&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【610_7075】 by Lox Pix</p>',
       location: {
         center: [132.5564318, 34.2405577],
         zoom: 14,
@@ -157,7 +157,7 @@ const config = {
       title: '日招きの里 呉ハイカラ食堂',
       image: '',
       tweet_id: '',
-      description: '<p>3巻 P15  広島県呉市 宝町4</p> <p><img alt="IMG_3726" src="https://live.staticflickr.com/65535/51405276005_dd1cf78494_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.2415568&amp;lon=132.5574165&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【IMG_3726】 by Kai_Yi</p>',
+      description: '<p>3巻 P15  広島県呉市 宝町4</p> <p><img alt="Kure Hiroshima, manhole cover 4 （広島県呉市のマンホール４）" src="https://live.staticflickr.com/65535/51772915195_7ffdd61fe5_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.2415568&amp;lon=132.5574165&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Kure Hiroshima, manhole cover 4 （広島県呉市のマンホール４）】 by MRSY</p>',
       location: {
         center: [132.5574165, 34.2415568],
         zoom: 14,
@@ -176,8 +176,8 @@ const config = {
       hidden: false,
       title: '尾道駅',
       image: '',
-      tweet_id: '1527503533389619202',
-      description: '<p>3巻 P19  広島県尾道市 東御所町1</p><div class="tweetContainer" id="tweet1527503533389619202"></div> ',
+      tweet_id: '1528539302304845824',
+      description: '<p>3巻 P19  広島県尾道市 東御所町1</p><div class="tweetContainer" id="tweet1528539302304845824"></div> ',
       location: {
         center: [133.193159, 34.4048654],
         zoom: 14,
