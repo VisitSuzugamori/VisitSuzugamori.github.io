@@ -997,14 +997,14 @@
         {
             "geometry": {
                 "coordinates": [
-                    140.1539749,
-                    36.6509415
+                    140.154528,
+                    36.650852
                 ],
                 "type": "Point"
             },
             "properties": {
                 "description": "2巻P59 第6旅",
-                "name": "久穂田烏山駅前旅館"
+                "name": "福住旅館"
             },
             "type": "Feature"
         },
@@ -5379,8 +5379,8 @@
         {
             "geometry": {
                 "coordinates": [
-                    143.3531553,
-                    44.363687
+                    143.3531082,
+                    44.3637272
                 ],
                 "type": "Point"
             },
@@ -5449,6 +5449,48 @@
         {
             "geometry": {
                 "coordinates": [
+                    144.1167037,
+                    44.013852
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "第22旅（後編）",
+                "name": "卯原内サンゴ草群落地"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    144.2434854,
+                    44.1133485
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "第22旅（後編）",
+                "name": "能取岬"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    144.2432936,
+                    44.1121076
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "第22旅（後編）",
+                "name": "能取岬灯台"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     143.5957829,
                     44.1853551
                 ],
@@ -5457,6 +5499,118 @@
             "properties": {
                 "description": "7巻表紙",
                 "name": "中湧別駅跡"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    144.7987065,
+                    43.9067705
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "第22旅（後編）",
+                "name": "天に続く道スタート地点"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    144.9380575,
+                    44.0384241
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "第22旅（後編）",
+                "name": "オシンコシン展望台"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    144.990695,
+                    44.069034
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "第22旅（後編）",
+                "name": "道の駅 うとろ・シリエトク"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    145.0251744,
+                    44.0916901
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "第22旅（後編）",
+                "name": "知床横断道路通行止め"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    145.0229617,
+                    44.0914881
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "第22旅（後編）",
+                "name": "知床自然センター"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    145.1221149,
+                    44.0757686
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "第22旅（後編）",
+                "name": "羅臼岳"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    145.0108433,
+                    44.0852361
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "第22旅（後編）",
+                "name": "幌別橋"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    143.5082092,
+                    43.7597063
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "第22旅（後編）",
+                "name": "美白の湯宿 大江本家"
             },
             "type": "Feature"
         }
