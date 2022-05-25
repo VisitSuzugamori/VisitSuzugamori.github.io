@@ -77,7 +77,7 @@ const config = {
       title: '桂浜水族館',
       image: '',
       tweet_id: '',
-      description: '<p>6巻 P116  高知県高知市 浦戸778</p> <p><img alt="Urado Castle ruins (浦戸城跡)" src="https://live.staticflickr.com/65535/52067675272_aef8331fb4_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=33.4969444&amp;lon=133.5736111&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Urado Castle ruins (浦戸城跡)】 by pantkiewicz</p>',
+      description: '<p>6巻 P116  高知県高知市 浦戸778</p> <p><img alt="Urado Castle ruins (浦戸城跡)" src="https://live.staticflickr.com/65535/52068731273_e50f311c4c_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=33.4969444&amp;lon=133.5736111&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Urado Castle ruins (浦戸城跡)】 by pantkiewicz</p>',
       location: {
         center: [133.5736111, 33.4969444],
         zoom: 14,
@@ -137,7 +137,7 @@ const config = {
       title: '土佐三志士の像',
       image: '',
       tweet_id: '',
-      description: '<p>6巻 P122  高知県高知市 北本町二丁目10</p> <p><img alt="土佐電 外国電車198 はりまや橋" src="https://live.staticflickr.com/65535/50075027517_310abb94d3_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=33.5664177&amp;lon=133.5430255&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【土佐電 外国電車198 はりまや橋】 by OOMYV</p>',
+      description: '<p>6巻 P122  高知県高知市 北本町二丁目10</p> <p><img alt="Katsuo (カツオ)" src="https://live.staticflickr.com/65535/52071282500_3d32a4677d_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=33.5664177&amp;lon=133.5430255&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Katsuo (カツオ)】 by pantkiewicz</p>',
       location: {
         center: [133.5430255, 33.5664177],
         zoom: 14,

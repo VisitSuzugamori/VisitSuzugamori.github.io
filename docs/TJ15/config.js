@@ -37,7 +37,7 @@ const config = {
       title: 'アーバンゲートブリッジ',
       image: '',
       tweet_id: '',
-      description: '<p>4巻 P121  </p> <p><img alt="ババ・ガンプ・シュリンプ ららぽーと豊洲" src="https://live.staticflickr.com/65535/50230490823_5d5d09e479_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.6548755&amp;lon=139.7911163&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【ババ・ガンプ・シュリンプ ららぽーと豊洲】 by Norisa1</p>',
+      description: '<p>4巻 P121  </p> <p><img alt="なんか、色々とコロナ対策@ららぽーと豊洲" src="https://live.staticflickr.com/65535/50400246947_ac038c1436_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.6548755&amp;lon=139.7911163&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【なんか、色々とコロナ対策@ららぽーと豊洲】 by Norisa1</p>',
       location: {
         center: [139.7911163, 35.6548755],
         zoom: 14,
@@ -77,7 +77,7 @@ const config = {
       title: '京橋第一生命ビルディング',
       image: '',
       tweet_id: '',
-      description: '<p>4巻 P122  東京都中央区 京橋二丁目4</p> <p><img alt="" src="https://live.staticflickr.com/65535/52038222437_d03bb9f160_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.6767189&amp;lon=139.7696552&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【】 by satty sky</p>',
+      description: '<p>4巻 P122  東京都中央区 京橋二丁目4</p> <p><img alt="B/W #1892" src="https://live.staticflickr.com/65535/52037839038_8ef946db70_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.6767189&amp;lon=139.7696552&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【B/W #1892】 by Ville Misaki</p>',
       location: {
         center: [139.7696552, 35.6767189],
         zoom: 14,
@@ -137,7 +137,7 @@ const config = {
       title: '中央大橋',
       image: '',
       tweet_id: '',
-      description: '<p>4巻 P125  東京都中央区 新川二丁目32</p> <p><img alt="Япония. Токио 2014. Japan. Tokyo" src="https://live.staticflickr.com/65535/50524556696_af62f7e2ca_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.6717944&amp;lon=139.7843753&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Япония. Токио 2014. Japan. Tokyo】 by svv.david</p>',
+      description: '<p>4巻 P125  東京都中央区 新川二丁目32</p> <p><img alt="" src="https://live.staticflickr.com/65535/51976435260_410b746b89_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.6717944&amp;lon=139.7843753&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【】 by yasuhiro.kuno</p>',
       location: {
         center: [139.7843753, 35.6717944],
         zoom: 14,
@@ -177,7 +177,7 @@ const config = {
       title: '月島もんじゃ振興会協同組合',
       image: '',
       tweet_id: '',
-      description: '<p>4巻 P126  東京都中央区 月島一丁目8</p> <p><img alt="Tsukijima night vision" src="https://live.staticflickr.com/7907/46102639904_f2217fa28d_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.6647554&amp;lon=139.7833646&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Tsukijima night vision】 by Shin Suzaki</p>',
+      description: '<p>4巻 P126  東京都中央区 月島一丁目8</p> <p><img alt="Yumi Hayama" src="https://live.staticflickr.com/65535/32294851108_92c9cba0d3_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.6647554&amp;lon=139.7833646&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Yumi Hayama】 by LilyPhotographx</p>',
       location: {
         center: [139.7833646, 35.6647554],
         zoom: 14,
@@ -257,7 +257,7 @@ const config = {
       title: '江戸前場下町',
       image: '',
       tweet_id: '',
-      description: '<p>4巻 P130  東京都江東区 豊洲六丁目4</p> <p><img alt="IMG_5815" src="https://live.staticflickr.com/65535/51326188829_7f8ed2b205_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.6454136&amp;lon=139.7862005&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【IMG_5815】 by OOMYV</p>',
+      description: '<p>4巻 P130  東京都江東区 豊洲六丁目4</p> <p><img alt="IMG_5811" src="https://live.staticflickr.com/65535/51325465601_d8f2006531_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.6454136&amp;lon=139.7862005&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【IMG_5811】 by OOMYV</p>',
       location: {
         center: [139.7862005, 35.6454136],
         zoom: 14,
@@ -277,7 +277,7 @@ const config = {
       title: '鈴富',
       image: '',
       tweet_id: '',
-      description: '<p>4巻 P130  東京都江東区 豊洲六丁目4</p> <p><img alt="IMG_5813" src="https://live.staticflickr.com/65535/51324728287_d2b7eac8df_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.6456235&amp;lon=139.7862508&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【IMG_5813】 by OOMYV</p>',
+      description: '<p>4巻 P130  東京都江東区 豊洲六丁目4</p> <p><img alt="IMG_5815" src="https://live.staticflickr.com/65535/51326188829_7f8ed2b205_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.6456235&amp;lon=139.7862508&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【IMG_5815】 by OOMYV</p>',
       location: {
         center: [139.7862508, 35.6456235],
         zoom: 14,
@@ -417,7 +417,7 @@ const config = {
       title: '南極観測船『宗谷』',
       image: '',
       tweet_id: '',
-      description: '<p>4巻 P136  </p> <p><img alt="Tokyo - Odaiba - The Soho" src="https://live.staticflickr.com/65535/50053336571_ed6c973fa2_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.6191097&amp;lon=139.7738425&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Tokyo - Odaiba - The Soho】 by CATDvd</p>',
+      description: '<p>4巻 P136  </p> <p><img alt="051013 Odaiba-03.jpg" src="https://live.staticflickr.com/65535/51398900508_297e4a631c_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.6191097&amp;lon=139.7738425&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【051013 Odaiba-03.jpg】 by Bruce Batten</p>',
       location: {
         center: [139.7738425, 35.6191097],
         zoom: 14,
@@ -436,8 +436,8 @@ const config = {
       hidden: false,
       title: 'レインボーブリッジ',
       image: '',
-      tweet_id: '1527924209262989314',
-      description: '<p>4巻 P138  </p><div class="tweetContainer" id="tweet1527924209262989314"></div> ',
+      tweet_id: '1529268662397304832',
+      description: '<p>4巻 P138  </p><div class="tweetContainer" id="tweet1529268662397304832"></div> ',
       location: {
         center: [139.7631443, 35.6365639],
         zoom: 14,

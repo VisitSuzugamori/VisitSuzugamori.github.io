@@ -159,7 +159,7 @@ const config = {
       tweet_id: '',
       description: '<p>   北海道紋別市 真砂町五丁目3</p> ',
       location: {
-        center: [143.3531553, 44.363687],
+        center: [143.3531082, 44.3637272],
         zoom: 14,
         pitch: 60,
         bearing: 0,

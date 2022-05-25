@@ -16,8 +16,8 @@ const config = {
       hidden: false,
       title: '東京駅',
       image: '',
-      tweet_id: '1528573961499742208',
-      description: '<p>1巻 P126  東京都千代田区 丸の内一丁目9</p><div class="tweetContainer" id="tweet1528573961499742208"></div> ',
+      tweet_id: '1528670556228296704',
+      description: '<p>1巻 P126  東京都千代田区 丸の内一丁目9</p><div class="tweetContainer" id="tweet1528670556228296704"></div> ',
       location: {
         center: [139.7671248, 35.6812362],
         zoom: 14,
@@ -177,7 +177,7 @@ const config = {
       title: '八栗寺',
       image: '',
       tweet_id: '',
-      description: '<p>1巻 P143  香川県高松市 牟礼町牟礼3416</p> <p><img alt="八十五番札所 八栗寺" src="https://live.staticflickr.com/65535/50384303247_eb791b7d3d_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.3599067&amp;lon=134.1398791&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【八十五番札所 八栗寺】 by JH1FJP</p>',
+      description: '<p>1巻 P143  香川県高松市 牟礼町牟礼3416</p> <p><img alt="Yakuri-ji, the 85th Temple of the Sacred Shikoku Pilgrimage in Kagawa, Japan." src="https://live.staticflickr.com/65535/48951825247_d8e3c3fc3f_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.3599067&amp;lon=134.1398791&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Yakuri-ji, the 85th Temple of the Sacred Shikoku Pilgrimage in Kagawa, Japan.】 by KyotoDreamTrips</p>',
       location: {
         center: [134.1398791, 34.3599067],
         zoom: 14,

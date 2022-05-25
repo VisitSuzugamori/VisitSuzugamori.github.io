@@ -57,7 +57,7 @@ const config = {
       title: '広島テレビ放送',
       image: '',
       tweet_id: '',
-      description: '<p>2巻 P145  広島県広島市 東区 二葉の里三丁目5</p> <p><img alt="Hiroshima, Japan" src="https://live.staticflickr.com/65535/51810452937_609386756b_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.3999238&amp;lon=132.4758202&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Hiroshima, Japan】 by Foraggio Photographic</p>',
+      description: '<p>2巻 P145  広島県広島市 東区 二葉の里三丁目5</p> <p><img alt="DSCN4234" src="https://live.staticflickr.com/65535/51621626564_04973ecfd5_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.3999238&amp;lon=132.4758202&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【DSCN4234】 by Matt-The Mechanic</p>',
       location: {
         center: [132.4758202, 34.3999238],
         zoom: 14,
@@ -136,8 +136,8 @@ const config = {
       hidden: false,
       title: '宮島桟橋',
       image: '',
-      tweet_id: '',
-      description: '<p>2巻 P151  広島県廿日市市 宮島町873</p> <p><img alt="IMG_1318" src="https://live.staticflickr.com/65535/51525828533_1e28147119_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.3020862&amp;lon=132.3222151&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【IMG_1318】 by lee-tw</p>',
+      tweet_id: '1529344768253145088',
+      description: '<p>2巻 P151  広島県廿日市市 宮島町873</p><div class="tweetContainer" id="tweet1529344768253145088"></div> ',
       location: {
         center: [132.3222151, 34.3020862],
         zoom: 14,
@@ -157,7 +157,7 @@ const config = {
       title: '嚴島神社 大鳥居（布の中）',
       image: '',
       tweet_id: '',
-      description: '<p>2巻 P152,153  </p> <p><img alt="Itsukushima Floating Torii Gate" src="https://live.staticflickr.com/65535/52056327124_c77089b3fe_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.2973092&amp;lon=132.3181276&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Itsukushima Floating Torii Gate】 by Richard Weil</p>',
+      description: '<p>2巻 P152,153  </p> <p><img alt="厳島神社 鳥居" src="https://live.staticflickr.com/65535/52087739736_55418be2cf_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.2973092&amp;lon=132.3181276&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【厳島神社 鳥居】 by worldrambles</p>',
       location: {
         center: [132.3181276, 34.2973092],
         zoom: 14,

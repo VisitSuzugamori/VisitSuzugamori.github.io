@@ -257,7 +257,7 @@ const config = {
       title: '水上駅SL転車台広場',
       image: '',
       tweet_id: '',
-      description: '<p>6巻 P57  群馬県利根郡 みなかみ町 鹿野沢326</p> <p><img alt="C61-20" src="https://live.staticflickr.com/8418/30097666705_3bed348ff3_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=36.7810089&amp;lon=138.9697672&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【C61-20】 by yukky89_yamashita</p>',
+      description: '<p>6巻 P57  群馬県利根郡 みなかみ町 鹿野沢326</p> <p><img alt="D51 498" src="https://live.staticflickr.com/1778/44002571042_61b3fe9062_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=36.7810089&amp;lon=138.9697672&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【D51 498】 by FUGU-A</p>',
       location: {
         center: [138.9697672, 36.7810089],
         zoom: 14,
@@ -277,7 +277,7 @@ const config = {
       title: '足湯',
       image: '',
       tweet_id: '',
-      description: '<p>6巻 P32  群馬県利根郡 みなかみ町 小日向416</p> <p><img alt="EF1628_" src="https://live.staticflickr.com/65535/49682492767_c464ab3420_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=36.7641343&amp;lon=138.968798&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【EF1628_】 by OOMYV</p>',
+      description: '<p>6巻 P32  群馬県利根郡 みなかみ町 小日向416</p> <p><img alt="DSC07770" src="https://live.staticflickr.com/65535/49682492822_67262b0264_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=36.7641343&amp;lon=138.968798&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【DSC07770】 by OOMYV</p>',
       location: {
         center: [138.968798, 36.7641343],
         zoom: 14,
