@@ -16,8 +16,8 @@ const config = {
       hidden: false,
       title: '伏見稲荷大社',
       image: '',
-      tweet_id: '1527649279334285312',
-      description: '<p>2巻 P3  京都府京都市 伏見区 深草藪之内町1</p><div class="tweetContainer" id="tweet1527649279334285312"></div> ',
+      tweet_id: '1529437964228784128',
+      description: '<p>2巻 P3  京都府京都市 伏見区 深草藪之内町1</p><div class="tweetContainer" id="tweet1529437964228784128"></div> ',
       location: {
         center: [135.7726717, 34.9671402],
         zoom: 14,
@@ -216,8 +216,8 @@ const config = {
       hidden: false,
       title: '天橋立ビューランド',
       image: '',
-      tweet_id: '1528173320138522624',
-      description: '<p>2巻 P32  京都府宮津市 文珠1</p><div class="tweetContainer" id="tweet1528173320138522624"></div> ',
+      tweet_id: '1530398207712411649',
+      description: '<p>2巻 P32  京都府宮津市 文珠1</p><div class="tweetContainer" id="tweet1530398207712411649"></div> ',
       location: {
         center: [135.1821171, 35.5527779],
         zoom: 14,
