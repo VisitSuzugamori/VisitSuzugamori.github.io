@@ -76,8 +76,8 @@ const config = {
       hidden: false,
       title: '水戸の納豆記念碑',
       image: '',
-      tweet_id: '1527904431479525377',
-      description: '<p>5巻 P9  茨城県水戸市 宮町一丁目7</p><div class="tweetContainer" id="tweet1527904431479525377"></div> ',
+      tweet_id: '',
+      description: '<p>5巻 P9  茨城県水戸市 宮町一丁目7</p> <p><img alt="Mito Set" src="https://live.staticflickr.com/65535/51807457031_29f257dfee_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=36.369809&amp;lon=140.4758112&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Mito Set】 by シュポじ（ししまる）</p>',
       location: {
         center: [140.4758112, 36.369809],
         zoom: 14,

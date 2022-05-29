@@ -37,7 +37,7 @@ const config = {
       title: '湯倉神社',
       image: '',
       tweet_id: '',
-      description: '<p>   北海道函館市 湯川町二丁目28</p> <p><img alt="Yunokawa" src="https://live.staticflickr.com/1802/43051794922_4a8d3b6aa0_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=41.7821053&amp;lon=140.7910231&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Yunokawa】 by kevincrumbs</p>',
+      description: '<p>   北海道函館市 湯川町二丁目28</p> <p><img alt="Waiting to board" src="https://live.staticflickr.com/1803/42197235135_68a1b2d5e0_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=41.7821053&amp;lon=140.7910231&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Waiting to board】 by kevincrumbs</p>',
       location: {
         center: [140.7910231, 41.7821053],
         zoom: 14,
@@ -117,7 +117,7 @@ const config = {
       title: '函館市熱帯植物園駐車場',
       image: '',
       tweet_id: '',
-      description: '<p>   北海道函館市 湯川町二丁目1</p> <p><img alt="サル" src="https://live.staticflickr.com/65535/50987897093_9e724a25ea_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=41.7741951&amp;lon=140.7883462&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【サル】 by Chitaka Chou</p>',
+      description: '<p>   北海道函館市 湯川町二丁目1</p> <p><img alt="サル" src="https://live.staticflickr.com/65535/50988709657_a0471018a3_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=41.7741951&amp;lon=140.7883462&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【サル】 by Chitaka Chou</p>',
       location: {
         center: [140.7883462, 41.7741951],
         zoom: 14,
@@ -256,8 +256,8 @@ const config = {
       hidden: false,
       title: '大森町',
       image: '',
-      tweet_id: '',
-      description: '<p>   北海道函館市 宇賀浦町1</p> <p><img alt="函館市電 39 ハイカラ号の絵" src="https://live.staticflickr.com/65535/50074882542_30b0baceb7_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=41.7697786&amp;lon=140.7404156&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【函館市電 39 ハイカラ号の絵】 by OOMYV</p>',
+      tweet_id: '1530789401948614657',
+      description: '<p>   北海道函館市 宇賀浦町1</p><div class="tweetContainer" id="tweet1530789401948614657"></div> ',
       location: {
         center: [140.7404156, 41.7697786],
         zoom: 14,
@@ -296,8 +296,8 @@ const config = {
       hidden: false,
       title: '立待岬',
       image: '',
-      tweet_id: '1528554927018344448',
-      description: '<p>   北海道函館市 住吉町15</p><div class="tweetContainer" id="tweet1528554927018344448"></div> ',
+      tweet_id: '1530807820945215488',
+      description: '<p>   北海道函館市 住吉町15</p><div class="tweetContainer" id="tweet1530807820945215488"></div> ',
       location: {
         center: [140.7212027, 41.7450354],
         zoom: 14,

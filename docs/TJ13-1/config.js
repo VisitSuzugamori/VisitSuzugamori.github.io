@@ -16,8 +16,8 @@ const config = {
       hidden: false,
       title: '出雲市駅',
       image: '',
-      tweet_id: '1530077698143715328',
-      description: '<p>3巻 P130  島根県出雲市 駅北町25</p><div class="tweetContainer" id="tweet1530077698143715328"></div> ',
+      tweet_id: '1530862032794558464',
+      description: '<p>3巻 P130  島根県出雲市 駅北町25</p><div class="tweetContainer" id="tweet1530862032794558464"></div> ',
       location: {
         center: [132.7567006, 35.3608386],
         zoom: 14,
@@ -276,8 +276,8 @@ const config = {
       hidden: false,
       title: '出雲大社前駅',
       image: '',
-      tweet_id: '1528575386703245312',
-      description: '<p>3巻 P145  島根県出雲市 大社町杵築南1346</p><div class="tweetContainer" id="tweet1528575386703245312"></div> ',
+      tweet_id: '1530827272256729089',
+      description: '<p>3巻 P145  島根県出雲市 大社町杵築南1346</p><div class="tweetContainer" id="tweet1530827272256729089"></div> ',
       location: {
         center: [132.6870732, 35.3935224],
         zoom: 14,
