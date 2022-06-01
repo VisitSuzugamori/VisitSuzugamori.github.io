@@ -36,8 +36,8 @@ const config = {
       hidden: false,
       title: '海老名SA (下り)',
       image: '',
-      tweet_id: '',
-      description: '<p>2巻 P141  神奈川県海老名市 大谷南五丁目2</p> <p><img alt="IMG_0607.jpg" src="https://live.staticflickr.com/65535/52104371871_bbfa8ebe7b_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.4310702&amp;lon=139.4010198&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【IMG_0607.jpg】 by ch.90</p>',
+      tweet_id: '1531194278483050497',
+      description: '<p>2巻 P141  神奈川県海老名市 大谷南五丁目2</p><div class="tweetContainer" id="tweet1531194278483050497"></div> ',
       location: {
         center: [139.4010198, 35.4310702],
         zoom: 14,
@@ -157,7 +157,7 @@ const config = {
       title: '嚴島神社 大鳥居（布の中）',
       image: '',
       tweet_id: '',
-      description: '<p>2巻 P152,153  </p> <p><img alt="The torii of Itsukushima Shrine at low tide, Miyajima" src="https://live.staticflickr.com/65535/52108004135_0a8e4848d9_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.2973092&amp;lon=132.3181276&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【The torii of Itsukushima Shrine at low tide, Miyajima】 by Hans ter Horst Photography</p>',
+      description: '<p>2巻 P152,153  </p> <p><img alt="The torii of Itsukushima Shrine at low tide, Miyajima" src="https://live.staticflickr.com/65535/52115508990_3cab156a5a_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.2973092&amp;lon=132.3181276&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【The torii of Itsukushima Shrine at low tide, Miyajima】 by Hans ter Horst Photography</p>',
       location: {
         center: [132.3181276, 34.2973092],
         zoom: 14,

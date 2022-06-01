@@ -76,8 +76,8 @@ const config = {
       hidden: false,
       title: '高松築港駅',
       image: '',
-      tweet_id: '',
-      description: '<p>1巻 P132  香川県高松市 寿町一丁目5</p> <p><img alt="Takamatsu Castle Park" src="https://live.staticflickr.com/65535/52068524841_439bf70197_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.350757&amp;lon=134.049468&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Takamatsu Castle Park】 by pantkiewicz</p>',
+      tweet_id: '1531772972692013056',
+      description: '<p>1巻 P132  香川県高松市 寿町一丁目5</p><div class="tweetContainer" id="tweet1531772972692013056"></div> ',
       location: {
         center: [134.049468, 34.350757],
         zoom: 14,
@@ -136,8 +136,8 @@ const config = {
       hidden: false,
       title: 'うどん本陣 山田家',
       image: '',
-      tweet_id: '1528257855341592585',
-      description: '<p>1巻 P134  香川県高松市 牟礼町牟礼3128</p><div class="tweetContainer" id="tweet1528257855341592585"></div> ',
+      tweet_id: '1530735176057331712',
+      description: '<p>1巻 P134  香川県高松市 牟礼町牟礼3128</p><div class="tweetContainer" id="tweet1530735176057331712"></div> ',
       location: {
         center: [134.1296254, 34.3532536],
         zoom: 14,

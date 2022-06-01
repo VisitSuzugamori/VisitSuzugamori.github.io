@@ -16,8 +16,8 @@ const config = {
       hidden: false,
       title: '東京駅',
       image: '',
-      tweet_id: '1530335526443950081',
-      description: '<p>5巻 P3  東京都千代田区 丸の内一丁目9</p><div class="tweetContainer" id="tweet1530335526443950081"></div> ',
+      tweet_id: '1530843667384397824',
+      description: '<p>5巻 P3  東京都千代田区 丸の内一丁目9</p><div class="tweetContainer" id="tweet1530843667384397824"></div> ',
       location: {
         center: [139.7671248, 35.6812362],
         zoom: 14,
@@ -56,8 +56,8 @@ const config = {
       hidden: false,
       title: '水戸駅',
       image: '',
-      tweet_id: '1529350526629883904',
-      description: '<p>5巻 P7  茨城県水戸市 宮町一丁目7</p><div class="tweetContainer" id="tweet1529350526629883904"></div> ',
+      tweet_id: '1531886023500001280',
+      description: '<p>5巻 P7  茨城県水戸市 宮町一丁目7</p><div class="tweetContainer" id="tweet1531886023500001280"></div> ',
       location: {
         center: [140.4762789, 36.3707326],
         zoom: 14,
