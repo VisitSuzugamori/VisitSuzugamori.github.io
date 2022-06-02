@@ -17,7 +17,7 @@ const config = {
       title: '湯倉神社 鳥居',
       image: '',
       tweet_id: '',
-      description: '<p>   北海道函館市 湯川町二丁目28</p> <p><img alt="Waiting to board" src="https://live.staticflickr.com/1803/42197235135_68a1b2d5e0_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=41.7815466&amp;lon=140.7909432&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Waiting to board】 by kevincrumbs</p>',
+      description: '<p>   北海道函館市 湯川町二丁目28</p> <p><img alt="神の遣い" src="https://live.staticflickr.com/7908/46474498784_75598b96c5_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=41.7815466&amp;lon=140.7909432&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【神の遣い】 by Y.Masayoshi</p>',
       location: {
         center: [140.7909432, 41.7815466],
         zoom: 14,
@@ -37,7 +37,7 @@ const config = {
       title: '湯倉神社',
       image: '',
       tweet_id: '',
-      description: '<p>   北海道函館市 湯川町二丁目28</p> <p><img alt="神の遣い" src="https://live.staticflickr.com/7908/46474498784_75598b96c5_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=41.7821053&amp;lon=140.7910231&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【神の遣い】 by Y.Masayoshi</p>',
+      description: '<p>   北海道函館市 湯川町二丁目28</p> <p><img alt="Waiting to board" src="https://live.staticflickr.com/1803/42197235135_68a1b2d5e0_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=41.7821053&amp;lon=140.7910231&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Waiting to board】 by kevincrumbs</p>',
       location: {
         center: [140.7910231, 41.7821053],
         zoom: 14,

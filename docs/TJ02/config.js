@@ -217,7 +217,7 @@ const config = {
       title: '松島巡り観光船 乗り場(松島觀光遊艇搭船場)',
       image: '',
       tweet_id: '',
-      description: '<p>1巻 P79  </p> <p><img alt="松島" src="https://live.staticflickr.com/65535/52031519696_7d87d6c3b3_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=38.3689558&amp;lon=141.0628948&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【松島】 by Chitaka Chou</p>',
+      description: '<p>1巻 P79  </p> <p><img alt="松島" src="https://live.staticflickr.com/65535/52031553358_3b96b77921_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=38.3689558&amp;lon=141.0628948&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【松島】 by Chitaka Chou</p>',
       location: {
         center: [141.0628948, 38.3689558],
         zoom: 14,

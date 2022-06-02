@@ -76,8 +76,8 @@ const config = {
       hidden: false,
       title: '高松築港駅',
       image: '',
-      tweet_id: '1531772972692013056',
-      description: '<p>1巻 P132  香川県高松市 寿町一丁目5</p><div class="tweetContainer" id="tweet1531772972692013056"></div> ',
+      tweet_id: '1531744596035678208',
+      description: '<p>1巻 P132  香川県高松市 寿町一丁目5</p><div class="tweetContainer" id="tweet1531744596035678208"></div> ',
       location: {
         center: [134.049468, 34.350757],
         zoom: 14,
