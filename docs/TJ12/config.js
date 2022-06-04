@@ -37,7 +37,7 @@ const config = {
       title: '今この辺をぶらついているよ！',
       image: '',
       tweet_id: '',
-      description: '<p>3巻 P90  岩手県花巻市 胡四王一丁目3</p> <p><img alt="20200201_141312" src="https://live.staticflickr.com/65535/49525320737_ffde21fd22_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=39.4058926&amp;lon=141.1728086&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【20200201_141312】 by honhong1598</p>',
+      description: '<p>3巻 P90  岩手県花巻市 胡四王一丁目3</p> <p><img alt="20200201_141240" src="https://live.staticflickr.com/65535/49525097561_0de473f11b_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=39.4058926&amp;lon=141.1728086&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【20200201_141240】 by honhong1598</p>',
       location: {
         center: [141.1728086, 39.4058926],
         zoom: 14,
@@ -276,8 +276,8 @@ const config = {
       hidden: false,
       title: '中尊寺',
       image: '',
-      tweet_id: '1530415935353405440',
-      description: '<p>3巻 P118  岩手県西磐井郡 平泉町 平泉43</p><div class="tweetContainer" id="tweet1530415935353405440"></div> ',
+      tweet_id: '1532545234483089408',
+      description: '<p>3巻 P118  岩手県西磐井郡 平泉町 平泉43</p><div class="tweetContainer" id="tweet1532545234483089408"></div> ',
       location: {
         center: [141.102596, 39.0017355],
         zoom: 14,

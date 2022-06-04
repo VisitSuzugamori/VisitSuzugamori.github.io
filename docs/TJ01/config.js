@@ -197,7 +197,7 @@ const config = {
       title: '羽黒山神社 神門',
       image: '',
       tweet_id: '',
-      description: '<p>1巻 P41  福島県会津若松市 東山町湯本寺屋敷10</p> <p><img alt="會津若松 東山溫泉住宿 庄助之宿 瀧之湯" src="https://live.staticflickr.com/4714/39873369421_8f5498f315_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=37.4797004&amp;lon=139.9620807&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【會津若松 東山溫泉住宿 庄助之宿 瀧之湯】 by Christabelle‧迴紋針</p>',
+      description: '<p>1巻 P41  福島県会津若松市 東山町湯本寺屋敷10</p> <p><img alt="IMG_4674" src="https://live.staticflickr.com/4761/38687136560_f3cb49b85b_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=37.4797004&amp;lon=139.9620807&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【IMG_4674】 by ryota_23</p>',
       location: {
         center: [139.9620807, 37.4797004],
         zoom: 14,

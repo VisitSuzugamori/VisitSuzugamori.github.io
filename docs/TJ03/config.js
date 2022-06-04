@@ -136,8 +136,8 @@ const config = {
       hidden: false,
       title: '宇奈月温泉駅',
       image: '',
-      tweet_id: '1532299209516404736',
-      description: '<p>1巻 P110  富山県黒部市 宇奈月温泉243</p><div class="tweetContainer" id="tweet1532299209516404736"></div> ',
+      tweet_id: '1531839649269927936',
+      description: '<p>1巻 P110  富山県黒部市 宇奈月温泉243</p><div class="tweetContainer" id="tweet1531839649269927936"></div> ',
       location: {
         center: [137.5836311, 36.8157746],
         zoom: 14,
