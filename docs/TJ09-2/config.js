@@ -17,7 +17,7 @@ const config = {
       title: '嚴島神社',
       image: '',
       tweet_id: '',
-      description: '<p>3巻 P5  </p> <p><img alt="厳島神社" src="https://live.staticflickr.com/65535/52087985649_fef2d02f19_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.2959885&amp;lon=132.3198262&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【厳島神社】 by worldrambles</p>',
+      description: '<p>3巻 P5  </p> <p><img alt="Itsukushima Floating Torii Gate" src="https://live.staticflickr.com/65535/52056327124_c77089b3fe_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.2959885&amp;lon=132.3198262&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Itsukushima Floating Torii Gate】 by Richard Weil</p>',
       location: {
         center: [132.3198262, 34.2959885],
         zoom: 14,
@@ -36,8 +36,8 @@ const config = {
       hidden: false,
       title: '大聖院',
       image: '',
-      tweet_id: '1530031076454076417',
-      description: '<p>3巻 P8  広島県廿日市市 宮島町滝町215</p><div class="tweetContainer" id="tweet1530031076454076417"></div> ',
+      tweet_id: '',
+      description: '<p>3巻 P8  広島県廿日市市 宮島町滝町215</p> <p><img alt="Daishoin banners, Miyajima 大聖院 宮島  広島" src="https://live.staticflickr.com/65535/51488631058_30212eaf6f_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.2920477&amp;lon=132.3184736&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Daishoin banners, Miyajima 大聖院 宮島  広島】 by Anaguma</p>',
       location: {
         center: [132.3184736, 34.2920477],
         zoom: 14,
@@ -257,7 +257,7 @@ const config = {
       title: '鼓岩（付近）',
       image: '',
       tweet_id: '',
-      description: '<p>3巻 P29  広島県尾道市 東土堂町5</p> <p><img alt="610_7873" src="https://live.staticflickr.com/65535/51344615951_53c92071e7_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.4097831&amp;lon=133.1976363&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【610_7873】 by Lox Pix</p>',
+      description: '<p>3巻 P29  広島県尾道市 東土堂町5</p> <p><img alt="610_7873" src="https://live.staticflickr.com/65535/51345368744_c7ccc5f886_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.4097831&amp;lon=133.1976363&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【610_7873】 by Lox Pix</p>',
       location: {
         center: [133.1976363, 34.4097831],
         zoom: 14,

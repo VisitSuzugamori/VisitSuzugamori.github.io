@@ -36,8 +36,8 @@ const config = {
       hidden: false,
       title: '京都駅',
       image: '',
-      tweet_id: '1532176956464111617',
-      description: '<p>2巻 P6  京都府京都市 下京区 東塩小路町676</p><div class="tweetContainer" id="tweet1532176956464111617"></div> ',
+      tweet_id: '1533023797997346817',
+      description: '<p>2巻 P6  京都府京都市 下京区 東塩小路町676</p><div class="tweetContainer" id="tweet1533023797997346817"></div> ',
       location: {
         center: [135.7587667, 34.985849],
         zoom: 14,
@@ -57,7 +57,7 @@ const config = {
       title: '藤岡酒造',
       image: '',
       tweet_id: '',
-      description: '<p>2巻 P16  京都府京都市 伏見区 今町669</p> <p><img alt="ラーメン・明太子定食" src="https://live.staticflickr.com/65535/50011517023_820f1aa7c5_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.9351213&amp;lon=135.7624568&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【ラーメン・明太子定食】 by albertus</p>',
+      description: '<p>2巻 P16  京都府京都市 伏見区 今町669</p> <p><img alt="珍遊" src="https://live.staticflickr.com/65535/48688121221_56d8ca2b6c_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.9351213&amp;lon=135.7624568&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【珍遊】 by albertus</p>',
       location: {
         center: [135.7624568, 34.9351213],
         zoom: 14,
@@ -136,8 +136,8 @@ const config = {
       hidden: false,
       title: '宮津駅',
       image: '',
-      tweet_id: '1530372065832091648',
-      description: '<p>2巻 P21  京都府宮津市 字鶴賀2099</p><div class="tweetContainer" id="tweet1530372065832091648"></div> ',
+      tweet_id: '1533023153961721856',
+      description: '<p>2巻 P21  京都府宮津市 字鶴賀2099</p><div class="tweetContainer" id="tweet1533023153961721856"></div> ',
       location: {
         center: [135.1997513, 35.5344188],
         zoom: 14,
@@ -156,8 +156,8 @@ const config = {
       hidden: false,
       title: '富田屋',
       image: '',
-      tweet_id: '',
-      description: '<p>2巻 P22  京都府宮津市 字鶴賀2066</p> <p><img alt="kyoto_tango_railway_20211008153929" src="https://live.staticflickr.com/65535/51817209892_ca91e7ab1a_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.534848&amp;lon=135.1992613&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【kyoto_tango_railway_20211008153929】 by inunami</p>',
+      tweet_id: '1533578002151636992',
+      description: '<p>2巻 P22  京都府宮津市 字鶴賀2066</p><div class="tweetContainer" id="tweet1533578002151636992"></div> ',
       location: {
         center: [135.1992613, 35.534848],
         zoom: 14,
@@ -197,7 +197,7 @@ const config = {
       title: '天橋立ビューランド リフト・モノレールのりば',
       image: '',
       tweet_id: '',
-      description: '<p>2巻 P31  京都府宮津市 字文珠190</p> <p><img alt="amanohashidate_20211008155541" src="https://live.staticflickr.com/65535/51812257259_2bcfa21c1e_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.5557202&amp;lon=135.1839285&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【amanohashidate_20211008155541】 by inunami</p>',
+      description: '<p>2巻 P31  京都府宮津市 字文珠190</p> <p><img alt="IMG_1583" src="https://live.staticflickr.com/65535/51257465927_a0b39d4b82_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.5557202&amp;lon=135.1839285&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【IMG_1583】 by Chico Leung</p>',
       location: {
         center: [135.1839285, 35.5557202],
         zoom: 14,
@@ -216,8 +216,8 @@ const config = {
       hidden: false,
       title: '天橋立ビューランド',
       image: '',
-      tweet_id: '1530398207712411649',
-      description: '<p>2巻 P32  京都府宮津市 文珠1</p><div class="tweetContainer" id="tweet1530398207712411649"></div> ',
+      tweet_id: '1533340526258188288',
+      description: '<p>2巻 P32  京都府宮津市 文珠1</p><div class="tweetContainer" id="tweet1533340526258188288"></div> ',
       location: {
         center: [135.1821171, 35.5527779],
         zoom: 14,
@@ -236,8 +236,8 @@ const config = {
       hidden: false,
       title: '天橋立',
       image: '',
-      tweet_id: '1530393094637731840',
-      description: '<p>2巻 P35  京都府宮津市 字江尻927</p><div class="tweetContainer" id="tweet1530393094637731840"></div> ',
+      tweet_id: '1533298449847812096',
+      description: '<p>2巻 P35  京都府宮津市 字江尻927</p><div class="tweetContainer" id="tweet1533298449847812096"></div> ',
       location: {
         center: [135.1918204, 35.5698022],
         zoom: 14,
@@ -277,7 +277,7 @@ const config = {
       title: '丹後國一之宮 元伊勢 籠神社',
       image: '',
       tweet_id: '',
-      description: '<p>2巻 P37  京都府宮津市 江尻430</p> <p><img alt="DSC01885" src="https://live.staticflickr.com/65535/51994947338_569ef5e42a_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.5827837&amp;lon=135.1967015&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【DSC01885】 by スーパーサイヤ人Ⅳ</p>',
+      description: '<p>2巻 P37  京都府宮津市 江尻430</p> <p><img alt="P1039202" src="https://live.staticflickr.com/65535/49331575563_9901e4031e_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.5827837&amp;lon=135.1967015&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【P1039202】 by MakotoUmeda</p>',
       location: {
         center: [135.1967015, 35.5827837],
         zoom: 14,
@@ -296,8 +296,8 @@ const config = {
       hidden: false,
       title: '天橋立神社',
       image: '',
-      tweet_id: '',
-      description: '<p>2巻 P39  京都府宮津市 字文珠</p> <p><img alt="P1039247" src="https://live.staticflickr.com/65535/49332254667_d3dfc78c3e_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.5634066&amp;lon=135.1879155&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【P1039247】 by MakotoUmeda</p>',
+      tweet_id: '1533305353831649280',
+      description: '<p>2巻 P39  京都府宮津市 字文珠</p><div class="tweetContainer" id="tweet1533305353831649280"></div> ',
       location: {
         center: [135.1879155, 35.5634066],
         zoom: 14,

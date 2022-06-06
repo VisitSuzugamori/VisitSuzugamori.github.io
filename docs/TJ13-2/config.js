@@ -97,7 +97,7 @@ const config = {
       title: '廻船御用水',
       image: '',
       tweet_id: '',
-      description: '<p>4巻 P13  島根県松江市 美保関町美保関</p> <p><img alt="Anchor" src="https://live.staticflickr.com/65535/48111991997_a5260003ae_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.5623016&amp;lon=133.3074953&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Anchor】 by Teruhide Tomori</p>',
+      description: '<p>4巻 P13  島根県松江市 美保関町美保関</p> <p><img alt="Miho Jinja Shrine" src="https://live.staticflickr.com/7821/46200567295_95f6e81851_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.5623016&amp;lon=133.3074953&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Miho Jinja Shrine】 by hapePHOTOGRAPHIX</p>',
       location: {
         center: [133.3074953, 35.5623016],
         zoom: 14,
@@ -116,8 +116,8 @@ const config = {
       hidden: false,
       title: '美保神社',
       image: '',
-      tweet_id: '1530363558701449218',
-      description: '<p>4巻 P14  島根県松江市 美保関町美保関</p><div class="tweetContainer" id="tweet1530363558701449218"></div> ',
+      tweet_id: '',
+      description: '<p>4巻 P14  島根県松江市 美保関町美保関</p> <p><img alt="Algenblüte" src="https://live.staticflickr.com/7802/32132141527_757cb04645_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.5623182&amp;lon=133.3062224&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Algenblüte】 by hapePHOTOGRAPHIX</p>',
       location: {
         center: [133.3062224, 35.5623182],
         zoom: 14,
@@ -136,8 +136,8 @@ const config = {
       hidden: false,
       title: '美保関灯台',
       image: '',
-      tweet_id: '1530393849545490432',
-      description: '<p>4巻 P28  島根県松江市 </p><div class="tweetContainer" id="tweet1530393849545490432"></div> ',
+      tweet_id: '1532932963800956928',
+      description: '<p>4巻 P28  島根県松江市 </p><div class="tweetContainer" id="tweet1532932963800956928"></div> ',
       location: {
         center: [133.3254458, 35.5672984],
         zoom: 14,
