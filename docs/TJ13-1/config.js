@@ -16,8 +16,8 @@ const config = {
       hidden: false,
       title: '出雲市駅',
       image: '',
-      tweet_id: '1530862032794558464',
-      description: '<p>3巻 P130  島根県出雲市 駅北町25</p><div class="tweetContainer" id="tweet1530862032794558464"></div> ',
+      tweet_id: '1532171075702095872',
+      description: '<p>3巻 P130  島根県出雲市 駅北町25</p><div class="tweetContainer" id="tweet1532171075702095872"></div> ',
       location: {
         center: [132.7567006, 35.3608386],
         zoom: 14,
@@ -336,8 +336,8 @@ const config = {
       hidden: false,
       title: '松江城',
       image: '',
-      tweet_id: '1530737971950809088',
-      description: '<p>3巻 P150  島根県松江市 殿町1</p><div class="tweetContainer" id="tweet1530737971950809088"></div> ',
+      tweet_id: '1534111060952641536',
+      description: '<p>3巻 P150  島根県松江市 殿町1</p><div class="tweetContainer" id="tweet1534111060952641536"></div> ',
       location: {
         center: [133.0506783, 35.4751335],
         zoom: 14,

@@ -16,8 +16,8 @@ const config = {
       hidden: false,
       title: '品川駅',
       image: '',
-      tweet_id: '1531215106000195584',
-      description: '<p>   東京都港区 高輪三丁目26</p><div class="tweetContainer" id="tweet1531215106000195584"></div> ',
+      tweet_id: '1534353681201926146',
+      description: '<p>   東京都港区 高輪三丁目26</p><div class="tweetContainer" id="tweet1534353681201926146"></div> ',
       location: {
         center: [139.7387597, 35.6284713],
         zoom: 14,
@@ -56,8 +56,8 @@ const config = {
       hidden: false,
       title: '羽田空港',
       image: '',
-      tweet_id: '1532236605238689792',
-      description: '<p>   東京都大田区 羽田空港三丁目3</p><div class="tweetContainer" id="tweet1532236605238689792"></div> ',
+      tweet_id: '1534644042591399936',
+      description: '<p>   東京都大田区 羽田空港三丁目3</p><div class="tweetContainer" id="tweet1534644042591399936"></div> ',
       location: {
         center: [139.7798386, 35.5493932],
         zoom: 14,

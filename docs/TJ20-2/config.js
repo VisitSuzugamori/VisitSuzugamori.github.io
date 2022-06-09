@@ -16,8 +16,8 @@ const config = {
       hidden: false,
       title: '東京駅',
       image: '',
-      tweet_id: '1533576974735937536',
-      description: '<p>6巻 P132  東京都千代田区 丸の内一丁目9</p><div class="tweetContainer" id="tweet1533576974735937536"></div> ',
+      tweet_id: '1534367190375206912',
+      description: '<p>6巻 P132  東京都千代田区 丸の内一丁目9</p><div class="tweetContainer" id="tweet1534367190375206912"></div> ',
       location: {
         center: [139.7671248, 35.6812362],
         zoom: 14,
@@ -36,8 +36,8 @@ const config = {
       hidden: false,
       title: '桂浜',
       image: '',
-      tweet_id: '1530718426993668097',
-      description: '<p>6巻 P108  高知県高知市 浦戸778</p><div class="tweetContainer" id="tweet1530718426993668097"></div> ',
+      tweet_id: '',
+      description: '<p>6巻 P108  高知県高知市 浦戸778</p> <p><img alt="Katsurahama (桂浜)" src="https://live.staticflickr.com/65535/52068717083_8e00b3b04d_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=33.4971366&amp;lon=133.5749209&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Katsurahama (桂浜)】 by pantkiewicz</p>',
       location: {
         center: [133.5749209, 33.4971366],
         zoom: 14,
@@ -57,7 +57,7 @@ const config = {
       title: '坂本龍馬像',
       image: '',
       tweet_id: '',
-      description: '<p>6巻 P109  高知県高知市 浦戸6</p> <p><img alt="Katsurahama (桂浜)" src="https://live.staticflickr.com/65535/52068717083_8e00b3b04d_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=33.4986187&amp;lon=133.5754821&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Katsurahama (桂浜)】 by pantkiewicz</p>',
+      description: '<p>6巻 P109  高知県高知市 浦戸6</p> <p><img alt="Katsurahama (桂浜)" src="https://live.staticflickr.com/65535/52068717073_723e8b1448_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=33.4986187&amp;lon=133.5754821&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Katsurahama (桂浜)】 by pantkiewicz</p>',
       location: {
         center: [133.5754821, 33.4986187],
         zoom: 14,
@@ -77,7 +77,7 @@ const config = {
       title: '桂浜水族館',
       image: '',
       tweet_id: '',
-      description: '<p>6巻 P116  高知県高知市 浦戸778</p> <p><img alt="Urado Castle ruins (浦戸城跡)" src="https://live.staticflickr.com/65535/52068952264_27f3e0e513_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=33.4969444&amp;lon=133.5736111&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Urado Castle ruins (浦戸城跡)】 by pantkiewicz</p>',
+      description: '<p>6巻 P116  高知県高知市 浦戸778</p> <p><img alt="Urado Castle ruins (浦戸城跡)" src="https://live.staticflickr.com/65535/52068731273_e50f311c4c_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=33.4969444&amp;lon=133.5736111&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Urado Castle ruins (浦戸城跡)】 by pantkiewicz</p>',
       location: {
         center: [133.5736111, 33.4969444],
         zoom: 14,
@@ -97,7 +97,7 @@ const config = {
       title: '龍王宮',
       image: '',
       tweet_id: '',
-      description: '<p>6巻 P117  高知県高知市 浦戸830</p> <p><img alt="Ryuo-gu (龍王宮 海津見神社)" src="https://live.staticflickr.com/65535/52068716838_377865f237_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=33.4956281&amp;lon=133.5746555&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Ryuo-gu (龍王宮 海津見神社)】 by pantkiewicz</p>',
+      description: '<p>6巻 P117  高知県高知市 浦戸830</p> <p><img alt="Katsurahama (桂浜)" src="https://live.staticflickr.com/65535/52069189490_cdcb359b0d_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=33.4956281&amp;lon=133.5746555&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Katsurahama (桂浜)】 by pantkiewicz</p>',
       location: {
         center: [133.5746555, 33.4956281],
         zoom: 14,
@@ -116,8 +116,8 @@ const config = {
       hidden: false,
       title: '高知駅',
       image: '',
-      tweet_id: '1531044647094857728',
-      description: '<p>6巻 P122  高知県高知市 栄田町二丁目1</p><div class="tweetContainer" id="tweet1531044647094857728"></div> ',
+      tweet_id: '1533009511497482240',
+      description: '<p>6巻 P122  高知県高知市 栄田町二丁目1</p><div class="tweetContainer" id="tweet1533009511497482240"></div> ',
       location: {
         center: [133.5436452, 33.5672271],
         zoom: 14,
@@ -137,7 +137,7 @@ const config = {
       title: '土佐三志士の像',
       image: '',
       tweet_id: '',
-      description: '<p>6巻 P122  高知県高知市 北本町二丁目10</p> <p><img alt="高知駅" src="https://live.staticflickr.com/65535/50296744461_31854997a3_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=33.5664177&amp;lon=133.5430255&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【高知駅】 by Chitaka Chou</p>',
+      description: '<p>6巻 P122  高知県高知市 北本町二丁目10</p> <p><img alt="Kochi Station" src="https://live.staticflickr.com/65535/52071036114_c28045e308_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=33.5664177&amp;lon=133.5430255&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Kochi Station】 by pantkiewicz</p>',
       location: {
         center: [133.5430255, 33.5664177],
         zoom: 14,
@@ -156,8 +156,8 @@ const config = {
       hidden: false,
       title: '奈半利駅',
       image: '',
-      tweet_id: '',
-      description: '<p>6巻 P124  高知県安芸郡 奈半利町 乙978</p> <p><img alt="nahari_20190905093608" src="https://live.staticflickr.com/65535/49844540966_ae50115601_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=33.4250302&amp;lon=134.0180808&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【nahari_20190905093608】 by inunami</p>',
+      tweet_id: '1534794688095731713',
+      description: '<p>6巻 P124  高知県安芸郡 奈半利町 乙978</p><div class="tweetContainer" id="tweet1534794688095731713"></div> ',
       location: {
         center: [134.0180808, 33.4250302],
         zoom: 14,
@@ -257,7 +257,7 @@ const config = {
       title: '龍王岬展望台',
       image: '',
       tweet_id: '',
-      description: '<p>6巻 P135  高知県高知市 浦戸830</p> <p><img alt="Katsurahama (桂浜)" src="https://live.staticflickr.com/65535/52069189490_cdcb359b0d_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=33.4955899&amp;lon=133.5743881&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Katsurahama (桂浜)】 by pantkiewicz</p>',
+      description: '<p>6巻 P135  高知県高知市 浦戸830</p> <p><img alt="Ryuo-gu (龍王宮 海津見神社)" src="https://live.staticflickr.com/65535/52068937229_51497753c5_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=33.4955899&amp;lon=133.5743881&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Ryuo-gu (龍王宮 海津見神社)】 by pantkiewicz</p>',
       location: {
         center: [133.5743881, 33.4955899],
         zoom: 14,

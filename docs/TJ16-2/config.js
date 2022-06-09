@@ -36,8 +36,8 @@ const config = {
       hidden: false,
       title: '御岩神社',
       image: '',
-      tweet_id: '1531575156581482497',
-      description: '<p>5巻 P36  茨城県日立市 </p><div class="tweetContainer" id="tweet1531575156581482497"></div> ',
+      tweet_id: '1534409845948190720',
+      description: '<p>5巻 P36  茨城県日立市 </p><div class="tweetContainer" id="tweet1534409845948190720"></div> ',
       location: {
         center: [140.5855581, 36.6360807],
         zoom: 14,

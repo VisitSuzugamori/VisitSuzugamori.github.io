@@ -16,8 +16,8 @@ const config = {
       hidden: false,
       title: '東京駅',
       image: '',
-      tweet_id: '1533660804675141632',
-      description: '<p>4巻 P93  東京都千代田区 丸の内一丁目9</p><div class="tweetContainer" id="tweet1533660804675141632"></div> ',
+      tweet_id: '1533596312612261888',
+      description: '<p>4巻 P93  東京都千代田区 丸の内一丁目9</p><div class="tweetContainer" id="tweet1533596312612261888"></div> ',
       location: {
         center: [139.7671248, 35.6812362],
         zoom: 14,
@@ -36,8 +36,8 @@ const config = {
       hidden: false,
       title: '立川駅',
       image: '',
-      tweet_id: '1530756110906404865',
-      description: '<p>4巻 P96  東京都立川市 柴崎町三丁目1</p><div class="tweetContainer" id="tweet1530756110906404865"></div> ',
+      tweet_id: '1532984304531214338',
+      description: '<p>4巻 P96  東京都立川市 柴崎町三丁目1</p><div class="tweetContainer" id="tweet1532984304531214338"></div> ',
       location: {
         center: [139.4137408, 35.6979144],
         zoom: 14,
@@ -56,8 +56,8 @@ const config = {
       hidden: false,
       title: '青梅駅',
       image: '',
-      tweet_id: '1531025564718575616',
-      description: '<p>4巻 P97  東京都青梅市 本町131</p><div class="tweetContainer" id="tweet1531025564718575616"></div> ',
+      tweet_id: '1534055049839538176',
+      description: '<p>4巻 P97  東京都青梅市 本町131</p><div class="tweetContainer" id="tweet1534055049839538176"></div> ',
       location: {
         center: [139.2582996, 35.7904967],
         zoom: 14,
