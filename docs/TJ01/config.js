@@ -16,8 +16,8 @@ const config = {
       hidden: false,
       title: '郡山駅',
       image: '',
-      tweet_id: '1535531892677791744',
-      description: '<p>1巻 P22  福島県郡山市 駅前二丁目4</p><div class="tweetContainer" id="tweet1535531892677791744"></div> ',
+      tweet_id: '1537606849167433728',
+      description: '<p>1巻 P22  福島県郡山市 駅前二丁目4</p><div class="tweetContainer" id="tweet1537606849167433728"></div> ',
       location: {
         center: [140.3884019, 37.3985573],
         zoom: 14,
@@ -36,8 +36,8 @@ const config = {
       hidden: false,
       title: '磐梯熱海駅',
       image: '',
-      tweet_id: '',
-      description: '<p>1巻 P23  福島県郡山市 熱海町熱海一丁目109</p> <p><img alt="最後に追加した項目-290" src="https://live.staticflickr.com/4555/38802988612_c95236e468_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=37.4808961&amp;lon=140.2708687&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【最後に追加した項目-290】 by Ken-sasuke</p>',
+      tweet_id: '1538876352048537603',
+      description: '<p>1巻 P23  福島県郡山市 熱海町熱海一丁目109</p><div class="tweetContainer" id="tweet1538876352048537603"></div> ',
       location: {
         center: [140.2708687, 37.4808961],
         zoom: 14,
@@ -56,8 +56,8 @@ const config = {
       hidden: false,
       title: '会津若松駅',
       image: '',
-      tweet_id: '1535491620153479168',
-      description: '<p>1巻 P24  福島県会津若松市 駅前町1</p><div class="tweetContainer" id="tweet1535491620153479168"></div> ',
+      tweet_id: '1538012478809907201',
+      description: '<p>1巻 P24  福島県会津若松市 駅前町1</p><div class="tweetContainer" id="tweet1538012478809907201"></div> ',
       location: {
         center: [139.9303261, 37.5078657],
         zoom: 14,
@@ -76,8 +76,8 @@ const config = {
       hidden: false,
       title: 'ラーメン二郎 会津若松駅前店',
       image: '',
-      tweet_id: '1534142660407177217',
-      description: '<p>1巻 P25  福島県会津若松市 駅前町6</p><div class="tweetContainer" id="tweet1534142660407177217"></div> ',
+      tweet_id: '1537997924214267911',
+      description: '<p>1巻 P25  福島県会津若松市 駅前町6</p><div class="tweetContainer" id="tweet1537997924214267911"></div> ',
       location: {
         center: [139.9314173, 37.5066266],
         zoom: 14,
