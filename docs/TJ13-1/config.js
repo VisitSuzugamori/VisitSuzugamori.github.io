@@ -197,7 +197,7 @@ const config = {
       title: '出雲大社 拝殿',
       image: '',
       tweet_id: '',
-      description: '<p>3巻 P140  島根県出雲市 大社町杵築東257</p> <p><img alt="Izumo in Japan: Roofscape of Izumo-taisha" src="https://live.staticflickr.com/65535/52117347905_2474604293_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.4012055&amp;lon=132.6855211&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Izumo in Japan: Roofscape of Izumo-taisha】 by Odd Roar Aalborg</p>',
+      description: '<p>3巻 P140  島根県出雲市 大社町杵築東257</p> <p><img alt="Izumo Taisha Grand Shrine" src="https://live.staticflickr.com/65535/51822283655_7d7e855456_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.4012055&amp;lon=132.6855211&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Izumo Taisha Grand Shrine】 by 雷太</p>',
       location: {
         center: [132.6855211, 35.4012055],
         zoom: 14,
@@ -217,7 +217,7 @@ const config = {
       title: '出雲大社 西十九社',
       image: '',
       tweet_id: '',
-      description: '<p>3巻 P141  島根県出雲市 大社町杵築東257</p> <p><img alt="Izumo Taisha Grand Shrine" src="https://live.staticflickr.com/65535/51822283655_7d7e855456_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.4014929&amp;lon=132.6848802&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Izumo Taisha Grand Shrine】 by 雷太</p>',
+      description: '<p>3巻 P141  島根県出雲市 大社町杵築東257</p> <p><img alt="Izumo in Japan: Roofscape of Izumo-taisha" src="https://live.staticflickr.com/65535/52117347905_2474604293_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.4014929&amp;lon=132.6848802&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Izumo in Japan: Roofscape of Izumo-taisha】 by Odd Roar Aalborg</p>',
       location: {
         center: [132.6848802, 35.4014929],
         zoom: 14,

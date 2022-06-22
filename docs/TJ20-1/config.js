@@ -36,8 +36,8 @@ const config = {
       hidden: false,
       title: '後免駅',
       image: '',
-      tweet_id: '1535875276181147648',
-      description: '<p>6巻 P71  高知県南国市 駅前町二丁目3</p><div class="tweetContainer" id="tweet1535875276181147648"></div> ',
+      tweet_id: '1538709501716602881',
+      description: '<p>6巻 P71  高知県南国市 駅前町二丁目3</p><div class="tweetContainer" id="tweet1538709501716602881"></div> ',
       location: {
         center: [133.6454058, 33.5791401],
         zoom: 14,
