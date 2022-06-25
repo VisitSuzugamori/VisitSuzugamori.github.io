@@ -16,8 +16,8 @@ const config = {
       hidden: false,
       title: '東京駅',
       image: '',
-      tweet_id: '1538485446245761024',
-      description: '<p>6巻 P38  東京都千代田区 丸の内一丁目9</p><div class="tweetContainer" id="tweet1538485446245761024"></div> ',
+      tweet_id: '1539892149717594114',
+      description: '<p>6巻 P38  東京都千代田区 丸の内一丁目9</p><div class="tweetContainer" id="tweet1539892149717594114"></div> ',
       location: {
         center: [139.7671248, 35.6812362],
         zoom: 14,
@@ -257,7 +257,7 @@ const config = {
       title: '水上駅SL転車台広場',
       image: '',
       tweet_id: '',
-      description: '<p>6巻 P57  群馬県利根郡 みなかみ町 鹿野沢326</p> <p><img alt="D51 498" src="https://live.staticflickr.com/1778/44002571042_61b3fe9062_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=36.7810089&amp;lon=138.9697672&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【D51 498】 by FUGU-A</p>',
+      description: '<p>6巻 P57  群馬県利根郡 みなかみ町 鹿野沢326</p> <p><img alt="C61-20" src="https://live.staticflickr.com/5499/29669359243_75919aea0a_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=36.7810089&amp;lon=138.9697672&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【C61-20】 by yukky89_yamashita</p>',
       location: {
         center: [138.9697672, 36.7810089],
         zoom: 14,

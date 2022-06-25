@@ -16,8 +16,8 @@ const config = {
       hidden: false,
       title: '東京ドームホテル',
       image: '',
-      tweet_id: '1539146018364698624',
-      description: '<p>2巻 P132  東京都文京区 後楽一丁目3</p><div class="tweetContainer" id="tweet1539146018364698624"></div> ',
+      tweet_id: '1540590524821868544',
+      description: '<p>2巻 P132  東京都文京区 後楽一丁目3</p><div class="tweetContainer" id="tweet1540590524821868544"></div> ',
       location: {
         center: [139.7533928, 35.7036666],
         zoom: 14,
@@ -36,8 +36,8 @@ const config = {
       hidden: false,
       title: '海老名SA (下り)',
       image: '',
-      tweet_id: '1536180558551691266',
-      description: '<p>2巻 P141  神奈川県海老名市 大谷南五丁目2</p><div class="tweetContainer" id="tweet1536180558551691266"></div> ',
+      tweet_id: '1540147017007394816',
+      description: '<p>2巻 P141  神奈川県海老名市 大谷南五丁目2</p><div class="tweetContainer" id="tweet1540147017007394816"></div> ',
       location: {
         center: [139.4010198, 35.4310702],
         zoom: 14,
@@ -97,7 +97,7 @@ const config = {
       title: '宮島口駅',
       image: '',
       tweet_id: '',
-      description: '<p>2巻 P147  広島県廿日市市 宮島口一丁目3</p> <p><img alt="Hiroden-Miyajimaguchi Station" src="https://live.staticflickr.com/65535/51332154723_7a76fe3214_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.3120172&amp;lon=132.3029311&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Hiroden-Miyajimaguchi Station】 by Kzaral</p>',
+      description: '<p>2巻 P147  広島県廿日市市 宮島口一丁目3</p> <p><img alt="JR Miyajimaguchi Station" src="https://live.staticflickr.com/65535/51332939385_79f34f1c4e_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.3120172&amp;lon=132.3029311&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【JR Miyajimaguchi Station】 by Kzaral</p>',
       location: {
         center: [132.3029311, 34.3120172],
         zoom: 14,
