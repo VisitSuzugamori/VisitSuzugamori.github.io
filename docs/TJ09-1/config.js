@@ -16,8 +16,8 @@ const config = {
       hidden: false,
       title: '東京ドームホテル',
       image: '',
-      tweet_id: '1540679964840071172',
-      description: '<p>2巻 P132  東京都文京区 後楽一丁目3</p><div class="tweetContainer" id="tweet1540679964840071172"></div> ',
+      tweet_id: '1542052712103022593',
+      description: '<p>2巻 P132  東京都文京区 後楽一丁目3</p><div class="tweetContainer" id="tweet1542052712103022593"></div> ',
       location: {
         center: [139.7533928, 35.7036666],
         zoom: 14,
