@@ -36,8 +36,8 @@ const config = {
       hidden: false,
       title: '後免駅',
       image: '',
-      tweet_id: '1540864874393264129',
-      description: '<p>6巻 P71  高知県南国市 駅前町二丁目3</p><div class="tweetContainer" id="tweet1540864874393264129"></div> ',
+      tweet_id: '1543367261955956736',
+      description: '<p>6巻 P71  高知県南国市 駅前町二丁目3</p><div class="tweetContainer" id="tweet1543367261955956736"></div> ',
       location: {
         center: [133.6454058, 33.5791401],
         zoom: 14,
@@ -156,8 +156,8 @@ const config = {
       hidden: false,
       title: 'はりまや橋',
       image: '',
-      tweet_id: '1539888473754062855',
-      description: '<p>6巻 P80  高知県高知市 はりまや町一丁目1</p><div class="tweetContainer" id="tweet1539888473754062855"></div> ',
+      tweet_id: '1540628888497307649',
+      description: '<p>6巻 P80  高知県高知市 はりまや町一丁目1</p><div class="tweetContainer" id="tweet1540628888497307649"></div> ',
       location: {
         center: [133.5426569, 33.5599438],
         zoom: 14,
@@ -237,7 +237,7 @@ const config = {
       title: '佐々木酒食品',
       image: '',
       tweet_id: '',
-      description: '<p>6巻 P81  高知県高知市 横浜東町5</p> ',
+      description: '<p>6巻 P81  高知県高知市 横浜東町5</p> <p><img alt="温肉ぶっかけ　よがなうどん" src="https://live.staticflickr.com/65535/50943993261_b4f4cff336_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=33.521597&amp;lon=133.545798&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【温肉ぶっかけ　よがなうどん】 by yajiro</p>',
       location: {
         center: [133.545798, 33.521597],
         zoom: 14,

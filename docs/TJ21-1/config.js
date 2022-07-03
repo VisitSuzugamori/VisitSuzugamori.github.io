@@ -36,8 +36,8 @@ const config = {
       hidden: false,
       title: '新函館北斗駅',
       image: '',
-      tweet_id: '1540501122489761792',
-      description: '<p>   北海道北斗市 市渡一丁目1</p><div class="tweetContainer" id="tweet1540501122489761792"></div> ',
+      tweet_id: '1542690449785204737',
+      description: '<p>   北海道北斗市 市渡一丁目1</p><div class="tweetContainer" id="tweet1542690449785204737"></div> ',
       location: {
         center: [140.6483763, 41.9046983],
         zoom: 14,
@@ -177,7 +177,7 @@ const config = {
       title: 'カリフォルニアベイビー',
       image: '',
       tweet_id: '',
-      description: '<p>   北海道函館市 末広町23</p> <p><img alt="函館｜Hokkaido" src="https://live.staticflickr.com/65535/49626003917_306e0cf160_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=41.7659929&amp;lon=140.7146335&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【函館｜Hokkaido】 by 里卡豆</p>',
+      description: '<p>   北海道函館市 末広町23</p> <p><img alt="函館" src="https://live.staticflickr.com/65535/51033844393_c822bfb2a1_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=41.7659929&amp;lon=140.7146335&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【函館】 by Chitaka Chou</p>',
       location: {
         center: [140.7146335, 41.7659929],
         zoom: 14,
@@ -217,7 +217,7 @@ const config = {
       title: '真宗大谷派 東本願寺 函館別院',
       image: '',
       tweet_id: '',
-      description: '<p>   北海道函館市 元町16</p> <p><img alt="Hakodate Roman Catholic Church, Hokkaido カトリック 函館 元町教会 函館 北海道" src="https://live.staticflickr.com/65535/49990505811_469a9f8c38_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=41.7629356&amp;lon=140.7140386&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Hakodate Roman Catholic Church, Hokkaido カトリック 函館 元町教会 函館 北海道】 by Anaguma</p>',
+      description: '<p>   北海道函館市 元町16</p> <p><img alt="DSC_0504" src="https://live.staticflickr.com/65535/51373178361_b4102b2024_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=41.7629356&amp;lon=140.7140386&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【DSC_0504】 by ylefou2004</p>',
       location: {
         center: [140.7140386, 41.7629356],
         zoom: 14,
@@ -236,8 +236,8 @@ const config = {
       hidden: false,
       title: '函館山ロープウェイ山麓駅',
       image: '',
-      tweet_id: '1541390833299202049',
-      description: '<p>   北海道函館市 元町19</p><div class="tweetContainer" id="tweet1541390833299202049"></div> ',
+      tweet_id: '1543172278120321026',
+      description: '<p>   北海道函館市 元町19</p><div class="tweetContainer" id="tweet1543172278120321026"></div> ',
       location: {
         center: [140.7143007, 41.7609078],
         zoom: 14,
