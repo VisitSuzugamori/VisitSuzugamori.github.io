@@ -177,7 +177,7 @@ const config = {
       title: '桟橋通五丁目駅',
       image: '',
       tweet_id: '',
-      description: '<p>6巻 P80  高知県高知市 桟橋通五丁目3</p> <p><img alt="Kōchi" src="https://live.staticflickr.com/65535/48684589953_c04e89e743_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=33.5404756&amp;lon=133.5527511&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Kōchi】 by Jan Dreesen</p>',
+      description: '<p>6巻 P80  高知県高知市 桟橋通五丁目3</p> <p><img alt="Kōchi" src="https://live.staticflickr.com/65535/48685102857_1e704d90f3_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=33.5404756&amp;lon=133.5527511&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Kōchi】 by Jan Dreesen</p>',
       location: {
         center: [133.5527511, 33.5404756],
         zoom: 14,
@@ -237,7 +237,7 @@ const config = {
       title: '佐々木酒食品',
       image: '',
       tweet_id: '',
-      description: '<p>6巻 P81  高知県高知市 横浜東町5</p> <p><img alt="温肉ぶっかけ　よがなうどん" src="https://live.staticflickr.com/65535/50943993261_b4f4cff336_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=33.521597&amp;lon=133.545798&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【温肉ぶっかけ　よがなうどん】 by yajiro</p>',
+      description: '<p>6巻 P81  高知県高知市 横浜東町5</p> ',
       location: {
         center: [133.545798, 33.521597],
         zoom: 14,
