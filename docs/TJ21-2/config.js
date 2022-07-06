@@ -57,7 +57,7 @@ const config = {
       title: '石川啄木像',
       image: '',
       tweet_id: '',
-      description: '<p>   北海道函館市 日乃出町25</p> <p><img alt="Quick stop at Takubokusho Park" src="https://live.staticflickr.com/7839/46614820461_09cfe120ba_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=41.7723579&amp;lon=140.7536031&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Quick stop at Takubokusho Park】 by Stinkee Beek</p>',
+      description: '<p>   北海道函館市 日乃出町25</p> <p><img alt="Ishikawa Takuboku in Hakodate / 函館の啄木" src="https://live.staticflickr.com/4916/31785169657_bdee66b579_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=41.7723579&amp;lon=140.7536031&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Ishikawa Takuboku in Hakodate / 函館の啄木】 by yanoks48</p>',
       location: {
         center: [140.7536031, 41.7723579],
         zoom: 14,
@@ -117,7 +117,7 @@ const config = {
       title: '函館市熱帯植物園駐車場',
       image: '',
       tweet_id: '',
-      description: '<p>   北海道函館市 湯川町二丁目1</p> <p><img alt="サル" src="https://live.staticflickr.com/65535/50987897093_9e724a25ea_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=41.7741951&amp;lon=140.7883462&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【サル】 by Chitaka Chou</p>',
+      description: '<p>   北海道函館市 湯川町二丁目1</p> <p><img alt="サル" src="https://live.staticflickr.com/65535/50988709657_a0471018a3_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=41.7741951&amp;lon=140.7883462&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【サル】 by Chitaka Chou</p>',
       location: {
         center: [140.7883462, 41.7741951],
         zoom: 14,
@@ -197,7 +197,7 @@ const config = {
       title: '日乃出ひまわり',
       image: '',
       tweet_id: '',
-      description: '<p>   北海道函館市 日乃出町14</p> <p><img alt="Ishikawa Takuboku in Hakodate / 函館の啄木" src="https://live.staticflickr.com/4916/31785169657_bdee66b579_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=41.7727805&amp;lon=140.7530528&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Ishikawa Takuboku in Hakodate / 函館の啄木】 by yanoks48</p>',
+      description: '<p>   北海道函館市 日乃出町14</p> <p><img alt="Quick stop at Takubokusho Park" src="https://live.staticflickr.com/7839/46614820461_09cfe120ba_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=41.7727805&amp;lon=140.7530528&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Quick stop at Takubokusho Park】 by Stinkee Beek</p>',
       location: {
         center: [140.7530528, 41.7727805],
         zoom: 14,
@@ -257,7 +257,7 @@ const config = {
       title: '大森町',
       image: '',
       tweet_id: '',
-      description: '<p>   北海道函館市 宇賀浦町1</p> <p><img alt="DSC01100" src="https://live.staticflickr.com/7730/27302668761_c2a099123e_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=41.7697786&amp;lon=140.7404156&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【DSC01100】 by 騰子</p>',
+      description: '<p>   北海道函館市 宇賀浦町1</p> <p><img alt="函館市電 39 ハイカラ号の絵" src="https://live.staticflickr.com/65535/50074882542_30b0baceb7_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=41.7697786&amp;lon=140.7404156&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【函館市電 39 ハイカラ号の絵】 by OOMYV</p>',
       location: {
         center: [140.7404156, 41.7697786],
         zoom: 14,
@@ -276,8 +276,8 @@ const config = {
       hidden: false,
       title: '石川啄木一族の墓',
       image: '',
-      tweet_id: '',
-      description: '<p>   北海道函館市 住吉町15</p> <p><img alt="DSC00920" src="https://live.staticflickr.com/4560/37534155994_5c3fc4a194_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=41.7474858&amp;lon=140.7194496&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【DSC00920】 by スーパーサイヤ人Ⅳ</p>',
+      tweet_id: '1544152486751088640',
+      description: '<p>   北海道函館市 住吉町15</p><div class="tweetContainer" id="tweet1544152486751088640"></div> ',
       location: {
         center: [140.7194496, 41.7474858],
         zoom: 14,
@@ -296,8 +296,8 @@ const config = {
       hidden: false,
       title: '立待岬',
       image: '',
-      tweet_id: '',
-      description: '<p>   北海道函館市 住吉町15</p> <p><img alt="Tsugaru Strait" src="https://live.staticflickr.com/65535/51971873627_603eac0afc_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=41.7450354&amp;lon=140.7212027&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Tsugaru Strait】 by 雷太</p>',
+      tweet_id: '1544160088763469825',
+      description: '<p>   北海道函館市 住吉町15</p><div class="tweetContainer" id="tweet1544160088763469825"></div> ',
       location: {
         center: [140.7212027, 41.7450354],
         zoom: 14,
