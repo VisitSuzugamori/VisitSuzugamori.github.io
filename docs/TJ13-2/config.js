@@ -17,7 +17,7 @@ const config = {
       title: '青石畳通り',
       image: '',
       tweet_id: '',
-      description: '<p>4巻 P5,20  島根県松江市 美保関町美保関</p> <p><img alt="Miho Jinja Shrine" src="https://live.staticflickr.com/7821/46200567295_95f6e81851_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.5625098&amp;lon=133.3076796&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Miho Jinja Shrine】 by hapePHOTOGRAPHIX</p>',
+      description: '<p>4巻 P5,20  島根県松江市 美保関町美保関</p> <p><img alt="Anchor" src="https://live.staticflickr.com/65535/48111991997_a5260003ae_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.5625098&amp;lon=133.3076796&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Anchor】 by Teruhide Tomori</p>',
       location: {
         center: [133.3076796, 35.5625098],
         zoom: 14,
@@ -77,7 +77,7 @@ const config = {
       title: '美保関漁港',
       image: '',
       tweet_id: '',
-      description: '<p>4巻 P12,13  島根県松江市 美保関町美保関</p> <p><img alt="DSCN0153" src="https://live.staticflickr.com/264/18754524322_73fe8328c1_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.5603343&amp;lon=133.3109506&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【DSCN0153】 by rurinoshima</p>',
+      description: '<p>4巻 P12,13  島根県松江市 美保関町美保関</p> <p><img alt="DSCN0156" src="https://live.staticflickr.com/8843/18136807424_8f4f80a17b_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.5603343&amp;lon=133.3109506&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【DSCN0156】 by rurinoshima</p>',
       location: {
         center: [133.3109506, 35.5603343],
         zoom: 14,
@@ -117,7 +117,7 @@ const config = {
       title: '美保神社',
       image: '',
       tweet_id: '',
-      description: '<p>4巻 P14  島根県松江市 美保関町美保関</p> <p><img alt="Algenblüte" src="https://live.staticflickr.com/7802/32132141527_757cb04645_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.5623182&amp;lon=133.3062224&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Algenblüte】 by hapePHOTOGRAPHIX</p>',
+      description: '<p>4巻 P14  島根県松江市 美保関町美保関</p> <p><img alt="Miho Jinja Shrine" src="https://live.staticflickr.com/7821/46200567295_95f6e81851_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.5623182&amp;lon=133.3062224&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Miho Jinja Shrine】 by hapePHOTOGRAPHIX</p>',
       location: {
         center: [133.3062224, 35.5623182],
         zoom: 14,
@@ -197,7 +197,7 @@ const config = {
       title: '恵美須社',
       image: '',
       tweet_id: '',
-      description: '<p>4巻 P37  島根県松江市 </p> <p><img alt="前往美保關的路上, Study 2" src="https://live.staticflickr.com/4915/45647025832_485320f344_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.5642081&amp;lon=133.3198608&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【前往美保關的路上, Study 2】 by Zale Yu</p>',
+      description: '<p>4巻 P37  島根県松江市 </p> <p><img alt="前往美保關的路上, Study 1" src="https://live.staticflickr.com/1977/44783390065_422f02b3c7_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.5642081&amp;lon=133.3198608&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【前往美保關的路上, Study 1】 by Zale Yu</p>',
       location: {
         center: [133.3198608, 35.5642081],
         zoom: 14,
