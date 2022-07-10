@@ -36,8 +36,8 @@ const config = {
       hidden: false,
       title: '湯倉神社',
       image: '',
-      tweet_id: '',
-      description: '<p>   北海道函館市 湯川町二丁目28</p> <p><img alt="Waiting to board" src="https://live.staticflickr.com/1803/42197235135_68a1b2d5e0_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=41.7821053&amp;lon=140.7910231&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Waiting to board】 by kevincrumbs</p>',
+      tweet_id: '1545938150459338752',
+      description: '<p>   北海道函館市 湯川町二丁目28</p><div class="tweetContainer" id="tweet1545938150459338752"></div> ',
       location: {
         center: [140.7910231, 41.7821053],
         zoom: 14,

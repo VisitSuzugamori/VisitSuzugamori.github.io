@@ -56,8 +56,8 @@ const config = {
       hidden: false,
       title: 'この「↓」',
       image: '',
-      tweet_id: '1542376148663152640',
-      description: '<p>   北海道北斗市 市渡723</p><div class="tweetContainer" id="tweet1542376148663152640"></div> ',
+      tweet_id: '',
+      description: '<p>   北海道北斗市 市渡723</p> <p><img alt="P_20160827_100914" src="https://live.staticflickr.com/539/31675873315_f0af2045e2_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=41.9024872&amp;lon=140.6523709&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【P_20160827_100914】 by laylamorita</p>',
       location: {
         center: [140.6523709, 41.9024872],
         zoom: 14,
@@ -176,8 +176,8 @@ const config = {
       hidden: false,
       title: 'カリフォルニアベイビー',
       image: '',
-      tweet_id: '',
-      description: '<p>   北海道函館市 末広町23</p> <p><img alt="IMG_6280s" src="https://live.staticflickr.com/65535/49420106326_bce276214f_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=41.7659929&amp;lon=140.7146335&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【IMG_6280s】 by 小宗宗</p>',
+      tweet_id: '1545586889314697216',
+      description: '<p>   北海道函館市 末広町23</p><div class="tweetContainer" id="tweet1545586889314697216"></div> ',
       location: {
         center: [140.7146335, 41.7659929],
         zoom: 14,

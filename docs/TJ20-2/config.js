@@ -57,7 +57,7 @@ const config = {
       title: '坂本龍馬像',
       image: '',
       tweet_id: '',
-      description: '<p>6巻 P109  高知県高知市 浦戸6</p> <p><img alt="Katsurahama (桂浜)" src="https://live.staticflickr.com/65535/52068717083_8e00b3b04d_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=33.4986187&amp;lon=133.5754821&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Katsurahama (桂浜)】 by pantkiewicz</p>',
+      description: '<p>6巻 P109  高知県高知市 浦戸6</p> <p><img alt="Katsurahama (桂浜)" src="https://live.staticflickr.com/65535/52068716933_072de25989_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=33.4986187&amp;lon=133.5754821&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Katsurahama (桂浜)】 by pantkiewicz</p>',
       location: {
         center: [133.5754821, 33.4986187],
         zoom: 14,
@@ -97,7 +97,7 @@ const config = {
       title: '龍王宮',
       image: '',
       tweet_id: '',
-      description: '<p>6巻 P117  高知県高知市 浦戸830</p> <p><img alt="Ryuo-gu (龍王宮 海津見神社)" src="https://live.staticflickr.com/65535/52068937229_51497753c5_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=33.4956281&amp;lon=133.5746555&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Ryuo-gu (龍王宮 海津見神社)】 by pantkiewicz</p>',
+      description: '<p>6巻 P117  高知県高知市 浦戸830</p> <p><img alt="Ryuo-gu (龍王宮 海津見神社)" src="https://live.staticflickr.com/65535/52068716838_377865f237_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=33.4956281&amp;lon=133.5746555&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Ryuo-gu (龍王宮 海津見神社)】 by pantkiewicz</p>',
       location: {
         center: [133.5746555, 33.4956281],
         zoom: 14,
@@ -257,7 +257,7 @@ const config = {
       title: '龍王岬展望台',
       image: '',
       tweet_id: '',
-      description: '<p>6巻 P135  高知県高知市 浦戸830</p> <p><img alt="Katsurahama (桂浜)" src="https://live.staticflickr.com/65535/52069189490_cdcb359b0d_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=33.4955899&amp;lon=133.5743881&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Katsurahama (桂浜)】 by pantkiewicz</p>',
+      description: '<p>6巻 P135  高知県高知市 浦戸830</p> <p><img alt="Ryuo-gu (龍王宮 海津見神社)" src="https://live.staticflickr.com/65535/52068937229_51497753c5_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=33.4955899&amp;lon=133.5743881&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Ryuo-gu (龍王宮 海津見神社)】 by pantkiewicz</p>',
       location: {
         center: [133.5743881, 33.4955899],
         zoom: 14,
