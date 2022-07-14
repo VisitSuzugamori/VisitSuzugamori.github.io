@@ -17,7 +17,7 @@ const config = {
       title: '湯倉神社 鳥居',
       image: '',
       tweet_id: '',
-      description: '<p>   北海道函館市 湯川町二丁目28</p> <p><img alt="神の遣い" src="https://live.staticflickr.com/7908/46474498784_75598b96c5_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=41.7815466&amp;lon=140.7909432&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【神の遣い】 by Y.Masayoshi</p>',
+      description: '<p>   北海道函館市 湯川町二丁目28</p> <p><img alt="photo" src="https://live.staticflickr.com/7772/28520170502_9235eafd07_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=41.7815466&amp;lon=140.7909432&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【photo】 by Jongbok</p>',
       location: {
         center: [140.7909432, 41.7815466],
         zoom: 14,
@@ -296,8 +296,8 @@ const config = {
       hidden: false,
       title: '立待岬',
       image: '',
-      tweet_id: '1544160088763469825',
-      description: '<p>   北海道函館市 住吉町15</p><div class="tweetContainer" id="tweet1544160088763469825"></div> ',
+      tweet_id: '1546062623032180739',
+      description: '<p>   北海道函館市 住吉町15</p><div class="tweetContainer" id="tweet1546062623032180739"></div> ',
       location: {
         center: [140.7212027, 41.7450354],
         zoom: 14,
@@ -336,8 +336,8 @@ const config = {
       hidden: false,
       title: '森駅',
       image: '',
-      tweet_id: '1542695084201693184',
-      description: '<p>   北海道茅部郡 森町 字本町131</p><div class="tweetContainer" id="tweet1542695084201693184"></div> ',
+      tweet_id: '1545620297860390912',
+      description: '<p>   北海道茅部郡 森町 字本町131</p><div class="tweetContainer" id="tweet1545620297860390912"></div> ',
       location: {
         center: [140.5739136, 42.1089297],
         zoom: 14,
