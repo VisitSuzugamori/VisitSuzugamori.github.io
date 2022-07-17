@@ -17,7 +17,7 @@ const config = {
       title: '嚴島神社',
       image: '',
       tweet_id: '',
-      description: '<p>3巻 P5  </p> <p><img alt="_SDI0703.jpg" src="https://live.staticflickr.com/65535/52191857990_514bf4102a_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.2959885&amp;lon=132.3198262&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【_SDI0703.jpg】 by WB5500K</p>',
+      description: '<p>3巻 P5  </p> <p><img alt="L1001246.jpg" src="https://live.staticflickr.com/65535/52191628779_2c4a95b8bb_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.2959885&amp;lon=132.3198262&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【L1001246.jpg】 by WB5500K</p>',
       location: {
         center: [132.3198262, 34.2959885],
         zoom: 14,
@@ -36,8 +36,8 @@ const config = {
       hidden: false,
       title: '大聖院',
       image: '',
-      tweet_id: '',
-      description: '<p>3巻 P8  広島県廿日市市 宮島町滝町215</p> <p><img alt="Daishoin banners, Miyajima 大聖院 宮島  広島" src="https://live.staticflickr.com/65535/51488631058_30212eaf6f_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.2920477&amp;lon=132.3184736&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Daishoin banners, Miyajima 大聖院 宮島  広島】 by Anaguma</p>',
+      tweet_id: '1548183423772020737',
+      description: '<p>3巻 P8  広島県廿日市市 宮島町滝町215</p><div class="tweetContainer" id="tweet1548183423772020737"></div> ',
       location: {
         center: [132.3184736, 34.2920477],
         zoom: 14,

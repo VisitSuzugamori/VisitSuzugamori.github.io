@@ -156,8 +156,8 @@ const config = {
       hidden: false,
       title: 'はりまや橋',
       image: '',
-      tweet_id: '',
-      description: '<p>6巻 P80  高知県高知市 はりまや町一丁目1</p> <p><img alt="Harimayabashi (はりまや橋)" src="https://live.staticflickr.com/65535/52070804731_79c4b2759d_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=33.5599438&amp;lon=133.5426569&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Harimayabashi (はりまや橋)】 by pantkiewicz</p>',
+      tweet_id: '1548125753250029569',
+      description: '<p>6巻 P80  高知県高知市 はりまや町一丁目1</p><div class="tweetContainer" id="tweet1548125753250029569"></div> ',
       location: {
         center: [133.5426569, 33.5599438],
         zoom: 14,
@@ -177,7 +177,7 @@ const config = {
       title: '桟橋通五丁目駅',
       image: '',
       tweet_id: '',
-      description: '<p>6巻 P80  高知県高知市 桟橋通五丁目3</p> <p><img alt="Kōchi" src="https://live.staticflickr.com/65535/48684589953_c04e89e743_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=33.5404756&amp;lon=133.5527511&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Kōchi】 by Jan Dreesen</p>',
+      description: '<p>6巻 P80  高知県高知市 桟橋通五丁目3</p> <p><img alt="2017-10-07, Kochi, Sambashidori 5-chome" src="https://live.staticflickr.com/4575/37517548384_4a9d1e32e6_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=33.5404756&amp;lon=133.5527511&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【2017-10-07, Kochi, Sambashidori 5-chome】 by Fototak</p>',
       location: {
         center: [133.5527511, 33.5404756],
         zoom: 14,
@@ -297,7 +297,7 @@ const config = {
       title: '長宗我部元親像',
       image: '',
       tweet_id: '',
-      description: '<p>6巻 P83  高知県高知市 長浜5714</p> ',
+      description: '<p>6巻 P83  高知県高知市 長浜5714</p> <p><img alt="姫若子" src="https://live.staticflickr.com/6013/6016875198_40d0ea07d0_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=33.4930629&amp;lon=133.5462907&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【姫若子】 by jour13</p>',
       location: {
         center: [133.5462907, 33.4930629],
         zoom: 14,
