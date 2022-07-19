@@ -77,7 +77,7 @@ const config = {
       title: '旧大社駅舎',
       image: '',
       tweet_id: '',
-      description: '<p>3巻 P134  島根県出雲市 大社町北荒木452</p> <p><img alt="OLD Taisha Station (Izumo, Shimane, Japan)" src="https://live.staticflickr.com/4698/24796736207_fa4a70532f_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.3866419&amp;lon=132.690256&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【OLD Taisha Station (Izumo, Shimane, Japan)】 by t-mizo</p>',
+      description: '<p>3巻 P134  島根県出雲市 大社町北荒木452</p> <p><img alt="Former Taisha Station, Shimane  出雲大社　旧大社駅　島根" src="https://live.staticflickr.com/65535/50192567213_b75a7e68bd_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.3866419&amp;lon=132.690256&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Former Taisha Station, Shimane  出雲大社　旧大社駅　島根】 by Anaguma</p>',
       location: {
         center: [132.690256, 35.3866419],
         zoom: 14,
@@ -197,7 +197,7 @@ const config = {
       title: '出雲大社 拝殿',
       image: '',
       tweet_id: '',
-      description: '<p>3巻 P140  島根県出雲市 大社町杵築東257</p> <p><img alt="Izumo in Japan: &quot;Interior&quot; of Izumo-taisha" src="https://live.staticflickr.com/65535/52203822021_22e180a677_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.4012055&amp;lon=132.6855211&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Izumo in Japan: &quot;Interior&quot; of Izumo-taisha】 by Odd Roar Aalborg</p>',
+      description: '<p>3巻 P140  島根県出雲市 大社町杵築東257</p> <p><img alt="Izumo in Japan: Roofscape of Izumo-taisha" src="https://live.staticflickr.com/65535/52117347905_2474604293_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.4012055&amp;lon=132.6855211&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Izumo in Japan: Roofscape of Izumo-taisha】 by Odd Roar Aalborg</p>',
       location: {
         center: [132.6855211, 35.4012055],
         zoom: 14,
@@ -217,7 +217,7 @@ const config = {
       title: '出雲大社 西十九社',
       image: '',
       tweet_id: '',
-      description: '<p>3巻 P141  島根県出雲市 大社町杵築東257</p> <p><img alt="Izumo in Japan: Top of Izumo-taisha" src="https://live.staticflickr.com/65535/52203844748_35c1d697f2_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.4014929&amp;lon=132.6848802&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Izumo in Japan: Top of Izumo-taisha】 by Odd Roar Aalborg</p>',
+      description: '<p>3巻 P141  島根県出雲市 大社町杵築東257</p> <p><img alt="Izumo in Japan: &quot;Interior&quot; of Izumo-taisha" src="https://live.staticflickr.com/65535/52203822021_22e180a677_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.4014929&amp;lon=132.6848802&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Izumo in Japan: &quot;Interior&quot; of Izumo-taisha】 by Odd Roar Aalborg</p>',
       location: {
         center: [132.6848802, 35.4014929],
         zoom: 14,
@@ -257,7 +257,7 @@ const config = {
       title: '稲佐の浜(弁天島)',
       image: '',
       tweet_id: '',
-      description: '<p>3巻 P143  島根県出雲市 大社町杵築北2844</p> <p><img alt="Bentenjima" src="https://live.staticflickr.com/65535/51820613402_82c2847af9_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.4003035&amp;lon=132.6719106&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Bentenjima】 by 雷太</p>',
+      description: '<p>3巻 P143  島根県出雲市 大社町杵築北2844</p> <p><img alt="稲佐の浜" src="https://live.staticflickr.com/65535/51335483317_d4bd1143b1_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.4003035&amp;lon=132.6719106&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【稲佐の浜】 by Chitaka Chou</p>',
       location: {
         center: [132.6719106, 35.4003035],
         zoom: 14,
@@ -296,8 +296,8 @@ const config = {
       hidden: false,
       title: '松江しんじ湖温泉駅',
       image: '',
-      tweet_id: '1544949924089188352',
-      description: '<p>3巻 P146  島根県松江市 中原町51</p><div class="tweetContainer" id="tweet1544949924089188352"></div> ',
+      tweet_id: '',
+      description: '<p>3巻 P146  島根県松江市 中原町51</p> <p><img alt="Ichibata Electric Railway Matsue-Shinjiko-Onsen Station" src="https://live.staticflickr.com/65535/51332941410_b5b4567cea_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.4673633&amp;lon=133.0460423&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Ichibata Electric Railway Matsue-Shinjiko-Onsen Station】 by Kzaral</p>',
       location: {
         center: [133.0460423, 35.4673633],
         zoom: 14,

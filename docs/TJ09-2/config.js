@@ -56,8 +56,8 @@ const config = {
       hidden: false,
       title: 'もみじ堂本店',
       image: '',
-      tweet_id: '',
-      description: '<p>3巻 P10  広島県廿日市市 宮島町幸町西浜459</p> <p><img alt="Maroudo Shrine Haiden" src="https://live.staticflickr.com/65535/52056094581_30417ec706_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.2977872&amp;lon=132.320873&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Maroudo Shrine Haiden】 by Richard Weil</p>',
+      tweet_id: '1548579485422964736',
+      description: '<p>3巻 P10  広島県廿日市市 宮島町幸町西浜459</p><div class="tweetContainer" id="tweet1548579485422964736"></div> ',
       location: {
         center: [132.320873, 34.2977872],
         zoom: 14,
@@ -176,8 +176,8 @@ const config = {
       hidden: false,
       title: '尾道駅',
       image: '',
-      tweet_id: '1545661204403994624',
-      description: '<p>3巻 P19  広島県尾道市 東御所町1</p><div class="tweetContainer" id="tweet1545661204403994624"></div> ',
+      tweet_id: '1548910844008079360',
+      description: '<p>3巻 P19  広島県尾道市 東御所町1</p><div class="tweetContainer" id="tweet1548910844008079360"></div> ',
       location: {
         center: [133.193159, 34.4048654],
         zoom: 14,
@@ -216,8 +216,8 @@ const config = {
       hidden: false,
       title: '頂上展望台',
       image: '',
-      tweet_id: '1545000029831692289',
-      description: '<p>3巻 P21  広島県尾道市 東土堂町20</p><div class="tweetContainer" id="tweet1545000029831692289"></div> ',
+      tweet_id: '1546327279889854465',
+      description: '<p>3巻 P21  広島県尾道市 東土堂町20</p><div class="tweetContainer" id="tweet1546327279889854465"></div> ',
       location: {
         center: [133.1969604, 34.4106865],
         zoom: 14,
