@@ -217,7 +217,7 @@ const config = {
       title: '都道405号線（外堀通り）',
       image: '',
       tweet_id: '',
-      description: '<p>5巻 P141  東京都港区 赤坂三丁目1</p> <p><img alt="20211211-DSC06747.jpg" src="https://live.staticflickr.com/65535/52073000573_a6d5934b52_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.6779568&amp;lon=139.7365574&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【20211211-DSC06747.jpg】 by t.nanba</p>',
+      description: '<p>5巻 P141  東京都港区 赤坂三丁目1</p> <p><img alt="All Photos-15575" src="https://live.staticflickr.com/65535/52158014605_d56f27a366_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.6779568&amp;lon=139.7365574&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【All Photos-15575】 by vincentvds2</p>',
       location: {
         center: [139.7365574, 35.6779568],
         zoom: 14,
@@ -397,7 +397,7 @@ const config = {
       title: '都庁からさらに西へ・・・',
       image: '',
       tweet_id: '',
-      description: '<p>5巻 P146  東京都渋谷区 本町三丁目9</p> <p><img alt="Tokyo Street" src="https://live.staticflickr.com/65535/51375758014_20c2976074_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.6891142&amp;lon=139.6830083&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Tokyo Street】 by Rick Neves</p>',
+      description: '<p>5巻 P146  東京都渋谷区 本町三丁目9</p> <p><img alt="PXL_20220518_020139857" src="https://live.staticflickr.com/65535/52082069740_98b272decc_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.6891142&amp;lon=139.6830083&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【PXL_20220518_020139857】 by nobusato</p>',
       location: {
         center: [139.6830083, 35.6891142],
         zoom: 14,
@@ -477,7 +477,7 @@ const config = {
       title: '杉並区立玉川上水公園',
       image: '',
       tweet_id: '',
-      description: '<p>5巻 P149  東京都杉並区 和泉二丁目8</p> <p><img alt="IMG_1757" src="https://live.staticflickr.com/65535/49255394612_28abbb5434_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.6713219&amp;lon=139.651149&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【IMG_1757】 by tatecolle</p>',
+      description: '<p>5巻 P149  東京都杉並区 和泉二丁目8</p> <p><img alt="Water Tanks in Izumi Water Pressure Regulating Place" src="https://live.staticflickr.com/4541/38209359252_2e03398cb7_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.6713219&amp;lon=139.651149&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Water Tanks in Izumi Water Pressure Regulating Place】 by ykanazawa1999</p>',
       location: {
         center: [139.651149, 35.6713219],
         zoom: 14,

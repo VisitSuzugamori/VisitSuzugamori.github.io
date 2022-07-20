@@ -16,8 +16,8 @@ const config = {
       hidden: false,
       title: '新花巻駅',
       image: '',
-      tweet_id: '1545562328774676484',
-      description: '<p>3巻 P87  岩手県花巻市 胡四王一丁目1</p><div class="tweetContainer" id="tweet1545562328774676484"></div> ',
+      tweet_id: '1548845263225323520',
+      description: '<p>3巻 P87  岩手県花巻市 胡四王一丁目1</p><div class="tweetContainer" id="tweet1548845263225323520"></div> ',
       location: {
         center: [141.173865, 39.4064505],
         zoom: 14,
@@ -256,8 +256,8 @@ const config = {
       hidden: false,
       title: '村崎野駅',
       image: '',
-      tweet_id: '',
-      description: '<p>3巻 P117  岩手県北上市 村崎野十五地割148</p> ',
+      tweet_id: '1549253891769995264',
+      description: '<p>3巻 P117  岩手県北上市 村崎野十五地割148</p><div class="tweetContainer" id="tweet1549253891769995264"></div> ',
       location: {
         center: [141.1204021, 39.3226107],
         zoom: 14,

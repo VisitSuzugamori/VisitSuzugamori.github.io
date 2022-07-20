@@ -137,7 +137,7 @@ const config = {
       title: '湯川堤防',
       image: '',
       tweet_id: '',
-      description: '<p>   北海道函館市 湯川町三丁目1</p> <p><img alt="2018 - 0807 iMG_783 平成館しおさい亭別館花月" src="https://live.staticflickr.com/1873/30457375638_3e720b770d_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=41.7731667&amp;lon=140.7874485&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【2018 - 0807 iMG_783 平成館しおさい亭別館花月】 by PIPIQ.LAI</p>',
+      description: '<p>   北海道函館市 湯川町三丁目1</p> <p><img alt="2018 - 0807 iMG_786 平成館しおさい亭別館花月" src="https://live.staticflickr.com/1894/30457373748_b217d68587_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=41.7731667&amp;lon=140.7874485&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【2018 - 0807 iMG_786 平成館しおさい亭別館花月】 by PIPIQ.LAI</p>',
       location: {
         center: [140.7874485, 41.7731667],
         zoom: 14,
@@ -317,7 +317,7 @@ const config = {
       title: '北海道駒ヶ岳',
       image: '',
       tweet_id: '',
-      description: '<p>   北海道茅部郡 森町 字駒ケ岳</p> <p><img alt="こまがたけ" src="https://live.staticflickr.com/2836/33854197531_0cd60ea893_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=42.063333&amp;lon=140.677222&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【こまがたけ】 by fox_kawai</p>',
+      description: '<p>   北海道茅部郡 森町 字駒ケ岳</p> ',
       location: {
         center: [140.677222, 42.063333],
         zoom: 14,
@@ -357,7 +357,7 @@ const config = {
       title: '大沼国定公園',
       image: '',
       tweet_id: '',
-      description: '<p>   北海道亀田郡 七飯町 </p> <p><img alt="北海道 Hokkaido" src="https://live.staticflickr.com/65535/52020127104_b93cffa9a2_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=41.9838889&amp;lon=140.6729083&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【北海道 Hokkaido】 by 形影believe</p>',
+      description: '<p>   北海道亀田郡 七飯町 </p> <p><img alt="北海道 Hokkaido" src="https://live.staticflickr.com/65535/52020126924_271e34a5db_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=41.9838889&amp;lon=140.6729083&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【北海道 Hokkaido】 by 形影believe</p>',
       location: {
         center: [140.6729083, 41.9838889],
         zoom: 14,
