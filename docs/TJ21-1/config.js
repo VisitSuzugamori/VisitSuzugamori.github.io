@@ -97,7 +97,7 @@ const config = {
       title: '七飯駅',
       image: '',
       tweet_id: '',
-      description: '<p>   北海道亀田郡 七飯町 本町一丁目1</p> <p><img alt="DSC01950" src="https://live.staticflickr.com/7174/27502953965_d403f785d8_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=41.8877128&amp;lon=140.6881975&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【DSC01950】 by 騰子</p>',
+      description: '<p>   北海道亀田郡 七飯町 本町一丁目1</p> <p><img alt="DF200-117" src="https://live.staticflickr.com/8581/16667459891_3cebc05fe2_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=41.8877128&amp;lon=140.6881975&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【DF200-117】 by Matt-The Mechanic</p>',
       location: {
         center: [140.6881975, 41.8877128],
         zoom: 14,
@@ -177,7 +177,7 @@ const config = {
       title: 'カリフォルニアベイビー',
       image: '',
       tweet_id: '',
-      description: '<p>   北海道函館市 末広町23</p> <p><img alt="函館｜Hokkaido" src="https://live.staticflickr.com/65535/49626003917_306e0cf160_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=41.7659929&amp;lon=140.7146335&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【函館｜Hokkaido】 by 里卡豆</p>',
+      description: '<p>   北海道函館市 末広町23</p> <p><img alt="函館" src="https://live.staticflickr.com/65535/51033844393_c822bfb2a1_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=41.7659929&amp;lon=140.7146335&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【函館】 by Chitaka Chou</p>',
       location: {
         center: [140.7146335, 41.7659929],
         zoom: 14,

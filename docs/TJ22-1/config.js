@@ -76,8 +76,8 @@ const config = {
       hidden: false,
       title: '紋別空港（オホーツク紋別空港）',
       image: '',
-      tweet_id: '',
-      description: '<p>   北海道紋別市 </p> <p><img alt="monbetsu_20201008122746" src="https://live.staticflickr.com/65535/50849368171_477d36c235_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=44.306398&amp;lon=143.4068361&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【monbetsu_20201008122746】 by inunami</p>',
+      tweet_id: '1550324914900590597',
+      description: '<p>   北海道紋別市 </p><div class="tweetContainer" id="tweet1550324914900590597"></div> ',
       location: {
         center: [143.4068361, 44.306398],
         zoom: 14,

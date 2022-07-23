@@ -37,7 +37,7 @@ const config = {
       title: 'この辺歩いてるよ',
       image: '',
       tweet_id: '',
-      description: '<p>3巻 P60  和歌山県東牟婁郡 串本町 串本1403</p> <p><img alt="橋杭岩 和歌山県串本 (3)" src="https://live.staticflickr.com/65535/50085149361_8e38e19985_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=33.4580493&amp;lon=135.7718515&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【橋杭岩 和歌山県串本 (3)】 by OOMYV</p>',
+      description: '<p>3巻 P60  和歌山県東牟婁郡 串本町 串本1403</p> <p><img alt="潮岬 本州最南端 (1)" src="https://live.staticflickr.com/65535/50085149401_a59c3fd84f_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=33.4580493&amp;lon=135.7718515&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【潮岬 本州最南端 (1)】 by OOMYV</p>',
       location: {
         center: [135.7718515, 33.4580493],
         zoom: 14,
@@ -57,7 +57,7 @@ const config = {
       title: 'この辺まで来たよ',
       image: '',
       tweet_id: '',
-      description: '<p>3巻 P61  和歌山県東牟婁郡 串本町 </p> <p><img alt="V zajetí koníčku" src="https://live.staticflickr.com/65535/51180350109_7198a86e97_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=33.4378491&amp;lon=135.754685&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【V zajetí koníčku】 by SocialHermit</p>',
+      description: '<p>3巻 P61  和歌山県東牟婁郡 串本町 </p> <p><img alt="1808 1083 7R303559" src="https://live.staticflickr.com/1853/30235374888_a0f1fbcaa3_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=33.4378491&amp;lon=135.754685&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【1808 1083 7R303559】 by skycat1221</p>',
       location: {
         center: [135.754685, 33.4378491],
         zoom: 14,
@@ -117,7 +117,7 @@ const config = {
       title: 'ビジネスホテル串本 駅前店',
       image: '',
       tweet_id: '',
-      description: '<p>3巻 P67  和歌山県東牟婁郡 串本町 串本40</p> <p><img alt="日根野区 105系 01" src="https://live.staticflickr.com/800/39374790990_06c6f5e2d5_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=33.474975&amp;lon=135.782048&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【日根野区 105系 01】 by O_Kazunori_</p>',
+      description: '<p>3巻 P67  和歌山県東牟婁郡 串本町 串本40</p> <p><img alt="whaling story for the south end of the Kii Peninsula" src="https://live.staticflickr.com/4852/44065931920_23a842dcbb_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=33.474975&amp;lon=135.782048&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【whaling story for the south end of the Kii Peninsula】 by anthroview</p>',
       location: {
         center: [135.782048, 33.474975],
         zoom: 14,
@@ -236,8 +236,8 @@ const config = {
       hidden: false,
       title: '熊野本宮大社',
       image: '',
-      tweet_id: '1546736042895880193',
-      description: '<p>3巻 P82  和歌山県田辺市 本宮町本宮</p><div class="tweetContainer" id="tweet1546736042895880193"></div> ',
+      tweet_id: '1547058342862127104',
+      description: '<p>3巻 P82  和歌山県田辺市 本宮町本宮</p><div class="tweetContainer" id="tweet1547058342862127104"></div> ',
       location: {
         center: [135.7734753, 33.8405706],
         zoom: 14,
@@ -257,7 +257,7 @@ const config = {
       title: '料理 萬口',
       image: '',
       tweet_id: '',
-      description: '<p>3巻 P85  和歌山県東牟婁郡 串本町 串本43</p> <p><img alt="whaling story for the south end of the Kii Peninsula" src="https://live.staticflickr.com/4852/44065931920_23a842dcbb_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=33.4745935&amp;lon=135.7817317&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【whaling story for the south end of the Kii Peninsula】 by anthroview</p>',
+      description: '<p>3巻 P85  和歌山県東牟婁郡 串本町 串本43</p> <p><img alt="train station at Kushimoto shows major attractions" src="https://live.staticflickr.com/4869/32011139438_67c5371bdb_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=33.4745935&amp;lon=135.7817317&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【train station at Kushimoto shows major attractions】 by anthroview</p>',
       location: {
         center: [135.7817317, 33.4745935],
         zoom: 14,
