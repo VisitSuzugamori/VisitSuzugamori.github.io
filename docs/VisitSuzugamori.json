@@ -337,6 +337,17 @@
       "books": null,
       "subtitle": "無くたって良いどう",
       "camera": {"zoom": 10, "center": [139.6703, 35.6808]}
+    },
+    "TJ23": {
+      "index": 23,
+      "id": "TJ23",
+      "key": "第23旅",
+      "title": "第23旅 千葉",
+      "place": "南房総市 館山市 富津市 安房郡鋸南町",
+      "published": "2022, 電撃マオウ 7月号",
+      "books": null,
+      "subtitle": "激動せよ！2022年！",
+      "camera": {"zoom": 10, "center": [139.879022, 34.904775]}
     }
   },
   "books": {

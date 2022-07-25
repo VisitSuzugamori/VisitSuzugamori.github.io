@@ -2,6 +2,16 @@
 <kml xmlns="http://www.opengis.net/kml/2.2">
   <Document>
     <name>コミック登場ポイント</name>
+    <Style id="icon-1899-0288D1-labelson">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+    </Style>
     <Style id="icon-1899-0F9D58-labelson">
       <IconStyle>
         <color>ff589d0f</color>
@@ -3443,88 +3453,8 @@
       </Point>
     </Placemark>
     <Placemark>
-      <name>浦佐駅</name>
-      <description>出張版</description>
-      <styleUrl>#icon-1899-DB4436-labelson</styleUrl>
-      <Point>
-        <coordinates>
-          138.9228047,37.1674363,0
-        </coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>白米探し中</name>
-      <description>出張版</description>
-      <styleUrl>#icon-1899-DB4436-labelson</styleUrl>
-      <Point>
-        <coordinates>
-          138.9213359,37.1680435,0
-        </coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>毘沙門堂</name>
-      <description>出張版</description>
-      <styleUrl>#icon-1899-DB4436-labelson</styleUrl>
-      <Point>
-        <coordinates>
-          138.9193517,37.1700727,0
-        </coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>地蔵清水</name>
-      <description>出張版</description>
-      <styleUrl>#icon-1899-DB4436-labelson</styleUrl>
-      <Point>
-        <coordinates>
-          138.9221463,37.1748913,0
-        </coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>モンブラン</name>
-      <description>出張版</description>
-      <styleUrl>#icon-1899-DB4436-labelson</styleUrl>
-      <Point>
-        <coordinates>
-          138.9678273,37.2276799,0
-        </coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>道の駅 ゆのたに</name>
-      <description>出張版</description>
-      <styleUrl>#icon-1899-DB4436-labelson</styleUrl>
-      <Point>
-        <coordinates>
-          138.9827934,37.2239146,0
-        </coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>魚沼市インフォメーションセンター（一般社団法人魚沼市観光協会）</name>
-      <description>出張版</description>
-      <styleUrl>#icon-1899-DB4436-labelson</styleUrl>
-      <Point>
-        <coordinates>
-          138.9821788,37.2243869,0
-        </coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>栃尾又ラジウム温泉 自在館</name>
-      <description>出張版</description>
-      <styleUrl>#icon-1899-DB4436-labelson</styleUrl>
-      <Point>
-        <coordinates>
-          139.0860494,37.1852372,0
-        </coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
       <name>函館駅</name>
-      <description>第21旅（前編）</description>
+      <description>7巻 P4,20 第21旅（前編）</description>
       <styleUrl>#icon-1899-DB4436-labelson</styleUrl>
       <Point>
         <coordinates>
@@ -3534,7 +3464,7 @@
     </Placemark>
     <Placemark>
       <name>新函館北斗駅</name>
-      <description>第21旅（前編）</description>
+      <description>7巻 P6 第21旅（前編）</description>
       <styleUrl>#icon-1899-DB4436-labelson</styleUrl>
       <Point>
         <coordinates>
@@ -3544,7 +3474,7 @@
     </Placemark>
     <Placemark>
       <name>この「↓」</name>
-      <description>第21旅（前編）</description>
+      <description>7巻 P11 第21旅（前編）</description>
       <styleUrl>#icon-1899-DB4436-labelson</styleUrl>
       <Point>
         <coordinates>
@@ -3554,7 +3484,7 @@
     </Placemark>
     <Placemark>
       <name>道道676号線</name>
-      <description>第21旅（前編）</description>
+      <description>7巻 P13 第21旅（前編）</description>
       <styleUrl>#icon-1899-DB4436-labelson</styleUrl>
       <Point>
         <coordinates>
@@ -3564,7 +3494,7 @@
     </Placemark>
     <Placemark>
       <name>七飯駅</name>
-      <description>第21旅（前編）</description>
+      <description>7巻 P16 第21旅（前編）</description>
       <styleUrl>#icon-1899-DB4436-labelson</styleUrl>
       <Point>
         <coordinates>
@@ -3574,7 +3504,7 @@
     </Placemark>
     <Placemark>
       <name>函館朝市 どんぶり横丁市場</name>
-      <description>第21旅（前編）</description>
+      <description>7巻 P21 第21旅（前編）</description>
       <styleUrl>#icon-1899-DB4436-labelson</styleUrl>
       <Point>
         <coordinates>
@@ -3584,7 +3514,7 @@
     </Placemark>
     <Placemark>
       <name>朝市お食事処 山三道下商店</name>
-      <description>第21旅（前編）</description>
+      <description>7巻 P21 第21旅（前編）</description>
       <styleUrl>#icon-1899-DB4436-labelson</styleUrl>
       <Point>
         <coordinates>
@@ -3594,7 +3524,7 @@
     </Placemark>
     <Placemark>
       <name>金森赤レンガ倉庫</name>
-      <description>第21旅（前編）</description>
+      <description>7巻 P24 第21旅（前編）</description>
       <styleUrl>#icon-1899-DB4436-labelson</styleUrl>
       <Point>
         <coordinates>
@@ -3604,7 +3534,7 @@
     </Placemark>
     <Placemark>
       <name>カリフォルニアベイビー</name>
-      <description>第21旅（前編）</description>
+      <description>7巻 P24 第21旅（前編）</description>
       <styleUrl>#icon-1899-DB4436-labelson</styleUrl>
       <Point>
         <coordinates>
@@ -3614,7 +3544,7 @@
     </Placemark>
     <Placemark>
       <name>二十間坂</name>
-      <description>第21旅（前編）</description>
+      <description>7巻 P25 第21旅（前編）</description>
       <styleUrl>#icon-1899-DB4436-labelson</styleUrl>
       <Point>
         <coordinates>
@@ -3624,7 +3554,7 @@
     </Placemark>
     <Placemark>
       <name>真宗大谷派 東本願寺 函館別院</name>
-      <description>第21旅（前編）</description>
+      <description>7巻 P25 第21旅（前編）</description>
       <styleUrl>#icon-1899-DB4436-labelson</styleUrl>
       <Point>
         <coordinates>
@@ -3634,7 +3564,7 @@
     </Placemark>
     <Placemark>
       <name>函館山ロープウェイ山麓駅</name>
-      <description>第21旅（前編）</description>
+      <description>7巻 P26 第21旅（前編）</description>
       <styleUrl>#icon-1899-DB4436-labelson</styleUrl>
       <Point>
         <coordinates>
@@ -3644,7 +3574,7 @@
     </Placemark>
     <Placemark>
       <name>旅館一乃松</name>
-      <description>第21旅（前編）</description>
+      <description>7巻 P27 第21旅（前編）</description>
       <styleUrl>#icon-1899-DB4436-labelson</styleUrl>
       <Point>
         <coordinates>
@@ -3654,7 +3584,7 @@
     </Placemark>
     <Placemark>
       <name>湯倉神社 鳥居</name>
-      <description>第21旅（後編）</description>
+      <description>7巻 P35 第21旅（後編）</description>
       <styleUrl>#icon-1899-DB4436-labelson</styleUrl>
       <Point>
         <coordinates>
@@ -3664,7 +3594,7 @@
     </Placemark>
     <Placemark>
       <name>湯倉神社</name>
-      <description>第21旅（後編）</description>
+      <description>7巻 P35 第21旅（後編）</description>
       <styleUrl>#icon-1899-DB4436-labelson</styleUrl>
       <Point>
         <coordinates>
@@ -3674,7 +3604,7 @@
     </Placemark>
     <Placemark>
       <name>石川啄木像</name>
-      <description>第21旅（後編）</description>
+      <description>7巻 P36 第21旅（後編）</description>
       <styleUrl>#icon-1899-DB4436-labelson</styleUrl>
       <Point>
         <coordinates>
@@ -3684,7 +3614,7 @@
     </Placemark>
     <Placemark>
       <name>コーヒールームきくち</name>
-      <description>第21旅（後編）</description>
+      <description>7巻 P38 第21旅（後編）</description>
       <styleUrl>#icon-1899-DB4436-labelson</styleUrl>
       <Point>
         <coordinates>
@@ -3694,7 +3624,7 @@
     </Placemark>
     <Placemark>
       <name>湯川第２街区公園</name>
-      <description>第21旅（後編）</description>
+      <description>7巻 P39 第21旅（後編）</description>
       <styleUrl>#icon-1899-DB4436-labelson</styleUrl>
       <Point>
         <coordinates>
@@ -3704,7 +3634,7 @@
     </Placemark>
     <Placemark>
       <name>函館市熱帯植物園駐車場</name>
-      <description>第21旅（後編）</description>
+      <description>7巻 P39 第21旅（後編）</description>
       <styleUrl>#icon-1899-DB4436-labelson</styleUrl>
       <Point>
         <coordinates>
@@ -3714,7 +3644,7 @@
     </Placemark>
     <Placemark>
       <name>湯川堤防</name>
-      <description>第21旅（後編）</description>
+      <description>7巻 P40 第21旅（後編）</description>
       <styleUrl>#icon-1899-DB4436-labelson</styleUrl>
       <Point>
         <coordinates>
@@ -3724,7 +3654,7 @@
     </Placemark>
     <Placemark>
       <name>函館麺や 一文字 函館総本店</name>
-      <description>第21旅（後編）</description>
+      <description>7巻 P43 第21旅（後編）</description>
       <styleUrl>#icon-1899-DB4436-labelson</styleUrl>
       <Point>
         <coordinates>
@@ -3734,7 +3664,7 @@
     </Placemark>
     <Placemark>
       <name>漁火通</name>
-      <description>第21旅（後編）</description>
+      <description>7巻 P45 第21旅（後編）</description>
       <styleUrl>#icon-1899-DB4436-labelson</styleUrl>
       <Point>
         <coordinates>
@@ -3744,7 +3674,7 @@
     </Placemark>
     <Placemark>
       <name>日乃出ひまわり</name>
-      <description>第21旅（後編）</description>
+      <description>7巻 P45 第21旅（後編）</description>
       <styleUrl>#icon-1899-DB4436-labelson</styleUrl>
       <Point>
         <coordinates>
@@ -3754,7 +3684,7 @@
     </Placemark>
     <Placemark>
       <name>東屋（四阿）</name>
-      <description>第21旅（後編）</description>
+      <description>7巻 P46 第21旅（後編）</description>
       <styleUrl>#icon-1899-DB4436-labelson</styleUrl>
       <Point>
         <coordinates>
@@ -3764,7 +3694,7 @@
     </Placemark>
     <Placemark>
       <name>函館グルメ回転ずし函太郎 宇賀浦本店</name>
-      <description>第21旅（後編）</description>
+      <description>7巻 P46 第21旅（後編）</description>
       <styleUrl>#icon-1899-DB4436-labelson</styleUrl>
       <Point>
         <coordinates>
@@ -3774,7 +3704,7 @@
     </Placemark>
     <Placemark>
       <name>大森町</name>
-      <description>第21旅（後編）</description>
+      <description>7巻 P49 第21旅（後編）</description>
       <styleUrl>#icon-1899-DB4436-labelson</styleUrl>
       <Point>
         <coordinates>
@@ -3784,7 +3714,7 @@
     </Placemark>
     <Placemark>
       <name>石川啄木一族の墓</name>
-      <description>第21旅（後編）</description>
+      <description>7巻 P49 第21旅（後編）</description>
       <styleUrl>#icon-1899-DB4436-labelson</styleUrl>
       <Point>
         <coordinates>
@@ -3794,7 +3724,7 @@
     </Placemark>
     <Placemark>
       <name>立待岬</name>
-      <description>第21旅（後編）</description>
+      <description>7巻 P50 第21旅（後編）</description>
       <styleUrl>#icon-1899-DB4436-labelson</styleUrl>
       <Point>
         <coordinates>
@@ -3804,7 +3734,7 @@
     </Placemark>
     <Placemark>
       <name>北海道駒ヶ岳</name>
-      <description>第21旅（後編）</description>
+      <description>7巻 P52 第21旅（後編）</description>
       <styleUrl>#icon-1899-DB4436-labelson</styleUrl>
       <Point>
         <coordinates>
@@ -3814,7 +3744,7 @@
     </Placemark>
     <Placemark>
       <name>森駅</name>
-      <description>第21旅（後編）</description>
+      <description>7巻 P62 第21旅（後編）</description>
       <styleUrl>#icon-1899-DB4436-labelson</styleUrl>
       <Point>
         <coordinates>
@@ -3824,7 +3754,7 @@
     </Placemark>
     <Placemark>
       <name>大沼国定公園</name>
-      <description>第21旅（後編）</description>
+      <description>7巻 P63 第21旅（後編）</description>
       <styleUrl>#icon-1899-DB4436-labelson</styleUrl>
       <Point>
         <coordinates>
@@ -3834,7 +3764,7 @@
     </Placemark>
     <Placemark>
       <name>月見橋</name>
-      <description>第21旅（後編）</description>
+      <description>7巻 P63 第21旅（後編）</description>
       <styleUrl>#icon-1899-DB4436-labelson</styleUrl>
       <Point>
         <coordinates>
@@ -3843,8 +3773,18 @@
       </Point>
     </Placemark>
     <Placemark>
+      <name>函館市青函連絡船記念館摩周丸</name>
+      <description>7巻 P67</description>
+      <styleUrl>#icon-1899-DB4436-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          140.7217916,41.7728789,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
       <name>品川駅</name>
-      <description>第22旅（前編）</description>
+      <description>7巻 P72 第22旅（前編）</description>
       <styleUrl>#icon-1899-DB4436-labelson</styleUrl>
       <Point>
         <coordinates>
@@ -3854,7 +3794,7 @@
     </Placemark>
     <Placemark>
       <name>羽田空港第１・第２ターミナル駅</name>
-      <description>第22旅（前編）</description>
+      <description>7巻 P75 第22旅（前編）</description>
       <styleUrl>#icon-1899-DB4436-labelson</styleUrl>
       <Point>
         <coordinates>
@@ -3864,7 +3804,7 @@
     </Placemark>
     <Placemark>
       <name>羽田空港</name>
-      <description>第22旅（前編）</description>
+      <description>7巻 P76 第22旅（前編）</description>
       <styleUrl>#icon-1899-DB4436-labelson</styleUrl>
       <Point>
         <coordinates>
@@ -3874,7 +3814,7 @@
     </Placemark>
     <Placemark>
       <name>紋別空港（オホーツク紋別空港）</name>
-      <description>第22旅（前編）</description>
+      <description>7巻 P85 第22旅（前編）</description>
       <styleUrl>#icon-1899-DB4436-labelson</styleUrl>
       <Point>
         <coordinates>
@@ -3884,7 +3824,7 @@
     </Placemark>
     <Placemark>
       <name>トヨタレンタリース北見 紋別空港カウンター</name>
-      <description>第22旅（前編）</description>
+      <description>7巻 P86 第22旅（前編）</description>
       <styleUrl>#icon-1899-DB4436-labelson</styleUrl>
       <Point>
         <coordinates>
@@ -3894,7 +3834,7 @@
     </Placemark>
     <Placemark>
       <name>海のゲート</name>
-      <description>第22旅（前編）</description>
+      <description>7巻 P90 第22旅（前編）</description>
       <styleUrl>#icon-1899-DB4436-labelson</styleUrl>
       <Point>
         <coordinates>
@@ -3904,7 +3844,7 @@
     </Placemark>
     <Placemark>
       <name>クロスカントリーコース</name>
-      <description>第22旅（前編）</description>
+      <description>7巻 P90 第22旅（前編）</description>
       <styleUrl>#icon-1899-DB4436-labelson</styleUrl>
       <Point>
         <coordinates>
@@ -3914,7 +3854,7 @@
     </Placemark>
     <Placemark>
       <name>ワンズレンタカー紋別店</name>
-      <description>第22旅（前編）</description>
+      <description>7巻 P92 第22旅（前編）</description>
       <styleUrl>#icon-1899-DB4436-labelson</styleUrl>
       <Point>
         <coordinates>
@@ -3924,7 +3864,7 @@
     </Placemark>
     <Placemark>
       <name>松寿し</name>
-      <description>第22旅（前編）</description>
+      <description>7巻 P95 第22旅（前編）</description>
       <styleUrl>#icon-1899-DB4436-labelson</styleUrl>
       <Point>
         <coordinates>
@@ -3934,7 +3874,7 @@
     </Placemark>
     <Placemark>
       <name>角川第2本社ビル</name>
-      <description>第22旅（後編）</description>
+      <description>7巻 P97 第22旅（後編）</description>
       <styleUrl>#icon-1899-DB4436-labelson</styleUrl>
       <Point>
         <coordinates>
@@ -3944,7 +3884,7 @@
     </Placemark>
     <Placemark>
       <name>オホーツクの塔</name>
-      <description>第22旅（後編）</description>
+      <description>7巻 P99 第22旅（後編）</description>
       <styleUrl>#icon-1899-DB4436-labelson</styleUrl>
       <Point>
         <coordinates>
@@ -3954,7 +3894,7 @@
     </Placemark>
     <Placemark>
       <name>能取の荘 かがり屋</name>
-      <description>第22旅（後編）</description>
+      <description>7巻 P100 第22旅（後編）</description>
       <styleUrl>#icon-1899-DB4436-labelson</styleUrl>
       <Point>
         <coordinates>
@@ -3964,7 +3904,7 @@
     </Placemark>
     <Placemark>
       <name>卯原内サンゴ草群落地</name>
-      <description>第22旅（後編）</description>
+      <description>7巻 P104 第22旅（後編）</description>
       <styleUrl>#icon-1899-DB4436-labelson</styleUrl>
       <Point>
         <coordinates>
@@ -3974,7 +3914,7 @@
     </Placemark>
     <Placemark>
       <name>能取岬</name>
-      <description>第22旅（後編）</description>
+      <description>7巻 P107 第22旅（後編）</description>
       <styleUrl>#icon-1899-DB4436-labelson</styleUrl>
       <Point>
         <coordinates>
@@ -3984,7 +3924,7 @@
     </Placemark>
     <Placemark>
       <name>能取岬灯台</name>
-      <description>第22旅（後編）</description>
+      <description>7巻 P108 第22旅（後編）</description>
       <styleUrl>#icon-1899-DB4436-labelson</styleUrl>
       <Point>
         <coordinates>
@@ -3993,18 +3933,8 @@
       </Point>
     </Placemark>
     <Placemark>
-      <name>中湧別駅跡</name>
-      <description>7巻表紙</description>
-      <styleUrl>#icon-1899-DB4436-labelson</styleUrl>
-      <Point>
-        <coordinates>
-          143.5957829,44.1853551,0
-        </coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
       <name>天に続く道スタート地点</name>
-      <description>第22旅（後編）</description>
+      <description>7巻 P112 第22旅（後編）</description>
       <styleUrl>#icon-1899-DB4436-labelson</styleUrl>
       <Point>
         <coordinates>
@@ -4014,7 +3944,7 @@
     </Placemark>
     <Placemark>
       <name>オシンコシン展望台</name>
-      <description>第22旅（後編）</description>
+      <description>7巻 P115 第22旅（後編）</description>
       <styleUrl>#icon-1899-DB4436-labelson</styleUrl>
       <Point>
         <coordinates>
@@ -4024,7 +3954,7 @@
     </Placemark>
     <Placemark>
       <name>道の駅 うとろ・シリエトク</name>
-      <description>第22旅（後編）</description>
+      <description>7巻 P115 第22旅（後編）</description>
       <styleUrl>#icon-1899-DB4436-labelson</styleUrl>
       <Point>
         <coordinates>
@@ -4034,7 +3964,7 @@
     </Placemark>
     <Placemark>
       <name>知床横断道路通行止め</name>
-      <description>第22旅（後編）</description>
+      <description>7巻 P116 第22旅（後編）</description>
       <styleUrl>#icon-1899-DB4436-labelson</styleUrl>
       <Point>
         <coordinates>
@@ -4044,7 +3974,7 @@
     </Placemark>
     <Placemark>
       <name>知床自然センター</name>
-      <description>第22旅（後編）</description>
+      <description>7巻 P116 第22旅（後編）</description>
       <styleUrl>#icon-1899-DB4436-labelson</styleUrl>
       <Point>
         <coordinates>
@@ -4054,7 +3984,7 @@
     </Placemark>
     <Placemark>
       <name>羅臼岳</name>
-      <description>第22旅（後編）</description>
+      <description>7巻 P117 第22旅（後編）</description>
       <styleUrl>#icon-1899-DB4436-labelson</styleUrl>
       <Point>
         <coordinates>
@@ -4064,7 +3994,7 @@
     </Placemark>
     <Placemark>
       <name>幌別橋</name>
-      <description>第22旅（後編）</description>
+      <description>7巻 P119 第22旅（後編）</description>
       <styleUrl>#icon-1899-DB4436-labelson</styleUrl>
       <Point>
         <coordinates>
@@ -4074,11 +4004,361 @@
     </Placemark>
     <Placemark>
       <name>美白の湯宿 大江本家</name>
-      <description>第22旅（後編）</description>
+      <description>7巻 P119 第22旅（後編）</description>
       <styleUrl>#icon-1899-DB4436-labelson</styleUrl>
       <Point>
         <coordinates>
           143.5082092,43.7597063,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>中湧別駅跡</name>
+      <description><![CDATA[7巻表紙<br>7巻 P123 第22旅（後編）]]></description>
+      <styleUrl>#icon-1899-DB4436-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          143.5957829,44.1853551,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>湧別大橋</name>
+      <description>7巻 P125 第22旅（後編）</description>
+      <styleUrl>#icon-1899-DB4436-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          143.5970975,44.2157837,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>道々橋八幡神社</name>
+      <description>7巻 P126 第22旅（後編）</description>
+      <styleUrl>#icon-1899-DB4436-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          139.69341,35.5857414,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>オホーツクスカイタワー</name>
+      <description>7巻 P129</description>
+      <styleUrl>#icon-1899-DB4436-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          143.3247488,44.3420858,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>浦佐駅</name>
+      <description>7巻 P133 出張版</description>
+      <styleUrl>#icon-1899-DB4436-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          138.9228047,37.1674363,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>白米探し中</name>
+      <description>7巻 P133 出張版</description>
+      <styleUrl>#icon-1899-DB4436-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          138.9213359,37.1680435,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>毘沙門堂</name>
+      <description>7巻 P134 出張版</description>
+      <styleUrl>#icon-1899-DB4436-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          138.9193517,37.1700727,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>地蔵清水</name>
+      <description>7巻 P135 出張版</description>
+      <styleUrl>#icon-1899-DB4436-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          138.9221463,37.1748913,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>モンブラン</name>
+      <description>7巻 P138 出張版</description>
+      <styleUrl>#icon-1899-DB4436-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          138.9678273,37.2276799,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>道の駅 ゆのたに</name>
+      <description>7巻 P139 出張版</description>
+      <styleUrl>#icon-1899-DB4436-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          138.9827934,37.2239146,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>魚沼市インフォメーションセンター（一般社団法人魚沼市観光協会）</name>
+      <description>7巻 P139 出張版</description>
+      <styleUrl>#icon-1899-DB4436-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          138.9821788,37.2243869,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>栃尾又ラジウム温泉 自在館</name>
+      <description>7巻 P1,140 出張版</description>
+      <styleUrl>#icon-1899-DB4436-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          139.0860494,37.1852372,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>鋸山山頂</name>
+      <description><![CDATA[電撃マオウ200号表紙<br>第23旅]]></description>
+      <styleUrl>#icon-1899-0288D1-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          139.8284768,35.1584928,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>千倉駅</name>
+      <description>第23旅</description>
+      <styleUrl>#icon-1899-0288D1-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          139.9547124,34.9767087,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>瀬戸浜海岸</name>
+      <description>第23旅</description>
+      <styleUrl>#icon-1899-0288D1-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          139.962721,34.973351,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>川尻橋</name>
+      <description>第23旅</description>
+      <styleUrl>#icon-1899-0288D1-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          139.9596901,34.9638919,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>南房総市観光協会千倉観光案内所(千倉駅構内)</name>
+      <description>第23旅</description>
+      <styleUrl>#icon-1899-0288D1-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          139.9545765,34.976704,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>寿司と地魚料理 大徳家</name>
+      <description>第23旅</description>
+      <styleUrl>#icon-1899-0288D1-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          139.9593564,34.9602825,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>千葉銀行 千倉支店</name>
+      <description>第23旅</description>
+      <styleUrl>#icon-1899-0288D1-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          139.9592,34.95936,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>とん亭いとう</name>
+      <description>第23旅</description>
+      <styleUrl>#icon-1899-0288D1-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          139.9590959,34.9578678,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>大川港</name>
+      <description>第23旅</description>
+      <styleUrl>#icon-1899-0288D1-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          139.9482785,34.9281873,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>高皇産霊神社</name>
+      <description>第23旅</description>
+      <styleUrl>#icon-1899-0288D1-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          139.9447202,34.9348076,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>房総半島最南端之碑</name>
+      <description>第23旅</description>
+      <styleUrl>#icon-1899-0288D1-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          139.8880755,34.9003949,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>野島埼灯台</name>
+      <description>第23旅</description>
+      <styleUrl>#icon-1899-0288D1-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          139.8883406,34.9017272,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>最南端</name>
+      <description>第23旅</description>
+      <styleUrl>#icon-1899-0288D1-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          139.879022,34.904775,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>安房神社</name>
+      <description>第23旅</description>
+      <styleUrl>#icon-1899-0288D1-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          139.8368799,34.9224666,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>浜金谷駅</name>
+      <description>第23旅</description>
+      <styleUrl>#icon-1899-0288D1-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          139.8222539,35.1681316,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>鋸山ロープウェー</name>
+      <description>第23旅</description>
+      <styleUrl>#icon-1899-0288D1-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          139.8230802,35.1622171,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>西口管理所</name>
+      <description>第23旅</description>
+      <styleUrl>#icon-1899-0288D1-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          139.8308355,35.1582302,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>石切場跡(ラピュタの壁)</name>
+      <description>第23旅</description>
+      <styleUrl>#icon-1899-0288D1-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          139.8326737,35.1591666,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>百尺観音</name>
+      <description>第23旅</description>
+      <styleUrl>#icon-1899-0288D1-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          139.8329306,35.1590417,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>山頂展望台地獄のぞき</name>
+      <description>第23旅</description>
+      <styleUrl>#icon-1899-0288D1-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          139.8331931,35.1592647,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>千五百羅漢</name>
+      <description>第23旅</description>
+      <styleUrl>#icon-1899-0288D1-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          139.8328907,35.1581159,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>通天関</name>
+      <description>第23旅</description>
+      <styleUrl>#icon-1899-0288D1-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          139.8344269,35.1588017,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>日本寺 大仏</name>
+      <description>第23旅</description>
+      <styleUrl>#icon-1899-0288D1-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          139.8346891,35.1576699,0
         </coordinates>
       </Point>
     </Placemark>
