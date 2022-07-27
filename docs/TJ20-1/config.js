@@ -57,7 +57,7 @@ const config = {
       title: '師匠はよしてって～',
       image: '',
       tweet_id: '',
-      description: '<p>6巻 P72  高知県南国市 駅前町二丁目3</p> <p><img alt="nankoku_20190905111300" src="https://live.staticflickr.com/65535/49844880672_539a7d01db_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=33.5788333&amp;lon=133.6458189&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【nankoku_20190905111300】 by inunami</p>',
+      description: '<p>6巻 P72  高知県南国市 駅前町二丁目3</p> <p><img alt="#広島県 #宮島町 #厳島神社 #宮島鳥居" src="https://live.staticflickr.com/3785/8840126197_0cfc847b16_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=33.5788333&amp;lon=133.6458189&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【#広島県 #宮島町 #厳島神社 #宮島鳥居】 by Armouredghost</p>',
       location: {
         center: [133.6458189, 33.5788333],
         zoom: 14,
@@ -77,7 +77,7 @@ const config = {
       title: 'ショッピングセンター パステポコ・ア・ポコ南国店',
       image: '',
       tweet_id: '',
-      description: '<p>6巻 P73  高知県南国市 駅前町二丁目3</p> <p><img alt="nankoku_20190905111603" src="https://live.staticflickr.com/65535/49844880412_6cbf656155_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=33.578697&amp;lon=133.6453861&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【nankoku_20190905111603】 by inunami</p>',
+      description: '<p>6巻 P73  高知県南国市 駅前町二丁目3</p> <p><img alt="nankoku_20190905111300" src="https://live.staticflickr.com/65535/49844880672_539a7d01db_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=33.578697&amp;lon=133.6453861&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【nankoku_20190905111300】 by inunami</p>',
       location: {
         center: [133.6453861, 33.578697],
         zoom: 14,
@@ -156,8 +156,8 @@ const config = {
       hidden: false,
       title: 'はりまや橋',
       image: '',
-      tweet_id: '1548125753250029569',
-      description: '<p>6巻 P80  高知県高知市 はりまや町一丁目1</p><div class="tweetContainer" id="tweet1548125753250029569"></div> ',
+      tweet_id: '1550795964750766080',
+      description: '<p>6巻 P80  高知県高知市 はりまや町一丁目1</p><div class="tweetContainer" id="tweet1550795964750766080"></div> ',
       location: {
         center: [133.5426569, 33.5599438],
         zoom: 14,
@@ -177,7 +177,7 @@ const config = {
       title: '桟橋通五丁目駅',
       image: '',
       tweet_id: '',
-      description: '<p>6巻 P80  高知県高知市 桟橋通五丁目3</p> <p><img alt="591" src="https://live.staticflickr.com/6154/6215293006_9516b79608_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=33.5404756&amp;lon=133.5527511&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【591】 by ssoosuke</p>',
+      description: '<p>6巻 P80  高知県高知市 桟橋通五丁目3</p> <p><img alt="とさでん04" src="https://live.staticflickr.com/4181/34638857072_c7b3f17494_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=33.5404756&amp;lon=133.5527511&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【とさでん04】 by O_Kazunori_</p>',
       location: {
         center: [133.5527511, 33.5404756],
         zoom: 14,

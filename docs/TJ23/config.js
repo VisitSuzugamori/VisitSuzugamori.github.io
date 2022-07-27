@@ -456,8 +456,8 @@ const config = {
       hidden: false,
       title: '日本寺 大仏',
       image: '',
-      tweet_id: '1548106768764375040',
-      description: '<p>   千葉県安房郡 鋸南町 元名</p><div class="tweetContainer" id="tweet1548106768764375040"></div> ',
+      tweet_id: '',
+      description: '<p>   千葉県安房郡 鋸南町 元名</p> <p><img alt="Nihon-ji on Mount Nokogiri (Futtsu/Kyonan, Chiba, Japan)" src="https://live.staticflickr.com/65535/51772613160_17423320d9_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.1576699&amp;lon=139.8346891&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Nihon-ji on Mount Nokogiri (Futtsu/Kyonan, Chiba, Japan)】 by t-mizo</p>',
       location: {
         center: [139.8346891, 35.1576699],
         zoom: 14,
