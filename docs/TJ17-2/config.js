@@ -57,7 +57,7 @@ const config = {
       title: '両子寺',
       image: '',
       tweet_id: '',
-      description: '<p>5巻 P105  大分県国東市 </p> <p><img alt="torii" src="https://live.staticflickr.com/65535/51981540418_26dc559165_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=33.5740013&amp;lon=131.603241&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【torii】 by MURATAGAWA Kei</p>',
+      description: '<p>5巻 P105  大分県国東市 </p> <p><img alt="oku-no-inn" src="https://live.staticflickr.com/65535/51982037700_732c5d8ca3_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=33.5740013&amp;lon=131.603241&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【oku-no-inn】 by MURATAGAWA Kei</p>',
       location: {
         center: [131.603241, 33.5740013],
         zoom: 14,
@@ -76,8 +76,8 @@ const config = {
       hidden: false,
       title: 'USA（宇佐）神宮',
       image: '',
-      tweet_id: '1548896155161042944',
-      description: '<p>5巻 P108  大分県宇佐市 南宇佐2859</p><div class="tweetContainer" id="tweet1548896155161042944"></div> ',
+      tweet_id: '',
+      description: '<p>5巻 P108  大分県宇佐市 南宇佐2859</p> <p><img alt="能舞台" src="https://live.staticflickr.com/65535/52058145674_12e1734f6a_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=33.5260019&amp;lon=131.3746381&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【能舞台】 by furachi</p>',
       location: {
         center: [131.3746381, 33.5260019],
         zoom: 14,

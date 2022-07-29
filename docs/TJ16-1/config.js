@@ -16,8 +16,8 @@ const config = {
       hidden: false,
       title: '東京駅',
       image: '',
-      tweet_id: '1551916057249841152',
-      description: '<p>5巻 P3  東京都千代田区 丸の内一丁目9</p><div class="tweetContainer" id="tweet1551916057249841152"></div> ',
+      tweet_id: '1551539573225730049',
+      description: '<p>5巻 P3  東京都千代田区 丸の内一丁目9</p><div class="tweetContainer" id="tweet1551539573225730049"></div> ',
       location: {
         center: [139.7671248, 35.6812362],
         zoom: 14,
@@ -336,8 +336,8 @@ const config = {
       hidden: false,
       title: 'セブン-イレブン 日立下深荻町店',
       image: '',
-      tweet_id: '1549019425948553221',
-      description: '<p>5巻 P28  茨城県日立市 </p><div class="tweetContainer" id="tweet1549019425948553221"></div> ',
+      tweet_id: '',
+      description: '<p>5巻 P28  茨城県日立市 </p> ',
       location: {
         center: [140.545687, 36.6365535],
         zoom: 14,

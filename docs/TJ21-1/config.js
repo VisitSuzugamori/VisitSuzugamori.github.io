@@ -156,8 +156,8 @@ const config = {
       hidden: false,
       title: '金森赤レンガ倉庫',
       image: '',
-      tweet_id: '1549237004784701440',
-      description: '<p>7巻   北海道函館市 豊川町11</p><div class="tweetContainer" id="tweet1549237004784701440"></div> ',
+      tweet_id: '1549993491387756544',
+      description: '<p>7巻   北海道函館市 豊川町11</p><div class="tweetContainer" id="tweet1549993491387756544"></div> ',
       location: {
         center: [140.7176349, 41.7673531],
         zoom: 14,
@@ -177,7 +177,7 @@ const config = {
       title: 'カリフォルニアベイビー',
       image: '',
       tweet_id: '',
-      description: '<p>7巻   北海道函館市 末広町23</p> <p><img alt="函館" src="https://live.staticflickr.com/65535/51033844393_c822bfb2a1_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=41.7659929&amp;lon=140.7146335&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【函館】 by Chitaka Chou</p>',
+      description: '<p>7巻   北海道函館市 末広町23</p> <p><img alt="IMG_6283s" src="https://live.staticflickr.com/65535/49420327072_afa5b5a302_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=41.7659929&amp;lon=140.7146335&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【IMG_6283s】 by 小宗宗</p>',
       location: {
         center: [140.7146335, 41.7659929],
         zoom: 14,
@@ -197,7 +197,7 @@ const config = {
       title: '二十間坂',
       image: '',
       tweet_id: '',
-      description: '<p>7巻   北海道函館市 末広町16</p> <p><img alt="_T2A6402" src="https://live.staticflickr.com/65535/49755627163_c35852233a_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=41.7643549&amp;lon=140.7161274&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【_T2A6402】 by tculek</p>',
+      description: '<p>7巻   北海道函館市 末広町16</p> <p><img alt="DSC_0504" src="https://live.staticflickr.com/65535/51373178361_b4102b2024_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=41.7643549&amp;lon=140.7161274&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【DSC_0504】 by ylefou2004</p>',
       location: {
         center: [140.7161274, 41.7643549],
         zoom: 14,
@@ -236,8 +236,8 @@ const config = {
       hidden: false,
       title: '函館山ロープウェイ山麓駅',
       image: '',
-      tweet_id: '1548835519118835714',
-      description: '<p>7巻   北海道函館市 元町19</p><div class="tweetContainer" id="tweet1548835519118835714"></div> ',
+      tweet_id: '',
+      description: '<p>7巻   北海道函館市 元町19</p> <p><img alt="_DSC2833" src="https://live.staticflickr.com/65535/51568966396_d672f1c502_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=41.7609078&amp;lon=140.7143007&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【_DSC2833】 by de98lip</p>',
       location: {
         center: [140.7143007, 41.7609078],
         zoom: 14,
