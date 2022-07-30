@@ -36,8 +36,8 @@ const config = {
       hidden: false,
       title: '京都駅',
       image: '',
-      tweet_id: '1550622007267512320',
-      description: '<p>2巻 P6  京都府京都市 下京区 東塩小路町676</p><div class="tweetContainer" id="tweet1550622007267512320"></div> ',
+      tweet_id: '1553103697739399168',
+      description: '<p>2巻 P6  京都府京都市 下京区 東塩小路町676</p><div class="tweetContainer" id="tweet1553103697739399168"></div> ',
       location: {
         center: [135.7587667, 34.985849],
         zoom: 14,
@@ -76,8 +76,8 @@ const config = {
       hidden: false,
       title: '月桂冠大倉記念館',
       image: '',
-      tweet_id: '1552626267710984192',
-      description: '<p>2巻 P17  京都府京都市 伏見区 本材木町680</p><div class="tweetContainer" id="tweet1552626267710984192"></div> ',
+      tweet_id: '1553338892274638849',
+      description: '<p>2巻 P17  京都府京都市 伏見区 本材木町680</p><div class="tweetContainer" id="tweet1553338892274638849"></div> ',
       location: {
         center: [135.76161, 34.929136],
         zoom: 14,
@@ -236,8 +236,8 @@ const config = {
       hidden: false,
       title: '天橋立',
       image: '',
-      tweet_id: '1549336130725679110',
-      description: '<p>2巻 P35  京都府宮津市 字江尻927</p><div class="tweetContainer" id="tweet1549336130725679110"></div> ',
+      tweet_id: '1551105281694007296',
+      description: '<p>2巻 P35  京都府宮津市 字江尻927</p><div class="tweetContainer" id="tweet1551105281694007296"></div> ',
       location: {
         center: [135.1918204, 35.5698022],
         zoom: 14,

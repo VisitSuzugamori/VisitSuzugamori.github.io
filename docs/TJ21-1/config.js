@@ -36,8 +36,8 @@ const config = {
       hidden: false,
       title: '新函館北斗駅',
       image: '',
-      tweet_id: '1549574469693214720',
-      description: '<p>7巻   北海道北斗市 市渡一丁目1</p><div class="tweetContainer" id="tweet1549574469693214720"></div> ',
+      tweet_id: '1550339933558263808',
+      description: '<p>7巻   北海道北斗市 市渡一丁目1</p><div class="tweetContainer" id="tweet1550339933558263808"></div> ',
       location: {
         center: [140.6483763, 41.9046983],
         zoom: 14,
@@ -56,8 +56,8 @@ const config = {
       hidden: false,
       title: 'この「↓」',
       image: '',
-      tweet_id: '1549640830184411136',
-      description: '<p>7巻   北海道北斗市 市渡723</p><div class="tweetContainer" id="tweet1549640830184411136"></div> ',
+      tweet_id: '',
+      description: '<p>7巻   北海道北斗市 市渡723</p> <p><img alt="P_20160827_100914" src="https://live.staticflickr.com/539/31675873315_f0af2045e2_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=41.9024872&amp;lon=140.6523709&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【P_20160827_100914】 by laylamorita</p>',
       location: {
         center: [140.6523709, 41.9024872],
         zoom: 14,
@@ -177,7 +177,7 @@ const config = {
       title: 'カリフォルニアベイビー',
       image: '',
       tweet_id: '',
-      description: '<p>7巻   北海道函館市 末広町23</p> <p><img alt="IMG_6283s" src="https://live.staticflickr.com/65535/49420327072_afa5b5a302_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=41.7659929&amp;lon=140.7146335&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【IMG_6283s】 by 小宗宗</p>',
+      description: '<p>7巻   北海道函館市 末広町23</p> <p><img alt="函館" src="https://live.staticflickr.com/65535/51033844393_c822bfb2a1_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=41.7659929&amp;lon=140.7146335&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【函館】 by Chitaka Chou</p>',
       location: {
         center: [140.7146335, 41.7659929],
         zoom: 14,
