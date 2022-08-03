@@ -57,7 +57,7 @@ const config = {
       title: '藤岡酒造',
       image: '',
       tweet_id: '',
-      description: '<p>2巻 P16  京都府京都市 伏見区 今町669</p> <p><img alt="ラーメン・明太子定食" src="https://live.staticflickr.com/65535/50011517023_820f1aa7c5_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.9351213&amp;lon=135.7624568&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【ラーメン・明太子定食】 by albertus</p>',
+      description: '<p>2巻 P16  京都府京都市 伏見区 今町669</p> <p><img alt="珍遊のラーメン" src="https://live.staticflickr.com/65535/50115002776_30c119f009_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.9351213&amp;lon=135.7624568&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【珍遊のラーメン】 by albertus</p>',
       location: {
         center: [135.7624568, 34.9351213],
         zoom: 14,
@@ -116,8 +116,8 @@ const config = {
       hidden: false,
       title: '伏見稲荷駅',
       image: '',
-      tweet_id: '1550791331726782464',
-      description: '<p>2巻 P18  京都府京都市 伏見区 深草一ノ坪町20</p><div class="tweetContainer" id="tweet1550791331726782464"></div> ',
+      tweet_id: '1553854953898536960',
+      description: '<p>2巻 P18  京都府京都市 伏見区 深草一ノ坪町20</p><div class="tweetContainer" id="tweet1553854953898536960"></div> ',
       location: {
         center: [135.7692088, 34.9687541],
         zoom: 14,
@@ -216,8 +216,8 @@ const config = {
       hidden: false,
       title: '天橋立ビューランド',
       image: '',
-      tweet_id: '1552134398325161984',
-      description: '<p>2巻 P32  京都府宮津市 文珠1</p><div class="tweetContainer" id="tweet1552134398325161984"></div> ',
+      tweet_id: '1553292194869641217',
+      description: '<p>2巻 P32  京都府宮津市 文珠1</p><div class="tweetContainer" id="tweet1553292194869641217"></div> ',
       location: {
         center: [135.1821171, 35.5527779],
         zoom: 14,
@@ -236,8 +236,8 @@ const config = {
       hidden: false,
       title: '天橋立',
       image: '',
-      tweet_id: '1551105281694007296',
-      description: '<p>2巻 P35  京都府宮津市 字江尻927</p><div class="tweetContainer" id="tweet1551105281694007296"></div> ',
+      tweet_id: '1554416820932685824',
+      description: '<p>2巻 P35  京都府宮津市 字江尻927</p><div class="tweetContainer" id="tweet1554416820932685824"></div> ',
       location: {
         center: [135.1918204, 35.5698022],
         zoom: 14,

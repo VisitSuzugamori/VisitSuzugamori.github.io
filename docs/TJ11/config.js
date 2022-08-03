@@ -76,8 +76,8 @@ const config = {
       hidden: false,
       title: '潮岬灯台',
       image: '',
-      tweet_id: '1553197566292271105',
-      description: '<p>3巻 P62  和歌山県東牟婁郡 串本町 </p><div class="tweetContainer" id="tweet1553197566292271105"></div> ',
+      tweet_id: '1554310983023460352',
+      description: '<p>3巻 P62  和歌山県東牟婁郡 串本町 </p><div class="tweetContainer" id="tweet1554310983023460352"></div> ',
       location: {
         center: [135.7544642, 33.4375625],
         zoom: 14,
@@ -96,8 +96,8 @@ const config = {
       hidden: false,
       title: '本州最南端の碑',
       image: '',
-      tweet_id: '1550745475405361152',
-      description: '<p>3巻 P64  和歌山県東牟婁郡 串本町 </p><div class="tweetContainer" id="tweet1550745475405361152"></div> ',
+      tweet_id: '1553642125660651520',
+      description: '<p>3巻 P64  和歌山県東牟婁郡 串本町 </p><div class="tweetContainer" id="tweet1553642125660651520"></div> ',
       location: {
         center: [135.7621203, 33.4362401],
         zoom: 14,
@@ -156,8 +156,8 @@ const config = {
       hidden: false,
       title: '潮岬観光タワー',
       image: '',
-      tweet_id: '1550742458039906304',
-      description: '<p>3巻 P71  和歌山県東牟婁郡 串本町 </p><div class="tweetContainer" id="tweet1550742458039906304"></div> ',
+      tweet_id: '1553265071438016512',
+      description: '<p>3巻 P71  和歌山県東牟婁郡 串本町 </p><div class="tweetContainer" id="tweet1553265071438016512"></div> ',
       location: {
         center: [135.7613677, 33.437806],
         zoom: 14,
@@ -217,7 +217,7 @@ const config = {
       title: 'くまのこ食堂',
       image: '',
       tweet_id: '',
-      description: '<p>3巻 P81  和歌山県田辺市 本宮町本宮</p> <p><img alt="20190929" src="https://live.staticflickr.com/65535/51530861199_e88faf506e_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=33.834421&amp;lon=135.7723926&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【20190929】 by trlintw</p>',
+      description: '<p>3巻 P81  和歌山県田辺市 本宮町本宮</p> <p><img alt="20190417-Canon EOS 6D Mark II-0486" src="https://live.staticflickr.com/65535/49131762951_41fb2df318_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=33.834421&amp;lon=135.7723926&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【20190417-Canon EOS 6D Mark II-0486】 by Bartek Rozanski</p>',
       location: {
         center: [135.7723926, 33.834421],
         zoom: 14,
@@ -236,8 +236,8 @@ const config = {
       hidden: false,
       title: '熊野本宮大社',
       image: '',
-      tweet_id: '1551030733963247616',
-      description: '<p>3巻 P82  和歌山県田辺市 本宮町本宮</p><div class="tweetContainer" id="tweet1551030733963247616"></div> ',
+      tweet_id: '1554044172340183040',
+      description: '<p>3巻 P82  和歌山県田辺市 本宮町本宮</p><div class="tweetContainer" id="tweet1554044172340183040"></div> ',
       location: {
         center: [135.7734753, 33.8405706],
         zoom: 14,

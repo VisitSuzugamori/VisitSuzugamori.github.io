@@ -177,7 +177,7 @@ const config = {
       title: 'うな真石田家',
       image: '',
       tweet_id: '',
-      description: '<p>1巻 P76  宮城県宮城郡 松島町 松島字仙隨</p> <p><img alt="松島" src="https://live.staticflickr.com/65535/52031768689_cb06df2a7f_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=38.3707103&amp;lon=141.065417&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【松島】 by Chitaka Chou</p>',
+      description: '<p>1巻 P76  宮城県宮城郡 松島町 松島字仙隨</p> <p><img alt="松島" src="https://live.staticflickr.com/65535/52031519696_7d87d6c3b3_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=38.3707103&amp;lon=141.065417&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【松島】 by Chitaka Chou</p>',
       location: {
         center: [141.065417, 38.3707103],
         zoom: 14,

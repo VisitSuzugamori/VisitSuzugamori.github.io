@@ -76,8 +76,8 @@ const config = {
       hidden: false,
       title: '呉駅',
       image: '',
-      tweet_id: '1551906891801829376',
-      description: '<p>3巻 P11  広島県呉市 宝町2</p><div class="tweetContainer" id="tweet1551906891801829376"></div> ',
+      tweet_id: '1553349159767248897',
+      description: '<p>3巻 P11  広島県呉市 宝町2</p><div class="tweetContainer" id="tweet1553349159767248897"></div> ',
       location: {
         center: [132.5575846, 34.2446471],
         zoom: 14,
@@ -136,8 +136,8 @@ const config = {
       hidden: false,
       title: '大和ミュージアム（呉市海事歴史科学館）',
       image: '',
-      tweet_id: '',
-      description: '<p>3巻 P15  広島県呉市 宝町4</p> <p><img alt="呉港" src="https://live.staticflickr.com/65535/52150339465_3fd2800be1_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.2411391&amp;lon=132.5558555&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【呉港】 by Chitaka Chou</p>',
+      tweet_id: '1554276503860518912',
+      description: '<p>3巻 P15  広島県呉市 宝町4</p><div class="tweetContainer" id="tweet1554276503860518912"></div> ',
       location: {
         center: [132.5558555, 34.2411391],
         zoom: 14,
@@ -176,8 +176,8 @@ const config = {
       hidden: false,
       title: '尾道駅',
       image: '',
-      tweet_id: '1552533148411777024',
-      description: '<p>3巻 P19  広島県尾道市 東御所町1</p><div class="tweetContainer" id="tweet1552533148411777024"></div> ',
+      tweet_id: '1553618867083100160',
+      description: '<p>3巻 P19  広島県尾道市 東御所町1</p><div class="tweetContainer" id="tweet1553618867083100160"></div> ',
       location: {
         center: [133.193159, 34.4048654],
         zoom: 14,

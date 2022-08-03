@@ -97,7 +97,7 @@ const config = {
       title: '南房総市観光協会千倉観光案内所(千倉駅構内)',
       image: '',
       tweet_id: '',
-      description: '<p>   千葉県南房総市 千倉町瀬戸</p> <p><img alt="DSCF5060" src="https://live.staticflickr.com/959/27431164097_3d5c00b51b_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.976704&amp;lon=139.9545765&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【DSCF5060】 by yugo.sakai</p>',
+      description: '<p>   千葉県南房総市 千倉町瀬戸</p> <p><img alt="170813_PentaxMe_014" src="https://live.staticflickr.com/4440/37110335592_84ec214414_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.976704&amp;lon=139.9545765&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【170813_PentaxMe_014】 by Matsui Hiroyuki</p>',
       location: {
         center: [139.9545765, 34.976704],
         zoom: 14,
