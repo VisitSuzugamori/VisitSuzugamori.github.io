@@ -37,7 +37,7 @@ const config = {
       title: 'オホーツクの塔',
       image: '',
       tweet_id: '',
-      description: '<p>7巻   北海道網走市 </p> <p><img alt="sunrise at the north end - 北端の日の出" src="https://live.staticflickr.com/5497/10825033976_901f243647_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=44.1106685&amp;lon=144.2473548&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【sunrise at the north end - 北端の日の出】 by turntable00000</p>',
+      description: '<p>7巻   北海道網走市 </p> <p><img alt="L1009111" src="https://live.staticflickr.com/1897/43515868224_95bb4c0496_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=44.1106685&amp;lon=144.2473548&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【L1009111】 by bluepointchen</p>',
       location: {
         center: [144.2473548, 44.1106685],
         zoom: 14,
@@ -77,7 +77,7 @@ const config = {
       title: '卯原内サンゴ草群落地',
       image: '',
       tweet_id: '',
-      description: '<p>7巻   北海道網走市 </p> <p><img alt="Common glasswort around Lake Notoro,Abashiri city,Hokkaido 2021/09 No.3." src="https://live.staticflickr.com/65535/51750738833_80c92b89f9_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=44.013852&amp;lon=144.1167037&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Common glasswort around Lake Notoro,Abashiri city,Hokkaido 2021/09 No.3.】 by HIDE@Verdad</p>',
+      description: '<p>7巻   北海道網走市 </p> <p><img alt="Common glasswort around Lake Notoro,Abashiri city,Hokkaido 2021/09 No.4." src="https://live.staticflickr.com/65535/51751805897_a547808215_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=44.013852&amp;lon=144.1167037&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Common glasswort around Lake Notoro,Abashiri city,Hokkaido 2021/09 No.4.】 by HIDE@Verdad</p>',
       location: {
         center: [144.1167037, 44.013852],
         zoom: 14,
@@ -177,7 +177,7 @@ const config = {
       title: '道の駅 うとろ・シリエトク',
       image: '',
       tweet_id: '',
-      description: '<p>7巻   北海道斜里郡 斜里町 </p> <p><img alt="ウトロ港" src="https://live.staticflickr.com/65535/50388164322_a57d436be0_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=44.069034&amp;lon=144.990695&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【ウトロ港】 by Chitaka Chou</p>',
+      description: '<p>7巻   北海道斜里郡 斜里町 </p> <p><img alt="36222-Shiretoko" src="https://live.staticflickr.com/65535/49140707982_12234d6091_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=44.069034&amp;lon=144.990695&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【36222-Shiretoko】 by xiquinhosilva</p>',
       location: {
         center: [144.990695, 44.069034],
         zoom: 14,
@@ -216,8 +216,8 @@ const config = {
       hidden: false,
       title: '知床自然センター',
       image: '',
-      tweet_id: '1554070523109289984',
-      description: '<p>7巻   北海道斜里郡 斜里町 </p><div class="tweetContainer" id="tweet1554070523109289984"></div> ',
+      tweet_id: '1554761613332254720',
+      description: '<p>7巻   北海道斜里郡 斜里町 </p><div class="tweetContainer" id="tweet1554761613332254720"></div> ',
       location: {
         center: [145.0229617, 44.0914881],
         zoom: 14,

@@ -136,8 +136,8 @@ const config = {
       hidden: false,
       title: 'サンシャイン カルディア店',
       image: '',
-      tweet_id: '1551176453588492292',
-      description: '<p>6巻 P74  高知県南国市 後免町144</p><div class="tweetContainer" id="tweet1551176453588492292"></div> ',
+      tweet_id: '',
+      description: '<p>6巻 P74  高知県南国市 後免町144</p> ',
       location: {
         center: [133.6440005, 33.57513],
         zoom: 14,
@@ -177,7 +177,7 @@ const config = {
       title: '桟橋通五丁目駅',
       image: '',
       tweet_id: '',
-      description: '<p>6巻 P80  高知県高知市 桟橋通五丁目3</p> <p><img alt="とさでん04" src="https://live.staticflickr.com/4181/34638857072_c7b3f17494_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=33.5404756&amp;lon=133.5527511&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【とさでん04】 by O_Kazunori_</p>',
+      description: '<p>6巻 P80  高知県高知市 桟橋通五丁目3</p> <p><img alt="2017-10-07, Kochi, Sambashidori 5-chome" src="https://live.staticflickr.com/4575/37517548384_4a9d1e32e6_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=33.5404756&amp;lon=133.5527511&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【2017-10-07, Kochi, Sambashidori 5-chome】 by Fototak</p>',
       location: {
         center: [133.5527511, 33.5404756],
         zoom: 14,

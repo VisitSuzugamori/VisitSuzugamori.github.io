@@ -57,7 +57,7 @@ const config = {
       title: '瀬戸浜海岸',
       image: '',
       tweet_id: '',
-      description: '<p>   千葉県南房総市 千倉町瀬戸</p> <p><img alt="瀬戸浜" src="https://live.staticflickr.com/4166/34335655841_de6343c04e_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.973351&amp;lon=139.962721&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【瀬戸浜】 by BlueSky_s</p>',
+      description: '<p>   千葉県南房総市 千倉町瀬戸</p> <p><img alt="L1001224.jpg" src="https://live.staticflickr.com/3397/4642421000_884f9dd31e_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.973351&amp;lon=139.962721&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【L1001224.jpg】 by Wesley Tsang</p>',
       location: {
         center: [139.962721, 34.973351],
         zoom: 14,
@@ -97,7 +97,7 @@ const config = {
       title: '南房総市観光協会千倉観光案内所(千倉駅構内)',
       image: '',
       tweet_id: '',
-      description: '<p>   千葉県南房総市 千倉町瀬戸</p> <p><img alt="170813_PentaxMe_014" src="https://live.staticflickr.com/4440/37110335592_84ec214414_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.976704&amp;lon=139.9545765&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【170813_PentaxMe_014】 by Matsui Hiroyuki</p>',
+      description: '<p>   千葉県南房総市 千倉町瀬戸</p> <p><img alt="DSCF5060" src="https://live.staticflickr.com/959/27431164097_3d5c00b51b_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.976704&amp;lon=139.9545765&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【DSCF5060】 by yugo.sakai</p>',
       location: {
         center: [139.9545765, 34.976704],
         zoom: 14,
@@ -217,7 +217,7 @@ const config = {
       title: '房総半島最南端之碑',
       image: '',
       tweet_id: '',
-      description: '<p>   千葉県南房総市 </p> <p><img alt="R0011417 パノラマ" src="https://live.staticflickr.com/65535/50618657233_68eacd1bdc_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.9003949&amp;lon=139.8880755&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【R0011417 パノラマ】 by TAKUMA KIMURA</p>',
+      description: '<p>   千葉県南房総市 </p> <p><img alt="Perfect date" src="https://live.staticflickr.com/65535/49819359628_979f991a5e_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.9003949&amp;lon=139.8880755&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Perfect date】 by Mutchi627</p>',
       location: {
         center: [139.8880755, 34.9003949],
         zoom: 14,
@@ -337,7 +337,7 @@ const config = {
       title: '西口管理所',
       image: '',
       tweet_id: '',
-      description: '<p>   千葉県安房郡 鋸南町 </p> <p><img alt="Nihon-ji on Mount Nokogiri (Futtsu/Kyonan, Chiba, Japan)" src="https://live.staticflickr.com/65535/51772363674_27480b4abe_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.1582302&amp;lon=139.8308355&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Nihon-ji on Mount Nokogiri (Futtsu/Kyonan, Chiba, Japan)】 by t-mizo</p>',
+      description: '<p>   千葉県安房郡 鋸南町 </p> <p><img alt="Nihon-ji on Mount Nokogiri (Futtsu/Kyonan, Chiba, Japan)" src="https://live.staticflickr.com/65535/51772357149_edd04e9fc1_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.1582302&amp;lon=139.8308355&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Nihon-ji on Mount Nokogiri (Futtsu/Kyonan, Chiba, Japan)】 by t-mizo</p>',
       location: {
         center: [139.8308355, 35.1582302],
         zoom: 14,
@@ -357,7 +357,7 @@ const config = {
       title: '石切場跡(ラピュタの壁)',
       image: '',
       tweet_id: '',
-      description: '<p>   千葉県安房郡 鋸南町 元名</p> <p><img alt="Nihon-ji on Mount Nokogiri (Futtsu/Kyonan, Chiba, Japan)" src="https://live.staticflickr.com/65535/51771714521_05cfa26a92_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.1591666&amp;lon=139.8326737&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Nihon-ji on Mount Nokogiri (Futtsu/Kyonan, Chiba, Japan)】 by t-mizo</p>',
+      description: '<p>   千葉県安房郡 鋸南町 元名</p> <p><img alt="Nihon-ji on Mount Nokogiri (Futtsu/Kyonan, Chiba, Japan)" src="https://live.staticflickr.com/65535/51772363674_27480b4abe_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.1591666&amp;lon=139.8326737&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Nihon-ji on Mount Nokogiri (Futtsu/Kyonan, Chiba, Japan)】 by t-mizo</p>',
       location: {
         center: [139.8326737, 35.1591666],
         zoom: 14,
@@ -377,7 +377,7 @@ const config = {
       title: '百尺観音',
       image: '',
       tweet_id: '',
-      description: '<p>   千葉県安房郡 鋸南町 元名</p> <p><img alt="Nihon-ji on Mount Nokogiri (Futtsu/Kyonan, Chiba, Japan)" src="https://live.staticflickr.com/65535/51772601635_295d150933_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.1590417&amp;lon=139.8329306&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Nihon-ji on Mount Nokogiri (Futtsu/Kyonan, Chiba, Japan)】 by t-mizo</p>',
+      description: '<p>   千葉県安房郡 鋸南町 元名</p> <p><img alt="Nihon-ji on Mount Nokogiri (Futtsu/Kyonan, Chiba, Japan)" src="https://live.staticflickr.com/65535/51771714521_05cfa26a92_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.1590417&amp;lon=139.8329306&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Nihon-ji on Mount Nokogiri (Futtsu/Kyonan, Chiba, Japan)】 by t-mizo</p>',
       location: {
         center: [139.8329306, 35.1590417],
         zoom: 14,
