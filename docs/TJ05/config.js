@@ -57,7 +57,7 @@ const config = {
       title: '藤岡酒造',
       image: '',
       tweet_id: '',
-      description: '<p>2巻 P16  京都府京都市 伏見区 今町669</p> <p><img alt="珍遊のラーメン" src="https://live.staticflickr.com/65535/50115002776_30c119f009_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.9351213&amp;lon=135.7624568&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【珍遊のラーメン】 by albertus</p>',
+      description: '<p>2巻 P16  京都府京都市 伏見区 今町669</p> <p><img alt="呉竹湯" src="https://live.staticflickr.com/65535/49166042607_a0d41435ae_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.9351213&amp;lon=135.7624568&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【呉竹湯】 by albertus</p>',
       location: {
         center: [135.7624568, 34.9351213],
         zoom: 14,
@@ -97,7 +97,7 @@ const config = {
       title: 'ラー麺・陽はまた昇る 伏見稲荷駅前本店',
       image: '',
       tweet_id: '',
-      description: '<p>2巻 P17  京都府京都市 伏見区 深草一ノ坪町35</p> <p><img alt="_DSC7816B" src="https://live.staticflickr.com/65535/51963195342_2c1b87a4a2_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.968596&amp;lon=135.768613&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【_DSC7816B】 by Jordick Photography</p>',
+      description: '<p>2巻 P17  京都府京都市 伏見区 深草一ノ坪町35</p> <p><img alt="IMG_1602" src="https://live.staticflickr.com/65535/52023634006_32f572f5f7_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.968596&amp;lon=135.768613&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【IMG_1602】 by bluegreen405</p>',
       location: {
         center: [135.768613, 34.968596],
         zoom: 14,
