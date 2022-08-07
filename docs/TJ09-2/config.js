@@ -16,8 +16,8 @@ const config = {
       hidden: false,
       title: '嚴島神社',
       image: '',
-      tweet_id: '',
-      description: '<p>3巻 P5  </p> <p><img alt="L1001246.jpg" src="https://live.staticflickr.com/65535/52191628779_2c4a95b8bb_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.2959885&amp;lon=132.3198262&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【L1001246.jpg】 by WB5500K</p>',
+      tweet_id: '1555778972771762178',
+      description: '<p>3巻 P5  </p><div class="tweetContainer" id="tweet1555778972771762178"></div> ',
       location: {
         center: [132.3198262, 34.2959885],
         zoom: 14,
@@ -136,8 +136,8 @@ const config = {
       hidden: false,
       title: '大和ミュージアム（呉市海事歴史科学館）',
       image: '',
-      tweet_id: '1554276503860518912',
-      description: '<p>3巻 P15  広島県呉市 宝町4</p><div class="tweetContainer" id="tweet1554276503860518912"></div> ',
+      tweet_id: '1555746629700952064',
+      description: '<p>3巻 P15  広島県呉市 宝町4</p><div class="tweetContainer" id="tweet1555746629700952064"></div> ',
       location: {
         center: [132.5558555, 34.2411391],
         zoom: 14,

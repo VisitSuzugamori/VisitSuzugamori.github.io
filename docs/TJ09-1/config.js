@@ -16,8 +16,8 @@ const config = {
       hidden: false,
       title: '東京ドームホテル',
       image: '',
-      tweet_id: '1554803339120222208',
-      description: '<p>2巻 P132  東京都文京区 後楽一丁目3</p><div class="tweetContainer" id="tweet1554803339120222208"></div> ',
+      tweet_id: '1555891479977275393',
+      description: '<p>2巻 P132  東京都文京区 後楽一丁目3</p><div class="tweetContainer" id="tweet1555891479977275393"></div> ',
       location: {
         center: [139.7533928, 35.7036666],
         zoom: 14,
@@ -96,8 +96,8 @@ const config = {
       hidden: false,
       title: '宮島口駅',
       image: '',
-      tweet_id: '1552623050730131459',
-      description: '<p>2巻 P147  広島県廿日市市 宮島口一丁目3</p><div class="tweetContainer" id="tweet1552623050730131459"></div> ',
+      tweet_id: '1556113283719249920',
+      description: '<p>2巻 P147  広島県廿日市市 宮島口一丁目3</p><div class="tweetContainer" id="tweet1556113283719249920"></div> ',
       location: {
         center: [132.3029311, 34.3120172],
         zoom: 14,

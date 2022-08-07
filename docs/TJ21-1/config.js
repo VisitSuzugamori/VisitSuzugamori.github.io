@@ -16,8 +16,8 @@ const config = {
       hidden: false,
       title: '函館駅',
       image: '',
-      tweet_id: '1553542492775227394',
-      description: '<p>7巻   北海道函館市 若松町12</p><div class="tweetContainer" id="tweet1553542492775227394"></div> ',
+      tweet_id: '1555667351374336002',
+      description: '<p>7巻   北海道函館市 若松町12</p><div class="tweetContainer" id="tweet1555667351374336002"></div> ',
       location: {
         center: [140.7264741, 41.7737804],
         zoom: 14,
@@ -36,8 +36,8 @@ const config = {
       hidden: false,
       title: '新函館北斗駅',
       image: '',
-      tweet_id: '1552207617124081664',
-      description: '<p>7巻   北海道北斗市 市渡一丁目1</p><div class="tweetContainer" id="tweet1552207617124081664"></div> ',
+      tweet_id: '1556183475539288065',
+      description: '<p>7巻   北海道北斗市 市渡一丁目1</p><div class="tweetContainer" id="tweet1556183475539288065"></div> ',
       location: {
         center: [140.6483763, 41.9046983],
         zoom: 14,
@@ -156,8 +156,8 @@ const config = {
       hidden: false,
       title: '金森赤レンガ倉庫',
       image: '',
-      tweet_id: '1554779832579461120',
-      description: '<p>7巻   北海道函館市 豊川町11</p><div class="tweetContainer" id="tweet1554779832579461120"></div> ',
+      tweet_id: '1555561119653269505',
+      description: '<p>7巻   北海道函館市 豊川町11</p><div class="tweetContainer" id="tweet1555561119653269505"></div> ',
       location: {
         center: [140.7176349, 41.7673531],
         zoom: 14,

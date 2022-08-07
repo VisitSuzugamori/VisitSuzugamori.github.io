@@ -16,8 +16,8 @@ const config = {
       hidden: false,
       title: '東京駅',
       image: '',
-      tweet_id: '1553743012689330176',
-      description: '<p>6巻 P132  東京都千代田区 丸の内一丁目9</p><div class="tweetContainer" id="tweet1553743012689330176"></div> ',
+      tweet_id: '1555377160504090624',
+      description: '<p>6巻 P132  東京都千代田区 丸の内一丁目9</p><div class="tweetContainer" id="tweet1555377160504090624"></div> ',
       location: {
         center: [139.7671248, 35.6812362],
         zoom: 14,
@@ -156,8 +156,8 @@ const config = {
       hidden: false,
       title: '奈半利駅',
       image: '',
-      tweet_id: '1551793292882362368',
-      description: '<p>6巻 P124  高知県安芸郡 奈半利町 乙978</p><div class="tweetContainer" id="tweet1551793292882362368"></div> ',
+      tweet_id: '1555788725212565504',
+      description: '<p>6巻 P124  高知県安芸郡 奈半利町 乙978</p><div class="tweetContainer" id="tweet1555788725212565504"></div> ',
       location: {
         center: [134.0180808, 33.4250302],
         zoom: 14,

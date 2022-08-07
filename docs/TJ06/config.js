@@ -16,8 +16,8 @@ const config = {
       hidden: false,
       title: '宇都宮駅',
       image: '',
-      tweet_id: '1553580755778801664',
-      description: '<p>2巻 P44  栃木県宇都宮市 駅前通り三丁目1</p><div class="tweetContainer" id="tweet1553580755778801664"></div> ',
+      tweet_id: '1556139514766278658',
+      description: '<p>2巻 P44  栃木県宇都宮市 駅前通り三丁目1</p><div class="tweetContainer" id="tweet1556139514766278658"></div> ',
       location: {
         center: [139.8984511, 36.5590234],
         zoom: 14,
@@ -37,7 +37,7 @@ const config = {
       title: '滝駅',
       image: '',
       tweet_id: '',
-      description: '<p>2巻 P47  栃木県那須烏山市 滝233</p> <p><img alt="P4060197" src="https://live.staticflickr.com/3687/13737300924_ffe7e04cb7_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=36.6485846&amp;lon=140.1381941&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【P4060197】 by mr_nihei</p>',
+      description: '<p>2巻 P47  栃木県那須烏山市 滝233</p> <p><img alt="P4060205" src="https://live.staticflickr.com/7264/13777277035_24376afb5f_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=36.6485846&amp;lon=140.1381941&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【P4060205】 by mr_nihei</p>',
       location: {
         center: [140.1381941, 36.6485846],
         zoom: 14,

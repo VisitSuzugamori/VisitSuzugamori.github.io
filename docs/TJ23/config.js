@@ -117,7 +117,7 @@ const config = {
       title: '寿司と地魚料理 大徳家',
       image: '',
       tweet_id: '',
-      description: '<p>   千葉県南房総市 千倉町平舘</p> <p><img alt="210102_nex_018" src="https://live.staticflickr.com/65535/50956501292_7e5228c91a_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.9602825&amp;lon=139.9593564&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【210102_nex_018】 by Matsui Hiroyuki</p>',
+      description: '<p>   千葉県南房総市 千倉町平舘</p> <p><img alt="210102_nex_020" src="https://live.staticflickr.com/65535/50959388768_0e1884f8fa_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.9602825&amp;lon=139.9593564&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【210102_nex_020】 by Matsui Hiroyuki</p>',
       location: {
         center: [139.9593564, 34.9602825],
         zoom: 14,
@@ -137,7 +137,7 @@ const config = {
       title: '千葉銀行 千倉支店',
       image: '',
       tweet_id: '',
-      description: '<p>   千葉県南房総市 千倉町平舘</p> <p><img alt="210102_nex_020" src="https://live.staticflickr.com/65535/50959388768_0e1884f8fa_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.95936&amp;lon=139.9592&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【210102_nex_020】 by Matsui Hiroyuki</p>',
+      description: '<p>   千葉県南房総市 千倉町平舘</p> <p><img alt="210102_nex_025" src="https://live.staticflickr.com/65535/50960190132_09f20e5a54_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.95936&amp;lon=139.9592&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【210102_nex_025】 by Matsui Hiroyuki</p>',
       location: {
         center: [139.9592, 34.95936],
         zoom: 14,
@@ -217,7 +217,7 @@ const config = {
       title: '房総半島最南端之碑',
       image: '',
       tweet_id: '',
-      description: '<p>   千葉県南房総市 </p> <p><img alt="Perfect date" src="https://live.staticflickr.com/65535/49819359628_979f991a5e_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.9003949&amp;lon=139.8880755&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Perfect date】 by Mutchi627</p>',
+      description: '<p>   千葉県南房総市 </p> <p><img alt="R0011417 パノラマ" src="https://live.staticflickr.com/65535/50618657233_68eacd1bdc_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.9003949&amp;lon=139.8880755&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【R0011417 パノラマ】 by TAKUMA KIMURA</p>',
       location: {
         center: [139.8880755, 34.9003949],
         zoom: 14,
@@ -296,8 +296,8 @@ const config = {
       hidden: false,
       title: '浜金谷駅',
       image: '',
-      tweet_id: '1553260967613841408',
-      description: '<p>   千葉県富津市 </p><div class="tweetContainer" id="tweet1553260967613841408"></div> ',
+      tweet_id: '1555784113298100224',
+      description: '<p>   千葉県富津市 </p><div class="tweetContainer" id="tweet1555784113298100224"></div> ',
       location: {
         center: [139.8222539, 35.1681316],
         zoom: 14,
