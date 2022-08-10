@@ -16,8 +16,8 @@ const config = {
       hidden: false,
       title: '東京駅',
       image: '',
-      tweet_id: '1555728389298094081',
-      description: '<p>1巻 P126  東京都千代田区 丸の内一丁目9</p><div class="tweetContainer" id="tweet1555728389298094081"></div> ',
+      tweet_id: '1556428140226162689',
+      description: '<p>1巻 P126  東京都千代田区 丸の内一丁目9</p><div class="tweetContainer" id="tweet1556428140226162689"></div> ',
       location: {
         center: [139.7671248, 35.6812362],
         zoom: 14,
@@ -56,8 +56,8 @@ const config = {
       hidden: false,
       title: '高松駅',
       image: '',
-      tweet_id: '1553344816192360448',
-      description: '<p>1巻 P131  香川県高松市 西の丸町2</p><div class="tweetContainer" id="tweet1553344816192360448"></div> ',
+      tweet_id: '1556412645682450432',
+      description: '<p>1巻 P131  香川県高松市 西の丸町2</p><div class="tweetContainer" id="tweet1556412645682450432"></div> ',
       location: {
         center: [134.047056, 34.3504507],
         zoom: 14,
@@ -136,8 +136,8 @@ const config = {
       hidden: false,
       title: 'うどん本陣 山田家',
       image: '',
-      tweet_id: '',
-      description: '<p>1巻 P134  香川県高松市 牟礼町牟礼3128</p> <p><img alt="Takamatsu, Kagawa" src="https://live.staticflickr.com/65535/51332935595_2a9507f701_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.3532536&amp;lon=134.1296254&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Takamatsu, Kagawa】 by Kzaral</p>',
+      tweet_id: '1556447101042786308',
+      description: '<p>1巻 P134  香川県高松市 牟礼町牟礼3128</p><div class="tweetContainer" id="tweet1556447101042786308"></div> ',
       location: {
         center: [134.1296254, 34.3532536],
         zoom: 14,

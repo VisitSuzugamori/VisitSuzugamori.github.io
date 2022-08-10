@@ -17,7 +17,7 @@ const config = {
       title: '湯倉神社 鳥居',
       image: '',
       tweet_id: '',
-      description: '<p>7巻   北海道函館市 湯川町二丁目28</p> <p><img alt="Waiting to board" src="https://live.staticflickr.com/1803/42197235135_68a1b2d5e0_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=41.7815466&amp;lon=140.7909432&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Waiting to board】 by kevincrumbs</p>',
+      description: '<p>7巻   北海道函館市 湯川町二丁目28</p> <p><img alt="神の遣い" src="https://live.staticflickr.com/7908/46474498784_75598b96c5_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=41.7815466&amp;lon=140.7909432&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【神の遣い】 by Y.Masayoshi</p>',
       location: {
         center: [140.7909432, 41.7815466],
         zoom: 14,
@@ -36,8 +36,8 @@ const config = {
       hidden: false,
       title: '湯倉神社',
       image: '',
-      tweet_id: '1555359529826922496',
-      description: '<p>7巻   北海道函館市 湯川町二丁目28</p><div class="tweetContainer" id="tweet1555359529826922496"></div> ',
+      tweet_id: '1556663104616169472',
+      description: '<p>7巻   北海道函館市 湯川町二丁目28</p><div class="tweetContainer" id="tweet1556663104616169472"></div> ',
       location: {
         center: [140.7910231, 41.7821053],
         zoom: 14,
@@ -57,7 +57,7 @@ const config = {
       title: '石川啄木像',
       image: '',
       tweet_id: '',
-      description: '<p>7巻   北海道函館市 日乃出町25</p> <p><img alt="Quick stop at Takubokusho Park" src="https://live.staticflickr.com/7839/46614820461_09cfe120ba_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=41.7723579&amp;lon=140.7536031&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Quick stop at Takubokusho Park】 by Stinkee Beek</p>',
+      description: '<p>7巻   北海道函館市 日乃出町25</p> <p><img alt="Ishikawa Takuboku in Hakodate / 函館の啄木" src="https://live.staticflickr.com/4916/31785169657_bdee66b579_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=41.7723579&amp;lon=140.7536031&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Ishikawa Takuboku in Hakodate / 函館の啄木】 by yanoks48</p>',
       location: {
         center: [140.7536031, 41.7723579],
         zoom: 14,
@@ -76,8 +76,8 @@ const config = {
       hidden: false,
       title: 'コーヒールームきくち',
       image: '',
-      tweet_id: '1553626657998651393',
-      description: '<p>7巻   北海道函館市 湯川町三丁目13</p><div class="tweetContainer" id="tweet1553626657998651393"></div> ',
+      tweet_id: '',
+      description: '<p>7巻   北海道函館市 湯川町三丁目13</p> <p><img alt="IMAG6430" src="https://live.staticflickr.com/65535/52020214979_3cba6da620_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=41.7776852&amp;lon=140.7931866&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【IMAG6430】 by 形影believe</p>',
       location: {
         center: [140.7931866, 41.7776852],
         zoom: 14,
@@ -197,7 +197,7 @@ const config = {
       title: '日乃出ひまわり',
       image: '',
       tweet_id: '',
-      description: '<p>7巻   北海道函館市 日乃出町14</p> <p><img alt="Ishikawa Takuboku in Hakodate / 函館の啄木" src="https://live.staticflickr.com/4916/31785169657_bdee66b579_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=41.7727805&amp;lon=140.7530528&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Ishikawa Takuboku in Hakodate / 函館の啄木】 by yanoks48</p>',
+      description: '<p>7巻   北海道函館市 日乃出町14</p> <p><img alt="Quick stop at Takubokusho Park" src="https://live.staticflickr.com/7839/46614820461_09cfe120ba_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=41.7727805&amp;lon=140.7530528&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Quick stop at Takubokusho Park】 by Stinkee Beek</p>',
       location: {
         center: [140.7530528, 41.7727805],
         zoom: 14,
@@ -237,7 +237,7 @@ const config = {
       title: '函館グルメ回転ずし函太郎 宇賀浦本店',
       image: '',
       tweet_id: '',
-      description: '<p>7巻   北海道函館市 宇賀浦町14</p> <p><img alt="IMG20180204134419" src="https://live.staticflickr.com/1929/44915848742_92c3c86e0b_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=41.770788&amp;lon=140.745451&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【IMG20180204134419】 by redice0112</p>',
+      description: '<p>7巻   北海道函館市 宇賀浦町14</p> <p><img alt="IMG_6721" src="https://live.staticflickr.com/1955/44964388471_3f3229d38e_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=41.770788&amp;lon=140.745451&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【IMG_6721】 by redice0112</p>',
       location: {
         center: [140.745451, 41.770788],
         zoom: 14,
@@ -296,8 +296,8 @@ const config = {
       hidden: false,
       title: '立待岬',
       image: '',
-      tweet_id: '1553534947025117184',
-      description: '<p>7巻   北海道函館市 住吉町15</p><div class="tweetContainer" id="tweet1553534947025117184"></div> ',
+      tweet_id: '1556479631552696321',
+      description: '<p>7巻   北海道函館市 住吉町15</p><div class="tweetContainer" id="tweet1556479631552696321"></div> ',
       location: {
         center: [140.7212027, 41.7450354],
         zoom: 14,
@@ -356,8 +356,8 @@ const config = {
       hidden: false,
       title: '大沼国定公園',
       image: '',
-      tweet_id: '1553260937079136256',
-      description: '<p>7巻   北海道亀田郡 七飯町 </p><div class="tweetContainer" id="tweet1553260937079136256"></div> ',
+      tweet_id: '1555697458319163400',
+      description: '<p>7巻   北海道亀田郡 七飯町 </p><div class="tweetContainer" id="tweet1555697458319163400"></div> ',
       location: {
         center: [140.6729083, 41.9838889],
         zoom: 14,

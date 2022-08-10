@@ -36,8 +36,8 @@ const config = {
       hidden: false,
       title: 'オホーツクの塔',
       image: '',
-      tweet_id: '',
-      description: '<p>7巻   北海道網走市 </p> <p><img alt="sunrise at the north end - 北端の日の出" src="https://live.staticflickr.com/5497/10825033976_901f243647_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=44.1106685&amp;lon=144.2473548&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【sunrise at the north end - 北端の日の出】 by turntable00000</p>',
+      tweet_id: '1556843148290142208',
+      description: '<p>7巻   北海道網走市 </p><div class="tweetContainer" id="tweet1556843148290142208"></div> ',
       location: {
         center: [144.2473548, 44.1106685],
         zoom: 14,
@@ -77,7 +77,7 @@ const config = {
       title: '卯原内サンゴ草群落地',
       image: '',
       tweet_id: '',
-      description: '<p>7巻   北海道網走市 </p> <p><img alt="Common Glasswort - coral grass - Salicornia europaea" src="https://live.staticflickr.com/65535/50977978207_028c2c441d_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=44.013852&amp;lon=144.1167037&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Common Glasswort - coral grass - Salicornia europaea】 by Plant_ID</p>',
+      description: '<p>7巻   北海道網走市 </p> <p><img alt="Common glasswort around Lake Notoro,Abashiri city,Hokkaido 2021/09 No.5." src="https://live.staticflickr.com/65535/51755152460_dcb21bb5c4_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=44.013852&amp;lon=144.1167037&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Common glasswort around Lake Notoro,Abashiri city,Hokkaido 2021/09 No.5.】 by HIDE@Verdad</p>',
       location: {
         center: [144.1167037, 44.013852],
         zoom: 14,
@@ -136,8 +136,8 @@ const config = {
       hidden: false,
       title: '天に続く道スタート地点',
       image: '',
-      tweet_id: '1552811919538528256',
-      description: '<p>7巻   北海道斜里郡 斜里町 </p><div class="tweetContainer" id="tweet1552811919538528256"></div> ',
+      tweet_id: '1556037716093050883',
+      description: '<p>7巻   北海道斜里郡 斜里町 </p><div class="tweetContainer" id="tweet1556037716093050883"></div> ',
       location: {
         center: [144.7987065, 43.9067705],
         zoom: 14,
@@ -177,7 +177,7 @@ const config = {
       title: '道の駅 うとろ・シリエトク',
       image: '',
       tweet_id: '',
-      description: '<p>7巻   北海道斜里郡 斜里町 </p> <p><img alt="Drift Ice take free, however, only if could you pick up ;-)" src="https://live.staticflickr.com/65535/47606445832_7cc83bce86_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=44.069034&amp;lon=144.990695&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Drift Ice take free, however, only if could you pick up ;-)】 by masa198055</p>',
+      description: '<p>7巻   北海道斜里郡 斜里町 </p> <p><img alt="36223-Shiretoko" src="https://live.staticflickr.com/65535/48913544751_250e5346e9_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=44.069034&amp;lon=144.990695&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【36223-Shiretoko】 by xiquinhosilva</p>',
       location: {
         center: [144.990695, 44.069034],
         zoom: 14,
@@ -297,7 +297,7 @@ const config = {
       title: '中湧別駅跡',
       image: '',
       tweet_id: '',
-      description: '<p>7巻   北海道紋別郡 湧別町 中湧別南町</p> <p><img alt="IMG_0225" src="https://live.staticflickr.com/65535/51392441149_1401586a82_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=44.1853551&amp;lon=143.5957829&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【IMG_0225】 by tnoma</p>',
+      description: '<p>7巻   北海道紋別郡 湧別町 中湧別南町</p> <p><img alt="Day#153 - 知床鶏ステーキ定食" src="https://live.staticflickr.com/7170/6457505877_89e6f18891_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=44.1853551&amp;lon=143.5957829&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Day#153 - 知床鶏ステーキ定食】 by likeherod</p>',
       location: {
         center: [143.5957829, 44.1853551],
         zoom: 14,

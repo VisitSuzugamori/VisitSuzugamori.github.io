@@ -16,8 +16,8 @@ const config = {
       hidden: false,
       title: '東京駅',
       image: '',
-      tweet_id: '1555377160504090624',
-      description: '<p>6巻 P132  東京都千代田区 丸の内一丁目9</p><div class="tweetContainer" id="tweet1555377160504090624"></div> ',
+      tweet_id: '1556227214496403458',
+      description: '<p>6巻 P132  東京都千代田区 丸の内一丁目9</p><div class="tweetContainer" id="tweet1556227214496403458"></div> ',
       location: {
         center: [139.7671248, 35.6812362],
         zoom: 14,
@@ -36,8 +36,8 @@ const config = {
       hidden: false,
       title: '桂浜',
       image: '',
-      tweet_id: '1553590644349628416',
-      description: '<p>6巻 P108  高知県高知市 浦戸778</p><div class="tweetContainer" id="tweet1553590644349628416"></div> ',
+      tweet_id: '1553982797580480513',
+      description: '<p>6巻 P108  高知県高知市 浦戸778</p><div class="tweetContainer" id="tweet1553982797580480513"></div> ',
       location: {
         center: [133.5749209, 33.4971366],
         zoom: 14,
@@ -56,8 +56,8 @@ const config = {
       hidden: false,
       title: '坂本龍馬像',
       image: '',
-      tweet_id: '1553202861235773440',
-      description: '<p>6巻 P109  高知県高知市 浦戸6</p><div class="tweetContainer" id="tweet1553202861235773440"></div> ',
+      tweet_id: '',
+      description: '<p>6巻 P109  高知県高知市 浦戸6</p> <p><img alt="Katsurahama (桂浜)" src="https://live.staticflickr.com/65535/52068717083_8e00b3b04d_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=33.4986187&amp;lon=133.5754821&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Katsurahama (桂浜)】 by pantkiewicz</p>',
       location: {
         center: [133.5754821, 33.4986187],
         zoom: 14,
@@ -116,8 +116,8 @@ const config = {
       hidden: false,
       title: '高知駅',
       image: '',
-      tweet_id: '1553621225519271938',
-      description: '<p>6巻 P122  高知県高知市 栄田町二丁目1</p><div class="tweetContainer" id="tweet1553621225519271938"></div> ',
+      tweet_id: '1556567548883501057',
+      description: '<p>6巻 P122  高知県高知市 栄田町二丁目1</p><div class="tweetContainer" id="tweet1556567548883501057"></div> ',
       location: {
         center: [133.5436452, 33.5672271],
         zoom: 14,
@@ -137,7 +137,7 @@ const config = {
       title: '土佐三志士の像',
       image: '',
       tweet_id: '',
-      description: '<p>6巻 P122  高知県高知市 北本町二丁目10</p> <p><img alt="Kochi Station" src="https://live.staticflickr.com/65535/52071036114_c28045e308_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=33.5664177&amp;lon=133.5430255&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Kochi Station】 by pantkiewicz</p>',
+      description: '<p>6巻 P122  高知県高知市 北本町二丁目10</p> <p><img alt="Kochi Station" src="https://live.staticflickr.com/65535/52070805031_ce7b6c3928_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=33.5664177&amp;lon=133.5430255&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Kochi Station】 by pantkiewicz</p>',
       location: {
         center: [133.5430255, 33.5664177],
         zoom: 14,
@@ -256,8 +256,8 @@ const config = {
       hidden: false,
       title: '龍王岬展望台',
       image: '',
-      tweet_id: '1553188857520218112',
-      description: '<p>6巻 P135  高知県高知市 浦戸830</p><div class="tweetContainer" id="tweet1553188857520218112"></div> ',
+      tweet_id: '',
+      description: '<p>6巻 P135  高知県高知市 浦戸830</p> <p><img alt="Ryuo-gu (龍王宮 海津見神社)" src="https://live.staticflickr.com/65535/52068716838_377865f237_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=33.4955899&amp;lon=133.5743881&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Ryuo-gu (龍王宮 海津見神社)】 by pantkiewicz</p>',
       location: {
         center: [133.5743881, 33.4955899],
         zoom: 14,

@@ -116,8 +116,8 @@ const config = {
       hidden: false,
       title: '美保神社',
       image: '',
-      tweet_id: '1553933057346121730',
-      description: '<p>4巻 P14  島根県松江市 美保関町美保関</p><div class="tweetContainer" id="tweet1553933057346121730"></div> ',
+      tweet_id: '1556518864808120320',
+      description: '<p>4巻 P14  島根県松江市 美保関町美保関</p><div class="tweetContainer" id="tweet1556518864808120320"></div> ',
       location: {
         center: [133.3062224, 35.5623182],
         zoom: 14,

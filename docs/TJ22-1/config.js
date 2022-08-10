@@ -36,8 +36,8 @@ const config = {
       hidden: false,
       title: '羽田空港第１・第２ターミナル駅',
       image: '',
-      tweet_id: '1553122864072728579',
-      description: '<p>7巻   東京都大田区 羽田空港三丁目4</p><div class="tweetContainer" id="tweet1553122864072728579"></div> ',
+      tweet_id: '1553959803214610432',
+      description: '<p>7巻   東京都大田区 羽田空港三丁目4</p><div class="tweetContainer" id="tweet1553959803214610432"></div> ',
       location: {
         center: [139.786427, 35.5499709],
         zoom: 14,
@@ -56,8 +56,8 @@ const config = {
       hidden: false,
       title: '羽田空港',
       image: '',
-      tweet_id: '1554255373246529536',
-      description: '<p>7巻   東京都大田区 羽田空港三丁目3</p><div class="tweetContainer" id="tweet1554255373246529536"></div> ',
+      tweet_id: '1555378439061770240',
+      description: '<p>7巻   東京都大田区 羽田空港三丁目3</p><div class="tweetContainer" id="tweet1555378439061770240"></div> ',
       location: {
         center: [139.7798386, 35.5493932],
         zoom: 14,
@@ -176,8 +176,8 @@ const config = {
       hidden: false,
       title: '松寿し',
       image: '',
-      tweet_id: '1552885261821874178',
-      description: '<p>7巻   北海道北見市 </p><div class="tweetContainer" id="tweet1552885261821874178"></div> ',
+      tweet_id: '',
+      description: '<p>7巻   北海道北見市 </p> ',
       location: {
         center: [144.0708245, 44.121295],
         zoom: 14,
