@@ -325,7 +325,7 @@
       "published": "2022, 電撃マオウ 4月号",
       "books": null,
       "subtitle": "空からまたきた！",
-      "camera": {"zoom": 10, "center": [143.704357, 44.336469]}
+      "camera": {"zoom": 10, "center": [143.704357, 44.2]}
     },
     "TJ22-2": {
       "index": 22,
@@ -336,7 +336,7 @@
       "published": "2022, 電撃マオウ 6月号",
       "books": null,
       "subtitle": "無くたって良いどう",
-      "camera": {"zoom": 10, "center": [144.245963, 44.114228]}
+      "camera": {"zoom": 8, "center": [144.245963, 44.114228]}
     },
     "TJ23": {
       "index": 23,
