@@ -325,7 +325,7 @@
       "published": "2022, 電撃マオウ 4月号",
       "books": null,
       "subtitle": "空からまたきた！",
-      "camera": {"zoom": 10, "center": [139.6703, 35.6808]}
+      "camera": {"zoom": 10, "center": [143.704357, 44.336469]}
     },
     "TJ22-2": {
       "index": 22,
@@ -336,7 +336,7 @@
       "published": "2022, 電撃マオウ 6月号",
       "books": null,
       "subtitle": "無くたって良いどう",
-      "camera": {"zoom": 10, "center": [139.6703, 35.6808]}
+      "camera": {"zoom": 10, "center": [144.245963, 44.114228]}
     },
     "TJ23": {
       "index": 23,
@@ -347,7 +347,7 @@
       "published": "2022, 電撃マオウ 7月号",
       "books": null,
       "subtitle": "激動せよ！2022年！",
-      "camera": {"zoom": 10, "center": [139.879022, 34.904775]}
+      "camera": {"zoom": 10, "center": [139.879022, 35.1]}
     },
     "TJ24": {
       "index": 24,
@@ -358,7 +358,7 @@
       "published": "2022, 電撃マオウ 9月号",
       "books": null,
       "subtitle": "甲斐国での誓い",
-      "camera": {"zoom": 11, "center": [138.4650811, 35.6624298]}
+      "camera": {"zoom": 12, "center": [138.4650811, 35.6624298]}
     }
   },
   "books": {
