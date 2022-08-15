@@ -12,6 +12,19 @@
         <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
       </IconStyle>
     </Style>
+    <Style id="icon-1899-0288D1-labelson-nodesc">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
     <Style id="icon-1899-0F9D58-labelson">
       <IconStyle>
         <color>ff589d0f</color>
@@ -4359,6 +4372,126 @@
       <Point>
         <coordinates>
           139.8346891,35.1576699,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>竜王駅</name>
+      <description>第24旅</description>
+      <styleUrl>#icon-1899-0288D1-labelson-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          138.5193729,35.6687078,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>三社神社石鳥居</name>
+      <description>第24旅</description>
+      <styleUrl>#icon-1899-0288D1-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          138.5022428,35.6684556,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>新町下公民館</name>
+      <description>第24旅</description>
+      <styleUrl>#icon-1899-0288D1-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          138.5180877,35.6667113,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>道祖神</name>
+      <description>第24旅</description>
+      <styleUrl>#icon-1899-0288D1-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          138.5177299,35.6666535,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>竜王北小学校前横断歩道橋</name>
+      <description>第24旅</description>
+      <styleUrl>#icon-1899-0288D1-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          138.5078418,35.6678647,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>信玄堤散策コース</name>
+      <description>第24旅</description>
+      <styleUrl>#icon-1899-0288D1-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          138.5043247,35.6677185,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>信玄堤公園</name>
+      <description>第24旅</description>
+      <styleUrl>#icon-1899-0288D1-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          138.5019977,35.6674453,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>信玄堤</name>
+      <description>第24旅</description>
+      <styleUrl>#icon-1899-0288D1-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          138.5013756,35.668261,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>信玄橋</name>
+      <description>第24旅</description>
+      <styleUrl>#icon-1899-0288D1-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          138.502834,35.6641283,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>南アルプス市 ふるさと文化伝承館</name>
+      <description>第24旅</description>
+      <styleUrl>#icon-1899-0288D1-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          138.4790736,35.6689912,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>菓子処 松の屋</name>
+      <description>第24旅</description>
+      <styleUrl>#icon-1899-0288D1-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          138.4650811,35.6624298,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>芦安温泉 岩園館</name>
+      <description>第24旅</description>
+      <styleUrl>#icon-1899-0288D1-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          138.3697194,35.6353211,0
         </coordinates>
       </Point>
     </Placemark>

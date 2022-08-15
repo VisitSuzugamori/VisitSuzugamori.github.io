@@ -5991,6 +5991,174 @@
                 "name": "日本寺 大仏"
             },
             "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    138.5193729,
+                    35.6687078
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "竜王駅",
+                "name": "竜王駅"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    138.5022428,
+                    35.6684556
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "第24旅",
+                "name": "三社神社石鳥居"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    138.5180877,
+                    35.6667113
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "第24旅",
+                "name": "新町下公民館"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    138.5177299,
+                    35.6666535
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "第24旅",
+                "name": "道祖神"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    138.5078418,
+                    35.6678647
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "第24旅",
+                "name": "竜王北小学校前横断歩道橋"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    138.5043247,
+                    35.6677185
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "第24旅",
+                "name": "信玄堤散策コース"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    138.5019977,
+                    35.6674453
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "第24旅",
+                "name": "信玄堤公園"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    138.5013756,
+                    35.668261
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "第24旅",
+                "name": "信玄堤"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    138.502834,
+                    35.6641283
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "第24旅",
+                "name": "信玄橋"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    138.4790736,
+                    35.6689912
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "第24旅",
+                "name": "南アルプス市 ふるさと文化伝承館"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    138.4650811,
+                    35.6624298
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "第24旅",
+                "name": "菓子処 松の屋"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    138.3697194,
+                    35.6353211
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "第24旅",
+                "name": "芦安温泉 岩園館"
+            },
+            "type": "Feature"
         }
     ],
     "type": "FeatureCollection"
