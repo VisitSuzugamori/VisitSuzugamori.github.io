@@ -348,6 +348,17 @@
       "books": null,
       "subtitle": "激動せよ！2022年！",
       "camera": {"zoom": 10, "center": [139.879022, 34.904775]}
+    },
+    "TJ24": {
+      "index": 24,
+      "id": "TJ24",
+      "key": "第24旅",
+      "title": "第24旅 山梨",
+      "place": "甲斐市 南アルプス市",
+      "published": "2022, 電撃マオウ 9月号",
+      "books": null,
+      "subtitle": "甲斐国での誓い",
+      "camera": {"zoom": 11, "center": [138.4650811, 35.6624298]}
     }
   },
   "books": {
