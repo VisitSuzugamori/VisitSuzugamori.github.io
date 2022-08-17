@@ -97,7 +97,7 @@ const config = {
       title: 'ラー麺・陽はまた昇る 伏見稲荷駅前本店',
       image: '',
       tweet_id: '',
-      description: '<p>2巻 P17  京都府京都市 伏見区 深草一ノ坪町35</p> <p><img alt="_DSC7816B" src="https://live.staticflickr.com/65535/51963195342_2c1b87a4a2_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.968596&amp;lon=135.768613&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【_DSC7816B】 by Jordick Photography</p>',
+      description: '<p>2巻 P17  京都府京都市 伏見区 深草一ノ坪町35</p> <p><img alt="20191230-DSC07350-SEL35F18" src="https://live.staticflickr.com/65535/49870623641_4a00806f24_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.968596&amp;lon=135.768613&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【20191230-DSC07350-SEL35F18】 by Noelas</p>',
       location: {
         center: [135.768613, 34.968596],
         zoom: 14,
@@ -277,7 +277,7 @@ const config = {
       title: '丹後國一之宮 元伊勢 籠神社',
       image: '',
       tweet_id: '',
-      description: '<p>2巻 P37  京都府宮津市 江尻430</p> <p><img alt="宮津 天橋立 Amanohashidate, Miyazu, Japan" src="https://live.staticflickr.com/65535/51994947338_569ef5e42a_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.5827837&amp;lon=135.1967015&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【宮津 天橋立 Amanohashidate, Miyazu, Japan】 by スーパーサイヤ人Ⅳ</p>',
+      description: '<p>2巻 P37  京都府宮津市 江尻430</p> <p><img alt="宮津 天橋立 Amanohashidate, Miyazu, Japan" src="https://live.staticflickr.com/65535/51995433155_297899287e_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.5827837&amp;lon=135.1967015&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【宮津 天橋立 Amanohashidate, Miyazu, Japan】 by スーパーサイヤ人Ⅳ</p>',
       location: {
         center: [135.1967015, 35.5827837],
         zoom: 14,

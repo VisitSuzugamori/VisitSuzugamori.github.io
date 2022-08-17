@@ -16,8 +16,8 @@ const config = {
       hidden: false,
       title: '東京駅',
       image: '',
-      tweet_id: '1559047621104177153',
-      description: '<p>5巻 P3  東京都千代田区 丸の内一丁目9</p><div class="tweetContainer" id="tweet1559047621104177153"></div> ',
+      tweet_id: '1559008473047638016',
+      description: '<p>5巻 P3  東京都千代田区 丸の内一丁目9</p><div class="tweetContainer" id="tweet1559008473047638016"></div> ',
       location: {
         center: [139.7671248, 35.6812362],
         zoom: 14,
@@ -56,8 +56,8 @@ const config = {
       hidden: false,
       title: '水戸駅',
       image: '',
-      tweet_id: '1555759325037350912',
-      description: '<p>5巻 P7  茨城県水戸市 宮町一丁目7</p><div class="tweetContainer" id="tweet1555759325037350912"></div> ',
+      tweet_id: '1557949612799201281',
+      description: '<p>5巻 P7  茨城県水戸市 宮町一丁目7</p><div class="tweetContainer" id="tweet1557949612799201281"></div> ',
       location: {
         center: [140.4762789, 36.3707326],
         zoom: 14,
@@ -116,8 +116,8 @@ const config = {
       hidden: false,
       title: '常陸太田駅',
       image: '',
-      tweet_id: '1556125929507659776',
-      description: '<p>5巻 P12  茨城県常陸太田市 山下町954</p><div class="tweetContainer" id="tweet1556125929507659776"></div> ',
+      tweet_id: '1559783810216390656',
+      description: '<p>5巻 P12  茨城県常陸太田市 山下町954</p><div class="tweetContainer" id="tweet1559783810216390656"></div> ',
       location: {
         center: [140.5279062, 36.5315277],
         zoom: 14,
@@ -296,8 +296,8 @@ const config = {
       hidden: false,
       title: 'いづみや東バイパス店',
       image: '',
-      tweet_id: '1555787977993125888',
-      description: '<p>5巻 P17  茨城県常陸太田市 中城町西鯉沼2991</p><div class="tweetContainer" id="tweet1555787977993125888"></div> ',
+      tweet_id: '',
+      description: '<p>5巻 P17  茨城県常陸太田市 中城町西鯉沼2991</p> ',
       location: {
         center: [140.5301508, 36.5444717],
         zoom: 14,

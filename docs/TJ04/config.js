@@ -16,8 +16,8 @@ const config = {
       hidden: false,
       title: '東京駅',
       image: '',
-      tweet_id: '1559028788490817538',
-      description: '<p>1巻 P126  東京都千代田区 丸の内一丁目9</p><div class="tweetContainer" id="tweet1559028788490817538"></div> ',
+      tweet_id: '1559393583362621440',
+      description: '<p>1巻 P126  東京都千代田区 丸の内一丁目9</p><div class="tweetContainer" id="tweet1559393583362621440"></div> ',
       location: {
         center: [139.7671248, 35.6812362],
         zoom: 14,
@@ -36,8 +36,8 @@ const config = {
       hidden: false,
       title: '岡山駅',
       image: '',
-      tweet_id: '1556054332025769985',
-      description: '<p>1巻 P130  岡山県岡山市 北区 駅元町11</p><div class="tweetContainer" id="tweet1556054332025769985"></div> ',
+      tweet_id: '1557188336732647424',
+      description: '<p>1巻 P130  岡山県岡山市 北区 駅元町11</p><div class="tweetContainer" id="tweet1557188336732647424"></div> ',
       location: {
         center: [133.9177335, 34.6661212],
         zoom: 14,
@@ -136,8 +136,8 @@ const config = {
       hidden: false,
       title: 'うどん本陣 山田家',
       image: '',
-      tweet_id: '1556447101042786308',
-      description: '<p>1巻 P134  香川県高松市 牟礼町牟礼3128</p><div class="tweetContainer" id="tweet1556447101042786308"></div> ',
+      tweet_id: '1559793564132982785',
+      description: '<p>1巻 P134  香川県高松市 牟礼町牟礼3128</p><div class="tweetContainer" id="tweet1559793564132982785"></div> ',
       location: {
         center: [134.1296254, 34.3532536],
         zoom: 14,
