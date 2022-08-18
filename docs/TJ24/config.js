@@ -37,7 +37,7 @@ const config = {
       title: '三社神社石鳥居',
       image: '',
       tweet_id: '',
-      description: '<p>   山梨県甲斐市 竜王1875</p> <p><img alt="Two" src="https://live.staticflickr.com/6040/6263141869_2fd6ff0071_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.6684556&amp;lon=138.5022428&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Two】 by asksomeoneelse</p>',
+      description: '<p>   山梨県甲斐市 竜王1875</p> ',
       location: {
         center: [138.5022428, 35.6684556],
         zoom: 14,
@@ -97,7 +97,7 @@ const config = {
       title: '竜王北小学校前横断歩道橋',
       image: '',
       tweet_id: '',
-      description: '<p>   山梨県甲斐市 竜王1047</p> <p><img alt="Mount Fuji viewed from the train" src="https://live.staticflickr.com/2084/3539841241_2738ddcbfd_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.6678647&amp;lon=138.5078418&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Mount Fuji viewed from the train】 by mutantlog</p>',
+      description: '<p>   山梨県甲斐市 竜王1047</p> <p><img alt="Mount Fuji viewed from the train" src="https://live.staticflickr.com/2440/3540651804_82cc689bbc_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.6678647&amp;lon=138.5078418&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Mount Fuji viewed from the train】 by mutantlog</p>',
       location: {
         center: [138.5078418, 35.6678647],
         zoom: 14,
@@ -117,7 +117,7 @@ const config = {
       title: '信玄堤散策コース',
       image: '',
       tweet_id: '',
-      description: '<p>   山梨県甲斐市 竜王490</p> ',
+      description: '<p>   山梨県甲斐市 竜王490</p> <p><img alt="Store that tractor" src="https://live.staticflickr.com/5099/5491783662_eee49301b7_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.6677185&amp;lon=138.5043247&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Store that tractor】 by asksomeoneelse</p>',
       location: {
         center: [138.5043247, 35.6677185],
         zoom: 14,
@@ -137,7 +137,7 @@ const config = {
       title: '信玄堤公園',
       image: '',
       tweet_id: '',
-      description: '<p>   山梨県甲斐市 竜王1891</p> ',
+      description: '<p>   山梨県甲斐市 竜王1891</p> <p><img alt="Two" src="https://live.staticflickr.com/6040/6263141869_2fd6ff0071_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.6674453&amp;lon=138.5019977&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Two】 by asksomeoneelse</p>',
       location: {
         center: [138.5019977, 35.6674453],
         zoom: 14,

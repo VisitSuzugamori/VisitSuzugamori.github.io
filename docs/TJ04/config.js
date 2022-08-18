@@ -56,8 +56,8 @@ const config = {
       hidden: false,
       title: '高松駅',
       image: '',
-      tweet_id: '1556412645682450432',
-      description: '<p>1巻 P131  香川県高松市 西の丸町2</p><div class="tweetContainer" id="tweet1556412645682450432"></div> ',
+      tweet_id: '1560114766982483969',
+      description: '<p>1巻 P131  香川県高松市 西の丸町2</p><div class="tweetContainer" id="tweet1560114766982483969"></div> ',
       location: {
         center: [134.047056, 34.3504507],
         zoom: 14,

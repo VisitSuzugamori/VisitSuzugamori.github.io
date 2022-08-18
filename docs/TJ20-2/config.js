@@ -116,8 +116,8 @@ const config = {
       hidden: false,
       title: '高知駅',
       image: '',
-      tweet_id: '1556567548883501057',
-      description: '<p>6巻 P122  高知県高知市 栄田町二丁目1</p><div class="tweetContainer" id="tweet1556567548883501057"></div> ',
+      tweet_id: '1558354269111472128',
+      description: '<p>6巻 P122  高知県高知市 栄田町二丁目1</p><div class="tweetContainer" id="tweet1558354269111472128"></div> ',
       location: {
         center: [133.5436452, 33.5672271],
         zoom: 14,
@@ -137,7 +137,7 @@ const config = {
       title: '土佐三志士の像',
       image: '',
       tweet_id: '',
-      description: '<p>6巻 P122  高知県高知市 北本町二丁目10</p> <p><img alt="Kochi Station" src="https://live.staticflickr.com/65535/52070805031_ce7b6c3928_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=33.5664177&amp;lon=133.5430255&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Kochi Station】 by pantkiewicz</p>',
+      description: '<p>6巻 P122  高知県高知市 北本町二丁目10</p> <p><img alt="Kochi Station" src="https://live.staticflickr.com/65535/52071036114_c28045e308_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=33.5664177&amp;lon=133.5430255&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Kochi Station】 by pantkiewicz</p>',
       location: {
         center: [133.5430255, 33.5664177],
         zoom: 14,
