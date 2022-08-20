@@ -16,8 +16,8 @@ const config = {
       hidden: false,
       title: '新花巻駅',
       image: '',
-      tweet_id: '1558392838156591104',
-      description: '<p>3巻 P87  岩手県花巻市 胡四王一丁目1</p><div class="tweetContainer" id="tweet1558392838156591104"></div> ',
+      tweet_id: '1560809399295377409',
+      description: '<p>3巻 P87  岩手県花巻市 胡四王一丁目1</p><div class="tweetContainer" id="tweet1560809399295377409"></div> ',
       location: {
         center: [141.173865, 39.4064505],
         zoom: 14,

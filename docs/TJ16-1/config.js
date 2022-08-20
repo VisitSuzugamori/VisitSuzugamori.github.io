@@ -137,7 +137,7 @@ const config = {
       title: '常陸太田市観光案内センター',
       image: '',
       tweet_id: '',
-      description: '<p>5巻 P12  茨城県常陸太田市 山下町977</p> <p><img alt="キハE130系気動車/KiHa E130 Series DMU" src="https://live.staticflickr.com/3072/2685372156_f83e57d39c_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=36.5310286&amp;lon=140.527941&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【キハE130系気動車/KiHa E130 Series DMU】 by tirol28</p>',
+      description: '<p>5巻 P12  茨城県常陸太田市 山下町977</p> <p><img alt="JR-E Type E131/132 DC" src="https://live.staticflickr.com/3197/2835902583_efdb9b27b9_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=36.5310286&amp;lon=140.527941&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【JR-E Type E131/132 DC】 by woinary</p>',
       location: {
         center: [140.527941, 36.5310286],
         zoom: 14,
@@ -357,7 +357,7 @@ const config = {
       title: '釜平',
       image: '',
       tweet_id: '',
-      description: '<p>5巻 P29  茨城県常陸太田市 西三町2129</p> <p><img alt="Kujiragaoka" src="https://live.staticflickr.com/65535/49278009171_ab772649e9_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=36.538385&amp;lon=140.523225&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Kujiragaoka】 by ubic from tokyo</p>',
+      description: '<p>5巻 P29  茨城県常陸太田市 西三町2129</p> <p><img alt="iPhone 6 Plusで撮影" src="https://live.staticflickr.com/8622/28657942782_9238aec0c8_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=36.538385&amp;lon=140.523225&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【iPhone 6 Plusで撮影】 by Tokutomi Masaki</p>',
       location: {
         center: [140.523225, 36.538385],
         zoom: 14,

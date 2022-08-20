@@ -37,7 +37,7 @@ const config = {
       title: '千倉駅',
       image: '',
       tweet_id: '',
-      description: '<p>   千葉県南房総市 千倉町瀬戸</p> <p><img alt="170813_PentaxMe_014" src="https://live.staticflickr.com/4440/37110335592_84ec214414_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.9767087&amp;lon=139.9547124&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【170813_PentaxMe_014】 by Matsui Hiroyuki</p>',
+      description: '<p>   千葉県南房総市 千倉町瀬戸</p> <p><img alt="DSCF5060" src="https://live.staticflickr.com/959/27431164097_3d5c00b51b_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.9767087&amp;lon=139.9547124&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【DSCF5060】 by yugo.sakai</p>',
       location: {
         center: [139.9547124, 34.9767087],
         zoom: 14,
@@ -57,7 +57,7 @@ const config = {
       title: '瀬戸浜海岸',
       image: '',
       tweet_id: '',
-      description: '<p>   千葉県南房総市 千倉町瀬戸</p> <p><img alt="瀬戸浜" src="https://live.staticflickr.com/4166/34335655841_de6343c04e_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.973351&amp;lon=139.962721&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【瀬戸浜】 by BlueSky_s</p>',
+      description: '<p>   千葉県南房総市 千倉町瀬戸</p> <p><img alt="FH010025" src="https://live.staticflickr.com/3156/5706868205_58deab1c31_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.973351&amp;lon=139.962721&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【FH010025】 by seoshunji</p>',
       location: {
         center: [139.962721, 34.973351],
         zoom: 14,
@@ -97,7 +97,7 @@ const config = {
       title: '南房総市観光協会千倉観光案内所(千倉駅構内)',
       image: '',
       tweet_id: '',
-      description: '<p>   千葉県南房総市 千倉町瀬戸</p> <p><img alt="DSCF5060" src="https://live.staticflickr.com/959/27431164097_3d5c00b51b_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.976704&amp;lon=139.9545765&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【DSCF5060】 by yugo.sakai</p>',
+      description: '<p>   千葉県南房総市 千倉町瀬戸</p> <p><img alt="IMG_9259" src="https://live.staticflickr.com/903/28427314358_c36f1116c7_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.976704&amp;lon=139.9545765&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【IMG_9259】 by yugo.sakai</p>',
       location: {
         center: [139.9545765, 34.976704],
         zoom: 14,
@@ -297,7 +297,7 @@ const config = {
       title: '浜金谷駅',
       image: '',
       tweet_id: '',
-      description: '<p>   千葉県富津市 </p> <p><img alt="Kanaya#3" src="https://live.staticflickr.com/65535/51735519668_e63f7b58e3_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.1681316&amp;lon=139.8222539&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Kanaya#3】 by tetsuo5</p>',
+      description: '<p>   千葉県富津市 </p> <p><img alt="Kanaya#2" src="https://live.staticflickr.com/65535/51733341533_7f139e0b60_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.1681316&amp;lon=139.8222539&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Kanaya#2】 by tetsuo5</p>',
       location: {
         center: [139.8222539, 35.1681316],
         zoom: 14,

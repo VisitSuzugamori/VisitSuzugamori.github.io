@@ -57,7 +57,7 @@ const config = {
       title: '藤岡酒造',
       image: '',
       tweet_id: '',
-      description: '<p>2巻 P16  京都府京都市 伏見区 今町669</p> <p><img alt="呉竹湯" src="https://live.staticflickr.com/65535/49166042607_a0d41435ae_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.9351213&amp;lon=135.7624568&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【呉竹湯】 by albertus</p>',
+      description: '<p>2巻 P16  京都府京都市 伏見区 今町669</p> <p><img alt="珍遊のラーメン" src="https://live.staticflickr.com/65535/50115002776_30c119f009_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.9351213&amp;lon=135.7624568&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【珍遊のラーメン】 by albertus</p>',
       location: {
         center: [135.7624568, 34.9351213],
         zoom: 14,
@@ -97,7 +97,7 @@ const config = {
       title: 'ラー麺・陽はまた昇る 伏見稲荷駅前本店',
       image: '',
       tweet_id: '',
-      description: '<p>2巻 P17  京都府京都市 伏見区 深草一ノ坪町35</p> <p><img alt="_DSC7816B" src="https://live.staticflickr.com/65535/51963195342_2c1b87a4a2_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.968596&amp;lon=135.768613&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【_DSC7816B】 by Jordick Photography</p>',
+      description: '<p>2巻 P17  京都府京都市 伏見区 深草一ノ坪町35</p> <p><img alt="JPN_10_4077" src="https://live.staticflickr.com/65535/52295436331_40e133b528_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.968596&amp;lon=135.768613&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【JPN_10_4077】 by Miki Badt</p>',
       location: {
         center: [135.768613, 34.968596],
         zoom: 14,
@@ -117,7 +117,7 @@ const config = {
       title: '伏見稲荷駅',
       image: '',
       tweet_id: '',
-      description: '<p>2巻 P18  京都府京都市 伏見区 深草一ノ坪町20</p> <p><img alt="_DSC7817B" src="https://live.staticflickr.com/65535/51963195302_2e718fc003_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.9687541&amp;lon=135.7692088&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【_DSC7817B】 by Jordick Photography</p>',
+      description: '<p>2巻 P18  京都府京都市 伏見区 深草一ノ坪町20</p> <p><img alt="JPN_10_4079" src="https://live.staticflickr.com/65535/52295700439_a04cc5ec58_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.9687541&amp;lon=135.7692088&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【JPN_10_4079】 by Miki Badt</p>',
       location: {
         center: [135.7692088, 34.9687541],
         zoom: 14,
@@ -177,7 +177,7 @@ const config = {
       title: '茶六本館',
       image: '',
       tweet_id: '',
-      description: '<p>2巻 P22  京都府宮津市 字本町842</p> <p><img alt="Miyazu#30" src="https://live.staticflickr.com/4349/36902539891_f23797e559_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.5368405&amp;lon=135.1918306&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Miyazu#30】 by tetsuo5</p>',
+      description: '<p>2巻 P22  京都府宮津市 字本町842</p> <p><img alt="Miyazu#35" src="https://live.staticflickr.com/4441/36267565394_6d632f3211_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.5368405&amp;lon=135.1918306&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Miyazu#35】 by tetsuo5</p>',
       location: {
         center: [135.1918306, 35.5368405],
         zoom: 14,

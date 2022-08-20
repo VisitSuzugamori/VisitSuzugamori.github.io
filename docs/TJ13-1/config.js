@@ -297,7 +297,7 @@ const config = {
       title: '松江しんじ湖温泉駅',
       image: '',
       tweet_id: '',
-      description: '<p>3巻 P146  島根県松江市 中原町51</p> <p><img alt="Ichibata Electric Railway Matsue-Shinjiko-Onsen Station" src="https://live.staticflickr.com/65535/51332672809_05603efba7_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.4673633&amp;lon=133.0460423&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Ichibata Electric Railway Matsue-Shinjiko-Onsen Station】 by Kzaral</p>',
+      description: '<p>3巻 P146  島根県松江市 中原町51</p> <p><img alt="松江しんじ湖温泉駅" src="https://live.staticflickr.com/65535/51330606547_2db1d4cfec_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.4673633&amp;lon=133.0460423&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【松江しんじ湖温泉駅】 by Chitaka Chou</p>',
       location: {
         center: [133.0460423, 35.4673633],
         zoom: 14,
