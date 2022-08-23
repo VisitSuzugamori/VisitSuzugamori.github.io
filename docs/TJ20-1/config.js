@@ -36,8 +36,8 @@ const config = {
       hidden: false,
       title: '後免駅',
       image: '',
-      tweet_id: '1558257929845116928',
-      description: '<p>6巻 P71  高知県南国市 駅前町二丁目3</p><div class="tweetContainer" id="tweet1558257929845116928"></div> ',
+      tweet_id: '1561177180809338880',
+      description: '<p>6巻 P71  高知県南国市 駅前町二丁目3</p><div class="tweetContainer" id="tweet1561177180809338880"></div> ',
       location: {
         center: [133.6454058, 33.5791401],
         zoom: 14,
@@ -177,7 +177,7 @@ const config = {
       title: '桟橋通五丁目駅',
       image: '',
       tweet_id: '',
-      description: '<p>6巻 P80  高知県高知市 桟橋通五丁目3</p> <p><img alt="2017-10-07, Kochi, Sambashidori 5-chome" src="https://live.staticflickr.com/4575/37517548384_4a9d1e32e6_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=33.5404756&amp;lon=133.5527511&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【2017-10-07, Kochi, Sambashidori 5-chome】 by Fototak</p>',
+      description: '<p>6巻 P80  高知県高知市 桟橋通五丁目3</p> <p><img alt="591" src="https://live.staticflickr.com/6154/6215293006_9516b79608_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=33.5404756&amp;lon=133.5527511&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【591】 by ssoosuke</p>',
       location: {
         center: [133.5527511, 33.5404756],
         zoom: 14,
@@ -197,7 +197,7 @@ const config = {
       title: 'ホームセンターブリコ 桟橋店',
       image: '',
       tweet_id: '',
-      description: '<p>6巻 P80  高知県高知市 孕西町214</p> <p><img alt="IMG_0336" src="https://live.staticflickr.com/606/31638778763_e4d8434946_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=33.5373806&amp;lon=133.5505423&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【IMG_0336】 by hiromori</p>',
+      description: '<p>6巻 P80  高知県高知市 孕西町214</p> <p><img alt="IMG_0337" src="https://live.staticflickr.com/417/31638786993_de6a43f139_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=33.5373806&amp;lon=133.5505423&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【IMG_0337】 by hiromori</p>',
       location: {
         center: [133.5505423, 33.5373806],
         zoom: 14,
@@ -357,7 +357,7 @@ const config = {
       title: '民宿まさご',
       image: '',
       tweet_id: '',
-      description: '<p>6巻 P93  高知県高知市 浦戸18</p> <p><img alt="Urado Castle ruins (浦戸城跡)" src="https://live.staticflickr.com/65535/52068951434_4fef6054c5_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=33.4991881&amp;lon=133.5721656&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Urado Castle ruins (浦戸城跡)】 by pantkiewicz</p>',
+      description: '<p>6巻 P93  高知県高知市 浦戸18</p> <p><img alt="Katsurahama (桂浜)" src="https://live.staticflickr.com/65535/52068707816_e7de3294c4_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=33.4991881&amp;lon=133.5721656&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Katsurahama (桂浜)】 by pantkiewicz</p>',
       location: {
         center: [133.5721656, 33.4991881],
         zoom: 14,

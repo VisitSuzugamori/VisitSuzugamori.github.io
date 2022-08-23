@@ -16,8 +16,8 @@ const config = {
       hidden: false,
       title: '伏見稲荷大社',
       image: '',
-      tweet_id: '1557897133315031040',
-      description: '<p>2巻 P3  京都府京都市 伏見区 深草藪之内町1</p><div class="tweetContainer" id="tweet1557897133315031040"></div> ',
+      tweet_id: '1559828278604890113',
+      description: '<p>2巻 P3  京都府京都市 伏見区 深草藪之内町1</p><div class="tweetContainer" id="tweet1559828278604890113"></div> ',
       location: {
         center: [135.7726717, 34.9671402],
         zoom: 14,
@@ -136,8 +136,8 @@ const config = {
       hidden: false,
       title: '宮津駅',
       image: '',
-      tweet_id: '1558241116012838912',
-      description: '<p>2巻 P21  京都府宮津市 字鶴賀2099</p><div class="tweetContainer" id="tweet1558241116012838912"></div> ',
+      tweet_id: '1560037121867616257',
+      description: '<p>2巻 P21  京都府宮津市 字鶴賀2099</p><div class="tweetContainer" id="tweet1560037121867616257"></div> ',
       location: {
         center: [135.1997513, 35.5344188],
         zoom: 14,
@@ -236,8 +236,8 @@ const config = {
       hidden: false,
       title: '天橋立',
       image: '',
-      tweet_id: '1557935388286943233',
-      description: '<p>2巻 P35  京都府宮津市 字江尻927</p><div class="tweetContainer" id="tweet1557935388286943233"></div> ',
+      tweet_id: '1560511159853531136',
+      description: '<p>2巻 P35  京都府宮津市 字江尻927</p><div class="tweetContainer" id="tweet1560511159853531136"></div> ',
       location: {
         center: [135.1918204, 35.5698022],
         zoom: 14,
@@ -296,8 +296,8 @@ const config = {
       hidden: false,
       title: '天橋立神社',
       image: '',
-      tweet_id: '1560073709355995137',
-      description: '<p>2巻 P39  京都府宮津市 字文珠</p><div class="tweetContainer" id="tweet1560073709355995137"></div> ',
+      tweet_id: '1561243058607472640',
+      description: '<p>2巻 P39  京都府宮津市 字文珠</p><div class="tweetContainer" id="tweet1561243058607472640"></div> ',
       location: {
         center: [135.1879155, 35.5634066],
         zoom: 14,

@@ -57,7 +57,7 @@ const config = {
       title: '八甲田 山頂公園',
       image: '',
       tweet_id: '',
-      description: '<p>3巻 P34  青森県青森市 </p> <p><img alt="Hakkoda snow monsters" src="https://live.staticflickr.com/65535/51886526308_8646115e88_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=40.6757743&amp;lon=140.8592116&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Hakkoda snow monsters】 by 雷太</p>',
+      description: '<p>3巻 P34  青森県青森市 </p> <p><img alt="Frozen Hakkoda ropeway" src="https://live.staticflickr.com/65535/51886526253_46eec59f89_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=40.6757743&amp;lon=140.8592116&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Frozen Hakkoda ropeway】 by 雷太</p>',
       location: {
         center: [140.8592116, 40.6757743],
         zoom: 14,
@@ -76,8 +76,8 @@ const config = {
       hidden: false,
       title: '谷地温泉',
       image: '',
-      tweet_id: '1560785327840669696',
-      description: '<p>3巻 P38  青森県十和田市 </p><div class="tweetContainer" id="tweet1560785327840669696"></div> ',
+      tweet_id: '1560910189871890432',
+      description: '<p>3巻 P38  青森県十和田市 </p><div class="tweetContainer" id="tweet1560910189871890432"></div> ',
       location: {
         center: [140.9245271, 40.6330178],
         zoom: 14,
@@ -197,7 +197,7 @@ const config = {
       title: '恐山冷水',
       image: '',
       tweet_id: '',
-      description: '<p>3巻 P55  青森県むつ市 </p> <p><img alt="Hiyamizu" src="https://live.staticflickr.com/3650/3506049220_e0c97a378c_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=41.3145659&amp;lon=141.1264919&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Hiyamizu】 by tsuda</p>',
+      description: '<p>3巻 P55  青森県むつ市 </p> <p><img alt="Osorezan Hiyamizu springs" src="https://live.staticflickr.com/7756/18265270976_87be1e78a7_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=41.3145659&amp;lon=141.1264919&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Osorezan Hiyamizu springs】 by mega_midget_racer</p>',
       location: {
         center: [141.1264919, 41.3145659],
         zoom: 14,

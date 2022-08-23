@@ -36,8 +36,8 @@ const config = {
       hidden: false,
       title: '湯倉神社',
       image: '',
-      tweet_id: '1557917537115197440',
-      description: '<p>7巻   北海道函館市 湯川町二丁目28</p><div class="tweetContainer" id="tweet1557917537115197440"></div> ',
+      tweet_id: '1559727880774782977',
+      description: '<p>7巻   北海道函館市 湯川町二丁目28</p><div class="tweetContainer" id="tweet1559727880774782977"></div> ',
       location: {
         center: [140.7910231, 41.7821053],
         zoom: 14,
@@ -117,7 +117,7 @@ const config = {
       title: '函館市熱帯植物園駐車場',
       image: '',
       tweet_id: '',
-      description: '<p>7巻   北海道函館市 湯川町二丁目1</p> <p><img alt="サル" src="https://live.staticflickr.com/65535/50987897093_9e724a25ea_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=41.7741951&amp;lon=140.7883462&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【サル】 by Chitaka Chou</p>',
+      description: '<p>7巻   北海道函館市 湯川町二丁目1</p> <p><img alt="サル" src="https://live.staticflickr.com/65535/50988709657_a0471018a3_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=41.7741951&amp;lon=140.7883462&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【サル】 by Chitaka Chou</p>',
       location: {
         center: [140.7883462, 41.7741951],
         zoom: 14,
@@ -157,7 +157,7 @@ const config = {
       title: '函館麺や 一文字 函館総本店',
       image: '',
       tweet_id: '',
-      description: '<p>7巻   北海道函館市 湯川町二丁目1</p> <p><img alt="IMAG6424" src="https://live.staticflickr.com/65535/52018925942_7cfbb0ea3b_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=41.7748933&amp;lon=140.7878883&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【IMAG6424】 by 形影believe</p>',
+      description: '<p>7巻   北海道函館市 湯川町二丁目1</p> <p><img alt="IMAG6411" src="https://live.staticflickr.com/65535/52020215794_f2e0e31d2e_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=41.7748933&amp;lon=140.7878883&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【IMAG6411】 by 形影believe</p>',
       location: {
         center: [140.7878883, 41.7748933],
         zoom: 14,
@@ -257,7 +257,7 @@ const config = {
       title: '大森町',
       image: '',
       tweet_id: '',
-      description: '<p>7巻   北海道函館市 宇賀浦町1</p> <p><img alt="DSC01101" src="https://live.staticflickr.com/7451/27302716311_cd09c86ca7_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=41.7697786&amp;lon=140.7404156&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【DSC01101】 by 騰子</p>',
+      description: '<p>7巻   北海道函館市 宇賀浦町1</p> <p><img alt="函館市電 39 ハイカラ号の絵" src="https://live.staticflickr.com/65535/50074882542_30b0baceb7_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=41.7697786&amp;lon=140.7404156&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【函館市電 39 ハイカラ号の絵】 by OOMYV</p>',
       location: {
         center: [140.7404156, 41.7697786],
         zoom: 14,
@@ -276,8 +276,8 @@ const config = {
       hidden: false,
       title: '石川啄木一族の墓',
       image: '',
-      tweet_id: '',
-      description: '<p>7巻   北海道函館市 住吉町15</p> <p><img alt="DSC00920" src="https://live.staticflickr.com/4560/37534155994_5c3fc4a194_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=41.7474858&amp;lon=140.7194496&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【DSC00920】 by スーパーサイヤ人Ⅳ</p>',
+      tweet_id: '1561240352383811584',
+      description: '<p>7巻   北海道函館市 住吉町15</p><div class="tweetContainer" id="tweet1561240352383811584"></div> ',
       location: {
         center: [140.7194496, 41.7474858],
         zoom: 14,
@@ -317,7 +317,7 @@ const config = {
       title: '北海道駒ヶ岳',
       image: '',
       tweet_id: '',
-      description: '<p>7巻   北海道茅部郡 森町 字駒ケ岳</p> ',
+      description: '<p>7巻   北海道茅部郡 森町 字駒ケ岳</p> <p><img alt="こまがたけ" src="https://live.staticflickr.com/2836/33854197531_0cd60ea893_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=42.063333&amp;lon=140.677222&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【こまがたけ】 by fox_kawai</p>',
       location: {
         center: [140.677222, 42.063333],
         zoom: 14,
@@ -356,8 +356,8 @@ const config = {
       hidden: false,
       title: '大沼国定公園',
       image: '',
-      tweet_id: '1557909892790468608',
-      description: '<p>7巻   北海道亀田郡 七飯町 </p><div class="tweetContainer" id="tweet1557909892790468608"></div> ',
+      tweet_id: '',
+      description: '<p>7巻   北海道亀田郡 七飯町 </p> <p><img alt="北海道 Hokkaido" src="https://live.staticflickr.com/65535/52020127104_b93cffa9a2_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=41.9838889&amp;lon=140.6729083&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【北海道 Hokkaido】 by 形影believe</p>',
       location: {
         center: [140.6729083, 41.9838889],
         zoom: 14,

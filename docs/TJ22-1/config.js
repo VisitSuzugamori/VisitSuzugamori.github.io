@@ -16,8 +16,8 @@ const config = {
       hidden: false,
       title: '品川駅',
       image: '',
-      tweet_id: '1557837978483179520',
-      description: '<p>7巻   東京都港区 高輪三丁目26</p><div class="tweetContainer" id="tweet1557837978483179520"></div> ',
+      tweet_id: '1561155087388807168',
+      description: '<p>7巻   東京都港区 高輪三丁目26</p><div class="tweetContainer" id="tweet1561155087388807168"></div> ',
       location: {
         center: [139.7387597, 35.6284713],
         zoom: 14,
@@ -76,8 +76,8 @@ const config = {
       hidden: false,
       title: '紋別空港（オホーツク紋別空港）',
       image: '',
-      tweet_id: '1558393345201868803',
-      description: '<p>7巻   北海道紋別市 </p><div class="tweetContainer" id="tweet1558393345201868803"></div> ',
+      tweet_id: '1560834384009211904',
+      description: '<p>7巻   北海道紋別市 </p><div class="tweetContainer" id="tweet1560834384009211904"></div> ',
       location: {
         center: [143.4068361, 44.306398],
         zoom: 14,
@@ -176,8 +176,8 @@ const config = {
       hidden: false,
       title: '松寿し',
       image: '',
-      tweet_id: '',
-      description: '<p>7巻   北海道北見市 </p> ',
+      tweet_id: '1561918012340543488',
+      description: '<p>7巻   北海道北見市 </p><div class="tweetContainer" id="tweet1561918012340543488"></div> ',
       location: {
         center: [144.0708245, 44.121295],
         zoom: 14,
