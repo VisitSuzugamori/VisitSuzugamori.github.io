@@ -16,8 +16,8 @@ const config = {
       hidden: false,
       title: '鋸山山頂',
       image: '',
-      tweet_id: '1558661287215009793',
-      description: '<p>   千葉県富津市 </p><div class="tweetContainer" id="tweet1558661287215009793"></div> ',
+      tweet_id: '1563102474755485696',
+      description: '<p>   千葉県富津市 </p><div class="tweetContainer" id="tweet1563102474755485696"></div> ',
       location: {
         center: [139.8284768, 35.1584928],
         zoom: 14,
@@ -37,7 +37,7 @@ const config = {
       title: '千倉駅',
       image: '',
       tweet_id: '',
-      description: '<p>   千葉県南房総市 千倉町瀬戸</p> <p><img alt="DSCF5060" src="https://live.staticflickr.com/959/27431164097_3d5c00b51b_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.9767087&amp;lon=139.9547124&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【DSCF5060】 by yugo.sakai</p>',
+      description: '<p>   千葉県南房総市 千倉町瀬戸</p> <p><img alt="IMG_9259" src="https://live.staticflickr.com/903/28427314358_c36f1116c7_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.9767087&amp;lon=139.9547124&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【IMG_9259】 by yugo.sakai</p>',
       location: {
         center: [139.9547124, 34.9767087],
         zoom: 14,
@@ -97,7 +97,7 @@ const config = {
       title: '南房総市観光協会千倉観光案内所(千倉駅構内)',
       image: '',
       tweet_id: '',
-      description: '<p>   千葉県南房総市 千倉町瀬戸</p> <p><img alt="IMG_9259" src="https://live.staticflickr.com/903/28427314358_c36f1116c7_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.976704&amp;lon=139.9545765&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【IMG_9259】 by yugo.sakai</p>',
+      description: '<p>   千葉県南房総市 千倉町瀬戸</p> <p><img alt="DSCF5060" src="https://live.staticflickr.com/959/27431164097_3d5c00b51b_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.976704&amp;lon=139.9545765&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【DSCF5060】 by yugo.sakai</p>',
       location: {
         center: [139.9545765, 34.976704],
         zoom: 14,
@@ -236,8 +236,8 @@ const config = {
       hidden: false,
       title: '野島埼灯台',
       image: '',
-      tweet_id: '1559109697529122817',
-      description: '<p>   千葉県南房総市 </p><div class="tweetContainer" id="tweet1559109697529122817"></div> ',
+      tweet_id: '1560451244283645953',
+      description: '<p>   千葉県南房総市 </p><div class="tweetContainer" id="tweet1560451244283645953"></div> ',
       location: {
         center: [139.8883406, 34.9017272],
         zoom: 14,
@@ -256,8 +256,8 @@ const config = {
       hidden: false,
       title: '最南端',
       image: '',
-      tweet_id: '1559411341860802560',
-      description: '<p>   千葉県南房総市 </p><div class="tweetContainer" id="tweet1559411341860802560"></div> ',
+      tweet_id: '1560454003745488898',
+      description: '<p>   千葉県南房総市 </p><div class="tweetContainer" id="tweet1560454003745488898"></div> ',
       location: {
         center: [139.879022, 34.904775],
         zoom: 14,
@@ -276,8 +276,8 @@ const config = {
       hidden: false,
       title: '安房神社',
       image: '',
-      tweet_id: '1558641085374685184',
-      description: '<p>   千葉県館山市 大神宮376</p><div class="tweetContainer" id="tweet1558641085374685184"></div> ',
+      tweet_id: '1563435593962770432',
+      description: '<p>   千葉県館山市 大神宮376</p><div class="tweetContainer" id="tweet1563435593962770432"></div> ',
       location: {
         center: [139.8368799, 34.9224666],
         zoom: 14,
@@ -296,8 +296,8 @@ const config = {
       hidden: false,
       title: '浜金谷駅',
       image: '',
-      tweet_id: '',
-      description: '<p>   千葉県富津市 </p> <p><img alt="Kanaya#3" src="https://live.staticflickr.com/65535/51735519668_e63f7b58e3_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.1681316&amp;lon=139.8222539&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Kanaya#3】 by tetsuo5</p>',
+      tweet_id: '1563682001160396801',
+      description: '<p>   千葉県富津市 </p><div class="tweetContainer" id="tweet1563682001160396801"></div> ',
       location: {
         center: [139.8222539, 35.1681316],
         zoom: 14,
