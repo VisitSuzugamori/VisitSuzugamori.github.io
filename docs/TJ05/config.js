@@ -217,7 +217,7 @@ const config = {
       title: '天橋立ビューランド',
       image: '',
       tweet_id: '',
-      description: '<p>2巻 P32  京都府宮津市 文珠1</p> <p><img alt="宮津 天橋立 Amanohashidate, Miyazu, Japan" src="https://live.staticflickr.com/65535/51995322145_6c57fb70f2_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.5527779&amp;lon=135.1821171&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【宮津 天橋立 Amanohashidate, Miyazu, Japan】 by スーパーサイヤ人Ⅳ</p>',
+      description: '<p>2巻 P32  京都府宮津市 文珠1</p> <p><img alt="宮津 天橋立 Amanohashidate, Miyazu, Japan" src="https://live.staticflickr.com/65535/51995051679_f28e81d129_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.5527779&amp;lon=135.1821171&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【宮津 天橋立 Amanohashidate, Miyazu, Japan】 by スーパーサイヤ人Ⅳ</p>',
       location: {
         center: [135.1821171, 35.5527779],
         zoom: 14,
@@ -236,8 +236,8 @@ const config = {
       hidden: false,
       title: '天橋立',
       image: '',
-      tweet_id: '1560511159853531136',
-      description: '<p>2巻 P35  京都府宮津市 字江尻927</p><div class="tweetContainer" id="tweet1560511159853531136"></div> ',
+      tweet_id: '1563726396685357057',
+      description: '<p>2巻 P35  京都府宮津市 字江尻927</p><div class="tweetContainer" id="tweet1563726396685357057"></div> ',
       location: {
         center: [135.1918204, 35.5698022],
         zoom: 14,

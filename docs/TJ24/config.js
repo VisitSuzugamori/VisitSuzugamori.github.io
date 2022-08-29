@@ -16,8 +16,8 @@ const config = {
       hidden: false,
       title: '竜王駅',
       image: '',
-      tweet_id: '1562749277402673155',
-      description: '<p>   山梨県甲斐市 竜王新町464</p><div class="tweetContainer" id="tweet1562749277402673155"></div> ',
+      tweet_id: '1563747531229650945',
+      description: '<p>   山梨県甲斐市 竜王新町464</p><div class="tweetContainer" id="tweet1563747531229650945"></div> ',
       location: {
         center: [138.5193729, 35.6687078],
         zoom: 14,

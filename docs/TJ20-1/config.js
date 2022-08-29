@@ -57,7 +57,7 @@ const config = {
       title: '師匠はよしてって～',
       image: '',
       tweet_id: '',
-      description: '<p>6巻 P72  高知県南国市 駅前町二丁目3</p> <p><img alt="nankoku_20190905111300" src="https://live.staticflickr.com/65535/49844880672_539a7d01db_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=33.5788333&amp;lon=133.6458189&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【nankoku_20190905111300】 by inunami</p>',
+      description: '<p>6巻 P72  高知県南国市 駅前町二丁目3</p> <p><img alt="IMG_9740.jpg" src="https://live.staticflickr.com/1613/26139466803_0e51c15fdb_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=33.5788333&amp;lon=133.6458189&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【IMG_9740.jpg】 by Kuruman</p>',
       location: {
         center: [133.6458189, 33.5788333],
         zoom: 14,
@@ -77,7 +77,7 @@ const config = {
       title: 'ショッピングセンター パステポコ・ア・ポコ南国店',
       image: '',
       tweet_id: '',
-      description: '<p>6巻 P73  高知県南国市 駅前町二丁目3</p> <p><img alt="nankoku_20190905111603" src="https://live.staticflickr.com/65535/49844880412_6cbf656155_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=33.578697&amp;lon=133.6453861&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【nankoku_20190905111603】 by inunami</p>',
+      description: '<p>6巻 P73  高知県南国市 駅前町二丁目3</p> <p><img alt="nankoku_20190905111300" src="https://live.staticflickr.com/65535/49844880672_539a7d01db_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=33.578697&amp;lon=133.6453861&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【nankoku_20190905111300】 by inunami</p>',
       location: {
         center: [133.6453861, 33.578697],
         zoom: 14,
@@ -177,7 +177,7 @@ const config = {
       title: '桟橋通五丁目駅',
       image: '',
       tweet_id: '',
-      description: '<p>6巻 P80  高知県高知市 桟橋通五丁目3</p> <p><img alt="2017-10-07, Kochi, Sambashidori 5-chome" src="https://live.staticflickr.com/4575/37517548384_4a9d1e32e6_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=33.5404756&amp;lon=133.5527511&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【2017-10-07, Kochi, Sambashidori 5-chome】 by Fototak</p>',
+      description: '<p>6巻 P80  高知県高知市 桟橋通五丁目3</p> <p><img alt="Sanbashi-dori 5-chome sta." src="https://live.staticflickr.com/5028/5702686355_086302e401_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=33.5404756&amp;lon=133.5527511&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Sanbashi-dori 5-chome sta.】 by wamu8</p>',
       location: {
         center: [133.5527511, 33.5404756],
         zoom: 14,

@@ -317,7 +317,7 @@ const config = {
       title: '東京乗馬倶楽部',
       image: '',
       tweet_id: '',
-      description: '<p>5巻 P144  東京都渋谷区 代々木神園町4</p> <p><img alt="R0001896_DxO" src="https://live.staticflickr.com/65535/51792426864_2898077e01_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.6791113&amp;lon=139.694663&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【R0001896_DxO】 by bebe1998jp</p>',
+      description: '<p>5巻 P144  東京都渋谷区 代々木神園町4</p> <p><img alt="" src="https://live.staticflickr.com/65535/51759326558_40c6bb7183_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.6791113&amp;lon=139.694663&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【】 by life_through_a_lens</p>',
       location: {
         center: [139.694663, 35.6791113],
         zoom: 14,
@@ -377,7 +377,7 @@ const config = {
       title: 'なんだこれ？',
       image: '',
       tweet_id: '',
-      description: '<p>5巻 P145  東京都新宿区 西新宿二丁目9</p> <p><img alt="Tokyo - Vue depuis la Mairie (10)" src="https://live.staticflickr.com/65535/52209579951_16bae1ecea_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.6886568&amp;lon=139.6915634&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Tokyo - Vue depuis la Mairie (10)】 by Matrok</p>',
+      description: '<p>5巻 P145  東京都新宿区 西新宿二丁目9</p> <p><img alt="Tokyo City Hall" src="https://live.staticflickr.com/65535/52273893588_dc034545ef_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.6886568&amp;lon=139.6915634&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Tokyo City Hall】 by Matthias Harbers</p>',
       location: {
         center: [139.6915634, 35.6886568],
         zoom: 14,
@@ -477,7 +477,7 @@ const config = {
       title: '杉並区立玉川上水公園',
       image: '',
       tweet_id: '',
-      description: '<p>5巻 P149  東京都杉並区 和泉二丁目8</p> <p><img alt="Water Tanks in Izumi Water Pressure Regulating Place" src="https://live.staticflickr.com/4541/38209359252_2e03398cb7_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.6713219&amp;lon=139.651149&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Water Tanks in Izumi Water Pressure Regulating Place】 by ykanazawa1999</p>',
+      description: '<p>5巻 P149  東京都杉並区 和泉二丁目8</p> <p><img alt="杉並区立玉川上水公園" src="https://live.staticflickr.com/65535/51205465635_de6f2786a0_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.6713219&amp;lon=139.651149&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【杉並区立玉川上水公園】 by いしだなおと</p>',
       location: {
         center: [139.651149, 35.6713219],
         zoom: 14,
@@ -497,7 +497,7 @@ const config = {
       title: '普通の街という感じ・・・',
       image: '',
       tweet_id: '',
-      description: '<p>5巻 P150  東京都杉並区 和泉二丁目14</p> <p><img alt="Construction Platform over the Kanda River" src="https://live.staticflickr.com/7309/27486755916_5b1cc3b3fe_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.6731172&amp;lon=139.6478716&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Construction Platform over the Kanda River】 by ykanazawa1999</p>',
+      description: '<p>5巻 P150  東京都杉並区 和泉二丁目14</p> <p><img alt="Flying" src="https://live.staticflickr.com/6031/7016554651_220c8955ed_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.6731172&amp;lon=139.6478716&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Flying】 by Takahiro Yamamoto (2nd account)</p>',
       location: {
         center: [139.6478716, 35.6731172],
         zoom: 14,
