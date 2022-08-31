@@ -37,7 +37,7 @@ const config = {
       title: 'オホーツクの塔',
       image: '',
       tweet_id: '',
-      description: '<p>7巻   北海道網走市 </p> <p><img alt="L1009111" src="https://live.staticflickr.com/1897/43515868224_95bb4c0496_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=44.1106685&amp;lon=144.2473548&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【L1009111】 by bluepointchen</p>',
+      description: '<p>7巻   北海道網走市 </p> <p><img alt="能取岬-日本北海道之旅" src="https://live.staticflickr.com/3919/14508477371_f331b652e5_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=44.1106685&amp;lon=144.2473548&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【能取岬-日本北海道之旅】 by Tommy19H</p>',
       location: {
         center: [144.2473548, 44.1106685],
         zoom: 14,
@@ -57,7 +57,7 @@ const config = {
       title: '能取の荘 かがり屋',
       image: '',
       tweet_id: '',
-      description: '<p>7巻   北海道網走市 </p> <p><img alt="20210203 07:10 Uharanai Hokkaido" src="https://live.staticflickr.com/65535/50904374111_de537d3b9f_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=44.0124153&amp;lon=144.1156977&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【20210203 07:10 Uharanai Hokkaido】 by ichigosugawara</p>',
+      description: '<p>7巻   北海道網走市 </p> <p><img alt="SEA OF GRASS (100_4606s)" src="https://live.staticflickr.com/4468/37101519434_d280ec02e1_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=44.0124153&amp;lon=144.1156977&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【SEA OF GRASS (100_4606s)】 by cyppoon (Chris Poon)</p>',
       location: {
         center: [144.1156977, 44.0124153],
         zoom: 14,
@@ -117,7 +117,7 @@ const config = {
       title: '能取岬灯台',
       image: '',
       tweet_id: '',
-      description: '<p>7巻   北海道網走市 </p> <p><img alt="DSC_0222" src="https://live.staticflickr.com/65535/51373902734_fa09d51cd3_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=44.1121076&amp;lon=144.2432936&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【DSC_0222】 by ylefou2004</p>',
+      description: '<p>7巻   北海道網走市 </p> <p><img alt="20210201 15:01 Abashiri Hokkaido" src="https://live.staticflickr.com/65535/50897590677_e80e2d3764_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=44.1121076&amp;lon=144.2432936&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【20210201 15:01 Abashiri Hokkaido】 by ichigosugawara</p>',
       location: {
         center: [144.2432936, 44.1121076],
         zoom: 14,
@@ -216,8 +216,8 @@ const config = {
       hidden: false,
       title: '知床自然センター',
       image: '',
-      tweet_id: '',
-      description: '<p>7巻   北海道斜里郡 斜里町 </p> <p><img alt="知床" src="https://live.staticflickr.com/65535/52021653014_e02ee495b4_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=44.0914881&amp;lon=145.0229617&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【知床】 by Chitaka Chou</p>',
+      tweet_id: '1564799735860301824',
+      description: '<p>7巻   北海道斜里郡 斜里町 </p><div class="tweetContainer" id="tweet1564799735860301824"></div> ',
       location: {
         center: [145.0229617, 44.0914881],
         zoom: 14,
@@ -297,7 +297,7 @@ const config = {
       title: '中湧別駅跡',
       image: '',
       tweet_id: '',
-      description: '<p>7巻   北海道紋別郡 湧別町 中湧別南町</p> <p><img alt="Naka-Yubetsu Sta." src="https://live.staticflickr.com/65535/49066584457_25b7252cbb_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=44.1853551&amp;lon=143.5957829&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Naka-Yubetsu Sta.】 by Takk D. Martin</p>',
+      description: '<p>7巻   北海道紋別郡 湧別町 中湧別南町</p> <p><img alt="IMG_0225" src="https://live.staticflickr.com/65535/51392441149_1401586a82_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=44.1853551&amp;lon=143.5957829&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【IMG_0225】 by tnoma</p>',
       location: {
         center: [143.5957829, 44.1853551],
         zoom: 14,

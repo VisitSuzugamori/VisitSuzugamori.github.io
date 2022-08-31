@@ -77,7 +77,7 @@ const config = {
       title: '旧大社駅舎',
       image: '',
       tweet_id: '',
-      description: '<p>3巻 P134  島根県出雲市 大社町北荒木452</p> <p><img alt="OLD Taisha Station (Izumo, Shimane, Japan)" src="https://live.staticflickr.com/4698/24796736207_fa4a70532f_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.3866419&amp;lon=132.690256&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【OLD Taisha Station (Izumo, Shimane, Japan)】 by t-mizo</p>',
+      description: '<p>3巻 P134  島根県出雲市 大社町北荒木452</p> <p><img alt="Former Taisha Station, Shimane  出雲大社　旧大社駅　島根" src="https://live.staticflickr.com/65535/50192567213_b75a7e68bd_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.3866419&amp;lon=132.690256&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Former Taisha Station, Shimane  出雲大社　旧大社駅　島根】 by Anaguma</p>',
       location: {
         center: [132.690256, 35.3866419],
         zoom: 14,
@@ -96,8 +96,8 @@ const config = {
       hidden: false,
       title: '出雲大社 大鳥居',
       image: '',
-      tweet_id: '1560823982814797825',
-      description: '<p>3巻 P137  島根県出雲市 大社町杵築南1386</p><div class="tweetContainer" id="tweet1560823982814797825"></div> ',
+      tweet_id: '1564038788258701313',
+      description: '<p>3巻 P137  島根県出雲市 大社町杵築南1386</p><div class="tweetContainer" id="tweet1564038788258701313"></div> ',
       location: {
         center: [132.6872784, 35.391579],
         zoom: 14,
@@ -117,7 +117,7 @@ const config = {
       title: '俵屋菓舗 神門店',
       image: '',
       tweet_id: '',
-      description: '<p>3巻 P137  島根県出雲市 大社町杵築南775</p> <p><img alt="出雲大社" src="https://live.staticflickr.com/65535/51353236080_11e7daf080_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.3952169&amp;lon=132.6867573&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【出雲大社】 by Chitaka Chou</p>',
+      description: '<p>3巻 P137  島根県出雲市 大社町杵築南775</p> <p><img alt="出雲大社" src="https://live.staticflickr.com/65535/51352439043_c492742c6a_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.3952169&amp;lon=132.6867573&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【出雲大社】 by Chitaka Chou</p>',
       location: {
         center: [132.6867573, 35.3952169],
         zoom: 14,
@@ -137,7 +137,7 @@ const config = {
       title: '出雲日本海 出雲大社正門前店',
       image: '',
       tweet_id: '',
-      description: '<p>3巻 P137  島根県出雲市 大社町杵築南839</p> <p><img alt="出雲大社" src="https://live.staticflickr.com/65535/51352441128_d14225bb31_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.3962535&amp;lon=132.6863131&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【出雲大社】 by Chitaka Chou</p>',
+      description: '<p>3巻 P137  島根県出雲市 大社町杵築南839</p> <p><img alt="出雲大社" src="https://live.staticflickr.com/65535/51353236080_11e7daf080_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.3962535&amp;lon=132.6863131&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【出雲大社】 by Chitaka Chou</p>',
       location: {
         center: [132.6863131, 35.3962535],
         zoom: 14,
@@ -156,8 +156,8 @@ const config = {
       hidden: false,
       title: '出雲大社 勢溜の大鳥居',
       image: '',
-      tweet_id: '1561295465773162501',
-      description: '<p>3巻 P139  島根県出雲市 大社町杵築東3286</p><div class="tweetContainer" id="tweet1561295465773162501"></div> ',
+      tweet_id: '',
+      description: '<p>3巻 P139  島根県出雲市 大社町杵築東3286</p> <p><img alt="出雲大社" src="https://live.staticflickr.com/65535/51352441128_d14225bb31_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.3967051&amp;lon=132.6863743&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【出雲大社】 by Chitaka Chou</p>',
       location: {
         center: [132.6863743, 35.3967051],
         zoom: 14,
@@ -176,8 +176,8 @@ const config = {
       hidden: false,
       title: 'うさぎ！',
       image: '',
-      tweet_id: '1561176879742205954',
-      description: '<p>3巻 P139  島根県出雲市 大社町杵築東266</p><div class="tweetContainer" id="tweet1561176879742205954"></div> ',
+      tweet_id: '',
+      description: '<p>3巻 P139  島根県出雲市 大社町杵築東266</p> <p><img alt="Izumo Taisha Grand Shrine" src="https://live.staticflickr.com/65535/51822283655_7d7e855456_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.3994106&amp;lon=132.6852047&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Izumo Taisha Grand Shrine】 by 雷太</p>',
       location: {
         center: [132.6852047, 35.3994106],
         zoom: 14,
@@ -276,8 +276,8 @@ const config = {
       hidden: false,
       title: '出雲大社前駅',
       image: '',
-      tweet_id: '1561302296234950656',
-      description: '<p>3巻 P145  島根県出雲市 大社町杵築南1346</p><div class="tweetContainer" id="tweet1561302296234950656"></div> ',
+      tweet_id: '1564035881626918912',
+      description: '<p>3巻 P145  島根県出雲市 大社町杵築南1346</p><div class="tweetContainer" id="tweet1564035881626918912"></div> ',
       location: {
         center: [132.6870732, 35.3935224],
         zoom: 14,

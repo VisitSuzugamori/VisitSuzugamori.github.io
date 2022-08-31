@@ -237,7 +237,7 @@ const config = {
       title: '函館グルメ回転ずし函太郎 宇賀浦本店',
       image: '',
       tweet_id: '',
-      description: '<p>7巻   北海道函館市 宇賀浦町14</p> <p><img alt="IMG20180204134419" src="https://live.staticflickr.com/1929/44915848742_92c3c86e0b_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=41.770788&amp;lon=140.745451&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【IMG20180204134419】 by redice0112</p>',
+      description: '<p>7巻   北海道函館市 宇賀浦町14</p> <p><img alt="" src="https://live.staticflickr.com/1805/28433357897_080566afee_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=41.770788&amp;lon=140.745451&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【】 by TokyoJimu</p>',
       location: {
         center: [140.745451, 41.770788],
         zoom: 14,
@@ -276,8 +276,8 @@ const config = {
       hidden: false,
       title: '石川啄木一族の墓',
       image: '',
-      tweet_id: '1561240352383811584',
-      description: '<p>7巻   北海道函館市 住吉町15</p><div class="tweetContainer" id="tweet1561240352383811584"></div> ',
+      tweet_id: '',
+      description: '<p>7巻   北海道函館市 住吉町15</p> <p><img alt="DSC00920" src="https://live.staticflickr.com/4560/37534155994_5c3fc4a194_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=41.7474858&amp;lon=140.7194496&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【DSC00920】 by スーパーサイヤ人Ⅳ</p>',
       location: {
         center: [140.7194496, 41.7474858],
         zoom: 14,
@@ -296,8 +296,8 @@ const config = {
       hidden: false,
       title: '立待岬',
       image: '',
-      tweet_id: '1561242371681026055',
-      description: '<p>7巻   北海道函館市 住吉町15</p><div class="tweetContainer" id="tweet1561242371681026055"></div> ',
+      tweet_id: '',
+      description: '<p>7巻   北海道函館市 住吉町15</p> <p><img alt="Tsugaru Strait" src="https://live.staticflickr.com/65535/51971873627_603eac0afc_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=41.7450354&amp;lon=140.7212027&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Tsugaru Strait】 by 雷太</p>',
       location: {
         center: [140.7212027, 41.7450354],
         zoom: 14,
