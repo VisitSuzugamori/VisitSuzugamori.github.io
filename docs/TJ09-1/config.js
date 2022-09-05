@@ -76,8 +76,8 @@ const config = {
       hidden: false,
       title: '広島駅',
       image: '',
-      tweet_id: '1563834943591292930',
-      description: '<p>2巻 P146  広島県広島市 南区 松原町1</p><div class="tweetContainer" id="tweet1563834943591292930"></div> ',
+      tweet_id: '1566347915123372032',
+      description: '<p>2巻 P146  広島県広島市 南区 松原町1</p><div class="tweetContainer" id="tweet1566347915123372032"></div> ',
       location: {
         center: [132.4753786, 34.397667],
         zoom: 14,
@@ -136,8 +136,8 @@ const config = {
       hidden: false,
       title: '宮島桟橋',
       image: '',
-      tweet_id: '1561938814628958209',
-      description: '<p>2巻 P151  広島県廿日市市 宮島町873</p><div class="tweetContainer" id="tweet1561938814628958209"></div> ',
+      tweet_id: '1565472381409304578',
+      description: '<p>2巻 P151  広島県廿日市市 宮島町873</p><div class="tweetContainer" id="tweet1565472381409304578"></div> ',
       location: {
         center: [132.3222151, 34.3020862],
         zoom: 14,
