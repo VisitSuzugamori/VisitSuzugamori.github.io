@@ -16,8 +16,8 @@ const config = {
       hidden: false,
       title: '東京駅',
       image: '',
-      tweet_id: '1566429802415894530',
-      description: '<p>1巻 P126  東京都千代田区 丸の内一丁目9</p><div class="tweetContainer" id="tweet1566429802415894530"></div> ',
+      tweet_id: '1566291657255194624',
+      description: '<p>1巻 P126  東京都千代田区 丸の内一丁目9</p><div class="tweetContainer" id="tweet1566291657255194624"></div> ',
       location: {
         center: [139.7671248, 35.6812362],
         zoom: 14,
@@ -76,8 +76,8 @@ const config = {
       hidden: false,
       title: '高松築港駅',
       image: '',
-      tweet_id: '1563840338518855680',
-      description: '<p>1巻 P132  香川県高松市 寿町一丁目5</p><div class="tweetContainer" id="tweet1563840338518855680"></div> ',
+      tweet_id: '1567271783413305345',
+      description: '<p>1巻 P132  香川県高松市 寿町一丁目5</p><div class="tweetContainer" id="tweet1567271783413305345"></div> ',
       location: {
         center: [134.049468, 34.350757],
         zoom: 14,

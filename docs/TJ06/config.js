@@ -97,7 +97,7 @@ const config = {
       title: 'どうくつ酒造（島崎酒造）',
       image: '',
       tweet_id: '',
-      description: '<p>2巻 P52  栃木県那須烏山市 神長140</p> <p><img alt="The 県境・鷲子山上神社" src="https://live.staticflickr.com/1804/28052450337_c891472214_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=36.65687&amp;lon=140.1381&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【The 県境・鷲子山上神社】 by cyberwonk</p>',
+      description: '<p>2巻 P52  栃木県那須烏山市 神長140</p> <p><img alt="どうくつ 入口" src="https://live.staticflickr.com/1809/28052444307_dff4826361_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=36.65687&amp;lon=140.1381&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【どうくつ 入口】 by cyberwonk</p>',
       location: {
         center: [140.1381, 36.65687],
         zoom: 14,
@@ -137,7 +137,7 @@ const config = {
       title: '(株)島崎酒造',
       image: '',
       tweet_id: '',
-      description: '<p>2巻 P58  栃木県那須烏山市 中央二丁目1</p> <p><img alt="栃木県那須烏山市（旧烏山町）" src="https://live.staticflickr.com/4814/44985821574_86d5da260f_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=36.6557618&amp;lon=140.1536827&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【栃木県那須烏山市（旧烏山町）】 by hiro.dir</p>',
+      description: '<p>2巻 P58  栃木県那須烏山市 中央二丁目1</p> <p><img alt="IMG_0530" src="https://live.staticflickr.com/3955/15570283960_e737e924d2_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=36.6557618&amp;lon=140.1536827&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【IMG_0530】 by ducksfrogs</p>',
       location: {
         center: [140.1536827, 36.6557618],
         zoom: 14,

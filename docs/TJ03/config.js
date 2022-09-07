@@ -137,7 +137,7 @@ const config = {
       title: '宇奈月温泉駅',
       image: '',
       tweet_id: '',
-      description: '<p>1巻 P110  富山県黒部市 宇奈月温泉243</p> <p><img alt="IMG_9216" src="https://live.staticflickr.com/65535/51113922862_38c0566693_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=36.8157746&amp;lon=137.5836311&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【IMG_9216】 by OOMYV</p>',
+      description: '<p>1巻 P110  富山県黒部市 宇奈月温泉243</p> <p><img alt="IMG_9227" src="https://live.staticflickr.com/65535/51113923082_d12ccb0951_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=36.8157746&amp;lon=137.5836311&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【IMG_9227】 by OOMYV</p>',
       location: {
         center: [137.5836311, 36.8157746],
         zoom: 14,
@@ -217,7 +217,7 @@ const config = {
       title: 'やまびこ展望台',
       image: '',
       tweet_id: '',
-      description: '<p>1巻 P117  富山県黒部市 黒部峡谷口9</p> <p><img alt="610_7139" src="https://live.staticflickr.com/65535/50951990736_2f0538e281_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=36.8142871&amp;lon=137.5881562&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【610_7139】 by Lox Pix</p>',
+      description: '<p>1巻 P117  富山県黒部市 黒部峡谷口9</p> <p><img alt="610_7136" src="https://live.staticflickr.com/65535/50951287223_bbe270992c_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=36.8142871&amp;lon=137.5881562&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【610_7136】 by Lox Pix</p>',
       location: {
         center: [137.5881562, 36.8142871],
         zoom: 14,

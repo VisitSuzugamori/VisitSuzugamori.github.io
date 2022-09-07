@@ -16,8 +16,8 @@ const config = {
       hidden: false,
       title: '竜王駅',
       image: '',
-      tweet_id: '1563747531229650945',
-      description: '<p>   山梨県甲斐市 竜王新町464</p><div class="tweetContainer" id="tweet1563747531229650945"></div> ',
+      tweet_id: '',
+      description: '<p>   山梨県甲斐市 竜王新町464</p> <p><img alt="Today’s dinner - Jul. 30, 2022" src="https://live.staticflickr.com/65535/52257400724_a719e7f067_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.6687078&amp;lon=138.5193729&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Today’s dinner - Jul. 30, 2022】 by miko0219</p>',
       location: {
         center: [138.5193729, 35.6687078],
         zoom: 14,
@@ -177,7 +177,7 @@ const config = {
       title: '信玄橋',
       image: '',
       tweet_id: '',
-      description: '<p>   山梨県甲斐市 竜王2089</p> <p><img alt="IMG_3449.JPG" src="https://live.staticflickr.com/8431/7872839364_a3c3f05032_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.6641283&amp;lon=138.502834&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【IMG_3449.JPG】 by drillhidea</p>',
+      description: '<p>   山梨県甲斐市 竜王2089</p> ',
       location: {
         center: [138.502834, 35.6641283],
         zoom: 14,

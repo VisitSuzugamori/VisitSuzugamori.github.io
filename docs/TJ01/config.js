@@ -36,8 +36,8 @@ const config = {
       hidden: false,
       title: '磐梯熱海駅',
       image: '',
-      tweet_id: '1563712529725095936',
-      description: '<p>1巻 P23  福島県郡山市 熱海町熱海一丁目109</p><div class="tweetContainer" id="tweet1563712529725095936"></div> ',
+      tweet_id: '1567049552686882818',
+      description: '<p>1巻 P23  福島県郡山市 熱海町熱海一丁目109</p><div class="tweetContainer" id="tweet1567049552686882818"></div> ',
       location: {
         center: [140.2708687, 37.4808961],
         zoom: 14,
