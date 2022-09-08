@@ -57,7 +57,7 @@ const config = {
       title: '藤岡酒造',
       image: '',
       tweet_id: '',
-      description: '<p>2巻 P16  京都府京都市 伏見区 今町669</p> <p><img alt="珍遊のラーメン" src="https://live.staticflickr.com/65535/50115002776_30c119f009_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.9351213&amp;lon=135.7624568&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【珍遊のラーメン】 by albertus</p>',
+      description: '<p>2巻 P16  京都府京都市 伏見区 今町669</p> <p><img alt="ラーメン・明太子定食" src="https://live.staticflickr.com/65535/50011517023_820f1aa7c5_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.9351213&amp;lon=135.7624568&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【ラーメン・明太子定食】 by albertus</p>',
       location: {
         center: [135.7624568, 34.9351213],
         zoom: 14,
@@ -177,7 +177,7 @@ const config = {
       title: '茶六本館',
       image: '',
       tweet_id: '',
-      description: '<p>2巻 P22  京都府宮津市 字本町842</p> <p><img alt="Miyazu#35" src="https://live.staticflickr.com/4441/36267565394_6d632f3211_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.5368405&amp;lon=135.1918306&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Miyazu#35】 by tetsuo5</p>',
+      description: '<p>2巻 P22  京都府宮津市 字本町842</p> <p><img alt="Miyazu#19" src="https://live.staticflickr.com/4358/36084114584_8b03b6eef6_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.5368405&amp;lon=135.1918306&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Miyazu#19】 by tetsuo5</p>',
       location: {
         center: [135.1918306, 35.5368405],
         zoom: 14,
@@ -197,7 +197,7 @@ const config = {
       title: '天橋立ビューランド リフト・モノレールのりば',
       image: '',
       tweet_id: '',
-      description: '<p>2巻 P31  京都府宮津市 字文珠190</p> <p><img alt="amanohashidate_20211008155541" src="https://live.staticflickr.com/65535/51812257259_2bcfa21c1e_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.5557202&amp;lon=135.1839285&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【amanohashidate_20211008155541】 by inunami</p>',
+      description: '<p>2巻 P31  京都府宮津市 字文珠190</p> <p><img alt="amanohashidate_20211008155834" src="https://live.staticflickr.com/65535/51810953767_e3f0aa7963_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.5557202&amp;lon=135.1839285&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【amanohashidate_20211008155834】 by inunami</p>',
       location: {
         center: [135.1839285, 35.5557202],
         zoom: 14,
@@ -236,8 +236,8 @@ const config = {
       hidden: false,
       title: '天橋立',
       image: '',
-      tweet_id: '1565084773995130881',
-      description: '<p>2巻 P35  京都府宮津市 字江尻927</p><div class="tweetContainer" id="tweet1565084773995130881"></div> ',
+      tweet_id: '1567699948187287552',
+      description: '<p>2巻 P35  京都府宮津市 字江尻927</p><div class="tweetContainer" id="tweet1567699948187287552"></div> ',
       location: {
         center: [135.1918204, 35.5698022],
         zoom: 14,
