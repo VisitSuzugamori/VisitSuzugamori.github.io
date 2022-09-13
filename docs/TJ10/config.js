@@ -37,7 +37,7 @@ const config = {
       title: '萱野茶屋',
       image: '',
       tweet_id: '',
-      description: '<p>3巻 P32  青森県青森市 大字横内字八重菊62</p> <p><img alt="" src="https://live.staticflickr.com/7886/47193495301_8710185f1e_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=40.7057577&amp;lon=140.8223047&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【】 by mhrs.jp</p>',
+      description: '<p>3巻 P32  青森県青森市 大字横内字八重菊62</p> <p><img alt="20181005八甲田" src="https://live.staticflickr.com/4870/46524326451_cd8e8e7742_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=40.7057577&amp;lon=140.8223047&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【20181005八甲田】 by trlintw</p>',
       location: {
         center: [140.8223047, 40.7057577],
         zoom: 14,
@@ -76,8 +76,8 @@ const config = {
       hidden: false,
       title: '谷地温泉',
       image: '',
-      tweet_id: '',
-      description: '<p>3巻 P38  青森県十和田市 </p> <p><img alt="Yachi onsen, one of the secret onsen of Aomori" src="https://live.staticflickr.com/65535/50036012223_af7d118d43_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=40.6330178&amp;lon=140.9245271&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Yachi onsen, one of the secret onsen of Aomori】 by Hans ter Horst Photography</p>',
+      tweet_id: '1569234034592731136',
+      description: '<p>3巻 P38  青森県十和田市 </p><div class="tweetContainer" id="tweet1569234034592731136"></div> ',
       location: {
         center: [140.9245271, 40.6330178],
         zoom: 14,
@@ -157,7 +157,7 @@ const config = {
       title: '宇曽利山湖 極楽浜',
       image: '',
       tweet_id: '',
-      description: '<p>3巻 P51  青森県むつ市 </p> <p><img alt="恐山" src="https://live.staticflickr.com/65535/50327664441_0856db8fa1_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=41.3264966&amp;lon=141.086011&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【恐山】 by himeti</p>',
+      description: '<p>3巻 P51  青森県むつ市 </p> <p><img alt="æ¥µæ¥½æµ" src="https://live.staticflickr.com/5449/30300212020_093342e31e_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=41.3264966&amp;lon=141.086011&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【æ¥µæ¥½æµ】 by kanata-t</p>',
       location: {
         center: [141.086011, 41.3264966],
         zoom: 14,
@@ -177,7 +177,7 @@ const config = {
       title: '恐山 花染の湯',
       image: '',
       tweet_id: '',
-      description: '<p>3巻 P52  青森県むつ市 </p> <p><img alt="Brána do zásvětí" src="https://live.staticflickr.com/65535/51547085772_622db872a4_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=41.3283697&amp;lon=141.0917047&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Brána do zásvětí】 by SocialHermit</p>',
+      description: '<p>3巻 P52  青森県むつ市 </p> <p><img alt="Pekelná krajina" src="https://live.staticflickr.com/65535/51548121888_2ae021f18a_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=41.3283697&amp;lon=141.0917047&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Pekelná krajina】 by SocialHermit</p>',
       location: {
         center: [141.0917047, 41.3283697],
         zoom: 14,

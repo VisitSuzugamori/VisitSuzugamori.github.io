@@ -36,8 +36,8 @@ const config = {
       hidden: false,
       title: '後免駅',
       image: '',
-      tweet_id: '1566364827945414664',
-      description: '<p>6巻 P71  高知県南国市 駅前町二丁目3</p><div class="tweetContainer" id="tweet1566364827945414664"></div> ',
+      tweet_id: '1568787819593867266',
+      description: '<p>6巻 P71  高知県南国市 駅前町二丁目3</p><div class="tweetContainer" id="tweet1568787819593867266"></div> ',
       location: {
         center: [133.6454058, 33.5791401],
         zoom: 14,
@@ -77,7 +77,7 @@ const config = {
       title: 'ショッピングセンター パステポコ・ア・ポコ南国店',
       image: '',
       tweet_id: '',
-      description: '<p>6巻 P73  高知県南国市 駅前町二丁目3</p> <p><img alt="nankoku_20190905114442" src="https://live.staticflickr.com/65535/49844880052_32aae9bd78_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=33.578697&amp;lon=133.6453861&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【nankoku_20190905114442】 by inunami</p>',
+      description: '<p>6巻 P73  高知県南国市 駅前町二丁目3</p> <p><img alt="nankoku_20190905111603" src="https://live.staticflickr.com/65535/49844880412_6cbf656155_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=33.578697&amp;lon=133.6453861&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【nankoku_20190905111603】 by inunami</p>',
       location: {
         center: [133.6453861, 33.578697],
         zoom: 14,
@@ -296,8 +296,8 @@ const config = {
       hidden: false,
       title: '長宗我部元親像',
       image: '',
-      tweet_id: '',
-      description: '<p>6巻 P83  高知県高知市 長浜5714</p> <p><img alt="姫若子" src="https://live.staticflickr.com/6013/6016875198_40d0ea07d0_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=33.4930629&amp;lon=133.5462907&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【姫若子】 by jour13</p>',
+      tweet_id: '1569169289210482691',
+      description: '<p>6巻 P83  高知県高知市 長浜5714</p><div class="tweetContainer" id="tweet1569169289210482691"></div> ',
       location: {
         center: [133.5462907, 33.4930629],
         zoom: 14,

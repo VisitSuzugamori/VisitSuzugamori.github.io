@@ -237,7 +237,7 @@ const config = {
       title: '弁慶橋',
       image: '',
       tweet_id: '',
-      description: '<p>5巻 P141  東京都千代田区 紀尾井町1</p> <p><img alt="Tokyo life" src="https://live.staticflickr.com/65535/52332355407_e79982a0db_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.6788421&amp;lon=139.7362698&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Tokyo life】 by S. Ken</p>',
+      description: '<p>5巻 P141  東京都千代田区 紀尾井町1</p> <p><img alt="Tokyo Metropolitan" src="https://live.staticflickr.com/65535/52333739780_9519efcfde_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.6788421&amp;lon=139.7362698&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Tokyo Metropolitan】 by S. Ken</p>',
       location: {
         center: [139.7362698, 35.6788421],
         zoom: 14,
@@ -337,7 +337,7 @@ const config = {
       title: '大都会味ある',
       image: '',
       tweet_id: '',
-      description: '<p>5巻 P144  東京都新宿区 西新宿三丁目15</p> <p><img alt="New West" src="https://live.staticflickr.com/65535/51940763107_45f999c692_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.6839315&amp;lon=139.690806&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【New West】 by YOSHIHIKO WADA</p>',
+      description: '<p>5巻 P144  東京都新宿区 西新宿三丁目15</p> <p><img alt="Ramp to Shinjuku Exit of Shutoko No.4 in 2020 October" src="https://live.staticflickr.com/65535/52020012524_57e41ec4bb_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.6839315&amp;lon=139.690806&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Ramp to Shinjuku Exit of Shutoko No.4 in 2020 October】 by ykanazawa1999</p>',
       location: {
         center: [139.690806, 35.6839315],
         zoom: 14,
@@ -377,7 +377,7 @@ const config = {
       title: 'なんだこれ？',
       image: '',
       tweet_id: '',
-      description: '<p>5巻 P145  東京都新宿区 西新宿二丁目9</p> <p><img alt="Tokyo City Hall" src="https://live.staticflickr.com/65535/52273893588_dc034545ef_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.6886568&amp;lon=139.6915634&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Tokyo City Hall】 by Matthias Harbers</p>',
+      description: '<p>5巻 P145  東京都新宿区 西新宿二丁目9</p> <p><img alt="すべての写真-8742" src="https://live.staticflickr.com/65535/52342772796_bd60a320a0_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.6886568&amp;lon=139.6915634&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【すべての写真-8742】 by taitan-no</p>',
       location: {
         center: [139.6915634, 35.6886568],
         zoom: 14,
@@ -477,7 +477,7 @@ const config = {
       title: '杉並区立玉川上水公園',
       image: '',
       tweet_id: '',
-      description: '<p>5巻 P149  東京都杉並区 和泉二丁目8</p> <p><img alt="Water Tanks in Izumi Water Pressure Regulating Place" src="https://live.staticflickr.com/4541/38209359252_2e03398cb7_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.6713219&amp;lon=139.651149&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Water Tanks in Izumi Water Pressure Regulating Place】 by ykanazawa1999</p>',
+      description: '<p>5巻 P149  東京都杉並区 和泉二丁目8</p> <p><img alt="杉並区立玉川上水公園" src="https://live.staticflickr.com/65535/51205465635_de6f2786a0_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.6713219&amp;lon=139.651149&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【杉並区立玉川上水公園】 by いしだなおと</p>',
       location: {
         center: [139.651149, 35.6713219],
         zoom: 14,
@@ -497,7 +497,7 @@ const config = {
       title: '普通の街という感じ・・・',
       image: '',
       tweet_id: '',
-      description: '<p>5巻 P150  東京都杉並区 和泉二丁目14</p> <p><img alt="Kitabori Line Tower No.31" src="https://live.staticflickr.com/712/21884026486_c92f68113f_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.6731172&amp;lon=139.6478716&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Kitabori Line Tower No.31】 by ykanazawa1999</p>',
+      description: '<p>5巻 P150  東京都杉並区 和泉二丁目14</p> <p><img alt="Power Line Tower and Path along the Kanda River" src="https://live.staticflickr.com/5834/20873931178_7be91ae4a0_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.6731172&amp;lon=139.6478716&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Power Line Tower and Path along the Kanda River】 by ykanazawa1999</p>',
       location: {
         center: [139.6478716, 35.6731172],
         zoom: 14,
