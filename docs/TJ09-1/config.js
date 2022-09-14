@@ -57,7 +57,7 @@ const config = {
       title: '広島テレビ放送',
       image: '',
       tweet_id: '',
-      description: '<p>2巻 P145  広島県広島市 東区 二葉の里三丁目5</p> <p><img alt="DSCN4234" src="https://live.staticflickr.com/65535/51621626564_04973ecfd5_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.3999238&amp;lon=132.4758202&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【DSCN4234】 by Matt-The Mechanic</p>',
+      description: '<p>2巻 P145  広島県広島市 東区 二葉の里三丁目5</p> <p><img alt="Hiroshima, Japan" src="https://live.staticflickr.com/65535/51810452937_609386756b_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.3999238&amp;lon=132.4758202&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Hiroshima, Japan】 by Foraggio Photographic</p>',
       location: {
         center: [132.4758202, 34.3999238],
         zoom: 14,
@@ -76,8 +76,8 @@ const config = {
       hidden: false,
       title: '広島駅',
       image: '',
-      tweet_id: '1566347915123372032',
-      description: '<p>2巻 P146  広島県広島市 南区 松原町1</p><div class="tweetContainer" id="tweet1566347915123372032"></div> ',
+      tweet_id: '1568466302666428417',
+      description: '<p>2巻 P146  広島県広島市 南区 松原町1</p><div class="tweetContainer" id="tweet1568466302666428417"></div> ',
       location: {
         center: [132.4753786, 34.397667],
         zoom: 14,
@@ -117,7 +117,7 @@ const config = {
       title: 'あなごめし うえの 宮島口本店',
       image: '',
       tweet_id: '',
-      description: '<p>2巻 P148  広島県廿日市市 宮島口一丁目5</p> <p><img alt="Miyajimaguchi Ferry Terminal, Hatsukaichi" src="https://live.staticflickr.com/65535/51332670684_8c1e88e6c6_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.311502&amp;lon=132.3035106&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Miyajimaguchi Ferry Terminal, Hatsukaichi】 by Kzaral</p>',
+      description: '<p>2巻 P148  広島県廿日市市 宮島口一丁目5</p> <p><img alt="IMG_3840" src="https://live.staticflickr.com/65535/51373328993_57f2969684_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.311502&amp;lon=132.3035106&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【IMG_3840】 by ylefou2004</p>',
       location: {
         center: [132.3035106, 34.311502],
         zoom: 14,
@@ -157,7 +157,7 @@ const config = {
       title: '嚴島神社 大鳥居（布の中）',
       image: '',
       tweet_id: '',
-      description: '<p>2巻 P152,153  </p> <p><img alt="Torii-Hiroshima-Japan" src="https://live.staticflickr.com/65535/51196060049_e73e7224c5_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.2973092&amp;lon=132.3181276&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Torii-Hiroshima-Japan】 by noussa noussa</p>',
+      description: '<p>2巻 P152,153  </p> <p><img alt="The torii of Itsukushima Shrine in bokeh, Miyajima" src="https://live.staticflickr.com/65535/52284121992_61f86524e6_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.2973092&amp;lon=132.3181276&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【The torii of Itsukushima Shrine in bokeh, Miyajima】 by Hans ter Horst Photography</p>',
       location: {
         center: [132.3181276, 34.2973092],
         zoom: 14,

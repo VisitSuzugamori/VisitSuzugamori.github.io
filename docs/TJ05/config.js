@@ -57,7 +57,7 @@ const config = {
       title: '藤岡酒造',
       image: '',
       tweet_id: '',
-      description: '<p>2巻 P16  京都府京都市 伏見区 今町669</p> <p><img alt="ウルトラマン、古い都を守るぞ!!😅#ウルトラマン #ULTRAMAN #superhero #男子休日 #京都 #春休み" src="https://live.staticflickr.com/2918/33786638512_012d36414f_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.9351213&amp;lon=135.7624568&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【ウルトラマン、古い都を守るぞ!!😅#ウルトラマン #ULTRAMAN #superhero #男子休日 #京都 #春休み】 by JT116~</p>',
+      description: '<p>2巻 P16  京都府京都市 伏見区 今町669</p> <p><img alt="珍遊のラーメン" src="https://live.staticflickr.com/65535/50115002776_30c119f009_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.9351213&amp;lon=135.7624568&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【珍遊のラーメン】 by albertus</p>',
       location: {
         center: [135.7624568, 34.9351213],
         zoom: 14,
@@ -77,7 +77,7 @@ const config = {
       title: '月桂冠大倉記念館',
       image: '',
       tweet_id: '',
-      description: '<p>2巻 P17  京都府京都市 伏見区 本材木町680</p> <p><img alt="Chinese style gate" src="https://live.staticflickr.com/65535/51951157057_ab6c350446_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.929136&amp;lon=135.76161&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Chinese style gate】 by yukky89_yamashita</p>',
+      description: '<p>2巻 P17  京都府京都市 伏見区 本材木町680</p> <p><img alt="Water leads itself to its vessel." src="https://live.staticflickr.com/65535/52093636473_acbd90b8c6_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.929136&amp;lon=135.76161&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Water leads itself to its vessel.】 by yukky89_yamashita</p>',
       location: {
         center: [135.76161, 34.929136],
         zoom: 14,
@@ -97,7 +97,7 @@ const config = {
       title: 'ラー麺・陽はまた昇る 伏見稲荷駅前本店',
       image: '',
       tweet_id: '',
-      description: '<p>2巻 P17  京都府京都市 伏見区 深草一ノ坪町35</p> <p><img alt="JPN_10_4077" src="https://live.staticflickr.com/65535/52295436331_40e133b528_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.968596&amp;lon=135.768613&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【JPN_10_4077】 by Miki Badt</p>',
+      description: '<p>2巻 P17  京都府京都市 伏見区 深草一ノ坪町35</p> <p><img alt="JPN_10_4079" src="https://live.staticflickr.com/65535/52295700439_a04cc5ec58_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.968596&amp;lon=135.768613&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【JPN_10_4079】 by Miki Badt</p>',
       location: {
         center: [135.768613, 34.968596],
         zoom: 14,
@@ -156,8 +156,8 @@ const config = {
       hidden: false,
       title: '富田屋',
       image: '',
-      tweet_id: '1566267300377944065',
-      description: '<p>2巻 P22  京都府宮津市 字鶴賀2066</p><div class="tweetContainer" id="tweet1566267300377944065"></div> ',
+      tweet_id: '',
+      description: '<p>2巻 P22  京都府宮津市 字鶴賀2066</p> <p><img alt="kyoto_tango_railway_20211008153929" src="https://live.staticflickr.com/65535/51817209892_ca91e7ab1a_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.534848&amp;lon=135.1992613&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【kyoto_tango_railway_20211008153929】 by inunami</p>',
       location: {
         center: [135.1992613, 35.534848],
         zoom: 14,
@@ -277,7 +277,7 @@ const config = {
       title: '丹後國一之宮 元伊勢 籠神社',
       image: '',
       tweet_id: '',
-      description: '<p>2巻 P37  京都府宮津市 江尻430</p> <p><img alt="宮津 天橋立 Amanohashidate, Miyazu, Japan" src="https://live.staticflickr.com/65535/51995433155_297899287e_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.5827837&amp;lon=135.1967015&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【宮津 天橋立 Amanohashidate, Miyazu, Japan】 by スーパーサイヤ人Ⅳ</p>',
+      description: '<p>2巻 P37  京都府宮津市 江尻430</p> <p><img alt="宮津 天橋立 Amanohashidate, Miyazu, Japan" src="https://live.staticflickr.com/65535/51994947338_569ef5e42a_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.5827837&amp;lon=135.1967015&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【宮津 天橋立 Amanohashidate, Miyazu, Japan】 by スーパーサイヤ人Ⅳ</p>',
       location: {
         center: [135.1967015, 35.5827837],
         zoom: 14,

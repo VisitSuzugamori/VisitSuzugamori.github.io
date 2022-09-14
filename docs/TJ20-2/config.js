@@ -16,8 +16,8 @@ const config = {
       hidden: false,
       title: '東京駅',
       image: '',
-      tweet_id: '1568882135750279168',
-      description: '<p>6巻 P132  東京都千代田区 丸の内一丁目9</p><div class="tweetContainer" id="tweet1568882135750279168"></div> ',
+      tweet_id: '1569894823875969026',
+      description: '<p>6巻 P132  東京都千代田区 丸の内一丁目9</p><div class="tweetContainer" id="tweet1569894823875969026"></div> ',
       location: {
         center: [139.7671248, 35.6812362],
         zoom: 14,
@@ -36,8 +36,8 @@ const config = {
       hidden: false,
       title: '桂浜',
       image: '',
-      tweet_id: '1566629817579368448',
-      description: '<p>6巻 P108  高知県高知市 浦戸778</p><div class="tweetContainer" id="tweet1566629817579368448"></div> ',
+      tweet_id: '1569556793256443905',
+      description: '<p>6巻 P108  高知県高知市 浦戸778</p><div class="tweetContainer" id="tweet1569556793256443905"></div> ',
       location: {
         center: [133.5749209, 33.4971366],
         zoom: 14,
@@ -256,8 +256,8 @@ const config = {
       hidden: false,
       title: '龍王岬展望台',
       image: '',
-      tweet_id: '1566297579763412992',
-      description: '<p>6巻 P135  高知県高知市 浦戸830</p><div class="tweetContainer" id="tweet1566297579763412992"></div> ',
+      tweet_id: '',
+      description: '<p>6巻 P135  高知県高知市 浦戸830</p> <p><img alt="Ryuo-gu (龍王宮 海津見神社)" src="https://live.staticflickr.com/65535/52068716838_377865f237_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=33.4955899&amp;lon=133.5743881&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Ryuo-gu (龍王宮 海津見神社)】 by pantkiewicz</p>',
       location: {
         center: [133.5743881, 33.4955899],
         zoom: 14,
