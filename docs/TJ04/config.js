@@ -236,8 +236,8 @@ const config = {
       hidden: false,
       title: '栗林公園',
       image: '',
-      tweet_id: '1567030949707403265',
-      description: '<p>1巻 P157  香川県高松市 栗林町一丁目20</p><div class="tweetContainer" id="tweet1567030949707403265"></div> ',
+      tweet_id: '',
+      description: '<p>1巻 P157  香川県高松市 栗林町一丁目20</p> <p><img alt="Ritsurin Garden (栗林公園)" src="https://live.staticflickr.com/65535/52068542516_dd1751281c_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.3293842&amp;lon=134.0445345&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Ritsurin Garden (栗林公園)】 by pantkiewicz</p>',
       location: {
         center: [134.0445345, 34.3293842],
         zoom: 14,

@@ -96,8 +96,8 @@ const config = {
       hidden: false,
       title: 'コンフォートホテル呉',
       image: '',
-      tweet_id: '1567295490831810560',
-      description: '<p>3巻 P12  広島県呉市 宝町2</p><div class="tweetContainer" id="tweet1567295490831810560"></div> ',
+      tweet_id: '',
+      description: '<p>3巻 P12  広島県呉市 宝町2</p> <p><img alt="IMG_3753" src="https://live.staticflickr.com/65535/51403547307_d5688e8347_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.2431335&amp;lon=132.5586395&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【IMG_3753】 by Kai_Yi</p>',
       location: {
         center: [132.5586395, 34.2431335],
         zoom: 14,
@@ -157,7 +157,7 @@ const config = {
       title: '日招きの里 呉ハイカラ食堂',
       image: '',
       tweet_id: '',
-      description: '<p>3巻 P15  広島県呉市 宝町4</p> <p><img alt="大和ミュージアム" src="https://live.staticflickr.com/65535/52150339095_b7a6b1b1b6_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.2415568&amp;lon=132.5574165&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【大和ミュージアム】 by Chitaka Chou</p>',
+      description: '<p>3巻 P15  広島県呉市 宝町4</p> <p><img alt="大和ミュージアム" src="https://live.staticflickr.com/65535/52148832157_1cfb5c7326_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.2415568&amp;lon=132.5574165&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【大和ミュージアム】 by Chitaka Chou</p>',
       location: {
         center: [132.5574165, 34.2415568],
         zoom: 14,
