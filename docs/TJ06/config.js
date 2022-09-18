@@ -36,8 +36,8 @@ const config = {
       hidden: false,
       title: '滝駅',
       image: '',
-      tweet_id: '1568395856554127361',
-      description: '<p>2巻 P47  栃木県那須烏山市 滝233</p><div class="tweetContainer" id="tweet1568395856554127361"></div> ',
+      tweet_id: '1571055989516038145',
+      description: '<p>2巻 P47  栃木県那須烏山市 滝233</p><div class="tweetContainer" id="tweet1571055989516038145"></div> ',
       location: {
         center: [140.1381941, 36.6485846],
         zoom: 14,
@@ -97,7 +97,7 @@ const config = {
       title: 'どうくつ酒造（島崎酒造）',
       image: '',
       tweet_id: '',
-      description: '<p>2巻 P52  栃木県那須烏山市 神長140</p> <p><img alt="The 県境・鷲子山上神社" src="https://live.staticflickr.com/892/41111024770_e511ae4653_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=36.65687&amp;lon=140.1381&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【The 県境・鷲子山上神社】 by cyberwonk</p>',
+      description: '<p>2巻 P52  栃木県那須烏山市 神長140</p> <p><img alt="The 県境・鷲子山上神社" src="https://live.staticflickr.com/1804/28052450337_c891472214_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=36.65687&amp;lon=140.1381&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【The 県境・鷲子山上神社】 by cyberwonk</p>',
       location: {
         center: [140.1381, 36.65687],
         zoom: 14,
@@ -216,8 +216,8 @@ const config = {
       hidden: false,
       title: 'もり食堂',
       image: '',
-      tweet_id: '',
-      description: '<p>2巻 P62  栃木県那須烏山市 </p> ',
+      tweet_id: '1570996204716322816',
+      description: '<p>2巻 P62  栃木県那須烏山市 </p><div class="tweetContainer" id="tweet1570996204716322816"></div> ',
       location: {
         center: [140.1852927, 36.649359],
         zoom: 14,

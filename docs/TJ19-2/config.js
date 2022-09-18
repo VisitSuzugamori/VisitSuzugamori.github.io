@@ -16,8 +16,8 @@ const config = {
       hidden: false,
       title: '東京駅',
       image: '',
-      tweet_id: '1570225078926974976',
-      description: '<p>6巻 P38  東京都千代田区 丸の内一丁目9</p><div class="tweetContainer" id="tweet1570225078926974976"></div> ',
+      tweet_id: '1571411621955899393',
+      description: '<p>6巻 P38  東京都千代田区 丸の内一丁目9</p><div class="tweetContainer" id="tweet1571411621955899393"></div> ',
       location: {
         center: [139.7671248, 35.6812362],
         zoom: 14,
@@ -96,8 +96,8 @@ const config = {
       hidden: false,
       title: '道の駅 おおた',
       image: '',
-      tweet_id: '1570281955014361089',
-      description: '<p>6巻 P40  群馬県太田市 粕川町701</p><div class="tweetContainer" id="tweet1570281955014361089"></div> ',
+      tweet_id: '1570751646052896768',
+      description: '<p>6巻 P40  群馬県太田市 粕川町701</p><div class="tweetContainer" id="tweet1570751646052896768"></div> ',
       location: {
         center: [139.2959965, 36.2645224],
         zoom: 14,
@@ -236,8 +236,8 @@ const config = {
       hidden: false,
       title: '水上駅',
       image: '',
-      tweet_id: '1567674192350564352',
-      description: '<p>6巻 P56  群馬県利根郡 みなかみ町 鹿野沢70</p><div class="tweetContainer" id="tweet1567674192350564352"></div> ',
+      tweet_id: '1568453631695028224',
+      description: '<p>6巻 P56  群馬県利根郡 みなかみ町 鹿野沢70</p><div class="tweetContainer" id="tweet1568453631695028224"></div> ',
       location: {
         center: [138.9688398, 36.778636],
         zoom: 14,

@@ -17,7 +17,7 @@ const config = {
       title: '湯倉神社 鳥居',
       image: '',
       tweet_id: '',
-      description: '<p>7巻   北海道函館市 湯川町二丁目28</p> <p><img alt="IMG_2775" src="https://live.staticflickr.com/7442/11099034766_738e8f95d7_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=41.7815466&amp;lon=140.7909432&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【IMG_2775】 by keizo_t</p>',
+      description: '<p>7巻   北海道函館市 湯川町二丁目28</p> <p><img alt="神の遣い" src="https://live.staticflickr.com/7908/46474498784_75598b96c5_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=41.7815466&amp;lon=140.7909432&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【神の遣い】 by Y.Masayoshi</p>',
       location: {
         center: [140.7909432, 41.7815466],
         zoom: 14,
@@ -36,8 +36,8 @@ const config = {
       hidden: false,
       title: '湯倉神社',
       image: '',
-      tweet_id: '1567424313174937601',
-      description: '<p>7巻   北海道函館市 湯川町二丁目28</p><div class="tweetContainer" id="tweet1567424313174937601"></div> ',
+      tweet_id: '',
+      description: '<p>7巻   北海道函館市 湯川町二丁目28</p> <p><img alt="Waiting to board" src="https://live.staticflickr.com/1803/42197235135_68a1b2d5e0_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=41.7821053&amp;lon=140.7910231&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Waiting to board】 by kevincrumbs</p>',
       location: {
         center: [140.7910231, 41.7821053],
         zoom: 14,
@@ -76,8 +76,8 @@ const config = {
       hidden: false,
       title: 'コーヒールームきくち',
       image: '',
-      tweet_id: '1567759345806626816',
-      description: '<p>7巻   北海道函館市 湯川町三丁目13</p><div class="tweetContainer" id="tweet1567759345806626816"></div> ',
+      tweet_id: '',
+      description: '<p>7巻   北海道函館市 湯川町三丁目13</p> <p><img alt="IMAG6430" src="https://live.staticflickr.com/65535/52020214979_3cba6da620_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=41.7776852&amp;lon=140.7931866&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【IMAG6430】 by 形影believe</p>',
       location: {
         center: [140.7931866, 41.7776852],
         zoom: 14,
@@ -137,7 +137,7 @@ const config = {
       title: '湯川堤防',
       image: '',
       tweet_id: '',
-      description: '<p>7巻   北海道函館市 湯川町三丁目1</p> <p><img alt="2018 - 0807 iMG_783 平成館しおさい亭別館花月" src="https://live.staticflickr.com/1873/30457375638_3e720b770d_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=41.7731667&amp;lon=140.7874485&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【2018 - 0807 iMG_783 平成館しおさい亭別館花月】 by PIPIQ.LAI</p>',
+      description: '<p>7巻   北海道函館市 湯川町三丁目1</p> <p><img alt="2018 - 0807 iMG_779 平成館しおさい亭別館花月" src="https://live.staticflickr.com/1882/44276158652_0795d523a2_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=41.7731667&amp;lon=140.7874485&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【2018 - 0807 iMG_779 平成館しおさい亭別館花月】 by PIPIQ.LAI</p>',
       location: {
         center: [140.7874485, 41.7731667],
         zoom: 14,
@@ -277,7 +277,7 @@ const config = {
       title: '石川啄木一族の墓',
       image: '',
       tweet_id: '',
-      description: '<p>7巻   北海道函館市 住吉町15</p> <p><img alt="DSC00925" src="https://live.staticflickr.com/4453/37534148784_3503dc3381_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=41.7474858&amp;lon=140.7194496&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【DSC00925】 by スーパーサイヤ人Ⅳ</p>',
+      description: '<p>7巻   北海道函館市 住吉町15</p> <p><img alt="DSC00920" src="https://live.staticflickr.com/4560/37534155994_5c3fc4a194_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=41.7474858&amp;lon=140.7194496&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【DSC00920】 by スーパーサイヤ人Ⅳ</p>',
       location: {
         center: [140.7194496, 41.7474858],
         zoom: 14,
