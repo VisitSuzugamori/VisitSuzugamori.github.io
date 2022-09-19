@@ -96,8 +96,8 @@ const config = {
       hidden: false,
       title: '能取岬',
       image: '',
-      tweet_id: '1568363709084618752',
-      description: '<p>7巻   北海道網走市 </p><div class="tweetContainer" id="tweet1568363709084618752"></div> ',
+      tweet_id: '1568777894138368000',
+      description: '<p>7巻   北海道網走市 </p><div class="tweetContainer" id="tweet1568777894138368000"></div> ',
       location: {
         center: [144.2434854, 44.1133485],
         zoom: 14,
@@ -177,7 +177,7 @@ const config = {
       title: '道の駅 うとろ・シリエトク',
       image: '',
       tweet_id: '',
-      description: '<p>7巻   北海道斜里郡 斜里町 </p> <p><img alt="36222-Shiretoko" src="https://live.staticflickr.com/65535/49140707982_12234d6091_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=44.069034&amp;lon=144.990695&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【36222-Shiretoko】 by xiquinhosilva</p>',
+      description: '<p>7巻   北海道斜里郡 斜里町 </p> <p><img alt="ウトロ港" src="https://live.staticflickr.com/65535/50387289793_30abd477db_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=44.069034&amp;lon=144.990695&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【ウトロ港】 by Chitaka Chou</p>',
       location: {
         center: [144.990695, 44.069034],
         zoom: 14,

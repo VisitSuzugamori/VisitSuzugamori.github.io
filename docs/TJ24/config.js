@@ -136,8 +136,8 @@ const config = {
       hidden: false,
       title: '信玄堤公園',
       image: '',
-      tweet_id: '1568371973486436357',
-      description: '<p>   山梨県甲斐市 竜王1891</p><div class="tweetContainer" id="tweet1568371973486436357"></div> ',
+      tweet_id: '',
+      description: '<p>   山梨県甲斐市 竜王1891</p> ',
       location: {
         center: [138.5019977, 35.6674453],
         zoom: 14,
