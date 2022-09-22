@@ -156,8 +156,8 @@ const config = {
       hidden: false,
       title: '金森赤レンガ倉庫',
       image: '',
-      tweet_id: '1568849665734619138',
-      description: '<p>7巻   北海道函館市 豊川町11</p><div class="tweetContainer" id="tweet1568849665734619138"></div> ',
+      tweet_id: '1571758595364237313',
+      description: '<p>7巻   北海道函館市 豊川町11</p><div class="tweetContainer" id="tweet1571758595364237313"></div> ',
       location: {
         center: [140.7176349, 41.7673531],
         zoom: 14,
@@ -236,8 +236,8 @@ const config = {
       hidden: false,
       title: '函館山ロープウェイ山麓駅',
       image: '',
-      tweet_id: '1571078030218465280',
-      description: '<p>7巻   北海道函館市 元町19</p><div class="tweetContainer" id="tweet1571078030218465280"></div> ',
+      tweet_id: '1572468843993534465',
+      description: '<p>7巻   北海道函館市 元町19</p><div class="tweetContainer" id="tweet1572468843993534465"></div> ',
       location: {
         center: [140.7143007, 41.7609078],
         zoom: 14,

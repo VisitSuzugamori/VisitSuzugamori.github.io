@@ -76,8 +76,8 @@ const config = {
       hidden: false,
       title: '旧大社駅舎',
       image: '',
-      tweet_id: '1569499752039088129',
-      description: '<p>3巻 P134  島根県出雲市 大社町北荒木452</p><div class="tweetContainer" id="tweet1569499752039088129"></div> ',
+      tweet_id: '',
+      description: '<p>3巻 P134  島根県出雲市 大社町北荒木452</p> <p><img alt="Former Taisha Station, Shimane  出雲大社　旧大社駅　島根" src="https://live.staticflickr.com/65535/50192567213_b75a7e68bd_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.3866419&amp;lon=132.690256&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Former Taisha Station, Shimane  出雲大社　旧大社駅　島根】 by Anaguma</p>',
       location: {
         center: [132.690256, 35.3866419],
         zoom: 14,
@@ -236,8 +236,8 @@ const config = {
       hidden: false,
       title: '出雲大社 神楽殿',
       image: '',
-      tweet_id: '',
-      description: '<p>3巻 P142  島根県出雲市 大社町杵築東257</p> <p><img alt="Izumo in Japan: Roofscape of Izumo-taisha" src="https://live.staticflickr.com/65535/52117347905_2474604293_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.4015453&amp;lon=132.6844634&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Izumo in Japan: Roofscape of Izumo-taisha】 by Odd Roar Aalborg</p>',
+      tweet_id: '1572422384891867137',
+      description: '<p>3巻 P142  島根県出雲市 大社町杵築東257</p><div class="tweetContainer" id="tweet1572422384891867137"></div> ',
       location: {
         center: [132.6844634, 35.4015453],
         zoom: 14,
