@@ -16,8 +16,8 @@ const config = {
       hidden: false,
       title: '東京駅',
       image: '',
-      tweet_id: '1571738739306643457',
-      description: '<p>6巻 P132  東京都千代田区 丸の内一丁目9</p><div class="tweetContainer" id="tweet1571738739306643457"></div> ',
+      tweet_id: '1573863798011662337',
+      description: '<p>6巻 P132  東京都千代田区 丸の内一丁目9</p><div class="tweetContainer" id="tweet1573863798011662337"></div> ',
       location: {
         center: [139.7671248, 35.6812362],
         zoom: 14,
@@ -36,8 +36,8 @@ const config = {
       hidden: false,
       title: '桂浜',
       image: '',
-      tweet_id: '1572745999134904321',
-      description: '<p>6巻 P108  高知県高知市 浦戸778</p><div class="tweetContainer" id="tweet1572745999134904321"></div> ',
+      tweet_id: '1573217942061584384',
+      description: '<p>6巻 P108  高知県高知市 浦戸778</p><div class="tweetContainer" id="tweet1573217942061584384"></div> ',
       location: {
         center: [133.5749209, 33.4971366],
         zoom: 14,
@@ -156,8 +156,8 @@ const config = {
       hidden: false,
       title: '奈半利駅',
       image: '',
-      tweet_id: '',
-      description: '<p>6巻 P124  高知県安芸郡 奈半利町 乙978</p> <p><img alt="nahari_20190905093608" src="https://live.staticflickr.com/65535/49844540966_ae50115601_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=33.4250302&amp;lon=134.0180808&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【nahari_20190905093608】 by inunami</p>',
+      tweet_id: '1573593323108966400',
+      description: '<p>6巻 P124  高知県安芸郡 奈半利町 乙978</p><div class="tweetContainer" id="tweet1573593323108966400"></div> ',
       location: {
         center: [134.0180808, 33.4250302],
         zoom: 14,

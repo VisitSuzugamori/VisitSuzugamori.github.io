@@ -97,7 +97,7 @@ const config = {
       title: '竜王北小学校前横断歩道橋',
       image: '',
       tweet_id: '',
-      description: '<p>   山梨県甲斐市 竜王1047</p> ',
+      description: '<p>   山梨県甲斐市 竜王1047</p> <p><img alt="Mount Fuji viewed from the train" src="https://live.staticflickr.com/2440/3540651804_82cc689bbc_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.6678647&amp;lon=138.5078418&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Mount Fuji viewed from the train】 by mutantlog</p>',
       location: {
         center: [138.5078418, 35.6678647],
         zoom: 14,
