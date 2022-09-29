@@ -16,8 +16,8 @@ const config = {
       hidden: false,
       title: '東京ドームホテル',
       image: '',
-      tweet_id: '1571081193902440456',
-      description: '<p>2巻 P132  東京都文京区 後楽一丁目3</p><div class="tweetContainer" id="tweet1571081193902440456"></div> ',
+      tweet_id: '',
+      description: '<p>2巻 P132  東京都文京区 後楽一丁目3</p> <p><img alt="" src="https://live.staticflickr.com/65535/51921966420_6979b8ddb3_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.7036666&amp;lon=139.7533928&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【】 by gen ito</p>',
       location: {
         center: [139.7533928, 35.7036666],
         zoom: 14,
@@ -36,8 +36,8 @@ const config = {
       hidden: false,
       title: '海老名SA (下り)',
       image: '',
-      tweet_id: '1571222011120328704',
-      description: '<p>2巻 P141  神奈川県海老名市 大谷南五丁目2</p><div class="tweetContainer" id="tweet1571222011120328704"></div> ',
+      tweet_id: '1575304176690569216',
+      description: '<p>2巻 P141  神奈川県海老名市 大谷南五丁目2</p><div class="tweetContainer" id="tweet1575304176690569216"></div> ',
       location: {
         center: [139.4010198, 35.4310702],
         zoom: 14,

@@ -57,7 +57,7 @@ const config = {
       title: 'もみじ堂本店',
       image: '',
       tweet_id: '',
-      description: '<p>3巻 P10  広島県廿日市市 宮島町幸町西浜459</p> <p><img alt="Maroudo Shrine Haiden" src="https://live.staticflickr.com/65535/52056094581_30417ec706_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.2977872&amp;lon=132.320873&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Maroudo Shrine Haiden】 by Richard Weil</p>',
+      description: '<p>3巻 P10  広島県廿日市市 宮島町幸町西浜459</p> <p><img alt="Wild deer walking on the seashore" src="https://live.staticflickr.com/65535/52390062316_6601398b62_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.2977872&amp;lon=132.320873&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Wild deer walking on the seashore】 by Teruhide Tomori</p>',
       location: {
         center: [132.320873, 34.2977872],
         zoom: 14,
@@ -76,8 +76,8 @@ const config = {
       hidden: false,
       title: '呉駅',
       image: '',
-      tweet_id: '1571045562862174209',
-      description: '<p>3巻 P11  広島県呉市 宝町2</p><div class="tweetContainer" id="tweet1571045562862174209"></div> ',
+      tweet_id: '1573650607713689601',
+      description: '<p>3巻 P11  広島県呉市 宝町2</p><div class="tweetContainer" id="tweet1573650607713689601"></div> ',
       location: {
         center: [132.5575846, 34.2446471],
         zoom: 14,
@@ -216,8 +216,8 @@ const config = {
       hidden: false,
       title: '頂上展望台',
       image: '',
-      tweet_id: '1570998547939758083',
-      description: '<p>3巻 P21  広島県尾道市 東土堂町20</p><div class="tweetContainer" id="tweet1570998547939758083"></div> ',
+      tweet_id: '',
+      description: '<p>3巻 P21  広島県尾道市 東土堂町20</p> <p><img alt="IMGP7711" src="https://live.staticflickr.com/65535/52213898214_55a83c3a84_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.4106865&amp;lon=133.1969604&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【IMGP7711】 by shinnnnn0619</p>',
       location: {
         center: [133.1969604, 34.4106865],
         zoom: 14,
@@ -257,7 +257,7 @@ const config = {
       title: '鼓岩（付近）',
       image: '',
       tweet_id: '',
-      description: '<p>3巻 P29  広島県尾道市 東土堂町5</p> <p><img alt="IMGP7711" src="https://live.staticflickr.com/65535/52213898214_55a83c3a84_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.4097831&amp;lon=133.1976363&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【IMGP7711】 by shinnnnn0619</p>',
+      description: '<p>3巻 P29  広島県尾道市 東土堂町5</p> <p><img alt="IMGP7712" src="https://live.staticflickr.com/65535/52213639398_15f82f3bdb_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.4097831&amp;lon=133.1976363&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【IMGP7712】 by shinnnnn0619</p>',
       location: {
         center: [133.1976363, 34.4097831],
         zoom: 14,
