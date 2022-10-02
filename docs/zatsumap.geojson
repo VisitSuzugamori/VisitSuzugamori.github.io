@@ -6001,7 +6001,7 @@
                 "type": "Point"
             },
             "properties": {
-                "description": "竜王駅",
+                "description": "第24旅",
                 "name": "竜王駅"
             },
             "type": "Feature"
@@ -6157,6 +6157,160 @@
             "properties": {
                 "description": "第24旅",
                 "name": "芦安温泉 岩園館"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    138.4410014,
+                    35.6581298
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "第24旅",
+                "name": "晴れてよかった"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    138.439334,
+                    35.649285
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "第24旅",
+                "name": "八重森理容本店"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    138.4051215,
+                    35.6220081
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "第24旅",
+                "name": "高尾穂見神社"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    138.5046729,
+                    35.6371664
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "第24旅",
+                "name": "開国橋"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    138.5690631,
+                    35.6670981
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "第24旅",
+                "name": "甲府駅"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    138.5680188,
+                    35.6668252
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "第24旅",
+                "name": "武田信玄公之像"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    130.5417154,
+                    31.5836893
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "第25旅",
+                "name": "鹿児島中央駅"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    130.5461068,
+                    31.586563
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "第25旅",
+                "name": "大久保利通像"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    130.5472233,
+                    31.5869927
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "第25旅",
+                "name": "灰の集積所"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    130.5510241,
+                    31.5889911
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "第25旅",
+                "name": "樺山、黒田、大いに語る碑"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    130.553828,
+                    31.5914029
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "第25旅",
+                "name": "くろいわラーメン 本店"
             },
             "type": "Feature"
         }
