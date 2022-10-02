@@ -36,8 +36,8 @@ const config = {
       hidden: false,
       title: '大聖院',
       image: '',
-      tweet_id: '1575725752082997248',
-      description: '<p>3巻 P8  広島県廿日市市 宮島町滝町215</p><div class="tweetContainer" id="tweet1575725752082997248"></div> ',
+      tweet_id: '1576099054760579072',
+      description: '<p>3巻 P8  広島県廿日市市 宮島町滝町215</p><div class="tweetContainer" id="tweet1576099054760579072"></div> ',
       location: {
         center: [132.3184736, 34.2920477],
         zoom: 14,
@@ -136,8 +136,8 @@ const config = {
       hidden: false,
       title: '大和ミュージアム（呉市海事歴史科学館）',
       image: '',
-      tweet_id: '1573845728346181632',
-      description: '<p>3巻 P15  広島県呉市 宝町4</p><div class="tweetContainer" id="tweet1573845728346181632"></div> ',
+      tweet_id: '1576393222795952129',
+      description: '<p>3巻 P15  広島県呉市 宝町4</p><div class="tweetContainer" id="tweet1576393222795952129"></div> ',
       location: {
         center: [132.5558555, 34.2411391],
         zoom: 14,
@@ -176,8 +176,8 @@ const config = {
       hidden: false,
       title: '尾道駅',
       image: '',
-      tweet_id: '1573080852182929408',
-      description: '<p>3巻 P19  広島県尾道市 東御所町1</p><div class="tweetContainer" id="tweet1573080852182929408"></div> ',
+      tweet_id: '1575988095576481792',
+      description: '<p>3巻 P19  広島県尾道市 東御所町1</p><div class="tweetContainer" id="tweet1575988095576481792"></div> ',
       location: {
         center: [133.193159, 34.4048654],
         zoom: 14,

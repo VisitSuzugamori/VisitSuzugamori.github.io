@@ -301,7 +301,7 @@
       "title": "第21旅 北海道・道南前編",
       "place": "函館市 北斗市 亀田郡七飯町",
       "published": "2022, 電撃マオウ 2月号",
-      "books": null,
+      "books": "7巻",
       "subtitle": "たどり着いたら北",
       "camera": {"zoom": 10, "center": [140.74543169586593, 41.85]}
     },
@@ -312,7 +312,7 @@
       "title": "第21旅 北海道・道南後編",
       "place": "函館市 茅部郡森町 亀田郡七飯町",
       "published": "2022, 電撃マオウ 3月号",
-      "books": null,
+      "books": "7巻",
       "subtitle": "またくるぞ北",
       "camera": {"zoom": 10, "center": [140.74543169586593, 41.85]}
     },
@@ -323,7 +323,7 @@
       "title": "第22旅 北海道・道東前編",
       "place": "港区 大田区 紋別市 北見市",
       "published": "2022, 電撃マオウ 4月号",
-      "books": null,
+      "books": "7巻",
       "subtitle": "空からまたきた！",
       "camera": {"zoom": 10, "center": [143.704357, 44.2]}
     },
@@ -334,7 +334,7 @@
       "title": "第22旅 北海道・道東後編",
       "place": "千代田区 網走市 斜里郡斜里町 北見市",
       "published": "2022, 電撃マオウ 6月号",
-      "books": null,
+      "books": "7巻",
       "subtitle": "無くたって良いどう",
       "camera": {"zoom": 8, "center": [144.245963, 44.114228]}
     },
@@ -354,11 +354,103 @@
       "id": "TJ24",
       "key": "第24旅",
       "title": "第24旅 山梨",
-      "place": "甲斐市 南アルプス市",
+      "place": "甲斐市 南アルプス市 甲府市",
       "published": "2022, 電撃マオウ 9月号",
       "books": null,
       "subtitle": "甲斐国での誓い",
       "camera": {"zoom": 12, "center": [138.4650811, 35.6624298]}
+    },
+    "TJ25": {
+      "index": 25,
+      "id": "TJ25",
+      "key": "第25旅",
+      "title": "第25旅 鹿児島",
+      "place": "鹿児島市",
+      "published": "2022, 電撃マオウ 11月号",
+      "books": null,
+      "subtitle": "旅は自分に素直に",
+      "camera": {"zoom": 13, "center": [130.61762359254158, 31.55819552112636]}
+
+    }
+  },
+  "extra_stories": {
+    "TJX01": {
+      "id": "TJX01",
+      "title": "番外旅 うどんと後輩と",
+      "place": "自宅",
+      "published": "2020, 電撃マオウ 8月号",
+      "books": "4巻"
+    },
+    "TJX02": {
+      "id": "TJX02",
+      "title": "番外旅 載った！そして…！",
+      "place": "自宅",
+      "published": "2020, 電撃マオウ 10月号",
+      "books": "4巻"
+    },
+    "TJX03": {
+      "id": "TJX03",
+      "title": "番外旅 新しい挑戦！",
+      "place": "自宅 教習所",
+      "published": "ざつ旅4巻 書き下ろし",
+      "books": "4巻"
+    },
+    "TJX04": {
+      "id": "TJX04",
+      "title": "番外旅 さようなら2020年！",
+      "place": "自宅",
+      "published": "2021, 電撃マオウ 5月号",
+      "books": "5巻"
+    },
+    "TJX05": {
+      "id": "TJX05",
+      "title": "番外旅 思い出して旅",
+      "place": "自宅 その他",
+      "published": "2021, 電撃マオウ 9月号",
+      "books": "6巻"
+    },
+    "TJX06": {
+      "id": "TJX06",
+      "title": "番外旅 この先のため…！",
+      "place": "自宅 歌舞伎座 レインボーブリッジ",
+      "published": "2021, 電撃マオウ 11月号",
+      "books": "6巻"
+    },
+    "TJX07": {
+      "id": "TJX07",
+      "title": "番外旅 でっかい空とごはん",
+      "place": "南魚沼市 魚沼市",
+      "published": "電撃マオウ Encounter with the [Der Blaue Reiter]",
+      "books": "7巻",
+      "pr": "https://dengekimaoh.jp/news/special/20211019.html"
+    },
+    "TJX08": {
+      "id": "TJX08",
+      "title": "番外旅 そして次の旅が…！",
+      "place": "自宅 蓮沼宅前",
+      "published": "2022, 電撃マオウ 1月号",
+      "books": "6巻"
+    },
+    "TJX09": {
+      "id": "TJX09",
+      "title": "番外旅 描いた！出た！",
+      "place": "自宅",
+      "published": "2022, 電撃マオウ 5月号",
+      "books": null
+    },
+    "TJX10": {
+      "id": "TJX10",
+      "title": "番外旅 新しい始まり",
+      "place": "自宅 角川本社ビル(千代田区富士見)",
+      "published": "2022, 電撃マオウ 8月号",
+      "books": null
+    },
+    "TJX11": {
+      "id": "TJX11",
+      "title": "番外旅 それはきっと近い未来",
+      "place": "甲府駅 特急あずさ 自宅",
+      "published": "2022, 電撃マオウ 10月号",
+      "books": null
     }
   },
   "books": {

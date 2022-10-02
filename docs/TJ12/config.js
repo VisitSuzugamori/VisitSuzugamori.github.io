@@ -156,8 +156,8 @@ const config = {
       hidden: false,
       title: 'マルカンビル大食堂',
       image: '',
-      tweet_id: '1573074209118777349',
-      description: '<p>3巻 P101  岩手県花巻市 上町6</p><div class="tweetContainer" id="tweet1573074209118777349"></div> ',
+      tweet_id: '1576462194199482368',
+      description: '<p>3巻 P101  岩手県花巻市 上町6</p><div class="tweetContainer" id="tweet1576462194199482368"></div> ',
       location: {
         center: [141.11711, 39.385832],
         zoom: 14,

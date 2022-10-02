@@ -16,8 +16,8 @@ const config = {
       hidden: false,
       title: '東京駅',
       image: '',
-      tweet_id: '1575427207572267009',
-      description: '<p>1巻 P126  東京都千代田区 丸の内一丁目9</p><div class="tweetContainer" id="tweet1575427207572267009"></div> ',
+      tweet_id: '1576149812759920642',
+      description: '<p>1巻 P126  東京都千代田区 丸の内一丁目9</p><div class="tweetContainer" id="tweet1576149812759920642"></div> ',
       location: {
         center: [139.7671248, 35.6812362],
         zoom: 14,
@@ -56,8 +56,8 @@ const config = {
       hidden: false,
       title: '高松駅',
       image: '',
-      tweet_id: '1573885870180306945',
-      description: '<p>1巻 P131  香川県高松市 西の丸町2</p><div class="tweetContainer" id="tweet1573885870180306945"></div> ',
+      tweet_id: '1573878978116726785',
+      description: '<p>1巻 P131  香川県高松市 西の丸町2</p><div class="tweetContainer" id="tweet1573878978116726785"></div> ',
       location: {
         center: [134.047056, 34.3504507],
         zoom: 14,
@@ -156,8 +156,8 @@ const config = {
       hidden: false,
       title: '八栗ケーブル',
       image: '',
-      tweet_id: '1573194261193170944',
-      description: '<p>1巻 P142  香川県高松市 牟礼町牟礼3369</p><div class="tweetContainer" id="tweet1573194261193170944"></div> ',
+      tweet_id: '1573505146457583617',
+      description: '<p>1巻 P142  香川県高松市 牟礼町牟礼3369</p><div class="tweetContainer" id="tweet1573505146457583617"></div> ',
       location: {
         center: [134.1336543, 34.3551328],
         zoom: 14,
