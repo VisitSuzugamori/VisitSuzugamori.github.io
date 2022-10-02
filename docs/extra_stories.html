@@ -16,7 +16,6 @@
 <meta property="article:tag" content="ざつ旅" />
 <meta name="twitter:card" content="summary" />
 <link rel="stylesheet" type="text/css" href="https://unpkg.com/sakura.css/css/sakura.css" />
-<link rel="stylesheet" type="text/css" href="https://api.mapbox.com/mapbox-gl-js/v2.10.0/mapbox-gl.css" />
 <style>
   .hidden { display: none; }
   #map { left: 0; top: 0; height: 100vh; width:100vw; position: fixed; }
@@ -31,38 +30,21 @@
 	  content: "\A";
 	  white-space: pre;
   }
-  .navi ul {
-    opacity: 0.9;
-    display: flex;
-    flex-wrap: wrap;
-    text-shadow: 1px 1px 0 #eeeeee, 1px -1px 0 #eeeeee, -1px 1px 0 #eeeeee, -1px -1px 0 #eeeeee;
-    padding: 10px;
-  }
-  .navi ul li {
-    display: flex;
-    overflow: hidden;
+  #extra td {
     padding: 4px;
     margin-right: 5px;
     min-width: 1.6em;
-    text-align: center;
-    text-shadow: 1px 1px 0 #eeeeee, 1px -1px 0 #eeeeee, -1px 1px 0 #eeeeee, -1px -1px 0 #eeeeee;
     border-radius: 10px;
-    background-color: #eed;
-    color: #0071bc;
-    font-size: 18px;
-    text-decoration: none;
+    font-size: smaller;
   }
-  .navi ul li a {
-    width: 100%;
-  }
-  li.book0 { border-left: solid 5px #333; }
-  li.book1 { border-left: solid 5px #e45e60; }
-  li.book2 { border-left: solid 5px #f3af2f; }
-  li.book3 { border-left: solid 5px #d6258f; }
-  li.book4 { border-left: solid 5px #ab5fa3; }
-  li.book5 { border-left: solid 5px #00be74; }
-  li.book6 { border-left: solid 5px #f24773; }
-  li.book7 { border-left: solid 5px #333; }
+  td.book0 { border-left: solid 5px #333; }
+  td.book1 { border-left: solid 5px #e45e60; }
+  td.book2 { border-left: solid 5px #f3af2f; }
+  td.book3 { border-left: solid 5px #d6258f; }
+  td.book4 { border-left: solid 5px #ab5fa3; }
+  td.book5 { border-left: solid 5px #00be74; }
+  td.book6 { border-left: solid 5px #f24773; }
+  td.book7 { border-left: solid 5px #333; }
   .note { font-size: 80%; }
   .note::before {
 	  content: "⚠";
@@ -74,11 +56,6 @@
     max-width: 38em;
     padding: 0;
     margin: 0;
-  }
-  #placeDescription a {
-    opacity: 0.7;
-    font-size: 80%;
-    background-color: #eed;
   }
   #footer {
     opacity: 0.7;
@@ -117,15 +94,9 @@
       </table>
     </div>
   </div>
-  <div id="float">
-      <div id="placeDescription">
-        <p></p>
-    </div>
-    <div id="footer">
-      <p>原作：<a rel="noopener" href="https://dengekimaoh.jp/series_info/zatsutabi/">ざつ旅-That's Journey-</a> &copy; 石坂 ケンタ, KADOKAWA, 電撃マオウ / 地図：<a rel="noopener" href="https://mapbox.com">Mapbox</a> / 地図作成：VisitSuzugamori(<a href="https://github.com/VisitSuzugamori/VisitSuzugamori.github.io">💬contact</a>), <a href="https://twitter.com/isnot49662340">isnot</a></p>
-    </div>
+  <div id="footer">
+    <p>原作：<a rel="noopener" href="https://dengekimaoh.jp/series_info/zatsutabi/">ざつ旅-That's Journey-</a> &copy; 石坂 ケンタ, KADOKAWA, 電撃マオウ / 2次コンテンツ編集：VisitSuzugamori(<a href="https://github.com/VisitSuzugamori/VisitSuzugamori.github.io">💬contact</a>), <a href="https://twitter.com/isnot49662340">isnot</a></p>
   </div>
-  <script src="https://api.mapbox.com/mapbox-gl-js/v2.10.0/mapbox-gl.js"></script>
   <script>
     const tbody = document.querySelector('table#extra tbody');
     fetch('/VisitSuzugamori.json')
@@ -141,7 +112,7 @@
           const books = val.books || '0';
           const className = books.replace(/(\d{0,2})\D*/, 'book$1');
           const row = document.createElement('tr');
-          for (const key of ['id', 'titile', 'place', 'published', 'books']) {
+          for (const key of ['id', 'title', 'place', 'published', 'books']) {
             const col = document.createElement('td');
             if (key === 'id') {
               col.textContent = tjx;
