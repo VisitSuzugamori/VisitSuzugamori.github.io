@@ -143,14 +143,18 @@
           const row = document.createElement('tr');
           for (const key of ['id', 'titile', 'place', 'published', 'books']) {
             const col = document.createElement('td');
-            col.textContent = val[key];
+            if (key === 'id') {
+              col.textContent = tjx;
+            } else {
+              col.textContent = val[key];
+            }
             col.classList.add(key);
             if (key === 'books') {
               col.classList.add(className);
             }
-            tr.appendChild(td);
+            row.appendChild(col);
           }
-          tbody.appendChild(tr);
+          tbody.appendChild(row);
         });
       })
       .catch(console.warn);
