@@ -369,7 +369,7 @@
       "published": "2022, 電撃マオウ 11月号",
       "books": null,
       "subtitle": "旅は自分に素直に",
-      "camera": {"zoom": 13, "center": [130.61762359254158, 31.55819552112636]}
+      "camera": {"zoom": 12, "center": [130.61762359254158, 31.5]}
 
     }
   },
@@ -392,7 +392,7 @@
       "id": "TJX03",
       "title": "番外旅 新しい挑戦！",
       "place": "自宅 教習所",
-      "published": "ざつ旅4巻 書き下ろし",
+      "published": "ざつ旅4巻 描き下ろし",
       "books": "4巻"
     },
     "TJX04": {
@@ -420,7 +420,7 @@
       "id": "TJX07",
       "title": "番外旅 でっかい空とごはん",
       "place": "南魚沼市 魚沼市",
-      "published": "電撃マオウ Encounter with the [Der Blaue Reiter]",
+      "published": "電撃マオウ Encounter with the [Der Blaue Reiter] (『青騎士』第4号 特別小冊子)",
       "books": "7巻",
       "pr": "https://dengekimaoh.jp/news/special/20211019.html"
     },
