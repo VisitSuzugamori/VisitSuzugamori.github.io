@@ -77,7 +77,7 @@ const config = {
       title: '美保関漁港',
       image: '',
       tweet_id: '',
-      description: '<p>4巻 P12,13  島根県松江市 美保関町美保関</p> <p><img alt="DSCN0158" src="https://live.staticflickr.com/8885/18136813874_86269128f8_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.5603343&amp;lon=133.3109506&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【DSCN0158】 by rurinoshima</p>',
+      description: '<p>4巻 P12,13  島根県松江市 美保関町美保関</p> <p><img alt="DSCN0157" src="https://live.staticflickr.com/505/18138786193_58e50c64db_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.5603343&amp;lon=133.3109506&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【DSCN0157】 by rurinoshima</p>',
       location: {
         center: [133.3109506, 35.5603343],
         zoom: 14,
@@ -116,8 +116,8 @@ const config = {
       hidden: false,
       title: '美保神社',
       image: '',
-      tweet_id: '1573681953882136580',
-      description: '<p>4巻 P14  島根県松江市 美保関町美保関</p><div class="tweetContainer" id="tweet1573681953882136580"></div> ',
+      tweet_id: '1576028064064057344',
+      description: '<p>4巻 P14  島根県松江市 美保関町美保関</p><div class="tweetContainer" id="tweet1576028064064057344"></div> ',
       location: {
         center: [133.3062224, 35.5623182],
         zoom: 14,
@@ -136,8 +136,8 @@ const config = {
       hidden: false,
       title: '美保関灯台',
       image: '',
-      tweet_id: '1574260652087967745',
-      description: '<p>4巻 P28  島根県松江市 </p><div class="tweetContainer" id="tweet1574260652087967745"></div> ',
+      tweet_id: '1576021364904902657',
+      description: '<p>4巻 P28  島根県松江市 </p><div class="tweetContainer" id="tweet1576021364904902657"></div> ',
       location: {
         center: [133.3254458, 35.5672984],
         zoom: 14,

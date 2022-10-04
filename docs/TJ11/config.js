@@ -76,8 +76,8 @@ const config = {
       hidden: false,
       title: '潮岬灯台',
       image: '',
-      tweet_id: '1573849871743787010',
-      description: '<p>3巻 P62  和歌山県東牟婁郡 串本町 </p><div class="tweetContainer" id="tweet1573849871743787010"></div> ',
+      tweet_id: '1574540337850490881',
+      description: '<p>3巻 P62  和歌山県東牟婁郡 串本町 </p><div class="tweetContainer" id="tweet1574540337850490881"></div> ',
       location: {
         center: [135.7544642, 33.4375625],
         zoom: 14,
@@ -176,8 +176,8 @@ const config = {
       hidden: false,
       title: '新宮駅',
       image: '',
-      tweet_id: '1573818300781428736',
-      description: '<p>3巻 P80  和歌山県新宮市 徐福一丁目3</p><div class="tweetContainer" id="tweet1573818300781428736"></div> ',
+      tweet_id: '',
+      description: '<p>3巻 P80  和歌山県新宮市 徐福一丁目3</p> <p><img alt="20190929" src="https://live.staticflickr.com/65535/51530133311_0824fb1017_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=33.7251509&amp;lon=135.9941471&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【20190929】 by trlintw</p>',
       location: {
         center: [135.9941471, 33.7251509],
         zoom: 14,

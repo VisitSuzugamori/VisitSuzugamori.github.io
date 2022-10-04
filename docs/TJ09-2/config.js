@@ -76,8 +76,8 @@ const config = {
       hidden: false,
       title: '呉駅',
       image: '',
-      tweet_id: '1573650607713689601',
-      description: '<p>3巻 P11  広島県呉市 宝町2</p><div class="tweetContainer" id="tweet1573650607713689601"></div> ',
+      tweet_id: '1576369765630844928',
+      description: '<p>3巻 P11  広島県呉市 宝町2</p><div class="tweetContainer" id="tweet1576369765630844928"></div> ',
       location: {
         center: [132.5575846, 34.2446471],
         zoom: 14,

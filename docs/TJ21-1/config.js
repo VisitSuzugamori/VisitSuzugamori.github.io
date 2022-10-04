@@ -156,8 +156,8 @@ const config = {
       hidden: false,
       title: '金森赤レンガ倉庫',
       image: '',
-      tweet_id: '1573579600323493888',
-      description: '<p>7巻   北海道函館市 豊川町11</p><div class="tweetContainer" id="tweet1573579600323493888"></div> ',
+      tweet_id: '1576393394754043910',
+      description: '<p>7巻   北海道函館市 豊川町11</p><div class="tweetContainer" id="tweet1576393394754043910"></div> ',
       location: {
         center: [140.7176349, 41.7673531],
         zoom: 14,
