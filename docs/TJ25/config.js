@@ -16,8 +16,8 @@ const config = {
       hidden: false,
       title: '鹿児島中央駅',
       image: '',
-      tweet_id: '1573947633789329408',
-      description: '<p>   鹿児島県鹿児島市 武一丁目1</p><div class="tweetContainer" id="tweet1573947633789329408"></div> ',
+      tweet_id: '1577583053425192961',
+      description: '<p>   鹿児島県鹿児島市 武一丁目1</p><div class="tweetContainer" id="tweet1577583053425192961"></div> ',
       location: {
         center: [130.5417154, 31.5836893],
         zoom: 14,
@@ -36,8 +36,8 @@ const config = {
       hidden: false,
       title: '大久保利通像',
       image: '',
-      tweet_id: '1573904391500881920',
-      description: '<p>   鹿児島県鹿児島市 西田一丁目5</p><div class="tweetContainer" id="tweet1573904391500881920"></div> ',
+      tweet_id: '',
+      description: '<p>   鹿児島県鹿児島市 西田一丁目5</p> <p><img alt="鹿児島路面電車" src="https://live.staticflickr.com/65535/50793380102_8822e6275a_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=31.586563&amp;lon=130.5461068&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【鹿児島路面電車】 by Chitaka Chou</p>',
       location: {
         center: [130.5461068, 31.586563],
         zoom: 14,
