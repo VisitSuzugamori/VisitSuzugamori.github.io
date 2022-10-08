@@ -77,7 +77,7 @@ const config = {
       title: '高松築港駅',
       image: '',
       tweet_id: '',
-      description: '<p>1巻 P132  香川県高松市 寿町一丁目5</p> <p><img alt="Takamatsu Castle Park" src="https://live.staticflickr.com/65535/52068524841_439bf70197_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.350757&amp;lon=134.049468&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Takamatsu Castle Park】 by pantkiewicz</p>',
+      description: '<p>1巻 P132  香川県高松市 寿町一丁目5</p> <p><img alt="Takamatsu Castle Park" src="https://live.staticflickr.com/65535/52068755324_dedbb31ec9_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.350757&amp;lon=134.049468&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Takamatsu Castle Park】 by pantkiewicz</p>',
       location: {
         center: [134.049468, 34.350757],
         zoom: 14,
@@ -97,7 +97,7 @@ const config = {
       title: '八栗駅',
       image: '',
       tweet_id: '',
-      description: '<p>1巻 P134  香川県高松市 牟礼町牟礼2210</p> <p><img alt="DSC05066.JPG" src="https://live.staticflickr.com/5149/5677062182_4de4f91ac1_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.3446375&amp;lon=134.122008&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【DSC05066.JPG】 by t.nanba</p>',
+      description: '<p>1巻 P134  香川県高松市 牟礼町牟礼2210</p> <p><img alt="帰り道の電車" src="https://live.staticflickr.com/715/21694861128_40dc0f9dc7_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.3446375&amp;lon=134.122008&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【帰り道の電車】 by 風の色写真館（讃岐東部の写真集）</p>',
       location: {
         center: [134.122008, 34.3446375],
         zoom: 14,
@@ -117,7 +117,7 @@ const config = {
       title: '総門跡',
       image: '',
       tweet_id: '',
-      description: '<p>1巻 P134  香川県高松市 牟礼町牟礼2418</p> <p><img alt="帰り道の電車" src="https://live.staticflickr.com/715/21694861128_40dc0f9dc7_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.345598&amp;lon=134.1223194&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【帰り道の電車】 by 風の色写真館（讃岐東部の写真集）</p>',
+      description: '<p>1巻 P134  香川県高松市 牟礼町牟礼2418</p> <p><img alt="DSC05066.JPG" src="https://live.staticflickr.com/5149/5677062182_4de4f91ac1_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.345598&amp;lon=134.1223194&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【DSC05066.JPG】 by t.nanba</p>',
       location: {
         center: [134.1223194, 34.345598],
         zoom: 14,
@@ -157,7 +157,7 @@ const config = {
       title: '八栗ケーブル',
       image: '',
       tweet_id: '',
-      description: '<p>1巻 P142  香川県高松市 牟礼町牟礼3369</p> <p><img alt="DSC05056.JPG" src="https://live.staticflickr.com/5302/5676962524_0e43f7d769_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.3551328&amp;lon=134.1336543&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【DSC05056.JPG】 by t.nanba</p>',
+      description: '<p>1巻 P142  香川県高松市 牟礼町牟礼3369</p> <p><img alt="DSC05057.JPG" src="https://live.staticflickr.com/5027/5676973164_2f8a3c1952_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.3551328&amp;lon=134.1336543&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【DSC05057.JPG】 by t.nanba</p>',
       location: {
         center: [134.1336543, 34.3551328],
         zoom: 14,

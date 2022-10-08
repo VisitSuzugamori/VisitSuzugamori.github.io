@@ -157,7 +157,7 @@ const config = {
       title: '嚴島神社 大鳥居（布の中）',
       image: '',
       tweet_id: '',
-      description: '<p>2巻 P152,153  </p> <p><img alt="Japan 2015. Hiroshima. Portrait of a Japanese girl on a bark." src="https://live.staticflickr.com/5466/30466139845_a1e9f9ef74_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.2973092&amp;lon=132.3181276&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Japan 2015. Hiroshima. Portrait of a Japanese girl on a bark.】 by Jean-Paul Margnac</p>',
+      description: '<p>2巻 P152,153  </p> <p><img alt="The torii of Itsukushima Shrine in bokeh, Miyajima" src="https://live.staticflickr.com/65535/52284121992_61f86524e6_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.2973092&amp;lon=132.3181276&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【The torii of Itsukushima Shrine in bokeh, Miyajima】 by Hans ter Horst Photography</p>',
       location: {
         center: [132.3181276, 34.2973092],
         zoom: 14,
