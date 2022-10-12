@@ -4,7 +4,7 @@ const u = require('../common.js');
 class AginfoApi {
   constructor() {
     // ref. https://aginfo.cgk.affrc.go.jp/rgeocode/index.html.ja
-    this.endpoint = 'https://aginfo.cgk.affrc.go.jp/ws/rgeocode.php';
+    this.endpoint = 'http://aginfo.cgk.affrc.go.jp/ws/rgeocode.php';
     this.default_params = {
       json: 1,
       lr: 500,
