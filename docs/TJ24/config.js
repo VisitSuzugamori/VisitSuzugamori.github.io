@@ -16,8 +16,8 @@ const config = {
       hidden: false,
       title: '竜王駅',
       image: '',
-      tweet_id: '1575759399905562624',
-      description: '<p>   山梨県甲斐市 竜王新町464</p><div class="tweetContainer" id="tweet1575759399905562624"></div> ',
+      tweet_id: '',
+      description: '<p>   山梨県甲斐市 竜王新町464</p> <p><img alt="Today’s dinner - Jul. 30, 2022" src="https://live.staticflickr.com/65535/52257400724_a719e7f067_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.6687078&amp;lon=138.5193729&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Today’s dinner - Jul. 30, 2022】 by miko0219</p>',
       location: {
         center: [138.5193729, 35.6687078],
         zoom: 14,
@@ -156,8 +156,8 @@ const config = {
       hidden: false,
       title: '信玄堤',
       image: '',
-      tweet_id: '1575994594155958275',
-      description: '<p>   山梨県甲斐市 竜王86</p><div class="tweetContainer" id="tweet1575994594155958275"></div> ',
+      tweet_id: '',
+      description: '<p>   山梨県甲斐市 竜王86</p> <p><img alt="Audience" src="https://live.staticflickr.com/4093/5444627181_ee28c6602a_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.668261&amp;lon=138.5013756&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Audience】 by asksomeoneelse</p>',
       location: {
         center: [138.5013756, 35.668261],
         zoom: 14,
