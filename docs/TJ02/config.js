@@ -217,7 +217,7 @@ const config = {
       title: '松島巡り観光船 乗り場(松島觀光遊艇搭船場)',
       image: '',
       tweet_id: '',
-      description: '<p>1巻 P79  </p> <p><img alt="Black-tailed gull" src="https://live.staticflickr.com/65535/52372801551_18c9a8b01b_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=38.3689558&amp;lon=141.0628948&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Black-tailed gull】 by raibums</p>',
+      description: '<p>1巻 P79  </p> <p><img alt="The fabled views of the islands of Matsushima, Japan" src="https://live.staticflickr.com/65535/52209852820_32613b8026_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=38.3689558&amp;lon=141.0628948&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【The fabled views of the islands of Matsushima, Japan】 by Hans ter Horst Photography</p>',
       location: {
         center: [141.0628948, 38.3689558],
         zoom: 14,

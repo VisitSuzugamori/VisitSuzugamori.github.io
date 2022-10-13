@@ -137,7 +137,7 @@ const config = {
       title: '朝市お食事処 山三道下商店',
       image: '',
       tweet_id: '',
-      description: '<p>7巻   北海道函館市 若松町13</p> <p><img alt="JR Hakodate Station" src="https://live.staticflickr.com/65535/52236165789_4bdb6dc9c1_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=41.7726202&amp;lon=140.7258098&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【JR Hakodate Station】 by Kzaral</p>',
+      description: '<p>7巻   北海道函館市 若松町13</p> <p><img alt="北海道 Hokkaido" src="https://live.staticflickr.com/65535/52019922238_3ee68b4c0b_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=41.7726202&amp;lon=140.7258098&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【北海道 Hokkaido】 by 形影believe</p>',
       location: {
         center: [140.7258098, 41.7726202],
         zoom: 14,
@@ -156,8 +156,8 @@ const config = {
       hidden: false,
       title: '金森赤レンガ倉庫',
       image: '',
-      tweet_id: '1580116580671053825',
-      description: '<p>7巻   北海道函館市 豊川町11</p><div class="tweetContainer" id="tweet1580116580671053825"></div> ',
+      tweet_id: '1580456255306760192',
+      description: '<p>7巻   北海道函館市 豊川町11</p><div class="tweetContainer" id="tweet1580456255306760192"></div> ',
       location: {
         center: [140.7176349, 41.7673531],
         zoom: 14,

@@ -117,7 +117,7 @@ const config = {
       title: '信玄堤散策コース',
       image: '',
       tweet_id: '',
-      description: '<p>   山梨県甲斐市 竜王490</p> <p><img alt="Store that tractor" src="https://live.staticflickr.com/5099/5491783662_eee49301b7_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.6677185&amp;lon=138.5043247&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Store that tractor】 by asksomeoneelse</p>',
+      description: '<p>   山梨県甲斐市 竜王490</p> ',
       location: {
         center: [138.5043247, 35.6677185],
         zoom: 14,
@@ -336,8 +336,8 @@ const config = {
       hidden: false,
       title: '甲府駅',
       image: '',
-      tweet_id: '1577485518727618560',
-      description: '<p>   山梨県甲府市 丸の内一丁目3</p><div class="tweetContainer" id="tweet1577485518727618560"></div> ',
+      tweet_id: '1579017219157430273',
+      description: '<p>   山梨県甲府市 丸の内一丁目3</p><div class="tweetContainer" id="tweet1579017219157430273"></div> ',
       location: {
         center: [138.5690631, 35.6670981],
         zoom: 14,
@@ -357,7 +357,7 @@ const config = {
       title: '武田信玄公之像',
       image: '',
       tweet_id: '',
-      description: '<p>   山梨県甲府市 丸の内二丁目1</p> <p><img alt="帰路へ" src="https://live.staticflickr.com/65535/52157468928_8a9e931e4b_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.6668252&amp;lon=138.5680188&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【帰路へ】 by cyberwonk</p>',
+      description: '<p>   山梨県甲府市 丸の内二丁目1</p> <p><img alt="20221013_104152" src="https://live.staticflickr.com/65535/52424736310_4d18b78cf6_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.6668252&amp;lon=138.5680188&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【20221013_104152】 by tokotaha</p>',
       location: {
         center: [138.5680188, 35.6668252],
         zoom: 14,
