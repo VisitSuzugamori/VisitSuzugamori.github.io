@@ -36,8 +36,8 @@ const config = {
       hidden: false,
       title: '後免駅',
       image: '',
-      tweet_id: '',
-      description: '<p>6巻 P71  高知県南国市 駅前町二丁目3</p> <p><img alt="nankoku_20190905111300" src="https://live.staticflickr.com/65535/49844880672_539a7d01db_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=33.5791401&amp;lon=133.6454058&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【nankoku_20190905111300】 by inunami</p>',
+      tweet_id: '1581189175734194177',
+      description: '<p>6巻 P71  高知県南国市 駅前町二丁目3</p><div class="tweetContainer" id="tweet1581189175734194177"></div> ',
       location: {
         center: [133.6454058, 33.5791401],
         zoom: 14,
@@ -57,7 +57,7 @@ const config = {
       title: '師匠はよしてって～',
       image: '',
       tweet_id: '',
-      description: '<p>6巻 P72  高知県南国市 駅前町二丁目3</p> <p><img alt="nankoku_20190905111603" src="https://live.staticflickr.com/65535/49844880412_6cbf656155_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=33.5788333&amp;lon=133.6458189&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【nankoku_20190905111603】 by inunami</p>',
+      description: '<p>6巻 P72  高知県南国市 駅前町二丁目3</p> <p><img alt="nankoku_20190905111300" src="https://live.staticflickr.com/65535/49844880672_539a7d01db_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=33.5788333&amp;lon=133.6458189&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【nankoku_20190905111300】 by inunami</p>',
       location: {
         center: [133.6458189, 33.5788333],
         zoom: 14,
@@ -77,7 +77,7 @@ const config = {
       title: 'ショッピングセンター パステポコ・ア・ポコ南国店',
       image: '',
       tweet_id: '',
-      description: '<p>6巻 P73  高知県南国市 駅前町二丁目3</p> <p><img alt="nankoku_20190905114442" src="https://live.staticflickr.com/65535/49844880052_32aae9bd78_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=33.578697&amp;lon=133.6453861&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【nankoku_20190905114442】 by inunami</p>',
+      description: '<p>6巻 P73  高知県南国市 駅前町二丁目3</p> <p><img alt="nankoku_20190905111603" src="https://live.staticflickr.com/65535/49844880412_6cbf656155_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=33.578697&amp;lon=133.6453861&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【nankoku_20190905111603】 by inunami</p>',
       location: {
         center: [133.6453861, 33.578697],
         zoom: 14,
@@ -277,7 +277,7 @@ const config = {
       title: '鎮守の森公園',
       image: '',
       tweet_id: '',
-      description: '<p>6巻 P82  高知県高知市 長浜4129</p> <p><img alt="Motochika Chosokabe" src="https://live.staticflickr.com/2950/15192990680_73d48b430c_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=33.4924347&amp;lon=133.5464292&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Motochika Chosokabe】 by fjt1986</p>',
+      description: '<p>6巻 P82  高知県高知市 長浜4129</p> <p><img alt="姫若子" src="https://live.staticflickr.com/6013/6016875198_40d0ea07d0_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=33.4924347&amp;lon=133.5464292&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【姫若子】 by jour13</p>',
       location: {
         center: [133.5464292, 33.4924347],
         zoom: 14,
@@ -296,8 +296,8 @@ const config = {
       hidden: false,
       title: '長宗我部元親像',
       image: '',
-      tweet_id: '',
-      description: '<p>6巻 P83  高知県高知市 長浜5714</p> <p><img alt="姫若子" src="https://live.staticflickr.com/6013/6016875198_40d0ea07d0_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=33.4930629&amp;lon=133.5462907&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【姫若子】 by jour13</p>',
+      tweet_id: '1581181933744455680',
+      description: '<p>6巻 P83  高知県高知市 長浜5714</p><div class="tweetContainer" id="tweet1581181933744455680"></div> ',
       location: {
         center: [133.5462907, 33.4930629],
         zoom: 14,
@@ -357,7 +357,7 @@ const config = {
       title: '民宿まさご',
       image: '',
       tweet_id: '',
-      description: '<p>6巻 P93  高知県高知市 浦戸18</p> <p><img alt="Katsurahama (桂浜)" src="https://live.staticflickr.com/65535/52068707751_93b766d0ca_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=33.4991881&amp;lon=133.5721656&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Katsurahama (桂浜)】 by pantkiewicz</p>',
+      description: '<p>6巻 P93  高知県高知市 浦戸18</p> <p><img alt="Urado Castle ruins (浦戸城跡)" src="https://live.staticflickr.com/65535/52068951434_4fef6054c5_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=33.4991881&amp;lon=133.5721656&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Urado Castle ruins (浦戸城跡)】 by pantkiewicz</p>',
       location: {
         center: [133.5721656, 33.4991881],
         zoom: 14,

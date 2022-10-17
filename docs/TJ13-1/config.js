@@ -77,7 +77,7 @@ const config = {
       title: '旧大社駅舎',
       image: '',
       tweet_id: '',
-      description: '<p>3巻 P134  島根県出雲市 大社町北荒木452</p> <p><img alt="Former Taisha Station, Shimane  出雲大社　旧大社駅　島根" src="https://live.staticflickr.com/65535/50192567213_b75a7e68bd_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.3866419&amp;lon=132.690256&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Former Taisha Station, Shimane  出雲大社　旧大社駅　島根】 by Anaguma</p>',
+      description: '<p>3巻 P134  島根県出雲市 大社町北荒木452</p> <p><img alt="OLD Taisha Station (Izumo, Shimane, Japan)" src="https://live.staticflickr.com/4698/24796736207_fa4a70532f_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.3866419&amp;lon=132.690256&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【OLD Taisha Station (Izumo, Shimane, Japan)】 by t-mizo</p>',
       location: {
         center: [132.690256, 35.3866419],
         zoom: 14,
@@ -96,8 +96,8 @@ const config = {
       hidden: false,
       title: '出雲大社 大鳥居',
       image: '',
-      tweet_id: '1578299196171395072',
-      description: '<p>3巻 P137  島根県出雲市 大社町杵築南1386</p><div class="tweetContainer" id="tweet1578299196171395072"></div> ',
+      tweet_id: '1581790611547750400',
+      description: '<p>3巻 P137  島根県出雲市 大社町杵築南1386</p><div class="tweetContainer" id="tweet1581790611547750400"></div> ',
       location: {
         center: [132.6872784, 35.391579],
         zoom: 14,
@@ -236,8 +236,8 @@ const config = {
       hidden: false,
       title: '出雲大社 神楽殿',
       image: '',
-      tweet_id: '',
-      description: '<p>3巻 P142  島根県出雲市 大社町杵築東257</p> <p><img alt="20220921_鳥取大山登山＆山口帰省_162" src="https://live.staticflickr.com/65535/52380433779_a894fcdbc3_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.4015453&amp;lon=132.6844634&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【20220921_鳥取大山登山＆山口帰省_162】 by jinmsk</p>',
+      tweet_id: '1581414010045444096',
+      description: '<p>3巻 P142  島根県出雲市 大社町杵築東257</p><div class="tweetContainer" id="tweet1581414010045444096"></div> ',
       location: {
         center: [132.6844634, 35.4015453],
         zoom: 14,

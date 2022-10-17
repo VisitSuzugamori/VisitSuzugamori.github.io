@@ -176,8 +176,8 @@ const config = {
       hidden: false,
       title: '新宮駅',
       image: '',
-      tweet_id: '1579286487832461312',
-      description: '<p>3巻 P80  和歌山県新宮市 徐福一丁目3</p><div class="tweetContainer" id="tweet1579286487832461312"></div> ',
+      tweet_id: '1581112298198159361',
+      description: '<p>3巻 P80  和歌山県新宮市 徐福一丁目3</p><div class="tweetContainer" id="tweet1581112298198159361"></div> ',
       location: {
         center: [135.9941471, 33.7251509],
         zoom: 14,
@@ -236,8 +236,8 @@ const config = {
       hidden: false,
       title: '熊野本宮大社',
       image: '',
-      tweet_id: '1578557110472044545',
-      description: '<p>3巻 P82  和歌山県田辺市 本宮町本宮</p><div class="tweetContainer" id="tweet1578557110472044545"></div> ',
+      tweet_id: '1581477554795732992',
+      description: '<p>3巻 P82  和歌山県田辺市 本宮町本宮</p><div class="tweetContainer" id="tweet1581477554795732992"></div> ',
       location: {
         center: [135.7734753, 33.8405706],
         zoom: 14,
