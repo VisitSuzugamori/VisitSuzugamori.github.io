@@ -17,7 +17,7 @@ const config = {
       title: '薩都神社中宮',
       image: '',
       tweet_id: '',
-      description: '<p>5巻 P32  茨城県日立市 </p> <p><img alt="20181008-105017-51" src="https://live.staticflickr.com/1977/45200850641_eeb121a874_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=36.6338743&amp;lon=140.587316&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【20181008-105017-51】 by giu205</p>',
+      description: '<p>5巻 P32  茨城県日立市 </p> <p><img alt="An Imaginary Forest #213" src="https://live.staticflickr.com/5463/30151202823_3725ab7d23_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=36.6338743&amp;lon=140.587316&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【An Imaginary Forest #213】 by tt64jp</p>',
       location: {
         center: [140.587316, 36.6338743],
         zoom: 14,
@@ -96,8 +96,8 @@ const config = {
       hidden: false,
       title: '日立駅',
       image: '',
-      tweet_id: '1578889287705432065',
-      description: '<p>5巻 P51  茨城県日立市 旭町一丁目3</p><div class="tweetContainer" id="tweet1578889287705432065"></div> ',
+      tweet_id: '1582171355008884736',
+      description: '<p>5巻 P51  茨城県日立市 旭町一丁目3</p><div class="tweetContainer" id="tweet1582171355008884736"></div> ',
       location: {
         center: [140.6621017, 36.5906849],
         zoom: 14,
@@ -117,7 +117,7 @@ const config = {
       title: '山文魚',
       image: '',
       tweet_id: '',
-      description: '<p>5巻 P52  茨城県日立市 旭町二丁目3</p> <p><img alt="" src="https://live.staticflickr.com/3852/14446705419_b0bf49e519_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=36.5873526&amp;lon=140.6616108&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【】 by hottn</p>',
+      description: '<p>5巻 P52  茨城県日立市 旭町二丁目3</p> <p><img alt="カメラロール-741" src="https://live.staticflickr.com/6235/6337611834_86a4ec53dd_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=36.5873526&amp;lon=140.6616108&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【カメラロール-741】 by tetulog</p>',
       location: {
         center: [140.6616108, 36.5873526],
         zoom: 14,
@@ -137,7 +137,7 @@ const config = {
       title: '津神社',
       image: '',
       tweet_id: '',
-      description: '<p>5巻 P53  茨城県日立市 相賀町14</p> <p><img alt="Wave" src="https://live.staticflickr.com/5125/5378240888_35f298e0c9_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=36.5809219&amp;lon=140.6617725&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Wave】 by gupey</p>',
+      description: '<p>5巻 P53  茨城県日立市 相賀町14</p> <p><img alt="#sea #shore" src="https://live.staticflickr.com/3956/15501150157_220386f221_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=36.5809219&amp;lon=140.6617725&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【#sea #shore】 by culturalphenomenon27</p>',
       location: {
         center: [140.6617725, 36.5809219],
         zoom: 14,

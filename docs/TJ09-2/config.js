@@ -117,7 +117,7 @@ const config = {
       title: '呉湾艦船めぐり',
       image: '',
       tweet_id: '',
-      description: '<p>3巻 P14  広島県呉市 宝町4</p> <p><img alt="呉港" src="https://live.staticflickr.com/65535/52150339465_3fd2800be1_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.2405577&amp;lon=132.5564318&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【呉港】 by Chitaka Chou</p>',
+      description: '<p>3巻 P14  広島県呉市 宝町4</p> <p><img alt="Zero fighter type 62" src="https://live.staticflickr.com/65535/52305803699_0c446f32f6_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.2405577&amp;lon=132.5564318&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Zero fighter type 62】 by coral_reef_4631</p>',
       location: {
         center: [132.5564318, 34.2405577],
         zoom: 14,
@@ -157,7 +157,7 @@ const config = {
       title: '日招きの里 呉ハイカラ食堂',
       image: '',
       tweet_id: '',
-      description: '<p>3巻 P15  広島県呉市 宝町4</p> <p><img alt="Zero fighter type 62" src="https://live.staticflickr.com/65535/52305803699_0c446f32f6_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.2415568&amp;lon=132.5574165&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Zero fighter type 62】 by coral_reef_4631</p>',
+      description: '<p>3巻 P15  広島県呉市 宝町4</p> <p><img alt="大和ミュージアム" src="https://live.staticflickr.com/65535/52148832157_1cfb5c7326_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.2415568&amp;lon=132.5574165&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【大和ミュージアム】 by Chitaka Chou</p>',
       location: {
         center: [132.5574165, 34.2415568],
         zoom: 14,
@@ -176,8 +176,8 @@ const config = {
       hidden: false,
       title: '尾道駅',
       image: '',
-      tweet_id: '1581111401069699072',
-      description: '<p>3巻 P19  広島県尾道市 東御所町1</p><div class="tweetContainer" id="tweet1581111401069699072"></div> ',
+      tweet_id: '1582625636429877248',
+      description: '<p>3巻 P19  広島県尾道市 東御所町1</p><div class="tweetContainer" id="tweet1582625636429877248"></div> ',
       location: {
         center: [133.193159, 34.4048654],
         zoom: 14,
@@ -217,7 +217,7 @@ const config = {
       title: '頂上展望台',
       image: '',
       tweet_id: '',
-      description: '<p>3巻 P21  広島県尾道市 東土堂町20</p> <p><img alt="IMGP7711" src="https://live.staticflickr.com/65535/52213898214_55a83c3a84_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.4106865&amp;lon=133.1969604&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【IMGP7711】 by shinnnnn0619</p>',
+      description: '<p>3巻 P21  広島県尾道市 東土堂町20</p> <p><img alt="IMGP7712" src="https://live.staticflickr.com/65535/52213639398_15f82f3bdb_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.4106865&amp;lon=133.1969604&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【IMGP7712】 by shinnnnn0619</p>',
       location: {
         center: [133.1969604, 34.4106865],
         zoom: 14,
@@ -257,7 +257,7 @@ const config = {
       title: '鼓岩（付近）',
       image: '',
       tweet_id: '',
-      description: '<p>3巻 P29  広島県尾道市 東土堂町5</p> <p><img alt="IMGP7712" src="https://live.staticflickr.com/65535/52213639398_15f82f3bdb_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.4097831&amp;lon=133.1976363&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【IMGP7712】 by shinnnnn0619</p>',
+      description: '<p>3巻 P29  広島県尾道市 東土堂町5</p> <p><img alt="IMGP7714" src="https://live.staticflickr.com/65535/52213623296_0b0c2ee6da_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.4097831&amp;lon=133.1976363&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【IMGP7714】 by shinnnnn0619</p>',
       location: {
         center: [133.1976363, 34.4097831],
         zoom: 14,

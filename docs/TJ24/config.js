@@ -57,7 +57,7 @@ const config = {
       title: '新町下公民館',
       image: '',
       tweet_id: '',
-      description: '<p>   山梨県甲斐市 竜王新町335</p> ',
+      description: '<p>   山梨県甲斐市 竜王新町335</p> <p><img alt="甲州道中(甲府柳町宿〜韮崎宿)" src="https://live.staticflickr.com/65535/52439343938_3a10557436_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.6667113&amp;lon=138.5180877&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【甲州道中(甲府柳町宿〜韮崎宿)】 by cyberwonk</p>',
       location: {
         center: [138.5180877, 35.6667113],
         zoom: 14,
@@ -357,7 +357,7 @@ const config = {
       title: '武田信玄公之像',
       image: '',
       tweet_id: '',
-      description: '<p>   山梨県甲府市 丸の内二丁目1</p> <p><img alt="20221013_104152" src="https://live.staticflickr.com/65535/52424736310_4d18b78cf6_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.6668252&amp;lon=138.5680188&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【20221013_104152】 by tokotaha</p>',
+      description: '<p>   山梨県甲府市 丸の内二丁目1</p> <p><img alt="行ってきまーす" src="https://live.staticflickr.com/65535/52438814571_fd779f762c_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.6668252&amp;lon=138.5680188&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【行ってきまーす】 by cyberwonk</p>',
       location: {
         center: [138.5680188, 35.6668252],
         zoom: 14,

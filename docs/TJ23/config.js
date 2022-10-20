@@ -16,8 +16,8 @@ const config = {
       hidden: false,
       title: '鋸山山頂',
       image: '',
-      tweet_id: '1579693489184735232',
-      description: '<p>   千葉県富津市 </p><div class="tweetContainer" id="tweet1579693489184735232"></div> ',
+      tweet_id: '',
+      description: '<p>   千葉県富津市 </p> <p><img alt="View from Mount Nokogiri (Futtsu/Kyonan, Chiba, Japan)" src="https://live.staticflickr.com/65535/51771699776_a51bf3b83d_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.1584928&amp;lon=139.8284768&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【View from Mount Nokogiri (Futtsu/Kyonan, Chiba, Japan)】 by t-mizo</p>',
       location: {
         center: [139.8284768, 35.1584928],
         zoom: 14,
@@ -57,7 +57,7 @@ const config = {
       title: '瀬戸浜海岸',
       image: '',
       tweet_id: '',
-      description: '<p>   千葉県南房総市 千倉町瀬戸</p> <p><img alt="" src="https://live.staticflickr.com/5066/5674612095_9c5fabc6ac_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.973351&amp;lon=139.962721&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【】 by y_orima</p>',
+      description: '<p>   千葉県南房総市 千倉町瀬戸</p> <p><img alt="DSC00080" src="https://live.staticflickr.com/7443/16476428926_54538fe18f_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.973351&amp;lon=139.962721&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【DSC00080】 by Wesley Tsang</p>',
       location: {
         center: [139.962721, 34.973351],
         zoom: 14,
@@ -77,7 +77,7 @@ const config = {
       title: '川尻橋',
       image: '',
       tweet_id: '',
-      description: '<p>   千葉県南房総市 </p> <p><img alt="南千倉海水浴場" src="https://live.staticflickr.com/65535/52135761078_3e078ea2c9_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.9638919&amp;lon=139.9596901&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【南千倉海水浴場】 by silver_night 300b</p>',
+      description: '<p>   千葉県南房総市 </p> <p><img alt="כי הארץ מלאה באלימות דרכם" src="https://live.staticflickr.com/65535/52437208629_d5e5f155bd_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.9638919&amp;lon=139.9596901&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【כי הארץ מלאה באלימות דרכם】 by feeblefolk</p>',
       location: {
         center: [139.9596901, 34.9638919],
         zoom: 14,
@@ -236,8 +236,8 @@ const config = {
       hidden: false,
       title: '野島埼灯台',
       image: '',
-      tweet_id: '1581155094287896576',
-      description: '<p>   千葉県南房総市 </p><div class="tweetContainer" id="tweet1581155094287896576"></div> ',
+      tweet_id: '1582500966162903040',
+      description: '<p>   千葉県南房総市 </p><div class="tweetContainer" id="tweet1582500966162903040"></div> ',
       location: {
         center: [139.8883406, 34.9017272],
         zoom: 14,
@@ -256,8 +256,8 @@ const config = {
       hidden: false,
       title: '最南端',
       image: '',
-      tweet_id: '1580006711254974465',
-      description: '<p>   千葉県南房総市 </p><div class="tweetContainer" id="tweet1580006711254974465"></div> ',
+      tweet_id: '',
+      description: '<p>   千葉県南房総市 </p> <p><img alt="白浜野島崎" src="https://live.staticflickr.com/8676/30001929600_c46f583bd2_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.904775&amp;lon=139.879022&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【白浜野島崎】 by myutoto</p>',
       location: {
         center: [139.879022, 34.904775],
         zoom: 14,
@@ -296,8 +296,8 @@ const config = {
       hidden: false,
       title: '浜金谷駅',
       image: '',
-      tweet_id: '1579793175686053889',
-      description: '<p>   千葉県富津市 </p><div class="tweetContainer" id="tweet1579793175686053889"></div> ',
+      tweet_id: '1581119081649909760',
+      description: '<p>   千葉県富津市 </p><div class="tweetContainer" id="tweet1581119081649909760"></div> ',
       location: {
         center: [139.8222539, 35.1681316],
         zoom: 14,
