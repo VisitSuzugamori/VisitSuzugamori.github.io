@@ -217,7 +217,7 @@ const config = {
       title: '出雲大社 西十九社',
       image: '',
       tweet_id: '',
-      description: '<p>3巻 P141  島根県出雲市 大社町杵築東257</p> <p><img alt="20220921_鳥取大山登山＆山口帰省_162" src="https://live.staticflickr.com/65535/52380433779_a894fcdbc3_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.4014929&amp;lon=132.6848802&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【20220921_鳥取大山登山＆山口帰省_162】 by jinmsk</p>',
+      description: '<p>3巻 P141  島根県出雲市 大社町杵築東257</p> <p><img alt="20220921_鳥取大山登山＆山口帰省_165" src="https://live.staticflickr.com/65535/52380541615_dd014fe2dc_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.4014929&amp;lon=132.6848802&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【20220921_鳥取大山登山＆山口帰省_165】 by jinmsk</p>',
       location: {
         center: [132.6848802, 35.4014929],
         zoom: 14,
@@ -336,8 +336,8 @@ const config = {
       hidden: false,
       title: '松江城',
       image: '',
-      tweet_id: '1580416075203608576',
-      description: '<p>3巻 P150  島根県松江市 殿町1</p><div class="tweetContainer" id="tweet1580416075203608576"></div> ',
+      tweet_id: '1582940533978124289',
+      description: '<p>3巻 P150  島根県松江市 殿町1</p><div class="tweetContainer" id="tweet1582940533978124289"></div> ',
       location: {
         center: [133.0506783, 35.4751335],
         zoom: 14,

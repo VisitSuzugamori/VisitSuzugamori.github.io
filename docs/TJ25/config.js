@@ -36,8 +36,8 @@ const config = {
       hidden: false,
       title: '大久保利通像',
       image: '',
-      tweet_id: '',
-      description: '<p>   鹿児島県鹿児島市 西田一丁目5</p> <p><img alt="鹿児島路面電車" src="https://live.staticflickr.com/65535/50793380102_8822e6275a_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=31.586563&amp;lon=130.5461068&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【鹿児島路面電車】 by Chitaka Chou</p>',
+      tweet_id: '1583265513781985281',
+      description: '<p>   鹿児島県鹿児島市 西田一丁目5</p><div class="tweetContainer" id="tweet1583265513781985281"></div> ',
       location: {
         center: [130.5461068, 31.586563],
         zoom: 14,

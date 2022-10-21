@@ -176,8 +176,8 @@ const config = {
       hidden: false,
       title: '新宮駅',
       image: '',
-      tweet_id: '1583032371036594177',
-      description: '<p>3巻 P80  和歌山県新宮市 徐福一丁目3</p><div class="tweetContainer" id="tweet1583032371036594177"></div> ',
+      tweet_id: '1583219283437309952',
+      description: '<p>3巻 P80  和歌山県新宮市 徐福一丁目3</p><div class="tweetContainer" id="tweet1583219283437309952"></div> ',
       location: {
         center: [135.9941471, 33.7251509],
         zoom: 14,
