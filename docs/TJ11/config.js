@@ -156,8 +156,8 @@ const config = {
       hidden: false,
       title: '潮岬観光タワー',
       image: '',
-      tweet_id: '',
-      description: '<p>3巻 P71  和歌山県東牟婁郡 串本町 </p> <p><img alt="Milky way and Jupiter (3)" src="https://live.staticflickr.com/65535/50343782877_c69482ce8d_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=33.437806&amp;lon=135.7613677&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Milky way and Jupiter (3)】 by kuni4400</p>',
+      tweet_id: '1583675878927568897',
+      description: '<p>3巻 P71  和歌山県東牟婁郡 串本町 </p><div class="tweetContainer" id="tweet1583675878927568897"></div> ',
       location: {
         center: [135.7613677, 33.437806],
         zoom: 14,

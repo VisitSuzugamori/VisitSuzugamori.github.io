@@ -16,8 +16,8 @@ const config = {
       hidden: false,
       title: '函館駅',
       image: '',
-      tweet_id: '1581089188405186560',
-      description: '<p>7巻   北海道函館市 若松町12</p><div class="tweetContainer" id="tweet1581089188405186560"></div> ',
+      tweet_id: '1583588675082162176',
+      description: '<p>7巻   北海道函館市 若松町12</p><div class="tweetContainer" id="tweet1583588675082162176"></div> ',
       location: {
         center: [140.7264741, 41.7737804],
         zoom: 14,
@@ -56,8 +56,8 @@ const config = {
       hidden: false,
       title: 'この「↓」',
       image: '',
-      tweet_id: '1581939726080016385',
-      description: '<p>7巻   北海道北斗市 市渡723</p><div class="tweetContainer" id="tweet1581939726080016385"></div> ',
+      tweet_id: '1583784120303640581',
+      description: '<p>7巻   北海道北斗市 市渡723</p><div class="tweetContainer" id="tweet1583784120303640581"></div> ',
       location: {
         center: [140.6523709, 41.9024872],
         zoom: 14,

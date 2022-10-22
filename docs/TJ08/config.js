@@ -17,7 +17,7 @@ const config = {
       title: '白子漁港',
       image: '',
       tweet_id: '',
-      description: '<p>2巻 P96,97  三重県鈴鹿市 白子本町17</p> <p><img alt="20140914_6950" src="https://live.staticflickr.com/3926/15243371631_e8b3abdd35_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.8308664&amp;lon=136.592541&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【20140914_6950】 by mossygajud</p>',
+      description: '<p>2巻 P96,97  三重県鈴鹿市 白子本町17</p> <p><img alt="白子漁港" src="https://live.staticflickr.com/7717/26464983984_b5026142f6_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.8308664&amp;lon=136.592541&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【白子漁港】 by Shigelli</p>',
       location: {
         center: [136.592541, 34.8308664],
         zoom: 14,
@@ -56,8 +56,8 @@ const config = {
       hidden: false,
       title: '伊勢市駅',
       image: '',
-      tweet_id: '1582555209909141507',
-      description: '<p>2巻 P100  三重県伊勢市 吹上一丁目1</p><div class="tweetContainer" id="tweet1582555209909141507"></div> ',
+      tweet_id: '1583737056324243456',
+      description: '<p>2巻 P100  三重県伊勢市 吹上一丁目1</p><div class="tweetContainer" id="tweet1583737056324243456"></div> ',
       location: {
         center: [136.7097004, 34.4910554],
         zoom: 14,
@@ -177,7 +177,7 @@ const config = {
       title: '鳥羽駅',
       image: '',
       tweet_id: '',
-      description: '<p>2巻 P111  三重県鳥羽市 鳥羽一丁目8</p> <p><img alt="20180120-DSCF7700.jpg" src="https://live.staticflickr.com/4675/39121806744_c1e742c5e1_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.4867665&amp;lon=136.8431256&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【20180120-DSCF7700.jpg】 by kato_masashi</p>',
+      description: '<p>2巻 P111  三重県鳥羽市 鳥羽一丁目8</p> <p><img alt="20180120-DSCF7713.jpg" src="https://live.staticflickr.com/4624/39799417482_fc4e13acc9_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.4867665&amp;lon=136.8431256&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【20180120-DSCF7713.jpg】 by kato_masashi</p>',
       location: {
         center: [136.8431256, 34.4867665],
         zoom: 14,
@@ -256,8 +256,8 @@ const config = {
       hidden: false,
       title: '夫婦岩',
       image: '',
-      tweet_id: '1581170702723403776',
-      description: '<p>2巻 P121  三重県伊勢市 二見町茶屋562</p><div class="tweetContainer" id="tweet1581170702723403776"></div> ',
+      tweet_id: '1583577910757462016',
+      description: '<p>2巻 P121  三重県伊勢市 二見町茶屋562</p><div class="tweetContainer" id="tweet1583577910757462016"></div> ',
       location: {
         center: [136.7883283, 34.5092993],
         zoom: 14,

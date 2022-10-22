@@ -56,8 +56,8 @@ const config = {
       hidden: false,
       title: '灰の集積所',
       image: '',
-      tweet_id: '',
-      description: '<p>   鹿児島県鹿児島市 西千石町1</p> <p><img alt="Memorial on bridge" src="https://live.staticflickr.com/65535/50188804221_aa97551593_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=31.5869927&amp;lon=130.5472233&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Memorial on bridge】 by JohnSeb</p>',
+      tweet_id: '1583626311272390656',
+      description: '<p>   鹿児島県鹿児島市 西千石町1</p><div class="tweetContainer" id="tweet1583626311272390656"></div> ',
       location: {
         center: [130.5472233, 31.5869927],
         zoom: 14,
@@ -96,8 +96,8 @@ const config = {
       hidden: false,
       title: 'くろいわラーメン 本店',
       image: '',
-      tweet_id: '',
-      description: '<p>   鹿児島県鹿児島市 東千石町8</p> <p><img alt="IMG_7988" src="https://live.staticflickr.com/65535/51818578906_5282b508b5_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=31.5914029&amp;lon=130.553828&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【IMG_7988】 by Autumn Sweater</p>',
+      tweet_id: '1583731400930627584',
+      description: '<p>   鹿児島県鹿児島市 東千石町8</p><div class="tweetContainer" id="tweet1583731400930627584"></div> ',
       location: {
         center: [130.553828, 31.5914029],
         zoom: 14,
