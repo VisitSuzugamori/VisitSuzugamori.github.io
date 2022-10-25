@@ -4556,6 +4556,16 @@
       </Point>
     </Placemark>
     <Placemark>
+      <name>桜島口</name>
+      <description>第25旅</description>
+      <styleUrl>#icon-1899-0288D1-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          130.7033157,31.5570611,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
       <name>鹿児島中央駅</name>
       <description>第25旅</description>
       <styleUrl>#icon-1899-0288D1-labelson</styleUrl>
@@ -4602,6 +4612,86 @@
       <Point>
         <coordinates>
           130.553828,31.5914029,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>天文館</name>
+      <description>第25旅</description>
+      <styleUrl>#icon-1899-0288D1-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          130.5551949,31.5905709,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>天文館むじゃき 本店</name>
+      <description>第25旅</description>
+      <styleUrl>#icon-1899-0288D1-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          130.555969,31.589238,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>山形屋1号館</name>
+      <description>第25旅</description>
+      <styleUrl>#icon-1899-0288D1-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          130.5570647,31.5932664,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ウォーターフロントパーク</name>
+      <description>第25旅</description>
+      <styleUrl>#icon-1899-0288D1-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          130.5631033,31.5935195,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>桜島フェリー乗り場</name>
+      <description>第25旅</description>
+      <styleUrl>#icon-1899-0288D1-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          130.5628203,31.5964541,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>桜島シーサイドホテル</name>
+      <description>第25旅</description>
+      <styleUrl>#icon-1899-0288D1-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          130.6587304,31.5521501,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>黒神埋没鳥居</name>
+      <description>第25旅</description>
+      <styleUrl>#icon-1899-0288D1-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          130.706257,31.5845576,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>椿の里(椿チャンポン)</name>
+      <description>第25旅</description>
+      <styleUrl>#icon-1899-0288D1-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          130.7064773,31.5847772,0
         </coordinates>
       </Point>
     </Placemark>

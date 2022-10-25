@@ -6247,6 +6247,20 @@
         {
             "geometry": {
                 "coordinates": [
+                    130.7033157,
+                    31.5570611
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "第25旅",
+                "name": "桜島口"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     130.5417154,
                     31.5836893
                 ],
@@ -6311,6 +6325,118 @@
             "properties": {
                 "description": "第25旅",
                 "name": "くろいわラーメン 本店"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    130.5551949,
+                    31.5905709
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "第25旅",
+                "name": "天文館"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    130.555969,
+                    31.589238
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "第25旅",
+                "name": "天文館むじゃき 本店"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    130.5570647,
+                    31.5932664
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "第25旅",
+                "name": "山形屋1号館"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    130.5631033,
+                    31.5935195
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "第25旅",
+                "name": "ウォーターフロントパーク"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    130.5628203,
+                    31.5964541
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "第25旅",
+                "name": "桜島フェリー乗り場"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    130.6587304,
+                    31.5521501
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "第25旅",
+                "name": "桜島シーサイドホテル"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    130.706257,
+                    31.5845576
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "第25旅",
+                "name": "黒神埋没鳥居"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    130.7064773,
+                    31.5847772
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "第25旅",
+                "name": "椿の里(椿チャンポン)"
             },
             "type": "Feature"
         }
