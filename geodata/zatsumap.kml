@@ -4556,16 +4556,6 @@
       </Point>
     </Placemark>
     <Placemark>
-      <name>桜島口</name>
-      <description>第25旅</description>
-      <styleUrl>#icon-1899-0288D1-labelson</styleUrl>
-      <Point>
-        <coordinates>
-          130.7033157,31.5570611,0
-        </coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
       <name>鹿児島中央駅</name>
       <description>第25旅</description>
       <styleUrl>#icon-1899-0288D1-labelson</styleUrl>
@@ -4672,6 +4662,16 @@
       <Point>
         <coordinates>
           130.6587304,31.5521501,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>桜島口</name>
+      <description>第25旅</description>
+      <styleUrl>#icon-1899-0288D1-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          130.7033157,31.5570611,0
         </coordinates>
       </Point>
     </Placemark>
