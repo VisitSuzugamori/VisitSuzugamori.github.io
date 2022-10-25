@@ -116,8 +116,8 @@ const config = {
       hidden: false,
       title: '美保神社',
       image: '',
-      tweet_id: '1583617756704182272',
-      description: '<p>4巻 P14  島根県松江市 美保関町美保関</p><div class="tweetContainer" id="tweet1583617756704182272"></div> ',
+      tweet_id: '1584012464642871297',
+      description: '<p>4巻 P14  島根県松江市 美保関町美保関</p><div class="tweetContainer" id="tweet1584012464642871297"></div> ',
       location: {
         center: [133.3062224, 35.5623182],
         zoom: 14,
@@ -136,8 +136,8 @@ const config = {
       hidden: false,
       title: '美保関灯台',
       image: '',
-      tweet_id: '1581454317726621697',
-      description: '<p>4巻 P28  島根県松江市 </p><div class="tweetContainer" id="tweet1581454317726621697"></div> ',
+      tweet_id: '1582229311620546561',
+      description: '<p>4巻 P28  島根県松江市 </p><div class="tweetContainer" id="tweet1582229311620546561"></div> ',
       location: {
         center: [133.3254458, 35.5672984],
         zoom: 14,
