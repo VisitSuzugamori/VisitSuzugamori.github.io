@@ -97,7 +97,7 @@ const config = {
       title: 'くろいわラーメン 本店',
       image: '',
       tweet_id: '',
-      description: '<p>   鹿児島県鹿児島市 東千石町8</p> <p><img alt="IMG_7988" src="https://live.staticflickr.com/65535/51818578906_5282b508b5_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=31.5914029&amp;lon=130.553828&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【IMG_7988】 by Autumn Sweater</p>',
+      description: '<p>   鹿児島県鹿児島市 東千石町8</p> <p><img alt="IMG_7991" src="https://live.staticflickr.com/65535/51818918839_6d868e0b16_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=31.5914029&amp;lon=130.553828&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【IMG_7991】 by Autumn Sweater</p>',
       location: {
         center: [130.553828, 31.5914029],
         zoom: 14,
@@ -177,7 +177,7 @@ const config = {
       title: 'ウォーターフロントパーク',
       image: '',
       tweet_id: '',
-      description: '<p>   鹿児島県鹿児島市 本港新町5</p> <p><img alt="_DSC7224" src="https://live.staticflickr.com/65535/50170708487_4dfa2239f2_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=31.5935195&amp;lon=130.5631033&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【_DSC7224】 by de98lip</p>',
+      description: '<p>   鹿児島県鹿児島市 本港新町5</p> <p><img alt="ウォーターフロントパーク" src="https://live.staticflickr.com/65535/50984498053_8cb6611f7d_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=31.5935195&amp;lon=130.5631033&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【ウォーターフロントパーク】 by Tak H.</p>',
       location: {
         center: [130.5631033, 31.5935195],
         zoom: 14,
@@ -197,7 +197,7 @@ const config = {
       title: '桜島フェリー乗り場',
       image: '',
       tweet_id: '',
-      description: '<p>   鹿児島県鹿児島市 本港新町4</p> <p><img alt="Throne of Clouds" src="https://live.staticflickr.com/65535/50040687557_c509798ff5_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=31.5964541&amp;lon=130.5628203&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Throne of Clouds】 by _ A Sparrow at Home</p>',
+      description: '<p>   鹿児島県鹿児島市 本港新町4</p> <p><img alt="Kagoshima-58" src="https://live.staticflickr.com/65535/51015897816_2161965f60_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=31.5964541&amp;lon=130.5628203&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Kagoshima-58】 by Art Dekimpe</p>',
       location: {
         center: [130.5628203, 31.5964541],
         zoom: 14,

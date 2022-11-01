@@ -156,8 +156,8 @@ const config = {
       hidden: false,
       title: '潮岬観光タワー',
       image: '',
-      tweet_id: '',
-      description: '<p>3巻 P71  和歌山県東牟婁郡 串本町 </p> <p><img alt="潮岬 本州最南端 (8)" src="https://live.staticflickr.com/65535/50084564413_21ec1ddb6d_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=33.437806&amp;lon=135.7613677&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【潮岬 本州最南端 (8)】 by OOMYV</p>',
+      tweet_id: '1587257799826083841',
+      description: '<p>3巻 P71  和歌山県東牟婁郡 串本町 </p><div class="tweetContainer" id="tweet1587257799826083841"></div> ',
       location: {
         center: [135.7613677, 33.437806],
         zoom: 14,

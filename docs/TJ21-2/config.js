@@ -17,7 +17,7 @@ const config = {
       title: '湯倉神社 鳥居',
       image: '',
       tweet_id: '',
-      description: '<p>7巻   北海道函館市 湯川町二丁目28</p> <p><img alt="Yunokawa" src="https://live.staticflickr.com/1802/43051794922_4a8d3b6aa0_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=41.7815466&amp;lon=140.7909432&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Yunokawa】 by kevincrumbs</p>',
+      description: '<p>7巻   北海道函館市 湯川町二丁目28</p> <p><img alt="神の遣い" src="https://live.staticflickr.com/7908/46474498784_75598b96c5_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=41.7815466&amp;lon=140.7909432&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【神の遣い】 by Y.Masayoshi</p>',
       location: {
         center: [140.7909432, 41.7815466],
         zoom: 14,

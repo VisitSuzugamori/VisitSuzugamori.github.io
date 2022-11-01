@@ -117,7 +117,7 @@ const config = {
       title: 'あなごめし うえの 宮島口本店',
       image: '',
       tweet_id: '',
-      description: '<p>2巻 P148  広島県廿日市市 宮島口一丁目5</p> <p><img alt="JR Miyajimaguchi Station" src="https://live.staticflickr.com/65535/51332939385_79f34f1c4e_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.311502&amp;lon=132.3035106&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【JR Miyajimaguchi Station】 by Kzaral</p>',
+      description: '<p>2巻 P148  広島県廿日市市 宮島口一丁目5</p> <p><img alt="IMG_3840" src="https://live.staticflickr.com/65535/51373328993_57f2969684_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.311502&amp;lon=132.3035106&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【IMG_3840】 by ylefou2004</p>',
       location: {
         center: [132.3035106, 34.311502],
         zoom: 14,
@@ -157,7 +157,7 @@ const config = {
       title: '嚴島神社 大鳥居（布の中）',
       image: '',
       tweet_id: '',
-      description: '<p>2巻 P152,153  </p> <p><img alt="The torii of Itsukushima Shrine in bokeh, Miyajima" src="https://live.staticflickr.com/65535/52284121992_61f86524e6_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.2973092&amp;lon=132.3181276&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【The torii of Itsukushima Shrine in bokeh, Miyajima】 by Hans ter Horst Photography</p>',
+      description: '<p>2巻 P152,153  </p> <p><img alt="Japan 2015. Hiroshima. Portrait of a Japanese girl on a bark." src="https://live.staticflickr.com/5466/30466139845_a1e9f9ef74_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.2973092&amp;lon=132.3181276&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Japan 2015. Hiroshima. Portrait of a Japanese girl on a bark.】 by Jean-Paul Margnac</p>',
       location: {
         center: [132.3181276, 34.2973092],
         zoom: 14,

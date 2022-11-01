@@ -16,8 +16,8 @@ const config = {
       hidden: false,
       title: '東京駅',
       image: '',
-      tweet_id: '1586929067965960192',
-      description: '<p>6巻 P38  東京都千代田区 丸の内一丁目9</p><div class="tweetContainer" id="tweet1586929067965960192"></div> ',
+      tweet_id: '1586625774899015680',
+      description: '<p>6巻 P38  東京都千代田区 丸の内一丁目9</p><div class="tweetContainer" id="tweet1586625774899015680"></div> ',
       location: {
         center: [139.7671248, 35.6812362],
         zoom: 14,
@@ -236,8 +236,8 @@ const config = {
       hidden: false,
       title: '水上駅',
       image: '',
-      tweet_id: '1584149754615050245',
-      description: '<p>6巻 P56  群馬県利根郡 みなかみ町 鹿野沢70</p><div class="tweetContainer" id="tweet1584149754615050245"></div> ',
+      tweet_id: '1586621793942790144',
+      description: '<p>6巻 P56  群馬県利根郡 みなかみ町 鹿野沢70</p><div class="tweetContainer" id="tweet1586621793942790144"></div> ',
       location: {
         center: [138.9688398, 36.778636],
         zoom: 14,

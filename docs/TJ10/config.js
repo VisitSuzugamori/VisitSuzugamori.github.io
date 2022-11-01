@@ -57,7 +57,7 @@ const config = {
       title: '八甲田 山頂公園',
       image: '',
       tweet_id: '',
-      description: '<p>3巻 P34  青森県青森市 </p> <p><img alt="Hakkoda snow monsters" src="https://live.staticflickr.com/65535/51886526308_8646115e88_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=40.6757743&amp;lon=140.8592116&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Hakkoda snow monsters】 by 雷太</p>',
+      description: '<p>3巻 P34  青森県青森市 </p> <p><img alt="Frozen Hakkoda ropeway" src="https://live.staticflickr.com/65535/51886526253_46eec59f89_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=40.6757743&amp;lon=140.8592116&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Frozen Hakkoda ropeway】 by 雷太</p>',
       location: {
         center: [140.8592116, 40.6757743],
         zoom: 14,
@@ -77,7 +77,7 @@ const config = {
       title: '谷地温泉',
       image: '',
       tweet_id: '',
-      description: '<p>3巻 P38  青森県十和田市 </p> <p><img alt="Yachi onsen, one of the secret onsen of Aomori" src="https://live.staticflickr.com/65535/50036555706_91c5393d60_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=40.6330178&amp;lon=140.9245271&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Yachi onsen, one of the secret onsen of Aomori】 by Hans ter Horst Photography</p>',
+      description: '<p>3巻 P38  青森県十和田市 </p> <p><img alt="Yachi onsen, one of the secret onsen of Aomori" src="https://live.staticflickr.com/65535/50036012223_af7d118d43_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=40.6330178&amp;lon=140.9245271&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Yachi onsen, one of the secret onsen of Aomori】 by Hans ter Horst Photography</p>',
       location: {
         center: [140.9245271, 40.6330178],
         zoom: 14,
@@ -157,7 +157,7 @@ const config = {
       title: '宇曽利山湖 極楽浜',
       image: '',
       tweet_id: '',
-      description: '<p>3巻 P51  青森県むつ市 </p> <p><img alt="æ¥µæ¥½æµ" src="https://live.staticflickr.com/5700/30300214030_6039b48ac4_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=41.3264966&amp;lon=141.086011&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【æ¥µæ¥½æµ】 by kanata-t</p>',
+      description: '<p>3巻 P51  青森県むつ市 </p> <p><img alt="恐山" src="https://live.staticflickr.com/65535/50327664441_0856db8fa1_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=41.3264966&amp;lon=141.086011&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【恐山】 by himeti</p>',
       location: {
         center: [141.086011, 41.3264966],
         zoom: 14,
@@ -177,7 +177,7 @@ const config = {
       title: '恐山 花染の湯',
       image: '',
       tweet_id: '',
-      description: '<p>3巻 P52  青森県むつ市 </p> <p><img alt="Brána do zásvětí" src="https://live.staticflickr.com/65535/51547085772_622db872a4_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=41.3283697&amp;lon=141.0917047&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Brána do zásvětí】 by SocialHermit</p>',
+      description: '<p>3巻 P52  青森県むつ市 </p> <p><img alt="Hlavní chrám" src="https://live.staticflickr.com/65535/51548608644_42d6d234c5_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=41.3283697&amp;lon=141.0917047&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Hlavní chrám】 by SocialHermit</p>',
       location: {
         center: [141.0917047, 41.3283697],
         zoom: 14,
@@ -197,7 +197,7 @@ const config = {
       title: '恐山冷水',
       image: '',
       tweet_id: '',
-      description: '<p>3巻 P55  青森県むつ市 </p> <p><img alt="Hiyamizu" src="https://live.staticflickr.com/26/60335134_9b83ef0b46_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=41.3145659&amp;lon=141.1264919&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Hiyamizu】 by tsuda</p>',
+      description: '<p>3巻 P55  青森県むつ市 </p> <p><img alt="Osorezan Hiyamizu springs" src="https://live.staticflickr.com/7756/18265270976_87be1e78a7_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=41.3145659&amp;lon=141.1264919&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Osorezan Hiyamizu springs】 by mega_midget_racer</p>',
       location: {
         center: [141.1264919, 41.3145659],
         zoom: 14,

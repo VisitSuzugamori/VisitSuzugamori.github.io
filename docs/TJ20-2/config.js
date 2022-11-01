@@ -16,8 +16,8 @@ const config = {
       hidden: false,
       title: '東京駅',
       image: '',
-      tweet_id: '1586566671862759424',
-      description: '<p>6巻 P132  東京都千代田区 丸の内一丁目9</p><div class="tweetContainer" id="tweet1586566671862759424"></div> ',
+      tweet_id: '1587117486088269825',
+      description: '<p>6巻 P132  東京都千代田区 丸の内一丁目9</p><div class="tweetContainer" id="tweet1587117486088269825"></div> ',
       location: {
         center: [139.7671248, 35.6812362],
         zoom: 14,
@@ -36,8 +36,8 @@ const config = {
       hidden: false,
       title: '桂浜',
       image: '',
-      tweet_id: '1586526413808885761',
-      description: '<p>6巻 P108  高知県高知市 浦戸778</p><div class="tweetContainer" id="tweet1586526413808885761"></div> ',
+      tweet_id: '1587228697861718016',
+      description: '<p>6巻 P108  高知県高知市 浦戸778</p><div class="tweetContainer" id="tweet1587228697861718016"></div> ',
       location: {
         center: [133.5749209, 33.4971366],
         zoom: 14,
@@ -56,8 +56,8 @@ const config = {
       hidden: false,
       title: '坂本龍馬像',
       image: '',
-      tweet_id: '1584339083836686336',
-      description: '<p>6巻 P109  高知県高知市 浦戸6</p><div class="tweetContainer" id="tweet1584339083836686336"></div> ',
+      tweet_id: '',
+      description: '<p>6巻 P109  高知県高知市 浦戸6</p> <p><img alt="Katsurahama (桂浜)" src="https://live.staticflickr.com/65535/52068717083_8e00b3b04d_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=33.4986187&amp;lon=133.5754821&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Katsurahama (桂浜)】 by pantkiewicz</p>',
       location: {
         center: [133.5754821, 33.4986187],
         zoom: 14,
@@ -76,8 +76,8 @@ const config = {
       hidden: false,
       title: '桂浜水族館',
       image: '',
-      tweet_id: '1584357935219503104',
-      description: '<p>6巻 P116  高知県高知市 浦戸778</p><div class="tweetContainer" id="tweet1584357935219503104"></div> ',
+      tweet_id: '',
+      description: '<p>6巻 P116  高知県高知市 浦戸778</p> <p><img alt="Urado Castle ruins (浦戸城跡)" src="https://live.staticflickr.com/65535/52068952264_27f3e0e513_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=33.4969444&amp;lon=133.5736111&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Urado Castle ruins (浦戸城跡)】 by pantkiewicz</p>',
       location: {
         center: [133.5736111, 33.4969444],
         zoom: 14,
