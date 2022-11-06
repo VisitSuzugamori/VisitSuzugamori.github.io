@@ -16,8 +16,8 @@ const config = {
       hidden: false,
       title: '東京駅',
       image: '',
-      tweet_id: '1587779427261243392',
-      description: '<p>6巻 P38  東京都千代田区 丸の内一丁目9</p><div class="tweetContainer" id="tweet1587779427261243392"></div> ',
+      tweet_id: '1588681186104455168',
+      description: '<p>6巻 P38  東京都千代田区 丸の内一丁目9</p><div class="tweetContainer" id="tweet1588681186104455168"></div> ',
       location: {
         center: [139.7671248, 35.6812362],
         zoom: 14,
@@ -197,7 +197,7 @@ const config = {
       title: 'ばーちゃん再会の地',
       image: '',
       tweet_id: '',
-      description: '<p>6巻 P50  群馬県渋川市 上白井400</p> <p><img alt="0145 Upstream" src="https://live.staticflickr.com/3931/15340543459_63ec4cd00e_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=36.5749053&amp;lon=139.053134&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【0145 Upstream】 by mari-ten</p>',
+      description: '<p>6巻 P50  群馬県渋川市 上白井400</p> <p><img alt="18a1121" src="https://live.staticflickr.com/4665/27853362789_220ff1b401_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=36.5749053&amp;lon=139.053134&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【18a1121】 by kimagurenote</p>',
       location: {
         center: [139.053134, 36.5749053],
         zoom: 14,
@@ -236,8 +236,8 @@ const config = {
       hidden: false,
       title: '水上駅',
       image: '',
-      tweet_id: '1588676033687195648',
-      description: '<p>6巻 P56  群馬県利根郡 みなかみ町 鹿野沢70</p><div class="tweetContainer" id="tweet1588676033687195648"></div> ',
+      tweet_id: '1589116350416420865',
+      description: '<p>6巻 P56  群馬県利根郡 みなかみ町 鹿野沢70</p><div class="tweetContainer" id="tweet1589116350416420865"></div> ',
       location: {
         center: [138.9688398, 36.778636],
         zoom: 14,

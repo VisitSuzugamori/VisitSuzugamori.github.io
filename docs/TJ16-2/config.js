@@ -37,7 +37,7 @@ const config = {
       title: '御岩神社',
       image: '',
       tweet_id: '',
-      description: '<p>5巻 P36  茨城県日立市 </p> <p><img alt="Niigata/Ibaraki &#39;16 #19" src="https://live.staticflickr.com/8200/28815102074_b6a5c91bb1_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=36.6360807&amp;lon=140.5855581&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Niigata/Ibaraki &#39;16 #19】 by tt64jp</p>',
+      description: '<p>5巻 P36  茨城県日立市 </p> <p><img alt="20181008-084906-40" src="https://live.staticflickr.com/1903/31326270958_ccb17041be_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=36.6360807&amp;lon=140.5855581&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【20181008-084906-40】 by giu205</p>',
       location: {
         center: [140.5855581, 36.6360807],
         zoom: 14,
@@ -96,8 +96,8 @@ const config = {
       hidden: false,
       title: '日立駅',
       image: '',
-      tweet_id: '1587791298546860033',
-      description: '<p>5巻 P51  茨城県日立市 旭町一丁目3</p><div class="tweetContainer" id="tweet1587791298546860033"></div> ',
+      tweet_id: '1589100066186616833',
+      description: '<p>5巻 P51  茨城県日立市 旭町一丁目3</p><div class="tweetContainer" id="tweet1589100066186616833"></div> ',
       location: {
         center: [140.6621017, 36.5906849],
         zoom: 14,
@@ -117,7 +117,7 @@ const config = {
       title: '山文魚',
       image: '',
       tweet_id: '',
-      description: '<p>5巻 P52  茨城県日立市 旭町二丁目3</p> <p><img alt="IMG_0548.JPG" src="https://live.staticflickr.com/7010/6821624767_3f9db917f5_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=36.5873526&amp;lon=140.6616108&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【IMG_0548.JPG】 by hottn</p>',
+      description: '<p>5巻 P52  茨城県日立市 旭町二丁目3</p> <p><img alt="" src="https://live.staticflickr.com/3852/14446705419_b0bf49e519_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=36.5873526&amp;lon=140.6616108&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【】 by hottn</p>',
       location: {
         center: [140.6616108, 36.5873526],
         zoom: 14,
@@ -137,7 +137,7 @@ const config = {
       title: '津神社',
       image: '',
       tweet_id: '',
-      description: '<p>5巻 P53  茨城県日立市 相賀町14</p> <p><img alt="Dusk" src="https://live.staticflickr.com/5001/5377641481_e43bf18a20_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=36.5809219&amp;lon=140.6617725&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Dusk】 by gupey</p>',
+      description: '<p>5巻 P53  茨城県日立市 相賀町14</p> <p><img alt="#sea #shore" src="https://live.staticflickr.com/3956/15501150157_220386f221_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=36.5809219&amp;lon=140.6617725&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【#sea #shore】 by culturalphenomenon27</p>',
       location: {
         center: [140.6617725, 36.5809219],
         zoom: 14,

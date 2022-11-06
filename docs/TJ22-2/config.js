@@ -17,7 +17,7 @@ const config = {
       title: '角川第2本社ビル',
       image: '',
       tweet_id: '',
-      description: '<p>7巻   東京都千代田区 富士見二丁目13</p> <p><img alt="" src="https://live.staticflickr.com/65535/51528487357_3217fc955f_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.6978467&amp;lon=139.7442465&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【】 by zhangtreddy</p>',
+      description: '<p>7巻   東京都千代田区 富士見二丁目13</p> <p><img alt="" src="https://live.staticflickr.com/65535/52039372571_d66d54a179_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.6978467&amp;lon=139.7442465&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【】 by satty sky</p>',
       location: {
         center: [139.7442465, 35.6978467],
         zoom: 14,
@@ -37,7 +37,7 @@ const config = {
       title: 'オホーツクの塔',
       image: '',
       tweet_id: '',
-      description: '<p>7巻   北海道網走市 </p> <p><img alt="L1009111" src="https://live.staticflickr.com/1897/43515868224_95bb4c0496_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=44.1106685&amp;lon=144.2473548&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【L1009111】 by bluepointchen</p>',
+      description: '<p>7巻   北海道網走市 </p> <p><img alt="90460014" src="https://live.staticflickr.com/7008/13667324093_20481f5170_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=44.1106685&amp;lon=144.2473548&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【90460014】 by 唯有主我的上主</p>',
       location: {
         center: [144.2473548, 44.1106685],
         zoom: 14,
@@ -96,8 +96,8 @@ const config = {
       hidden: false,
       title: '能取岬',
       image: '',
-      tweet_id: '1587680636948602887',
-      description: '<p>7巻   北海道網走市 </p><div class="tweetContainer" id="tweet1587680636948602887"></div> ',
+      tweet_id: '1588847515813937153',
+      description: '<p>7巻   北海道網走市 </p><div class="tweetContainer" id="tweet1588847515813937153"></div> ',
       location: {
         center: [144.2434854, 44.1133485],
         zoom: 14,
@@ -117,7 +117,7 @@ const config = {
       title: '能取岬灯台',
       image: '',
       tweet_id: '',
-      description: '<p>7巻   北海道網走市 </p> <p><img alt="DSC_0221" src="https://live.staticflickr.com/65535/51372411052_88f1ddce0d_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=44.1121076&amp;lon=144.2432936&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【DSC_0221】 by ylefou2004</p>',
+      description: '<p>7巻   北海道網走市 </p> <p><img alt="能取岬" src="https://live.staticflickr.com/65535/52335965066_95b6ac84f7_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=44.1121076&amp;lon=144.2432936&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【能取岬】 by kanata-t</p>',
       location: {
         center: [144.2432936, 44.1121076],
         zoom: 14,
@@ -177,7 +177,7 @@ const config = {
       title: '道の駅 うとろ・シリエトク',
       image: '',
       tweet_id: '',
-      description: '<p>7巻   北海道斜里郡 斜里町 </p> <p><img alt="36222-Shiretoko" src="https://live.staticflickr.com/65535/49140707982_12234d6091_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=44.069034&amp;lon=144.990695&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【36222-Shiretoko】 by xiquinhosilva</p>',
+      description: '<p>7巻   北海道斜里郡 斜里町 </p> <p><img alt="ウトロ港" src="https://live.staticflickr.com/65535/50388164322_a57d436be0_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=44.069034&amp;lon=144.990695&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【ウトロ港】 by Chitaka Chou</p>',
       location: {
         center: [144.990695, 44.069034],
         zoom: 14,
@@ -196,8 +196,8 @@ const config = {
       hidden: false,
       title: '知床横断道路通行止め',
       image: '',
-      tweet_id: '',
-      description: '<p>7巻   北海道斜里郡 斜里町 </p> <p><img alt="36261-Shiretoko" src="https://live.staticflickr.com/65535/49140018113_177eedfa74_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=44.0916901&amp;lon=145.0251744&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【36261-Shiretoko】 by xiquinhosilva</p>',
+      tweet_id: '1588842997009231876',
+      description: '<p>7巻   北海道斜里郡 斜里町 </p><div class="tweetContainer" id="tweet1588842997009231876"></div> ',
       location: {
         center: [145.0251744, 44.0916901],
         zoom: 14,
