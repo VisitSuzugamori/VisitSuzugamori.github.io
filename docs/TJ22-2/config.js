@@ -37,7 +37,7 @@ const config = {
       title: 'オホーツクの塔',
       image: '',
       tweet_id: '',
-      description: '<p>7巻   北海道網走市 </p> <p><img alt="90460014" src="https://live.staticflickr.com/7008/13667324093_20481f5170_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=44.1106685&amp;lon=144.2473548&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【90460014】 by 唯有主我的上主</p>',
+      description: '<p>7巻   北海道網走市 </p> <p><img alt="L1009111" src="https://live.staticflickr.com/1897/43515868224_95bb4c0496_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=44.1106685&amp;lon=144.2473548&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【L1009111】 by bluepointchen</p>',
       location: {
         center: [144.2473548, 44.1106685],
         zoom: 14,
@@ -57,7 +57,7 @@ const config = {
       title: '能取の荘 かがり屋',
       image: '',
       tweet_id: '',
-      description: '<p>7巻   北海道網走市 </p> <p><img alt="20210203 07:10 Uharanai Hokkaido" src="https://live.staticflickr.com/65535/50904374111_de537d3b9f_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=44.0124153&amp;lon=144.1156977&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【20210203 07:10 Uharanai Hokkaido】 by ichigosugawara</p>',
+      description: '<p>7巻   北海道網走市 </p> <p><img alt="coral grass" src="https://live.staticflickr.com/65535/50298578861_724ebdc9a5_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=44.0124153&amp;lon=144.1156977&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【coral grass】 by xd_travel</p>',
       location: {
         center: [144.1156977, 44.0124153],
         zoom: 14,
@@ -177,7 +177,7 @@ const config = {
       title: '道の駅 うとろ・シリエトク',
       image: '',
       tweet_id: '',
-      description: '<p>7巻   北海道斜里郡 斜里町 </p> <p><img alt="ウトロ港" src="https://live.staticflickr.com/65535/50388164322_a57d436be0_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=44.069034&amp;lon=144.990695&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【ウトロ港】 by Chitaka Chou</p>',
+      description: '<p>7巻   北海道斜里郡 斜里町 </p> <p><img alt="ウトロ港" src="https://live.staticflickr.com/65535/50387289793_30abd477db_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=44.069034&amp;lon=144.990695&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【ウトロ港】 by Chitaka Chou</p>',
       location: {
         center: [144.990695, 44.069034],
         zoom: 14,
@@ -277,7 +277,7 @@ const config = {
       title: '美白の湯宿 大江本家',
       image: '',
       tweet_id: '',
-      description: '<p>7巻   北海道北見市 留辺蘂町温根湯温泉一区453</p> <p><img alt="" src="https://live.staticflickr.com/704/22071845355_6cfcfd6ac2_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=43.7597063&amp;lon=143.5082092&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【】 by lovelva416</p>',
+      description: '<p>7巻   北海道北見市 留辺蘂町温根湯温泉一区453</p> <p><img alt="" src="https://live.staticflickr.com/713/21883238390_e98c08a059_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=43.7597063&amp;lon=143.5082092&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【】 by lovelva416</p>',
       location: {
         center: [143.5082092, 43.7597063],
         zoom: 14,

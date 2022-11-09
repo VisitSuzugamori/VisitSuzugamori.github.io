@@ -76,8 +76,8 @@ const config = {
       hidden: false,
       title: '広島駅',
       image: '',
-      tweet_id: '1586119494577311748',
-      description: '<p>2巻 P146  広島県広島市 南区 松原町1</p><div class="tweetContainer" id="tweet1586119494577311748"></div> ',
+      tweet_id: '1589955490351841280',
+      description: '<p>2巻 P146  広島県広島市 南区 松原町1</p><div class="tweetContainer" id="tweet1589955490351841280"></div> ',
       location: {
         center: [132.4753786, 34.397667],
         zoom: 14,
@@ -96,8 +96,8 @@ const config = {
       hidden: false,
       title: '宮島口駅',
       image: '',
-      tweet_id: '1586531972176031745',
-      description: '<p>2巻 P147  広島県廿日市市 宮島口一丁目3</p><div class="tweetContainer" id="tweet1586531972176031745"></div> ',
+      tweet_id: '1587421488730218497',
+      description: '<p>2巻 P147  広島県廿日市市 宮島口一丁目3</p><div class="tweetContainer" id="tweet1587421488730218497"></div> ',
       location: {
         center: [132.3029311, 34.3120172],
         zoom: 14,
