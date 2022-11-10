@@ -16,8 +16,8 @@ const config = {
       hidden: false,
       title: '鹿児島中央駅',
       image: '',
-      tweet_id: '1589182716473675779',
-      description: '<p>   鹿児島県鹿児島市 武一丁目1</p><div class="tweetContainer" id="tweet1589182716473675779"></div> ',
+      tweet_id: '1589920457587060737',
+      description: '<p>   鹿児島県鹿児島市 武一丁目1</p><div class="tweetContainer" id="tweet1589920457587060737"></div> ',
       location: {
         center: [130.5417154, 31.5836893],
         zoom: 14,
@@ -177,7 +177,7 @@ const config = {
       title: 'ウォーターフロントパーク',
       image: '',
       tweet_id: '',
-      description: '<p>   鹿児島県鹿児島市 本港新町5</p> <p><img alt="_DSC7224" src="https://live.staticflickr.com/65535/50170708487_4dfa2239f2_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=31.5935195&amp;lon=130.5631033&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【_DSC7224】 by de98lip</p>',
+      description: '<p>   鹿児島県鹿児島市 本港新町5</p> <p><img alt="ウォーターフロントパーク" src="https://live.staticflickr.com/65535/50984498053_8cb6611f7d_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=31.5935195&amp;lon=130.5631033&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【ウォーターフロントパーク】 by Tak H.</p>',
       location: {
         center: [130.5631033, 31.5935195],
         zoom: 14,
@@ -197,7 +197,7 @@ const config = {
       title: '桜島フェリー乗り場',
       image: '',
       tweet_id: '',
-      description: '<p>   鹿児島県鹿児島市 本港新町4</p> <p><img alt="Kagoshima-49" src="https://live.staticflickr.com/65535/51015987662_2a52e70390_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=31.5964541&amp;lon=130.5628203&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Kagoshima-49】 by Art Dekimpe</p>',
+      description: '<p>   鹿児島県鹿児島市 本港新町4</p> <p><img alt="Kagoshima-58" src="https://live.staticflickr.com/65535/51015897816_2161965f60_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=31.5964541&amp;lon=130.5628203&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Kagoshima-58】 by Art Dekimpe</p>',
       location: {
         center: [130.5628203, 31.5964541],
         zoom: 14,
@@ -217,7 +217,7 @@ const config = {
       title: '桜島シーサイドホテル',
       image: '',
       tweet_id: '',
-      description: '<p>   鹿児島県鹿児島市 古里町1076</p> <p><img alt="20120220-_DSC6449" src="https://live.staticflickr.com/4631/25891951948_8c904dc2c9_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=31.5521501&amp;lon=130.6587304&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【20120220-_DSC6449】 by Fomal Haut</p>',
+      description: '<p>   鹿児島県鹿児島市 古里町1076</p> <p><img alt="20120221-_DSC7573" src="https://live.staticflickr.com/4604/24900372627_30712b9034_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=31.5521501&amp;lon=130.6587304&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【20120221-_DSC7573】 by Fomal Haut</p>',
       location: {
         center: [130.6587304, 31.5521501],
         zoom: 14,
@@ -257,7 +257,7 @@ const config = {
       title: '黒神埋没鳥居',
       image: '',
       tweet_id: '',
-      description: '<p>   鹿児島県鹿児島市 黒神町258</p> <p><img alt="黑神埋沒鳥居 Kurokami Buried Shrine Gate" src="https://live.staticflickr.com/4848/32078753968_622843d427_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=31.5845576&amp;lon=130.706257&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【黑神埋沒鳥居 Kurokami Buried Shrine Gate】 by Leung C K</p>',
+      description: '<p>   鹿児島県鹿児島市 黒神町258</p> <p><img alt="黒神埋沒鳥居" src="https://live.staticflickr.com/65535/50840431221_7fa46e0c13_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=31.5845576&amp;lon=130.706257&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【黒神埋沒鳥居】 by Chitaka Chou</p>',
       location: {
         center: [130.706257, 31.5845576],
         zoom: 14,
@@ -277,7 +277,7 @@ const config = {
       title: '椿の里(椿チャンポン)',
       image: '',
       tweet_id: '',
-      description: '<p>   鹿児島県鹿児島市 黒神町258</p> <p><img alt="黒神埋沒鳥居" src="https://live.staticflickr.com/65535/50840431221_7fa46e0c13_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=31.5847772&amp;lon=130.7064773&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【黒神埋沒鳥居】 by Chitaka Chou</p>',
+      description: '<p>   鹿児島県鹿児島市 黒神町258</p> <p><img alt="黒神埋沒鳥居" src="https://live.staticflickr.com/65535/50840430876_2442a52eed_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=31.5847772&amp;lon=130.7064773&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【黒神埋沒鳥居】 by Chitaka Chou</p>',
       location: {
         center: [130.7064773, 31.5847772],
         zoom: 14,

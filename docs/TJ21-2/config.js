@@ -37,7 +37,7 @@ const config = {
       title: '湯倉神社',
       image: '',
       tweet_id: '',
-      description: '<p>7巻   北海道函館市 湯川町二丁目28</p> <p><img alt="Waiting to board" src="https://live.staticflickr.com/1803/42197235135_68a1b2d5e0_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=41.7821053&amp;lon=140.7910231&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Waiting to board】 by kevincrumbs</p>',
+      description: '<p>7巻   北海道函館市 湯川町二丁目28</p> <p><img alt="神の遣い" src="https://live.staticflickr.com/7908/46474498784_75598b96c5_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=41.7821053&amp;lon=140.7910231&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【神の遣い】 by Y.Masayoshi</p>',
       location: {
         center: [140.7910231, 41.7821053],
         zoom: 14,
@@ -117,7 +117,7 @@ const config = {
       title: '函館市熱帯植物園駐車場',
       image: '',
       tweet_id: '',
-      description: '<p>7巻   北海道函館市 湯川町二丁目1</p> <p><img alt="サル" src="https://live.staticflickr.com/65535/50987897093_9e724a25ea_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=41.7741951&amp;lon=140.7883462&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【サル】 by Chitaka Chou</p>',
+      description: '<p>7巻   北海道函館市 湯川町二丁目1</p> <p><img alt="サル" src="https://live.staticflickr.com/65535/50988709657_a0471018a3_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=41.7741951&amp;lon=140.7883462&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【サル】 by Chitaka Chou</p>',
       location: {
         center: [140.7883462, 41.7741951],
         zoom: 14,
@@ -257,7 +257,7 @@ const config = {
       title: '大森町',
       image: '',
       tweet_id: '',
-      description: '<p>7巻   北海道函館市 宇賀浦町1</p> <p><img alt="DSC01099" src="https://live.staticflickr.com/7269/26766570763_76aa756613_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=41.7697786&amp;lon=140.7404156&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【DSC01099】 by 騰子</p>',
+      description: '<p>7巻   北海道函館市 宇賀浦町1</p> <p><img alt="函館市電 39 ハイカラ号の絵" src="https://live.staticflickr.com/65535/50074882542_30b0baceb7_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=41.7697786&amp;lon=140.7404156&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【函館市電 39 ハイカラ号の絵】 by OOMYV</p>',
       location: {
         center: [140.7404156, 41.7697786],
         zoom: 14,
@@ -277,7 +277,7 @@ const config = {
       title: '石川啄木一族の墓',
       image: '',
       tweet_id: '',
-      description: '<p>7巻   北海道函館市 住吉町15</p> <p><img alt="DSC00920" src="https://live.staticflickr.com/4560/37534155994_5c3fc4a194_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=41.7474858&amp;lon=140.7194496&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【DSC00920】 by スーパーサイヤ人Ⅳ</p>',
+      description: '<p>7巻   北海道函館市 住吉町15</p> <p><img alt="DSC00925" src="https://live.staticflickr.com/4453/37534148784_3503dc3381_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=41.7474858&amp;lon=140.7194496&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【DSC00925】 by スーパーサイヤ人Ⅳ</p>',
       location: {
         center: [140.7194496, 41.7474858],
         zoom: 14,

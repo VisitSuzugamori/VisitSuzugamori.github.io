@@ -437,7 +437,7 @@ const config = {
       title: '二軒家橋跡',
       image: '',
       tweet_id: '',
-      description: '<p>5巻 P147  東京都渋谷区 本町四丁目12</p> <p><img alt="村木橋跡" src="https://live.staticflickr.com/65535/51203683032_f758d003d8_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.6879053&amp;lon=139.6810693&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【村木橋跡】 by いしだなおと</p>',
+      description: '<p>5巻 P147  東京都渋谷区 本町四丁目12</p> <p><img alt="清水橋跡" src="https://live.staticflickr.com/65535/51204598608_4534d514d2_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.6879053&amp;lon=139.6810693&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【清水橋跡】 by いしだなおと</p>',
       location: {
         center: [139.6810693, 35.6879053],
         zoom: 14,
@@ -477,7 +477,7 @@ const config = {
       title: '杉並区立玉川上水公園',
       image: '',
       tweet_id: '',
-      description: '<p>5巻 P149  東京都杉並区 和泉二丁目8</p> <p><img alt="杉並区立玉川上水公園" src="https://live.staticflickr.com/65535/51205460915_8d543ab569_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.6713219&amp;lon=139.651149&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【杉並区立玉川上水公園】 by いしだなおと</p>',
+      description: '<p>5巻 P149  東京都杉並区 和泉二丁目8</p> <p><img alt="東京山手急行電鉄跡" src="https://live.staticflickr.com/65535/51204396566_7231c379a0_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.6713219&amp;lon=139.651149&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【東京山手急行電鉄跡】 by いしだなおと</p>',
       location: {
         center: [139.651149, 35.6713219],
         zoom: 14,

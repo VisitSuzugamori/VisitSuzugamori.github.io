@@ -157,7 +157,7 @@ const config = {
       title: '宇曽利山湖 極楽浜',
       image: '',
       tweet_id: '',
-      description: '<p>3巻 P51  青森県むつ市 </p> <p><img alt="恐山" src="https://live.staticflickr.com/65535/50327664441_0856db8fa1_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=41.3264966&amp;lon=141.086011&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【恐山】 by himeti</p>',
+      description: '<p>3巻 P51  青森県むつ市 </p> <p><img alt="恐山(Mt. Osorezan)" src="https://live.staticflickr.com/4181/33624245414_bb17444860_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=41.3264966&amp;lon=141.086011&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【恐山(Mt. Osorezan)】 by seto</p>',
       location: {
         center: [141.086011, 41.3264966],
         zoom: 14,
@@ -177,7 +177,7 @@ const config = {
       title: '恐山 花染の湯',
       image: '',
       tweet_id: '',
-      description: '<p>3巻 P52  青森県むつ市 </p> <p><img alt="Hlavní chrám" src="https://live.staticflickr.com/65535/51548608644_42d6d234c5_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=41.3283697&amp;lon=141.0917047&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Hlavní chrám】 by SocialHermit</p>',
+      description: '<p>3巻 P52  青森県むつ市 </p> <p><img alt="Pekelná krajina" src="https://live.staticflickr.com/65535/51548121888_2ae021f18a_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=41.3283697&amp;lon=141.0917047&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Pekelná krajina】 by SocialHermit</p>',
       location: {
         center: [141.0917047, 41.3283697],
         zoom: 14,

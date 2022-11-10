@@ -177,7 +177,7 @@ const config = {
       title: '美保関灯台ビュッフェ',
       image: '',
       tweet_id: '',
-      description: '<p>4巻 P33  島根県松江市 </p> <p><img alt="" src="https://live.staticflickr.com/65535/52385721100_b06074aedf_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.5672491&amp;lon=133.3250483&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【】 by zhangtreddy</p>',
+      description: '<p>4巻 P33  島根県松江市 </p> <p><img alt="Lighthouse at noon" src="https://live.staticflickr.com/65535/48106762653_5fb1fa5f3b_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.5672491&amp;lon=133.3250483&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Lighthouse at noon】 by Teruhide Tomori</p>',
       location: {
         center: [133.3250483, 35.5672491],
         zoom: 14,
@@ -197,7 +197,7 @@ const config = {
       title: '恵美須社',
       image: '',
       tweet_id: '',
-      description: '<p>4巻 P37  島根県松江市 </p> <p><img alt="前往美保關的路上, Study 1" src="https://live.staticflickr.com/1977/44783390065_422f02b3c7_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.5642081&amp;lon=133.3198608&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【前往美保關的路上, Study 1】 by Zale Yu</p>',
+      description: '<p>4巻 P37  島根県松江市 </p> <p><img alt="前往美保關的路上, Study 2" src="https://live.staticflickr.com/4915/45647025832_485320f344_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.5642081&amp;lon=133.3198608&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【前往美保關的路上, Study 2】 by Zale Yu</p>',
       location: {
         center: [133.3198608, 35.5642081],
         zoom: 14,

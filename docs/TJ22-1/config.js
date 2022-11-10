@@ -56,8 +56,8 @@ const config = {
       hidden: false,
       title: '羽田空港',
       image: '',
-      tweet_id: '1588440279933415424',
-      description: '<p>7巻   東京都大田区 羽田空港三丁目3</p><div class="tweetContainer" id="tweet1588440279933415424"></div> ',
+      tweet_id: '1589126661534289921',
+      description: '<p>7巻   東京都大田区 羽田空港三丁目3</p><div class="tweetContainer" id="tweet1589126661534289921"></div> ',
       location: {
         center: [139.7798386, 35.5493932],
         zoom: 14,
@@ -76,8 +76,8 @@ const config = {
       hidden: false,
       title: '紋別空港（オホーツク紋別空港）',
       image: '',
-      tweet_id: '1589854573539528704',
-      description: '<p>7巻   北海道紋別市 </p><div class="tweetContainer" id="tweet1589854573539528704"></div> ',
+      tweet_id: '1590223174465388544',
+      description: '<p>7巻   北海道紋別市 </p><div class="tweetContainer" id="tweet1590223174465388544"></div> ',
       location: {
         center: [143.4068361, 44.306398],
         zoom: 14,
