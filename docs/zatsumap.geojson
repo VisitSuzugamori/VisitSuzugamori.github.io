@@ -2949,7 +2949,7 @@
                 "type": "Point"
             },
             "properties": {
-                "description": "4巻P134 第15旅",
+                "description": "4巻P134 第15旅<br>第26旅",
                 "name": "国際展示場駅"
             },
             "type": "Feature"
@@ -5673,20 +5673,6 @@
         {
             "geometry": {
                 "coordinates": [
-                    139.8284768,
-                    35.1584928
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "description": "電撃マオウ200号表紙<br>第23旅",
-                "name": "鋸山山頂"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
                     139.9547124,
                     34.9767087
                 ],
@@ -5891,6 +5877,20 @@
             "properties": {
                 "description": "第23旅",
                 "name": "鋸山ロープウェー"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    139.8284768,
+                    35.1584928
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "電撃マオウ200号表紙<br>第23旅",
+                "name": "鋸山山頂"
             },
             "type": "Feature"
         },
@@ -6247,20 +6247,6 @@
         {
             "geometry": {
                 "coordinates": [
-                    130.7033157,
-                    31.5570611
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "description": "第25旅",
-                "name": "桜島口"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
                     130.5417154,
                     31.5836893
                 ],
@@ -6415,6 +6401,20 @@
         {
             "geometry": {
                 "coordinates": [
+                    130.7033157,
+                    31.5570611
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "第25旅",
+                "name": "桜島口"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     130.706257,
                     31.5845576
                 ],
@@ -6437,6 +6437,48 @@
             "properties": {
                 "description": "第25旅",
                 "name": "椿の里(椿チャンポン)"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    130.5997557,
+                    31.5920947
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "第25旅",
+                "name": "桜島港フェリーターミナル"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    139.7888626,
+                    35.6276803
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "第26旅",
+                "name": "有明埠頭橋"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    139.7957527,
+                    35.6174045
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "第26旅",
+                "name": "東京港フェリーターミナル"
             },
             "type": "Feature"
         }

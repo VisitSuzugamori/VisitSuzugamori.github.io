@@ -371,6 +371,18 @@
       "subtitle": "旅は自分に素直に",
       "camera": {"zoom": 12, "center": [130.61762359254158, 31.6]}
 
+    },
+    "TJ26": {
+      "index": 26,
+      "id": "TJ26",
+      "key": "第26旅",
+      "title": "第26旅 徳島",
+      "place": "江東区",
+      "published": "2022, 電撃マオウ 12月号",
+      "books": null,
+      "subtitle": "そこにも路はある！",
+      "camera": {"zoom": 11, "center": [134.442508, 34.0439206]}
+
     }
   },
   "extra_stories": {

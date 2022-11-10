@@ -2197,7 +2197,7 @@
     </Placemark>
     <Placemark>
       <name>国際展示場駅</name>
-      <description>4巻P134 第15旅</description>
+      <description><![CDATA[4巻P134 第15旅<br>第26旅]]></description>
       <styleUrl>#icon-1899-9C27B0-labelson</styleUrl>
       <Point>
         <coordinates>
@@ -4146,16 +4146,6 @@
       </Point>
     </Placemark>
     <Placemark>
-      <name>鋸山山頂</name>
-      <description><![CDATA[電撃マオウ200号表紙<br>第23旅]]></description>
-      <styleUrl>#icon-1899-0288D1-labelson</styleUrl>
-      <Point>
-        <coordinates>
-          139.8284768,35.1584928,0
-        </coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
       <name>千倉駅</name>
       <description>第23旅</description>
       <styleUrl>#icon-1899-0288D1-labelson</styleUrl>
@@ -4302,6 +4292,16 @@
       <Point>
         <coordinates>
           139.8230802,35.1622171,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>鋸山山頂</name>
+      <description><![CDATA[電撃マオウ200号表紙<br>第23旅]]></description>
+      <styleUrl>#icon-1899-0288D1-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          139.8284768,35.1584928,0
         </coordinates>
       </Point>
     </Placemark>
@@ -4692,6 +4692,36 @@
       <Point>
         <coordinates>
           130.7064773,31.5847772,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>桜島港フェリーターミナル</name>
+      <description>第25旅</description>
+      <styleUrl>#icon-1899-0288D1-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          130.5997557,31.5920947,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>有明埠頭橋</name>
+      <description>第26旅</description>
+      <styleUrl>#icon-1899-0288D1-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          139.7888626,35.6276803,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>東京港フェリーターミナル</name>
+      <description>第26旅</description>
+      <styleUrl>#icon-1899-0288D1-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          139.7957527,35.6174045,0
         </coordinates>
       </Point>
     </Placemark>
