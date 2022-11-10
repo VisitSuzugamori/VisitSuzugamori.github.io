@@ -6,33 +6,13 @@ const config = {
   theme: 'light',
   use3dTerrain: true,
   title: '第23旅 千葉',
-  subtitle: '【富津市 南房総市 館山市 安房郡鋸南町】激動せよ！2022年！',
+  subtitle: '【南房総市 館山市 富津市 安房郡鋸南町】激動せよ！2022年！',
   byline: 'VisitSuzugamori 〜ざつ旅を辿る〜',
   footer: '<p class="navi"><a href="/">🔝各話一覧へ</a> <a href="https://github.com/VisitSuzugamori/VisitSuzugamori.github.io">💬contact</a></p><p>原作：<a href="https://dengekimaoh.jp/series_info/zatsutabi/">ざつ旅-That&#39;s Journey-</a> &copy; 石坂 ケンタ, KADOKAWA, 電撃マオウ / 地図・テンプレート：<a href="https://github.com/mapbox/storytelling">Mapbox</a> / 地図作成：VisitSuzugamori, <a href="https://twitter.com/isnot49662340">isnot</a>',
   chapters: [
     {
-      id: '--鋸山山頂',
-      alignment: 'center',
-      hidden: false,
-      title: '鋸山山頂',
-      image: '',
-      tweet_id: '1588402343187738625',
-      description: '<p>   千葉県富津市 </p><div class="tweetContainer" id="tweet1588402343187738625"></div> ',
-      location: {
-        center: [139.8284768, 35.1584928],
-        zoom: 14,
-        pitch: 60,
-        bearing: 0,
-      },
-      mapAnimation: 'flyTo',
-      rotateAnimation: false,
-      callback: '',
-      onChapterEnter: [],
-      onChapterExit: [],
-    },
-    {
       id: '--千倉駅',
-      alignment: 'right',
+      alignment: 'center',
       hidden: false,
       title: '千倉駅',
       image: '',
@@ -52,7 +32,7 @@ const config = {
     },
     {
       id: '--瀬戸浜海岸',
-      alignment: 'left',
+      alignment: 'right',
       hidden: false,
       title: '瀬戸浜海岸',
       image: '',
@@ -72,7 +52,7 @@ const config = {
     },
     {
       id: '--川尻橋',
-      alignment: 'right',
+      alignment: 'left',
       hidden: false,
       title: '川尻橋',
       image: '',
@@ -92,7 +72,7 @@ const config = {
     },
     {
       id: '--南房総市観光協会千倉観光案内所(千倉駅構内)',
-      alignment: 'left',
+      alignment: 'right',
       hidden: false,
       title: '南房総市観光協会千倉観光案内所(千倉駅構内)',
       image: '',
@@ -112,7 +92,7 @@ const config = {
     },
     {
       id: '--寿司と地魚料理 大徳家',
-      alignment: 'right',
+      alignment: 'left',
       hidden: false,
       title: '寿司と地魚料理 大徳家',
       image: '',
@@ -132,7 +112,7 @@ const config = {
     },
     {
       id: '--千葉銀行 千倉支店',
-      alignment: 'left',
+      alignment: 'right',
       hidden: false,
       title: '千葉銀行 千倉支店',
       image: '',
@@ -152,7 +132,7 @@ const config = {
     },
     {
       id: '--とん亭いとう',
-      alignment: 'right',
+      alignment: 'left',
       hidden: false,
       title: 'とん亭いとう',
       image: '',
@@ -172,7 +152,7 @@ const config = {
     },
     {
       id: '--大川港',
-      alignment: 'left',
+      alignment: 'right',
       hidden: false,
       title: '大川港',
       image: '',
@@ -192,7 +172,7 @@ const config = {
     },
     {
       id: '--高皇産霊神社',
-      alignment: 'right',
+      alignment: 'left',
       hidden: false,
       title: '高皇産霊神社',
       image: '',
@@ -212,7 +192,7 @@ const config = {
     },
     {
       id: '--房総半島最南端之碑',
-      alignment: 'left',
+      alignment: 'right',
       hidden: false,
       title: '房総半島最南端之碑',
       image: '',
@@ -232,7 +212,7 @@ const config = {
     },
     {
       id: '--野島埼灯台',
-      alignment: 'right',
+      alignment: 'left',
       hidden: false,
       title: '野島埼灯台',
       image: '',
@@ -252,7 +232,7 @@ const config = {
     },
     {
       id: '--最南端',
-      alignment: 'left',
+      alignment: 'right',
       hidden: false,
       title: '最南端',
       image: '',
@@ -272,7 +252,7 @@ const config = {
     },
     {
       id: '--安房神社',
-      alignment: 'right',
+      alignment: 'left',
       hidden: false,
       title: '安房神社',
       image: '',
@@ -292,7 +272,7 @@ const config = {
     },
     {
       id: '--浜金谷駅',
-      alignment: 'left',
+      alignment: 'right',
       hidden: false,
       title: '浜金谷駅',
       image: '',
@@ -312,7 +292,7 @@ const config = {
     },
     {
       id: '--鋸山ロープウェー',
-      alignment: 'right',
+      alignment: 'left',
       hidden: false,
       title: '鋸山ロープウェー',
       image: '',
@@ -320,6 +300,26 @@ const config = {
       description: '<p>   千葉県富津市 </p><div class="tweetContainer" id="tweet1588399686964183045"></div> ',
       location: {
         center: [139.8230802, 35.1622171],
+        zoom: 14,
+        pitch: 60,
+        bearing: 0,
+      },
+      mapAnimation: 'flyTo',
+      rotateAnimation: false,
+      callback: '',
+      onChapterEnter: [],
+      onChapterExit: [],
+    },
+    {
+      id: '--鋸山山頂',
+      alignment: 'right',
+      hidden: false,
+      title: '鋸山山頂',
+      image: '',
+      tweet_id: '1588402343187738625',
+      description: '<p>   千葉県富津市 </p><div class="tweetContainer" id="tweet1588402343187738625"></div> ',
+      location: {
+        center: [139.8284768, 35.1584928],
         zoom: 14,
         pitch: 60,
         bearing: 0,

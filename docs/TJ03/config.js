@@ -177,7 +177,7 @@ const config = {
       title: 'ホテル黒部',
       image: '',
       tweet_id: '',
-      description: '<p>1巻 P112  富山県黒部市 宇奈月温泉6</p> <p><img alt="黒部峡谷トロッコ電車" src="https://live.staticflickr.com/5698/31158467106_88623088d2_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=36.8126191&amp;lon=137.5900726&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【黒部峡谷トロッコ電車】 by ddsnet</p>',
+      description: '<p>1巻 P112  富山県黒部市 宇奈月温泉6</p> <p><img alt="Run through autumn mountains" src="https://live.staticflickr.com/4553/24483665478_ee30f942cf_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=36.8126191&amp;lon=137.5900726&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Run through autumn mountains】 by Teruhide Tomori</p>',
       location: {
         center: [137.5900726, 36.8126191],
         zoom: 14,
@@ -217,7 +217,7 @@ const config = {
       title: 'やまびこ展望台',
       image: '',
       tweet_id: '',
-      description: '<p>1巻 P117  富山県黒部市 黒部峡谷口9</p> <p><img alt="610_7138" src="https://live.staticflickr.com/65535/50951287088_fa226326ee_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=36.8142871&amp;lon=137.5881562&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【610_7138】 by Lox Pix</p>',
+      description: '<p>1巻 P117  富山県黒部市 黒部峡谷口9</p> <p><img alt="610_7136" src="https://live.staticflickr.com/65535/50951287223_bbe270992c_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=36.8142871&amp;lon=137.5881562&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【610_7136】 by Lox Pix</p>',
       location: {
         center: [137.5881562, 36.8142871],
         zoom: 14,
