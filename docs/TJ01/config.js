@@ -56,8 +56,8 @@ const config = {
       hidden: false,
       title: '会津若松駅',
       image: '',
-      tweet_id: '1589546383945895936',
-      description: '<p>1巻 P24  福島県会津若松市 駅前町1</p><div class="tweetContainer" id="tweet1589546383945895936"></div> ',
+      tweet_id: '1591202575499825156',
+      description: '<p>1巻 P24  福島県会津若松市 駅前町1</p><div class="tweetContainer" id="tweet1591202575499825156"></div> ',
       location: {
         center: [139.9303261, 37.5078657],
         zoom: 14,
@@ -76,8 +76,8 @@ const config = {
       hidden: false,
       title: 'ラーメン二郎 会津若松駅前店',
       image: '',
-      tweet_id: '1588032956861325312',
-      description: '<p>1巻 P25  福島県会津若松市 駅前町6</p><div class="tweetContainer" id="tweet1588032956861325312"></div> ',
+      tweet_id: '',
+      description: '<p>1巻 P25  福島県会津若松市 駅前町6</p> <p><img alt="Aizu Wakamatsu Station" src="https://live.staticflickr.com/65535/51602779883_3a2df93836_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=37.5066266&amp;lon=139.9314173&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Aizu Wakamatsu Station】 by pantkiewicz</p>',
       location: {
         center: [139.9314173, 37.5066266],
         zoom: 14,
@@ -176,8 +176,8 @@ const config = {
       hidden: false,
       title: '会津東山温泉 向瀧',
       image: '',
-      tweet_id: '',
-      description: '<p>1巻 P40  福島県会津若松市 東山町湯本居平41</p> <p><img alt="IMGP3716" src="https://live.staticflickr.com/4803/31152003897_11abafdeff_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=37.478055&amp;lon=139.9610889&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【IMGP3716】 by k_natsumoto</p>',
+      tweet_id: '1591411039630860288',
+      description: '<p>1巻 P40  福島県会津若松市 東山町湯本居平41</p><div class="tweetContainer" id="tweet1591411039630860288"></div> ',
       location: {
         center: [139.9610889, 37.478055],
         zoom: 14,
@@ -237,7 +237,7 @@ const config = {
       title: '会津さざえ堂 (円通寺三匝堂)',
       image: '',
       tweet_id: '',
-      description: '<p>1巻 P51  福島県会津若松市 一箕町八幡弁天下33</p> <p><img alt="会津さざえ堂" src="https://live.staticflickr.com/65535/51835163816_75137605da_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=37.5045319&amp;lon=139.9539697&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【会津さざえ堂】 by Chitaka Chou</p>',
+      description: '<p>1巻 P51  福島県会津若松市 一箕町八幡弁天下33</p> <p><img alt="会津さざえ堂" src="https://live.staticflickr.com/65535/51835899245_2b0ba06bf7_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=37.5045319&amp;lon=139.9539697&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【会津さざえ堂】 by Chitaka Chou</p>',
       location: {
         center: [139.9539697, 37.5045319],
         zoom: 14,

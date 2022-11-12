@@ -37,7 +37,7 @@ const config = {
       title: '御岩神社',
       image: '',
       tweet_id: '',
-      description: '<p>5巻 P36  茨城県日立市 </p> <p><img alt="20181008-084906-40" src="https://live.staticflickr.com/1903/31326270958_ccb17041be_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=36.6360807&amp;lon=140.5855581&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【20181008-084906-40】 by giu205</p>',
+      description: '<p>5巻 P36  茨城県日立市 </p> <p><img alt="20181008-082934-39" src="https://live.staticflickr.com/1934/31326269598_58b4ed04f0_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=36.6360807&amp;lon=140.5855581&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【20181008-082934-39】 by giu205</p>',
       location: {
         center: [140.5855581, 36.6360807],
         zoom: 14,
@@ -137,7 +137,7 @@ const config = {
       title: '津神社',
       image: '',
       tweet_id: '',
-      description: '<p>5巻 P53  茨城県日立市 相賀町14</p> <p><img alt="#sea #shore" src="https://live.staticflickr.com/3956/15501150157_220386f221_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=36.5809219&amp;lon=140.6617725&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【#sea #shore】 by culturalphenomenon27</p>',
+      description: '<p>5巻 P53  茨城県日立市 相賀町14</p> <p><img alt="#sea #shore" src="https://live.staticflickr.com/5608/15501523140_41d2206446_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=36.5809219&amp;lon=140.6617725&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【#sea #shore】 by culturalphenomenon27</p>',
       location: {
         center: [140.6617725, 36.5809219],
         zoom: 14,

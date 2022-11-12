@@ -16,8 +16,8 @@ const config = {
       hidden: false,
       title: '函館駅',
       image: '',
-      tweet_id: '1587795188000366596',
-      description: '<p>7巻   北海道函館市 若松町12</p><div class="tweetContainer" id="tweet1587795188000366596"></div> ',
+      tweet_id: '1589919617199505409',
+      description: '<p>7巻   北海道函館市 若松町12</p><div class="tweetContainer" id="tweet1589919617199505409"></div> ',
       location: {
         center: [140.7264741, 41.7737804],
         zoom: 14,
@@ -96,8 +96,8 @@ const config = {
       hidden: false,
       title: '七飯駅',
       image: '',
-      tweet_id: '1588016132216193025',
-      description: '<p>7巻   北海道亀田郡 七飯町 本町一丁目1</p><div class="tweetContainer" id="tweet1588016132216193025"></div> ',
+      tweet_id: '',
+      description: '<p>7巻   北海道亀田郡 七飯町 本町一丁目1</p> <p><img alt="DSC01949" src="https://live.staticflickr.com/7780/27502945465_803b30740c_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=41.8877128&amp;lon=140.6881975&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【DSC01949】 by 騰子</p>',
       location: {
         center: [140.6881975, 41.8877128],
         zoom: 14,
