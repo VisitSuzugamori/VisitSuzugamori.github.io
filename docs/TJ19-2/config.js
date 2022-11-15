@@ -16,8 +16,8 @@ const config = {
       hidden: false,
       title: '東京駅',
       image: '',
-      tweet_id: '1592016807447367680',
-      description: '<p>6巻 P38  東京都千代田区 丸の内一丁目9</p><div class="tweetContainer" id="tweet1592016807447367680"></div> ',
+      tweet_id: '1592415101403136001',
+      description: '<p>6巻 P38  東京都千代田区 丸の内一丁目9</p><div class="tweetContainer" id="tweet1592415101403136001"></div> ',
       location: {
         center: [139.7671248, 35.6812362],
         zoom: 14,
@@ -136,8 +136,8 @@ const config = {
       hidden: false,
       title: '渋川駅',
       image: '',
-      tweet_id: '',
-      description: '<p>6巻 P42  群馬県渋川市 渋川1655</p> <p><img alt="IMG_20200627_145412" src="https://live.staticflickr.com/65535/50049163098_52e9903c6d_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=36.4913217&amp;lon=139.0087977&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【IMG_20200627_145412】 by tokotaha</p>',
+      tweet_id: '1592494413921386496',
+      description: '<p>6巻 P42  群馬県渋川市 渋川1655</p><div class="tweetContainer" id="tweet1592494413921386496"></div> ',
       location: {
         center: [139.0087977, 36.4913217],
         zoom: 14,
@@ -236,8 +236,8 @@ const config = {
       hidden: false,
       title: '水上駅',
       image: '',
-      tweet_id: '1589116350416420865',
-      description: '<p>6巻 P56  群馬県利根郡 みなかみ町 鹿野沢70</p><div class="tweetContainer" id="tweet1589116350416420865"></div> ',
+      tweet_id: '1591634460151517185',
+      description: '<p>6巻 P56  群馬県利根郡 みなかみ町 鹿野沢70</p><div class="tweetContainer" id="tweet1591634460151517185"></div> ',
       location: {
         center: [138.9688398, 36.778636],
         zoom: 14,

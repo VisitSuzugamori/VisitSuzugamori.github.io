@@ -277,7 +277,7 @@ const config = {
       title: '石川啄木一族の墓',
       image: '',
       tweet_id: '',
-      description: '<p>7巻   北海道函館市 住吉町15</p> <p><img alt="DSC00925" src="https://live.staticflickr.com/4453/37534148784_3503dc3381_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=41.7474858&amp;lon=140.7194496&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【DSC00925】 by スーパーサイヤ人Ⅳ</p>',
+      description: '<p>7巻   北海道函館市 住吉町15</p> <p><img alt="DSC00920" src="https://live.staticflickr.com/4560/37534155994_5c3fc4a194_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=41.7474858&amp;lon=140.7194496&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【DSC00920】 by スーパーサイヤ人Ⅳ</p>',
       location: {
         center: [140.7194496, 41.7474858],
         zoom: 14,
@@ -296,8 +296,8 @@ const config = {
       hidden: false,
       title: '立待岬',
       image: '',
-      tweet_id: '1589069692723167233',
-      description: '<p>7巻   北海道函館市 住吉町15</p><div class="tweetContainer" id="tweet1589069692723167233"></div> ',
+      tweet_id: '',
+      description: '<p>7巻   北海道函館市 住吉町15</p> <p><img alt="Tsugaru Strait" src="https://live.staticflickr.com/65535/51971873627_603eac0afc_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=41.7450354&amp;lon=140.7212027&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Tsugaru Strait】 by 雷太</p>',
       location: {
         center: [140.7212027, 41.7450354],
         zoom: 14,

@@ -36,8 +36,8 @@ const config = {
       hidden: false,
       title: '大聖院',
       image: '',
-      tweet_id: '1590626243745308674',
-      description: '<p>3巻 P8  広島県廿日市市 宮島町滝町215</p><div class="tweetContainer" id="tweet1590626243745308674"></div> ',
+      tweet_id: '1592515569894719488',
+      description: '<p>3巻 P8  広島県廿日市市 宮島町滝町215</p><div class="tweetContainer" id="tweet1592515569894719488"></div> ',
       location: {
         center: [132.3184736, 34.2920477],
         zoom: 14,
@@ -117,7 +117,7 @@ const config = {
       title: '呉湾艦船めぐり',
       image: '',
       tweet_id: '',
-      description: '<p>3巻 P14  広島県呉市 宝町4</p> <p><img alt="広島" src="https://live.staticflickr.com/65535/52461571332_9c96ea1f8b_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.2405577&amp;lon=132.5564318&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【広島】 by TAKEGTX</p>',
+      description: '<p>3巻 P14  広島県呉市 宝町4</p> <p><img alt="広島" src="https://live.staticflickr.com/65535/52461571357_6635b8da4f_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.2405577&amp;lon=132.5564318&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【広島】 by TAKEGTX</p>',
       location: {
         center: [132.5564318, 34.2405577],
         zoom: 14,
@@ -157,7 +157,7 @@ const config = {
       title: '日招きの里 呉ハイカラ食堂',
       image: '',
       tweet_id: '',
-      description: '<p>3巻 P15  広島県呉市 宝町4</p> <p><img alt="広島" src="https://live.staticflickr.com/65535/52462543420_655cf96e2e_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.2415568&amp;lon=132.5574165&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【広島】 by TAKEGTX</p>',
+      description: '<p>3巻 P15  広島県呉市 宝町4</p> <p><img alt="広島" src="https://live.staticflickr.com/65535/52461571332_9c96ea1f8b_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.2415568&amp;lon=132.5574165&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【広島】 by TAKEGTX</p>',
       location: {
         center: [132.5574165, 34.2415568],
         zoom: 14,
@@ -257,7 +257,7 @@ const config = {
       title: '鼓岩（付近）',
       image: '',
       tweet_id: '',
-      description: '<p>3巻 P29  広島県尾道市 東土堂町5</p> <p><img alt="IMGP7711" src="https://live.staticflickr.com/65535/52213898214_55a83c3a84_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.4097831&amp;lon=133.1976363&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【IMGP7711】 by shinnnnn0619</p>',
+      description: '<p>3巻 P29  広島県尾道市 東土堂町5</p> <p><img alt="Ema at Senkoji Temple" src="https://live.staticflickr.com/65535/52501634104_deee00b147_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.4097831&amp;lon=133.1976363&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Ema at Senkoji Temple】 by Yorkey&amp;Rin</p>',
       location: {
         center: [133.1976363, 34.4097831],
         zoom: 14,
