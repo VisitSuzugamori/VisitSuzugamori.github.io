@@ -16,8 +16,8 @@ const config = {
       hidden: false,
       title: '鹿児島中央駅',
       image: '',
-      tweet_id: '1589920457587060737',
-      description: '<p>   鹿児島県鹿児島市 武一丁目1</p><div class="tweetContainer" id="tweet1589920457587060737"></div> ',
+      tweet_id: '1591764509236301825',
+      description: '<p>   鹿児島県鹿児島市 武一丁目1</p><div class="tweetContainer" id="tweet1591764509236301825"></div> ',
       location: {
         center: [130.5417154, 31.5836893],
         zoom: 14,
@@ -37,7 +37,7 @@ const config = {
       title: '大久保利通像',
       image: '',
       tweet_id: '',
-      description: '<p>   鹿児島県鹿児島市 西田一丁目5</p> <p><img alt="DSCN6023" src="https://live.staticflickr.com/65535/50189055477_ba9e0bb41f_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=31.586563&amp;lon=130.5461068&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【DSCN6023】 by JohnSeb</p>',
+      description: '<p>   鹿児島県鹿児島市 西田一丁目5</p> <p><img alt="鹿児島路面電車" src="https://live.staticflickr.com/65535/50793380102_8822e6275a_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=31.586563&amp;lon=130.5461068&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【鹿児島路面電車】 by Chitaka Chou</p>',
       location: {
         center: [130.5461068, 31.586563],
         zoom: 14,
@@ -116,8 +116,8 @@ const config = {
       hidden: false,
       title: '天文館',
       image: '',
-      tweet_id: '1589598195801522176',
-      description: '<p>   鹿児島県鹿児島市 千日町15</p><div class="tweetContainer" id="tweet1589598195801522176"></div> ',
+      tweet_id: '1591705777026498560',
+      description: '<p>   鹿児島県鹿児島市 千日町15</p><div class="tweetContainer" id="tweet1591705777026498560"></div> ',
       location: {
         center: [130.5551949, 31.5905709],
         zoom: 14,
@@ -176,8 +176,8 @@ const config = {
       hidden: false,
       title: 'ウォーターフロントパーク',
       image: '',
-      tweet_id: '',
-      description: '<p>   鹿児島県鹿児島市 本港新町5</p> <p><img alt="ウォーターフロントパーク" src="https://live.staticflickr.com/65535/50984498053_8cb6611f7d_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=31.5935195&amp;lon=130.5631033&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【ウォーターフロントパーク】 by Tak H.</p>',
+      tweet_id: '1591710506313826306',
+      description: '<p>   鹿児島県鹿児島市 本港新町5</p><div class="tweetContainer" id="tweet1591710506313826306"></div> ',
       location: {
         center: [130.5631033, 31.5935195],
         zoom: 14,
@@ -197,7 +197,7 @@ const config = {
       title: '桜島フェリー乗り場',
       image: '',
       tweet_id: '',
-      description: '<p>   鹿児島県鹿児島市 本港新町4</p> <p><img alt="Kagoshima-58" src="https://live.staticflickr.com/65535/51015897816_2161965f60_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=31.5964541&amp;lon=130.5628203&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Kagoshima-58】 by Art Dekimpe</p>',
+      description: '<p>   鹿児島県鹿児島市 本港新町4</p> <p><img alt="Kagoshima-49" src="https://live.staticflickr.com/65535/51015987662_2a52e70390_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=31.5964541&amp;lon=130.5628203&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Kagoshima-49】 by Art Dekimpe</p>',
       location: {
         center: [130.5628203, 31.5964541],
         zoom: 14,
