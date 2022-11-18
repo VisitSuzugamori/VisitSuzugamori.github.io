@@ -16,8 +16,8 @@ const config = {
       hidden: false,
       title: '国際展示場駅',
       image: '',
-      tweet_id: '1592497257810886657',
-      description: '<p>   東京都江東区 有明三丁目7</p><div class="tweetContainer" id="tweet1592497257810886657"></div> ',
+      tweet_id: '1591211185197977600',
+      description: '<p>   東京都江東区 有明三丁目7</p><div class="tweetContainer" id="tweet1591211185197977600"></div> ',
       location: {
         center: [139.7916499, 35.6344346],
         zoom: 14,
