@@ -16,8 +16,8 @@ const config = {
       hidden: false,
       title: '竜王駅',
       image: '',
-      tweet_id: '1593118480488091648',
-      description: '<p>   山梨県甲斐市 竜王新町464</p><div class="tweetContainer" id="tweet1593118480488091648"></div> ',
+      tweet_id: '1594268644837498881',
+      description: '<p>   山梨県甲斐市 竜王新町464</p><div class="tweetContainer" id="tweet1594268644837498881"></div> ',
       location: {
         center: [138.5193729, 35.6687078],
         zoom: 14,
@@ -296,8 +296,8 @@ const config = {
       hidden: false,
       title: '高尾穂見神社',
       image: '',
-      tweet_id: '',
-      description: '<p>   山梨県南アルプス市 高尾</p> ',
+      tweet_id: '1594982228404371456',
+      description: '<p>   山梨県南アルプス市 高尾</p><div class="tweetContainer" id="tweet1594982228404371456"></div> ',
       location: {
         center: [138.4051215, 35.6220081],
         zoom: 14,
@@ -336,8 +336,8 @@ const config = {
       hidden: false,
       title: '甲府駅',
       image: '',
-      tweet_id: '1593363542555512833',
-      description: '<p>   山梨県甲府市 丸の内一丁目3</p><div class="tweetContainer" id="tweet1593363542555512833"></div> ',
+      tweet_id: '1595087730320740353',
+      description: '<p>   山梨県甲府市 丸の内一丁目3</p><div class="tweetContainer" id="tweet1595087730320740353"></div> ',
       location: {
         center: [138.5690631, 35.6670981],
         zoom: 14,

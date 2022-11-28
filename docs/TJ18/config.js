@@ -317,7 +317,7 @@ const config = {
       title: '東京乗馬倶楽部',
       image: '',
       tweet_id: '',
-      description: '<p>5巻 P144  東京都渋谷区 代々木神園町4</p> <p><img alt="R0001898_DxO" src="https://live.staticflickr.com/65535/51792168113_4c01093e49_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.6791113&amp;lon=139.694663&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【R0001898_DxO】 by bebe1998jp</p>',
+      description: '<p>5巻 P144  東京都渋谷区 代々木神園町4</p> <p><img alt="Meiji Jingu" src="https://live.staticflickr.com/65535/52510806231_7ba15f41b0_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.6791113&amp;lon=139.694663&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Meiji Jingu】 by tsuno_tokyo</p>',
       location: {
         center: [139.694663, 35.6791113],
         zoom: 14,
@@ -477,7 +477,7 @@ const config = {
       title: '杉並区立玉川上水公園',
       image: '',
       tweet_id: '',
-      description: '<p>5巻 P149  東京都杉並区 和泉二丁目8</p> <p><img alt="杉並区立玉川上水公園" src="https://live.staticflickr.com/65535/51205465635_de6f2786a0_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.6713219&amp;lon=139.651149&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【杉並区立玉川上水公園】 by いしだなおと</p>',
+      description: '<p>5巻 P149  東京都杉並区 和泉二丁目8</p> <p><img alt="Water Tanks in Izumi Water Pressure Regulating Place" src="https://live.staticflickr.com/4541/38209359252_2e03398cb7_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.6713219&amp;lon=139.651149&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Water Tanks in Izumi Water Pressure Regulating Place】 by ykanazawa1999</p>',
       location: {
         center: [139.651149, 35.6713219],
         zoom: 14,
