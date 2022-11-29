@@ -136,8 +136,8 @@ const config = {
       hidden: false,
       title: '大和ミュージアム（呉市海事歴史科学館）',
       image: '',
-      tweet_id: '1596736822016516097',
-      description: '<p>3巻 P15  広島県呉市 宝町4</p><div class="tweetContainer" id="tweet1596736822016516097"></div> ',
+      tweet_id: '1595250976532746241',
+      description: '<p>3巻 P15  広島県呉市 宝町4</p><div class="tweetContainer" id="tweet1595250976532746241"></div> ',
       location: {
         center: [132.5558555, 34.2411391],
         zoom: 14,
@@ -217,7 +217,7 @@ const config = {
       title: '頂上展望台',
       image: '',
       tweet_id: '',
-      description: '<p>3巻 P21  広島県尾道市 東土堂町20</p> <p><img alt="2022 Onomichi #1" src="https://live.staticflickr.com/65535/52499240224_5118f0bce8_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.4106865&amp;lon=133.1969604&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【2022 Onomichi #1】 by Yorkey&amp;Rin</p>',
+      description: '<p>3巻 P21  広島県尾道市 東土堂町20</p> <p><img alt="steps" src="https://live.staticflickr.com/65535/52531273916_01ef516bf3_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.4106865&amp;lon=133.1969604&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【steps】 by michalskalski</p>',
       location: {
         center: [133.1969604, 34.4106865],
         zoom: 14,

@@ -36,8 +36,8 @@ const config = {
       hidden: false,
       title: '大久保利通像',
       image: '',
-      tweet_id: '1594203659143090176',
-      description: '<p>   鹿児島県鹿児島市 西田一丁目5</p><div class="tweetContainer" id="tweet1594203659143090176"></div> ',
+      tweet_id: '1597711843644280832',
+      description: '<p>   鹿児島県鹿児島市 西田一丁目5</p><div class="tweetContainer" id="tweet1597711843644280832"></div> ',
       location: {
         center: [130.5461068, 31.586563],
         zoom: 14,
@@ -77,7 +77,7 @@ const config = {
       title: '樺山、黒田、大いに語る碑',
       image: '',
       tweet_id: '',
-      description: '<p>   鹿児島県鹿児島市 西千石町17</p> <p><img alt="Kagoshima" src="https://live.staticflickr.com/65535/51828148073_1d34226836_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=31.5889911&amp;lon=130.5510241&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Kagoshima】 by DrunkenAngel48</p>',
+      description: '<p>   鹿児島県鹿児島市 西千石町17</p> <p><img alt="Kagoshima" src="https://live.staticflickr.com/65535/51828764435_d7c53ffec1_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=31.5889911&amp;lon=130.5510241&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Kagoshima】 by DrunkenAngel48</p>',
       location: {
         center: [130.5510241, 31.5889911],
         zoom: 14,
@@ -177,7 +177,7 @@ const config = {
       title: 'ウォーターフロントパーク',
       image: '',
       tweet_id: '',
-      description: '<p>   鹿児島県鹿児島市 本港新町5</p> <p><img alt="_DSC7228" src="https://live.staticflickr.com/65535/50170450946_b3392062fc_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=31.5935195&amp;lon=130.5631033&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【_DSC7228】 by de98lip</p>',
+      description: '<p>   鹿児島県鹿児島市 本港新町5</p> <p><img alt="ウォーターフロントパーク" src="https://live.staticflickr.com/65535/50984498053_8cb6611f7d_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=31.5935195&amp;lon=130.5631033&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【ウォーターフロントパーク】 by Tak H.</p>',
       location: {
         center: [130.5631033, 31.5935195],
         zoom: 14,

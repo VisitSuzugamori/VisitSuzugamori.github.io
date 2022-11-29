@@ -16,8 +16,8 @@ const config = {
       hidden: false,
       title: '函館駅',
       image: '',
-      tweet_id: '1595047503698665472',
-      description: '<p>7巻   北海道函館市 若松町12</p><div class="tweetContainer" id="tweet1595047503698665472"></div> ',
+      tweet_id: '1596739634821992448',
+      description: '<p>7巻   北海道函館市 若松町12</p><div class="tweetContainer" id="tweet1596739634821992448"></div> ',
       location: {
         center: [140.7264741, 41.7737804],
         zoom: 14,
@@ -156,8 +156,8 @@ const config = {
       hidden: false,
       title: '金森赤レンガ倉庫',
       image: '',
-      tweet_id: '1595050934962454530',
-      description: '<p>7巻   北海道函館市 豊川町11</p><div class="tweetContainer" id="tweet1595050934962454530"></div> ',
+      tweet_id: '1597709242890616832',
+      description: '<p>7巻   北海道函館市 豊川町11</p><div class="tweetContainer" id="tweet1597709242890616832"></div> ',
       location: {
         center: [140.7176349, 41.7673531],
         zoom: 14,
