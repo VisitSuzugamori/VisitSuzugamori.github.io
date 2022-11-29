@@ -377,7 +377,7 @@
       "id": "TJ26",
       "key": "第26旅",
       "title": "第26旅 徳島",
-      "place": "江東区",
+      "place": "江東区 徳島市",
       "published": "2022, 電撃マオウ 12月号",
       "books": null,
       "subtitle": "そこにも路はある！",
@@ -510,9 +510,9 @@
     },
     "8": {
       "cover_image_url": "https://www.hanmoto.com/bd/img/9784049147100.jpg",
-      "published": "2022-12-27T00:00:00.000Z",
+      "published": "2022-12-26T00:00:00.000Z",
       "isbn": "978-4-04-914710-0",
-      "obi": ""
+      "obi": "この非日常は誰かの日常で。"
     }
   },
   "site": {
