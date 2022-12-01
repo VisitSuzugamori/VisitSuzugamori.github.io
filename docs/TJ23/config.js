@@ -216,8 +216,8 @@ const config = {
       hidden: false,
       title: '野島埼灯台',
       image: '',
-      tweet_id: '1594571023521026048',
-      description: '<p>   千葉県南房総市 </p><div class="tweetContainer" id="tweet1594571023521026048"></div> ',
+      tweet_id: '1596722792959205376',
+      description: '<p>   千葉県南房総市 </p><div class="tweetContainer" id="tweet1596722792959205376"></div> ',
       location: {
         center: [139.8883406, 34.9017272],
         zoom: 14,

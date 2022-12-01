@@ -77,7 +77,7 @@ const config = {
       title: '樺山、黒田、大いに語る碑',
       image: '',
       tweet_id: '',
-      description: '<p>   鹿児島県鹿児島市 西千石町17</p> <p><img alt="Kagoshima" src="https://live.staticflickr.com/65535/51828764435_d7c53ffec1_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=31.5889911&amp;lon=130.5510241&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Kagoshima】 by DrunkenAngel48</p>',
+      description: '<p>   鹿児島県鹿児島市 西千石町17</p> <p><img alt="Kagoshima" src="https://live.staticflickr.com/65535/51828148073_1d34226836_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=31.5889911&amp;lon=130.5510241&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Kagoshima】 by DrunkenAngel48</p>',
       location: {
         center: [130.5510241, 31.5889911],
         zoom: 14,
@@ -216,8 +216,8 @@ const config = {
       hidden: false,
       title: '桜島シーサイドホテル',
       image: '',
-      tweet_id: '1594932916433612800',
-      description: '<p>   鹿児島県鹿児島市 古里町1076</p><div class="tweetContainer" id="tweet1594932916433612800"></div> ',
+      tweet_id: '',
+      description: '<p>   鹿児島県鹿児島市 古里町1076</p> <p><img alt="20120221-_DSC7573" src="https://live.staticflickr.com/4604/24900372627_30712b9034_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=31.5521501&amp;lon=130.6587304&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【20120221-_DSC7573】 by Fomal Haut</p>',
       location: {
         center: [130.6587304, 31.5521501],
         zoom: 14,

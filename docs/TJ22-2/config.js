@@ -17,7 +17,7 @@ const config = {
       title: '角川第2本社ビル',
       image: '',
       tweet_id: '',
-      description: '<p>7巻   東京都千代田区 富士見二丁目13</p> <p><img alt="" src="https://live.staticflickr.com/65535/52039372571_d66d54a179_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.6978467&amp;lon=139.7442465&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【】 by satty sky</p>',
+      description: '<p>7巻   東京都千代田区 富士見二丁目13</p> <p><img alt="" src="https://live.staticflickr.com/65535/51528487357_3217fc955f_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.6978467&amp;lon=139.7442465&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【】 by zhangtreddy</p>',
       location: {
         center: [139.7442465, 35.6978467],
         zoom: 14,
@@ -37,7 +37,7 @@ const config = {
       title: 'オホーツクの塔',
       image: '',
       tweet_id: '',
-      description: '<p>7巻   北海道網走市 </p> <p><img alt="L1009111" src="https://live.staticflickr.com/1897/43515868224_95bb4c0496_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=44.1106685&amp;lon=144.2473548&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【L1009111】 by bluepointchen</p>',
+      description: '<p>7巻   北海道網走市 </p> <p><img alt="L1009111" src="https://live.staticflickr.com/1864/43515868044_0da549b265_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=44.1106685&amp;lon=144.2473548&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【L1009111】 by bluepointchen</p>',
       location: {
         center: [144.2473548, 44.1106685],
         zoom: 14,
@@ -57,7 +57,7 @@ const config = {
       title: '能取の荘 かがり屋',
       image: '',
       tweet_id: '',
-      description: '<p>7巻   北海道網走市 </p> <p><img alt="coral grass" src="https://live.staticflickr.com/65535/50298578861_724ebdc9a5_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=44.0124153&amp;lon=144.1156977&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【coral grass】 by xd_travel</p>',
+      description: '<p>7巻   北海道網走市 </p> <p><img alt="20210203 07:10 Uharanai Hokkaido" src="https://live.staticflickr.com/65535/50904374111_de537d3b9f_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=44.0124153&amp;lon=144.1156977&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【20210203 07:10 Uharanai Hokkaido】 by ichigosugawara</p>',
       location: {
         center: [144.1156977, 44.0124153],
         zoom: 14,
@@ -337,7 +337,7 @@ const config = {
       title: '道々橋八幡神社',
       image: '',
       tweet_id: '',
-      description: '<p>7巻   東京都大田区 久が原一丁目7</p> <p><img alt="IMG_1961" src="https://live.staticflickr.com/7042/14058398356_c15ba22f7f_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.5857414&amp;lon=139.69341&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【IMG_1961】 by smallcake1982</p>',
+      description: '<p>7巻   東京都大田区 久が原一丁目7</p> <p><img alt="IMG_1962" src="https://live.staticflickr.com/5279/13894887489_5669dc3ba8_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.5857414&amp;lon=139.69341&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【IMG_1962】 by smallcake1982</p>',
       location: {
         center: [139.69341, 35.5857414],
         zoom: 14,

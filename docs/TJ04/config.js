@@ -36,8 +36,8 @@ const config = {
       hidden: false,
       title: '岡山駅',
       image: '',
-      tweet_id: '1596257442924417024',
-      description: '<p>1巻 P130  岡山県岡山市 北区 駅元町11</p><div class="tweetContainer" id="tweet1596257442924417024"></div> ',
+      tweet_id: '1598163532583141377',
+      description: '<p>1巻 P130  岡山県岡山市 北区 駅元町11</p><div class="tweetContainer" id="tweet1598163532583141377"></div> ',
       location: {
         center: [133.9177335, 34.6661212],
         zoom: 14,
@@ -76,8 +76,8 @@ const config = {
       hidden: false,
       title: '高松築港駅',
       image: '',
-      tweet_id: '',
-      description: '<p>1巻 P132  香川県高松市 寿町一丁目5</p> <p><img alt="IMG20221021174528" src="https://live.staticflickr.com/65535/52525671341_15e0d5897b_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.350757&amp;lon=134.049468&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【IMG20221021174528】 by bluegreen405</p>',
+      tweet_id: '1597832928813268993',
+      description: '<p>1巻 P132  香川県高松市 寿町一丁目5</p><div class="tweetContainer" id="tweet1597832928813268993"></div> ',
       location: {
         center: [134.049468, 34.350757],
         zoom: 14,
@@ -136,8 +136,8 @@ const config = {
       hidden: false,
       title: 'うどん本陣 山田家',
       image: '',
-      tweet_id: '1594914946017468417',
-      description: '<p>1巻 P134  香川県高松市 牟礼町牟礼3128</p><div class="tweetContainer" id="tweet1594914946017468417"></div> ',
+      tweet_id: '',
+      description: '<p>1巻 P134  香川県高松市 牟礼町牟礼3128</p> <p><img alt="IMG_2385" src="https://live.staticflickr.com/4255/34955050654_c2890fa7b5_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.3532536&amp;lon=134.1296254&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【IMG_2385】 by ponareon</p>',
       location: {
         center: [134.1296254, 34.3532536],
         zoom: 14,
@@ -216,8 +216,8 @@ const config = {
       hidden: false,
       title: '玉藻公園',
       image: '',
-      tweet_id: '',
-      description: '<p>1巻 P150  香川県高松市 玉藻町2</p> <p><img alt="Takamatsu Castle Park" src="https://live.staticflickr.com/65535/52068535663_905868780a_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.3503157&amp;lon=134.0516188&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Takamatsu Castle Park】 by pantkiewicz</p>',
+      tweet_id: '1598164006941884416',
+      description: '<p>1巻 P150  香川県高松市 玉藻町2</p><div class="tweetContainer" id="tweet1598164006941884416"></div> ',
       location: {
         center: [134.0516188, 34.3503157],
         zoom: 14,
