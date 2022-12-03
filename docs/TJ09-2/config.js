@@ -56,8 +56,8 @@ const config = {
       hidden: false,
       title: 'もみじ堂本店',
       image: '',
-      tweet_id: '',
-      description: '<p>3巻 P10  広島県廿日市市 宮島町幸町西浜459</p> <p><img alt="_7R37570" src="https://live.staticflickr.com/65535/52503261801_85b1e93938_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.2977872&amp;lon=132.320873&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【_7R37570】 by marcopolofc</p>',
+      tweet_id: '1598959874993537024',
+      description: '<p>3巻 P10  広島県廿日市市 宮島町幸町西浜459</p><div class="tweetContainer" id="tweet1598959874993537024"></div> ',
       location: {
         center: [132.320873, 34.2977872],
         zoom: 14,
@@ -136,8 +136,8 @@ const config = {
       hidden: false,
       title: '大和ミュージアム（呉市海事歴史科学館）',
       image: '',
-      tweet_id: '1595250976532746241',
-      description: '<p>3巻 P15  広島県呉市 宝町4</p><div class="tweetContainer" id="tweet1595250976532746241"></div> ',
+      tweet_id: '1596736822016516097',
+      description: '<p>3巻 P15  広島県呉市 宝町4</p><div class="tweetContainer" id="tweet1596736822016516097"></div> ',
       location: {
         center: [132.5558555, 34.2411391],
         zoom: 14,
@@ -176,8 +176,8 @@ const config = {
       hidden: false,
       title: '尾道駅',
       image: '',
-      tweet_id: '1595954743108575238',
-      description: '<p>3巻 P19  広島県尾道市 東御所町1</p><div class="tweetContainer" id="tweet1595954743108575238"></div> ',
+      tweet_id: '1598653244364181504',
+      description: '<p>3巻 P19  広島県尾道市 東御所町1</p><div class="tweetContainer" id="tweet1598653244364181504"></div> ',
       location: {
         center: [133.193159, 34.4048654],
         zoom: 14,
@@ -257,7 +257,7 @@ const config = {
       title: '鼓岩（付近）',
       image: '',
       tweet_id: '',
-      description: '<p>3巻 P29  広島県尾道市 東土堂町5</p> <p><img alt="Cat of Onomichi" src="https://live.staticflickr.com/65535/52503690814_224eb2a566_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.4097831&amp;lon=133.1976363&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Cat of Onomichi】 by Yorkey&amp;Rin</p>',
+      description: '<p>3巻 P29  広島県尾道市 東土堂町5</p> <p><img alt="2022 Onomichi #2" src="https://live.staticflickr.com/65535/52539736049_d00df95154_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.4097831&amp;lon=133.1976363&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【2022 Onomichi #2】 by Yorkey&amp;Rin</p>',
       location: {
         center: [133.1976363, 34.4097831],
         zoom: 14,
