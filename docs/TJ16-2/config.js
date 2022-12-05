@@ -17,7 +17,7 @@ const config = {
       title: '薩都神社中宮',
       image: '',
       tweet_id: '',
-      description: '<p>5巻 P32  茨城県日立市 </p> <p><img alt="20181008-105017-51" src="https://live.staticflickr.com/1977/45200850641_eeb121a874_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=36.6338743&amp;lon=140.587316&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【20181008-105017-51】 by giu205</p>',
+      description: '<p>5巻 P32  茨城県日立市 </p> <p><img alt="Niigata/Ibaraki &#39;16 #23" src="https://live.staticflickr.com/8307/29404605806_2af3875b34_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=36.6338743&amp;lon=140.587316&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Niigata/Ibaraki &#39;16 #23】 by tt64jp</p>',
       location: {
         center: [140.587316, 36.6338743],
         zoom: 14,
@@ -117,7 +117,7 @@ const config = {
       title: '山文魚',
       image: '',
       tweet_id: '',
-      description: '<p>5巻 P52  茨城県日立市 旭町二丁目3</p> <p><img alt="IMG_0369.JPG" src="https://live.staticflickr.com/7012/6531086175_737290ac1b_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=36.5873526&amp;lon=140.6616108&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【IMG_0369.JPG】 by hottn</p>',
+      description: '<p>5巻 P52  茨城県日立市 旭町二丁目3</p> <p><img alt="" src="https://live.staticflickr.com/3852/14446705419_b0bf49e519_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=36.5873526&amp;lon=140.6616108&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【】 by hottn</p>',
       location: {
         center: [140.6616108, 36.5873526],
         zoom: 14,

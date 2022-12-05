@@ -37,7 +37,7 @@ const config = {
       title: '萱野茶屋',
       image: '',
       tweet_id: '',
-      description: '<p>3巻 P32  青森県青森市 大字横内字八重菊62</p> <p><img alt="20181005八甲田" src="https://live.staticflickr.com/7818/46472141072_c47b40d95d_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=40.7057577&amp;lon=140.8223047&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【20181005八甲田】 by trlintw</p>',
+      description: '<p>3巻 P32  青森県青森市 大字横内字八重菊62</p> <p><img alt="" src="https://live.staticflickr.com/7886/47193495301_8710185f1e_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=40.7057577&amp;lon=140.8223047&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【】 by mhrs.jp</p>',
       location: {
         center: [140.8223047, 40.7057577],
         zoom: 14,
@@ -57,7 +57,7 @@ const config = {
       title: '八甲田 山頂公園',
       image: '',
       tweet_id: '',
-      description: '<p>3巻 P34  青森県青森市 </p> <p><img alt="Hakkoda snow monsters" src="https://live.staticflickr.com/65535/51886526308_8646115e88_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=40.6757743&amp;lon=140.8592116&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Hakkoda snow monsters】 by 雷太</p>',
+      description: '<p>3巻 P34  青森県青森市 </p> <p><img alt="Frozen Hakkoda ropeway" src="https://live.staticflickr.com/65535/51886526253_46eec59f89_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=40.6757743&amp;lon=140.8592116&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Frozen Hakkoda ropeway】 by 雷太</p>',
       location: {
         center: [140.8592116, 40.6757743],
         zoom: 14,
@@ -117,7 +117,7 @@ const config = {
       title: '三途の川',
       image: '',
       tweet_id: '',
-      description: '<p>3巻 P49  青森県むつ市 </p> <p><img alt="Mutsu Oct 17 68" src="https://live.staticflickr.com/5794/21971110014_5ec226ab08_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=41.3260657&amp;lon=141.0962272&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Mutsu Oct 17 68】 by tculek</p>',
+      description: '<p>3巻 P49  青森県むつ市 </p> <p><img alt="Mutsu Oct 17 55" src="https://live.staticflickr.com/566/22580331092_51a11811f9_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=41.3260657&amp;lon=141.0962272&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Mutsu Oct 17 55】 by tculek</p>',
       location: {
         center: [141.0962272, 41.3260657],
         zoom: 14,
@@ -137,7 +137,7 @@ const config = {
       title: '恐山菩提寺',
       image: '',
       tweet_id: '',
-      description: '<p>3巻 P49  青森県むつ市 </p> <p><img alt="Pekelná krajina" src="https://live.staticflickr.com/65535/51548121888_2ae021f18a_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=41.327247&amp;lon=141.0907618&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Pekelná krajina】 by SocialHermit</p>',
+      description: '<p>3巻 P49  青森県むつ市 </p> <p><img alt="Brána do zásvětí" src="https://live.staticflickr.com/65535/51547085772_622db872a4_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=41.327247&amp;lon=141.0907618&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Brána do zásvětí】 by SocialHermit</p>',
       location: {
         center: [141.0907618, 41.327247],
         zoom: 14,
@@ -177,7 +177,7 @@ const config = {
       title: '恐山 花染の湯',
       image: '',
       tweet_id: '',
-      description: '<p>3巻 P52  青森県むつ市 </p> <p><img alt="Brána do zásvětí" src="https://live.staticflickr.com/65535/51547085772_622db872a4_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=41.3283697&amp;lon=141.0917047&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Brána do zásvětí】 by SocialHermit</p>',
+      description: '<p>3巻 P52  青森県むつ市 </p> <p><img alt="Pekelná krajina" src="https://live.staticflickr.com/65535/51548121888_2ae021f18a_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=41.3283697&amp;lon=141.0917047&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Pekelná krajina】 by SocialHermit</p>',
       location: {
         center: [141.0917047, 41.3283697],
         zoom: 14,
