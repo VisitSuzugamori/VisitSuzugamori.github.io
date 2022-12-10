@@ -57,7 +57,7 @@ const config = {
       title: '八甲田 山頂公園',
       image: '',
       tweet_id: '',
-      description: '<p>3巻 P34  青森県青森市 </p> <p><img alt="Frozen Hakkoda ropeway" src="https://live.staticflickr.com/65535/51886526253_46eec59f89_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=40.6757743&amp;lon=140.8592116&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Frozen Hakkoda ropeway】 by 雷太</p>',
+      description: '<p>3巻 P34  青森県青森市 </p> <p><img alt="Hakkoda snow monsters" src="https://live.staticflickr.com/65535/51886526308_8646115e88_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=40.6757743&amp;lon=140.8592116&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Hakkoda snow monsters】 by 雷太</p>',
       location: {
         center: [140.8592116, 40.6757743],
         zoom: 14,
@@ -96,8 +96,8 @@ const config = {
       hidden: false,
       title: '下北駅',
       image: '',
-      tweet_id: '1596797060736438275',
-      description: '<p>3巻 P47  青森県むつ市 下北町4</p><div class="tweetContainer" id="tweet1596797060736438275"></div> ',
+      tweet_id: '',
+      description: '<p>3巻 P47  青森県むつ市 下北町4</p> <p><img alt="mutsu_20210812191321" src="https://live.staticflickr.com/65535/51821101050_191b79fcd7_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=41.2827427&amp;lon=141.1899038&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【mutsu_20210812191321】 by inunami</p>',
       location: {
         center: [141.1899038, 41.2827427],
         zoom: 14,
@@ -157,7 +157,7 @@ const config = {
       title: '宇曽利山湖 極楽浜',
       image: '',
       tweet_id: '',
-      description: '<p>3巻 P51  青森県むつ市 </p> <p><img alt="恐山" src="https://live.staticflickr.com/65535/50327664441_0856db8fa1_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=41.3264966&amp;lon=141.086011&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【恐山】 by himeti</p>',
+      description: '<p>3巻 P51  青森県むつ市 </p> <p><img alt="恐山(Mt. Osorezan)" src="https://live.staticflickr.com/4181/33624245414_bb17444860_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=41.3264966&amp;lon=141.086011&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【恐山(Mt. Osorezan)】 by seto</p>',
       location: {
         center: [141.086011, 41.3264966],
         zoom: 14,
@@ -197,7 +197,7 @@ const config = {
       title: '恐山冷水',
       image: '',
       tweet_id: '',
-      description: '<p>3巻 P55  青森県むつ市 </p> <p><img alt="Osorezan Hiyamizu springs" src="https://live.staticflickr.com/8779/18287863462_f8af346af5_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=41.3145659&amp;lon=141.1264919&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Osorezan Hiyamizu springs】 by mega_midget_racer</p>',
+      description: '<p>3巻 P55  青森県むつ市 </p> <p><img alt="Osorezan Hiyamizu springs" src="https://live.staticflickr.com/7756/18265270976_87be1e78a7_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=41.3145659&amp;lon=141.1264919&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Osorezan Hiyamizu springs】 by mega_midget_racer</p>',
       location: {
         center: [141.1264919, 41.3145659],
         zoom: 14,

@@ -16,8 +16,8 @@ const config = {
       hidden: false,
       title: '仙台駅',
       image: '',
-      tweet_id: '1598602921373040640',
-      description: '<p>1巻 P61  宮城県仙台市 青葉区 中央一丁目</p><div class="tweetContainer" id="tweet1598602921373040640"></div> ',
+      tweet_id: '1601347698753273859',
+      description: '<p>1巻 P61  宮城県仙台市 青葉区 中央一丁目</p><div class="tweetContainer" id="tweet1601347698753273859"></div> ',
       location: {
         center: [140.8824375, 38.2601316],
         zoom: 14,
@@ -156,8 +156,8 @@ const config = {
       hidden: false,
       title: '瑞巌寺',
       image: '',
-      tweet_id: '1597730894743158785',
-      description: '<p>1巻 P69  宮城県宮城郡 松島町 松島字町内</p><div class="tweetContainer" id="tweet1597730894743158785"></div> ',
+      tweet_id: '1600116995751829504',
+      description: '<p>1巻 P69  宮城県宮城郡 松島町 松島字町内</p><div class="tweetContainer" id="tweet1600116995751829504"></div> ',
       location: {
         center: [141.0603899, 38.3718733],
         zoom: 14,

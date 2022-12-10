@@ -16,8 +16,8 @@ const config = {
       hidden: false,
       title: '国際展示場駅',
       image: '',
-      tweet_id: '1596764742273859586',
-      description: '<p>   東京都江東区 有明三丁目7</p><div class="tweetContainer" id="tweet1596764742273859586"></div> ',
+      tweet_id: '',
+      description: '<p>   東京都江東区 有明三丁目7</p> <p><img alt="Odaiba 5 (2009)" src="https://live.staticflickr.com/65535/52258065664_f11bf1363f_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.6344346&amp;lon=139.7916499&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Odaiba 5 (2009)】 by André Devezeau</p>',
       location: {
         center: [139.7916499, 35.6344346],
         zoom: 14,
