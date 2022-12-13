@@ -56,8 +56,8 @@ const config = {
       hidden: false,
       title: '会津若松駅',
       image: '',
-      tweet_id: '1601494720114413569',
-      description: '<p>1巻 P24  福島県会津若松市 駅前町1</p><div class="tweetContainer" id="tweet1601494720114413569"></div> ',
+      tweet_id: '1602069467902582784',
+      description: '<p>1巻 P24  福島県会津若松市 駅前町1</p><div class="tweetContainer" id="tweet1602069467902582784"></div> ',
       location: {
         center: [139.9303261, 37.5078657],
         zoom: 14,
@@ -76,8 +76,8 @@ const config = {
       hidden: false,
       title: 'ラーメン二郎 会津若松駅前店',
       image: '',
-      tweet_id: '1598515741971693569',
-      description: '<p>1巻 P25  福島県会津若松市 駅前町6</p><div class="tweetContainer" id="tweet1598515741971693569"></div> ',
+      tweet_id: '1602518144932782081',
+      description: '<p>1巻 P25  福島県会津若松市 駅前町6</p><div class="tweetContainer" id="tweet1602518144932782081"></div> ',
       location: {
         center: [139.9314173, 37.5066266],
         zoom: 14,

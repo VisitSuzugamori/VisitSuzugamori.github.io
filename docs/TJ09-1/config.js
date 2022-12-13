@@ -36,8 +36,8 @@ const config = {
       hidden: false,
       title: '海老名SA (下り)',
       image: '',
-      tweet_id: '',
-      description: '<p>2巻 P141  神奈川県海老名市 大谷南五丁目2</p> <p><img alt="IMG_0629.jpg" src="https://live.staticflickr.com/65535/52121295585_fefe287105_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.4310702&amp;lon=139.4010198&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【IMG_0629.jpg】 by ch.90</p>',
+      tweet_id: '1601931108240744448',
+      description: '<p>2巻 P141  神奈川県海老名市 大谷南五丁目2</p><div class="tweetContainer" id="tweet1601931108240744448"></div> ',
       location: {
         center: [139.4010198, 35.4310702],
         zoom: 14,
@@ -76,8 +76,8 @@ const config = {
       hidden: false,
       title: '広島駅',
       image: '',
-      tweet_id: '1601342630033788930',
-      description: '<p>2巻 P146  広島県広島市 南区 松原町1</p><div class="tweetContainer" id="tweet1601342630033788930"></div> ',
+      tweet_id: '1601775416108552192',
+      description: '<p>2巻 P146  広島県広島市 南区 松原町1</p><div class="tweetContainer" id="tweet1601775416108552192"></div> ',
       location: {
         center: [132.4753786, 34.397667],
         zoom: 14,
@@ -96,8 +96,8 @@ const config = {
       hidden: false,
       title: '宮島口駅',
       image: '',
-      tweet_id: '1599031246159581186',
-      description: '<p>2巻 P147  広島県廿日市市 宮島口一丁目3</p><div class="tweetContainer" id="tweet1599031246159581186"></div> ',
+      tweet_id: '1601812960124731393',
+      description: '<p>2巻 P147  広島県廿日市市 宮島口一丁目3</p><div class="tweetContainer" id="tweet1601812960124731393"></div> ',
       location: {
         center: [132.3029311, 34.3120172],
         zoom: 14,
@@ -136,8 +136,8 @@ const config = {
       hidden: false,
       title: '宮島桟橋',
       image: '',
-      tweet_id: '1599941069394804736',
-      description: '<p>2巻 P151  広島県廿日市市 宮島町873</p><div class="tweetContainer" id="tweet1599941069394804736"></div> ',
+      tweet_id: '1601817634290683905',
+      description: '<p>2巻 P151  広島県廿日市市 宮島町873</p><div class="tweetContainer" id="tweet1601817634290683905"></div> ',
       location: {
         center: [132.3222151, 34.3020862],
         zoom: 14,
@@ -157,7 +157,7 @@ const config = {
       title: '嚴島神社 大鳥居（布の中）',
       image: '',
       tweet_id: '',
-      description: '<p>2巻 P152,153  </p> <p><img alt="_7R37574" src="https://live.staticflickr.com/65535/52503810623_e254d11cd6_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.2973092&amp;lon=132.3181276&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【_7R37574】 by marcopolofc</p>',
+      description: '<p>2巻 P152,153  </p> <p><img alt="The torii of Itsukushima Shrine at low tide, Miyajima" src="https://live.staticflickr.com/65535/52542634669_245ec416e2_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.2973092&amp;lon=132.3181276&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【The torii of Itsukushima Shrine at low tide, Miyajima】 by Hans ter Horst Photography</p>',
       location: {
         center: [132.3181276, 34.2973092],
         zoom: 14,

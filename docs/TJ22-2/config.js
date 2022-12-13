@@ -37,7 +37,7 @@ const config = {
       title: 'オホーツクの塔',
       image: '',
       tweet_id: '',
-      description: '<p>7巻   北海道網走市 </p> <p><img alt="L1009111" src="https://live.staticflickr.com/1897/30366047438_f9ca4d71bf_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=44.1106685&amp;lon=144.2473548&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【L1009111】 by bluepointchen</p>',
+      description: '<p>7巻   北海道網走市 </p> <p><img alt="L1009111" src="https://live.staticflickr.com/1897/43515868224_95bb4c0496_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=44.1106685&amp;lon=144.2473548&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【L1009111】 by bluepointchen</p>',
       location: {
         center: [144.2473548, 44.1106685],
         zoom: 14,
@@ -96,8 +96,8 @@ const config = {
       hidden: false,
       title: '能取岬',
       image: '',
-      tweet_id: '1599172866037030912',
-      description: '<p>7巻   北海道網走市 </p><div class="tweetContainer" id="tweet1599172866037030912"></div> ',
+      tweet_id: '',
+      description: '<p>7巻   北海道網走市 </p> <p><img alt="20210201 15:01 Abashiri Hokkaido" src="https://live.staticflickr.com/65535/50897590677_e80e2d3764_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=44.1133485&amp;lon=144.2434854&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【20210201 15:01 Abashiri Hokkaido】 by ichigosugawara</p>',
       location: {
         center: [144.2434854, 44.1133485],
         zoom: 14,
@@ -117,7 +117,7 @@ const config = {
       title: '能取岬灯台',
       image: '',
       tweet_id: '',
-      description: '<p>7巻   北海道網走市 </p> <p><img alt="20210201 15:01 Abashiri Hokkaido" src="https://live.staticflickr.com/65535/50897590677_e80e2d3764_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=44.1121076&amp;lon=144.2432936&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【20210201 15:01 Abashiri Hokkaido】 by ichigosugawara</p>',
+      description: '<p>7巻   北海道網走市 </p> <p><img alt="能取岬" src="https://live.staticflickr.com/65535/52335965066_95b6ac84f7_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=44.1121076&amp;lon=144.2432936&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【能取岬】 by kanata-t</p>',
       location: {
         center: [144.2432936, 44.1121076],
         zoom: 14,
@@ -136,8 +136,8 @@ const config = {
       hidden: false,
       title: '天に続く道スタート地点',
       image: '',
-      tweet_id: '1598232433794879489',
-      description: '<p>7巻   北海道斜里郡 斜里町 </p><div class="tweetContainer" id="tweet1598232433794879489"></div> ',
+      tweet_id: '',
+      description: '<p>7巻   北海道斜里郡 斜里町 </p> <p><img alt="K12S1837" src="https://live.staticflickr.com/65535/52150318871_7237c57e49_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=43.9067705&amp;lon=144.7987065&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【K12S1837】 by hisway306</p>',
       location: {
         center: [144.7987065, 43.9067705],
         zoom: 14,
@@ -237,7 +237,7 @@ const config = {
       title: '羅臼岳',
       image: '',
       tweet_id: '',
-      description: '<p>7巻   北海道斜里郡 斜里町 </p> <p><img alt="Views of Russia" src="https://live.staticflickr.com/65535/50103164712_7e1123c12b_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=44.0757686&amp;lon=145.1221149&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Views of Russia】 by SocialHermit</p>',
+      description: '<p>7巻   北海道斜里郡 斜里町 </p> <p><img alt="Sunrise over Mt. Rausu" src="https://live.staticflickr.com/65535/50102936191_81a173f10b_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=44.0757686&amp;lon=145.1221149&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Sunrise over Mt. Rausu】 by SocialHermit</p>',
       location: {
         center: [145.1221149, 44.0757686],
         zoom: 14,
@@ -277,7 +277,7 @@ const config = {
       title: '美白の湯宿 大江本家',
       image: '',
       tweet_id: '',
-      description: '<p>7巻   北海道北見市 留辺蘂町温根湯温泉一区453</p> <p><img alt="" src="https://live.staticflickr.com/704/22071845355_6cfcfd6ac2_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=43.7597063&amp;lon=143.5082092&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【】 by lovelva416</p>',
+      description: '<p>7巻   北海道北見市 留辺蘂町温根湯温泉一区453</p> <p><img alt="" src="https://live.staticflickr.com/766/22058826402_4a88523982_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=43.7597063&amp;lon=143.5082092&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【】 by lovelva416</p>',
       location: {
         center: [143.5082092, 43.7597063],
         zoom: 14,
@@ -297,7 +297,7 @@ const config = {
       title: '中湧別駅跡',
       image: '',
       tweet_id: '',
-      description: '<p>7巻   北海道紋別郡 湧別町 中湧別南町</p> <p><img alt="IMG_0226" src="https://live.staticflickr.com/65535/51392727265_573b632142_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=44.1853551&amp;lon=143.5957829&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【IMG_0226】 by tnoma</p>',
+      description: '<p>7巻   北海道紋別郡 湧別町 中湧別南町</p> <p><img alt="IMG_0225" src="https://live.staticflickr.com/65535/51392441149_1401586a82_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=44.1853551&amp;lon=143.5957829&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【IMG_0225】 by tnoma</p>',
       location: {
         center: [143.5957829, 44.1853551],
         zoom: 14,
@@ -337,7 +337,7 @@ const config = {
       title: '道々橋八幡神社',
       image: '',
       tweet_id: '',
-      description: '<p>7巻   東京都大田区 久が原一丁目7</p> <p><img alt="IMG_1963" src="https://live.staticflickr.com/7186/13894914290_85161f8942_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.5857414&amp;lon=139.69341&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【IMG_1963】 by smallcake1982</p>',
+      description: '<p>7巻   東京都大田区 久が原一丁目7</p> <p><img alt="IMG_1962" src="https://live.staticflickr.com/5279/13894887489_5669dc3ba8_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.5857414&amp;lon=139.69341&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【IMG_1962】 by smallcake1982</p>',
       location: {
         center: [139.69341, 35.5857414],
         zoom: 14,
