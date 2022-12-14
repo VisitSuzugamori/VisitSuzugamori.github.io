@@ -37,7 +37,7 @@ const config = {
       title: '瀬戸浜海岸',
       image: '',
       tweet_id: '',
-      description: '<p>   千葉県南房総市 千倉町瀬戸</p> <p><img alt="DSC00080" src="https://live.staticflickr.com/7443/16476428926_54538fe18f_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.973351&amp;lon=139.962721&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【DSC00080】 by Wesley Tsang</p>',
+      description: '<p>   千葉県南房総市 千倉町瀬戸</p> <p><img alt="瀬戸浜" src="https://live.staticflickr.com/4166/34335655841_de6343c04e_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.973351&amp;lon=139.962721&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【瀬戸浜】 by BlueSky_s</p>',
       location: {
         center: [139.962721, 34.973351],
         zoom: 14,
@@ -297,7 +297,7 @@ const config = {
       title: '鋸山ロープウェー',
       image: '',
       tweet_id: '',
-      description: '<p>   千葉県富津市 </p> <p><img alt="Nokogiriyama Ropeway" src="https://live.staticflickr.com/65535/50501503721_f948f78b08_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.1622171&amp;lon=139.8230802&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Nokogiriyama Ropeway】 by bacon.dumpling</p>',
+      description: '<p>   千葉県富津市 </p> <p><img alt="R0010324_xmp" src="https://live.staticflickr.com/65535/50527358672_7b4cfdd477_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.1622171&amp;lon=139.8230802&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【R0010324_xmp】 by few0010</p>',
       location: {
         center: [139.8230802, 35.1622171],
         zoom: 14,
