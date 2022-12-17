@@ -16,8 +16,8 @@ const config = {
       hidden: false,
       title: '国際展示場駅',
       image: '',
-      tweet_id: '',
-      description: '<p>   東京都江東区 有明三丁目7</p> <p><img alt="ビッグサイトでプロジェクションマッピングやってた（青バージョン）" src="https://live.staticflickr.com/65535/52553965382_6dd2b4aeba_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.6344346&amp;lon=139.7916499&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【ビッグサイトでプロジェクションマッピングやってた（青バージョン）】 by Norisa1</p>',
+      tweet_id: '1603942936303083520',
+      description: '<p>   東京都江東区 有明三丁目7</p><div class="tweetContainer" id="tweet1603942936303083520"></div> ',
       location: {
         center: [139.7916499, 35.6344346],
         zoom: 14,

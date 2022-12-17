@@ -16,8 +16,8 @@ const config = {
       hidden: false,
       title: '宇都宮駅',
       image: '',
-      tweet_id: '1602573691363110913',
-      description: '<p>2巻 P44  栃木県宇都宮市 駅前通り三丁目1</p><div class="tweetContainer" id="tweet1602573691363110913"></div> ',
+      tweet_id: '1603589259382128642',
+      description: '<p>2巻 P44  栃木県宇都宮市 駅前通り三丁目1</p><div class="tweetContainer" id="tweet1603589259382128642"></div> ',
       location: {
         center: [139.8984511, 36.5590234],
         zoom: 14,

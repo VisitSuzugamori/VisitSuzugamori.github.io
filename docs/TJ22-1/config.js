@@ -36,8 +36,8 @@ const config = {
       hidden: false,
       title: '羽田空港第１・第２ターミナル駅',
       image: '',
-      tweet_id: '1601105011337232387',
-      description: '<p>7巻   東京都大田区 羽田空港三丁目4</p><div class="tweetContainer" id="tweet1601105011337232387"></div> ',
+      tweet_id: '1604102018431418368',
+      description: '<p>7巻   東京都大田区 羽田空港三丁目4</p><div class="tweetContainer" id="tweet1604102018431418368"></div> ',
       location: {
         center: [139.786427, 35.5499709],
         zoom: 14,
@@ -56,8 +56,8 @@ const config = {
       hidden: false,
       title: '羽田空港',
       image: '',
-      tweet_id: '1602052162506223616',
-      description: '<p>7巻   東京都大田区 羽田空港三丁目3</p><div class="tweetContainer" id="tweet1602052162506223616"></div> ',
+      tweet_id: '1602759919148892160',
+      description: '<p>7巻   東京都大田区 羽田空港三丁目3</p><div class="tweetContainer" id="tweet1602759919148892160"></div> ',
       location: {
         center: [139.7798386, 35.5493932],
         zoom: 14,
