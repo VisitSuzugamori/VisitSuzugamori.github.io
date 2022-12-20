@@ -36,8 +36,8 @@ const config = {
       hidden: false,
       title: '後免駅',
       image: '',
-      tweet_id: '1601453438218506241',
-      description: '<p>6巻 P71  高知県南国市 駅前町二丁目3</p><div class="tweetContainer" id="tweet1601453438218506241"></div> ',
+      tweet_id: '',
+      description: '<p>6巻 P71  高知県南国市 駅前町二丁目3</p> <p><img alt="nankoku_20190905111300" src="https://live.staticflickr.com/65535/49844880672_539a7d01db_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=33.5791401&amp;lon=133.6454058&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【nankoku_20190905111300】 by inunami</p>',
       location: {
         center: [133.6454058, 33.5791401],
         zoom: 14,
@@ -57,7 +57,7 @@ const config = {
       title: '師匠はよしてって～',
       image: '',
       tweet_id: '',
-      description: '<p>6巻 P72  高知県南国市 駅前町二丁目3</p> <p><img alt="IMG_9740.jpg" src="https://live.staticflickr.com/1613/26139466803_0e51c15fdb_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=33.5788333&amp;lon=133.6458189&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【IMG_9740.jpg】 by Kuruman</p>',
+      description: '<p>6巻 P72  高知県南国市 駅前町二丁目3</p> <p><img alt="nankoku_20190905111603" src="https://live.staticflickr.com/65535/49844880412_6cbf656155_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=33.5788333&amp;lon=133.6458189&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【nankoku_20190905111603】 by inunami</p>',
       location: {
         center: [133.6458189, 33.5788333],
         zoom: 14,
@@ -77,7 +77,7 @@ const config = {
       title: 'ショッピングセンター パステポコ・ア・ポコ南国店',
       image: '',
       tweet_id: '',
-      description: '<p>6巻 P73  高知県南国市 駅前町二丁目3</p> <p><img alt="nankoku_20190905111300" src="https://live.staticflickr.com/65535/49844880672_539a7d01db_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=33.578697&amp;lon=133.6453861&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【nankoku_20190905111300】 by inunami</p>',
+      description: '<p>6巻 P73  高知県南国市 駅前町二丁目3</p> <p><img alt="nankoku_20190905114442" src="https://live.staticflickr.com/65535/49844880052_32aae9bd78_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=33.578697&amp;lon=133.6453861&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【nankoku_20190905114442】 by inunami</p>',
       location: {
         center: [133.6453861, 33.578697],
         zoom: 14,
@@ -156,8 +156,8 @@ const config = {
       hidden: false,
       title: 'はりまや橋',
       image: '',
-      tweet_id: '1601114555144634368',
-      description: '<p>6巻 P80  高知県高知市 はりまや町一丁目1</p><div class="tweetContainer" id="tweet1601114555144634368"></div> ',
+      tweet_id: '1603599683661733888',
+      description: '<p>6巻 P80  高知県高知市 はりまや町一丁目1</p><div class="tweetContainer" id="tweet1603599683661733888"></div> ',
       location: {
         center: [133.5426569, 33.5599438],
         zoom: 14,
@@ -177,7 +177,7 @@ const config = {
       title: '桟橋通五丁目駅',
       image: '',
       tweet_id: '',
-      description: '<p>6巻 P80  高知県高知市 桟橋通五丁目3</p> <p><img alt="Kōchi" src="https://live.staticflickr.com/65535/48684927876_036c18ca41_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=33.5404756&amp;lon=133.5527511&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Kōchi】 by Jan Dreesen</p>',
+      description: '<p>6巻 P80  高知県高知市 桟橋通五丁目3</p> <p><img alt="Kōchi" src="https://live.staticflickr.com/65535/48684589953_c04e89e743_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=33.5404756&amp;lon=133.5527511&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Kōchi】 by Jan Dreesen</p>',
       location: {
         center: [133.5527511, 33.5404756],
         zoom: 14,

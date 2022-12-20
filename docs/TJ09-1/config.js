@@ -56,8 +56,8 @@ const config = {
       hidden: false,
       title: '広島テレビ放送',
       image: '',
-      tweet_id: '1601168510142529537',
-      description: '<p>2巻 P145  広島県広島市 東区 二葉の里三丁目5</p><div class="tweetContainer" id="tweet1601168510142529537"></div> ',
+      tweet_id: '',
+      description: '<p>2巻 P145  広島県広島市 東区 二葉の里三丁目5</p> <p><img alt="Hiroshima, Japan" src="https://live.staticflickr.com/65535/51810452937_609386756b_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.3999238&amp;lon=132.4758202&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Hiroshima, Japan】 by Foraggio Photographic</p>',
       location: {
         center: [132.4758202, 34.3999238],
         zoom: 14,
@@ -96,8 +96,8 @@ const config = {
       hidden: false,
       title: '宮島口駅',
       image: '',
-      tweet_id: '1603293110439903232',
-      description: '<p>2巻 P147  広島県廿日市市 宮島口一丁目3</p><div class="tweetContainer" id="tweet1603293110439903232"></div> ',
+      tweet_id: '1604349358849134592',
+      description: '<p>2巻 P147  広島県廿日市市 宮島口一丁目3</p><div class="tweetContainer" id="tweet1604349358849134592"></div> ',
       location: {
         center: [132.3029311, 34.3120172],
         zoom: 14,
@@ -117,7 +117,7 @@ const config = {
       title: 'あなごめし うえの 宮島口本店',
       image: '',
       tweet_id: '',
-      description: '<p>2巻 P148  広島県廿日市市 宮島口一丁目5</p> <p><img alt="IMG_3840" src="https://live.staticflickr.com/65535/51373328993_57f2969684_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.311502&amp;lon=132.3035106&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【IMG_3840】 by ylefou2004</p>',
+      description: '<p>2巻 P148  広島県廿日市市 宮島口一丁目5</p> <p><img alt="JR Miyajimaguchi Station" src="https://live.staticflickr.com/65535/51332939385_79f34f1c4e_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.311502&amp;lon=132.3035106&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【JR Miyajimaguchi Station】 by Kzaral</p>',
       location: {
         center: [132.3035106, 34.311502],
         zoom: 14,
@@ -157,7 +157,7 @@ const config = {
       title: '嚴島神社 大鳥居（布の中）',
       image: '',
       tweet_id: '',
-      description: '<p>2巻 P152,153  </p> <p><img alt="_7R37574" src="https://live.staticflickr.com/65535/52503810623_e254d11cd6_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.2973092&amp;lon=132.3181276&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【_7R37574】 by marcopolofc</p>',
+      description: '<p>2巻 P152,153  </p> <p><img alt="The torii of Itsukushima Shrine at low tide, Miyajima" src="https://live.staticflickr.com/65535/52542634669_245ec416e2_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.2973092&amp;lon=132.3181276&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【The torii of Itsukushima Shrine at low tide, Miyajima】 by Hans ter Horst Photography</p>',
       location: {
         center: [132.3181276, 34.2973092],
         zoom: 14,

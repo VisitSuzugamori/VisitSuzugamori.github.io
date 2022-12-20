@@ -37,7 +37,7 @@ const config = {
       title: '総合体育館前（バス）',
       image: '',
       tweet_id: '',
-      description: '<p>4巻 P9  島根県松江市 学園南二丁目5</p> <p><img alt="試合終了。残念ながら、89-93で敗北。燃えたゲームでした。" src="https://live.staticflickr.com/8512/8415744955_cfdc8f3250_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.4731536&amp;lon=133.0660854&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【試合終了。残念ながら、89-93で敗北。燃えたゲームでした。】 by Nagatani Jungo</p>',
+      description: '<p>4巻 P9  島根県松江市 学園南二丁目5</p> <p><img alt="島根スサノオマジック VS 浜松・東三河フェニックス戦。今のところ38-36で2点リード。" src="https://live.staticflickr.com/8044/8416710058_6bc39c716c_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.4731536&amp;lon=133.0660854&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【島根スサノオマジック VS 浜松・東三河フェニックス戦。今のところ38-36で2点リード。】 by Nagatani Jungo</p>',
       location: {
         center: [133.0660854, 35.4731536],
         zoom: 14,
@@ -77,7 +77,7 @@ const config = {
       title: '美保関漁港',
       image: '',
       tweet_id: '',
-      description: '<p>4巻 P12,13  島根県松江市 美保関町美保関</p> <p><img alt="DSCN0156" src="https://live.staticflickr.com/8843/18136807424_8f4f80a17b_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.5603343&amp;lon=133.3109506&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【DSCN0156】 by rurinoshima</p>',
+      description: '<p>4巻 P12,13  島根県松江市 美保関町美保関</p> <p><img alt="DSCN0158" src="https://live.staticflickr.com/8885/18136813874_86269128f8_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.5603343&amp;lon=133.3109506&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【DSCN0158】 by rurinoshima</p>',
       location: {
         center: [133.3109506, 35.5603343],
         zoom: 14,
@@ -157,7 +157,7 @@ const config = {
       title: '沖之御前地之御前遥拝所',
       image: '',
       tweet_id: '',
-      description: '<p>4巻 P32  島根県松江市 </p> <p><img alt="Lighthouse at noon" src="https://live.staticflickr.com/65535/48106762653_5fb1fa5f3b_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.567285&amp;lon=133.325638&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Lighthouse at noon】 by Teruhide Tomori</p>',
+      description: '<p>4巻 P32  島根県松江市 </p> <p><img alt="" src="https://live.staticflickr.com/65535/52384357902_f187d9d3cf_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.567285&amp;lon=133.325638&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【】 by zhangtreddy</p>',
       location: {
         center: [133.325638, 35.567285],
         zoom: 14,
@@ -177,7 +177,7 @@ const config = {
       title: '美保関灯台ビュッフェ',
       image: '',
       tweet_id: '',
-      description: '<p>4巻 P33  島根県松江市 </p> <p><img alt="" src="https://live.staticflickr.com/65535/52384357902_f187d9d3cf_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.5672491&amp;lon=133.3250483&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【】 by zhangtreddy</p>',
+      description: '<p>4巻 P33  島根県松江市 </p> <p><img alt="" src="https://live.staticflickr.com/65535/52385721100_b06074aedf_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.5672491&amp;lon=133.3250483&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【】 by zhangtreddy</p>',
       location: {
         center: [133.3250483, 35.5672491],
         zoom: 14,
