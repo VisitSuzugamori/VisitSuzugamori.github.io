@@ -37,7 +37,7 @@ const config = {
       title: '大久保利通像',
       image: '',
       tweet_id: '',
-      description: '<p>   鹿児島県鹿児島市 西田一丁目5</p> <p><img alt="DSCN6026" src="https://live.staticflickr.com/65535/50188254638_94a0c969b5_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=31.586563&amp;lon=130.5461068&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【DSCN6026】 by JohnSeb</p>',
+      description: '<p>   鹿児島県鹿児島市 西田一丁目5</p> <p><img alt="鹿児島路面電車" src="https://live.staticflickr.com/65535/50793380102_8822e6275a_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=31.586563&amp;lon=130.5461068&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【鹿児島路面電車】 by Chitaka Chou</p>',
       location: {
         center: [130.5461068, 31.586563],
         zoom: 14,
@@ -97,7 +97,7 @@ const config = {
       title: 'くろいわラーメン 本店',
       image: '',
       tweet_id: '',
-      description: '<p>   鹿児島県鹿児島市 東千石町8</p> <p><img alt="IMG_7988" src="https://live.staticflickr.com/65535/51818578906_5282b508b5_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=31.5914029&amp;lon=130.553828&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【IMG_7988】 by Autumn Sweater</p>',
+      description: '<p>   鹿児島県鹿児島市 東千石町8</p> <p><img alt="Kagoshima Tram, Kyushu, Japan" src="https://live.staticflickr.com/65535/52574453901_e4d0369f54_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=31.5914029&amp;lon=130.553828&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Kagoshima Tram, Kyushu, Japan】 by globetrekimages</p>',
       location: {
         center: [130.553828, 31.5914029],
         zoom: 14,
@@ -217,7 +217,7 @@ const config = {
       title: '桜島シーサイドホテル',
       image: '',
       tweet_id: '',
-      description: '<p>   鹿児島県鹿児島市 古里町1076</p> <p><img alt="20120220-_DSC7099" src="https://live.staticflickr.com/4663/39763570861_cef074cb69_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=31.5521501&amp;lon=130.6587304&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【20120220-_DSC7099】 by Fomal Haut</p>',
+      description: '<p>   鹿児島県鹿児島市 古里町1076</p> <p><img alt="20120221-_DSC7573" src="https://live.staticflickr.com/4604/24900372627_30712b9034_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=31.5521501&amp;lon=130.6587304&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【20120221-_DSC7573】 by Fomal Haut</p>',
       location: {
         center: [130.6587304, 31.5521501],
         zoom: 14,
