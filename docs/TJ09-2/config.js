@@ -37,7 +37,7 @@ const config = {
       title: '大聖院',
       image: '',
       tweet_id: '',
-      description: '<p>3巻 P8  広島県廿日市市 宮島町滝町215</p> <p><img alt="Daishoin banners, Miyajima 大聖院 宮島  広島" src="https://live.staticflickr.com/65535/51488631058_30212eaf6f_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.2920477&amp;lon=132.3184736&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Daishoin banners, Miyajima 大聖院 宮島  広島】 by Anaguma</p>',
+      description: '<p>3巻 P8  広島県廿日市市 宮島町滝町215</p> <p><img alt="The Stairs at Daishoin 大聖院の階段" src="https://live.staticflickr.com/65535/51449518041_3616a59c71_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.2920477&amp;lon=132.3184736&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【The Stairs at Daishoin 大聖院の階段】 by banzainetsurfer</p>',
       location: {
         center: [132.3184736, 34.2920477],
         zoom: 14,
@@ -136,8 +136,8 @@ const config = {
       hidden: false,
       title: '大和ミュージアム（呉市海事歴史科学館）',
       image: '',
-      tweet_id: '',
-      description: '<p>3巻 P15  広島県呉市 宝町4</p> <p><img alt="広島" src="https://live.staticflickr.com/65535/52462086541_f18f92532c_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.2411391&amp;lon=132.5558555&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【広島】 by TAKEGTX</p>',
+      tweet_id: '1606157523102359552',
+      description: '<p>3巻 P15  広島県呉市 宝町4</p><div class="tweetContainer" id="tweet1606157523102359552"></div> ',
       location: {
         center: [132.5558555, 34.2411391],
         zoom: 14,
