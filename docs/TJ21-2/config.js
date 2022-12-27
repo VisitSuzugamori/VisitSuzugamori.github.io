@@ -137,7 +137,7 @@ const config = {
       title: '湯川堤防',
       image: '',
       tweet_id: '',
-      description: '<p>7巻   北海道函館市 湯川町三丁目1</p> <p><img alt="2018 - 0807 iMG_783 平成館しおさい亭別館花月" src="https://live.staticflickr.com/1873/30457375638_3e720b770d_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=41.7731667&amp;lon=140.7874485&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【2018 - 0807 iMG_783 平成館しおさい亭別館花月】 by PIPIQ.LAI</p>',
+      description: '<p>7巻   北海道函館市 湯川町三丁目1</p> <p><img alt="IMG20180204113532" src="https://live.staticflickr.com/1958/44915848902_f4cfc34975_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=41.7731667&amp;lon=140.7874485&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【IMG20180204113532】 by redice0112</p>',
       location: {
         center: [140.7874485, 41.7731667],
         zoom: 14,
@@ -237,7 +237,7 @@ const config = {
       title: '函館グルメ回転ずし函太郎 宇賀浦本店',
       image: '',
       tweet_id: '',
-      description: '<p>7巻   北海道函館市 宇賀浦町14</p> <p><img alt="IMG20180204134419" src="https://live.staticflickr.com/1929/44915848742_92c3c86e0b_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=41.770788&amp;lon=140.745451&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【IMG20180204134419】 by redice0112</p>',
+      description: '<p>7巻   北海道函館市 宇賀浦町14</p> <p><img alt="IMG20180204135907" src="https://live.staticflickr.com/1925/44915848522_386c0ce707_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=41.770788&amp;lon=140.745451&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【IMG20180204135907】 by redice0112</p>',
       location: {
         center: [140.745451, 41.770788],
         zoom: 14,
@@ -257,7 +257,7 @@ const config = {
       title: '大森町',
       image: '',
       tweet_id: '',
-      description: '<p>7巻   北海道函館市 宇賀浦町1</p> <p><img alt="DSC01101" src="https://live.staticflickr.com/7451/27302716311_cd09c86ca7_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=41.7697786&amp;lon=140.7404156&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【DSC01101】 by 騰子</p>',
+      description: '<p>7巻   北海道函館市 宇賀浦町1</p> <p><img alt="函館市電 39 ハイカラ号の絵" src="https://live.staticflickr.com/65535/50074882542_30b0baceb7_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=41.7697786&amp;lon=140.7404156&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【函館市電 39 ハイカラ号の絵】 by OOMYV</p>',
       location: {
         center: [140.7404156, 41.7697786],
         zoom: 14,
@@ -377,7 +377,7 @@ const config = {
       title: '月見橋',
       image: '',
       tweet_id: '',
-      description: '<p>7巻   北海道亀田郡 七飯町 </p> <p><img alt="Running along the raod." src="https://live.staticflickr.com/65535/50659827081_9b647d4562_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=41.9889583&amp;lon=140.6668324&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Running along the raod.】 by Matt-The Mechanic</p>',
+      description: '<p>7巻   北海道亀田郡 七飯町 </p> <p><img alt="IMG_6067s" src="https://live.staticflickr.com/65535/49419641562_e2e9af5974_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=41.9889583&amp;lon=140.6668324&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【IMG_6067s】 by 小宗宗</p>',
       location: {
         center: [140.6668324, 41.9889583],
         zoom: 14,

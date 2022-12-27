@@ -16,8 +16,8 @@ const config = {
       hidden: false,
       title: '函館駅',
       image: '',
-      tweet_id: '1606425023585357824',
-      description: '<p>7巻   北海道函館市 若松町12</p><div class="tweetContainer" id="tweet1606425023585357824"></div> ',
+      tweet_id: '1607190611752546304',
+      description: '<p>7巻   北海道函館市 若松町12</p><div class="tweetContainer" id="tweet1607190611752546304"></div> ',
       location: {
         center: [140.7264741, 41.7737804],
         zoom: 14,
@@ -156,8 +156,8 @@ const config = {
       hidden: false,
       title: '金森赤レンガ倉庫',
       image: '',
-      tweet_id: '1603562704450383872',
-      description: '<p>7巻   北海道函館市 豊川町11</p><div class="tweetContainer" id="tweet1603562704450383872"></div> ',
+      tweet_id: '1607020917967982593',
+      description: '<p>7巻   北海道函館市 豊川町11</p><div class="tweetContainer" id="tweet1607020917967982593"></div> ',
       location: {
         center: [140.7176349, 41.7673531],
         zoom: 14,
@@ -256,8 +256,8 @@ const config = {
       hidden: false,
       title: '旅館一乃松',
       image: '',
-      tweet_id: '1603704172108320768',
-      description: '<p>7巻   北海道函館市 湯川町一丁目3</p><div class="tweetContainer" id="tweet1603704172108320768"></div> ',
+      tweet_id: '1607353677777633280',
+      description: '<p>7巻   北海道函館市 湯川町一丁目3</p><div class="tweetContainer" id="tweet1607353677777633280"></div> ',
       location: {
         center: [140.7856914, 41.7757667],
         zoom: 14,
