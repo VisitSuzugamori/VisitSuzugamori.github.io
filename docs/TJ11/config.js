@@ -96,8 +96,8 @@ const config = {
       hidden: false,
       title: '本州最南端の碑',
       image: '',
-      tweet_id: '1607178960244195328',
-      description: '<p>3巻 P64  和歌山県東牟婁郡 串本町 </p><div class="tweetContainer" id="tweet1607178960244195328"></div> ',
+      tweet_id: '1608335301226668038',
+      description: '<p>3巻 P64  和歌山県東牟婁郡 串本町 </p><div class="tweetContainer" id="tweet1608335301226668038"></div> ',
       location: {
         center: [135.7621203, 33.4362401],
         zoom: 14,
@@ -176,8 +176,8 @@ const config = {
       hidden: false,
       title: '新宮駅',
       image: '',
-      tweet_id: '1606561616446857217',
-      description: '<p>3巻 P80  和歌山県新宮市 徐福一丁目3</p><div class="tweetContainer" id="tweet1606561616446857217"></div> ',
+      tweet_id: '1608412287920111616',
+      description: '<p>3巻 P80  和歌山県新宮市 徐福一丁目3</p><div class="tweetContainer" id="tweet1608412287920111616"></div> ',
       location: {
         center: [135.9941471, 33.7251509],
         zoom: 14,

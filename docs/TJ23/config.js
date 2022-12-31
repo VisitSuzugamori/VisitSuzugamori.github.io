@@ -37,7 +37,7 @@ const config = {
       title: '瀬戸浜海岸',
       image: '',
       tweet_id: '',
-      description: '<p>   千葉県南房総市 千倉町瀬戸</p> <p><img alt="瀬戸浜" src="https://live.staticflickr.com/4166/34335655841_de6343c04e_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.973351&amp;lon=139.962721&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【瀬戸浜】 by BlueSky_s</p>',
+      description: '<p>   千葉県南房総市 千倉町瀬戸</p> <p><img alt="FH010025" src="https://live.staticflickr.com/3156/5706868205_58deab1c31_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.973351&amp;lon=139.962721&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【FH010025】 by seoshunji</p>',
       location: {
         center: [139.962721, 34.973351],
         zoom: 14,
@@ -77,7 +77,7 @@ const config = {
       title: '南房総市観光協会千倉観光案内所(千倉駅構内)',
       image: '',
       tweet_id: '',
-      description: '<p>   千葉県南房総市 千倉町瀬戸</p> <p><img alt="DSCF5060" src="https://live.staticflickr.com/959/27431164097_3d5c00b51b_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.976704&amp;lon=139.9545765&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【DSCF5060】 by yugo.sakai</p>',
+      description: '<p>   千葉県南房総市 千倉町瀬戸</p> <p><img alt="IMG_9259" src="https://live.staticflickr.com/903/28427314358_c36f1116c7_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.976704&amp;lon=139.9545765&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【IMG_9259】 by yugo.sakai</p>',
       location: {
         center: [139.9545765, 34.976704],
         zoom: 14,
@@ -216,8 +216,8 @@ const config = {
       hidden: false,
       title: '野島埼灯台',
       image: '',
-      tweet_id: '',
-      description: '<p>   千葉県南房総市 </p> <p><img alt="B/W #1770" src="https://live.staticflickr.com/65535/51783292992_1b89c90d76_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.9017272&amp;lon=139.8883406&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【B/W #1770】 by Ville Misaki</p>',
+      tweet_id: '1608338950933938185',
+      description: '<p>   千葉県南房総市 </p><div class="tweetContainer" id="tweet1608338950933938185"></div> ',
       location: {
         center: [139.8883406, 34.9017272],
         zoom: 14,
@@ -236,8 +236,8 @@ const config = {
       hidden: false,
       title: '最南端',
       image: '',
-      tweet_id: '',
-      description: '<p>   千葉県南房総市 </p> <p><img alt="白浜野島崎" src="https://live.staticflickr.com/8676/30001929600_c46f583bd2_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.904775&amp;lon=139.879022&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【白浜野島崎】 by myutoto</p>',
+      tweet_id: '1607994329586601986',
+      description: '<p>   千葉県南房総市 </p><div class="tweetContainer" id="tweet1607994329586601986"></div> ',
       location: {
         center: [139.879022, 34.904775],
         zoom: 14,
@@ -276,8 +276,8 @@ const config = {
       hidden: false,
       title: '浜金谷駅',
       image: '',
-      tweet_id: '1603952991094333440',
-      description: '<p>   千葉県富津市 </p><div class="tweetContainer" id="tweet1603952991094333440"></div> ',
+      tweet_id: '',
+      description: '<p>   千葉県富津市 </p> <p><img alt="Kanaya#3" src="https://live.staticflickr.com/65535/51735519668_e63f7b58e3_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.1681316&amp;lon=139.8222539&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Kanaya#3】 by tetsuo5</p>',
       location: {
         center: [139.8222539, 35.1681316],
         zoom: 14,
@@ -316,8 +316,8 @@ const config = {
       hidden: false,
       title: '鋸山山頂',
       image: '',
-      tweet_id: '1606838728835702784',
-      description: '<p>   千葉県富津市 </p><div class="tweetContainer" id="tweet1606838728835702784"></div> ',
+      tweet_id: '1608433854767063040',
+      description: '<p>   千葉県富津市 </p><div class="tweetContainer" id="tweet1608433854767063040"></div> ',
       location: {
         center: [139.8284768, 35.1584928],
         zoom: 14,
@@ -456,8 +456,8 @@ const config = {
       hidden: false,
       title: '日本寺 大仏',
       image: '',
-      tweet_id: '',
-      description: '<p>   千葉県安房郡 鋸南町 元名</p> <p><img alt="Nihon-ji on Mount Nokogiri (Futtsu/Kyonan, Chiba, Japan)" src="https://live.staticflickr.com/65535/51772613160_17423320d9_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.1576699&amp;lon=139.8346891&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Nihon-ji on Mount Nokogiri (Futtsu/Kyonan, Chiba, Japan)】 by t-mizo</p>',
+      tweet_id: '1608297087195807748',
+      description: '<p>   千葉県安房郡 鋸南町 元名</p><div class="tweetContainer" id="tweet1608297087195807748"></div> ',
       location: {
         center: [139.8346891, 35.1576699],
         zoom: 14,

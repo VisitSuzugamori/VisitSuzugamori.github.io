@@ -157,7 +157,7 @@ const config = {
       title: '出雲大社 勢溜の大鳥居',
       image: '',
       tweet_id: '',
-      description: '<p>3巻 P139  島根県出雲市 大社町杵築東3286</p> <p><img alt="出雲大社" src="https://live.staticflickr.com/65535/51353236080_11e7daf080_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.3967051&amp;lon=132.6863743&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【出雲大社】 by Chitaka Chou</p>',
+      description: '<p>3巻 P139  島根県出雲市 大社町杵築東3286</p> <p><img alt="20220921_鳥取大山登山＆山口帰省_169" src="https://live.staticflickr.com/65535/52380356378_c60a3f29e1_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.3967051&amp;lon=132.6863743&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【20220921_鳥取大山登山＆山口帰省_169】 by jinmsk</p>',
       location: {
         center: [132.6863743, 35.3967051],
         zoom: 14,
@@ -336,8 +336,8 @@ const config = {
       hidden: false,
       title: '松江城',
       image: '',
-      tweet_id: '1603920728986112003',
-      description: '<p>3巻 P150  島根県松江市 殿町1</p><div class="tweetContainer" id="tweet1603920728986112003"></div> ',
+      tweet_id: '1608753273758183425',
+      description: '<p>3巻 P150  島根県松江市 殿町1</p><div class="tweetContainer" id="tweet1608753273758183425"></div> ',
       location: {
         center: [133.0506783, 35.4751335],
         zoom: 14,

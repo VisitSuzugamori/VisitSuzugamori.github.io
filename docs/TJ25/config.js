@@ -16,8 +16,8 @@ const config = {
       hidden: false,
       title: '鹿児島中央駅',
       image: '',
-      tweet_id: '1605030638608060416',
-      description: '<p>   鹿児島県鹿児島市 武一丁目1</p><div class="tweetContainer" id="tweet1605030638608060416"></div> ',
+      tweet_id: '1606086336544354305',
+      description: '<p>   鹿児島県鹿児島市 武一丁目1</p><div class="tweetContainer" id="tweet1606086336544354305"></div> ',
       location: {
         center: [130.5417154, 31.5836893],
         zoom: 14,
@@ -77,7 +77,7 @@ const config = {
       title: '樺山、黒田、大いに語る碑',
       image: '',
       tweet_id: '',
-      description: '<p>   鹿児島県鹿児島市 西千石町17</p> <p><img alt="Kagoshima Ginza Street, Kyushu, Japan" src="https://live.staticflickr.com/65535/52546903365_44168b6153_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=31.5889911&amp;lon=130.5510241&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Kagoshima Ginza Street, Kyushu, Japan】 by globetrekimages</p>',
+      description: '<p>   鹿児島県鹿児島市 西千石町17</p> <p><img alt="Kagoshima Ginza Street, Kyushu, Japan" src="https://live.staticflickr.com/65535/52593377503_39c4f3a4b1_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=31.5889911&amp;lon=130.5510241&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Kagoshima Ginza Street, Kyushu, Japan】 by globetrekimages</p>',
       location: {
         center: [130.5510241, 31.5889911],
         zoom: 14,
@@ -116,8 +116,8 @@ const config = {
       hidden: false,
       title: '天文館',
       image: '',
-      tweet_id: '1604871369652523008',
-      description: '<p>   鹿児島県鹿児島市 千日町15</p><div class="tweetContainer" id="tweet1604871369652523008"></div> ',
+      tweet_id: '1605512543987896320',
+      description: '<p>   鹿児島県鹿児島市 千日町15</p><div class="tweetContainer" id="tweet1605512543987896320"></div> ',
       location: {
         center: [130.5551949, 31.5905709],
         zoom: 14,
@@ -176,8 +176,8 @@ const config = {
       hidden: false,
       title: 'ウォーターフロントパーク',
       image: '',
-      tweet_id: '1604312434784620546',
-      description: '<p>   鹿児島県鹿児島市 本港新町5</p><div class="tweetContainer" id="tweet1604312434784620546"></div> ',
+      tweet_id: '',
+      description: '<p>   鹿児島県鹿児島市 本港新町5</p> <p><img alt="_DSC7273" src="https://live.staticflickr.com/65535/50185245077_19915b2744_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=31.5935195&amp;lon=130.5631033&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【_DSC7273】 by de98lip</p>',
       location: {
         center: [130.5631033, 31.5935195],
         zoom: 14,
