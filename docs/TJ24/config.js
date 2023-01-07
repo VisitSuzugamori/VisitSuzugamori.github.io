@@ -16,8 +16,8 @@ const config = {
       hidden: false,
       title: '竜王駅',
       image: '',
-      tweet_id: '1606881094447648769',
-      description: '<p>   山梨県甲斐市 竜王新町464</p><div class="tweetContainer" id="tweet1606881094447648769"></div> ',
+      tweet_id: '1609486971478368258',
+      description: '<p>   山梨県甲斐市 竜王新町464</p><div class="tweetContainer" id="tweet1609486971478368258"></div> ',
       location: {
         center: [138.5193729, 35.6687078],
         zoom: 14,
@@ -36,8 +36,8 @@ const config = {
       hidden: false,
       title: '三社神社石鳥居',
       image: '',
-      tweet_id: '1606513901826445312',
-      description: '<p>   山梨県甲斐市 竜王1875</p><div class="tweetContainer" id="tweet1606513901826445312"></div> ',
+      tweet_id: '',
+      description: '<p>   山梨県甲斐市 竜王1875</p> <p><img alt="Two" src="https://live.staticflickr.com/6040/6263141869_2fd6ff0071_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.6684556&amp;lon=138.5022428&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Two】 by asksomeoneelse</p>',
       location: {
         center: [138.5022428, 35.6684556],
         zoom: 14,
@@ -136,8 +136,8 @@ const config = {
       hidden: false,
       title: '信玄堤公園',
       image: '',
-      tweet_id: '',
-      description: '<p>   山梨県甲斐市 竜王1891</p> <p><img alt="Two" src="https://live.staticflickr.com/6040/6263141869_2fd6ff0071_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.6674453&amp;lon=138.5019977&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Two】 by asksomeoneelse</p>',
+      tweet_id: '1609307012554162178',
+      description: '<p>   山梨県甲斐市 竜王1891</p><div class="tweetContainer" id="tweet1609307012554162178"></div> ',
       location: {
         center: [138.5019977, 35.6674453],
         zoom: 14,
@@ -336,8 +336,8 @@ const config = {
       hidden: false,
       title: '甲府駅',
       image: '',
-      tweet_id: '1605475378046197761',
-      description: '<p>   山梨県甲府市 丸の内一丁目3</p><div class="tweetContainer" id="tweet1605475378046197761"></div> ',
+      tweet_id: '1611145514862673920',
+      description: '<p>   山梨県甲府市 丸の内一丁目3</p><div class="tweetContainer" id="tweet1611145514862673920"></div> ',
       location: {
         center: [138.5690631, 35.6670981],
         zoom: 14,
