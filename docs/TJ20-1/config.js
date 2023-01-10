@@ -136,8 +136,8 @@ const config = {
       hidden: false,
       title: 'サンシャイン カルディア店',
       image: '',
-      tweet_id: '1608354670786772993',
-      description: '<p>6巻 P74  高知県南国市 後免町144</p><div class="tweetContainer" id="tweet1608354670786772993"></div> ',
+      tweet_id: '',
+      description: '<p>6巻 P74  高知県南国市 後免町144</p> ',
       location: {
         center: [133.6440005, 33.57513],
         zoom: 14,
@@ -156,8 +156,8 @@ const config = {
       hidden: false,
       title: 'はりまや橋',
       image: '',
-      tweet_id: '1607941893618565121',
-      description: '<p>6巻 P80  高知県高知市 はりまや町一丁目1</p><div class="tweetContainer" id="tweet1607941893618565121"></div> ',
+      tweet_id: '1611691727676375043',
+      description: '<p>6巻 P80  高知県高知市 はりまや町一丁目1</p><div class="tweetContainer" id="tweet1611691727676375043"></div> ',
       location: {
         center: [133.5426569, 33.5599438],
         zoom: 14,
@@ -197,7 +197,7 @@ const config = {
       title: 'ホームセンターブリコ 桟橋店',
       image: '',
       tweet_id: '',
-      description: '<p>6巻 P80  高知県高知市 孕西町214</p> <p><img alt="IMG_0336" src="https://live.staticflickr.com/606/31638778763_e4d8434946_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=33.5373806&amp;lon=133.5505423&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【IMG_0336】 by hiromori</p>',
+      description: '<p>6巻 P80  高知県高知市 孕西町214</p> <p><img alt="IMG_0337" src="https://live.staticflickr.com/417/31638786993_de6a43f139_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=33.5373806&amp;lon=133.5505423&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【IMG_0337】 by hiromori</p>',
       location: {
         center: [133.5505423, 33.5373806],
         zoom: 14,
@@ -256,8 +256,8 @@ const config = {
       hidden: false,
       title: '若宮八幡宮',
       image: '',
-      tweet_id: '',
-      description: '<p>6巻 P82  高知県高知市 長浜4063</p> ',
+      tweet_id: '1612257343907172353',
+      description: '<p>6巻 P82  高知県高知市 長浜4063</p><div class="tweetContainer" id="tweet1612257343907172353"></div> ',
       location: {
         center: [133.5439082, 33.4946664],
         zoom: 14,

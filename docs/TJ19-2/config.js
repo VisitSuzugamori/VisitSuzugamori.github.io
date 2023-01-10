@@ -16,8 +16,8 @@ const config = {
       hidden: false,
       title: '東京駅',
       image: '',
-      tweet_id: '1611149499887677440',
-      description: '<p>6巻 P38  東京都千代田区 丸の内一丁目9</p><div class="tweetContainer" id="tweet1611149499887677440"></div> ',
+      tweet_id: '1612094565623951360',
+      description: '<p>6巻 P38  東京都千代田区 丸の内一丁目9</p><div class="tweetContainer" id="tweet1612094565623951360"></div> ',
       location: {
         center: [139.7671248, 35.6812362],
         zoom: 14,
@@ -96,8 +96,8 @@ const config = {
       hidden: false,
       title: '道の駅 おおた',
       image: '',
-      tweet_id: '1608308902948667393',
-      description: '<p>6巻 P40  群馬県太田市 粕川町701</p><div class="tweetContainer" id="tweet1608308902948667393"></div> ',
+      tweet_id: '1611562228741984256',
+      description: '<p>6巻 P40  群馬県太田市 粕川町701</p><div class="tweetContainer" id="tweet1611562228741984256"></div> ',
       location: {
         center: [139.2959965, 36.2645224],
         zoom: 14,
@@ -136,8 +136,8 @@ const config = {
       hidden: false,
       title: '渋川駅',
       image: '',
-      tweet_id: '1608292908217819137',
-      description: '<p>6巻 P42  群馬県渋川市 渋川1655</p><div class="tweetContainer" id="tweet1608292908217819137"></div> ',
+      tweet_id: '1612265606899961858',
+      description: '<p>6巻 P42  群馬県渋川市 渋川1655</p><div class="tweetContainer" id="tweet1612265606899961858"></div> ',
       location: {
         center: [139.0087977, 36.4913217],
         zoom: 14,

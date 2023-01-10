@@ -16,8 +16,8 @@ const config = {
       hidden: false,
       title: '東京駅',
       image: '',
-      tweet_id: '1610545567012356097',
-      description: '<p>1巻 P126  東京都千代田区 丸の内一丁目9</p><div class="tweetContainer" id="tweet1610545567012356097"></div> ',
+      tweet_id: '1612329832175767555',
+      description: '<p>1巻 P126  東京都千代田区 丸の内一丁目9</p><div class="tweetContainer" id="tweet1612329832175767555"></div> ',
       location: {
         center: [139.7671248, 35.6812362],
         zoom: 14,
@@ -36,8 +36,8 @@ const config = {
       hidden: false,
       title: '岡山駅',
       image: '',
-      tweet_id: '1608307678400638976',
-      description: '<p>1巻 P130  岡山県岡山市 北区 駅元町11</p><div class="tweetContainer" id="tweet1608307678400638976"></div> ',
+      tweet_id: '1609060034532761600',
+      description: '<p>1巻 P130  岡山県岡山市 北区 駅元町11</p><div class="tweetContainer" id="tweet1609060034532761600"></div> ',
       location: {
         center: [133.9177335, 34.6661212],
         zoom: 14,
@@ -56,8 +56,8 @@ const config = {
       hidden: false,
       title: '高松駅',
       image: '',
-      tweet_id: '1608253234770239488',
-      description: '<p>1巻 P131  香川県高松市 西の丸町2</p><div class="tweetContainer" id="tweet1608253234770239488"></div> ',
+      tweet_id: '1612327326586667008',
+      description: '<p>1巻 P131  香川県高松市 西の丸町2</p><div class="tweetContainer" id="tweet1612327326586667008"></div> ',
       location: {
         center: [134.047056, 34.3504507],
         zoom: 14,
@@ -76,8 +76,8 @@ const config = {
       hidden: false,
       title: '高松築港駅',
       image: '',
-      tweet_id: '1608590274120253441',
-      description: '<p>1巻 P132  香川県高松市 寿町一丁目5</p><div class="tweetContainer" id="tweet1608590274120253441"></div> ',
+      tweet_id: '1611504391672168448',
+      description: '<p>1巻 P132  香川県高松市 寿町一丁目5</p><div class="tweetContainer" id="tweet1611504391672168448"></div> ',
       location: {
         center: [134.049468, 34.350757],
         zoom: 14,

@@ -16,8 +16,8 @@ const config = {
       hidden: false,
       title: '東京駅',
       image: '',
-      tweet_id: '1610823981950451712',
-      description: '<p>6巻 P132  東京都千代田区 丸の内一丁目9</p><div class="tweetContainer" id="tweet1610823981950451712"></div> ',
+      tweet_id: '1612250997711306753',
+      description: '<p>6巻 P132  東京都千代田区 丸の内一丁目9</p><div class="tweetContainer" id="tweet1612250997711306753"></div> ',
       location: {
         center: [139.7671248, 35.6812362],
         zoom: 14,
@@ -56,8 +56,8 @@ const config = {
       hidden: false,
       title: '坂本龍馬像',
       image: '',
-      tweet_id: '1608997832383684609',
-      description: '<p>6巻 P109  高知県高知市 浦戸6</p><div class="tweetContainer" id="tweet1608997832383684609"></div> ',
+      tweet_id: '1611646058852925442',
+      description: '<p>6巻 P109  高知県高知市 浦戸6</p><div class="tweetContainer" id="tweet1611646058852925442"></div> ',
       location: {
         center: [133.5754821, 33.4986187],
         zoom: 14,
@@ -76,8 +76,8 @@ const config = {
       hidden: false,
       title: '桂浜水族館',
       image: '',
-      tweet_id: '1607954290169241600',
-      description: '<p>6巻 P116  高知県高知市 浦戸778</p><div class="tweetContainer" id="tweet1607954290169241600"></div> ',
+      tweet_id: '',
+      description: '<p>6巻 P116  高知県高知市 浦戸778</p> <p><img alt="Urado Castle ruins (浦戸城跡)" src="https://live.staticflickr.com/65535/52068952264_27f3e0e513_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=33.4969444&amp;lon=133.5736111&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Urado Castle ruins (浦戸城跡)】 by pantkiewicz</p>',
       location: {
         center: [133.5736111, 33.4969444],
         zoom: 14,
@@ -97,7 +97,7 @@ const config = {
       title: '龍王宮',
       image: '',
       tweet_id: '',
-      description: '<p>6巻 P117  高知県高知市 浦戸830</p> <p><img alt="Ryuo-gu (龍王宮 海津見神社)" src="https://live.staticflickr.com/65535/52068716838_377865f237_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=33.4956281&amp;lon=133.5746555&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Ryuo-gu (龍王宮 海津見神社)】 by pantkiewicz</p>',
+      description: '<p>6巻 P117  高知県高知市 浦戸830</p> <p><img alt="Ryuo-gu (龍王宮 海津見神社)" src="https://live.staticflickr.com/65535/52068937229_51497753c5_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=33.4956281&amp;lon=133.5746555&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Ryuo-gu (龍王宮 海津見神社)】 by pantkiewicz</p>',
       location: {
         center: [133.5746555, 33.4956281],
         zoom: 14,
@@ -156,8 +156,8 @@ const config = {
       hidden: false,
       title: '奈半利駅',
       image: '',
-      tweet_id: '1609062741255360512',
-      description: '<p>6巻 P124  高知県安芸郡 奈半利町 乙978</p><div class="tweetContainer" id="tweet1609062741255360512"></div> ',
+      tweet_id: '1611866771476152321',
+      description: '<p>6巻 P124  高知県安芸郡 奈半利町 乙978</p><div class="tweetContainer" id="tweet1611866771476152321"></div> ',
       location: {
         center: [134.0180808, 33.4250302],
         zoom: 14,
@@ -256,8 +256,8 @@ const config = {
       hidden: false,
       title: '龍王岬展望台',
       image: '',
-      tweet_id: '',
-      description: '<p>6巻 P135  高知県高知市 浦戸830</p> <p><img alt="Ryuo-gu (龍王宮 海津見神社)" src="https://live.staticflickr.com/65535/52068937229_51497753c5_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=33.4955899&amp;lon=133.5743881&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Ryuo-gu (龍王宮 海津見神社)】 by pantkiewicz</p>',
+      tweet_id: '1611644151891730432',
+      description: '<p>6巻 P135  高知県高知市 浦戸830</p><div class="tweetContainer" id="tweet1611644151891730432"></div> ',
       location: {
         center: [133.5743881, 33.4955899],
         zoom: 14,

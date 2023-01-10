@@ -136,8 +136,8 @@ const config = {
       hidden: false,
       title: '宮島桟橋',
       image: '',
-      tweet_id: '1609430303612739585',
-      description: '<p>2巻 P151  広島県廿日市市 宮島町873</p><div class="tweetContainer" id="tweet1609430303612739585"></div> ',
+      tweet_id: '1612003645226385410',
+      description: '<p>2巻 P151  広島県廿日市市 宮島町873</p><div class="tweetContainer" id="tweet1612003645226385410"></div> ',
       location: {
         center: [132.3222151, 34.3020862],
         zoom: 14,
@@ -157,7 +157,7 @@ const config = {
       title: '嚴島神社 大鳥居（布の中）',
       image: '',
       tweet_id: '',
-      description: '<p>2巻 P152,153  </p> <p><img alt="The torii of Itsukushima Shrine at low tide, Miyajima" src="https://live.staticflickr.com/65535/52542634669_245ec416e2_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.2973092&amp;lon=132.3181276&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【The torii of Itsukushima Shrine at low tide, Miyajima】 by Hans ter Horst Photography</p>',
+      description: '<p>2巻 P152,153  </p> <p><img alt="Itsukushima Shrine torii gate during low tide" src="https://live.staticflickr.com/65535/52614695465_524e9e14d5_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.2973092&amp;lon=132.3181276&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Itsukushima Shrine torii gate during low tide】 by Francesco Dazzi</p>',
       location: {
         center: [132.3181276, 34.2973092],
         zoom: 14,

@@ -57,7 +57,7 @@ const config = {
       title: '灰の集積所',
       image: '',
       tweet_id: '',
-      description: '<p>   鹿児島県鹿児島市 西千石町1</p> <p><img alt="DSCN5977" src="https://live.staticflickr.com/65535/50189015397_c4c6a8175b_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=31.5869927&amp;lon=130.5472233&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【DSCN5977】 by JohnSeb</p>',
+      description: '<p>   鹿児島県鹿児島市 西千石町1</p> <p><img alt="Memorial on bridge" src="https://live.staticflickr.com/65535/50188804221_aa97551593_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=31.5869927&amp;lon=130.5472233&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Memorial on bridge】 by JohnSeb</p>',
       location: {
         center: [130.5472233, 31.5869927],
         zoom: 14,
@@ -77,7 +77,7 @@ const config = {
       title: '樺山、黒田、大いに語る碑',
       image: '',
       tweet_id: '',
-      description: '<p>   鹿児島県鹿児島市 西千石町17</p> <p><img alt="Kagoshima Ginza Street, Kyushu, Japan" src="https://live.staticflickr.com/65535/52593377503_39c4f3a4b1_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=31.5889911&amp;lon=130.5510241&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Kagoshima Ginza Street, Kyushu, Japan】 by globetrekimages</p>',
+      description: '<p>   鹿児島県鹿児島市 西千石町17</p> <p><img alt="Kagoshima Tram, Kyushu, Japan" src="https://live.staticflickr.com/65535/52616691953_aae7e7364a_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=31.5889911&amp;lon=130.5510241&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Kagoshima Tram, Kyushu, Japan】 by globetrekimages</p>',
       location: {
         center: [130.5510241, 31.5889911],
         zoom: 14,
@@ -97,7 +97,7 @@ const config = {
       title: 'くろいわラーメン 本店',
       image: '',
       tweet_id: '',
-      description: '<p>   鹿児島県鹿児島市 東千石町8</p> <p><img alt="IMG_7988" src="https://live.staticflickr.com/65535/51818578906_5282b508b5_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=31.5914029&amp;lon=130.553828&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【IMG_7988】 by Autumn Sweater</p>',
+      description: '<p>   鹿児島県鹿児島市 東千石町8</p> <p><img alt="Kagoshima Tram, Kyushu, Japan" src="https://live.staticflickr.com/65535/52574453901_e4d0369f54_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=31.5914029&amp;lon=130.553828&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Kagoshima Tram, Kyushu, Japan】 by globetrekimages</p>',
       location: {
         center: [130.553828, 31.5914029],
         zoom: 14,
@@ -137,7 +137,7 @@ const config = {
       title: '天文館むじゃき 本店',
       image: '',
       tweet_id: '',
-      description: '<p>   鹿児島県鹿児島市 千日町5</p> <p><img alt="kagoshima091" src="https://live.staticflickr.com/65535/49418973481_1b657aeab2_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=31.589238&amp;lon=130.555969&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【kagoshima091】 by tanayan</p>',
+      description: '<p>   鹿児島県鹿児島市 千日町5</p> <p><img alt="Kagoshima Tenmonkan Shopping Arcade, Japan" src="https://live.staticflickr.com/65535/52568189566_237243df57_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=31.589238&amp;lon=130.555969&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Kagoshima Tenmonkan Shopping Arcade, Japan】 by globetrekimages</p>',
       location: {
         center: [130.555969, 31.589238],
         zoom: 14,
