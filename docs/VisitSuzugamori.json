@@ -345,7 +345,7 @@
       "title": "第23旅 千葉",
       "place": "南房総市 館山市 富津市 安房郡鋸南町",
       "published": "2022, 電撃マオウ 7月号",
-      "books": null,
+      "books": "8巻",
       "subtitle": "激動せよ！2022年！",
       "camera": {"zoom": 10, "center": [139.879022, 35.1]}
     },
@@ -356,7 +356,7 @@
       "title": "第24旅 山梨",
       "place": "甲斐市 南アルプス市 甲府市",
       "published": "2022, 電撃マオウ 9月号",
-      "books": null,
+      "books": "8巻",
       "subtitle": "甲斐国での誓い",
       "camera": {"zoom": 12, "center": [138.4650811, 35.6624298]}
     },
@@ -367,22 +367,32 @@
       "title": "第25旅 鹿児島",
       "place": "鹿児島市",
       "published": "2022, 電撃マオウ 11月号",
-      "books": null,
+      "books": "8巻",
       "subtitle": "旅は自分に素直に",
       "camera": {"zoom": 12, "center": [130.61762359254158, 31.6]}
 
     },
-    "TJ26": {
+    "TJ26-1": {
       "index": 26,
-      "id": "TJ26",
+      "id": "TJ26-1",
       "key": "第26旅",
-      "title": "第26旅 徳島",
+      "title": "第26旅 徳島前編",
       "place": "江東区 徳島市",
       "published": "2022, 電撃マオウ 12月号",
-      "books": null,
+      "books": "8巻",
       "subtitle": "そこにも路はある！",
       "camera": {"zoom": 11, "center": [134.442508, 34.0439206]}
-
+    },
+    "TJ26-2": {
+      "index": 26,
+      "id": "TJ26-2",
+      "key": "第26旅",
+      "title": "第26旅 徳島後編",
+      "place": "徳島市 名西郡神山町 鳴門市",
+      "published": "2023, 電撃マオウ 2月号",
+      "books": null,
+      "subtitle": "ソノ場所ヘ至ル",
+      "camera": {"zoom": 11, "center": [134.442508, 34.0439206]}
     }
   },
   "extra_stories": {
@@ -395,16 +405,16 @@
     },
     "TJX02": {
       "id": "TJX02",
-      "title": "番外旅 載った！そして…！",
-      "place": "自宅",
-      "published": "2020, 電撃マオウ 10月号",
+      "title": "新しい挑戦！",
+      "place": "自宅 教習所",
+      "published": "2020, 電撃マオウ 9月号",
       "books": "4巻"
     },
     "TJX03": {
       "id": "TJX03",
-      "title": "番外旅 新しい挑戦！",
-      "place": "自宅 教習所",
-      "published": "ざつ旅4巻 描き下ろし",
+      "title": "番外旅 載った！そして…！",
+      "place": "自宅",
+      "published": "2020, 電撃マオウ 10月号",
       "books": "4巻"
     },
     "TJX04": {
@@ -434,7 +444,7 @@
       "place": "南魚沼市 魚沼市",
       "published": "電撃マオウ Encounter with the [Der Blaue Reiter] (『青騎士』第4号 特別小冊子)",
       "books": "7巻",
-      "pr": "https://dengekimaoh.jp/news/special/20211019.html"
+      "url": "https://dengekimaoh.jp/news/special/20211019.html"
     },
     "TJX08": {
       "id": "TJX08",
@@ -455,14 +465,53 @@
       "title": "番外旅 新しい始まり",
       "place": "自宅 角川第2本社ビル(千代田区富士見)",
       "published": "2022, 電撃マオウ 8月号",
-      "books": null
+      "books": "8巻"
     },
     "TJX11": {
       "id": "TJX11",
       "title": "番外旅 それはきっと近い未来",
       "place": "甲府駅 特急あずさ 自宅",
       "published": "2022, 電撃マオウ 10月号",
+      "books": "8巻"
+    },
+    "TJX1": {
+      "id": "TJX12",
+      "title": "あのしゅん間",
+      "place": "鵜木宅",
+      "published": "2022, 電撃マオウ 5月号？",
+      "books": "8巻",
+      "url": "https://comic-walker.com/viewer/?tw=2&dlcl=ja&cid=KDCW_AM01200853010118_68"
+    },
+    "TJX1": {
+      "id": "TJX13",
+      "title": "番外旅 日帰ろう二人旅",
+      "place": "自宅 西多摩郡奥多摩町 北都留郡丹波山村",
+      "published": "2023, 電撃マオウ 1月号",
       "books": null
+    },
+    "TJX91": {
+      "id": "TJX",
+      "title": "18旅で有ったかもしれないNGシーン風",
+      "place": "千代田区",
+      "published": "?",
+      "books": null,
+      "url": "https://comic-walker.com/viewer/?tw=2&dlcl=ja&cid=KDCW_AM01200853010085_68"
+    },
+    "TJX92": {
+      "id": "TJX",
+      "title": "次にくるマンガ大賞2021ノミネートされました！",
+      "place": "渋川市",
+      "published": "?",
+      "books": "6巻",
+      "url": "https://comic-walker.com/viewer/?tw=2&dlcl=ja&cid=KDCW_AM01200853010089_68"
+    },
+    "TJX93": {
+      "id": "TJX",
+      "title": "コミックス6巻発売告知",
+      "place": "高知市",
+      "published": "?",
+      "books": "6巻",
+      "url": "https://comic-walker.com/viewer/?tw=2&dlcl=ja&cid=KDCW_AM01200853010109_68"
     }
   },
   "books": {

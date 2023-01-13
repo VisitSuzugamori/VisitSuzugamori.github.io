@@ -359,7 +359,7 @@
                 "type": "Point"
             },
             "properties": {
-                "description": "1巻P87 第3旅<br>1巻P126 第4旅<br>4巻P93 第14旅<br>4巻P119 第15旅<br>5巻P3 第16旅（前編）<br>5巻P60 第17旅（前編）<br>5巻P136 第18旅<br>6巻P18 第19旅（前編）<br>6巻P38 第19旅（後編）<br>6巻P132 第20旅（後編）<br>出張版",
+                "description": "1巻P87 第3旅<br>1巻P126 第4旅<br>4巻P93 第14旅<br>4巻P119 第15旅<br>5巻P3 第16旅（前編）<br>5巻P60 第17旅（前編）<br>5巻P136 第18旅<br>6巻P18 第19旅（前編）<br>6巻P38 第19旅（後編）<br>6巻P132 第20旅（後編）<br>出張版<br>番外編",
                 "name": "東京駅"
             },
             "type": "Feature"
@@ -1109,6 +1109,20 @@
         {
             "geometry": {
                 "coordinates": [
+                    139.2637356,
+                    38.4875997
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "2巻P93 第7旅",
+                "name": "鳥崎展望台"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     136.592541,
                     34.8308664
                 ],
@@ -1423,7 +1437,7 @@
                 "type": "Point"
             },
             "properties": {
-                "description": "2巻P152,153 第9旅（前編）",
+                "description": "2巻P152,153 第9旅（前編）<br>ざつ旅現象総本山・布は既に取れています。",
                 "name": "嚴島神社 大鳥居（布の中）"
             },
             "type": "Feature"
@@ -1857,7 +1871,7 @@
                 "type": "Point"
             },
             "properties": {
-                "description": "3巻P71 第11旅",
+                "description": "3巻P71 第11旅<br>8巻 P149 第26旅",
                 "name": "潮岬観光タワー"
             },
             "type": "Feature"
@@ -2669,7 +2683,7 @@
                 "type": "Point"
             },
             "properties": {
-                "description": "4巻P109 第14旅",
+                "description": "4巻P109 第14旅<br>番外編",
                 "name": "奥多摩駅"
             },
             "type": "Feature"
@@ -5315,7 +5329,7 @@
                 "type": "Point"
             },
             "properties": {
-                "description": "7巻 P97 第22旅（後編）",
+                "description": "7巻 P97 第22旅（後編）<br>8巻 P45 番外編",
                 "name": "角川第2本社ビル"
             },
             "type": "Feature"
@@ -5673,13 +5687,27 @@
         {
             "geometry": {
                 "coordinates": [
+                    139.8876262,
+                    34.9025647
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "8巻 P3,18 第23旅",
+                "name": "南房総国定公園 野島崎(白浜野島崎園地)"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     139.9547124,
                     34.9767087
                 ],
                 "type": "Point"
             },
             "properties": {
-                "description": "第23旅",
+                "description": "8巻 P4 第23旅",
                 "name": "千倉駅"
             },
             "type": "Feature"
@@ -5693,7 +5721,7 @@
                 "type": "Point"
             },
             "properties": {
-                "description": "第23旅",
+                "description": "8巻 P5 第23旅",
                 "name": "瀬戸浜海岸"
             },
             "type": "Feature"
@@ -5707,7 +5735,7 @@
                 "type": "Point"
             },
             "properties": {
-                "description": "第23旅",
+                "description": "8巻 P6 第23旅",
                 "name": "川尻橋"
             },
             "type": "Feature"
@@ -5721,7 +5749,7 @@
                 "type": "Point"
             },
             "properties": {
-                "description": "第23旅",
+                "description": "8巻 P7 第23旅",
                 "name": "南房総市観光協会千倉観光案内所(千倉駅構内)"
             },
             "type": "Feature"
@@ -5735,7 +5763,7 @@
                 "type": "Point"
             },
             "properties": {
-                "description": "第23旅",
+                "description": "8巻 P7 第23旅",
                 "name": "寿司と地魚料理 大徳家"
             },
             "type": "Feature"
@@ -5749,7 +5777,7 @@
                 "type": "Point"
             },
             "properties": {
-                "description": "第23旅",
+                "description": "8巻 P8 第23旅",
                 "name": "千葉銀行 千倉支店"
             },
             "type": "Feature"
@@ -5763,7 +5791,7 @@
                 "type": "Point"
             },
             "properties": {
-                "description": "第23旅",
+                "description": "8巻 P9 第23旅",
                 "name": "とん亭いとう"
             },
             "type": "Feature"
@@ -5777,7 +5805,7 @@
                 "type": "Point"
             },
             "properties": {
-                "description": "第23旅",
+                "description": "8巻 P10 第23旅",
                 "name": "大川港"
             },
             "type": "Feature"
@@ -5791,7 +5819,7 @@
                 "type": "Point"
             },
             "properties": {
-                "description": "第23旅",
+                "description": "8巻 P10 第23旅",
                 "name": "高皇産霊神社"
             },
             "type": "Feature"
@@ -5805,7 +5833,7 @@
                 "type": "Point"
             },
             "properties": {
-                "description": "第23旅",
+                "description": "8巻 P13 第23旅",
                 "name": "房総半島最南端之碑"
             },
             "type": "Feature"
@@ -5819,7 +5847,7 @@
                 "type": "Point"
             },
             "properties": {
-                "description": "第23旅",
+                "description": "8巻 P13 第23旅",
                 "name": "野島埼灯台"
             },
             "type": "Feature"
@@ -5833,7 +5861,7 @@
                 "type": "Point"
             },
             "properties": {
-                "description": "第23旅",
+                "description": "8巻 P14 第23旅",
                 "name": "最南端"
             },
             "type": "Feature"
@@ -5847,7 +5875,7 @@
                 "type": "Point"
             },
             "properties": {
-                "description": "第23旅",
+                "description": "8巻 P21 第23旅",
                 "name": "安房神社"
             },
             "type": "Feature"
@@ -5861,7 +5889,7 @@
                 "type": "Point"
             },
             "properties": {
-                "description": "第23旅",
+                "description": "8巻 P23 第23旅",
                 "name": "浜金谷駅"
             },
             "type": "Feature"
@@ -5875,7 +5903,7 @@
                 "type": "Point"
             },
             "properties": {
-                "description": "第23旅",
+                "description": "8巻 P23 第23旅",
                 "name": "鋸山ロープウェー"
             },
             "type": "Feature"
@@ -5889,7 +5917,7 @@
                 "type": "Point"
             },
             "properties": {
-                "description": "電撃マオウ200号表紙<br>第23旅",
+                "description": "電撃マオウ200号表紙<br>8巻 P1,24 第23旅",
                 "name": "鋸山山頂"
             },
             "type": "Feature"
@@ -5903,7 +5931,7 @@
                 "type": "Point"
             },
             "properties": {
-                "description": "第23旅",
+                "description": "8巻 P27 第23旅",
                 "name": "西口管理所"
             },
             "type": "Feature"
@@ -5917,7 +5945,7 @@
                 "type": "Point"
             },
             "properties": {
-                "description": "第23旅",
+                "description": "8巻 P28 第23旅",
                 "name": "石切場跡(ラピュタの壁)"
             },
             "type": "Feature"
@@ -5931,7 +5959,7 @@
                 "type": "Point"
             },
             "properties": {
-                "description": "第23旅",
+                "description": "8巻 P29 第23旅",
                 "name": "百尺観音"
             },
             "type": "Feature"
@@ -5945,7 +5973,7 @@
                 "type": "Point"
             },
             "properties": {
-                "description": "第23旅",
+                "description": "8巻 P29 第23旅",
                 "name": "山頂展望台地獄のぞき"
             },
             "type": "Feature"
@@ -5959,7 +5987,7 @@
                 "type": "Point"
             },
             "properties": {
-                "description": "第23旅",
+                "description": "8巻 P29 第23旅",
                 "name": "千五百羅漢"
             },
             "type": "Feature"
@@ -5973,7 +6001,7 @@
                 "type": "Point"
             },
             "properties": {
-                "description": "第23旅",
+                "description": "8巻 P29 第23旅",
                 "name": "通天関"
             },
             "type": "Feature"
@@ -5987,8 +6015,36 @@
                 "type": "Point"
             },
             "properties": {
-                "description": "第23旅",
+                "description": "8巻 P30 第23旅",
                 "name": "日本寺 大仏"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    139.8882015,
+                    34.9002208
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "8巻 P35 第23旅",
+                "name": "朝日と夕日の見えるベンチ"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    139.8286301,
+                    35.1583161
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "8巻 P51 番外編",
+                "name": "ヤッホー看板"
             },
             "type": "Feature"
         },
@@ -6001,7 +6057,7 @@
                 "type": "Point"
             },
             "properties": {
-                "description": "第24旅",
+                "description": "8巻 P53 第24旅",
                 "name": "竜王駅"
             },
             "type": "Feature"
@@ -6015,7 +6071,7 @@
                 "type": "Point"
             },
             "properties": {
-                "description": "第24旅",
+                "description": "8巻 P54 第24旅",
                 "name": "三社神社石鳥居"
             },
             "type": "Feature"
@@ -6029,7 +6085,7 @@
                 "type": "Point"
             },
             "properties": {
-                "description": "第24旅",
+                "description": "8巻 P56 第24旅",
                 "name": "新町下公民館"
             },
             "type": "Feature"
@@ -6043,7 +6099,7 @@
                 "type": "Point"
             },
             "properties": {
-                "description": "第24旅",
+                "description": "8巻 P57 第24旅",
                 "name": "道祖神"
             },
             "type": "Feature"
@@ -6057,7 +6113,7 @@
                 "type": "Point"
             },
             "properties": {
-                "description": "第24旅",
+                "description": "8巻 P58 第24旅",
                 "name": "竜王北小学校前横断歩道橋"
             },
             "type": "Feature"
@@ -6071,7 +6127,7 @@
                 "type": "Point"
             },
             "properties": {
-                "description": "第24旅",
+                "description": "8巻 P59 第24旅",
                 "name": "信玄堤散策コース"
             },
             "type": "Feature"
@@ -6085,7 +6141,7 @@
                 "type": "Point"
             },
             "properties": {
-                "description": "第24旅",
+                "description": "8巻 P61 第24旅",
                 "name": "信玄堤公園"
             },
             "type": "Feature"
@@ -6099,7 +6155,7 @@
                 "type": "Point"
             },
             "properties": {
-                "description": "第24旅",
+                "description": "8巻 P62 第24旅",
                 "name": "信玄堤"
             },
             "type": "Feature"
@@ -6113,7 +6169,7 @@
                 "type": "Point"
             },
             "properties": {
-                "description": "第24旅",
+                "description": "8巻 P63 第24旅",
                 "name": "信玄橋"
             },
             "type": "Feature"
@@ -6127,7 +6183,7 @@
                 "type": "Point"
             },
             "properties": {
-                "description": "第24旅",
+                "description": "8巻 P64 第24旅",
                 "name": "南アルプス市 ふるさと文化伝承館"
             },
             "type": "Feature"
@@ -6141,7 +6197,7 @@
                 "type": "Point"
             },
             "properties": {
-                "description": "第24旅",
+                "description": "8巻 P66 第24旅",
                 "name": "菓子処 松の屋"
             },
             "type": "Feature"
@@ -6155,7 +6211,7 @@
                 "type": "Point"
             },
             "properties": {
-                "description": "第24旅",
+                "description": "8巻 P67 第24旅",
                 "name": "芦安温泉 岩園館"
             },
             "type": "Feature"
@@ -6169,7 +6225,7 @@
                 "type": "Point"
             },
             "properties": {
-                "description": "第24旅",
+                "description": "8巻 P73 第24旅",
                 "name": "晴れてよかった"
             },
             "type": "Feature"
@@ -6183,7 +6239,7 @@
                 "type": "Point"
             },
             "properties": {
-                "description": "第24旅",
+                "description": "8巻 P75 第24旅",
                 "name": "八重森理容本店"
             },
             "type": "Feature"
@@ -6197,7 +6253,7 @@
                 "type": "Point"
             },
             "properties": {
-                "description": "第24旅",
+                "description": "8巻 P78 第24旅",
                 "name": "高尾穂見神社"
             },
             "type": "Feature"
@@ -6211,7 +6267,7 @@
                 "type": "Point"
             },
             "properties": {
-                "description": "第24旅",
+                "description": "8巻 P81 第24旅",
                 "name": "開国橋"
             },
             "type": "Feature"
@@ -6225,7 +6281,7 @@
                 "type": "Point"
             },
             "properties": {
-                "description": "第24旅",
+                "description": "8巻 P83 第24旅",
                 "name": "甲府駅"
             },
             "type": "Feature"
@@ -6239,8 +6295,50 @@
                 "type": "Point"
             },
             "properties": {
-                "description": "第24旅",
+                "description": "8巻 P83 第24旅",
                 "name": "武田信玄公之像"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    138.4565008,
+                    35.6718529
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "8巻 P85 第24旅",
+                "name": "竜岡将棋頭"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    138.519533,
+                    35.6685855
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "8巻 P95 番外編2",
+                "name": "さすり石"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    130.7033157,
+                    31.5570611
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "8巻 P100 第25旅",
+                "name": "桜島口"
             },
             "type": "Feature"
         },
@@ -6253,7 +6351,7 @@
                 "type": "Point"
             },
             "properties": {
-                "description": "第25旅",
+                "description": "8巻 P101 第25旅",
                 "name": "鹿児島中央駅"
             },
             "type": "Feature"
@@ -6267,7 +6365,7 @@
                 "type": "Point"
             },
             "properties": {
-                "description": "第25旅",
+                "description": "8巻 P102 第25旅",
                 "name": "大久保利通像"
             },
             "type": "Feature"
@@ -6281,7 +6379,7 @@
                 "type": "Point"
             },
             "properties": {
-                "description": "第25旅",
+                "description": "8巻 P103 第25旅",
                 "name": "灰の集積所"
             },
             "type": "Feature"
@@ -6295,7 +6393,7 @@
                 "type": "Point"
             },
             "properties": {
-                "description": "第25旅",
+                "description": "8巻 P104 第25旅",
                 "name": "樺山、黒田、大いに語る碑"
             },
             "type": "Feature"
@@ -6309,7 +6407,7 @@
                 "type": "Point"
             },
             "properties": {
-                "description": "第25旅",
+                "description": "8巻 P104 第25旅",
                 "name": "くろいわラーメン 本店"
             },
             "type": "Feature"
@@ -6323,7 +6421,7 @@
                 "type": "Point"
             },
             "properties": {
-                "description": "第25旅",
+                "description": "8巻 P106 第25旅",
                 "name": "天文館"
             },
             "type": "Feature"
@@ -6337,7 +6435,7 @@
                 "type": "Point"
             },
             "properties": {
-                "description": "第25旅",
+                "description": "8巻 P106 第25旅",
                 "name": "天文館むじゃき 本店"
             },
             "type": "Feature"
@@ -6351,7 +6449,7 @@
                 "type": "Point"
             },
             "properties": {
-                "description": "第25旅",
+                "description": "8巻 P107 第25旅",
                 "name": "山形屋1号館"
             },
             "type": "Feature"
@@ -6365,7 +6463,7 @@
                 "type": "Point"
             },
             "properties": {
-                "description": "第25旅",
+                "description": "8巻 P109 第25旅",
                 "name": "ウォーターフロントパーク"
             },
             "type": "Feature"
@@ -6379,7 +6477,7 @@
                 "type": "Point"
             },
             "properties": {
-                "description": "第25旅",
+                "description": "8巻 P109 第25旅",
                 "name": "桜島フェリー乗り場"
             },
             "type": "Feature"
@@ -6393,22 +6491,8 @@
                 "type": "Point"
             },
             "properties": {
-                "description": "第25旅",
+                "description": "8巻 P110 第25旅",
                 "name": "桜島シーサイドホテル"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    130.7033157,
-                    31.5570611
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "description": "第25旅",
-                "name": "桜島口"
             },
             "type": "Feature"
         },
@@ -6421,7 +6505,7 @@
                 "type": "Point"
             },
             "properties": {
-                "description": "第25旅",
+                "description": "8巻 P117 第25旅<br>8巻表紙",
                 "name": "黒神埋没鳥居"
             },
             "type": "Feature"
@@ -6435,7 +6519,7 @@
                 "type": "Point"
             },
             "properties": {
-                "description": "第25旅",
+                "description": "8巻 P118 第25旅",
                 "name": "椿の里(椿チャンポン)"
             },
             "type": "Feature"
@@ -6449,8 +6533,22 @@
                 "type": "Point"
             },
             "properties": {
-                "description": "第25旅",
+                "description": "8巻 P121 第25旅",
                 "name": "桜島港フェリーターミナル"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    130.6611474,
+                    31.5530478
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "8巻 P129 第25旅",
+                "name": "待避壕"
             },
             "type": "Feature"
         },
@@ -6463,7 +6561,7 @@
                 "type": "Point"
             },
             "properties": {
-                "description": "第26旅",
+                "description": "8巻 P135 第26旅（前編）",
                 "name": "有明埠頭橋"
             },
             "type": "Feature"
@@ -6477,8 +6575,344 @@
                 "type": "Point"
             },
             "properties": {
-                "description": "第26旅",
+                "description": "8巻 P136 第26旅（前編）",
                 "name": "東京港フェリーターミナル"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    139.8288838,
+                    35.6122153
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "8巻 P144 第26旅（前編）",
+                "name": "東京ゲートブリッジ"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    134.5966435,
+                    34.0540334
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "8巻 P152 第26旅（前編）",
+                "name": "オーシャン東九フェリー 徳島港 (沖洲) のりば"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    138.9240625,
+                    35.7895626
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "番外編",
+                "name": "道の駅 たばやま"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    138.9257026,
+                    35.7883153
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "番外編",
+                "name": "丹波山温泉 のめこい湯"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    134.5490887,
+                    34.0686278
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "第26旅（後編）",
+                "name": "阿波おどり人形"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    134.5872961,
+                    34.0536339
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "第26旅（後編）",
+                "name": "四国横断自動車道 徳島南部自動車道 新町川橋"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    134.5862744,
+                    34.058427
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "第26旅（後編）",
+                "name": "海女料理 ししくい"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    134.587699,
+                    34.061682
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "第26旅（後編）",
+                "name": "谷川モータース"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    134.5889098,
+                    34.0648339
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "第26旅（後編）",
+                "name": "モダンパック 徳島店"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    134.5513574,
+                    34.0744574
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "第26旅（後編）",
+                "name": "徳島駅"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    134.5502762,
+                    34.0741023
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "第26旅（後編）",
+                "name": "旅館組合 宿泊案内所 (観光案内はしません‼️)"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    134.5486315,
+                    34.0715266
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "第26旅（後編）",
+                "name": "新町橋"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    134.548539,
+                    34.0711498
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "第26旅（後編）",
+                "name": "ゆれる～"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    134.5496149,
+                    34.068563
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "第26旅（後編）",
+                "name": "銀座一福 本店"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    134.3701509,
+                    33.9740109
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "第26旅（後編）",
+                "name": "神山温泉バス停"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    134.3699952,
+                    33.9718748
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "第26旅（後編）",
+                "name": "神山温泉ホテル四季の里＆いやしの湯"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    134.3668724,
+                    33.9708999
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "第26旅（後編）",
+                "name": "上一宮大粟神社"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    134.4628565,
+                    34.0380181
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "第26旅（後編）",
+                "name": "大日寺"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    134.4757069,
+                    34.0502992
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "第26旅（後編）",
+                "name": "常楽寺"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    134.4736354,
+                    34.0556179
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "第26旅（後編）",
+                "name": "國分寺"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    134.4743836,
+                    34.0685003
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "第26旅（後編）",
+                "name": "観音寺"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    134.6403296,
+                    34.2341614
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "第26旅（後編）",
+                "name": "渦見茶屋"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    134.6419817,
+                    34.23617
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "第26旅（後編）",
+                "name": "大鳴門橋遊歩道 渦の道"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    134.6423874,
+                    34.2369194
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "第26旅（後編）<br>電撃マオウ2023年2月号表紙",
+                "name": "名勝 鳴門 碑"
             },
             "type": "Feature"
         }
