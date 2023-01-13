@@ -84,7 +84,7 @@ function indexByStory(data) {
         book = parseInt(match_b[1], 10);
       }
 
-      const match_p = chunk.match(/(?:\d{1,3})巻P(\d{1,3},?\d{0,3})(?:\s|$)/);
+      const match_p = chunk.match(/(?:\d{1,3})巻\s?P(\d{1,3},?\d{0,3})(?:\s|$)/);
       if (Array.isArray(match_p)) {
         page = match_p[1];
       }
