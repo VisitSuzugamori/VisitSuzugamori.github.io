@@ -123,7 +123,7 @@
             col.classList.add(key);
             if (key === 'books') {
               col.classList.add(className);
-              if (Object.hasOwn(item, url)) {
+              if (Object.hasOwn(item, 'url')) {
                 const link = document.createElement('a');
                 link.href = item.url;
                 link.textContent = 'url';
