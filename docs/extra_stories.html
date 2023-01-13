@@ -44,7 +44,7 @@
   td.book5 { color: #00be74; }
   td.book6 { color: #f24773; }
   td.book7 { color: #55b1dc; }
-  td.book8 { color: #333; }
+  td.book8 { color: #d90b36; }
   td.book9 { color: #333; }
   .note { font-size: 80%; }
   .note::before {
@@ -108,9 +108,9 @@
         return response.json();
       })
       .then((data) => {
-        Object.values(data.extra_stories).forEach((val) => {
-          const tjx = val.id.replace('TJX', '');
-          const books = val.books || '0';
+        Object.values(data.extra_stories).forEach((item) => {
+          const tjx = item.id.replace('TJX', '');
+          const books = item.books || '0';
           const className = books.replace(/(\d{0,2})\D*/, 'book$1');
           const row = document.createElement('tr');
           for (const key of ['id', 'title', 'place', 'published', 'books']) {
@@ -118,11 +118,17 @@
             if (key === 'id') {
               col.textContent = tjx;
             } else {
-              col.textContent = val[key];
+              col.textContent = item[key];
             }
             col.classList.add(key);
             if (key === 'books') {
               col.classList.add(className);
+              if (Object.hasOwn(item, url)) {
+                const link = document.createElement('a');
+                link.href = item.url;
+                link.textContent = 'url';
+                col.appendChild(link);
+              }
             }
             row.appendChild(col);
           }
