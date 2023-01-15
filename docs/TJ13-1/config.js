@@ -156,8 +156,8 @@ const config = {
       hidden: false,
       title: '出雲大社 勢溜の大鳥居',
       image: '',
-      tweet_id: '1610844841704824834',
-      description: '<p>3巻 P139  島根県出雲市 大社町杵築東3286</p><div class="tweetContainer" id="tweet1610844841704824834"></div> ',
+      tweet_id: '',
+      description: '<p>3巻 P139  島根県出雲市 大社町杵築東3286</p> <p><img alt="20220921_鳥取大山登山＆山口帰省_169" src="https://live.staticflickr.com/65535/52380356378_c60a3f29e1_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.3967051&amp;lon=132.6863743&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【20220921_鳥取大山登山＆山口帰省_169】 by jinmsk</p>',
       location: {
         center: [132.6863743, 35.3967051],
         zoom: 14,
@@ -256,8 +256,8 @@ const config = {
       hidden: false,
       title: '稲佐の浜(弁天島)',
       image: '',
-      tweet_id: '',
-      description: '<p>3巻 P143  島根県出雲市 大社町杵築北2844</p> <p><img alt="Bentenjima" src="https://live.staticflickr.com/65535/51820613402_82c2847af9_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.4003035&amp;lon=132.6719106&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Bentenjima】 by 雷太</p>',
+      tweet_id: '1614184463851978758',
+      description: '<p>3巻 P143  島根県出雲市 大社町杵築北2844</p><div class="tweetContainer" id="tweet1614184463851978758"></div> ',
       location: {
         center: [132.6719106, 35.4003035],
         zoom: 14,
@@ -336,8 +336,8 @@ const config = {
       hidden: false,
       title: '松江城',
       image: '',
-      tweet_id: '1612300518302560256',
-      description: '<p>3巻 P150  島根県松江市 殿町1</p><div class="tweetContainer" id="tweet1612300518302560256"></div> ',
+      tweet_id: '1614170595700400132',
+      description: '<p>3巻 P150  島根県松江市 殿町1</p><div class="tweetContainer" id="tweet1614170595700400132"></div> ',
       location: {
         center: [133.0506783, 35.4751335],
         zoom: 14,

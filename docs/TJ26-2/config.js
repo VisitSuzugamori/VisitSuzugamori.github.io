@@ -17,7 +17,7 @@ const config = {
       title: '阿波おどり人形',
       image: '',
       tweet_id: '',
-      description: '<p>   徳島県徳島市 銀座7</p> <p><img alt="DSC_0922" src="https://live.staticflickr.com/65535/50869270052_1d66412aea_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.0686278&amp;lon=134.5490887&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【DSC_0922】 by Kuruman</p>',
+      description: '<p>   徳島県徳島市 銀座7</p> <p><img alt="DSC02552" src="https://live.staticflickr.com/65535/50869269987_e3a53356fd_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.0686278&amp;lon=134.5490887&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【DSC02552】 by Kuruman</p>',
       location: {
         center: [134.5490887, 34.0686278],
         zoom: 14,
@@ -337,7 +337,7 @@ const config = {
       title: '観音寺',
       image: '',
       tweet_id: '',
-      description: '<p>   徳島県徳島市 国府町観音寺49</p> <p><img alt="16" src="https://live.staticflickr.com/65535/50058554238_79ddf49cc8_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.0685003&amp;lon=134.4743836&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【16】 by aldoschwartz01</p>',
+      description: '<p>   徳島県徳島市 国府町観音寺49</p> <p><img alt="十六番札所 観音寺" src="https://live.staticflickr.com/65535/50099446932_9a76652ec8_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.0685003&amp;lon=134.4743836&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【十六番札所 観音寺】 by JH1FJP</p>',
       location: {
         center: [134.4743836, 34.0685003],
         zoom: 14,

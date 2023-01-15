@@ -236,8 +236,8 @@ const config = {
       hidden: false,
       title: '野島埼灯台',
       image: '',
-      tweet_id: '1610465843028058112',
-      description: '<p>8巻 P13  千葉県南房総市 </p><div class="tweetContainer" id="tweet1610465843028058112"></div> ',
+      tweet_id: '',
+      description: '<p>8巻 P13  千葉県南房総市 </p> <p><img alt="B/W #1770" src="https://live.staticflickr.com/65535/51783292992_1b89c90d76_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.9017272&amp;lon=139.8883406&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【B/W #1770】 by Ville Misaki</p>',
       location: {
         center: [139.8883406, 34.9017272],
         zoom: 14,
@@ -256,8 +256,8 @@ const config = {
       hidden: false,
       title: '最南端',
       image: '',
-      tweet_id: '1610188355563819009',
-      description: '<p>8巻 P14  千葉県南房総市 </p><div class="tweetContainer" id="tweet1610188355563819009"></div> ',
+      tweet_id: '1612624889722306561',
+      description: '<p>8巻 P14  千葉県南房総市 </p><div class="tweetContainer" id="tweet1612624889722306561"></div> ',
       location: {
         center: [139.879022, 34.904775],
         zoom: 14,

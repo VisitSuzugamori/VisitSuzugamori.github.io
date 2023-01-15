@@ -17,7 +17,7 @@ const config = {
       title: '桜島口',
       image: '',
       tweet_id: '',
-      description: '<p>8巻 P100  鹿児島県鹿児島市 </p> <p><img alt="20120220-_DSC6318" src="https://live.staticflickr.com/4753/39732007272_050f1228c6_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=31.5570611&amp;lon=130.7033157&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【20120220-_DSC6318】 by Fomal Haut</p>',
+      description: '<p>8巻 P100  鹿児島県鹿児島市 </p> <p><img alt="20120220-_DSC6320" src="https://live.staticflickr.com/4614/24894041117_e502d0897a_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=31.5570611&amp;lon=130.7033157&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【20120220-_DSC6320】 by Fomal Haut</p>',
       location: {
         center: [130.7033157, 31.5570611],
         zoom: 14,
@@ -36,8 +36,8 @@ const config = {
       hidden: false,
       title: '鹿児島中央駅',
       image: '',
-      tweet_id: '1610393053466071040',
-      description: '<p>8巻 P101  鹿児島県鹿児島市 武一丁目1</p><div class="tweetContainer" id="tweet1610393053466071040"></div> ',
+      tweet_id: '1612215705805684741',
+      description: '<p>8巻 P101  鹿児島県鹿児島市 武一丁目1</p><div class="tweetContainer" id="tweet1612215705805684741"></div> ',
       location: {
         center: [130.5417154, 31.5836893],
         zoom: 14,
@@ -57,7 +57,7 @@ const config = {
       title: '大久保利通像',
       image: '',
       tweet_id: '',
-      description: '<p>8巻 P102  鹿児島県鹿児島市 西田一丁目5</p> <p><img alt="鹿児島路面電車" src="https://live.staticflickr.com/65535/50793380102_8822e6275a_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=31.586563&amp;lon=130.5461068&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【鹿児島路面電車】 by Chitaka Chou</p>',
+      description: '<p>8巻 P102  鹿児島県鹿児島市 西田一丁目5</p> <p><img alt="DSCN6023" src="https://live.staticflickr.com/65535/50189055477_ba9e0bb41f_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=31.586563&amp;lon=130.5461068&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【DSCN6023】 by JohnSeb</p>',
       location: {
         center: [130.5461068, 31.586563],
         zoom: 14,
@@ -237,7 +237,7 @@ const config = {
       title: '桜島シーサイドホテル',
       image: '',
       tweet_id: '',
-      description: '<p>8巻 P110  鹿児島県鹿児島市 古里町1076</p> <p><img alt="20120221-_DSC7573" src="https://live.staticflickr.com/4604/24900372627_30712b9034_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=31.5521501&amp;lon=130.6587304&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【20120221-_DSC7573】 by Fomal Haut</p>',
+      description: '<p>8巻 P110  鹿児島県鹿児島市 古里町1076</p> <p><img alt="20120220-_DSC7099" src="https://live.staticflickr.com/4663/39763570861_cef074cb69_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=31.5521501&amp;lon=130.6587304&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【20120220-_DSC7099】 by Fomal Haut</p>',
       location: {
         center: [130.6587304, 31.5521501],
         zoom: 14,
