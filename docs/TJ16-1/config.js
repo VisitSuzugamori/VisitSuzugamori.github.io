@@ -56,8 +56,8 @@ const config = {
       hidden: false,
       title: '水戸駅',
       image: '',
-      tweet_id: '1611581530723471360',
-      description: '<p>5巻 P7  茨城県水戸市 宮町一丁目7</p><div class="tweetContainer" id="tweet1611581530723471360"></div> ',
+      tweet_id: '1613378368845778944',
+      description: '<p>5巻 P7  茨城県水戸市 宮町一丁目7</p><div class="tweetContainer" id="tweet1613378368845778944"></div> ',
       location: {
         center: [140.4762789, 36.3707326],
         zoom: 14,
@@ -137,7 +137,7 @@ const config = {
       title: '常陸太田市観光案内センター',
       image: '',
       tweet_id: '',
-      description: '<p>5巻 P12  茨城県常陸太田市 山下町977</p> <p><img alt="カメラロール-898" src="https://live.staticflickr.com/8371/8584637147_cb89a94bc9_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=36.5310286&amp;lon=140.527941&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【カメラロール-898】 by tottoko_8686</p>',
+      description: '<p>5巻 P12  茨城県常陸太田市 山下町977</p> <p><img alt="カメラロール-899" src="https://live.staticflickr.com/8247/8584638155_f528418c5e_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=36.5310286&amp;lon=140.527941&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【カメラロール-899】 by tottoko_8686</p>',
       location: {
         center: [140.527941, 36.5310286],
         zoom: 14,

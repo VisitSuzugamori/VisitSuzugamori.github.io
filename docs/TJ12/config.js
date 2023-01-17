@@ -56,8 +56,8 @@ const config = {
       hidden: false,
       title: '宮沢賢治記念館',
       image: '',
-      tweet_id: '1611162611244236800',
-      description: '<p>3巻 P91  岩手県花巻市 矢沢第一地割15</p><div class="tweetContainer" id="tweet1611162611244236800"></div> ',
+      tweet_id: '',
+      description: '<p>3巻 P91  岩手県花巻市 矢沢第一地割15</p> <p><img alt="20200201_111209" src="https://live.staticflickr.com/65535/49525100391_19659df9aa_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=39.3992073&amp;lon=141.1626699&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【20200201_111209】 by honhong1598</p>',
       location: {
         center: [141.1626699, 39.3992073],
         zoom: 14,
@@ -197,7 +197,7 @@ const config = {
       title: '渡り温泉 ホテルさつき・別邸楓',
       image: '',
       tweet_id: '',
-      description: '<p>3巻 P112  岩手県花巻市 湯口字渡り24</p> <p><img alt="昼食(・∀・)" src="https://live.staticflickr.com/3760/13573336873_6cf9330c2c_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=39.4256925&amp;lon=141.0151992&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【昼食(・∀・)】 by ともぞう</p>',
+      description: '<p>3巻 P112  岩手県花巻市 湯口字渡り24</p> <p><img alt="DSC00096" src="https://live.staticflickr.com/5721/31313355952_df5b570cf9_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=39.4256925&amp;lon=141.0151992&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【DSC00096】 by DYKT Mohigan</p>',
       location: {
         center: [141.0151992, 39.4256925],
         zoom: 14,

@@ -97,7 +97,7 @@ const config = {
       title: '竜王北小学校前横断歩道橋',
       image: '',
       tweet_id: '',
-      description: '<p>8巻 P58  山梨県甲斐市 竜王1047</p> <p><img alt="Mount Fuji viewed from the train" src="https://live.staticflickr.com/2440/3540651804_82cc689bbc_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.6678647&amp;lon=138.5078418&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Mount Fuji viewed from the train】 by mutantlog</p>',
+      description: '<p>8巻 P58  山梨県甲斐市 竜王1047</p> <p><img alt="Mount Fuji viewed from the train" src="https://live.staticflickr.com/2084/3539841241_2738ddcbfd_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.6678647&amp;lon=138.5078418&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Mount Fuji viewed from the train】 by mutantlog</p>',
       location: {
         center: [138.5078418, 35.6678647],
         zoom: 14,
@@ -177,7 +177,7 @@ const config = {
       title: '信玄橋',
       image: '',
       tweet_id: '',
-      description: '<p>8巻 P63  山梨県甲斐市 竜王2089</p> <p><img alt="IMG_3449.JPG" src="https://live.staticflickr.com/8431/7872839364_a3c3f05032_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.6641283&amp;lon=138.502834&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【IMG_3449.JPG】 by drillhidea</p>',
+      description: '<p>8巻 P63  山梨県甲斐市 竜王2089</p> ',
       location: {
         center: [138.502834, 35.6641283],
         zoom: 14,
@@ -257,7 +257,7 @@ const config = {
       title: '晴れてよかった',
       image: '',
       tweet_id: '',
-      description: '<p>8巻 P73  山梨県南アルプス市 有野1100</p> <p><img alt="IMG_0002" src="https://live.staticflickr.com/7328/12876991184_35dcb9740c_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.6581298&amp;lon=138.4410014&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【IMG_0002】 by K,Nakamura</p>',
+      description: '<p>8巻 P73  山梨県南アルプス市 有野1100</p> <p><img alt="IMG_0001" src="https://live.staticflickr.com/3781/12876991584_d45f163206_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.6581298&amp;lon=138.4410014&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【IMG_0001】 by K,Nakamura</p>',
       location: {
         center: [138.4410014, 35.6581298],
         zoom: 14,

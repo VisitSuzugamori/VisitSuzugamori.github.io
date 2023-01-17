@@ -17,7 +17,7 @@ const config = {
       title: '潮岬観光タワー',
       image: '',
       tweet_id: '',
-      description: '<p>8巻 P149  和歌山県東牟婁郡 串本町 </p> <p><img alt="Milky way and Jupiter (3)" src="https://live.staticflickr.com/65535/50343782877_c69482ce8d_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=33.437806&amp;lon=135.7613677&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Milky way and Jupiter (3)】 by kuni4400</p>',
+      description: '<p>8巻 P149  和歌山県東牟婁郡 串本町 </p> <p><img alt="Cape Shionomisaki, Wakayama" src="https://live.staticflickr.com/65535/52629608516_250ae611f5_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=33.437806&amp;lon=135.7613677&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Cape Shionomisaki, Wakayama】 by Kzaral</p>',
       location: {
         center: [135.7613677, 33.437806],
         zoom: 14,
@@ -36,8 +36,8 @@ const config = {
       hidden: false,
       title: '国際展示場駅',
       image: '',
-      tweet_id: '1614091913270804480',
-      description: '<p>   東京都江東区 有明三丁目7</p><div class="tweetContainer" id="tweet1614091913270804480"></div> ',
+      tweet_id: '1614501899675357184',
+      description: '<p>   東京都江東区 有明三丁目7</p><div class="tweetContainer" id="tweet1614501899675357184"></div> ',
       location: {
         center: [139.7916499, 35.6344346],
         zoom: 14,
@@ -96,8 +96,8 @@ const config = {
       hidden: false,
       title: '東京ゲートブリッジ',
       image: '',
-      tweet_id: '1611554656353923072',
-      description: '<p>8巻 P144  </p><div class="tweetContainer" id="tweet1611554656353923072"></div> ',
+      tweet_id: '1611692756786679811',
+      description: '<p>8巻 P144  </p><div class="tweetContainer" id="tweet1611692756786679811"></div> ',
       location: {
         center: [139.8288838, 35.6122153],
         zoom: 14,

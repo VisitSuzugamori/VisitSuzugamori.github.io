@@ -56,8 +56,8 @@ const config = {
       hidden: false,
       title: '羽田空港',
       image: '',
-      tweet_id: '1613795785296203777',
-      description: '<p>7巻 P76  東京都大田区 羽田空港三丁目3</p><div class="tweetContainer" id="tweet1613795785296203777"></div> ',
+      tweet_id: '1614776064156524546',
+      description: '<p>7巻 P76  東京都大田区 羽田空港三丁目3</p><div class="tweetContainer" id="tweet1614776064156524546"></div> ',
       location: {
         center: [139.7798386, 35.5493932],
         zoom: 14,
@@ -76,8 +76,8 @@ const config = {
       hidden: false,
       title: '紋別空港（オホーツク紋別空港）',
       image: '',
-      tweet_id: '1611628591795650562',
-      description: '<p>7巻 P85  北海道紋別市 </p><div class="tweetContainer" id="tweet1611628591795650562"></div> ',
+      tweet_id: '1614831904288563200',
+      description: '<p>7巻 P85  北海道紋別市 </p><div class="tweetContainer" id="tweet1614831904288563200"></div> ',
       location: {
         center: [143.4068361, 44.306398],
         zoom: 14,
@@ -176,8 +176,8 @@ const config = {
       hidden: false,
       title: '松寿し',
       image: '',
-      tweet_id: '1611588780066054146',
-      description: '<p>7巻 P95  北海道北見市 </p><div class="tweetContainer" id="tweet1611588780066054146"></div> ',
+      tweet_id: '',
+      description: '<p>7巻 P95  北海道北見市 </p> ',
       location: {
         center: [144.0708245, 44.121295],
         zoom: 14,
