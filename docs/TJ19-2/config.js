@@ -16,8 +16,8 @@ const config = {
       hidden: false,
       title: '東京駅',
       image: '',
-      tweet_id: '1614216766619811840',
-      description: '<p>6巻 P38  東京都千代田区 丸の内一丁目9</p><div class="tweetContainer" id="tweet1614216766619811840"></div> ',
+      tweet_id: '1615481906694586369',
+      description: '<p>6巻 P38  東京都千代田区 丸の内一丁目9</p><div class="tweetContainer" id="tweet1615481906694586369"></div> ',
       location: {
         center: [139.7671248, 35.6812362],
         zoom: 14,
@@ -96,8 +96,8 @@ const config = {
       hidden: false,
       title: '道の駅 おおた',
       image: '',
-      tweet_id: '1612214163325190144',
-      description: '<p>6巻 P40  群馬県太田市 粕川町701</p><div class="tweetContainer" id="tweet1612214163325190144"></div> ',
+      tweet_id: '',
+      description: '<p>6巻 P40  群馬県太田市 粕川町701</p> ',
       location: {
         center: [139.2959965, 36.2645224],
         zoom: 14,
@@ -136,8 +136,8 @@ const config = {
       hidden: false,
       title: '渋川駅',
       image: '',
-      tweet_id: '1612265606899961858',
-      description: '<p>6巻 P42  群馬県渋川市 渋川1655</p><div class="tweetContainer" id="tweet1612265606899961858"></div> ',
+      tweet_id: '1615342534536101888',
+      description: '<p>6巻 P42  群馬県渋川市 渋川1655</p><div class="tweetContainer" id="tweet1615342534536101888"></div> ',
       location: {
         center: [139.0087977, 36.4913217],
         zoom: 14,
@@ -236,8 +236,8 @@ const config = {
       hidden: false,
       title: '水上駅',
       image: '',
-      tweet_id: '1612278245193383937',
-      description: '<p>6巻 P56  群馬県利根郡 みなかみ町 鹿野沢70</p><div class="tweetContainer" id="tweet1612278245193383937"></div> ',
+      tweet_id: '1615207748324691969',
+      description: '<p>6巻 P56  群馬県利根郡 みなかみ町 鹿野沢70</p><div class="tweetContainer" id="tweet1615207748324691969"></div> ',
       location: {
         center: [138.9688398, 36.778636],
         zoom: 14,

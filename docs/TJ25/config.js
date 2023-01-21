@@ -36,8 +36,8 @@ const config = {
       hidden: false,
       title: '鹿児島中央駅',
       image: '',
-      tweet_id: '1612215705805684741',
-      description: '<p>8巻 P101  鹿児島県鹿児島市 武一丁目1</p><div class="tweetContainer" id="tweet1612215705805684741"></div> ',
+      tweet_id: '1616401504633761794',
+      description: '<p>8巻 P101  鹿児島県鹿児島市 武一丁目1</p><div class="tweetContainer" id="tweet1616401504633761794"></div> ',
       location: {
         center: [130.5417154, 31.5836893],
         zoom: 14,
@@ -156,8 +156,8 @@ const config = {
       hidden: false,
       title: '天文館むじゃき 本店',
       image: '',
-      tweet_id: '',
-      description: '<p>8巻 P106  鹿児島県鹿児島市 千日町5</p> <p><img alt="Kagoshima Tenmonkan Shopping Arcade, Japan" src="https://live.staticflickr.com/65535/52568189566_237243df57_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=31.589238&amp;lon=130.555969&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Kagoshima Tenmonkan Shopping Arcade, Japan】 by globetrekimages</p>',
+      tweet_id: '1616256852656029699',
+      description: '<p>8巻 P106  鹿児島県鹿児島市 千日町5</p><div class="tweetContainer" id="tweet1616256852656029699"></div> ',
       location: {
         center: [130.555969, 31.589238],
         zoom: 14,
@@ -176,8 +176,8 @@ const config = {
       hidden: false,
       title: '山形屋1号館',
       image: '',
-      tweet_id: '',
-      description: '<p>8巻 P107  鹿児島県鹿児島市 金生町3</p> <p><img alt="IMG_2097" src="https://live.staticflickr.com/65535/51316887353_75074f8455_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=31.5932664&amp;lon=130.5570647&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【IMG_2097】 by OOMYV</p>',
+      tweet_id: '1616342822902431744',
+      description: '<p>8巻 P107  鹿児島県鹿児島市 金生町3</p><div class="tweetContainer" id="tweet1616342822902431744"></div> ',
       location: {
         center: [130.5570647, 31.5932664],
         zoom: 14,
@@ -237,7 +237,7 @@ const config = {
       title: '桜島シーサイドホテル',
       image: '',
       tweet_id: '',
-      description: '<p>8巻 P110  鹿児島県鹿児島市 古里町1076</p> <p><img alt="20120221-_DSC7573" src="https://live.staticflickr.com/4604/24900372627_30712b9034_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=31.5521501&amp;lon=130.6587304&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【20120221-_DSC7573】 by Fomal Haut</p>',
+      description: '<p>8巻 P110  鹿児島県鹿児島市 古里町1076</p> <p><img alt="20120220-_DSC7099" src="https://live.staticflickr.com/4663/39763570861_cef074cb69_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=31.5521501&amp;lon=130.6587304&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【20120220-_DSC7099】 by Fomal Haut</p>',
       location: {
         center: [130.6587304, 31.5521501],
         zoom: 14,
@@ -277,7 +277,7 @@ const config = {
       title: '椿の里(椿チャンポン)',
       image: '',
       tweet_id: '',
-      description: '<p>8巻 P118  鹿児島県鹿児島市 黒神町258</p> <p><img alt="Haragosha Jinja, Sakurajima, Japan" src="https://live.staticflickr.com/65535/50089595406_666eb76705_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=31.5847772&amp;lon=130.7064773&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Haragosha Jinja, Sakurajima, Japan】 by Travelling Wheels</p>',
+      description: '<p>8巻 P118  鹿児島県鹿児島市 黒神町258</p> <p><img alt="黒神埋沒鳥居" src="https://live.staticflickr.com/65535/50840430876_2442a52eed_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=31.5847772&amp;lon=130.7064773&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【黒神埋沒鳥居】 by Chitaka Chou</p>',
       location: {
         center: [130.7064773, 31.5847772],
         zoom: 14,

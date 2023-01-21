@@ -16,8 +16,8 @@ const config = {
       hidden: false,
       title: '品川駅',
       image: '',
-      tweet_id: '1613701711847370752',
-      description: '<p>7巻 P72  東京都港区 高輪三丁目26</p><div class="tweetContainer" id="tweet1613701711847370752"></div> ',
+      tweet_id: '1615477908243611648',
+      description: '<p>7巻 P72  東京都港区 高輪三丁目26</p><div class="tweetContainer" id="tweet1615477908243611648"></div> ',
       location: {
         center: [139.7387597, 35.6284713],
         zoom: 14,
@@ -56,8 +56,8 @@ const config = {
       hidden: false,
       title: '羽田空港',
       image: '',
-      tweet_id: '1614776064156524546',
-      description: '<p>7巻 P76  東京都大田区 羽田空港三丁目3</p><div class="tweetContainer" id="tweet1614776064156524546"></div> ',
+      tweet_id: '1615511291573202944',
+      description: '<p>7巻 P76  東京都大田区 羽田空港三丁目3</p><div class="tweetContainer" id="tweet1615511291573202944"></div> ',
       location: {
         center: [139.7798386, 35.5493932],
         zoom: 14,
@@ -76,8 +76,8 @@ const config = {
       hidden: false,
       title: '紋別空港（オホーツク紋別空港）',
       image: '',
-      tweet_id: '1614831904288563200',
-      description: '<p>7巻 P85  北海道紋別市 </p><div class="tweetContainer" id="tweet1614831904288563200"></div> ',
+      tweet_id: '1616643044316430336',
+      description: '<p>7巻 P85  北海道紋別市 </p><div class="tweetContainer" id="tweet1616643044316430336"></div> ',
       location: {
         center: [143.4068361, 44.306398],
         zoom: 14,

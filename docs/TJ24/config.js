@@ -117,7 +117,7 @@ const config = {
       title: '信玄堤散策コース',
       image: '',
       tweet_id: '',
-      description: '<p>8巻 P59  山梨県甲斐市 竜王490</p> <p><img alt="Store that tractor" src="https://live.staticflickr.com/5099/5491783662_eee49301b7_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.6677185&amp;lon=138.5043247&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Store that tractor】 by asksomeoneelse</p>',
+      description: '<p>8巻 P59  山梨県甲斐市 竜王490</p> ',
       location: {
         center: [138.5043247, 35.6677185],
         zoom: 14,
@@ -136,8 +136,8 @@ const config = {
       hidden: false,
       title: '信玄堤公園',
       image: '',
-      tweet_id: '1612342083523678208',
-      description: '<p>8巻 P61  山梨県甲斐市 竜王1891</p><div class="tweetContainer" id="tweet1612342083523678208"></div> ',
+      tweet_id: '',
+      description: '<p>8巻 P61  山梨県甲斐市 竜王1891</p> ',
       location: {
         center: [138.5019977, 35.6674453],
         zoom: 14,
@@ -177,7 +177,7 @@ const config = {
       title: '信玄橋',
       image: '',
       tweet_id: '',
-      description: '<p>8巻 P63  山梨県甲斐市 竜王2089</p> ',
+      description: '<p>8巻 P63  山梨県甲斐市 竜王2089</p> <p><img alt="IMG_3449.JPG" src="https://live.staticflickr.com/8431/7872839364_a3c3f05032_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.6641283&amp;lon=138.502834&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【IMG_3449.JPG】 by drillhidea</p>',
       location: {
         center: [138.502834, 35.6641283],
         zoom: 14,
@@ -336,8 +336,8 @@ const config = {
       hidden: false,
       title: '甲府駅',
       image: '',
-      tweet_id: '1612258293694726146',
-      description: '<p>8巻 P83  山梨県甲府市 丸の内一丁目3</p><div class="tweetContainer" id="tweet1612258293694726146"></div> ',
+      tweet_id: '1615668454685827072',
+      description: '<p>8巻 P83  山梨県甲府市 丸の内一丁目3</p><div class="tweetContainer" id="tweet1615668454685827072"></div> ',
       location: {
         center: [138.5690631, 35.6670981],
         zoom: 14,

@@ -17,7 +17,7 @@ const config = {
       title: '潮岬観光タワー',
       image: '',
       tweet_id: '',
-      description: '<p>8巻 P149  和歌山県東牟婁郡 串本町 </p> <p><img alt="Cape Shionomisaki, Wakayama" src="https://live.staticflickr.com/65535/52629608516_250ae611f5_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=33.437806&amp;lon=135.7613677&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Cape Shionomisaki, Wakayama】 by Kzaral</p>',
+      description: '<p>8巻 P149  和歌山県東牟婁郡 串本町 </p> <p><img alt="Cape Shionomisaki, Wakayama" src="https://live.staticflickr.com/65535/52630088168_6b5c97a8d2_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=33.437806&amp;lon=135.7613677&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Cape Shionomisaki, Wakayama】 by Kzaral</p>',
       location: {
         center: [135.7613677, 33.437806],
         zoom: 14,
@@ -76,8 +76,8 @@ const config = {
       hidden: false,
       title: '東京港フェリーターミナル',
       image: '',
-      tweet_id: '1612546053110112261',
-      description: '<p>8巻 P136  東京都江東区 有明四丁目8</p><div class="tweetContainer" id="tweet1612546053110112261"></div> ',
+      tweet_id: '1614721725974863874',
+      description: '<p>8巻 P136  東京都江東区 有明四丁目8</p><div class="tweetContainer" id="tweet1614721725974863874"></div> ',
       location: {
         center: [139.7957527, 35.6174045],
         zoom: 14,
@@ -96,8 +96,8 @@ const config = {
       hidden: false,
       title: '東京ゲートブリッジ',
       image: '',
-      tweet_id: '1611692756786679811',
-      description: '<p>8巻 P144  </p><div class="tweetContainer" id="tweet1611692756786679811"></div> ',
+      tweet_id: '',
+      description: '<p>8巻 P144  </p> <p><img alt="LR-7080.jpg" src="https://live.staticflickr.com/2840/33568856786_db9abca689_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.6122153&amp;lon=139.8288838&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【LR-7080.jpg】 by oga_mak</p>',
       location: {
         center: [139.8288838, 35.6122153],
         zoom: 14,
@@ -117,7 +117,7 @@ const config = {
       title: 'オーシャン東九フェリー 徳島港 (沖洲) のりば',
       image: '',
       tweet_id: '',
-      description: '<p>8巻 P152  </p> <p><img alt="IMG_0965" src="https://live.staticflickr.com/1944/45594546621_640e7afc17_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.0540334&amp;lon=134.5966435&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【IMG_0965】 by tnoma</p>',
+      description: '<p>8巻 P152  </p> <p><img alt="IMG_0961" src="https://live.staticflickr.com/1975/44680705845_323001033e_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.0540334&amp;lon=134.5966435&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【IMG_0961】 by tnoma</p>',
       location: {
         center: [134.5966435, 34.0540334],
         zoom: 14,

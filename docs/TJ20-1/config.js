@@ -36,8 +36,8 @@ const config = {
       hidden: false,
       title: '後免駅',
       image: '',
-      tweet_id: '1611906719759605760',
-      description: '<p>6巻 P71  高知県南国市 駅前町二丁目3</p><div class="tweetContainer" id="tweet1611906719759605760"></div> ',
+      tweet_id: '',
+      description: '<p>6巻 P71  高知県南国市 駅前町二丁目3</p> <p><img alt="nankoku_20190905111603" src="https://live.staticflickr.com/65535/49844880412_6cbf656155_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=33.5791401&amp;lon=133.6454058&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【nankoku_20190905111603】 by inunami</p>',
       location: {
         center: [133.6454058, 33.5791401],
         zoom: 14,
@@ -77,7 +77,7 @@ const config = {
       title: 'ショッピングセンター パステポコ・ア・ポコ南国店',
       image: '',
       tweet_id: '',
-      description: '<p>6巻 P73  高知県南国市 駅前町二丁目3</p> <p><img alt="nankoku_20190905111603" src="https://live.staticflickr.com/65535/49844880412_6cbf656155_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=33.578697&amp;lon=133.6453861&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【nankoku_20190905111603】 by inunami</p>',
+      description: '<p>6巻 P73  高知県南国市 駅前町二丁目3</p> <p><img alt="nankoku_20190905114442" src="https://live.staticflickr.com/65535/49844880052_32aae9bd78_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=33.578697&amp;lon=133.6453861&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【nankoku_20190905114442】 by inunami</p>',
       location: {
         center: [133.6453861, 33.578697],
         zoom: 14,
@@ -156,8 +156,8 @@ const config = {
       hidden: false,
       title: 'はりまや橋',
       image: '',
-      tweet_id: '1611691727676375043',
-      description: '<p>6巻 P80  高知県高知市 はりまや町一丁目1</p><div class="tweetContainer" id="tweet1611691727676375043"></div> ',
+      tweet_id: '1615650303340158976',
+      description: '<p>6巻 P80  高知県高知市 はりまや町一丁目1</p><div class="tweetContainer" id="tweet1615650303340158976"></div> ',
       location: {
         center: [133.5426569, 33.5599438],
         zoom: 14,
@@ -256,8 +256,8 @@ const config = {
       hidden: false,
       title: '若宮八幡宮',
       image: '',
-      tweet_id: '1612257343907172353',
-      description: '<p>6巻 P82  高知県高知市 長浜4063</p><div class="tweetContainer" id="tweet1612257343907172353"></div> ',
+      tweet_id: '',
+      description: '<p>6巻 P82  高知県高知市 長浜4063</p> ',
       location: {
         center: [133.5439082, 33.4946664],
         zoom: 14,
