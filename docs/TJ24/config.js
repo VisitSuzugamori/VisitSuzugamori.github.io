@@ -97,7 +97,7 @@ const config = {
       title: '竜王北小学校前横断歩道橋',
       image: '',
       tweet_id: '',
-      description: '<p>8巻 P58  山梨県甲斐市 竜王1047</p> <p><img alt="Mount Fuji viewed from the train" src="https://live.staticflickr.com/2084/3539841241_2738ddcbfd_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.6678647&amp;lon=138.5078418&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Mount Fuji viewed from the train】 by mutantlog</p>',
+      description: '<p>8巻 P58  山梨県甲斐市 竜王1047</p> <p><img alt="Mount Fuji viewed from the train" src="https://live.staticflickr.com/2440/3540651804_82cc689bbc_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.6678647&amp;lon=138.5078418&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Mount Fuji viewed from the train】 by mutantlog</p>',
       location: {
         center: [138.5078418, 35.6678647],
         zoom: 14,
@@ -117,7 +117,7 @@ const config = {
       title: '信玄堤散策コース',
       image: '',
       tweet_id: '',
-      description: '<p>8巻 P59  山梨県甲斐市 竜王490</p> ',
+      description: '<p>8巻 P59  山梨県甲斐市 竜王490</p> <p><img alt="Store that tractor" src="https://live.staticflickr.com/5099/5491783662_eee49301b7_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.6677185&amp;lon=138.5043247&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Store that tractor】 by asksomeoneelse</p>',
       location: {
         center: [138.5043247, 35.6677185],
         zoom: 14,
@@ -156,8 +156,8 @@ const config = {
       hidden: false,
       title: '信玄堤',
       image: '',
-      tweet_id: '1613123120399024131',
-      description: '<p>8巻 P62  山梨県甲斐市 竜王86</p><div class="tweetContainer" id="tweet1613123120399024131"></div> ',
+      tweet_id: '',
+      description: '<p>8巻 P62  山梨県甲斐市 竜王86</p> <p><img alt="Audience" src="https://live.staticflickr.com/4093/5444627181_ee28c6602a_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.668261&amp;lon=138.5013756&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Audience】 by asksomeoneelse</p>',
       location: {
         center: [138.5013756, 35.668261],
         zoom: 14,
@@ -216,8 +216,8 @@ const config = {
       hidden: false,
       title: '菓子処 松の屋',
       image: '',
-      tweet_id: '',
-      description: '<p>8巻 P66  山梨県南アルプス市 百々1821</p> ',
+      tweet_id: '1617014542457884672',
+      description: '<p>8巻 P66  山梨県南アルプス市 百々1821</p><div class="tweetContainer" id="tweet1617014542457884672"></div> ',
       location: {
         center: [138.4650811, 35.6624298],
         zoom: 14,

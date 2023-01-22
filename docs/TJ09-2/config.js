@@ -16,8 +16,8 @@ const config = {
       hidden: false,
       title: '嚴島神社',
       image: '',
-      tweet_id: '1616694704418205697',
-      description: '<p>3巻 P5  </p><div class="tweetContainer" id="tweet1616694704418205697"></div> ',
+      tweet_id: '1616962367136600066',
+      description: '<p>3巻 P5  </p><div class="tweetContainer" id="tweet1616962367136600066"></div> ',
       location: {
         center: [132.3198262, 34.2959885],
         zoom: 14,

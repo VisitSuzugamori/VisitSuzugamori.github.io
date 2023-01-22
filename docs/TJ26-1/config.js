@@ -97,7 +97,7 @@ const config = {
       title: '東京ゲートブリッジ',
       image: '',
       tweet_id: '',
-      description: '<p>8巻 P144  </p> <p><img alt="LR-7080.jpg" src="https://live.staticflickr.com/2840/33568856786_db9abca689_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.6122153&amp;lon=139.8288838&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【LR-7080.jpg】 by oga_mak</p>',
+      description: '<p>8巻 P144  </p> <p><img alt="IMG_0463" src="https://live.staticflickr.com/1912/43405050030_c561f5ffaa_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.6122153&amp;lon=139.8288838&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【IMG_0463】 by tnoma</p>',
       location: {
         center: [139.8288838, 35.6122153],
         zoom: 14,
@@ -117,7 +117,7 @@ const config = {
       title: 'オーシャン東九フェリー 徳島港 (沖洲) のりば',
       image: '',
       tweet_id: '',
-      description: '<p>8巻 P152  </p> <p><img alt="IMG_0961" src="https://live.staticflickr.com/1975/44680705845_323001033e_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.0540334&amp;lon=134.5966435&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【IMG_0961】 by tnoma</p>',
+      description: '<p>8巻 P152  </p> <p><img alt="IMG_0965" src="https://live.staticflickr.com/1944/45594546621_640e7afc17_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.0540334&amp;lon=134.5966435&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【IMG_0965】 by tnoma</p>',
       location: {
         center: [134.5966435, 34.0540334],
         zoom: 14,

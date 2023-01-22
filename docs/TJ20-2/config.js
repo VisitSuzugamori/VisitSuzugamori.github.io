@@ -16,8 +16,8 @@ const config = {
       hidden: false,
       title: '東京駅',
       image: '',
-      tweet_id: '1615912966024749056',
-      description: '<p>6巻 P132  東京都千代田区 丸の内一丁目9</p><div class="tweetContainer" id="tweet1615912966024749056"></div> ',
+      tweet_id: '1617044590573555712',
+      description: '<p>6巻 P132  東京都千代田区 丸の内一丁目9</p><div class="tweetContainer" id="tweet1617044590573555712"></div> ',
       location: {
         center: [139.7671248, 35.6812362],
         zoom: 14,
@@ -137,7 +137,7 @@ const config = {
       title: '土佐三志士の像',
       image: '',
       tweet_id: '',
-      description: '<p>6巻 P122  高知県高知市 北本町二丁目10</p> <p><img alt="Tosaden Kochi-Ekimae Station" src="https://live.staticflickr.com/65535/52629856714_a47f9fdb91_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=33.5664177&amp;lon=133.5430255&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Tosaden Kochi-Ekimae Station】 by Kzaral</p>',
+      description: '<p>6巻 P122  高知県高知市 北本町二丁目10</p> <p><img alt="JR Kochi Station" src="https://live.staticflickr.com/65535/52629090547_48dcef9359_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=33.5664177&amp;lon=133.5430255&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【JR Kochi Station】 by Kzaral</p>',
       location: {
         center: [133.5430255, 33.5664177],
         zoom: 14,
@@ -156,8 +156,8 @@ const config = {
       hidden: false,
       title: '奈半利駅',
       image: '',
-      tweet_id: '1613348928778387458',
-      description: '<p>6巻 P124  高知県安芸郡 奈半利町 乙978</p><div class="tweetContainer" id="tweet1613348928778387458"></div> ',
+      tweet_id: '1616650269517045765',
+      description: '<p>6巻 P124  高知県安芸郡 奈半利町 乙978</p><div class="tweetContainer" id="tweet1616650269517045765"></div> ',
       location: {
         center: [134.0180808, 33.4250302],
         zoom: 14,

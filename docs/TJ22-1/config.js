@@ -16,8 +16,8 @@ const config = {
       hidden: false,
       title: '品川駅',
       image: '',
-      tweet_id: '1615477908243611648',
-      description: '<p>7巻 P72  東京都港区 高輪三丁目26</p><div class="tweetContainer" id="tweet1615477908243611648"></div> ',
+      tweet_id: '1616584221300240384',
+      description: '<p>7巻 P72  東京都港区 高輪三丁目26</p><div class="tweetContainer" id="tweet1616584221300240384"></div> ',
       location: {
         center: [139.7387597, 35.6284713],
         zoom: 14,
@@ -76,8 +76,8 @@ const config = {
       hidden: false,
       title: '紋別空港（オホーツク紋別空港）',
       image: '',
-      tweet_id: '1616643044316430336',
-      description: '<p>7巻 P85  北海道紋別市 </p><div class="tweetContainer" id="tweet1616643044316430336"></div> ',
+      tweet_id: '1617009202907566081',
+      description: '<p>7巻 P85  北海道紋別市 </p><div class="tweetContainer" id="tweet1617009202907566081"></div> ',
       location: {
         center: [143.4068361, 44.306398],
         zoom: 14,
