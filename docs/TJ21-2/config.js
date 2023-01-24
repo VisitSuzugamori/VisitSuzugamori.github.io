@@ -237,7 +237,7 @@ const config = {
       title: '函館グルメ回転ずし函太郎 宇賀浦本店',
       image: '',
       tweet_id: '',
-      description: '<p>7巻 P46  北海道函館市 宇賀浦町14</p> <p><img alt="IMG20180204134419" src="https://live.staticflickr.com/1929/44915848742_92c3c86e0b_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=41.770788&amp;lon=140.745451&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【IMG20180204134419】 by redice0112</p>',
+      description: '<p>7巻 P46  北海道函館市 宇賀浦町14</p> <p><img alt="IMG20180204135907" src="https://live.staticflickr.com/1925/44915848522_386c0ce707_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=41.770788&amp;lon=140.745451&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【IMG20180204135907】 by redice0112</p>',
       location: {
         center: [140.745451, 41.770788],
         zoom: 14,
@@ -257,7 +257,7 @@ const config = {
       title: '大森町',
       image: '',
       tweet_id: '',
-      description: '<p>7巻 P49  北海道函館市 宇賀浦町1</p> <p><img alt="DSC01101" src="https://live.staticflickr.com/7451/27302716311_cd09c86ca7_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=41.7697786&amp;lon=140.7404156&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【DSC01101】 by 騰子</p>',
+      description: '<p>7巻 P49  北海道函館市 宇賀浦町1</p> <p><img alt="函館市電 39 ハイカラ号の絵" src="https://live.staticflickr.com/65535/50074882542_30b0baceb7_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=41.7697786&amp;lon=140.7404156&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【函館市電 39 ハイカラ号の絵】 by OOMYV</p>',
       location: {
         center: [140.7404156, 41.7697786],
         zoom: 14,
@@ -277,7 +277,7 @@ const config = {
       title: '石川啄木一族の墓',
       image: '',
       tweet_id: '',
-      description: '<p>7巻 P49  北海道函館市 住吉町15</p> <p><img alt="北海道 函館 Hakodate, Hokkaido, Japan" src="https://live.staticflickr.com/4560/37534155994_5c3fc4a194_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=41.7474858&amp;lon=140.7194496&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【北海道 函館 Hakodate, Hokkaido, Japan】 by スーパーサイヤ人Ⅳ</p>',
+      description: '<p>7巻 P49  北海道函館市 住吉町15</p> <p><img alt="北海道 函館 Hakodate, Hokkaido, Japan" src="https://live.staticflickr.com/4453/37534148784_3503dc3381_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=41.7474858&amp;lon=140.7194496&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【北海道 函館 Hakodate, Hokkaido, Japan】 by スーパーサイヤ人Ⅳ</p>',
       location: {
         center: [140.7194496, 41.7474858],
         zoom: 14,
