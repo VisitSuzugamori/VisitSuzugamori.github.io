@@ -57,7 +57,7 @@ const config = {
       title: '藤岡酒造',
       image: '',
       tweet_id: '',
-      description: '<p>2巻 P16  京都府京都市 伏見区 今町669</p> <p><img alt="珍遊のラーメン" src="https://live.staticflickr.com/65535/50115002776_30c119f009_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.9351213&amp;lon=135.7624568&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【珍遊のラーメン】 by albertus</p>',
+      description: '<p>2巻 P16  京都府京都市 伏見区 今町669</p> <p><img alt="珍遊" src="https://live.staticflickr.com/65535/48688121221_56d8ca2b6c_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.9351213&amp;lon=135.7624568&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【珍遊】 by albertus</p>',
       location: {
         center: [135.7624568, 34.9351213],
         zoom: 14,
@@ -257,7 +257,7 @@ const config = {
       title: '岩見重太郎 仇討ちの場',
       image: '',
       tweet_id: '',
-      description: '<p>2巻 P36  京都府宮津市 字文珠</p> <p><img alt="P1039245" src="https://live.staticflickr.com/65535/49331567108_4c395bd571_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.5628724&amp;lon=135.1881478&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【P1039245】 by MakotoUmeda</p>',
+      description: '<p>2巻 P36  京都府宮津市 字文珠</p> <p><img alt="P1039249" src="https://live.staticflickr.com/65535/49332032336_3769f3b012_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.5628724&amp;lon=135.1881478&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【P1039249】 by MakotoUmeda</p>',
       location: {
         center: [135.1881478, 35.5628724],
         zoom: 14,

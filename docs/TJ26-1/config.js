@@ -17,7 +17,7 @@ const config = {
       title: '潮岬観光タワー',
       image: '',
       tweet_id: '',
-      description: '<p>8巻 P149  和歌山県東牟婁郡 串本町 </p> <p><img alt="Cape Shionomisaki, Wakayama" src="https://live.staticflickr.com/65535/52630088168_6b5c97a8d2_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=33.437806&amp;lon=135.7613677&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Cape Shionomisaki, Wakayama】 by Kzaral</p>',
+      description: '<p>8巻 P149  和歌山県東牟婁郡 串本町 </p> <p><img alt="Milky way and Jupiter (3)" src="https://live.staticflickr.com/65535/50343782877_c69482ce8d_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=33.437806&amp;lon=135.7613677&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Milky way and Jupiter (3)】 by kuni4400</p>',
       location: {
         center: [135.7613677, 33.437806],
         zoom: 14,
@@ -36,8 +36,8 @@ const config = {
       hidden: false,
       title: '国際展示場駅',
       image: '',
-      tweet_id: '1614501899675357184',
-      description: '<p>   東京都江東区 有明三丁目7</p><div class="tweetContainer" id="tweet1614501899675357184"></div> ',
+      tweet_id: '1615245738023309312',
+      description: '<p>   東京都江東区 有明三丁目7</p><div class="tweetContainer" id="tweet1615245738023309312"></div> ',
       location: {
         center: [139.7916499, 35.6344346],
         zoom: 14,
@@ -76,8 +76,8 @@ const config = {
       hidden: false,
       title: '東京港フェリーターミナル',
       image: '',
-      tweet_id: '1614721725974863874',
-      description: '<p>8巻 P136  東京都江東区 有明四丁目8</p><div class="tweetContainer" id="tweet1614721725974863874"></div> ',
+      tweet_id: '',
+      description: '<p>8巻 P136  東京都江東区 有明四丁目8</p> <p><img alt="IMG_0909" src="https://live.staticflickr.com/1942/30653474117_24f5e349d5_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.6174045&amp;lon=139.7957527&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【IMG_0909】 by tnoma</p>',
       location: {
         center: [139.7957527, 35.6174045],
         zoom: 14,
@@ -97,7 +97,7 @@ const config = {
       title: '東京ゲートブリッジ',
       image: '',
       tweet_id: '',
-      description: '<p>8巻 P144  </p> <p><img alt="IMG_0463" src="https://live.staticflickr.com/1912/43405050030_c561f5ffaa_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.6122153&amp;lon=139.8288838&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【IMG_0463】 by tnoma</p>',
+      description: '<p>8巻 P144  </p> <p><img alt="IMG_0464" src="https://live.staticflickr.com/1968/44495918294_c17b102757_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.6122153&amp;lon=139.8288838&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【IMG_0464】 by tnoma</p>',
       location: {
         center: [139.8288838, 35.6122153],
         zoom: 14,
@@ -117,7 +117,7 @@ const config = {
       title: 'オーシャン東九フェリー 徳島港 (沖洲) のりば',
       image: '',
       tweet_id: '',
-      description: '<p>8巻 P152  </p> <p><img alt="IMG_0965" src="https://live.staticflickr.com/1944/45594546621_640e7afc17_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.0540334&amp;lon=134.5966435&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【IMG_0965】 by tnoma</p>',
+      description: '<p>8巻 P152  </p> <p><img alt="IMG_0963" src="https://live.staticflickr.com/1967/44869729744_9297d4767d_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.0540334&amp;lon=134.5966435&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【IMG_0963】 by tnoma</p>',
       location: {
         center: [134.5966435, 34.0540334],
         zoom: 14,

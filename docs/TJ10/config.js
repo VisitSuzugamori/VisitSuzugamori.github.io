@@ -37,7 +37,7 @@ const config = {
       title: '萱野茶屋',
       image: '',
       tweet_id: '',
-      description: '<p>3巻 P32  青森県青森市 大字横内字八重菊62</p> <p><img alt="20181005八甲田" src="https://live.staticflickr.com/4870/46524326451_cd8e8e7742_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=40.7057577&amp;lon=140.8223047&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【20181005八甲田】 by trlintw</p>',
+      description: '<p>3巻 P32  青森県青森市 大字横内字八重菊62</p> <p><img alt="" src="https://live.staticflickr.com/7886/47193495301_8710185f1e_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=40.7057577&amp;lon=140.8223047&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【】 by mhrs.jp</p>',
       location: {
         center: [140.8223047, 40.7057577],
         zoom: 14,
@@ -56,8 +56,8 @@ const config = {
       hidden: false,
       title: '八甲田 山頂公園',
       image: '',
-      tweet_id: '1614138607958200321',
-      description: '<p>3巻 P34  青森県青森市 </p><div class="tweetContainer" id="tweet1614138607958200321"></div> ',
+      tweet_id: '',
+      description: '<p>3巻 P34  青森県青森市 </p> <p><img alt="Hakkoda snow monsters" src="https://live.staticflickr.com/65535/51886526308_8646115e88_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=40.6757743&amp;lon=140.8592116&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Hakkoda snow monsters】 by 雷太</p>',
       location: {
         center: [140.8592116, 40.6757743],
         zoom: 14,
@@ -117,7 +117,7 @@ const config = {
       title: '三途の川',
       image: '',
       tweet_id: '',
-      description: '<p>3巻 P49  青森県むつ市 </p> <p><img alt="Mutsu Oct 17 55" src="https://live.staticflickr.com/566/22580331092_51a11811f9_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=41.3260657&amp;lon=141.0962272&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Mutsu Oct 17 55】 by tculek</p>',
+      description: '<p>3巻 P49  青森県むつ市 </p> <p><img alt="Mutsu Oct 17 100" src="https://live.staticflickr.com/5731/21971109684_4b004b7b68_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=41.3260657&amp;lon=141.0962272&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Mutsu Oct 17 100】 by tculek</p>',
       location: {
         center: [141.0962272, 41.3260657],
         zoom: 14,
@@ -197,7 +197,7 @@ const config = {
       title: '恐山冷水',
       image: '',
       tweet_id: '',
-      description: '<p>3巻 P55  青森県むつ市 </p> <p><img alt="Osorezan Hiyamizu springs" src="https://live.staticflickr.com/7756/18265270976_87be1e78a7_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=41.3145659&amp;lon=141.1264919&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Osorezan Hiyamizu springs】 by mega_midget_racer</p>',
+      description: '<p>3巻 P55  青森県むつ市 </p> <p><img alt="Osorezan Hiyamizu springs" src="https://live.staticflickr.com/8779/18287863462_f8af346af5_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=41.3145659&amp;lon=141.1264919&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Osorezan Hiyamizu springs】 by mega_midget_racer</p>',
       location: {
         center: [141.1264919, 41.3145659],
         zoom: 14,

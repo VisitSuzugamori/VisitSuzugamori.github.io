@@ -16,8 +16,8 @@ const config = {
       hidden: false,
       title: '函館駅',
       image: '',
-      tweet_id: '1617031681084653570',
-      description: '<p>7巻 P4,20  北海道函館市 若松町12</p><div class="tweetContainer" id="tweet1617031681084653570"></div> ',
+      tweet_id: '1616915741089099776',
+      description: '<p>7巻 P4,20  北海道函館市 若松町12</p><div class="tweetContainer" id="tweet1616915741089099776"></div> ',
       location: {
         center: [140.7264741, 41.7737804],
         zoom: 14,
@@ -156,8 +156,8 @@ const config = {
       hidden: false,
       title: '金森赤レンガ倉庫',
       image: '',
-      tweet_id: '1614482040820318208',
-      description: '<p>7巻 P24  北海道函館市 豊川町11</p><div class="tweetContainer" id="tweet1614482040820318208"></div> ',
+      tweet_id: '1616711657362755584',
+      description: '<p>7巻 P24  北海道函館市 豊川町11</p><div class="tweetContainer" id="tweet1616711657362755584"></div> ',
       location: {
         center: [140.7176349, 41.7673531],
         zoom: 14,
@@ -177,7 +177,7 @@ const config = {
       title: 'カリフォルニアベイビー',
       image: '',
       tweet_id: '',
-      description: '<p>7巻 P24  北海道函館市 末広町23</p> <p><img alt="75a" src="https://live.staticflickr.com/65535/52590069227_cf56337fc8_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=41.7659929&amp;lon=140.7146335&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【75a】 by Otis Yang</p>',
+      description: '<p>7巻 P24  北海道函館市 末広町23</p> <p><img alt="74a" src="https://live.staticflickr.com/65535/52590555861_b3221388ee_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=41.7659929&amp;lon=140.7146335&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【74a】 by Otis Yang</p>',
       location: {
         center: [140.7146335, 41.7659929],
         zoom: 14,
@@ -197,7 +197,7 @@ const config = {
       title: '二十間坂',
       image: '',
       tweet_id: '',
-      description: '<p>7巻 P25  北海道函館市 末広町16</p> <p><img alt="_T2A6402" src="https://live.staticflickr.com/65535/49755627163_c35852233a_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=41.7643549&amp;lon=140.7161274&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【_T2A6402】 by tculek</p>',
+      description: '<p>7巻 P25  北海道函館市 末広町16</p> <p><img alt="DSC_0504" src="https://live.staticflickr.com/65535/51373178361_b4102b2024_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=41.7643549&amp;lon=140.7161274&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【DSC_0504】 by ylefou2004</p>',
       location: {
         center: [140.7161274, 41.7643549],
         zoom: 14,

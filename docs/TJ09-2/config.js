@@ -57,7 +57,7 @@ const config = {
       title: 'もみじ堂本店',
       image: '',
       tweet_id: '',
-      description: '<p>3巻 P10  広島県廿日市市 宮島町幸町西浜459</p> <p><img alt="_7R37565" src="https://live.staticflickr.com/65535/52503531764_3a5da86a25_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.2977872&amp;lon=132.320873&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【_7R37565】 by marcopolofc</p>',
+      description: '<p>3巻 P10  広島県廿日市市 宮島町幸町西浜459</p> <p><img alt="Oyster Girl, Miyajima, Hiroshima, Japan" src="https://live.staticflickr.com/65535/52638178238_95b966938e_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.2977872&amp;lon=132.320873&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Oyster Girl, Miyajima, Hiroshima, Japan】 by globetrekimages</p>',
       location: {
         center: [132.320873, 34.2977872],
         zoom: 14,
@@ -76,8 +76,8 @@ const config = {
       hidden: false,
       title: '呉駅',
       image: '',
-      tweet_id: '',
-      description: '<p>3巻 P11  広島県呉市 宝町2</p> <p><img alt="呉駅" src="https://live.staticflickr.com/65535/52149862318_987f9d0170_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.2446471&amp;lon=132.5575846&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【呉駅】 by Chitaka Chou</p>',
+      tweet_id: '1617997776666910721',
+      description: '<p>3巻 P11  広島県呉市 宝町2</p><div class="tweetContainer" id="tweet1617997776666910721"></div> ',
       location: {
         center: [132.5575846, 34.2446471],
         zoom: 14,
