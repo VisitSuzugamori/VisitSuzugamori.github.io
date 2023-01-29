@@ -336,8 +336,8 @@ const config = {
       hidden: false,
       title: '甲府駅',
       image: '',
-      tweet_id: '1615668454685827072',
-      description: '<p>8巻 P83  山梨県甲府市 丸の内一丁目3</p><div class="tweetContainer" id="tweet1615668454685827072"></div> ',
+      tweet_id: '1618026974903169024',
+      description: '<p>8巻 P83  山梨県甲府市 丸の内一丁目3</p><div class="tweetContainer" id="tweet1618026974903169024"></div> ',
       location: {
         center: [138.5690631, 35.6670981],
         zoom: 14,
@@ -357,7 +357,7 @@ const config = {
       title: '武田信玄公之像',
       image: '',
       tweet_id: '',
-      description: '<p>8巻 P83  山梨県甲府市 丸の内二丁目1</p> <p><img alt="行ってきまーす" src="https://live.staticflickr.com/65535/52438814571_fd779f762c_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.6668252&amp;lon=138.5680188&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【行ってきまーす】 by cyberwonk</p>',
+      description: '<p>8巻 P83  山梨県甲府市 丸の内二丁目1</p> <p><img alt="minobu_line_20220903153011" src="https://live.staticflickr.com/65535/52652539975_e7f96efbd4_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.6668252&amp;lon=138.5680188&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【minobu_line_20220903153011】 by inunami</p>',
       location: {
         center: [138.5680188, 35.6668252],
         zoom: 14,

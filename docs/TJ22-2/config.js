@@ -37,7 +37,7 @@ const config = {
       title: 'オホーツクの塔',
       image: '',
       tweet_id: '',
-      description: '<p>7巻 P99  北海道網走市 </p> <p><img alt="L1009111" src="https://live.staticflickr.com/1897/30366047438_f9ca4d71bf_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=44.1106685&amp;lon=144.2473548&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【L1009111】 by bluepointchen</p>',
+      description: '<p>7巻 P99  北海道網走市 </p> <p><img alt="L1009111" src="https://live.staticflickr.com/1897/43515868224_95bb4c0496_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=44.1106685&amp;lon=144.2473548&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【L1009111】 by bluepointchen</p>',
       location: {
         center: [144.2473548, 44.1106685],
         zoom: 14,
@@ -57,7 +57,7 @@ const config = {
       title: '能取の荘 かがり屋',
       image: '',
       tweet_id: '',
-      description: '<p>7巻 P100  北海道網走市 </p> <p><img alt="SEA OF GRASS (100_4606s)" src="https://live.staticflickr.com/4468/37101519434_d280ec02e1_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=44.0124153&amp;lon=144.1156977&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【SEA OF GRASS (100_4606s)】 by cyppoon (Chris Poon)</p>',
+      description: '<p>7巻 P100  北海道網走市 </p> <p><img alt="coral grass" src="https://live.staticflickr.com/65535/50298578861_724ebdc9a5_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=44.0124153&amp;lon=144.1156977&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【coral grass】 by xd_travel</p>',
       location: {
         center: [144.1156977, 44.0124153],
         zoom: 14,
@@ -137,7 +137,7 @@ const config = {
       title: '天に続く道スタート地点',
       image: '',
       tweet_id: '',
-      description: '<p>7巻 P112  北海道斜里郡 斜里町 </p> <p><img alt="K12S1847" src="https://live.staticflickr.com/65535/52149310522_67a2baa25b_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=43.9067705&amp;lon=144.7987065&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【K12S1847】 by hisway306</p>',
+      description: '<p>7巻 P112  北海道斜里郡 斜里町 </p> <p><img alt="K12S1837" src="https://live.staticflickr.com/65535/52150318871_7237c57e49_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=43.9067705&amp;lon=144.7987065&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【K12S1837】 by hisway306</p>',
       location: {
         center: [144.7987065, 43.9067705],
         zoom: 14,
@@ -177,7 +177,7 @@ const config = {
       title: '道の駅 うとろ・シリエトク',
       image: '',
       tweet_id: '',
-      description: '<p>7巻 P115  北海道斜里郡 斜里町 </p> <p><img alt="36223-Shiretoko" src="https://live.staticflickr.com/65535/48913544751_250e5346e9_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=44.069034&amp;lon=144.990695&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【36223-Shiretoko】 by xiquinhosilva</p>',
+      description: '<p>7巻 P115  北海道斜里郡 斜里町 </p> <p><img alt="ウトロ港" src="https://live.staticflickr.com/65535/50387289793_30abd477db_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=44.069034&amp;lon=144.990695&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【ウトロ港】 by Chitaka Chou</p>',
       location: {
         center: [144.990695, 44.069034],
         zoom: 14,
@@ -197,7 +197,7 @@ const config = {
       title: '知床横断道路通行止め',
       image: '',
       tweet_id: '',
-      description: '<p>7巻 P116  北海道斜里郡 斜里町 </p> <p><img alt="IMG_20180923_105044" src="https://live.staticflickr.com/1845/44139881494_9a39b08503_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=44.0916901&amp;lon=145.0251744&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【IMG_20180923_105044】 by mursu909</p>',
+      description: '<p>7巻 P116  北海道斜里郡 斜里町 </p> <p><img alt="36261-Shiretoko" src="https://live.staticflickr.com/65535/49140018113_177eedfa74_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=44.0916901&amp;lon=145.0251744&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【36261-Shiretoko】 by xiquinhosilva</p>',
       location: {
         center: [145.0251744, 44.0916901],
         zoom: 14,
@@ -257,7 +257,7 @@ const config = {
       title: '幌別橋',
       image: '',
       tweet_id: '',
-      description: '<p>7巻 P119  北海道斜里郡 斜里町 ウトロ東</p> <p><img alt="知床" src="https://live.staticflickr.com/65535/52021434688_41755a3b18_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=44.0852361&amp;lon=145.0108433&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【知床】 by Chitaka Chou</p>',
+      description: '<p>7巻 P119  北海道斜里郡 斜里町 ウトロ東</p> <p><img alt="知床" src="https://live.staticflickr.com/65535/52021648039_38f4e134fb_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=44.0852361&amp;lon=145.0108433&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【知床】 by Chitaka Chou</p>',
       location: {
         center: [145.0108433, 44.0852361],
         zoom: 14,
@@ -277,7 +277,7 @@ const config = {
       title: '美白の湯宿 大江本家',
       image: '',
       tweet_id: '',
-      description: '<p>7巻 P119  北海道北見市 留辺蘂町温根湯温泉一区453</p> <p><img alt="" src="https://live.staticflickr.com/704/22071845355_6cfcfd6ac2_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=43.7597063&amp;lon=143.5082092&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【】 by lovelva416</p>',
+      description: '<p>7巻 P119  北海道北見市 留辺蘂町温根湯温泉一区453</p> <p><img alt="" src="https://live.staticflickr.com/5662/21449838053_23f081c7dd_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=43.7597063&amp;lon=143.5082092&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【】 by lovelva416</p>',
       location: {
         center: [143.5082092, 43.7597063],
         zoom: 14,
@@ -296,8 +296,8 @@ const config = {
       hidden: false,
       title: '中湧別駅跡',
       image: '',
-      tweet_id: '1614815240197136388',
-      description: '<p>7巻 P123  北海道紋別郡 湧別町 中湧別南町</p><div class="tweetContainer" id="tweet1614815240197136388"></div> ',
+      tweet_id: '',
+      description: '<p>7巻 P123  北海道紋別郡 湧別町 中湧別南町</p> <p><img alt="IMG_0225" src="https://live.staticflickr.com/65535/51392441149_1401586a82_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=44.1853551&amp;lon=143.5957829&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【IMG_0225】 by tnoma</p>',
       location: {
         center: [143.5957829, 44.1853551],
         zoom: 14,
@@ -337,7 +337,7 @@ const config = {
       title: '道々橋八幡神社',
       image: '',
       tweet_id: '',
-      description: '<p>7巻 P126  東京都大田区 久が原一丁目7</p> <p><img alt="IMG_1962" src="https://live.staticflickr.com/5279/13894887489_5669dc3ba8_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.5857414&amp;lon=139.69341&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【IMG_1962】 by smallcake1982</p>',
+      description: '<p>7巻 P126  東京都大田区 久が原一丁目7</p> <p><img alt="IMG_1963" src="https://live.staticflickr.com/7186/13894914290_85161f8942_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.5857414&amp;lon=139.69341&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【IMG_1963】 by smallcake1982</p>',
       location: {
         center: [139.69341, 35.5857414],
         zoom: 14,

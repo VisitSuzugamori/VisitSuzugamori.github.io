@@ -37,7 +37,7 @@ const config = {
       title: '総合体育館前（バス）',
       image: '',
       tweet_id: '',
-      description: '<p>4巻 P9  島根県松江市 学園南二丁目5</p> <p><img alt="試合終了。残念ながら、89-93で敗北。燃えたゲームでした。" src="https://live.staticflickr.com/8512/8415744955_cfdc8f3250_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.4731536&amp;lon=133.0660854&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【試合終了。残念ながら、89-93で敗北。燃えたゲームでした。】 by Nagatani Jungo</p>',
+      description: '<p>4巻 P9  島根県松江市 学園南二丁目5</p> <p><img alt="寒くても鳥たちは元気。" src="https://live.staticflickr.com/7211/6940758608_5f15e332cd_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.4731536&amp;lon=133.0660854&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【寒くても鳥たちは元気。】 by Nagatani Jungo</p>',
       location: {
         center: [133.0660854, 35.4731536],
         zoom: 14,

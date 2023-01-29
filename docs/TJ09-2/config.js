@@ -116,8 +116,8 @@ const config = {
       hidden: false,
       title: '呉湾艦船めぐり',
       image: '',
-      tweet_id: '1614968966291783681',
-      description: '<p>3巻 P14  広島県呉市 宝町4</p><div class="tweetContainer" id="tweet1614968966291783681"></div> ',
+      tweet_id: '',
+      description: '<p>3巻 P14  広島県呉市 宝町4</p> <p><img alt="広島" src="https://live.staticflickr.com/65535/52461571357_6635b8da4f_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.2405577&amp;lon=132.5564318&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【広島】 by TAKEGTX</p>',
       location: {
         center: [132.5564318, 34.2405577],
         zoom: 14,
@@ -136,8 +136,8 @@ const config = {
       hidden: false,
       title: '大和ミュージアム（呉市海事歴史科学館）',
       image: '',
-      tweet_id: '1614838788215169026',
-      description: '<p>3巻 P15  広島県呉市 宝町4</p><div class="tweetContainer" id="tweet1614838788215169026"></div> ',
+      tweet_id: '',
+      description: '<p>3巻 P15  広島県呉市 宝町4</p> <p><img alt="広島" src="https://live.staticflickr.com/65535/52462086541_f18f92532c_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.2411391&amp;lon=132.5558555&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【広島】 by TAKEGTX</p>',
       location: {
         center: [132.5558555, 34.2411391],
         zoom: 14,

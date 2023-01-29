@@ -57,7 +57,7 @@ const config = {
       title: '瀬戸浜海岸',
       image: '',
       tweet_id: '',
-      description: '<p>8巻 P5  千葉県南房総市 千倉町瀬戸</p> <p><img alt="DSC00080" src="https://live.staticflickr.com/7443/16476428926_54538fe18f_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.973351&amp;lon=139.962721&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【DSC00080】 by Wesley Tsang</p>',
+      description: '<p>8巻 P5  千葉県南房総市 千倉町瀬戸</p> <p><img alt="瀬戸浜" src="https://live.staticflickr.com/4166/34335655841_de6343c04e_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.973351&amp;lon=139.962721&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【瀬戸浜】 by BlueSky_s</p>',
       location: {
         center: [139.962721, 34.973351],
         zoom: 14,
@@ -117,7 +117,7 @@ const config = {
       title: '寿司と地魚料理 大徳家',
       image: '',
       tweet_id: '',
-      description: '<p>8巻 P7  千葉県南房総市 千倉町平舘</p> <p><img alt="210102_nex_035" src="https://live.staticflickr.com/65535/50959388273_d3cb6af79a_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.9602825&amp;lon=139.9593564&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【210102_nex_035】 by Matsui Hiroyuki</p>',
+      description: '<p>8巻 P7  千葉県南房総市 千倉町平舘</p> <p><img alt="210102_nex_020" src="https://live.staticflickr.com/65535/50959388768_0e1884f8fa_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.9602825&amp;lon=139.9593564&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【210102_nex_020】 by Matsui Hiroyuki</p>',
       location: {
         center: [139.9593564, 34.9602825],
         zoom: 14,
@@ -137,7 +137,7 @@ const config = {
       title: '千葉銀行 千倉支店',
       image: '',
       tweet_id: '',
-      description: '<p>8巻 P8  千葉県南房総市 千倉町平舘</p> <p><img alt="210102_nex_020" src="https://live.staticflickr.com/65535/50959388768_0e1884f8fa_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.95936&amp;lon=139.9592&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【210102_nex_020】 by Matsui Hiroyuki</p>',
+      description: '<p>8巻 P8  千葉県南房総市 千倉町平舘</p> <p><img alt="210102_nex_025" src="https://live.staticflickr.com/65535/50960190132_09f20e5a54_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.95936&amp;lon=139.9592&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【210102_nex_025】 by Matsui Hiroyuki</p>',
       location: {
         center: [139.9592, 34.95936],
         zoom: 14,
@@ -217,7 +217,7 @@ const config = {
       title: '房総半島最南端之碑',
       image: '',
       tweet_id: '',
-      description: '<p>8巻 P13  千葉県南房総市 </p> <p><img alt="R0011417 パノラマ" src="https://live.staticflickr.com/65535/50618657233_68eacd1bdc_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.9003949&amp;lon=139.8880755&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【R0011417 パノラマ】 by TAKUMA KIMURA</p>',
+      description: '<p>8巻 P13  千葉県南房総市 </p> <p><img alt="野島崎" src="https://live.staticflickr.com/65535/52614419439_1461bfca62_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.9003949&amp;lon=139.8880755&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【野島崎】 by BlueSky_s</p>',
       location: {
         center: [139.8880755, 34.9003949],
         zoom: 14,
@@ -256,8 +256,8 @@ const config = {
       hidden: false,
       title: '最南端',
       image: '',
-      tweet_id: '1617765029088231424',
-      description: '<p>8巻 P14  千葉県南房総市 </p><div class="tweetContainer" id="tweet1617765029088231424"></div> ',
+      tweet_id: '1619241765126705152',
+      description: '<p>8巻 P14  千葉県南房総市 </p><div class="tweetContainer" id="tweet1619241765126705152"></div> ',
       location: {
         center: [139.879022, 34.904775],
         zoom: 14,
@@ -296,8 +296,8 @@ const config = {
       hidden: false,
       title: '浜金谷駅',
       image: '',
-      tweet_id: '',
-      description: '<p>8巻 P23  千葉県富津市 </p> <p><img alt="Kanaya#2" src="https://live.staticflickr.com/65535/51733341533_7f139e0b60_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.1681316&amp;lon=139.8222539&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Kanaya#2】 by tetsuo5</p>',
+      tweet_id: '1619464619621220354',
+      description: '<p>8巻 P23  千葉県富津市 </p><div class="tweetContainer" id="tweet1619464619621220354"></div> ',
       location: {
         center: [139.8222539, 35.1681316],
         zoom: 14,
@@ -317,7 +317,7 @@ const config = {
       title: '鋸山ロープウェー',
       image: '',
       tweet_id: '',
-      description: '<p>8巻 P23  千葉県富津市 </p> <p><img alt="R0010324_xmp" src="https://live.staticflickr.com/65535/50527358672_7b4cfdd477_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.1622171&amp;lon=139.8230802&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【R0010324_xmp】 by few0010</p>',
+      description: '<p>8巻 P23  千葉県富津市 </p> <p><img alt="R0010323_xmp" src="https://live.staticflickr.com/65535/50527211156_2c46ed6036_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.1622171&amp;lon=139.8230802&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【R0010323_xmp】 by few0010</p>',
       location: {
         center: [139.8230802, 35.1622171],
         zoom: 14,
@@ -497,7 +497,7 @@ const config = {
       title: '朝日と夕日の見えるベンチ',
       image: '',
       tweet_id: '',
-      description: '<p>8巻 P35  千葉県南房総市 </p> <p><img alt="野島崎" src="https://live.staticflickr.com/65535/52614419439_1461bfca62_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.9002208&amp;lon=139.8882015&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【野島崎】 by BlueSky_s</p>',
+      description: '<p>8巻 P35  千葉県南房総市 </p> <p><img alt="R0011417 パノラマ" src="https://live.staticflickr.com/65535/50618657233_68eacd1bdc_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.9002208&amp;lon=139.8882015&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【R0011417 パノラマ】 by TAKUMA KIMURA</p>',
       location: {
         center: [139.8882015, 34.9002208],
         zoom: 14,
