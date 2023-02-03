@@ -117,7 +117,7 @@ const config = {
       title: '三途の川',
       image: '',
       tweet_id: '',
-      description: '<p>3巻 P49  青森県むつ市 </p> <p><img alt="Mutsu Oct 17 68" src="https://live.staticflickr.com/5794/21971110014_5ec226ab08_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=41.3260657&amp;lon=141.0962272&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Mutsu Oct 17 68】 by tculek</p>',
+      description: '<p>3巻 P49  青森県むつ市 </p> <p><img alt="Mutsu Oct 17 55" src="https://live.staticflickr.com/566/22580331092_51a11811f9_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=41.3260657&amp;lon=141.0962272&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Mutsu Oct 17 55】 by tculek</p>',
       location: {
         center: [141.0962272, 41.3260657],
         zoom: 14,
@@ -137,7 +137,7 @@ const config = {
       title: '恐山菩提寺',
       image: '',
       tweet_id: '',
-      description: '<p>3巻 P49  青森県むつ市 </p> <p><img alt="Chinoike jigoku" src="https://live.staticflickr.com/65535/51547080287_a44e1ba135_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=41.327247&amp;lon=141.0907618&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Chinoike jigoku】 by SocialHermit</p>',
+      description: '<p>3巻 P49  青森県むつ市 </p> <p><img alt="Pekelná krajina" src="https://live.staticflickr.com/65535/51548121888_2ae021f18a_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=41.327247&amp;lon=141.0907618&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Pekelná krajina】 by SocialHermit</p>',
       location: {
         center: [141.0907618, 41.327247],
         zoom: 14,

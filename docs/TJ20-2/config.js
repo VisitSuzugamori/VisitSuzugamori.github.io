@@ -16,8 +16,8 @@ const config = {
       hidden: false,
       title: '東京駅',
       image: '',
-      tweet_id: '1619249644546162688',
-      description: '<p>6巻 P132  東京都千代田区 丸の内一丁目9</p><div class="tweetContainer" id="tweet1619249644546162688"></div> ',
+      tweet_id: '1620556420432429056',
+      description: '<p>6巻 P132  東京都千代田区 丸の内一丁目9</p><div class="tweetContainer" id="tweet1620556420432429056"></div> ',
       location: {
         center: [139.7671248, 35.6812362],
         zoom: 14,
@@ -116,8 +116,8 @@ const config = {
       hidden: false,
       title: '高知駅',
       image: '',
-      tweet_id: '1616254640861106176',
-      description: '<p>6巻 P122  高知県高知市 栄田町二丁目1</p><div class="tweetContainer" id="tweet1616254640861106176"></div> ',
+      tweet_id: '1619835279313088514',
+      description: '<p>6巻 P122  高知県高知市 栄田町二丁目1</p><div class="tweetContainer" id="tweet1619835279313088514"></div> ',
       location: {
         center: [133.5436452, 33.5672271],
         zoom: 14,
@@ -156,8 +156,8 @@ const config = {
       hidden: false,
       title: '奈半利駅',
       image: '',
-      tweet_id: '1616650269517045765',
-      description: '<p>6巻 P124  高知県安芸郡 奈半利町 乙978</p><div class="tweetContainer" id="tweet1616650269517045765"></div> ',
+      tweet_id: '1621352687177695236',
+      description: '<p>6巻 P124  高知県安芸郡 奈半利町 乙978</p><div class="tweetContainer" id="tweet1621352687177695236"></div> ',
       location: {
         center: [134.0180808, 33.4250302],
         zoom: 14,

@@ -17,7 +17,7 @@ const config = {
       title: '潮岬観光タワー',
       image: '',
       tweet_id: '',
-      description: '<p>8巻 P149  和歌山県東牟婁郡 串本町 </p> <p><img alt="Cape Shionomisaki, Wakayama" src="https://live.staticflickr.com/65535/52630088168_6b5c97a8d2_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=33.437806&amp;lon=135.7613677&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Cape Shionomisaki, Wakayama】 by Kzaral</p>',
+      description: '<p>8巻 P149  和歌山県東牟婁郡 串本町 </p> <p><img alt="Cape Shionomisaki, Wakayama" src="https://live.staticflickr.com/65535/52629608516_250ae611f5_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=33.437806&amp;lon=135.7613677&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Cape Shionomisaki, Wakayama】 by Kzaral</p>',
       location: {
         center: [135.7613677, 33.437806],
         zoom: 14,
@@ -77,7 +77,7 @@ const config = {
       title: '東京港フェリーターミナル',
       image: '',
       tweet_id: '',
-      description: '<p>8巻 P136  東京都江東区 有明四丁目8</p> <p><img alt="190813_102_EOSR1124" src="https://live.staticflickr.com/65535/48584652881_abd0564a3f_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.6174045&amp;lon=139.7957527&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【190813_102_EOSR1124】 by oda.shinsuke</p>',
+      description: '<p>8巻 P136  東京都江東区 有明四丁目8</p> <p><img alt="190813_101_EOSR1122" src="https://live.staticflickr.com/65535/48584799312_84cdceaeb8_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.6174045&amp;lon=139.7957527&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【190813_101_EOSR1122】 by oda.shinsuke</p>',
       location: {
         center: [139.7957527, 35.6174045],
         zoom: 14,
@@ -96,8 +96,8 @@ const config = {
       hidden: false,
       title: '東京ゲートブリッジ',
       image: '',
-      tweet_id: '1619327515788738562',
-      description: '<p>8巻 P144  </p><div class="tweetContainer" id="tweet1619327515788738562"></div> ',
+      tweet_id: '1619999725071257601',
+      description: '<p>8巻 P144  </p><div class="tweetContainer" id="tweet1619999725071257601"></div> ',
       location: {
         center: [139.8288838, 35.6122153],
         zoom: 14,

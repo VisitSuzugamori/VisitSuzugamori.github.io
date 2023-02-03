@@ -16,8 +16,8 @@ const config = {
       hidden: false,
       title: '嚴島神社',
       image: '',
-      tweet_id: '1616962367136600066',
-      description: '<p>3巻 P5  </p><div class="tweetContainer" id="tweet1616962367136600066"></div> ',
+      tweet_id: '1619302505804099584',
+      description: '<p>3巻 P5  </p><div class="tweetContainer" id="tweet1619302505804099584"></div> ',
       location: {
         center: [132.3198262, 34.2959885],
         zoom: 14,
@@ -116,8 +116,8 @@ const config = {
       hidden: false,
       title: '呉湾艦船めぐり',
       image: '',
-      tweet_id: '',
-      description: '<p>3巻 P14  広島県呉市 宝町4</p> <p><img alt="広島" src="https://live.staticflickr.com/65535/52461571357_6635b8da4f_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.2405577&amp;lon=132.5564318&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【広島】 by TAKEGTX</p>',
+      tweet_id: '1619904839382884353',
+      description: '<p>3巻 P14  広島県呉市 宝町4</p><div class="tweetContainer" id="tweet1619904839382884353"></div> ',
       location: {
         center: [132.5564318, 34.2405577],
         zoom: 14,
@@ -136,8 +136,8 @@ const config = {
       hidden: false,
       title: '大和ミュージアム（呉市海事歴史科学館）',
       image: '',
-      tweet_id: '',
-      description: '<p>3巻 P15  広島県呉市 宝町4</p> <p><img alt="広島" src="https://live.staticflickr.com/65535/52462086541_f18f92532c_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.2411391&amp;lon=132.5558555&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【広島】 by TAKEGTX</p>',
+      tweet_id: '1619969252202582016',
+      description: '<p>3巻 P15  広島県呉市 宝町4</p><div class="tweetContainer" id="tweet1619969252202582016"></div> ',
       location: {
         center: [132.5558555, 34.2411391],
         zoom: 14,
@@ -216,8 +216,8 @@ const config = {
       hidden: false,
       title: '頂上展望台',
       image: '',
-      tweet_id: '1616674880430440448',
-      description: '<p>3巻 P21  広島県尾道市 東土堂町20</p><div class="tweetContainer" id="tweet1616674880430440448"></div> ',
+      tweet_id: '',
+      description: '<p>3巻 P21  広島県尾道市 東土堂町20</p> <p><img alt="steps" src="https://live.staticflickr.com/65535/52531273916_01ef516bf3_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.4106865&amp;lon=133.1969604&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【steps】 by michalskalski</p>',
       location: {
         center: [133.1969604, 34.4106865],
         zoom: 14,
