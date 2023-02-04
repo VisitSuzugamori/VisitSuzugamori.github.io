@@ -56,8 +56,8 @@ const config = {
       hidden: false,
       title: '羽田空港',
       image: '',
-      tweet_id: '1620230871059161090',
-      description: '<p>7巻 P76  東京都大田区 羽田空港三丁目3</p><div class="tweetContainer" id="tweet1620230871059161090"></div> ',
+      tweet_id: '1620902249718484992',
+      description: '<p>7巻 P76  東京都大田区 羽田空港三丁目3</p><div class="tweetContainer" id="tweet1620902249718484992"></div> ',
       location: {
         center: [139.7798386, 35.5493932],
         zoom: 14,

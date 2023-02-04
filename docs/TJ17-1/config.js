@@ -16,8 +16,8 @@ const config = {
       hidden: false,
       title: '東京駅',
       image: '',
-      tweet_id: '1620527458742312963',
-      description: '<p>5巻 P60  東京都千代田区 丸の内一丁目9</p><div class="tweetContainer" id="tweet1620527458742312963"></div> ',
+      tweet_id: '1621091165830516736',
+      description: '<p>5巻 P60  東京都千代田区 丸の内一丁目9</p><div class="tweetContainer" id="tweet1621091165830516736"></div> ',
       location: {
         center: [139.7671248, 35.6812362],
         zoom: 14,
@@ -76,8 +76,8 @@ const config = {
       hidden: false,
       title: '耶馬溪',
       image: '',
-      tweet_id: '',
-      description: '<p>5巻 P66  大分県中津市 本耶馬渓町樋田</p> ',
+      tweet_id: '1621398840518508546',
+      description: '<p>5巻 P66  大分県中津市 本耶馬渓町樋田</p><div class="tweetContainer" id="tweet1621398840518508546"></div> ',
       location: {
         center: [131.1779366, 33.4947001],
         zoom: 14,

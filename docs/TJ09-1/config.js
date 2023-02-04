@@ -136,8 +136,8 @@ const config = {
       hidden: false,
       title: '宮島桟橋',
       image: '',
-      tweet_id: '1618504242276499458',
-      description: '<p>2巻 P151  広島県廿日市市 宮島町873</p><div class="tweetContainer" id="tweet1618504242276499458"></div> ',
+      tweet_id: '1621452983048503299',
+      description: '<p>2巻 P151  広島県廿日市市 宮島町873</p><div class="tweetContainer" id="tweet1621452983048503299"></div> ',
       location: {
         center: [132.3222151, 34.3020862],
         zoom: 14,
