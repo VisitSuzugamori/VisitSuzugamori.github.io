@@ -57,7 +57,7 @@ const config = {
       title: '新町下公民館',
       image: '',
       tweet_id: '',
-      description: '<p>8巻 P56  山梨県甲斐市 竜王新町335</p> ',
+      description: '<p>8巻 P56  山梨県甲斐市 竜王新町335</p> <p><img alt="甲州道中(甲府柳町宿〜韮崎宿)" src="https://live.staticflickr.com/65535/52439343938_3a10557436_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.6667113&amp;lon=138.5180877&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【甲州道中(甲府柳町宿〜韮崎宿)】 by cyberwonk</p>',
       location: {
         center: [138.5180877, 35.6667113],
         zoom: 14,
@@ -77,7 +77,7 @@ const config = {
       title: '道祖神',
       image: '',
       tweet_id: '',
-      description: '<p>8巻 P57  山梨県甲斐市 竜王新町6</p> <p><img alt="甲州道中(甲府柳町宿〜韮崎宿)" src="https://live.staticflickr.com/65535/52439343938_3a10557436_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.6666535&amp;lon=138.5177299&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【甲州道中(甲府柳町宿〜韮崎宿)】 by cyberwonk</p>',
+      description: '<p>8巻 P57  山梨県甲斐市 竜王新町6</p> ',
       location: {
         center: [138.5177299, 35.6666535],
         zoom: 14,
@@ -336,8 +336,8 @@ const config = {
       hidden: false,
       title: '甲府駅',
       image: '',
-      tweet_id: '1621742717620621312',
-      description: '<p>8巻 P83  山梨県甲府市 丸の内一丁目3</p><div class="tweetContainer" id="tweet1621742717620621312"></div> ',
+      tweet_id: '1622152344506101760',
+      description: '<p>8巻 P83  山梨県甲府市 丸の内一丁目3</p><div class="tweetContainer" id="tweet1622152344506101760"></div> ',
       location: {
         center: [138.5690631, 35.6670981],
         zoom: 14,

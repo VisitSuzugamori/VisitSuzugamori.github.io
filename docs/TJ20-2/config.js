@@ -156,8 +156,8 @@ const config = {
       hidden: false,
       title: '奈半利駅',
       image: '',
-      tweet_id: '1621352687177695236',
-      description: '<p>6巻 P124  高知県安芸郡 奈半利町 乙978</p><div class="tweetContainer" id="tweet1621352687177695236"></div> ',
+      tweet_id: '1622081426043850752',
+      description: '<p>6巻 P124  高知県安芸郡 奈半利町 乙978</p><div class="tweetContainer" id="tweet1622081426043850752"></div> ',
       location: {
         center: [134.0180808, 33.4250302],
         zoom: 14,

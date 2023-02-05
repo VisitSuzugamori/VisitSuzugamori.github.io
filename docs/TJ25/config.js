@@ -36,8 +36,8 @@ const config = {
       hidden: false,
       title: '鹿児島中央駅',
       image: '',
-      tweet_id: '1621063655637848064',
-      description: '<p>8巻 P101  鹿児島県鹿児島市 武一丁目1</p><div class="tweetContainer" id="tweet1621063655637848064"></div> ',
+      tweet_id: '1622198684544020480',
+      description: '<p>8巻 P101  鹿児島県鹿児島市 武一丁目1</p><div class="tweetContainer" id="tweet1622198684544020480"></div> ',
       location: {
         center: [130.5417154, 31.5836893],
         zoom: 14,
