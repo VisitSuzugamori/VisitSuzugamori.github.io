@@ -137,7 +137,7 @@ const config = {
       title: '三陸海鮮料理 たからや食堂',
       image: '',
       tweet_id: '',
-      description: '<p>1巻 P69  宮城県宮城郡 松島町 松島字浪打浜</p> <p><img alt="DSCN8154" src="https://live.staticflickr.com/65535/52548924066_71fdbe1d39_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=38.3685198&amp;lon=141.0595572&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【DSCN8154】 by JohnSeb</p>',
+      description: '<p>1巻 P69  宮城県宮城郡 松島町 松島字浪打浜</p> <p><img alt="松島" src="https://live.staticflickr.com/65535/52032036865_d6f12b92c9_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=38.3685198&amp;lon=141.0595572&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【松島】 by Chitaka Chou</p>',
       location: {
         center: [141.0595572, 38.3685198],
         zoom: 14,
@@ -156,8 +156,8 @@ const config = {
       hidden: false,
       title: '瑞巌寺',
       image: '',
-      tweet_id: '1619213470007959552',
-      description: '<p>1巻 P69  宮城県宮城郡 松島町 松島字町内</p><div class="tweetContainer" id="tweet1619213470007959552"></div> ',
+      tweet_id: '',
+      description: '<p>1巻 P69  宮城県宮城郡 松島町 松島字町内</p> <p><img alt="20221025_112509" src="https://live.staticflickr.com/65535/52563730330_1ab5686073_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=38.3718733&amp;lon=141.0603899&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【20221025_112509】 by JohnSeb</p>',
       location: {
         center: [141.0603899, 38.3718733],
         zoom: 14,
@@ -177,7 +177,7 @@ const config = {
       title: 'うな真石田家',
       image: '',
       tweet_id: '',
-      description: '<p>1巻 P76  宮城県宮城郡 松島町 松島字仙隨</p> <p><img alt="DSCN8198" src="https://live.staticflickr.com/65535/52551758908_bf6124f115_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=38.3707103&amp;lon=141.065417&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【DSCN8198】 by JohnSeb</p>',
+      description: '<p>1巻 P76  宮城県宮城郡 松島町 松島字仙隨</p> <p><img alt="DSCN8197" src="https://live.staticflickr.com/65535/52551214981_fbdf5f89ae_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=38.3707103&amp;lon=141.065417&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【DSCN8197】 by JohnSeb</p>',
       location: {
         center: [141.065417, 38.3707103],
         zoom: 14,
@@ -257,7 +257,7 @@ const config = {
       title: '（閉店）笹かま販売所',
       image: '',
       tweet_id: '',
-      description: '<p>1巻 P85  宮城県宮城郡 松島町 松島字浪打浜</p> <p><img alt="松島海岸駅" src="https://live.staticflickr.com/65535/51828227348_8827632042_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=38.3683903&amp;lon=141.0588914&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【松島海岸駅】 by Chitaka Chou</p>',
+      description: '<p>1巻 P85  宮城県宮城郡 松島町 松島字浪打浜</p> <p><img alt="DSCN8154" src="https://live.staticflickr.com/65535/52548924066_71fdbe1d39_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=38.3683903&amp;lon=141.0588914&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【DSCN8154】 by JohnSeb</p>',
       location: {
         center: [141.0588914, 38.3683903],
         zoom: 14,

@@ -97,7 +97,7 @@ const config = {
       title: '湯川第２街区公園',
       image: '',
       tweet_id: '',
-      description: '<p>7巻 P39  北海道函館市 湯川町三丁目12</p> <p><img alt="IMAG6432" src="https://live.staticflickr.com/65535/52018925572_cb93c68cb2_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=41.7770914&amp;lon=140.7929599&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【IMAG6432】 by 形影believe</p>',
+      description: '<p>7巻 P39  北海道函館市 湯川町三丁目12</p> <p><img alt="IMAG6433" src="https://live.staticflickr.com/65535/52020214834_b040be257a_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=41.7770914&amp;lon=140.7929599&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【IMAG6433】 by 形影believe</p>',
       location: {
         center: [140.7929599, 41.7770914],
         zoom: 14,
@@ -117,7 +117,7 @@ const config = {
       title: '函館市熱帯植物園駐車場',
       image: '',
       tweet_id: '',
-      description: '<p>7巻 P39  北海道函館市 湯川町二丁目1</p> <p><img alt="サル" src="https://live.staticflickr.com/65535/50988709657_a0471018a3_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=41.7741951&amp;lon=140.7883462&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【サル】 by Chitaka Chou</p>',
+      description: '<p>7巻 P39  北海道函館市 湯川町二丁目1</p> <p><img alt="サル" src="https://live.staticflickr.com/65535/50987897093_9e724a25ea_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=41.7741951&amp;lon=140.7883462&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【サル】 by Chitaka Chou</p>',
       location: {
         center: [140.7883462, 41.7741951],
         zoom: 14,
@@ -137,7 +137,7 @@ const config = {
       title: '湯川堤防',
       image: '',
       tweet_id: '',
-      description: '<p>7巻 P40  北海道函館市 湯川町三丁目1</p> <p><img alt="IMG20180204113532" src="https://live.staticflickr.com/1958/44915848902_f4cfc34975_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=41.7731667&amp;lon=140.7874485&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【IMG20180204113532】 by redice0112</p>',
+      description: '<p>7巻 P40  北海道函館市 湯川町三丁目1</p> <p><img alt="2018 - 0807 iMG_783 平成館しおさい亭別館花月" src="https://live.staticflickr.com/1873/30457375638_3e720b770d_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=41.7731667&amp;lon=140.7874485&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【2018 - 0807 iMG_783 平成館しおさい亭別館花月】 by PIPIQ.LAI</p>',
       location: {
         center: [140.7874485, 41.7731667],
         zoom: 14,
@@ -177,7 +177,7 @@ const config = {
       title: '漁火通',
       image: '',
       tweet_id: '',
-      description: '<p>7巻 P45  北海道函館市 金堀町2</p> <p><img alt="DSC01096" src="https://live.staticflickr.com/7005/27302570501_2c87ae78e7_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=41.7736848&amp;lon=140.7572748&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【DSC01096】 by 騰子</p>',
+      description: '<p>7巻 P45  北海道函館市 金堀町2</p> <p><img alt="DSC_4663" src="https://live.staticflickr.com/7567/15820718495_a6d25072ef_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=41.7736848&amp;lon=140.7572748&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【DSC_4663】 by fliesyan</p>',
       location: {
         center: [140.7572748, 41.7736848],
         zoom: 14,
@@ -277,7 +277,7 @@ const config = {
       title: '石川啄木一族の墓',
       image: '',
       tweet_id: '',
-      description: '<p>7巻 P49  北海道函館市 住吉町15</p> <p><img alt="北海道 函館 Hakodate, Hokkaido, Japan" src="https://live.staticflickr.com/4453/37534148784_3503dc3381_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=41.7474858&amp;lon=140.7194496&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【北海道 函館 Hakodate, Hokkaido, Japan】 by スーパーサイヤ人Ⅳ</p>',
+      description: '<p>7巻 P49  </p> <p><img alt="北海道 函館 Hakodate, Hokkaido, Japan" src="https://live.staticflickr.com/4560/37534155994_5c3fc4a194_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=41.7474858&amp;lon=140.7194496&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【北海道 函館 Hakodate, Hokkaido, Japan】 by スーパーサイヤ人Ⅳ</p>',
       location: {
         center: [140.7194496, 41.7474858],
         zoom: 14,
@@ -337,7 +337,7 @@ const config = {
       title: '森駅',
       image: '',
       tweet_id: '',
-      description: '<p>7巻 P62  北海道茅部郡 森町 字本町131</p> <p><img alt="mori_20221231064825" src="https://live.staticflickr.com/65535/52652541669_04569be17b_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=42.1089297&amp;lon=140.5739136&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【mori_20221231064825】 by inunami</p>',
+      description: '<p>7巻 P62  北海道茅部郡 森町 字本町131</p> <p><img alt="mori_20221231064850" src="https://live.staticflickr.com/65535/52652709775_3cfb50ec18_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=42.1089297&amp;lon=140.5739136&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【mori_20221231064850】 by inunami</p>',
       location: {
         center: [140.5739136, 42.1089297],
         zoom: 14,

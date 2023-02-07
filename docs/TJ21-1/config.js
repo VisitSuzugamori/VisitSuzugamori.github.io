@@ -196,8 +196,8 @@ const config = {
       hidden: false,
       title: '二十間坂',
       image: '',
-      tweet_id: '',
-      description: '<p>7巻 P25  北海道函館市 末広町16</p> <p><img alt="DSC_0504" src="https://live.staticflickr.com/65535/51373178361_b4102b2024_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=41.7643549&amp;lon=140.7161274&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【DSC_0504】 by ylefou2004</p>',
+      tweet_id: '1622815840923164674',
+      description: '<p>7巻 P25  北海道函館市 末広町16</p><div class="tweetContainer" id="tweet1622815840923164674"></div> ',
       location: {
         center: [140.7161274, 41.7643549],
         zoom: 14,
