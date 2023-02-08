@@ -56,8 +56,8 @@ const config = {
       hidden: false,
       title: '宮沢賢治記念館',
       image: '',
-      tweet_id: '1619605515360927746',
-      description: '<p>3巻 P91  岩手県花巻市 矢沢第一地割15</p><div class="tweetContainer" id="tweet1619605515360927746"></div> ',
+      tweet_id: '',
+      description: '<p>3巻 P91  岩手県花巻市 矢沢第一地割15</p> <p><img alt="20200201_111209" src="https://live.staticflickr.com/65535/49525100391_19659df9aa_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=39.3992073&amp;lon=141.1626699&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【20200201_111209】 by honhong1598</p>',
       location: {
         center: [141.1626699, 39.3992073],
         zoom: 14,
@@ -277,7 +277,7 @@ const config = {
       title: '中尊寺',
       image: '',
       tweet_id: '',
-      description: '<p>3巻 P118  岩手県西磐井郡 平泉町 平泉43</p> <p><img alt="中尊寺" src="https://live.staticflickr.com/65535/52033499256_ca99119c64_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=39.0017355&amp;lon=141.102596&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【中尊寺】 by Chitaka Chou</p>',
+      description: '<p>3巻 P118  岩手県西磐井郡 平泉町 平泉43</p> <p><img alt="中尊寺" src="https://live.staticflickr.com/65535/52033499371_2b190175c3_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=39.0017355&amp;lon=141.102596&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【中尊寺】 by Chitaka Chou</p>',
       location: {
         center: [141.102596, 39.0017355],
         zoom: 14,
@@ -297,7 +297,7 @@ const config = {
       title: '材木町公園',
       image: '',
       tweet_id: '',
-      description: '<p>3巻 P121  岩手県花巻市 材木町3</p> <p><img alt="花巻交通デハ3" src="https://live.staticflickr.com/8117/8660594588_bcde83f159_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=39.3894289&amp;lon=141.1091143&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【花巻交通デハ3】 by OOMYV</p>',
+      description: '<p>3巻 P121  岩手県花巻市 材木町3</p> <p><img alt="花巻交通デハ3" src="https://live.staticflickr.com/8109/8659495921_f54aa2ecb4_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=39.3894289&amp;lon=141.1091143&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【花巻交通デハ3】 by OOMYV</p>',
       location: {
         center: [141.1091143, 39.3894289],
         zoom: 14,

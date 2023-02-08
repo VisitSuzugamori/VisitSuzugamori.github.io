@@ -16,8 +16,8 @@ const config = {
       hidden: false,
       title: '函館駅',
       image: '',
-      tweet_id: '1622131735235383296',
-      description: '<p>7巻 P4,20  北海道函館市 若松町12</p><div class="tweetContainer" id="tweet1622131735235383296"></div> ',
+      tweet_id: '1622927620261433345',
+      description: '<p>7巻 P4,20  北海道函館市 若松町12</p><div class="tweetContainer" id="tweet1622927620261433345"></div> ',
       location: {
         center: [140.7264741, 41.7737804],
         zoom: 14,

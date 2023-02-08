@@ -96,8 +96,8 @@ const config = {
       hidden: false,
       title: '道の駅 おおた',
       image: '',
-      tweet_id: '1619552418655604737',
-      description: '<p>6巻 P40  群馬県太田市 粕川町701</p><div class="tweetContainer" id="tweet1619552418655604737"></div> ',
+      tweet_id: '1622300358021373952',
+      description: '<p>6巻 P40  群馬県太田市 粕川町701</p><div class="tweetContainer" id="tweet1622300358021373952"></div> ',
       location: {
         center: [139.2959965, 36.2645224],
         zoom: 14,

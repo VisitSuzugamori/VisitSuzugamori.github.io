@@ -16,8 +16,8 @@ const config = {
       hidden: false,
       title: '東京ドームホテル',
       image: '',
-      tweet_id: '1619699699296108544',
-      description: '<p>2巻 P132  東京都文京区 後楽一丁目3</p><div class="tweetContainer" id="tweet1619699699296108544"></div> ',
+      tweet_id: '1622513964742750215',
+      description: '<p>2巻 P132  東京都文京区 後楽一丁目3</p><div class="tweetContainer" id="tweet1622513964742750215"></div> ',
       location: {
         center: [139.7533928, 35.7036666],
         zoom: 14,
@@ -36,8 +36,8 @@ const config = {
       hidden: false,
       title: '海老名SA (下り)',
       image: '',
-      tweet_id: '1619658568193671168',
-      description: '<p>2巻 P141  神奈川県海老名市 大谷南五丁目2</p><div class="tweetContainer" id="tweet1619658568193671168"></div> ',
+      tweet_id: '1621456127379521537',
+      description: '<p>2巻 P141  神奈川県海老名市 大谷南五丁目2</p><div class="tweetContainer" id="tweet1621456127379521537"></div> ',
       location: {
         center: [139.4010198, 35.4310702],
         zoom: 14,
@@ -76,8 +76,8 @@ const config = {
       hidden: false,
       title: '広島駅',
       image: '',
-      tweet_id: '1619557759816720385',
-      description: '<p>2巻 P146  広島県広島市 南区 松原町1</p><div class="tweetContainer" id="tweet1619557759816720385"></div> ',
+      tweet_id: '1622155029187821568',
+      description: '<p>2巻 P146  広島県広島市 南区 松原町1</p><div class="tweetContainer" id="tweet1622155029187821568"></div> ',
       location: {
         center: [132.4753786, 34.397667],
         zoom: 14,

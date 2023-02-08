@@ -77,7 +77,7 @@ const config = {
       title: '灰の集積所',
       image: '',
       tweet_id: '',
-      description: '<p>8巻 P103  鹿児島県鹿児島市 西千石町1</p> <p><img alt="DSCN5976" src="https://live.staticflickr.com/65535/50189017657_54de40d480_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=31.5869927&amp;lon=130.5472233&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【DSCN5976】 by JohnSeb</p>',
+      description: '<p>8巻 P103  鹿児島県鹿児島市 西千石町1</p> <p><img alt="Memorial on bridge" src="https://live.staticflickr.com/65535/50188804221_aa97551593_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=31.5869927&amp;lon=130.5472233&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Memorial on bridge】 by JohnSeb</p>',
       location: {
         center: [130.5472233, 31.5869927],
         zoom: 14,
@@ -116,8 +116,8 @@ const config = {
       hidden: false,
       title: 'くろいわラーメン 本店',
       image: '',
-      tweet_id: '1619564719551184903',
-      description: '<p>8巻 P104  鹿児島県鹿児島市 東千石町8</p><div class="tweetContainer" id="tweet1619564719551184903"></div> ',
+      tweet_id: '',
+      description: '<p>8巻 P104  鹿児島県鹿児島市 東千石町8</p> <p><img alt="Kagoshima Tram, Kyushu, Japan" src="https://live.staticflickr.com/65535/52574453901_e4d0369f54_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=31.5914029&amp;lon=130.553828&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Kagoshima Tram, Kyushu, Japan】 by globetrekimages</p>',
       location: {
         center: [130.553828, 31.5914029],
         zoom: 14,
@@ -197,7 +197,7 @@ const config = {
       title: 'ウォーターフロントパーク',
       image: '',
       tweet_id: '',
-      description: '<p>8巻 P109  鹿児島県鹿児島市 本港新町5</p> <p><img alt="ウォーターフロントパーク" src="https://live.staticflickr.com/65535/50984498053_8cb6611f7d_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=31.5935195&amp;lon=130.5631033&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【ウォーターフロントパーク】 by Tak H.</p>',
+      description: '<p>8巻 P109  鹿児島県鹿児島市 本港新町5</p> <p><img alt="_DSC7273" src="https://live.staticflickr.com/65535/50185245077_19915b2744_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=31.5935195&amp;lon=130.5631033&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【_DSC7273】 by de98lip</p>',
       location: {
         center: [130.5631033, 31.5935195],
         zoom: 14,
@@ -237,7 +237,7 @@ const config = {
       title: '桜島シーサイドホテル',
       image: '',
       tweet_id: '',
-      description: '<p>8巻 P110  鹿児島県鹿児島市 古里町1076</p> <p><img alt="20120220-_DSC7099" src="https://live.staticflickr.com/4663/39763570861_cef074cb69_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=31.5521501&amp;lon=130.6587304&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【20120220-_DSC7099】 by Fomal Haut</p>',
+      description: '<p>8巻 P110  鹿児島県鹿児島市 古里町1076</p> <p><img alt="20120221-_DSC7573" src="https://live.staticflickr.com/4604/24900372627_30712b9034_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=31.5521501&amp;lon=130.6587304&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【20120221-_DSC7573】 by Fomal Haut</p>',
       location: {
         center: [130.6587304, 31.5521501],
         zoom: 14,
@@ -296,8 +296,8 @@ const config = {
       hidden: false,
       title: '桜島港フェリーターミナル',
       image: '',
-      tweet_id: '1619625764885860352',
-      description: '<p>8巻 P121  鹿児島県鹿児島市 桜島小池町</p><div class="tweetContainer" id="tweet1619625764885860352"></div> ',
+      tweet_id: '',
+      description: '<p>8巻 P121  鹿児島県鹿児島市 桜島小池町</p> <p><img alt="Dobrou noc, Sakuro..." src="https://live.staticflickr.com/65535/51264941657_8533342a2c_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=31.5920947&amp;lon=130.5997557&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Dobrou noc, Sakuro...】 by SocialHermit</p>',
       location: {
         center: [130.5997557, 31.5920947],
         zoom: 14,
@@ -317,7 +317,7 @@ const config = {
       title: '待避壕',
       image: '',
       tweet_id: '',
-      description: '<p>8巻 P129  鹿児島県鹿児島市 有村町5</p> <p><img alt="櫻島溫泉" src="https://live.staticflickr.com/5825/30523200391_617b6bfb5e_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=31.5530478&amp;lon=130.6611474&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【櫻島溫泉】 by samuie</p>',
+      description: '<p>8巻 P129  鹿児島県鹿児島市 有村町5</p> <p><img alt="20120220-_DSC6441" src="https://live.staticflickr.com/4653/39054166074_efcb9ac51a_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=31.5530478&amp;lon=130.6611474&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【20120220-_DSC6441】 by Fomal Haut</p>',
       location: {
         center: [130.6611474, 31.5530478],
         zoom: 14,

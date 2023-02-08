@@ -17,7 +17,7 @@ const config = {
       title: '白子漁港',
       image: '',
       tweet_id: '',
-      description: '<p>2巻 P96,97  三重県鈴鹿市 白子本町17</p> <p><img alt="白子漁港" src="https://live.staticflickr.com/7717/26464983984_b5026142f6_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.8308664&amp;lon=136.592541&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【白子漁港】 by Shigelli</p>',
+      description: '<p>2巻 P96,97  三重県鈴鹿市 白子本町17</p> <p><img alt="白子漁港で釣りしながら" src="https://live.staticflickr.com/1469/26032154623_2efd5bcc12_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.8308664&amp;lon=136.592541&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【白子漁港で釣りしながら】 by Shigelli</p>',
       location: {
         center: [136.592541, 34.8308664],
         zoom: 14,
@@ -37,7 +37,7 @@ const config = {
       title: '鈴鹿市漁業協同組合直販所 魚魚鈴(ととりん)',
       image: '',
       tweet_id: '',
-      description: '<p>2巻 P99  三重県鈴鹿市 白子一丁目6277</p> <p><img alt="白子漁港" src="https://live.staticflickr.com/5672/30207698280_03668ae265_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.8277194&amp;lon=136.5919642&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【白子漁港】 by Shigelli</p>',
+      description: '<p>2巻 P99  三重県鈴鹿市 白子一丁目6277</p> <p><img alt="白子漁港" src="https://live.staticflickr.com/8599/15625718730_3da3ce9fb9_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.8277194&amp;lon=136.5919642&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【白子漁港】 by Shigelli</p>',
       location: {
         center: [136.5919642, 34.8277194],
         zoom: 14,
