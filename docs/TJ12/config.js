@@ -276,8 +276,8 @@ const config = {
       hidden: false,
       title: '中尊寺',
       image: '',
-      tweet_id: '',
-      description: '<p>3巻 P118  岩手県西磐井郡 平泉町 平泉43</p> <p><img alt="中尊寺" src="https://live.staticflickr.com/65535/52033499371_2b190175c3_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=39.0017355&amp;lon=141.102596&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【中尊寺】 by Chitaka Chou</p>',
+      tweet_id: '1625007143614312448',
+      description: '<p>3巻 P118  岩手県西磐井郡 平泉町 平泉43</p><div class="tweetContainer" id="tweet1625007143614312448"></div> ',
       location: {
         center: [141.102596, 39.0017355],
         zoom: 14,

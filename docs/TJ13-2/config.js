@@ -16,8 +16,8 @@ const config = {
       hidden: false,
       title: '青石畳通り',
       image: '',
-      tweet_id: '1619833012086259713',
-      description: '<p>4巻 P5,20  島根県松江市 美保関町美保関</p><div class="tweetContainer" id="tweet1619833012086259713"></div> ',
+      tweet_id: '1623570523937464322',
+      description: '<p>4巻 P5,20  島根県松江市 美保関町美保関</p><div class="tweetContainer" id="tweet1623570523937464322"></div> ',
       location: {
         center: [133.3076796, 35.5625098],
         zoom: 14,

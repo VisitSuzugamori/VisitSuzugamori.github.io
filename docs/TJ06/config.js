@@ -177,7 +177,7 @@ const config = {
       title: '福住旅館',
       image: '',
       tweet_id: '',
-      description: '<p>2巻 P59  栃木県那須烏山市 金井二丁目20</p> <p><img alt="さて東京へ帰ろう(^_^)" src="https://live.staticflickr.com/5481/30655060942_15526fe086_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=36.650852&amp;lon=140.154528&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【さて東京へ帰ろう(^_^)】 by fox_kawai</p>',
+      description: '<p>2巻 P59  栃木県那須烏山市 金井二丁目20</p> <p><img alt="蓄電池電車(゜ロ゜)" src="https://live.staticflickr.com/5543/30683515341_efda522c1b_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=36.650852&amp;lon=140.154528&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【蓄電池電車(゜ロ゜)】 by fox_kawai</p>',
       location: {
         center: [140.154528, 36.650852],
         zoom: 14,

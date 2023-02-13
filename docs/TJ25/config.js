@@ -36,8 +36,8 @@ const config = {
       hidden: false,
       title: '鹿児島中央駅',
       image: '',
-      tweet_id: '1622198684544020480',
-      description: '<p>8巻 P101  鹿児島県鹿児島市 武一丁目1</p><div class="tweetContainer" id="tweet1622198684544020480"></div> ',
+      tweet_id: '1623876821698899969',
+      description: '<p>8巻 P101  鹿児島県鹿児島市 武一丁目1</p><div class="tweetContainer" id="tweet1623876821698899969"></div> ',
       location: {
         center: [130.5417154, 31.5836893],
         zoom: 14,
@@ -56,8 +56,8 @@ const config = {
       hidden: false,
       title: '大久保利通像',
       image: '',
-      tweet_id: '1621115359808856070',
-      description: '<p>8巻 P102  鹿児島県鹿児島市 西田一丁目5</p><div class="tweetContainer" id="tweet1621115359808856070"></div> ',
+      tweet_id: '1624377069185470466',
+      description: '<p>8巻 P102  鹿児島県鹿児島市 西田一丁目5</p><div class="tweetContainer" id="tweet1624377069185470466"></div> ',
       location: {
         center: [130.5461068, 31.586563],
         zoom: 14,
@@ -256,8 +256,8 @@ const config = {
       hidden: false,
       title: '黒神埋没鳥居',
       image: '',
-      tweet_id: '',
-      description: '<p>8巻 P117  鹿児島県鹿児島市 黒神町258</p> <p><img alt="黒神埋沒鳥居" src="https://live.staticflickr.com/65535/50840431221_7fa46e0c13_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=31.5845576&amp;lon=130.706257&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【黒神埋沒鳥居】 by Chitaka Chou</p>',
+      tweet_id: '1624588170938523650',
+      description: '<p>8巻 P117  鹿児島県鹿児島市 黒神町258</p><div class="tweetContainer" id="tweet1624588170938523650"></div> ',
       location: {
         center: [130.706257, 31.5845576],
         zoom: 14,
@@ -277,7 +277,7 @@ const config = {
       title: '椿の里(椿チャンポン)',
       image: '',
       tweet_id: '',
-      description: '<p>8巻 P118  鹿児島県鹿児島市 黒神町258</p> <p><img alt="黒神埋沒鳥居" src="https://live.staticflickr.com/65535/50840430876_2442a52eed_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=31.5847772&amp;lon=130.7064773&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【黒神埋沒鳥居】 by Chitaka Chou</p>',
+      description: '<p>8巻 P118  鹿児島県鹿児島市 黒神町258</p> <p><img alt="黒神埋沒鳥居" src="https://live.staticflickr.com/65535/50840431221_7fa46e0c13_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=31.5847772&amp;lon=130.7064773&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【黒神埋沒鳥居】 by Chitaka Chou</p>',
       location: {
         center: [130.7064773, 31.5847772],
         zoom: 14,
@@ -296,8 +296,8 @@ const config = {
       hidden: false,
       title: '桜島港フェリーターミナル',
       image: '',
-      tweet_id: '',
-      description: '<p>8巻 P121  鹿児島県鹿児島市 桜島小池町</p> <p><img alt="Dobrou noc, Sakuro..." src="https://live.staticflickr.com/65535/51264941657_8533342a2c_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=31.5920947&amp;lon=130.5997557&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Dobrou noc, Sakuro...】 by SocialHermit</p>',
+      tweet_id: '1624334642567430145',
+      description: '<p>8巻 P121  鹿児島県鹿児島市 桜島小池町</p><div class="tweetContainer" id="tweet1624334642567430145"></div> ',
       location: {
         center: [130.5997557, 31.5920947],
         zoom: 14,

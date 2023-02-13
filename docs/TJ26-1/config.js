@@ -76,8 +76,8 @@ const config = {
       hidden: false,
       title: '東京港フェリーターミナル',
       image: '',
-      tweet_id: '',
-      description: '<p>8巻 P136  東京都江東区 有明四丁目8</p> <p><img alt="190813_101_EOSR1122" src="https://live.staticflickr.com/65535/48584799312_84cdceaeb8_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.6174045&amp;lon=139.7957527&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【190813_101_EOSR1122】 by oda.shinsuke</p>',
+      tweet_id: '1623781348543430660',
+      description: '<p>8巻 P136  東京都江東区 有明四丁目8</p><div class="tweetContainer" id="tweet1623781348543430660"></div> ',
       location: {
         center: [139.7957527, 35.6174045],
         zoom: 14,
@@ -96,8 +96,8 @@ const config = {
       hidden: false,
       title: '東京ゲートブリッジ',
       image: '',
-      tweet_id: '1621314818623037441',
-      description: '<p>8巻 P144  </p><div class="tweetContainer" id="tweet1621314818623037441"></div> ',
+      tweet_id: '1624580451041185793',
+      description: '<p>8巻 P144  </p><div class="tweetContainer" id="tweet1624580451041185793"></div> ',
       location: {
         center: [139.8288838, 35.6122153],
         zoom: 14,

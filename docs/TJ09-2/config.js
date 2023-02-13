@@ -17,7 +17,7 @@ const config = {
       title: '嚴島神社',
       image: '',
       tweet_id: '',
-      description: '<p>3巻 P5  </p> <p><img alt="Red Pagoda" src="https://live.staticflickr.com/65535/52661664812_fec9c49bf0_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.2959885&amp;lon=132.3198262&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Red Pagoda】 by AboutSchmidt:-)</p>',
+      description: '<p>3巻 P5  </p> <p><img alt="Itsukushima Shrine" src="https://live.staticflickr.com/65535/52685561592_1969bd3f14_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.2959885&amp;lon=132.3198262&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Itsukushima Shrine】 by dean.white</p>',
       location: {
         center: [132.3198262, 34.2959885],
         zoom: 14,
@@ -36,8 +36,8 @@ const config = {
       hidden: false,
       title: '大聖院',
       image: '',
-      tweet_id: '1621414271438684160',
-      description: '<p>3巻 P8  広島県廿日市市 宮島町滝町215</p><div class="tweetContainer" id="tweet1621414271438684160"></div> ',
+      tweet_id: '1623126232480071686',
+      description: '<p>3巻 P8  広島県廿日市市 宮島町滝町215</p><div class="tweetContainer" id="tweet1623126232480071686"></div> ',
       location: {
         center: [132.3184736, 34.2920477],
         zoom: 14,
@@ -116,8 +116,8 @@ const config = {
       hidden: false,
       title: '呉湾艦船めぐり',
       image: '',
-      tweet_id: '1619904839382884353',
-      description: '<p>3巻 P14  広島県呉市 宝町4</p><div class="tweetContainer" id="tweet1619904839382884353"></div> ',
+      tweet_id: '',
+      description: '<p>3巻 P14  広島県呉市 宝町4</p> <p><img alt="広島" src="https://live.staticflickr.com/65535/52461571357_6635b8da4f_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.2405577&amp;lon=132.5564318&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【広島】 by TAKEGTX</p>',
       location: {
         center: [132.5564318, 34.2405577],
         zoom: 14,
@@ -136,8 +136,8 @@ const config = {
       hidden: false,
       title: '大和ミュージアム（呉市海事歴史科学館）',
       image: '',
-      tweet_id: '1622054052665196544',
-      description: '<p>3巻 P15  広島県呉市 宝町4</p><div class="tweetContainer" id="tweet1622054052665196544"></div> ',
+      tweet_id: '1624584048176668672',
+      description: '<p>3巻 P15  広島県呉市 宝町4</p><div class="tweetContainer" id="tweet1624584048176668672"></div> ',
       location: {
         center: [132.5558555, 34.2411391],
         zoom: 14,
@@ -216,8 +216,8 @@ const config = {
       hidden: false,
       title: '頂上展望台',
       image: '',
-      tweet_id: '',
-      description: '<p>3巻 P21  広島県尾道市 東土堂町20</p> <p><img alt="2022 Onomichi #1" src="https://live.staticflickr.com/65535/52499240224_5118f0bce8_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.4106865&amp;lon=133.1969604&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【2022 Onomichi #1】 by Yorkey&amp;Rin</p>',
+      tweet_id: '1624741882084597761',
+      description: '<p>3巻 P21  広島県尾道市 東土堂町20</p><div class="tweetContainer" id="tweet1624741882084597761"></div> ',
       location: {
         center: [133.1969604, 34.4106865],
         zoom: 14,
