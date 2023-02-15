@@ -34,7 +34,7 @@
   },
   "devDependencies": {
     "connect": "^3.7.0",
-    "eslint": "^8.33.0",
+    "eslint": "^8.34.0",
     "eslint-config-airbnb-base": "^15.0.0",
     "eslint-config-prettier": "^8.6.0",
     "eslint-plugin-import": "^2.27.5",
@@ -43,13 +43,13 @@
     "eslint-plugin-no-secrets": "^0.8.9",
     "eslint-plugin-node": "^11.1.0",
     "eslint-plugin-prettier": "^4.2.1",
-    "jest": "^29.4.1",
+    "jest": "^29.4.3",
     "morgan": "^1.10.0",
-    "prettier": "^2.8.3",
+    "prettier": "^2.8.4",
     "serve-static": "^1.15.0"
   },
   "dependencies": {
-    "@mapbox/mapbox-sdk": "^0.14.0",
+    "@mapbox/mapbox-sdk": "^0.15.0",
     "@turf/turf": "^6.5.0",
     "got": "version-11",
     "xmldom": "github:xmldom/xmldom"
