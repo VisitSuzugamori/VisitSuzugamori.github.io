@@ -57,7 +57,7 @@ const config = {
       title: '瀬戸浜海岸',
       image: '',
       tweet_id: '',
-      description: '<p>8巻 P5  千葉県南房総市 千倉町瀬戸</p> <p><img alt="L1001148.jpg" src="https://live.staticflickr.com/4027/4639080224_4534222d16_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.973351&amp;lon=139.962721&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【L1001148.jpg】 by Wesley Tsang</p>',
+      description: '<p>8巻 P5  千葉県南房総市 千倉町瀬戸</p> <p><img alt="DSC00080" src="https://live.staticflickr.com/7443/16476428926_54538fe18f_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.973351&amp;lon=139.962721&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【DSC00080】 by Wesley Tsang</p>',
       location: {
         center: [139.962721, 34.973351],
         zoom: 14,
@@ -236,8 +236,8 @@ const config = {
       hidden: false,
       title: '野島埼灯台',
       image: '',
-      tweet_id: '1621713248704667653',
-      description: '<p>8巻 P13  千葉県南房総市 </p><div class="tweetContainer" id="tweet1621713248704667653"></div> ',
+      tweet_id: '1627929618224226305',
+      description: '<p>8巻 P13  千葉県南房総市 </p><div class="tweetContainer" id="tweet1627929618224226305"></div> ',
       location: {
         center: [139.8883406, 34.9017272],
         zoom: 14,
@@ -256,8 +256,8 @@ const config = {
       hidden: false,
       title: '最南端',
       image: '',
-      tweet_id: '1621715789886771200',
-      description: '<p>8巻 P14  千葉県南房総市 </p><div class="tweetContainer" id="tweet1621715789886771200"></div> ',
+      tweet_id: '1630062029796184065',
+      description: '<p>8巻 P14  千葉県南房総市 </p><div class="tweetContainer" id="tweet1630062029796184065"></div> ',
       location: {
         center: [139.879022, 34.904775],
         zoom: 14,
@@ -276,8 +276,8 @@ const config = {
       hidden: false,
       title: '安房神社',
       image: '',
-      tweet_id: '1621733382609584129',
-      description: '<p>8巻 P21  千葉県館山市 大神宮376</p><div class="tweetContainer" id="tweet1621733382609584129"></div> ',
+      tweet_id: '1627505888448880640',
+      description: '<p>8巻 P21  千葉県館山市 大神宮376</p><div class="tweetContainer" id="tweet1627505888448880640"></div> ',
       location: {
         center: [139.8368799, 34.9224666],
         zoom: 14,
@@ -296,8 +296,8 @@ const config = {
       hidden: false,
       title: '浜金谷駅',
       image: '',
-      tweet_id: '',
-      description: '<p>8巻 P23  千葉県富津市 </p> <p><img alt="Kanaya#3" src="https://live.staticflickr.com/65535/51735519668_e63f7b58e3_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.1681316&amp;lon=139.8222539&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Kanaya#3】 by tetsuo5</p>',
+      tweet_id: '1630136119940759555',
+      description: '<p>8巻 P23  千葉県富津市 </p><div class="tweetContainer" id="tweet1630136119940759555"></div> ',
       location: {
         center: [139.8222539, 35.1681316],
         zoom: 14,
@@ -357,7 +357,7 @@ const config = {
       title: '西口管理所',
       image: '',
       tweet_id: '',
-      description: '<p>8巻 P27  千葉県安房郡 鋸南町 </p> <p><img alt="Nihon-ji on Mount Nokogiri (Futtsu/Kyonan, Chiba, Japan)" src="https://live.staticflickr.com/65535/51772363674_27480b4abe_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.1582302&amp;lon=139.8308355&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Nihon-ji on Mount Nokogiri (Futtsu/Kyonan, Chiba, Japan)】 by t-mizo</p>',
+      description: '<p>8巻 P27  千葉県安房郡 鋸南町 </p> <p><img alt="Nihon-ji on Mount Nokogiri (Futtsu/Kyonan, Chiba, Japan)" src="https://live.staticflickr.com/65535/51772360664_41a0065a3f_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.1582302&amp;lon=139.8308355&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Nihon-ji on Mount Nokogiri (Futtsu/Kyonan, Chiba, Japan)】 by t-mizo</p>',
       location: {
         center: [139.8308355, 35.1582302],
         zoom: 14,
@@ -396,8 +396,8 @@ const config = {
       hidden: false,
       title: '百尺観音',
       image: '',
-      tweet_id: '',
-      description: '<p>8巻 P29  千葉県安房郡 鋸南町 元名</p> <p><img alt="Nihon-ji on Mount Nokogiri (Futtsu/Kyonan, Chiba, Japan)" src="https://live.staticflickr.com/65535/51771714521_05cfa26a92_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.1590417&amp;lon=139.8329306&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Nihon-ji on Mount Nokogiri (Futtsu/Kyonan, Chiba, Japan)】 by t-mizo</p>',
+      tweet_id: '1630027221862871040',
+      description: '<p>8巻 P29  千葉県安房郡 鋸南町 元名</p><div class="tweetContainer" id="tweet1630027221862871040"></div> ',
       location: {
         center: [139.8329306, 35.1590417],
         zoom: 14,
@@ -417,7 +417,7 @@ const config = {
       title: '山頂展望台地獄のぞき',
       image: '',
       tweet_id: '',
-      description: '<p>8巻 P29  千葉県安房郡 鋸南町 元名</p> <p><img alt="View from Mount Nokogiri (Futtsu/Kyonan, Chiba, Japan)" src="https://live.staticflickr.com/65535/51771708061_2007cb4937_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.1592647&amp;lon=139.8331931&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【View from Mount Nokogiri (Futtsu/Kyonan, Chiba, Japan)】 by t-mizo</p>',
+      description: '<p>8巻 P29  千葉県安房郡 鋸南町 元名</p> <p><img alt="Mt. Nokogiriyama, Chiba, JAPAN" src="https://live.staticflickr.com/65535/52284745948_49d2d5d4d7_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.1592647&amp;lon=139.8331931&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Mt. Nokogiriyama, Chiba, JAPAN】 by oisaki</p>',
       location: {
         center: [139.8331931, 35.1592647],
         zoom: 14,
@@ -437,7 +437,7 @@ const config = {
       title: '千五百羅漢',
       image: '',
       tweet_id: '',
-      description: '<p>8巻 P29  千葉県安房郡 鋸南町 元名</p> <p><img alt="Mt. Nokogiriyama, Chiba, JAPAN" src="https://live.staticflickr.com/65535/52284745948_49d2d5d4d7_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.1581159&amp;lon=139.8328907&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Mt. Nokogiriyama, Chiba, JAPAN】 by oisaki</p>',
+      description: '<p>8巻 P29  千葉県安房郡 鋸南町 元名</p> <p><img alt="B/W #1769" src="https://live.staticflickr.com/65535/51782939679_b8036cfcd3_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.1581159&amp;lon=139.8328907&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【B/W #1769】 by Ville Misaki</p>',
       location: {
         center: [139.8328907, 35.1581159],
         zoom: 14,
@@ -457,7 +457,7 @@ const config = {
       title: '通天関',
       image: '',
       tweet_id: '',
-      description: '<p>8巻 P29  千葉県安房郡 鋸南町 元名</p> <p><img alt="B/W #1769" src="https://live.staticflickr.com/65535/51782939679_b8036cfcd3_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.1588017&amp;lon=139.8344269&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【B/W #1769】 by Ville Misaki</p>',
+      description: '<p>8巻 P29  千葉県安房郡 鋸南町 元名</p> <p><img alt="Nihon-ji on Mount Nokogiri (Futtsu/Kyonan, Chiba, Japan)" src="https://live.staticflickr.com/65535/51772374354_c97b048546_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.1588017&amp;lon=139.8344269&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Nihon-ji on Mount Nokogiri (Futtsu/Kyonan, Chiba, Japan)】 by t-mizo</p>',
       location: {
         center: [139.8344269, 35.1588017],
         zoom: 14,
@@ -477,7 +477,7 @@ const config = {
       title: '日本寺 大仏',
       image: '',
       tweet_id: '',
-      description: '<p>8巻 P30  千葉県安房郡 鋸南町 元名</p> <p><img alt="Nihon-ji on Mount Nokogiri (Futtsu/Kyonan, Chiba, Japan)" src="https://live.staticflickr.com/65535/51772374354_c97b048546_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.1576699&amp;lon=139.8346891&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Nihon-ji on Mount Nokogiri (Futtsu/Kyonan, Chiba, Japan)】 by t-mizo</p>',
+      description: '<p>8巻 P30  千葉県安房郡 鋸南町 元名</p> <p><img alt="Nihon-ji on Mount Nokogiri (Futtsu/Kyonan, Chiba, Japan)" src="https://live.staticflickr.com/65535/51772613160_17423320d9_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.1576699&amp;lon=139.8346891&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Nihon-ji on Mount Nokogiri (Futtsu/Kyonan, Chiba, Japan)】 by t-mizo</p>',
       location: {
         center: [139.8346891, 35.1576699],
         zoom: 14,

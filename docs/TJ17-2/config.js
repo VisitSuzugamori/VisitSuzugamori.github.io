@@ -76,8 +76,8 @@ const config = {
       hidden: false,
       title: 'USA（宇佐）神宮',
       image: '',
-      tweet_id: '',
-      description: '<p>5巻 P108  大分県宇佐市 南宇佐2859</p> <p><img alt="Usa Jingu Shrine, Kyushu" src="https://live.staticflickr.com/65535/52595301148_e30fbfc2ee_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=33.5260019&amp;lon=131.3746381&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Usa Jingu Shrine, Kyushu】 by Christian Kaden</p>',
+      tweet_id: '1627548049961795585',
+      description: '<p>5巻 P108  大分県宇佐市 南宇佐2859</p><div class="tweetContainer" id="tweet1627548049961795585"></div> ',
       location: {
         center: [131.3746381, 33.5260019],
         zoom: 14,
@@ -96,8 +96,8 @@ const config = {
       hidden: false,
       title: '宇佐参宮線26号蒸気機関車',
       image: '',
-      tweet_id: '',
-      description: '<p>5巻 P117  大分県宇佐市 南宇佐2218</p> <p><img alt="Looking Up" src="https://live.staticflickr.com/4883/45923259842_da2f04d260_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=33.5279086&amp;lon=131.3750797&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Looking Up】 by Martin Smith - Having the Time of my Life</p>',
+      tweet_id: '1629316696367579137',
+      description: '<p>5巻 P117  大分県宇佐市 南宇佐2218</p><div class="tweetContainer" id="tweet1629316696367579137"></div> ',
       location: {
         center: [131.3750797, 33.5279086],
         zoom: 14,

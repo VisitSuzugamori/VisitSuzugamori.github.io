@@ -16,8 +16,8 @@ const config = {
       hidden: false,
       title: '東京駅',
       image: '',
-      tweet_id: '1624626126244163585',
-      description: '<p>6巻 P18  東京都千代田区 丸の内一丁目9</p><div class="tweetContainer" id="tweet1624626126244163585"></div> ',
+      tweet_id: '1630165547668361221',
+      description: '<p>6巻 P18  東京都千代田区 丸の内一丁目9</p><div class="tweetContainer" id="tweet1630165547668361221"></div> ',
       location: {
         center: [139.7671248, 35.6812362],
         zoom: 14,
@@ -76,8 +76,8 @@ const config = {
       hidden: false,
       title: 'い"い”い”い”っ',
       image: '',
-      tweet_id: '1624658772005363712',
-      description: '<p>6巻 P19  東京都千代田区 霞が関一丁目1</p><div class="tweetContainer" id="tweet1624658772005363712"></div> ',
+      tweet_id: '1628326794427506688',
+      description: '<p>6巻 P19  東京都千代田区 霞が関一丁目1</p><div class="tweetContainer" id="tweet1628326794427506688"></div> ',
       location: {
         center: [139.7519827, 35.6774878],
         zoom: 14,
