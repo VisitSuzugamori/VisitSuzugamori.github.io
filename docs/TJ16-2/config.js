@@ -36,8 +36,8 @@ const config = {
       hidden: false,
       title: '御岩神社',
       image: '',
-      tweet_id: '1627504637405265920',
-      description: '<p>5巻 P36  茨城県日立市 </p><div class="tweetContainer" id="tweet1627504637405265920"></div> ',
+      tweet_id: '1633642514044575745',
+      description: '<p>5巻 P36  茨城県日立市 </p><div class="tweetContainer" id="tweet1633642514044575745"></div> ',
       location: {
         center: [140.5855581, 36.6360807],
         zoom: 14,
@@ -96,8 +96,8 @@ const config = {
       hidden: false,
       title: '日立駅',
       image: '',
-      tweet_id: '1628936524946628608',
-      description: '<p>5巻 P51  茨城県日立市 旭町一丁目3</p><div class="tweetContainer" id="tweet1628936524946628608"></div> ',
+      tweet_id: '1634103386764349441',
+      description: '<p>5巻 P51  茨城県日立市 旭町一丁目3</p><div class="tweetContainer" id="tweet1634103386764349441"></div> ',
       location: {
         center: [140.6621017, 36.5906849],
         zoom: 14,
