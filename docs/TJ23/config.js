@@ -17,7 +17,7 @@ const config = {
       title: '南房総国定公園 野島崎(白浜野島崎園地)',
       image: '',
       tweet_id: '',
-      description: '<p>8巻 P3,18  千葉県南房総市 </p> <p><img alt="野島崎灯台" src="https://live.staticflickr.com/65535/52614588130_90a7031bc2_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.9025647&amp;lon=139.8876262&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【野島崎灯台】 by BlueSky_s</p>',
+      description: '<p>8巻 P3,18  千葉県南房総市 </p> <p><img alt="B/W #1770" src="https://live.staticflickr.com/65535/51783292992_1b89c90d76_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.9025647&amp;lon=139.8876262&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【B/W #1770】 by Ville Misaki</p>',
       location: {
         center: [139.8876262, 34.9025647],
         zoom: 14,
@@ -117,7 +117,7 @@ const config = {
       title: '寿司と地魚料理 大徳家',
       image: '',
       tweet_id: '',
-      description: '<p>8巻 P7  千葉県南房総市 千倉町平舘</p> <p><img alt="230103_Nex_016" src="https://live.staticflickr.com/65535/52664962659_bd2a52f38c_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.9602825&amp;lon=139.9593564&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【230103_Nex_016】 by Matsui Hiroyuki</p>',
+      description: '<p>8巻 P7  千葉県南房総市 千倉町平舘</p> <p><img alt="230103_126" src="https://live.staticflickr.com/65535/52669758952_598664eba6_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.9602825&amp;lon=139.9593564&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【230103_126】 by Matsui Hiroyuki</p>',
       location: {
         center: [139.9593564, 34.9602825],
         zoom: 14,
@@ -137,7 +137,7 @@ const config = {
       title: '千葉銀行 千倉支店',
       image: '',
       tweet_id: '',
-      description: '<p>8巻 P8  千葉県南房総市 千倉町平舘</p> <p><img alt="230103_126" src="https://live.staticflickr.com/65535/52669758952_598664eba6_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.95936&amp;lon=139.9592&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【230103_126】 by Matsui Hiroyuki</p>',
+      description: '<p>8巻 P8  千葉県南房総市 千倉町平舘</p> <p><img alt="230103_149" src="https://live.staticflickr.com/65535/52670759198_6f274bec66_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.95936&amp;lon=139.9592&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【230103_149】 by Matsui Hiroyuki</p>',
       location: {
         center: [139.9592, 34.95936],
         zoom: 14,
@@ -217,7 +217,7 @@ const config = {
       title: '房総半島最南端之碑',
       image: '',
       tweet_id: '',
-      description: '<p>8巻 P13  千葉県南房総市 </p> <p><img alt="野島崎" src="https://live.staticflickr.com/65535/52614419439_1461bfca62_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.9003949&amp;lon=139.8880755&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【野島崎】 by BlueSky_s</p>',
+      description: '<p>8巻 P13  千葉県南房総市 </p> <p><img alt="R0010363_xmp" src="https://live.staticflickr.com/65535/50527360482_dfe6410139_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.9003949&amp;lon=139.8880755&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【R0010363_xmp】 by few0010</p>',
       location: {
         center: [139.8880755, 34.9003949],
         zoom: 14,
@@ -236,8 +236,8 @@ const config = {
       hidden: false,
       title: '野島埼灯台',
       image: '',
-      tweet_id: '1632324170565718017',
-      description: '<p>8巻 P13  千葉県南房総市 </p><div class="tweetContainer" id="tweet1632324170565718017"></div> ',
+      tweet_id: '1635764995526135809',
+      description: '<p>8巻 P13  千葉県南房総市 </p><div class="tweetContainer" id="tweet1635764995526135809"></div> ',
       location: {
         center: [139.8883406, 34.9017272],
         zoom: 14,
@@ -296,8 +296,8 @@ const config = {
       hidden: false,
       title: '浜金谷駅',
       image: '',
-      tweet_id: '1632209825039003648',
-      description: '<p>8巻 P23  千葉県富津市 </p><div class="tweetContainer" id="tweet1632209825039003648"></div> ',
+      tweet_id: '',
+      description: '<p>8巻 P23  千葉県富津市 </p> <p><img alt="Kanaya#2" src="https://live.staticflickr.com/65535/51733341533_7f139e0b60_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.1681316&amp;lon=139.8222539&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Kanaya#2】 by tetsuo5</p>',
       location: {
         center: [139.8222539, 35.1681316],
         zoom: 14,
@@ -316,8 +316,8 @@ const config = {
       hidden: false,
       title: '鋸山ロープウェー',
       image: '',
-      tweet_id: '1632198723152277506',
-      description: '<p>8巻 P23  千葉県富津市 </p><div class="tweetContainer" id="tweet1632198723152277506"></div> ',
+      tweet_id: '',
+      description: '<p>8巻 P23  千葉県富津市 </p> <p><img alt="R0010323_xmp" src="https://live.staticflickr.com/65535/50527211156_2c46ed6036_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.1622171&amp;lon=139.8230802&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【R0010323_xmp】 by few0010</p>',
       location: {
         center: [139.8230802, 35.1622171],
         zoom: 14,
@@ -336,8 +336,8 @@ const config = {
       hidden: false,
       title: '鋸山山頂',
       image: '',
-      tweet_id: '',
-      description: '<p>8巻 P1,24  千葉県富津市 </p> <p><img alt="View from Mount Nokogiri (Futtsu/Kyonan, Chiba, Japan)" src="https://live.staticflickr.com/65535/51771699776_a51bf3b83d_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.1584928&amp;lon=139.8284768&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【View from Mount Nokogiri (Futtsu/Kyonan, Chiba, Japan)】 by t-mizo</p>',
+      tweet_id: '1634802235283755008',
+      description: '<p>8巻 P1,24  千葉県富津市 </p><div class="tweetContainer" id="tweet1634802235283755008"></div> ',
       location: {
         center: [139.8284768, 35.1584928],
         zoom: 14,
@@ -396,8 +396,8 @@ const config = {
       hidden: false,
       title: '百尺観音',
       image: '',
-      tweet_id: '1632264445425782784',
-      description: '<p>8巻 P29  千葉県安房郡 鋸南町 元名</p><div class="tweetContainer" id="tweet1632264445425782784"></div> ',
+      tweet_id: '',
+      description: '<p>8巻 P29  千葉県安房郡 鋸南町 元名</p> <p><img alt="鋸山 岩舞台" src="https://live.staticflickr.com/65535/52725365908_c6742123b9_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.1590417&amp;lon=139.8329306&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【鋸山 岩舞台】 by BlueSky_s</p>',
       location: {
         center: [139.8329306, 35.1590417],
         zoom: 14,
@@ -457,7 +457,7 @@ const config = {
       title: '通天関',
       image: '',
       tweet_id: '',
-      description: '<p>8巻 P29  千葉県安房郡 鋸南町 元名</p> <p><img alt="鋸山 岩舞台" src="https://live.staticflickr.com/65535/52725365908_c6742123b9_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.1588017&amp;lon=139.8344269&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【鋸山 岩舞台】 by BlueSky_s</p>',
+      description: '<p>8巻 P29  千葉県安房郡 鋸南町 元名</p> <p><img alt="鋸山 切り通し跡" src="https://live.staticflickr.com/65535/52726032041_3c60e38872_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.1588017&amp;lon=139.8344269&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【鋸山 切り通し跡】 by BlueSky_s</p>',
       location: {
         center: [139.8344269, 35.1588017],
         zoom: 14,
@@ -476,8 +476,8 @@ const config = {
       hidden: false,
       title: '日本寺 大仏',
       image: '',
-      tweet_id: '1632266196577034243',
-      description: '<p>8巻 P30  千葉県安房郡 鋸南町 元名</p><div class="tweetContainer" id="tweet1632266196577034243"></div> ',
+      tweet_id: '',
+      description: '<p>8巻 P30  千葉県安房郡 鋸南町 元名</p> <p><img alt="B/W #1769" src="https://live.staticflickr.com/65535/51782939679_b8036cfcd3_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.1576699&amp;lon=139.8346891&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【B/W #1769】 by Ville Misaki</p>',
       location: {
         center: [139.8346891, 35.1576699],
         zoom: 14,
@@ -497,7 +497,7 @@ const config = {
       title: '朝日と夕日の見えるベンチ',
       image: '',
       tweet_id: '',
-      description: '<p>8巻 P35  千葉県南房総市 </p> <p><img alt="R0011417 パノラマ" src="https://live.staticflickr.com/65535/50618657233_68eacd1bdc_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.9002208&amp;lon=139.8882015&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【R0011417 パノラマ】 by TAKUMA KIMURA</p>',
+      description: '<p>8巻 P35  千葉県南房総市 </p> <p><img alt="野島崎" src="https://live.staticflickr.com/65535/52614419439_1461bfca62_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.9002208&amp;lon=139.8882015&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【野島崎】 by BlueSky_s</p>',
       location: {
         center: [139.8882015, 34.9002208],
         zoom: 14,

@@ -16,8 +16,8 @@ const config = {
       hidden: false,
       title: '串本駅',
       image: '',
-      tweet_id: '1632208999490764800',
-      description: '<p>3巻 P57  和歌山県東牟婁郡 串本町 串本40</p><div class="tweetContainer" id="tweet1632208999490764800"></div> ',
+      tweet_id: '1635535033116274693',
+      description: '<p>3巻 P57  和歌山県東牟婁郡 串本町 串本40</p><div class="tweetContainer" id="tweet1635535033116274693"></div> ',
       location: {
         center: [135.7816031, 33.4755266],
         zoom: 14,
@@ -176,8 +176,8 @@ const config = {
       hidden: false,
       title: '新宮駅',
       image: '',
-      tweet_id: '1634452516124471297',
-      description: '<p>3巻 P80  和歌山県新宮市 徐福一丁目3</p><div class="tweetContainer" id="tweet1634452516124471297"></div> ',
+      tweet_id: '1632963545997672449',
+      description: '<p>3巻 P80  和歌山県新宮市 徐福一丁目3</p><div class="tweetContainer" id="tweet1632963545997672449"></div> ',
       location: {
         center: [135.9941471, 33.7251509],
         zoom: 14,
