@@ -156,8 +156,8 @@ const config = {
       hidden: false,
       title: 'はりまや橋',
       image: '',
-      tweet_id: '1634163956536455168',
-      description: '<p>6巻 P80  高知県高知市 はりまや町一丁目1</p><div class="tweetContainer" id="tweet1634163956536455168"></div> ',
+      tweet_id: '1636369612924391426',
+      description: '<p>6巻 P80  高知県高知市 はりまや町一丁目1</p><div class="tweetContainer" id="tweet1636369612924391426"></div> ',
       location: {
         center: [133.5426569, 33.5599438],
         zoom: 14,
@@ -177,7 +177,7 @@ const config = {
       title: '桟橋通五丁目駅',
       image: '',
       tweet_id: '',
-      description: '<p>6巻 P80  高知県高知市 桟橋通五丁目3</p> <p><img alt="Kōchi" src="https://live.staticflickr.com/65535/48683721931_be413eb0d9_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=33.5404756&amp;lon=133.5527511&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Kōchi】 by Jan Dreesen</p>',
+      description: '<p>6巻 P80  高知県高知市 桟橋通五丁目3</p> <p><img alt="Kōchi" src="https://live.staticflickr.com/65535/48684589953_c04e89e743_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=33.5404756&amp;lon=133.5527511&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Kōchi】 by Jan Dreesen</p>',
       location: {
         center: [133.5527511, 33.5404756],
         zoom: 14,
@@ -197,7 +197,7 @@ const config = {
       title: 'ホームセンターブリコ 桟橋店',
       image: '',
       tweet_id: '',
-      description: '<p>6巻 P80  高知県高知市 孕西町214</p> <p><img alt="IMG_0337" src="https://live.staticflickr.com/417/31638786993_de6a43f139_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=33.5373806&amp;lon=133.5505423&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【IMG_0337】 by hiromori</p>',
+      description: '<p>6巻 P80  高知県高知市 孕西町214</p> <p><img alt="IMG_0333" src="https://live.staticflickr.com/557/32299452112_55429d601a_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=33.5373806&amp;lon=133.5505423&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【IMG_0333】 by hiromori</p>',
       location: {
         center: [133.5505423, 33.5373806],
         zoom: 14,
@@ -277,7 +277,7 @@ const config = {
       title: '鎮守の森公園',
       image: '',
       tweet_id: '',
-      description: '<p>6巻 P82  高知県高知市 長浜4129</p> <p><img alt="姫若子" src="https://live.staticflickr.com/6013/6016875198_40d0ea07d0_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=33.4924347&amp;lon=133.5464292&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【姫若子】 by jour13</p>',
+      description: '<p>6巻 P82  高知県高知市 長浜4129</p> <p><img alt="Motochika Chosokabe" src="https://live.staticflickr.com/2950/15192990680_73d48b430c_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=33.4924347&amp;lon=133.5464292&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Motochika Chosokabe】 by fjt1986</p>',
       location: {
         center: [133.5464292, 33.4924347],
         zoom: 14,
@@ -297,7 +297,7 @@ const config = {
       title: '長宗我部元親像',
       image: '',
       tweet_id: '',
-      description: '<p>6巻 P83  高知県高知市 長浜5714</p> <p><img alt="Motochika Chosokabe" src="https://live.staticflickr.com/2950/15192990680_73d48b430c_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=33.4930629&amp;lon=133.5462907&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Motochika Chosokabe】 by fjt1986</p>',
+      description: '<p>6巻 P83  高知県高知市 長浜5714</p> <p><img alt="姫若子" src="https://live.staticflickr.com/6013/6016875198_40d0ea07d0_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=33.4930629&amp;lon=133.5462907&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【姫若子】 by jour13</p>',
       location: {
         center: [133.5462907, 33.4930629],
         zoom: 14,
@@ -357,7 +357,7 @@ const config = {
       title: '民宿まさご',
       image: '',
       tweet_id: '',
-      description: '<p>6巻 P93  高知県高知市 浦戸18</p> <p><img alt="Urado Castle ruins (浦戸城跡)" src="https://live.staticflickr.com/65535/52068951434_4fef6054c5_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=33.4991881&amp;lon=133.5721656&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Urado Castle ruins (浦戸城跡)】 by pantkiewicz</p>',
+      description: '<p>6巻 P93  高知県高知市 浦戸18</p> <p><img alt="P_20180822_164317_vHDR_On_HP.jpg" src="https://live.staticflickr.com/1894/43474328194_44af71e972_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=33.4991881&amp;lon=133.5721656&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【P_20180822_164317_vHDR_On_HP.jpg】 by anttylee.tw</p>',
       location: {
         center: [133.5721656, 33.4991881],
         zoom: 14,

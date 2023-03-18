@@ -17,7 +17,7 @@ const config = {
       title: '潮岬観光タワー',
       image: '',
       tweet_id: '',
-      description: '<p>8巻 P149  和歌山県東牟婁郡 串本町 </p> <p><img alt="Cape Shionomisaki, Wakayama" src="https://live.staticflickr.com/65535/52629608516_250ae611f5_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=33.437806&amp;lon=135.7613677&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Cape Shionomisaki, Wakayama】 by Kzaral</p>',
+      description: '<p>8巻 P149  和歌山県東牟婁郡 串本町 </p> <p><img alt="Milky way and Jupiter (3)" src="https://live.staticflickr.com/65535/50343782877_c69482ce8d_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=33.437806&amp;lon=135.7613677&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Milky way and Jupiter (3)】 by kuni4400</p>',
       location: {
         center: [135.7613677, 33.437806],
         zoom: 14,
@@ -77,7 +77,7 @@ const config = {
       title: '東京港フェリーターミナル',
       image: '',
       tweet_id: '',
-      description: '<p>8巻 P136  東京都江東区 有明四丁目8</p> <p><img alt="190813_102_EOSR1124" src="https://live.staticflickr.com/65535/48584652881_abd0564a3f_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.6174045&amp;lon=139.7957527&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【190813_102_EOSR1124】 by oda.shinsuke</p>',
+      description: '<p>8巻 P136  東京都江東区 有明四丁目8</p> <p><img alt="IMG_0909" src="https://live.staticflickr.com/1942/30653474117_24f5e349d5_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.6174045&amp;lon=139.7957527&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【IMG_0909】 by tnoma</p>',
       location: {
         center: [139.7957527, 35.6174045],
         zoom: 14,

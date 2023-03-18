@@ -96,8 +96,8 @@ const config = {
       hidden: false,
       title: '日立駅',
       image: '',
-      tweet_id: '1634103386764349441',
-      description: '<p>5巻 P51  茨城県日立市 旭町一丁目3</p><div class="tweetContainer" id="tweet1634103386764349441"></div> ',
+      tweet_id: '1637097739640262656',
+      description: '<p>5巻 P51  茨城県日立市 旭町一丁目3</p><div class="tweetContainer" id="tweet1637097739640262656"></div> ',
       location: {
         center: [140.6621017, 36.5906849],
         zoom: 14,
@@ -117,7 +117,7 @@ const config = {
       title: '山文魚',
       image: '',
       tweet_id: '',
-      description: '<p>5巻 P52  茨城県日立市 旭町二丁目3</p> <p><img alt="" src="https://live.staticflickr.com/3852/14446705419_b0bf49e519_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=36.5873526&amp;lon=140.6616108&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【】 by hottn</p>',
+      description: '<p>5巻 P52  茨城県日立市 旭町二丁目3</p> <p><img alt="カメラロール-740" src="https://live.staticflickr.com/6093/6336854069_16600e120f_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=36.5873526&amp;lon=140.6616108&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【カメラロール-740】 by tetulog</p>',
       location: {
         center: [140.6616108, 36.5873526],
         zoom: 14,
@@ -137,7 +137,7 @@ const config = {
       title: '津神社',
       image: '',
       tweet_id: '',
-      description: '<p>5巻 P53  茨城県日立市 相賀町14</p> <p><img alt="Wave" src="https://live.staticflickr.com/5125/5378240888_35f298e0c9_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=36.5809219&amp;lon=140.6617725&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Wave】 by gupey</p>',
+      description: '<p>5巻 P53  茨城県日立市 相賀町14</p> <p><img alt="#sea #shore" src="https://live.staticflickr.com/3956/15501150157_220386f221_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=36.5809219&amp;lon=140.6617725&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【#sea #shore】 by culturalphenomenon27</p>',
       location: {
         center: [140.6617725, 36.5809219],
         zoom: 14,

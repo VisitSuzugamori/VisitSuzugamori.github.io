@@ -37,7 +37,7 @@ const config = {
       title: '三社神社石鳥居',
       image: '',
       tweet_id: '',
-      description: '<p>8巻 P54  山梨県甲斐市 竜王1875</p> <p><img alt="Two" src="https://live.staticflickr.com/6040/6263141869_2fd6ff0071_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.6684556&amp;lon=138.5022428&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Two】 by asksomeoneelse</p>',
+      description: '<p>8巻 P54  山梨県甲斐市 竜王1875</p> ',
       location: {
         center: [138.5022428, 35.6684556],
         zoom: 14,
@@ -136,8 +136,8 @@ const config = {
       hidden: false,
       title: '信玄堤公園',
       image: '',
-      tweet_id: '',
-      description: '<p>8巻 P61  山梨県甲斐市 竜王1891</p> ',
+      tweet_id: '1636632376099983360',
+      description: '<p>8巻 P61  山梨県甲斐市 竜王1891</p><div class="tweetContainer" id="tweet1636632376099983360"></div> ',
       location: {
         center: [138.5019977, 35.6674453],
         zoom: 14,
@@ -157,7 +157,7 @@ const config = {
       title: '信玄堤',
       image: '',
       tweet_id: '',
-      description: '<p>8巻 P62  山梨県甲斐市 竜王86</p> <p><img alt="Audience" src="https://live.staticflickr.com/4093/5444627181_ee28c6602a_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.668261&amp;lon=138.5013756&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Audience】 by asksomeoneelse</p>',
+      description: '<p>8巻 P62  山梨県甲斐市 竜王86</p> <p><img alt="Two" src="https://live.staticflickr.com/6040/6263141869_2fd6ff0071_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.668261&amp;lon=138.5013756&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Two】 by asksomeoneelse</p>',
       location: {
         center: [138.5013756, 35.668261],
         zoom: 14,
@@ -336,8 +336,8 @@ const config = {
       hidden: false,
       title: '甲府駅',
       image: '',
-      tweet_id: '1633303670212423680',
-      description: '<p>8巻 P83  山梨県甲府市 丸の内一丁目3</p><div class="tweetContainer" id="tweet1633303670212423680"></div> ',
+      tweet_id: '1634457624698826758',
+      description: '<p>8巻 P83  山梨県甲府市 丸の内一丁目3</p><div class="tweetContainer" id="tweet1634457624698826758"></div> ',
       location: {
         center: [138.5690631, 35.6670981],
         zoom: 14,

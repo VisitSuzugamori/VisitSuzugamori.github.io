@@ -276,8 +276,8 @@ const config = {
       hidden: false,
       title: '出雲大社前駅',
       image: '',
-      tweet_id: '1633327284873461760',
-      description: '<p>3巻 P145  島根県出雲市 大社町杵築南1346</p><div class="tweetContainer" id="tweet1633327284873461760"></div> ',
+      tweet_id: '1635159409520259073',
+      description: '<p>3巻 P145  島根県出雲市 大社町杵築南1346</p><div class="tweetContainer" id="tweet1635159409520259073"></div> ',
       location: {
         center: [132.6870732, 35.3935224],
         zoom: 14,
@@ -316,8 +316,8 @@ const config = {
       hidden: false,
       title: 'ホテル一畑',
       image: '',
-      tweet_id: '1634770204940201986',
-      description: '<p>3巻 P146  島根県松江市 千鳥町18</p><div class="tweetContainer" id="tweet1634770204940201986"></div> ',
+      tweet_id: '1637018530242777089',
+      description: '<p>3巻 P146  島根県松江市 千鳥町18</p><div class="tweetContainer" id="tweet1637018530242777089"></div> ',
       location: {
         center: [133.0453378, 35.4661714],
         zoom: 14,
@@ -336,8 +336,8 @@ const config = {
       hidden: false,
       title: '松江城',
       image: '',
-      tweet_id: '1633466549846802434',
-      description: '<p>3巻 P150  島根県松江市 殿町1</p><div class="tweetContainer" id="tweet1633466549846802434"></div> ',
+      tweet_id: '1635231869708156928',
+      description: '<p>3巻 P150  島根県松江市 殿町1</p><div class="tweetContainer" id="tweet1635231869708156928"></div> ',
       location: {
         center: [133.0506783, 35.4751335],
         zoom: 14,
