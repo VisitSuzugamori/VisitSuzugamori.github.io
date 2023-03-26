@@ -16,8 +16,8 @@ const config = {
       hidden: false,
       title: '東京駅',
       image: '',
-      tweet_id: '1636561904188674050',
-      description: '<p>6巻 P132  東京都千代田区 丸の内一丁目9</p><div class="tweetContainer" id="tweet1636561904188674050"></div> ',
+      tweet_id: '1639132620339679233',
+      description: '<p>6巻 P132  東京都千代田区 丸の内一丁目9</p><div class="tweetContainer" id="tweet1639132620339679233"></div> ',
       location: {
         center: [139.7671248, 35.6812362],
         zoom: 14,
@@ -36,8 +36,8 @@ const config = {
       hidden: false,
       title: '桂浜',
       image: '',
-      tweet_id: '1635505979365396481',
-      description: '<p>6巻 P108  高知県高知市 浦戸778</p><div class="tweetContainer" id="tweet1635505979365396481"></div> ',
+      tweet_id: '1638669282547740673',
+      description: '<p>6巻 P108  高知県高知市 浦戸778</p><div class="tweetContainer" id="tweet1638669282547740673"></div> ',
       location: {
         center: [133.5749209, 33.4971366],
         zoom: 14,
@@ -56,8 +56,8 @@ const config = {
       hidden: false,
       title: '坂本龍馬像',
       image: '',
-      tweet_id: '',
-      description: '<p>6巻 P109  高知県高知市 浦戸6</p> <p><img alt="Ryuo-gu (龍王宮 海津見神社)" src="https://live.staticflickr.com/65535/52069189615_5b2d046f9e_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=33.4986187&amp;lon=133.5754821&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Ryuo-gu (龍王宮 海津見神社)】 by pantkiewicz</p>',
+      tweet_id: '1638670166925144064',
+      description: '<p>6巻 P109  高知県高知市 浦戸6</p><div class="tweetContainer" id="tweet1638670166925144064"></div> ',
       location: {
         center: [133.5754821, 33.4986187],
         zoom: 14,
@@ -76,8 +76,8 @@ const config = {
       hidden: false,
       title: '桂浜水族館',
       image: '',
-      tweet_id: '1635927711217762304',
-      description: '<p>6巻 P116  高知県高知市 浦戸778</p><div class="tweetContainer" id="tweet1635927711217762304"></div> ',
+      tweet_id: '',
+      description: '<p>6巻 P116  高知県高知市 浦戸778</p> <p><img alt="Urado Castle ruins (浦戸城跡)" src="https://live.staticflickr.com/65535/52068731273_e50f311c4c_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=33.4969444&amp;lon=133.5736111&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Urado Castle ruins (浦戸城跡)】 by pantkiewicz</p>',
       location: {
         center: [133.5736111, 33.4969444],
         zoom: 14,
@@ -97,7 +97,7 @@ const config = {
       title: '龍王宮',
       image: '',
       tweet_id: '',
-      description: '<p>6巻 P117  高知県高知市 浦戸830</p> <p><img alt="Katsurahama (桂浜)" src="https://live.staticflickr.com/65535/52069189490_cdcb359b0d_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=33.4956281&amp;lon=133.5746555&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Katsurahama (桂浜)】 by pantkiewicz</p>',
+      description: '<p>6巻 P117  高知県高知市 浦戸830</p> <p><img alt="Ryuo-gu (龍王宮 海津見神社)" src="https://live.staticflickr.com/65535/52068937229_51497753c5_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=33.4956281&amp;lon=133.5746555&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Ryuo-gu (龍王宮 海津見神社)】 by pantkiewicz</p>',
       location: {
         center: [133.5746555, 33.4956281],
         zoom: 14,
@@ -116,8 +116,8 @@ const config = {
       hidden: false,
       title: '高知駅',
       image: '',
-      tweet_id: '1636535923109408768',
-      description: '<p>6巻 P122  高知県高知市 栄田町二丁目1</p><div class="tweetContainer" id="tweet1636535923109408768"></div> ',
+      tweet_id: '1638004107368894464',
+      description: '<p>6巻 P122  高知県高知市 栄田町二丁目1</p><div class="tweetContainer" id="tweet1638004107368894464"></div> ',
       location: {
         center: [133.5436452, 33.5672271],
         zoom: 14,
@@ -257,7 +257,7 @@ const config = {
       title: '龍王岬展望台',
       image: '',
       tweet_id: '',
-      description: '<p>6巻 P135  高知県高知市 浦戸830</p> <p><img alt="Ryuo-gu (龍王宮 海津見神社)" src="https://live.staticflickr.com/65535/52068937229_51497753c5_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=33.4955899&amp;lon=133.5743881&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Ryuo-gu (龍王宮 海津見神社)】 by pantkiewicz</p>',
+      description: '<p>6巻 P135  高知県高知市 浦戸830</p> <p><img alt="Ryuo-gu (龍王宮 海津見神社)" src="https://live.staticflickr.com/65535/52068716838_377865f237_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=33.4955899&amp;lon=133.5743881&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Ryuo-gu (龍王宮 海津見神社)】 by pantkiewicz</p>',
       location: {
         center: [133.5743881, 33.4955899],
         zoom: 14,

@@ -16,8 +16,8 @@ const config = {
       hidden: false,
       title: '竜王駅',
       image: '',
-      tweet_id: '1634808801625866240',
-      description: '<p>8巻 P53  山梨県甲斐市 竜王新町464</p><div class="tweetContainer" id="tweet1634808801625866240"></div> ',
+      tweet_id: '',
+      description: '<p>8巻 P53  山梨県甲斐市 竜王新町464</p> <p><img alt="Today’s dinner - Jul. 30, 2022" src="https://live.staticflickr.com/65535/52257400724_a719e7f067_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.6687078&amp;lon=138.5193729&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Today’s dinner - Jul. 30, 2022】 by miko0219</p>',
       location: {
         center: [138.5193729, 35.6687078],
         zoom: 14,
@@ -37,7 +37,7 @@ const config = {
       title: '三社神社石鳥居',
       image: '',
       tweet_id: '',
-      description: '<p>8巻 P54  山梨県甲斐市 竜王1875</p> ',
+      description: '<p>8巻 P54  山梨県甲斐市 竜王1875</p> <p><img alt="Two" src="https://live.staticflickr.com/6040/6263141869_2fd6ff0071_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.6684556&amp;lon=138.5022428&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Two】 by asksomeoneelse</p>',
       location: {
         center: [138.5022428, 35.6684556],
         zoom: 14,
@@ -136,8 +136,8 @@ const config = {
       hidden: false,
       title: '信玄堤公園',
       image: '',
-      tweet_id: '1636632376099983360',
-      description: '<p>8巻 P61  山梨県甲斐市 竜王1891</p><div class="tweetContainer" id="tweet1636632376099983360"></div> ',
+      tweet_id: '1639837726424834050',
+      description: '<p>8巻 P61  山梨県甲斐市 竜王1891</p><div class="tweetContainer" id="tweet1639837726424834050"></div> ',
       location: {
         center: [138.5019977, 35.6674453],
         zoom: 14,
@@ -156,8 +156,8 @@ const config = {
       hidden: false,
       title: '信玄堤',
       image: '',
-      tweet_id: '',
-      description: '<p>8巻 P62  山梨県甲斐市 竜王86</p> <p><img alt="Two" src="https://live.staticflickr.com/6040/6263141869_2fd6ff0071_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.668261&amp;lon=138.5013756&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Two】 by asksomeoneelse</p>',
+      tweet_id: '1639835686114148352',
+      description: '<p>8巻 P62  山梨県甲斐市 竜王86</p><div class="tweetContainer" id="tweet1639835686114148352"></div> ',
       location: {
         center: [138.5013756, 35.668261],
         zoom: 14,
@@ -336,8 +336,8 @@ const config = {
       hidden: false,
       title: '甲府駅',
       image: '',
-      tweet_id: '1634457624698826758',
-      description: '<p>8巻 P83  山梨県甲府市 丸の内一丁目3</p><div class="tweetContainer" id="tweet1634457624698826758"></div> ',
+      tweet_id: '1636935855326781440',
+      description: '<p>8巻 P83  山梨県甲府市 丸の内一丁目3</p><div class="tweetContainer" id="tweet1636935855326781440"></div> ',
       location: {
         center: [138.5690631, 35.6670981],
         zoom: 14,

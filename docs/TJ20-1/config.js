@@ -36,8 +36,8 @@ const config = {
       hidden: false,
       title: '後免駅',
       image: '',
-      tweet_id: '1635040068200181761',
-      description: '<p>6巻 P71  高知県南国市 駅前町二丁目3</p><div class="tweetContainer" id="tweet1635040068200181761"></div> ',
+      tweet_id: '1638698132061188096',
+      description: '<p>6巻 P71  高知県南国市 駅前町二丁目3</p><div class="tweetContainer" id="tweet1638698132061188096"></div> ',
       location: {
         center: [133.6454058, 33.5791401],
         zoom: 14,
@@ -156,8 +156,8 @@ const config = {
       hidden: false,
       title: 'はりまや橋',
       image: '',
-      tweet_id: '1636369612924391426',
-      description: '<p>6巻 P80  高知県高知市 はりまや町一丁目1</p><div class="tweetContainer" id="tweet1636369612924391426"></div> ',
+      tweet_id: '1637406484945600514',
+      description: '<p>6巻 P80  高知県高知市 はりまや町一丁目1</p><div class="tweetContainer" id="tweet1637406484945600514"></div> ',
       location: {
         center: [133.5426569, 33.5599438],
         zoom: 14,
@@ -197,7 +197,7 @@ const config = {
       title: 'ホームセンターブリコ 桟橋店',
       image: '',
       tweet_id: '',
-      description: '<p>6巻 P80  高知県高知市 孕西町214</p> <p><img alt="IMG_0333" src="https://live.staticflickr.com/557/32299452112_55429d601a_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=33.5373806&amp;lon=133.5505423&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【IMG_0333】 by hiromori</p>',
+      description: '<p>6巻 P80  高知県高知市 孕西町214</p> <p><img alt="IMG_0337" src="https://live.staticflickr.com/417/31638786993_de6a43f139_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=33.5373806&amp;lon=133.5505423&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【IMG_0337】 by hiromori</p>',
       location: {
         center: [133.5505423, 33.5373806],
         zoom: 14,
@@ -357,7 +357,7 @@ const config = {
       title: '民宿まさご',
       image: '',
       tweet_id: '',
-      description: '<p>6巻 P93  高知県高知市 浦戸18</p> <p><img alt="P_20180822_164317_vHDR_On_HP.jpg" src="https://live.staticflickr.com/1894/43474328194_44af71e972_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=33.4991881&amp;lon=133.5721656&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【P_20180822_164317_vHDR_On_HP.jpg】 by anttylee.tw</p>',
+      description: '<p>6巻 P93  高知県高知市 浦戸18</p> <p><img alt="Katsurahama (桂浜)" src="https://live.staticflickr.com/65535/52068707751_93b766d0ca_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=33.4991881&amp;lon=133.5721656&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Katsurahama (桂浜)】 by pantkiewicz</p>',
       location: {
         center: [133.5721656, 33.4991881],
         zoom: 14,
