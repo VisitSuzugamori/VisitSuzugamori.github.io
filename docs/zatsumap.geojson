@@ -1871,7 +1871,7 @@
                 "type": "Point"
             },
             "properties": {
-                "description": "3巻P71 第11旅<br>8巻 P149 第26旅",
+                "description": "3巻P71 第11旅<br>8巻 P149 第26旅（前編）",
                 "name": "潮岬観光タワー"
             },
             "type": "Feature"
@@ -2963,7 +2963,7 @@
                 "type": "Point"
             },
             "properties": {
-                "description": "4巻P134 第15旅<br>第26旅",
+                "description": "4巻P134 第15旅<br>第26旅（前編）",
                 "name": "国際展示場駅"
             },
             "type": "Feature"
@@ -6913,6 +6913,622 @@
             "properties": {
                 "description": "第26旅（後編）<br>電撃マオウ2023年2月号表紙",
                 "name": "名勝 鳴門 碑"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    132.9759503,
+                    34.1112386
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "第27旅",
+                "name": "しまなみ海道来島海峡第三大橋原付入口"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    132.9936355,
+                    34.0642051
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "第27旅",
+                "name": "今治駅"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    132.9947761,
+                    34.0642515
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "第27旅",
+                "name": "サイクルスタンド"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    132.9987001,
+                    34.0643481
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "第27旅",
+                "name": "白楽天 今治本店"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    133.000015,
+                    34.064831
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "第27旅",
+                "name": "アサイ薬局"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    133.0005845,
+                    34.0620614
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "第27旅",
+                "name": "今治国際ホテル"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    133.0067794,
+                    34.0633708
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "第27旅",
+                "name": "今治城"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    132.9926989,
+                    34.1185335
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "第27旅",
+                "name": "来島海峡大橋"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    133.0074369,
+                    34.0653655
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "第27旅",
+                "name": "恵美須町２丁目７−２"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    133.0080714,
+                    34.0665969
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "第27旅",
+                "name": "今治港港湾緑地"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    133.004898,
+                    34.0698411
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "第27旅",
+                "name": "今治桟橋バス停"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    133.0049264,
+                    34.0587907
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "第27旅",
+                "name": "スーパーホテル今治"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    133.0036316,
+                    34.0588136
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "第27旅",
+                "name": "今治焼鳥 まる屋"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    132.9759003,
+                    34.1088928
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "第27旅",
+                "name": "本当に昨日見た橋に行くの〜？"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    132.9764984,
+                    34.1114089
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "第27旅",
+                "name": "橋リベンジしたいんです！"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    132.976139,
+                    34.1117368
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "第27旅",
+                "name": "のぼったね〜"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    132.9778337,
+                    34.1140186
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "第27旅",
+                "name": "来島海峡展望館"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    132.9849079,
+                    34.1154406
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "第27旅",
+                "name": "来島海峡第三大橋"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    133.0220408,
+                    34.1274537
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "第27旅",
+                "name": "道の駅 よしうみいきいき館"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    133.0239936,
+                    34.1271124
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "第27旅",
+                "name": "さすが、ぢーちゃん・・・"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    138.0850612,
+                    36.071984
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "第28旅（前編）",
+                "name": "下諏訪駅"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    138.0841048,
+                    36.0810377
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "第28旅（前編）",
+                "name": "稲荷大明神"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    138.0849625,
+                    36.074517
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "第28旅（前編）",
+                "name": "ほうほう"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    138.0833581,
+                    36.0743681
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "第28旅（前編）",
+                "name": "あと・・・"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    138.0828459,
+                    36.0742642
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "第28旅（前編）",
+                "name": "魁塚(相楽塚)"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    138.0810091,
+                    36.0744486
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "第28旅（前編）",
+                "name": "大石灯籠"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    138.0811826,
+                    36.0749816
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "第28旅（前編）",
+                "name": "諏訪大社 下社春宮 大門（一之鳥居）"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    138.0813264,
+                    36.0775605
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "第28旅（前編）",
+                "name": "サンコーパン"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    138.0818667,
+                    36.0802859
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "第28旅（前編）",
+                "name": "下馬橋"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    138.0820146,
+                    36.0813523
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "第28旅（前編）",
+                "name": "諏訪大社 下社春宮 二之鳥居"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    138.0820466,
+                    36.0812502
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "第28旅（前編）",
+                "name": "打ち込み接ぎの石垣"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    138.0821082,
+                    36.0820837
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "第28旅（前編）",
+                "name": "諏訪大社 下社 春宮"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    138.0819134,
+                    36.0819986
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "第28旅（前編）",
+                "name": "諏訪大社 下社春宮 二之御柱"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    138.0832405,
+                    36.0810907
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "第28旅（前編）",
+                "name": "今日のお宿はどうします？"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    138.0839961,
+                    36.0809023
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "第28旅（前編）",
+                "name": "信玄公ゆかりの地"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    138.0884701,
+                    36.0761953
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "第28旅（前編）",
+                "name": "ぎん月"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    138.0902028,
+                    36.0759143
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "第28旅（前編）",
+                "name": "甲州道中・中山道合流之地"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    138.0903172,
+                    36.0748867
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "第28旅（前編）",
+                "name": "鳥居"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    138.0912391,
+                    36.0753487
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "第28旅（前編）",
+                "name": "諏訪大社 下社 秋宮"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    138.090985,
+                    36.0752022
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "第28旅（前編）",
+                "name": "吽像（狛犬）"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    138.0907196,
+                    36.0748088
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "第28旅（前編）",
+                "name": "御神湯"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    138.1022627,
+                    36.0657698
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "第28旅（前編）",
+                "name": "諏訪湖"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    138.1061045,
+                    36.0620891
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "第28旅（前編）",
+                "name": "だから"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    137.9458606,
+                    36.1153249
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "第28旅（後編）",
+                "name": "そば処 桔梗 塩尻駅"
             },
             "type": "Feature"
         }

@@ -393,6 +393,39 @@
       "books": null,
       "subtitle": "ソノ場所ヘ至ル",
       "camera": {"zoom": 11, "center": [134.442508, 34.0439206]}
+    },
+    "TJ27": {
+      "index": 27,
+      "id": "TJ27",
+      "key": "第27旅",
+      "title": "第27旅 愛媛",
+      "place": "今治市",
+      "published": "2023, 電撃マオウ 3月号",
+      "books": null,
+      "subtitle": " さあ歩こうまだ見ぬ地を",
+      "camera": {"zoom": 12, "center": [132.9771,34.105]}
+    },
+    "TJ28-1": {
+      "index": 28,
+      "id": "TJ28-1",
+      "key": "第28旅",
+      "title": "第28旅 長野前編",
+      "place": "諏訪郡下諏訪町",
+      "published": "2023, 電撃マオウ 4月号",
+      "books": null,
+      "subtitle": "すわ！後輩三日会わざるば",
+      "camera": {"zoom": 13.5, "center": [138.1,36.077]}
+    },
+    "TJ28-2": {
+      "index": 28,
+      "id": "TJ28-2",
+      "key": "第28旅",
+      "title": "第28旅 長野後編",
+      "place": "長野県塩尻市",
+      "published": "2023, 電撃マオウ 5月号",
+      "books": null,
+      "subtitle": "物語を紡ぐのはきっと",
+      "camera": {"zoom": 11, "center": [138.02,36.12]}
     }
   },
   "extra_stories": {
@@ -490,7 +523,7 @@
       "books": null
     },
     "TJX91": {
-      "id": "TJX",
+      "id": "TJX91",
       "title": "18旅で有ったかもしれないNGシーン風",
       "place": "千代田区",
       "published": "?",
@@ -498,7 +531,7 @@
       "url": "https://comic-walker.com/viewer/?tw=2&dlcl=ja&cid=KDCW_AM01200853010085_68"
     },
     "TJX92": {
-      "id": "TJX",
+      "id": "TJX92",
       "title": "次にくるマンガ大賞2021ノミネートされました！",
       "place": "渋川市",
       "published": "?",
@@ -506,7 +539,7 @@
       "url": "https://comic-walker.com/viewer/?tw=2&dlcl=ja&cid=KDCW_AM01200853010089_68"
     },
     "TJX93": {
-      "id": "TJX",
+      "id": "TJX93",
       "title": "コミックス6巻発売告知",
       "place": "高知市",
       "published": "?",
