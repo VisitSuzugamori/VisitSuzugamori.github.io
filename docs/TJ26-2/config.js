@@ -217,7 +217,7 @@ const config = {
       title: '神山温泉バス停',
       image: '',
       tweet_id: '',
-      description: '<p>   徳島県名西郡 神山町 </p> <p><img alt="upload" src="https://live.staticflickr.com/5548/30764793501_ec5766dd42_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=33.9740109&amp;lon=134.3701509&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【upload】 by kawacho</p>',
+      description: '<p>   徳島県名西郡 神山町 </p> <p><img alt="if_p_036" src="https://live.staticflickr.com/3679/33442218031_46e5299288_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=33.9740109&amp;lon=134.3701509&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【if_p_036】 by Kamiyama Archive Project</p>',
       location: {
         center: [134.3701509, 33.9740109],
         zoom: 14,
@@ -277,7 +277,7 @@ const config = {
       title: '大日寺',
       image: '',
       tweet_id: '',
-      description: '<p>   徳島県徳島市 一宮町西丁263</p> <p><img alt="十三番札所 大日寺" src="https://live.staticflickr.com/65535/50098379668_cfd855e4ec_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.0380181&amp;lon=134.4628565&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【十三番札所 大日寺】 by JH1FJP</p>',
+      description: '<p>   徳島県徳島市 一宮町西丁263</p> <p><img alt="13" src="https://live.staticflickr.com/65535/50059125781_bab75afb06_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=34.0380181&amp;lon=134.4628565&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【13】 by aldoschwartz01</p>',
       location: {
         center: [134.4628565, 34.0380181],
         zoom: 14,

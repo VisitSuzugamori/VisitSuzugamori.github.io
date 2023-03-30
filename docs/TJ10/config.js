@@ -37,7 +37,7 @@ const config = {
       title: '萱野茶屋',
       image: '',
       tweet_id: '',
-      description: '<p>3巻 P32  青森県青森市 大字横内字八重菊62</p> <p><img alt="IMG_3752.jpg" src="https://live.staticflickr.com/4673/25923775428_b96acc1cea_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=40.7057577&amp;lon=140.8223047&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【IMG_3752.jpg】 by fasion</p>',
+      description: '<p>3巻 P32  青森県青森市 大字横内字八重菊62</p> <p><img alt="" src="https://live.staticflickr.com/7886/47193495301_8710185f1e_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=40.7057577&amp;lon=140.8223047&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【】 by mhrs.jp</p>',
       location: {
         center: [140.8223047, 40.7057577],
         zoom: 14,
@@ -117,7 +117,7 @@ const config = {
       title: '三途の川',
       image: '',
       tweet_id: '',
-      description: '<p>3巻 P49  青森県むつ市 </p> <p><img alt="Mutsu Oct 17 55" src="https://live.staticflickr.com/566/22580331092_51a11811f9_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=41.3260657&amp;lon=141.0962272&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Mutsu Oct 17 55】 by tculek</p>',
+      description: '<p>3巻 P49  青森県むつ市 </p> <p><img alt="Sanzu no Kawa" src="https://live.staticflickr.com/8804/18253098982_9ee3a980c3_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=41.3260657&amp;lon=141.0962272&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Sanzu no Kawa】 by mega_midget_racer</p>',
       location: {
         center: [141.0962272, 41.3260657],
         zoom: 14,
@@ -157,7 +157,7 @@ const config = {
       title: '宇曽利山湖 極楽浜',
       image: '',
       tweet_id: '',
-      description: '<p>3巻 P51  青森県むつ市 </p> <p><img alt="æ¥µæ¥½æµ" src="https://live.staticflickr.com/5449/30300212020_093342e31e_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=41.3264966&amp;lon=141.086011&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【æ¥µæ¥½æµ】 by kanata-t</p>',
+      description: '<p>3巻 P51  青森県むつ市 </p> <p><img alt="恐山" src="https://live.staticflickr.com/65535/50327664441_0856db8fa1_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=41.3264966&amp;lon=141.086011&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【恐山】 by himeti</p>',
       location: {
         center: [141.086011, 41.3264966],
         zoom: 14,
@@ -197,7 +197,7 @@ const config = {
       title: '恐山冷水',
       image: '',
       tweet_id: '',
-      description: '<p>3巻 P55  青森県むつ市 </p> <p><img alt="Hiyamizu" src="https://live.staticflickr.com/3650/3506049220_e0c97a378c_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=41.3145659&amp;lon=141.1264919&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Hiyamizu】 by tsuda</p>',
+      description: '<p>3巻 P55  青森県むつ市 </p> <p><img alt="Osorezan Hiyamizu springs" src="https://live.staticflickr.com/7756/18265270976_87be1e78a7_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=41.3145659&amp;lon=141.1264919&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Osorezan Hiyamizu springs】 by mega_midget_racer</p>',
       location: {
         center: [141.1264919, 41.3145659],
         zoom: 14,

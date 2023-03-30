@@ -156,8 +156,8 @@ const config = {
       hidden: false,
       title: 'はりまや橋',
       image: '',
-      tweet_id: '1637406484945600514',
-      description: '<p>6巻 P80  高知県高知市 はりまや町一丁目1</p><div class="tweetContainer" id="tweet1637406484945600514"></div> ',
+      tweet_id: '1638553488371113987',
+      description: '<p>6巻 P80  高知県高知市 はりまや町一丁目1</p><div class="tweetContainer" id="tweet1638553488371113987"></div> ',
       location: {
         center: [133.5426569, 33.5599438],
         zoom: 14,
@@ -177,7 +177,7 @@ const config = {
       title: '桟橋通五丁目駅',
       image: '',
       tweet_id: '',
-      description: '<p>6巻 P80  高知県高知市 桟橋通五丁目3</p> <p><img alt="Kōchi" src="https://live.staticflickr.com/65535/48684589953_c04e89e743_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=33.5404756&amp;lon=133.5527511&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Kōchi】 by Jan Dreesen</p>',
+      description: '<p>6巻 P80  高知県高知市 桟橋通五丁目3</p> <p><img alt="Kōchi" src="https://live.staticflickr.com/65535/48685102857_1e704d90f3_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=33.5404756&amp;lon=133.5527511&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Kōchi】 by Jan Dreesen</p>',
       location: {
         center: [133.5527511, 33.5404756],
         zoom: 14,
@@ -357,7 +357,7 @@ const config = {
       title: '民宿まさご',
       image: '',
       tweet_id: '',
-      description: '<p>6巻 P93  高知県高知市 浦戸18</p> <p><img alt="Katsurahama (桂浜)" src="https://live.staticflickr.com/65535/52068707751_93b766d0ca_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=33.4991881&amp;lon=133.5721656&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Katsurahama (桂浜)】 by pantkiewicz</p>',
+      description: '<p>6巻 P93  高知県高知市 浦戸18</p> <p><img alt="Urado Castle ruins (浦戸城跡)" src="https://live.staticflickr.com/65535/52068951434_4fef6054c5_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=33.4991881&amp;lon=133.5721656&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Urado Castle ruins (浦戸城跡)】 by pantkiewicz</p>',
       location: {
         center: [133.5721656, 33.4991881],
         zoom: 14,

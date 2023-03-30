@@ -17,7 +17,7 @@ const config = {
       title: '角川第2本社ビル',
       image: '',
       tweet_id: '',
-      description: '<p>7巻 P97  東京都千代田区 富士見二丁目13</p> <p><img alt="" src="https://live.staticflickr.com/65535/52039372571_d66d54a179_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.6978467&amp;lon=139.7442465&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【】 by satty sky</p>',
+      description: '<p>7巻 P97  東京都千代田区 富士見二丁目13</p> <p><img alt="JP029 Awajicho" src="https://live.staticflickr.com/65535/51430924232_96879b9a13_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.6978467&amp;lon=139.7442465&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【JP029 Awajicho】 by @oyajimbo</p>',
       location: {
         center: [139.7442465, 35.6978467],
         zoom: 14,
@@ -37,7 +37,7 @@ const config = {
       title: 'オホーツクの塔',
       image: '',
       tweet_id: '',
-      description: '<p>7巻 P99  北海道網走市 </p> <p><img alt="能取岬-日本北海道之旅" src="https://live.staticflickr.com/3919/14508477371_f331b652e5_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=44.1106685&amp;lon=144.2473548&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【能取岬-日本北海道之旅】 by Tommy19H</p>',
+      description: '<p>7巻 P99  北海道網走市 </p> <p><img alt="L1009111" src="https://live.staticflickr.com/1897/43515868224_95bb4c0496_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=44.1106685&amp;lon=144.2473548&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【L1009111】 by bluepointchen</p>',
       location: {
         center: [144.2473548, 44.1106685],
         zoom: 14,
@@ -57,7 +57,7 @@ const config = {
       title: '能取の荘 かがり屋',
       image: '',
       tweet_id: '',
-      description: '<p>7巻 P100  北海道網走市 </p> <p><img alt="coral grass" src="https://live.staticflickr.com/65535/50298578861_724ebdc9a5_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=44.0124153&amp;lon=144.1156977&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【coral grass】 by xd_travel</p>',
+      description: '<p>7巻 P100  北海道網走市 </p> <p><img alt="Black Eared Kite - Milvus migrans" src="https://live.staticflickr.com/65535/52774550021_c43cc990e7_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=44.0124153&amp;lon=144.1156977&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Black Eared Kite - Milvus migrans】 by adn_no</p>',
       location: {
         center: [144.1156977, 44.0124153],
         zoom: 14,
@@ -117,7 +117,7 @@ const config = {
       title: '能取岬灯台',
       image: '',
       tweet_id: '',
-      description: '<p>7巻 P108  北海道網走市 </p> <p><img alt="能取岬" src="https://live.staticflickr.com/65535/52335965066_95b6ac84f7_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=44.1121076&amp;lon=144.2432936&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【能取岬】 by kanata-t</p>',
+      description: '<p>7巻 P108  北海道網走市 </p> <p><img alt="DSC_0222" src="https://live.staticflickr.com/65535/51373902734_fa09d51cd3_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=44.1121076&amp;lon=144.2432936&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【DSC_0222】 by ylefou2004</p>',
       location: {
         center: [144.2432936, 44.1121076],
         zoom: 14,
@@ -136,8 +136,8 @@ const config = {
       hidden: false,
       title: '天に続く道スタート地点',
       image: '',
-      tweet_id: '1637671502110679043',
-      description: '<p>7巻 P112  北海道斜里郡 斜里町 </p><div class="tweetContainer" id="tweet1637671502110679043"></div> ',
+      tweet_id: '1641342904701427712',
+      description: '<p>7巻 P112  北海道斜里郡 斜里町 </p><div class="tweetContainer" id="tweet1641342904701427712"></div> ',
       location: {
         center: [144.7987065, 43.9067705],
         zoom: 14,
@@ -177,7 +177,7 @@ const config = {
       title: '道の駅 うとろ・シリエトク',
       image: '',
       tweet_id: '',
-      description: '<p>7巻 P115  北海道斜里郡 斜里町 </p> <p><img alt="36222-Shiretoko" src="https://live.staticflickr.com/65535/49140707982_12234d6091_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=44.069034&amp;lon=144.990695&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【36222-Shiretoko】 by xiquinhosilva</p>',
+      description: '<p>7巻 P115  北海道斜里郡 斜里町 </p> <p><img alt="ウトロ港" src="https://live.staticflickr.com/65535/50387289793_30abd477db_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=44.069034&amp;lon=144.990695&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【ウトロ港】 by Chitaka Chou</p>',
       location: {
         center: [144.990695, 44.069034],
         zoom: 14,
@@ -237,7 +237,7 @@ const config = {
       title: '羅臼岳',
       image: '',
       tweet_id: '',
-      description: '<p>7巻 P117  北海道斜里郡 斜里町 </p> <p><img alt="Sunrise over Mt. Rausu" src="https://live.staticflickr.com/65535/50102936191_81a173f10b_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=44.0757686&amp;lon=145.1221149&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Sunrise over Mt. Rausu】 by hermitvoita</p>',
+      description: '<p>7巻 P117  北海道斜里郡 斜里町 </p> <p><img alt="Sunset over Mt. Rausu" src="https://live.staticflickr.com/65535/50103164102_ea594a813c_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=44.0757686&amp;lon=145.1221149&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【Sunset over Mt. Rausu】 by hermitvoita</p>',
       location: {
         center: [145.1221149, 44.0757686],
         zoom: 14,
@@ -296,8 +296,8 @@ const config = {
       hidden: false,
       title: '中湧別駅跡',
       image: '',
-      tweet_id: '',
-      description: '<p>7巻 P123  北海道紋別郡 湧別町 中湧別南町</p> <p><img alt="IMG_0225" src="https://live.staticflickr.com/65535/51392441149_1401586a82_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=44.1853551&amp;lon=143.5957829&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【IMG_0225】 by tnoma</p>',
+      tweet_id: '1640221677450678274',
+      description: '<p>7巻 P123  北海道紋別郡 湧別町 中湧別南町</p><div class="tweetContainer" id="tweet1640221677450678274"></div> ',
       location: {
         center: [143.5957829, 44.1853551],
         zoom: 14,
@@ -337,7 +337,7 @@ const config = {
       title: '道々橋八幡神社',
       image: '',
       tweet_id: '',
-      description: '<p>7巻 P126  東京都大田区 久が原一丁目7</p> <p><img alt="wired evening" src="https://live.staticflickr.com/107/312790259_8951d826ef_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.5857414&amp;lon=139.69341&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【wired evening】 by OiMax</p>',
+      description: '<p>7巻 P126  東京都大田区 久が原一丁目7</p> <p><img alt="IMG_1961" src="https://live.staticflickr.com/7042/14058398356_c15ba22f7f_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=35.5857414&amp;lon=139.69341&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【IMG_1961】 by smallcake1982</p>',
       location: {
         center: [139.69341, 35.5857414],
         zoom: 14,

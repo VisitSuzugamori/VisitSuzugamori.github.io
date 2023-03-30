@@ -16,8 +16,8 @@ const config = {
       hidden: false,
       title: '函館駅',
       image: '',
-      tweet_id: '1636944074702741504',
-      description: '<p>7巻 P4,20  北海道函館市 若松町12</p><div class="tweetContainer" id="tweet1636944074702741504"></div> ',
+      tweet_id: '1640843649335402497',
+      description: '<p>7巻 P4,20  北海道函館市 若松町12</p><div class="tweetContainer" id="tweet1640843649335402497"></div> ',
       location: {
         center: [140.7264741, 41.7737804],
         zoom: 14,
@@ -36,8 +36,8 @@ const config = {
       hidden: false,
       title: '新函館北斗駅',
       image: '',
-      tweet_id: '1636897147260944385',
-      description: '<p>7巻 P6  北海道北斗市 市渡一丁目1</p><div class="tweetContainer" id="tweet1636897147260944385"></div> ',
+      tweet_id: '1640199377976262658',
+      description: '<p>7巻 P6  北海道北斗市 市渡一丁目1</p><div class="tweetContainer" id="tweet1640199377976262658"></div> ',
       location: {
         center: [140.6483763, 41.9046983],
         zoom: 14,
@@ -157,7 +157,7 @@ const config = {
       title: '金森赤レンガ倉庫',
       image: '',
       tweet_id: '',
-      description: '<p>7巻 P24  北海道函館市 豊川町11</p> <p><img alt="76" src="https://live.staticflickr.com/65535/52590821649_e4310fa45b_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=41.7673531&amp;lon=140.7176349&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【76】 by Otis Yang</p>',
+      description: '<p>7巻 P24  北海道函館市 豊川町11</p> <p><img alt="" src="https://live.staticflickr.com/65535/52608194414_c1ed74f450_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=41.7673531&amp;lon=140.7176349&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【】 by Jean Wu 2013</p>',
       location: {
         center: [140.7176349, 41.7673531],
         zoom: 14,
@@ -177,7 +177,7 @@ const config = {
       title: 'カリフォルニアベイビー',
       image: '',
       tweet_id: '',
-      description: '<p>7巻 P24  北海道函館市 末広町23</p> <p><img alt="74a" src="https://live.staticflickr.com/65535/52590555861_b3221388ee_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=41.7659929&amp;lon=140.7146335&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【74a】 by Otis Yang</p>',
+      description: '<p>7巻 P24  北海道函館市 末広町23</p> <p><img alt="75a" src="https://live.staticflickr.com/65535/52590069227_cf56337fc8_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=41.7659929&amp;lon=140.7146335&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【75a】 by Otis Yang</p>',
       location: {
         center: [140.7146335, 41.7659929],
         zoom: 14,
@@ -197,7 +197,7 @@ const config = {
       title: '二十間坂',
       image: '',
       tweet_id: '',
-      description: '<p>7巻 P25  北海道函館市 末広町16</p> <p><img alt="函館" src="https://live.staticflickr.com/65535/51033844038_e4658c4a1e_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=41.7643549&amp;lon=140.7161274&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【函館】 by Chitaka Chou</p>',
+      description: '<p>7巻 P25  北海道函館市 末広町16</p> <p><img alt="DSC_0504" src="https://live.staticflickr.com/65535/51373178361_b4102b2024_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=41.7643549&amp;lon=140.7161274&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【DSC_0504】 by ylefou2004</p>',
       location: {
         center: [140.7161274, 41.7643549],
         zoom: 14,
@@ -237,7 +237,7 @@ const config = {
       title: '函館山ロープウェイ山麓駅',
       image: '',
       tweet_id: '',
-      description: '<p>7巻 P26  北海道函館市 元町19</p> <p><img alt="IMGP0281" src="https://live.staticflickr.com/65535/50691134313_43c6e64516_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=41.7609078&amp;lon=140.7143007&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【IMGP0281】 by de98lip</p>',
+      description: '<p>7巻 P26  北海道函館市 元町19</p> <p><img alt="_DSC2833" src="https://live.staticflickr.com/65535/51568966396_d672f1c502_z.jpg"></p><p>photo from <a rel="noopener" href="https://www.flickr.com/search/?lat=41.7609078&amp;lon=140.7143007&amp;radius=0.1&amp;has_geo=1&amp;view_all=1">Flickr</a>【_DSC2833】 by de98lip</p>',
       location: {
         center: [140.7143007, 41.7609078],
         zoom: 14,

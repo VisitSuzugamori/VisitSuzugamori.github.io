@@ -336,8 +336,8 @@ const config = {
       hidden: false,
       title: '甲府駅',
       image: '',
-      tweet_id: '1636935855326781440',
-      description: '<p>8巻 P83  山梨県甲府市 丸の内一丁目3</p><div class="tweetContainer" id="tweet1636935855326781440"></div> ',
+      tweet_id: '1638733525758390274',
+      description: '<p>8巻 P83  山梨県甲府市 丸の内一丁目3</p><div class="tweetContainer" id="tweet1638733525758390274"></div> ',
       location: {
         center: [138.5690631, 35.6670981],
         zoom: 14,
